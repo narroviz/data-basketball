@@ -1,0 +1,2379 @@
+id,home_team,away_team,win,loss,game_number,date,year
+Atlanta Hawks,Atlanta Hawks,Indiana Pacers,0,1,1,815374800.0,1996
+Atlanta Hawks,Atlanta Hawks,Orlando Magic,1,1,2,815461200.0,1996
+Atlanta Hawks,Utah Jazz,Atlanta Hawks,1,2,3,815634000.0,1996
+Atlanta Hawks,Los Angeles Clippers,Atlanta Hawks,2,2,4,815806800.0,1996
+Atlanta Hawks,Golden State Warriors,Atlanta Hawks,3,2,5,815893200.0,1996
+Atlanta Hawks,Dallas Mavericks,Atlanta Hawks,4,2,6,816066000.0,1996
+Atlanta Hawks,Atlanta Hawks,Charlotte Hornets (Original),5,2,7,816325200.0,1996
+Atlanta Hawks,Atlanta Hawks,Miami Heat,5,3,8,816584400.0,1996
+Atlanta Hawks,Sacramento Kings,Atlanta Hawks,6,3,9,816757200.0,1996
+Atlanta Hawks,Denver Nuggets,Atlanta Hawks,6,4,10,816930000.0,1996
+Atlanta Hawks,Phoenix Suns,Atlanta Hawks,6,5,11,817016400.0,1996
+Atlanta Hawks,Atlanta Hawks,Toronto Raptors,7,5,12,817275600.0,1996
+Atlanta Hawks,New York Knicks,Atlanta Hawks,8,5,13,817534800.0,1996
+Atlanta Hawks,Atlanta Hawks,Philadelphia 76ers,9,5,14,817621200.0,1996
+Atlanta Hawks,Atlanta Hawks,Dallas Mavericks,9,6,15,817794000.0,1996
+Atlanta Hawks,Detroit Pistons,Atlanta Hawks,9,7,16,817880400.0,1996
+Atlanta Hawks,Washington Bullets,Atlanta Hawks,9,8,17,818226000.0,1996
+Atlanta Hawks,Atlanta Hawks,San Antonio Spurs,9,9,18,818312400.0,1996
+Atlanta Hawks,Atlanta Hawks,New York Knicks,9,10,19,818485200.0,1996
+Atlanta Hawks,Boston Celtics,Atlanta Hawks,10,10,20,818571600.0,1996
+Atlanta Hawks,Atlanta Hawks,Minnesota Timberwolves,10,11,21,818744400.0,1996
+Atlanta Hawks,Atlanta Hawks,Chicago Bulls,10,12,22,818917200.0,1996
+Atlanta Hawks,Atlanta Hawks,Denver Nuggets,11,12,23,819090000.0,1996
+Atlanta Hawks,Atlanta Hawks,New Jersey Nets,12,12,24,819608400.0,1996
+Atlanta Hawks,Milwaukee Bucks,Atlanta Hawks,12,13,25,819694800.0,1996
+Atlanta Hawks,Atlanta Hawks,Los Angeles Clippers,13,13,26,819954000.0,1996
+Atlanta Hawks,Atlanta Hawks,Golden State Warriors,13,14,27,820213200.0,1996
+Atlanta Hawks,Chicago Bulls,Atlanta Hawks,13,15,28,820299600.0,1996
+Atlanta Hawks,Atlanta Hawks,Seattle Supersonics,13,16,29,820558800.0,1996
+Atlanta Hawks,Atlanta Hawks,Toronto Raptors,14,16,30,820731600.0,1996
+Atlanta Hawks,Charlotte Hornets (Original),Atlanta Hawks,14,17,31,820904400.0,1996
+Atlanta Hawks,Atlanta Hawks,Sacramento Kings,15,17,32,821163600.0,1996
+Atlanta Hawks,Toronto Raptors,Atlanta Hawks,16,17,33,821336400.0,1996
+Atlanta Hawks,Atlanta Hawks,Boston Celtics,17,17,34,821509200.0,1996
+Atlanta Hawks,Atlanta Hawks,Detroit Pistons,18,17,35,821682000.0,1996
+Atlanta Hawks,Atlanta Hawks,Indiana Pacers,19,17,36,821854800.0,1996
+Atlanta Hawks,Philadelphia 76ers,Atlanta Hawks,20,17,37,822027600.0,1996
+Atlanta Hawks,Atlanta Hawks,Miami Heat,21,17,38,822114000.0,1996
+Atlanta Hawks,Atlanta Hawks,Houston Rockets,22,17,39,822286800.0,1996
+Atlanta Hawks,Cleveland Cavaliers,Atlanta Hawks,23,17,40,822373200.0,1996
+Atlanta Hawks,Atlanta Hawks,Orlando Magic,24,17,41,822632400.0,1996
+Atlanta Hawks,Indiana Pacers,Atlanta Hawks,24,18,42,822978000.0,1996
+Atlanta Hawks,Atlanta Hawks,Phoenix Suns,24,19,43,823064400.0,1996
+Atlanta Hawks,Orlando Magic,Atlanta Hawks,24,20,44,823237200.0,1996
+Atlanta Hawks,Atlanta Hawks,Charlotte Hornets (Original),25,20,45,823410000.0,1996
+Atlanta Hawks,Miami Heat,Atlanta Hawks,25,21,46,823669200.0,1996
+Atlanta Hawks,Atlanta Hawks,Washington Bullets,26,21,47,823755600.0,1996
+Atlanta Hawks,Los Angeles Lakers,Atlanta Hawks,26,22,48,824274000.0,1996
+Atlanta Hawks,Vancouver Grizzlies,Atlanta Hawks,27,22,49,824446800.0,1996
+Atlanta Hawks,Portland Trail Blazers,Atlanta Hawks,28,22,50,824619600.0,1996
+Atlanta Hawks,Seattle Supersonics,Atlanta Hawks,28,23,51,824706000.0,1996
+Atlanta Hawks,Atlanta Hawks,Chicago Bulls,28,24,52,824965200.0,1996
+Atlanta Hawks,New York Knicks,Atlanta Hawks,29,24,53,825051600.0,1996
+Atlanta Hawks,Minnesota Timberwolves,Atlanta Hawks,30,24,54,825224400.0,1996
+Atlanta Hawks,Atlanta Hawks,Portland Trail Blazers,31,24,55,825483600.0,1996
+Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,32,24,56,825656400.0,1996
+Atlanta Hawks,Milwaukee Bucks,Atlanta Hawks,32,25,57,825742800.0,1996
+Atlanta Hawks,Detroit Pistons,Atlanta Hawks,32,26,58,825915600.0,1996
+Atlanta Hawks,Cleveland Cavaliers,Atlanta Hawks,33,26,59,826174800.0,1996
+Atlanta Hawks,Atlanta Hawks,Milwaukee Bucks,34,26,60,826261200.0,1996
+Atlanta Hawks,Washington Bullets,Atlanta Hawks,34,27,61,826434000.0,1996
+Atlanta Hawks,Atlanta Hawks,Utah Jazz,35,27,62,826606800.0,1996
+Atlanta Hawks,Houston Rockets,Atlanta Hawks,35,28,63,826779600.0,1996
+Atlanta Hawks,San Antonio Spurs,Atlanta Hawks,35,29,64,826952400.0,1996
+Atlanta Hawks,Atlanta Hawks,Vancouver Grizzlies,36,29,65,827298000.0,1996
+Atlanta Hawks,Charlotte Hornets (Original),Atlanta Hawks,37,29,66,827470800.0,1996
+Atlanta Hawks,Atlanta Hawks,Detroit Pistons,38,29,67,827557200.0,1996
+Atlanta Hawks,Toronto Raptors,Atlanta Hawks,39,29,68,827816400.0,1996
+Atlanta Hawks,Chicago Bulls,Atlanta Hawks,39,30,69,827989200.0,1996
+Atlanta Hawks,Atlanta Hawks,Los Angeles Lakers,39,31,70,828075600.0,1996
+Atlanta Hawks,Boston Celtics,Atlanta Hawks,40,31,71,828248400.0,1996
+Atlanta Hawks,Atlanta Hawks,Boston Celtics,41,31,72,828421200.0,1996
+Atlanta Hawks,Atlanta Hawks,Washington Bullets,41,32,73,828594000.0,1996
+Atlanta Hawks,New Jersey Nets,Atlanta Hawks,42,32,74,828680400.0,1996
+Atlanta Hawks,Atlanta Hawks,Philadelphia 76ers,42,33,75,828766800.0,1996
+Atlanta Hawks,Indiana Pacers,Atlanta Hawks,42,34,76,828936000.0,1996
+Atlanta Hawks,Atlanta Hawks,Milwaukee Bucks,43,34,77,829281600.0,1996
+Atlanta Hawks,New Jersey Nets,Atlanta Hawks,44,34,78,829454400.0,1996
+Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,44,35,79,829627200.0,1996
+Atlanta Hawks,Orlando Magic,Atlanta Hawks,44,36,80,829800000.0,1996
+Atlanta Hawks,Atlanta Hawks,New Jersey Nets,45,36,81,829972800.0,1996
+Atlanta Hawks,Miami Heat,Atlanta Hawks,46,36,82,830059200.0,1996
+Boston Celtics,Boston Celtics,Milwaukee Bucks,0,1,1,815374800.0,1996
+Boston Celtics,Chicago Bulls,Boston Celtics,0,2,2,815461200.0,1996
+Boston Celtics,Boston Celtics,Phoenix Suns,1,2,3,815806800.0,1996
+Boston Celtics,Boston Celtics,Orlando Magic,1,3,4,815979600.0,1996
+Boston Celtics,Boston Celtics,Utah Jazz,1,4,5,816411600.0,1996
+Boston Celtics,Boston Celtics,Washington Bullets,2,4,6,816584400.0,1996
+Boston Celtics,Milwaukee Bucks,Boston Celtics,3,4,7,816670800.0,1996
+Boston Celtics,Boston Celtics,Houston Rockets,3,5,8,816843600.0,1996
+Boston Celtics,Charlotte Hornets (Original),Boston Celtics,4,5,9,817016400.0,1996
+Boston Celtics,Boston Celtics,Golden State Warriors,4,6,10,817189200.0,1996
+Boston Celtics,Boston Celtics,Charlotte Hornets (Original),4,7,11,817362000.0,1996
+Boston Celtics,Boston Celtics,Detroit Pistons,5,7,12,817621200.0,1996
+Boston Celtics,Boston Celtics,New Jersey Nets,5,8,13,817794000.0,1996
+Boston Celtics,Washington Bullets,Boston Celtics,5,9,14,817880400.0,1996
+Boston Celtics,Boston Celtics,Miami Heat,6,9,15,818053200.0,1996
+Boston Celtics,Miami Heat,Boston Celtics,7,9,16,818226000.0,1996
+Boston Celtics,Philadelphia 76ers,Boston Celtics,8,9,17,818485200.0,1996
+Boston Celtics,Boston Celtics,Atlanta Hawks,8,10,18,818571600.0,1996
+Boston Celtics,Toronto Raptors,Boston Celtics,9,10,19,818744400.0,1996
+Boston Celtics,Boston Celtics,Philadelphia 76ers,10,10,20,818830800.0,1996
+Boston Celtics,Boston Celtics,Toronto Raptors,11,10,21,819003600.0,1996
+Boston Celtics,Boston Celtics,Chicago Bulls,11,11,22,819262800.0,1996
+Boston Celtics,Charlotte Hornets (Original),Boston Celtics,11,12,23,819522000.0,1996
+Boston Celtics,Boston Celtics,Minnesota Timberwolves,12,12,24,819608400.0,1996
+Boston Celtics,Los Angeles Lakers,Boston Celtics,12,13,25,819954000.0,1996
+Boston Celtics,Portland Trail Blazers,Boston Celtics,12,14,26,820040400.0,1996
+Boston Celtics,Seattle Supersonics,Boston Celtics,12,15,27,820213200.0,1996
+Boston Celtics,Vancouver Grizzlies,Boston Celtics,12,16,28,820299600.0,1996
+Boston Celtics,Boston Celtics,Portland Trail Blazers,12,17,29,820645200.0,1996
+Boston Celtics,Boston Celtics,Cleveland Cavaliers,13,17,30,820818000.0,1996
+Boston Celtics,Boston Celtics,Dallas Mavericks,13,18,31,820990800.0,1996
+Boston Celtics,New York Knicks,Boston Celtics,13,19,32,821163600.0,1996
+Boston Celtics,Boston Celtics,Sacramento Kings,14,19,33,821250000.0,1996
+Boston Celtics,Boston Celtics,New York Knicks,14,20,34,821422800.0,1996
+Boston Celtics,Atlanta Hawks,Boston Celtics,14,21,35,821509200.0,1996
+Boston Celtics,San Antonio Spurs,Boston Celtics,14,22,36,821768400.0,1996
+Boston Celtics,Houston Rockets,Boston Celtics,15,22,37,821941200.0,1996
+Boston Celtics,Dallas Mavericks,Boston Celtics,15,23,38,822027600.0,1996
+Boston Celtics,Toronto Raptors,Boston Celtics,15,24,39,822200400.0,1996
+Boston Celtics,Boston Celtics,Los Angeles Lakers,15,25,40,822459600.0,1996
+Boston Celtics,Boston Celtics,Indiana Pacers,15,26,41,822632400.0,1996
+Boston Celtics,Orlando Magic,Boston Celtics,15,27,42,822978000.0,1996
+Boston Celtics,Boston Celtics,Vancouver Grizzlies,16,27,43,823064400.0,1996
+Boston Celtics,Indiana Pacers,Boston Celtics,16,28,44,823237200.0,1996
+Boston Celtics,Miami Heat,Boston Celtics,17,28,45,823323600.0,1996
+Boston Celtics,Cleveland Cavaliers,Boston Celtics,17,29,46,823582800.0,1996
+Boston Celtics,Boston Celtics,San Antonio Spurs,17,30,47,823669200.0,1996
+Boston Celtics,Los Angeles Clippers,Boston Celtics,18,30,48,824187600.0,1996
+Boston Celtics,Golden State Warriors,Boston Celtics,18,31,49,824274000.0,1996
+Boston Celtics,Sacramento Kings,Boston Celtics,19,31,50,824446800.0,1996
+Boston Celtics,Denver Nuggets,Boston Celtics,19,32,51,824619600.0,1996
+Boston Celtics,Utah Jazz,Boston Celtics,19,33,52,824792400.0,1996
+Boston Celtics,Phoenix Suns,Boston Celtics,19,34,53,824878800.0,1996
+Boston Celtics,New Jersey Nets,Boston Celtics,19,35,54,825224400.0,1996
+Boston Celtics,Boston Celtics,Indiana Pacers,19,36,55,825310800.0,1996
+Boston Celtics,Boston Celtics,Charlotte Hornets (Original),20,36,56,825483600.0,1996
+Boston Celtics,Boston Celtics,Seattle Supersonics,20,37,57,825656400.0,1996
+Boston Celtics,Chicago Bulls,Boston Celtics,20,38,58,825742800.0,1996
+Boston Celtics,Boston Celtics,Milwaukee Bucks,21,38,59,825915600.0,1996
+Boston Celtics,Boston Celtics,Los Angeles Clippers,22,38,60,826088400.0,1996
+Boston Celtics,Boston Celtics,Cleveland Cavaliers,22,39,61,826261200.0,1996
+Boston Celtics,Milwaukee Bucks,Boston Celtics,23,39,62,826434000.0,1996
+Boston Celtics,Boston Celtics,Philadelphia 76ers,24,39,63,826693200.0,1996
+Boston Celtics,Cleveland Cavaliers,Boston Celtics,24,40,64,826779600.0,1996
+Boston Celtics,Boston Celtics,New Jersey Nets,25,40,65,827038800.0,1996
+Boston Celtics,Boston Celtics,Orlando Magic,25,41,66,827298000.0,1996
+Boston Celtics,Boston Celtics,Denver Nuggets,26,41,67,827470800.0,1996
+Boston Celtics,Boston Celtics,Miami Heat,26,42,68,827643600.0,1996
+Boston Celtics,Indiana Pacers,Boston Celtics,26,43,69,827816400.0,1996
+Boston Celtics,Minnesota Timberwolves,Boston Celtics,27,43,70,827902800.0,1996
+Boston Celtics,Philadelphia 76ers,Boston Celtics,28,43,71,828075600.0,1996
+Boston Celtics,Boston Celtics,Atlanta Hawks,28,44,72,828248400.0,1996
+Boston Celtics,Atlanta Hawks,Boston Celtics,28,45,73,828421200.0,1996
+Boston Celtics,Orlando Magic,Boston Celtics,29,45,74,828594000.0,1996
+Boston Celtics,Boston Celtics,Detroit Pistons,30,45,75,828853200.0,1996
+Boston Celtics,New York Knicks,Boston Celtics,30,46,76,829022400.0,1996
+Boston Celtics,Boston Celtics,Washington Bullets,30,47,77,829108800.0,1996
+Boston Celtics,Boston Celtics,Toronto Raptors,31,47,78,829281600.0,1996
+Boston Celtics,Detroit Pistons,Boston Celtics,31,48,79,829454400.0,1996
+Boston Celtics,Washington Bullets,Boston Celtics,32,48,80,829713600.0,1996
+Boston Celtics,New Jersey Nets,Boston Celtics,33,48,81,829886400.0,1996
+Boston Celtics,Boston Celtics,New York Knicks,33,49,82,830059200.0,1996
+Charlotte Hornets (Original),Chicago Bulls,Charlotte Hornets (Original),0,1,1,815374800.0,1996
+Charlotte Hornets (Original),Charlotte Hornets (Original),Philadelphia 76ers,1,1,2,815461200.0,1996
+Charlotte Hornets (Original),Charlotte Hornets (Original),Detroit Pistons,2,1,3,815720400.0,1996
+Charlotte Hornets (Original),Washington Bullets,Charlotte Hornets (Original),2,2,4,815806800.0,1996
+Charlotte Hornets (Original),Philadelphia 76ers,Charlotte Hornets (Original),2,3,5,815979600.0,1996
+Charlotte Hornets (Original),Charlotte Hornets (Original),Toronto Raptors,3,3,6,816066000.0,1996
+Charlotte Hornets (Original),Atlanta Hawks,Charlotte Hornets (Original),3,4,7,816325200.0,1996
+Charlotte Hornets (Original),New Jersey Nets,Charlotte Hornets (Original),3,5,8,816411600.0,1996
+Charlotte Hornets (Original),Charlotte Hornets (Original),Seattle Supersonics,3,6,9,816584400.0,1996
+Charlotte Hornets (Original),San Antonio Spurs,Charlotte Hornets (Original),3,7,10,816670800.0,1996
+Charlotte Hornets (Original),Charlotte Hornets (Original),Boston Celtics,3,8,11,817016400.0,1996
+Charlotte Hornets (Original),Charlotte Hornets (Original),Vancouver Grizzlies,4,8,12,817189200.0,1996
+Charlotte Hornets (Original),Boston Celtics,Charlotte Hornets (Original),5,8,13,817362000.0,1996
+Charlotte Hornets (Original),Milwaukee Bucks,Charlotte Hornets (Original),6,8,14,817534800.0,1996
+Charlotte Hornets (Original),Charlotte Hornets (Original),New York Knicks,7,8,15,817621200.0,1996
+Charlotte Hornets (Original),Miami Heat,Charlotte Hornets (Original),7,9,16,817794000.0,1996
+Charlotte Hornets (Original),Houston Rockets,Charlotte Hornets (Original),7,10,17,817880400.0,1996
+Charlotte Hornets (Original),Charlotte Hornets (Original),Cleveland Cavaliers,8,10,18,818226000.0,1996
+Charlotte Hornets (Original),Orlando Magic,Charlotte Hornets (Original),8,11,19,818398800.0,1996
+Charlotte Hornets (Original),Charlotte Hornets (Original),Minnesota Timberwolves,9,11,20,818485200.0,1996
+Charlotte Hornets (Original),Utah Jazz,Charlotte Hornets (Original),9,12,21,818658000.0,1996
+Charlotte Hornets (Original),Phoenix Suns,Charlotte Hornets (Original),10,12,22,818744400.0,1996
+Charlotte Hornets (Original),Portland Trail Blazers,Charlotte Hornets (Original),10,13,23,818917200.0,1996
+Charlotte Hornets (Original),Los Angeles Clippers,Charlotte Hornets (Original),11,13,24,819090000.0,1996
+Charlotte Hornets (Original),Golden State Warriors,Charlotte Hornets (Original),11,14,25,819349200.0,1996
+Charlotte Hornets (Original),Charlotte Hornets (Original),Boston Celtics,12,14,26,819522000.0,1996
+Charlotte Hornets (Original),Charlotte Hornets (Original),Miami Heat,13,14,27,819694800.0,1996
+Charlotte Hornets (Original),Charlotte Hornets (Original),Los Angeles Clippers,13,15,28,820040400.0,1996
+Charlotte Hornets (Original),Charlotte Hornets (Original),Portland Trail Blazers,14,15,29,820213200.0,1996
+Charlotte Hornets (Original),Detroit Pistons,Charlotte Hornets (Original),14,16,30,820299600.0,1996
+Charlotte Hornets (Original),Charlotte Hornets (Original),Chicago Bulls,14,17,31,820731600.0,1996
+Charlotte Hornets (Original),Charlotte Hornets (Original),Atlanta Hawks,15,17,32,820904400.0,1996
+Charlotte Hornets (Original),Toronto Raptors,Charlotte Hornets (Original),16,17,33,821163600.0,1996
+Charlotte Hornets (Original),Charlotte Hornets (Original),Detroit Pistons,16,18,34,821336400.0,1996
+Charlotte Hornets (Original),Dallas Mavericks,Charlotte Hornets (Original),17,18,35,821509200.0,1996
+Charlotte Hornets (Original),Charlotte Hornets (Original),New Jersey Nets,17,19,36,821854800.0,1996
+Charlotte Hornets (Original),Miami Heat,Charlotte Hornets (Original),18,19,37,822027600.0,1996
+Charlotte Hornets (Original),Charlotte Hornets (Original),Golden State Warriors,18,20,38,822114000.0,1996
+Charlotte Hornets (Original),Charlotte Hornets (Original),Washington Bullets,19,20,39,822459600.0,1996
+Charlotte Hornets (Original),New Jersey Nets,Charlotte Hornets (Original),19,21,40,822632400.0,1996
+Charlotte Hornets (Original),Charlotte Hornets (Original),Philadelphia 76ers,20,21,41,822718800.0,1996
+Charlotte Hornets (Original),Charlotte Hornets (Original),Cleveland Cavaliers,21,21,42,822891600.0,1996
+Charlotte Hornets (Original),Charlotte Hornets (Original),Houston Rockets,21,22,43,823150800.0,1996
+Charlotte Hornets (Original),Atlanta Hawks,Charlotte Hornets (Original),21,23,44,823410000.0,1996
+Charlotte Hornets (Original),Charlotte Hornets (Original),San Antonio Spurs,21,24,45,823582800.0,1996
+Charlotte Hornets (Original),Charlotte Hornets (Original),Sacramento Kings,22,24,46,823755600.0,1996
+Charlotte Hornets (Original),Cleveland Cavaliers,Charlotte Hornets (Original),22,25,47,824187600.0,1996
+Charlotte Hornets (Original),Charlotte Hornets (Original),New York Knicks,23,25,48,824274000.0,1996
+Charlotte Hornets (Original),Charlotte Hornets (Original),Denver Nuggets,24,25,49,824446800.0,1996
+Charlotte Hornets (Original),Charlotte Hornets (Original),Milwaukee Bucks,25,25,50,824619600.0,1996
+Charlotte Hornets (Original),Charlotte Hornets (Original),Washington Bullets,26,25,51,824878800.0,1996
+Charlotte Hornets (Original),Washington Bullets,Charlotte Hornets (Original),27,25,52,825051600.0,1996
+Charlotte Hornets (Original),Charlotte Hornets (Original),Indiana Pacers,27,26,53,825138000.0,1996
+Charlotte Hornets (Original),Milwaukee Bucks,Charlotte Hornets (Original),28,26,54,825397200.0,1996
+Charlotte Hornets (Original),Boston Celtics,Charlotte Hornets (Original),28,27,55,825483600.0,1996
+Charlotte Hornets (Original),Minnesota Timberwolves,Charlotte Hornets (Original),28,28,56,825656400.0,1996
+Charlotte Hornets (Original),Indiana Pacers,Charlotte Hornets (Original),28,29,57,825829200.0,1996
+Charlotte Hornets (Original),Charlotte Hornets (Original),Orlando Magic,28,30,58,826002000.0,1996
+Charlotte Hornets (Original),Charlotte Hornets (Original),Dallas Mavericks,29,30,59,826174800.0,1996
+Charlotte Hornets (Original),Orlando Magic,Charlotte Hornets (Original),29,31,60,826261200.0,1996
+Charlotte Hornets (Original),Charlotte Hornets (Original),Utah Jazz,30,31,61,826693200.0,1996
+Charlotte Hornets (Original),Charlotte Hornets (Original),Toronto Raptors,31,31,62,826866000.0,1996
+Charlotte Hornets (Original),Charlotte Hornets (Original),Phoenix Suns,32,31,63,827038800.0,1996
+Charlotte Hornets (Original),Charlotte Hornets (Original),Indiana Pacers,33,31,64,827211600.0,1996
+Charlotte Hornets (Original),Toronto Raptors,Charlotte Hornets (Original),33,32,65,827298000.0,1996
+Charlotte Hornets (Original),Charlotte Hornets (Original),Atlanta Hawks,33,33,66,827470800.0,1996
+Charlotte Hornets (Original),Los Angeles Lakers,Charlotte Hornets (Original),34,33,67,827643600.0,1996
+Charlotte Hornets (Original),Denver Nuggets,Charlotte Hornets (Original),35,33,68,827816400.0,1996
+Charlotte Hornets (Original),Seattle Supersonics,Charlotte Hornets (Original),35,34,69,827902800.0,1996
+Charlotte Hornets (Original),Sacramento Kings,Charlotte Hornets (Original),35,35,70,828075600.0,1996
+Charlotte Hornets (Original),Vancouver Grizzlies,Charlotte Hornets (Original),36,35,71,828248400.0,1996
+Charlotte Hornets (Original),Charlotte Hornets (Original),Los Angeles Lakers,37,35,72,828421200.0,1996
+Charlotte Hornets (Original),Detroit Pistons,Charlotte Hornets (Original),37,36,73,828507600.0,1996
+Charlotte Hornets (Original),Charlotte Hornets (Original),Chicago Bulls,37,37,74,828680400.0,1996
+Charlotte Hornets (Original),Cleveland Cavaliers,Charlotte Hornets (Original),38,37,75,828766800.0,1996
+Charlotte Hornets (Original),Chicago Bulls,Charlotte Hornets (Original),39,37,76,828936000.0,1996
+Charlotte Hornets (Original),Charlotte Hornets (Original),Miami Heat,39,38,77,829108800.0,1996
+Charlotte Hornets (Original),Philadelphia 76ers,Charlotte Hornets (Original),40,38,78,829454400.0,1996
+Charlotte Hornets (Original),Indiana Pacers,Charlotte Hornets (Original),40,39,79,829540800.0,1996
+Charlotte Hornets (Original),Charlotte Hornets (Original),Milwaukee Bucks,40,40,80,829800000.0,1996
+Charlotte Hornets (Original),New York Knicks,Charlotte Hornets (Original),41,40,81,829886400.0,1996
+Charlotte Hornets (Original),Charlotte Hornets (Original),Orlando Magic,41,41,82,830059200.0,1996
+Chicago Bulls,Chicago Bulls,Charlotte Hornets (Original),1,0,1,815374800.0,1996
+Chicago Bulls,Chicago Bulls,Boston Celtics,2,0,2,815461200.0,1996
+Chicago Bulls,Chicago Bulls,Toronto Raptors,3,0,3,815720400.0,1996
+Chicago Bulls,Cleveland Cavaliers,Chicago Bulls,4,0,4,815893200.0,1996
+Chicago Bulls,Chicago Bulls,Portland Trail Blazers,5,0,5,816066000.0,1996
+Chicago Bulls,Orlando Magic,Chicago Bulls,5,1,6,816325200.0,1996
+Chicago Bulls,Chicago Bulls,Cleveland Cavaliers,6,1,7,816411600.0,1996
+Chicago Bulls,Chicago Bulls,New Jersey Nets,7,1,8,816584400.0,1996
+Chicago Bulls,Dallas Mavericks,Chicago Bulls,8,1,9,816930000.0,1996
+Chicago Bulls,San Antonio Spurs,Chicago Bulls,9,1,10,817016400.0,1996
+Chicago Bulls,Utah Jazz,Chicago Bulls,10,1,11,817189200.0,1996
+Chicago Bulls,Seattle Supersonics,Chicago Bulls,10,2,12,817362000.0,1996
+Chicago Bulls,Portland Trail Blazers,Chicago Bulls,11,2,13,817448400.0,1996
+Chicago Bulls,Vancouver Grizzlies,Chicago Bulls,12,2,14,817707600.0,1996
+Chicago Bulls,Los Angeles Clippers,Chicago Bulls,13,2,15,817880400.0,1996
+Chicago Bulls,Chicago Bulls,New York Knicks,14,2,16,818226000.0,1996
+Chicago Bulls,Chicago Bulls,San Antonio Spurs,15,2,17,818398800.0,1996
+Chicago Bulls,Milwaukee Bucks,Chicago Bulls,16,2,18,818485200.0,1996
+Chicago Bulls,Chicago Bulls,Orlando Magic,17,2,19,818830800.0,1996
+Chicago Bulls,Atlanta Hawks,Chicago Bulls,18,2,20,818917200.0,1996
+Chicago Bulls,Chicago Bulls,Los Angeles Lakers,19,2,21,819090000.0,1996
+Chicago Bulls,Boston Celtics,Chicago Bulls,20,2,22,819262800.0,1996
+Chicago Bulls,Chicago Bulls,Dallas Mavericks,21,2,23,819349200.0,1996
+Chicago Bulls,Chicago Bulls,Toronto Raptors,22,2,24,819608400.0,1996
+Chicago Bulls,Chicago Bulls,Utah Jazz,23,2,25,819694800.0,1996
+Chicago Bulls,Indiana Pacers,Chicago Bulls,23,3,26,819954000.0,1996
+Chicago Bulls,Chicago Bulls,Indiana Pacers,24,3,27,820213200.0,1996
+Chicago Bulls,Chicago Bulls,Atlanta Hawks,25,3,28,820299600.0,1996
+Chicago Bulls,Chicago Bulls,Houston Rockets,26,3,29,820645200.0,1996
+Chicago Bulls,Charlotte Hornets (Original),Chicago Bulls,27,3,30,820731600.0,1996
+Chicago Bulls,Chicago Bulls,Milwaukee Bucks,28,3,31,820904400.0,1996
+Chicago Bulls,Chicago Bulls,Seattle Supersonics,29,3,32,821250000.0,1996
+Chicago Bulls,Philadelphia 76ers,Chicago Bulls,30,3,33,821509200.0,1996
+Chicago Bulls,Washington Bullets,Chicago Bulls,31,3,34,821682000.0,1996
+Chicago Bulls,Chicago Bulls,Philadelphia 76ers,32,3,35,821768400.0,1996
+Chicago Bulls,Toronto Raptors,Chicago Bulls,33,3,36,821941200.0,1996
+Chicago Bulls,Detroit Pistons,Chicago Bulls,34,3,37,822200400.0,1996
+Chicago Bulls,New York Knicks,Chicago Bulls,35,3,38,822373200.0,1996
+Chicago Bulls,Chicago Bulls,Vancouver Grizzlies,36,3,39,822459600.0,1996
+Chicago Bulls,Chicago Bulls,Miami Heat,37,3,40,822632400.0,1996
+Chicago Bulls,Chicago Bulls,Phoenix Suns,38,3,41,822805200.0,1996
+Chicago Bulls,Houston Rockets,Chicago Bulls,39,3,42,822978000.0,1996
+Chicago Bulls,Sacramento Kings,Chicago Bulls,40,3,43,823150800.0,1996
+Chicago Bulls,Los Angeles Lakers,Chicago Bulls,41,3,44,823237200.0,1996
+Chicago Bulls,Denver Nuggets,Chicago Bulls,41,4,45,823410000.0,1996
+Chicago Bulls,Phoenix Suns,Chicago Bulls,41,5,46,823582800.0,1996
+Chicago Bulls,Golden State Warriors,Chicago Bulls,42,5,47,823669200.0,1996
+Chicago Bulls,Chicago Bulls,Washington Bullets,43,5,48,824187600.0,1996
+Chicago Bulls,Detroit Pistons,Chicago Bulls,44,5,49,824360400.0,1996
+Chicago Bulls,Minnesota Timberwolves,Chicago Bulls,45,5,50,824446800.0,1996
+Chicago Bulls,Indiana Pacers,Chicago Bulls,46,5,51,824619600.0,1996
+Chicago Bulls,Chicago Bulls,Cleveland Cavaliers,47,5,52,824792400.0,1996
+Chicago Bulls,Atlanta Hawks,Chicago Bulls,48,5,53,824965200.0,1996
+Chicago Bulls,Miami Heat,Chicago Bulls,48,6,54,825051600.0,1996
+Chicago Bulls,Chicago Bulls,Orlando Magic,49,6,55,825224400.0,1996
+Chicago Bulls,Chicago Bulls,Minnesota Timberwolves,50,6,56,825397200.0,1996
+Chicago Bulls,Chicago Bulls,Golden State Warriors,51,6,57,825656400.0,1996
+Chicago Bulls,Chicago Bulls,Boston Celtics,52,6,58,825742800.0,1996
+Chicago Bulls,Chicago Bulls,Milwaukee Bucks,53,6,59,826002000.0,1996
+Chicago Bulls,Chicago Bulls,Detroit Pistons,54,6,60,826174800.0,1996
+Chicago Bulls,New York Knicks,Chicago Bulls,54,7,61,826434000.0,1996
+Chicago Bulls,Chicago Bulls,Washington Bullets,55,7,62,826693200.0,1996
+Chicago Bulls,Chicago Bulls,Denver Nuggets,56,7,63,826866000.0,1996
+Chicago Bulls,New Jersey Nets,Chicago Bulls,57,7,64,826952400.0,1996
+Chicago Bulls,Philadelphia 76ers,Chicago Bulls,58,7,65,827125200.0,1996
+Chicago Bulls,Chicago Bulls,Sacramento Kings,59,7,66,827211600.0,1996
+Chicago Bulls,Chicago Bulls,New York Knicks,60,7,67,827384400.0,1996
+Chicago Bulls,Toronto Raptors,Chicago Bulls,60,8,68,827643600.0,1996
+Chicago Bulls,Chicago Bulls,Atlanta Hawks,61,8,69,827989200.0,1996
+Chicago Bulls,Chicago Bulls,Los Angeles Clippers,62,8,70,828162000.0,1996
+Chicago Bulls,Miami Heat,Chicago Bulls,63,8,71,828421200.0,1996
+Chicago Bulls,Chicago Bulls,Miami Heat,64,8,72,828594000.0,1996
+Chicago Bulls,Charlotte Hornets (Original),Chicago Bulls,65,8,73,828680400.0,1996
+Chicago Bulls,Orlando Magic,Chicago Bulls,66,8,74,828853200.0,1996
+Chicago Bulls,Chicago Bulls,Charlotte Hornets (Original),66,9,75,828936000.0,1996
+Chicago Bulls,New Jersey Nets,Chicago Bulls,67,9,76,829195200.0,1996
+Chicago Bulls,Chicago Bulls,Philadelphia 76ers,68,9,77,829281600.0,1996
+Chicago Bulls,Cleveland Cavaliers,Chicago Bulls,69,9,78,829454400.0,1996
+Chicago Bulls,Milwaukee Bucks,Chicago Bulls,70,9,79,829627200.0,1996
+Chicago Bulls,Chicago Bulls,Detroit Pistons,71,9,80,829800000.0,1996
+Chicago Bulls,Chicago Bulls,Indiana Pacers,71,10,81,829972800.0,1996
+Chicago Bulls,Washington Bullets,Chicago Bulls,72,10,82,830059200.0,1996
+Cleveland Cavaliers,Orlando Magic,Cleveland Cavaliers,0,1,1,815374800.0,1996
+Cleveland Cavaliers,Miami Heat,Cleveland Cavaliers,0,2,2,815461200.0,1996
+Cleveland Cavaliers,Cleveland Cavaliers,Indiana Pacers,0,3,3,815720400.0,1996
+Cleveland Cavaliers,Cleveland Cavaliers,Chicago Bulls,0,4,4,815893200.0,1996
+Cleveland Cavaliers,Detroit Pistons,Cleveland Cavaliers,0,5,5,815979600.0,1996
+Cleveland Cavaliers,Cleveland Cavaliers,San Antonio Spurs,0,6,6,816152400.0,1996
+Cleveland Cavaliers,Chicago Bulls,Cleveland Cavaliers,0,7,7,816411600.0,1996
+Cleveland Cavaliers,Philadelphia 76ers,Cleveland Cavaliers,1,7,8,816584400.0,1996
+Cleveland Cavaliers,Cleveland Cavaliers,Detroit Pistons,2,7,9,816670800.0,1996
+Cleveland Cavaliers,Cleveland Cavaliers,New York Knicks,2,8,10,817016400.0,1996
+Cleveland Cavaliers,Indiana Pacers,Cleveland Cavaliers,3,8,11,817189200.0,1996
+Cleveland Cavaliers,Cleveland Cavaliers,Milwaukee Bucks,4,8,12,817275600.0,1996
+Cleveland Cavaliers,Cleveland Cavaliers,Toronto Raptors,5,8,13,817534800.0,1996
+Cleveland Cavaliers,Washington Bullets,Cleveland Cavaliers,6,8,14,817707600.0,1996
+Cleveland Cavaliers,New Jersey Nets,Cleveland Cavaliers,6,9,15,817880400.0,1996
+Cleveland Cavaliers,Cleveland Cavaliers,Dallas Mavericks,7,9,16,817966800.0,1996
+Cleveland Cavaliers,Charlotte Hornets (Original),Cleveland Cavaliers,7,10,17,818226000.0,1996
+Cleveland Cavaliers,Cleveland Cavaliers,Philadelphia 76ers,8,10,18,818398800.0,1996
+Cleveland Cavaliers,Cleveland Cavaliers,New Jersey Nets,8,11,19,818485200.0,1996
+Cleveland Cavaliers,Cleveland Cavaliers,Los Angeles Clippers,9,11,20,818744400.0,1996
+Cleveland Cavaliers,Minnesota Timberwolves,Cleveland Cavaliers,10,11,21,819003600.0,1996
+Cleveland Cavaliers,Cleveland Cavaliers,Denver Nuggets,11,11,22,819176400.0,1996
+Cleveland Cavaliers,Cleveland Cavaliers,Minnesota Timberwolves,12,11,23,819349200.0,1996
+Cleveland Cavaliers,Cleveland Cavaliers,Utah Jazz,12,12,24,819522000.0,1996
+Cleveland Cavaliers,Cleveland Cavaliers,Indiana Pacers,13,12,25,819694800.0,1996
+Cleveland Cavaliers,New York Knicks,Cleveland Cavaliers,14,12,26,820126800.0,1996
+Cleveland Cavaliers,Cleveland Cavaliers,Portland Trail Blazers,15,12,27,820299600.0,1996
+Cleveland Cavaliers,Washington Bullets,Cleveland Cavaliers,16,12,28,820558800.0,1996
+Cleveland Cavaliers,Boston Celtics,Cleveland Cavaliers,16,13,29,820818000.0,1996
+Cleveland Cavaliers,Cleveland Cavaliers,Orlando Magic,17,13,30,820904400.0,1996
+Cleveland Cavaliers,Cleveland Cavaliers,Washington Bullets,18,13,31,821077200.0,1996
+Cleveland Cavaliers,San Antonio Spurs,Cleveland Cavaliers,18,14,32,821250000.0,1996
+Cleveland Cavaliers,Denver Nuggets,Cleveland Cavaliers,18,15,33,821422800.0,1996
+Cleveland Cavaliers,Phoenix Suns,Cleveland Cavaliers,19,15,34,821595600.0,1996
+Cleveland Cavaliers,Seattle Supersonics,Cleveland Cavaliers,19,16,35,821768400.0,1996
+Cleveland Cavaliers,Vancouver Grizzlies,Cleveland Cavaliers,20,16,36,821941200.0,1996
+Cleveland Cavaliers,Los Angeles Lakers,Cleveland Cavaliers,21,16,37,822114000.0,1996
+Cleveland Cavaliers,Portland Trail Blazers,Cleveland Cavaliers,21,17,38,822200400.0,1996
+Cleveland Cavaliers,Cleveland Cavaliers,Atlanta Hawks,21,18,39,822373200.0,1996
+Cleveland Cavaliers,Philadelphia 76ers,Cleveland Cavaliers,22,18,40,822459600.0,1996
+Cleveland Cavaliers,Cleveland Cavaliers,Miami Heat,22,19,41,822718800.0,1996
+Cleveland Cavaliers,Charlotte Hornets (Original),Cleveland Cavaliers,22,20,42,822891600.0,1996
+Cleveland Cavaliers,Cleveland Cavaliers,Milwaukee Bucks,23,20,43,823064400.0,1996
+Cleveland Cavaliers,Cleveland Cavaliers,Phoenix Suns,24,20,44,823237200.0,1996
+Cleveland Cavaliers,Milwaukee Bucks,Cleveland Cavaliers,25,20,45,823323600.0,1996
+Cleveland Cavaliers,Cleveland Cavaliers,Boston Celtics,26,20,46,823582800.0,1996
+Cleveland Cavaliers,Cleveland Cavaliers,Charlotte Hornets (Original),27,20,47,824187600.0,1996
+Cleveland Cavaliers,Toronto Raptors,Cleveland Cavaliers,28,20,48,824360400.0,1996
+Cleveland Cavaliers,Cleveland Cavaliers,Philadelphia 76ers,29,20,49,824533200.0,1996
+Cleveland Cavaliers,Cleveland Cavaliers,Miami Heat,30,20,50,824706000.0,1996
+Cleveland Cavaliers,Chicago Bulls,Cleveland Cavaliers,30,21,51,824792400.0,1996
+Cleveland Cavaliers,Cleveland Cavaliers,Houston Rockets,30,22,52,824965200.0,1996
+Cleveland Cavaliers,Cleveland Cavaliers,New Jersey Nets,31,22,53,825138000.0,1996
+Cleveland Cavaliers,Cleveland Cavaliers,Golden State Warriors,32,22,54,825397200.0,1996
+Cleveland Cavaliers,Milwaukee Bucks,Cleveland Cavaliers,33,22,55,825570000.0,1996
+Cleveland Cavaliers,Atlanta Hawks,Cleveland Cavaliers,33,23,56,825656400.0,1996
+Cleveland Cavaliers,Cleveland Cavaliers,Toronto Raptors,33,24,57,825829200.0,1996
+Cleveland Cavaliers,Cleveland Cavaliers,Seattle Supersonics,33,25,58,826002000.0,1996
+Cleveland Cavaliers,Cleveland Cavaliers,Atlanta Hawks,33,26,59,826174800.0,1996
+Cleveland Cavaliers,Boston Celtics,Cleveland Cavaliers,34,26,60,826261200.0,1996
+Cleveland Cavaliers,Miami Heat,Cleveland Cavaliers,34,27,61,826434000.0,1996
+Cleveland Cavaliers,Cleveland Cavaliers,Boston Celtics,35,27,62,826779600.0,1996
+Cleveland Cavaliers,Detroit Pistons,Cleveland Cavaliers,35,28,63,826866000.0,1996
+Cleveland Cavaliers,Cleveland Cavaliers,Sacramento Kings,36,28,64,827038800.0,1996
+Cleveland Cavaliers,Dallas Mavericks,Cleveland Cavaliers,37,28,65,827211600.0,1996
+Cleveland Cavaliers,Houston Rockets,Cleveland Cavaliers,38,28,66,827384400.0,1996
+Cleveland Cavaliers,Utah Jazz,Cleveland Cavaliers,38,29,67,827470800.0,1996
+Cleveland Cavaliers,Cleveland Cavaliers,Vancouver Grizzlies,39,29,68,827643600.0,1996
+Cleveland Cavaliers,Cleveland Cavaliers,Washington Bullets,39,30,69,827816400.0,1996
+Cleveland Cavaliers,Los Angeles Clippers,Cleveland Cavaliers,40,30,70,827989200.0,1996
+Cleveland Cavaliers,Golden State Warriors,Cleveland Cavaliers,41,30,71,828162000.0,1996
+Cleveland Cavaliers,Sacramento Kings,Cleveland Cavaliers,41,31,72,828248400.0,1996
+Cleveland Cavaliers,Cleveland Cavaliers,Los Angeles Lakers,42,31,73,828507600.0,1996
+Cleveland Cavaliers,Toronto Raptors,Cleveland Cavaliers,43,31,74,828594000.0,1996
+Cleveland Cavaliers,Cleveland Cavaliers,Charlotte Hornets (Original),43,32,75,828766800.0,1996
+Cleveland Cavaliers,Orlando Magic,Cleveland Cavaliers,43,33,76,829108800.0,1996
+Cleveland Cavaliers,New York Knicks,Cleveland Cavaliers,44,33,77,829195200.0,1996
+Cleveland Cavaliers,Cleveland Cavaliers,Chicago Bulls,44,34,78,829454400.0,1996
+Cleveland Cavaliers,Atlanta Hawks,Cleveland Cavaliers,45,34,79,829627200.0,1996
+Cleveland Cavaliers,Cleveland Cavaliers,New York Knicks,46,34,80,829800000.0,1996
+Cleveland Cavaliers,Cleveland Cavaliers,Detroit Pistons,47,34,81,829972800.0,1996
+Cleveland Cavaliers,Indiana Pacers,Cleveland Cavaliers,47,35,82,830059200.0,1996
+Dallas Mavericks,San Antonio Spurs,Dallas Mavericks,1,0,1,815374800.0,1996
+Dallas Mavericks,Dallas Mavericks,Golden State Warriors,2,0,2,815461200.0,1996
+Dallas Mavericks,Dallas Mavericks,Vancouver Grizzlies,3,0,3,815720400.0,1996
+Dallas Mavericks,Dallas Mavericks,Milwaukee Bucks,4,0,4,815893200.0,1996
+Dallas Mavericks,Dallas Mavericks,Atlanta Hawks,4,1,5,816066000.0,1996
+Dallas Mavericks,Vancouver Grizzlies,Dallas Mavericks,5,1,6,816238800.0,1996
+Dallas Mavericks,Los Angeles Lakers,Dallas Mavericks,5,2,7,816411600.0,1996
+Dallas Mavericks,Los Angeles Clippers,Dallas Mavericks,5,3,8,816584400.0,1996
+Dallas Mavericks,Golden State Warriors,Dallas Mavericks,5,4,9,816670800.0,1996
+Dallas Mavericks,Dallas Mavericks,Chicago Bulls,5,5,10,816930000.0,1996
+Dallas Mavericks,Dallas Mavericks,Denver Nuggets,5,6,11,817189200.0,1996
+Dallas Mavericks,Miami Heat,Dallas Mavericks,5,7,12,817534800.0,1996
+Dallas Mavericks,Orlando Magic,Dallas Mavericks,5,8,13,817707600.0,1996
+Dallas Mavericks,Atlanta Hawks,Dallas Mavericks,6,8,14,817794000.0,1996
+Dallas Mavericks,Cleveland Cavaliers,Dallas Mavericks,6,9,15,817966800.0,1996
+Dallas Mavericks,New York Knicks,Dallas Mavericks,6,10,16,818139600.0,1996
+Dallas Mavericks,Philadelphia 76ers,Dallas Mavericks,6,11,17,818226000.0,1996
+Dallas Mavericks,Dallas Mavericks,Washington Bullets,6,12,18,818485200.0,1996
+Dallas Mavericks,Dallas Mavericks,Seattle Supersonics,7,12,19,818744400.0,1996
+Dallas Mavericks,Dallas Mavericks,San Antonio Spurs,7,13,20,818917200.0,1996
+Dallas Mavericks,Dallas Mavericks,Phoenix Suns,7,14,21,819090000.0,1996
+Dallas Mavericks,Chicago Bulls,Dallas Mavericks,7,15,22,819349200.0,1996
+Dallas Mavericks,Indiana Pacers,Dallas Mavericks,7,16,23,819608400.0,1996
+Dallas Mavericks,Minnesota Timberwolves,Dallas Mavericks,7,17,24,819694800.0,1996
+Dallas Mavericks,Denver Nuggets,Dallas Mavericks,7,18,25,819954000.0,1996
+Dallas Mavericks,Dallas Mavericks,Vancouver Grizzlies,8,18,26,820126800.0,1996
+Dallas Mavericks,Dallas Mavericks,Houston Rockets,8,19,27,820299600.0,1996
+Dallas Mavericks,Dallas Mavericks,Utah Jazz,8,20,28,820558800.0,1996
+Dallas Mavericks,Washington Bullets,Dallas Mavericks,8,21,29,820731600.0,1996
+Dallas Mavericks,New Jersey Nets,Dallas Mavericks,8,22,30,820818000.0,1996
+Dallas Mavericks,Boston Celtics,Dallas Mavericks,9,22,31,820990800.0,1996
+Dallas Mavericks,Dallas Mavericks,Indiana Pacers,9,23,32,821163600.0,1996
+Dallas Mavericks,Phoenix Suns,Dallas Mavericks,10,23,33,821422800.0,1996
+Dallas Mavericks,Dallas Mavericks,Charlotte Hornets (Original),10,24,34,821509200.0,1996
+Dallas Mavericks,Dallas Mavericks,Orlando Magic,11,24,35,821682000.0,1996
+Dallas Mavericks,Dallas Mavericks,Boston Celtics,12,24,36,822027600.0,1996
+Dallas Mavericks,Seattle Supersonics,Dallas Mavericks,12,25,37,822200400.0,1996
+Dallas Mavericks,Sacramento Kings,Dallas Mavericks,13,25,38,822373200.0,1996
+Dallas Mavericks,Dallas Mavericks,Detroit Pistons,13,26,39,822546000.0,1996
+Dallas Mavericks,Dallas Mavericks,Portland Trail Blazers,13,27,40,822718800.0,1996
+Dallas Mavericks,Dallas Mavericks,Los Angeles Clippers,14,27,41,822978000.0,1996
+Dallas Mavericks,Dallas Mavericks,Seattle Supersonics,15,27,42,823150800.0,1996
+Dallas Mavericks,Dallas Mavericks,Minnesota Timberwolves,15,28,43,823323600.0,1996
+Dallas Mavericks,Minnesota Timberwolves,Dallas Mavericks,15,29,44,823496400.0,1996
+Dallas Mavericks,Milwaukee Bucks,Dallas Mavericks,15,30,45,823582800.0,1996
+Dallas Mavericks,Dallas Mavericks,Utah Jazz,16,30,46,823755600.0,1996
+Dallas Mavericks,Houston Rockets,Dallas Mavericks,16,31,47,824187600.0,1996
+Dallas Mavericks,Utah Jazz,Dallas Mavericks,16,32,48,824360400.0,1996
+Dallas Mavericks,Los Angeles Lakers,Dallas Mavericks,16,33,49,824446800.0,1996
+Dallas Mavericks,Dallas Mavericks,Golden State Warriors,16,34,50,824706000.0,1996
+Dallas Mavericks,Dallas Mavericks,Sacramento Kings,17,34,51,824878800.0,1996
+Dallas Mavericks,Dallas Mavericks,Los Angeles Lakers,17,35,52,825051600.0,1996
+Dallas Mavericks,Dallas Mavericks,Toronto Raptors,18,35,53,825224400.0,1996
+Dallas Mavericks,Dallas Mavericks,Philadelphia 76ers,18,36,54,825397200.0,1996
+Dallas Mavericks,Denver Nuggets,Dallas Mavericks,19,36,55,825570000.0,1996
+Dallas Mavericks,Vancouver Grizzlies,Dallas Mavericks,20,36,56,825656400.0,1996
+Dallas Mavericks,Dallas Mavericks,Phoenix Suns,20,37,57,825829200.0,1996
+Dallas Mavericks,Dallas Mavericks,New Jersey Nets,21,37,58,826002000.0,1996
+Dallas Mavericks,Charlotte Hornets (Original),Dallas Mavericks,21,38,59,826174800.0,1996
+Dallas Mavericks,Detroit Pistons,Dallas Mavericks,21,39,60,826347600.0,1996
+Dallas Mavericks,Toronto Raptors,Dallas Mavericks,21,40,61,826434000.0,1996
+Dallas Mavericks,Dallas Mavericks,Miami Heat,21,41,62,826606800.0,1996
+Dallas Mavericks,Los Angeles Clippers,Dallas Mavericks,21,42,63,826779600.0,1996
+Dallas Mavericks,Seattle Supersonics,Dallas Mavericks,21,43,64,826866000.0,1996
+Dallas Mavericks,Portland Trail Blazers,Dallas Mavericks,21,44,65,827038800.0,1996
+Dallas Mavericks,Dallas Mavericks,Cleveland Cavaliers,21,45,66,827211600.0,1996
+Dallas Mavericks,Dallas Mavericks,Minnesota Timberwolves,21,46,67,827470800.0,1996
+Dallas Mavericks,Dallas Mavericks,New York Knicks,21,47,68,827643600.0,1996
+Dallas Mavericks,Utah Jazz,Dallas Mavericks,21,48,69,827730000.0,1996
+Dallas Mavericks,Dallas Mavericks,Houston Rockets,22,48,70,827902800.0,1996
+Dallas Mavericks,Dallas Mavericks,San Antonio Spurs,22,49,71,828075600.0,1996
+Dallas Mavericks,Dallas Mavericks,Portland Trail Blazers,22,50,72,828248400.0,1996
+Dallas Mavericks,Dallas Mavericks,Sacramento Kings,22,51,73,828421200.0,1996
+Dallas Mavericks,Dallas Mavericks,Los Angeles Clippers,23,51,74,828766800.0,1996
+Dallas Mavericks,Golden State Warriors,Dallas Mavericks,24,51,75,828936000.0,1996
+Dallas Mavericks,Sacramento Kings,Dallas Mavericks,24,52,76,829022400.0,1996
+Dallas Mavericks,Portland Trail Blazers,Dallas Mavericks,24,53,77,829195200.0,1996
+Dallas Mavericks,Houston Rockets,Dallas Mavericks,24,54,78,829368000.0,1996
+Dallas Mavericks,Dallas Mavericks,Los Angeles Lakers,24,55,79,829627200.0,1996
+Dallas Mavericks,Dallas Mavericks,Denver Nuggets,25,55,80,829800000.0,1996
+Dallas Mavericks,Phoenix Suns,Dallas Mavericks,25,56,81,829886400.0,1996
+Dallas Mavericks,San Antonio Spurs,Dallas Mavericks,26,56,82,830059200.0,1996
+Denver Nuggets,Los Angeles Lakers,Denver Nuggets,0,1,1,815374800.0,1996
+Denver Nuggets,Denver Nuggets,San Antonio Spurs,0,2,2,815461200.0,1996
+Denver Nuggets,Golden State Warriors,Denver Nuggets,0,3,3,815720400.0,1996
+Denver Nuggets,Denver Nuggets,Seattle Supersonics,0,4,4,815806800.0,1996
+Denver Nuggets,Utah Jazz,Denver Nuggets,0,5,5,815979600.0,1996
+Denver Nuggets,Los Angeles Clippers,Denver Nuggets,0,6,6,816152400.0,1996
+Denver Nuggets,Phoenix Suns,Denver Nuggets,1,6,7,816411600.0,1996
+Denver Nuggets,Denver Nuggets,New York Knicks,1,7,8,816584400.0,1996
+Denver Nuggets,Houston Rockets,Denver Nuggets,1,8,9,816670800.0,1996
+Denver Nuggets,Denver Nuggets,Atlanta Hawks,2,8,10,816930000.0,1996
+Denver Nuggets,Dallas Mavericks,Denver Nuggets,3,8,11,817189200.0,1996
+Denver Nuggets,Denver Nuggets,Utah Jazz,4,8,12,817275600.0,1996
+Denver Nuggets,Sacramento Kings,Denver Nuggets,4,9,13,817534800.0,1996
+Denver Nuggets,Denver Nuggets,Minnesota Timberwolves,5,9,14,817880400.0,1996
+Denver Nuggets,Denver Nuggets,Detroit Pistons,6,9,15,818053200.0,1996
+Denver Nuggets,Utah Jazz,Denver Nuggets,7,9,16,818312400.0,1996
+Denver Nuggets,Denver Nuggets,Phoenix Suns,8,9,17,818398800.0,1996
+Denver Nuggets,Philadelphia 76ers,Denver Nuggets,9,9,18,818658000.0,1996
+Denver Nuggets,Indiana Pacers,Denver Nuggets,9,10,19,818744400.0,1996
+Denver Nuggets,New York Knicks,Denver Nuggets,10,10,20,818917200.0,1996
+Denver Nuggets,Atlanta Hawks,Denver Nuggets,10,11,21,819090000.0,1996
+Denver Nuggets,Cleveland Cavaliers,Denver Nuggets,10,12,22,819176400.0,1996
+Denver Nuggets,Denver Nuggets,Golden State Warriors,11,12,23,819435600.0,1996
+Denver Nuggets,San Antonio Spurs,Denver Nuggets,11,13,24,819522000.0,1996
+Denver Nuggets,Denver Nuggets,Los Angeles Clippers,11,14,25,819694800.0,1996
+Denver Nuggets,Denver Nuggets,Dallas Mavericks,12,14,26,819954000.0,1996
+Denver Nuggets,Seattle Supersonics,Denver Nuggets,12,15,27,820040400.0,1996
+Denver Nuggets,Phoenix Suns,Denver Nuggets,12,16,28,820213200.0,1996
+Denver Nuggets,Denver Nuggets,Philadelphia 76ers,13,16,29,820299600.0,1996
+Denver Nuggets,Denver Nuggets,Indiana Pacers,13,17,30,820558800.0,1996
+Denver Nuggets,Sacramento Kings,Denver Nuggets,13,18,31,820731600.0,1996
+Denver Nuggets,Denver Nuggets,Miami Heat,13,19,32,820904400.0,1996
+Denver Nuggets,Los Angeles Lakers,Denver Nuggets,14,19,33,820990800.0,1996
+Denver Nuggets,Vancouver Grizzlies,Denver Nuggets,15,19,34,821250000.0,1996
+Denver Nuggets,Denver Nuggets,Cleveland Cavaliers,16,19,35,821422800.0,1996
+Denver Nuggets,Denver Nuggets,Portland Trail Blazers,16,20,36,821509200.0,1996
+Denver Nuggets,Portland Trail Blazers,Denver Nuggets,16,21,37,821768400.0,1996
+Denver Nuggets,Denver Nuggets,Houston Rockets,16,22,38,821854800.0,1996
+Denver Nuggets,Denver Nuggets,Sacramento Kings,16,23,39,822114000.0,1996
+Denver Nuggets,Seattle Supersonics,Denver Nuggets,16,24,40,822459600.0,1996
+Denver Nuggets,Los Angeles Clippers,Denver Nuggets,16,25,41,822546000.0,1996
+Denver Nuggets,Denver Nuggets,Toronto Raptors,17,25,42,822718800.0,1996
+Denver Nuggets,Minnesota Timberwolves,Denver Nuggets,18,25,43,822978000.0,1996
+Denver Nuggets,Milwaukee Bucks,Denver Nuggets,18,26,44,823150800.0,1996
+Denver Nuggets,Denver Nuggets,Chicago Bulls,19,26,45,823410000.0,1996
+Denver Nuggets,Denver Nuggets,Los Angeles Lakers,19,27,46,823582800.0,1996
+Denver Nuggets,Denver Nuggets,Los Angeles Clippers,20,27,47,823755600.0,1996
+Denver Nuggets,Orlando Magic,Denver Nuggets,20,28,48,824187600.0,1996
+Denver Nuggets,Miami Heat,Denver Nuggets,20,29,49,824360400.0,1996
+Denver Nuggets,Charlotte Hornets (Original),Denver Nuggets,20,30,50,824446800.0,1996
+Denver Nuggets,Denver Nuggets,Boston Celtics,21,30,51,824619600.0,1996
+Denver Nuggets,Portland Trail Blazers,Denver Nuggets,21,31,52,824965200.0,1996
+Denver Nuggets,Denver Nuggets,Utah Jazz,22,31,53,825138000.0,1996
+Denver Nuggets,Denver Nuggets,Washington Bullets,23,31,54,825397200.0,1996
+Denver Nuggets,Denver Nuggets,Dallas Mavericks,23,32,55,825570000.0,1996
+Denver Nuggets,Denver Nuggets,Vancouver Grizzlies,24,32,56,825742800.0,1996
+Denver Nuggets,Denver Nuggets,San Antonio Spurs,24,33,57,825915600.0,1996
+Denver Nuggets,San Antonio Spurs,Denver Nuggets,24,34,58,826088400.0,1996
+Denver Nuggets,Denver Nuggets,Phoenix Suns,25,34,59,826174800.0,1996
+Denver Nuggets,Denver Nuggets,Golden State Warriors,26,34,60,826347600.0,1996
+Denver Nuggets,Denver Nuggets,New Jersey Nets,26,35,61,826434000.0,1996
+Denver Nuggets,Denver Nuggets,Orlando Magic,27,35,62,826606800.0,1996
+Denver Nuggets,Chicago Bulls,Denver Nuggets,27,36,63,826866000.0,1996
+Denver Nuggets,Detroit Pistons,Denver Nuggets,27,37,64,827038800.0,1996
+Denver Nuggets,Toronto Raptors,Denver Nuggets,28,37,65,827125200.0,1996
+Denver Nuggets,New Jersey Nets,Denver Nuggets,28,38,66,827384400.0,1996
+Denver Nuggets,Boston Celtics,Denver Nuggets,28,39,67,827470800.0,1996
+Denver Nuggets,Washington Bullets,Denver Nuggets,28,40,68,827643600.0,1996
+Denver Nuggets,Denver Nuggets,Charlotte Hornets (Original),28,41,69,827816400.0,1996
+Denver Nuggets,Vancouver Grizzlies,Denver Nuggets,29,41,70,827989200.0,1996
+Denver Nuggets,Denver Nuggets,Milwaukee Bucks,30,41,71,828162000.0,1996
+Denver Nuggets,Denver Nuggets,Minnesota Timberwolves,31,41,72,828421200.0,1996
+Denver Nuggets,Golden State Warriors,Denver Nuggets,31,42,73,828594000.0,1996
+Denver Nuggets,Denver Nuggets,Portland Trail Blazers,31,43,74,828680400.0,1996
+Denver Nuggets,Denver Nuggets,Houston Rockets,32,43,75,828853200.0,1996
+Denver Nuggets,Denver Nuggets,Los Angeles Lakers,33,43,76,829022400.0,1996
+Denver Nuggets,Houston Rockets,Denver Nuggets,33,44,77,829195200.0,1996
+Denver Nuggets,Minnesota Timberwolves,Denver Nuggets,34,44,78,829454400.0,1996
+Denver Nuggets,Denver Nuggets,Sacramento Kings,34,45,79,829540800.0,1996
+Denver Nuggets,Dallas Mavericks,Denver Nuggets,34,46,80,829800000.0,1996
+Denver Nuggets,Denver Nuggets,Vancouver Grizzlies,34,47,81,829886400.0,1996
+Denver Nuggets,Denver Nuggets,Seattle Supersonics,35,47,82,830059200.0,1996
+Detroit Pistons,Detroit Pistons,New York Knicks,0,1,1,815374800.0,1996
+Detroit Pistons,Washington Bullets,Detroit Pistons,0,2,2,815461200.0,1996
+Detroit Pistons,Charlotte Hornets (Original),Detroit Pistons,0,3,3,815720400.0,1996
+Detroit Pistons,Detroit Pistons,Portland Trail Blazers,1,3,4,815806800.0,1996
+Detroit Pistons,Detroit Pistons,Cleveland Cavaliers,2,3,5,815979600.0,1996
+Detroit Pistons,Detroit Pistons,Seattle Supersonics,3,3,6,816411600.0,1996
+Detroit Pistons,Detroit Pistons,Utah Jazz,3,4,7,816584400.0,1996
+Detroit Pistons,Cleveland Cavaliers,Detroit Pistons,3,5,8,816670800.0,1996
+Detroit Pistons,Detroit Pistons,Washington Bullets,3,6,9,817016400.0,1996
+Detroit Pistons,Detroit Pistons,Philadelphia 76ers,4,6,10,817189200.0,1996
+Detroit Pistons,Detroit Pistons,Houston Rockets,5,6,11,817362000.0,1996
+Detroit Pistons,Orlando Magic,Detroit Pistons,5,7,12,817448400.0,1996
+Detroit Pistons,Boston Celtics,Detroit Pistons,5,8,13,817621200.0,1996
+Detroit Pistons,Detroit Pistons,Miami Heat,5,9,14,817707600.0,1996
+Detroit Pistons,Detroit Pistons,Atlanta Hawks,6,9,15,817880400.0,1996
+Detroit Pistons,Denver Nuggets,Detroit Pistons,6,10,16,818053200.0,1996
+Detroit Pistons,Vancouver Grizzlies,Detroit Pistons,7,10,17,818312400.0,1996
+Detroit Pistons,Golden State Warriors,Detroit Pistons,8,10,18,818398800.0,1996
+Detroit Pistons,Los Angeles Lakers,Detroit Pistons,8,11,19,818571600.0,1996
+Detroit Pistons,Detroit Pistons,Los Angeles Lakers,8,12,20,818830800.0,1996
+Detroit Pistons,Detroit Pistons,New Jersey Nets,9,12,21,819003600.0,1996
+Detroit Pistons,New York Knicks,Detroit Pistons,9,13,22,819090000.0,1996
+Detroit Pistons,Toronto Raptors,Detroit Pistons,10,13,23,819349200.0,1996
+Detroit Pistons,Detroit Pistons,Milwaukee Bucks,11,13,24,819435600.0,1996
+Detroit Pistons,Miami Heat,Detroit Pistons,12,13,25,819608400.0,1996
+Detroit Pistons,Detroit Pistons,Orlando Magic,12,14,26,819694800.0,1996
+Detroit Pistons,Detroit Pistons,Golden State Warriors,13,14,27,819954000.0,1996
+Detroit Pistons,Detroit Pistons,Toronto Raptors,14,14,28,820126800.0,1996
+Detroit Pistons,Detroit Pistons,Charlotte Hornets (Original),15,14,29,820299600.0,1996
+Detroit Pistons,Milwaukee Bucks,Detroit Pistons,15,15,30,820645200.0,1996
+Detroit Pistons,Detroit Pistons,Washington Bullets,16,15,31,820904400.0,1996
+Detroit Pistons,Charlotte Hornets (Original),Detroit Pistons,17,15,32,821336400.0,1996
+Detroit Pistons,New Jersey Nets,Detroit Pistons,18,15,33,821509200.0,1996
+Detroit Pistons,Atlanta Hawks,Detroit Pistons,18,16,34,821682000.0,1996
+Detroit Pistons,Detroit Pistons,San Antonio Spurs,19,16,35,821941200.0,1996
+Detroit Pistons,Indiana Pacers,Detroit Pistons,19,17,36,822027600.0,1996
+Detroit Pistons,Detroit Pistons,Chicago Bulls,19,18,37,822200400.0,1996
+Detroit Pistons,San Antonio Spurs,Detroit Pistons,20,18,38,822459600.0,1996
+Detroit Pistons,Dallas Mavericks,Detroit Pistons,21,18,39,822546000.0,1996
+Detroit Pistons,Houston Rockets,Detroit Pistons,21,19,40,822718800.0,1996
+Detroit Pistons,Utah Jazz,Detroit Pistons,21,20,41,822891600.0,1996
+Detroit Pistons,Detroit Pistons,Indiana Pacers,22,20,42,823150800.0,1996
+Detroit Pistons,Detroit Pistons,Sacramento Kings,22,21,43,823323600.0,1996
+Detroit Pistons,New York Knicks,Detroit Pistons,22,22,44,823496400.0,1996
+Detroit Pistons,Detroit Pistons,Orlando Magic,23,22,45,823669200.0,1996
+Detroit Pistons,Philadelphia 76ers,Detroit Pistons,24,22,46,824274000.0,1996
+Detroit Pistons,Detroit Pistons,Chicago Bulls,24,23,47,824360400.0,1996
+Detroit Pistons,Detroit Pistons,Toronto Raptors,25,23,48,824533200.0,1996
+Detroit Pistons,Detroit Pistons,Minnesota Timberwolves,26,23,49,824706000.0,1996
+Detroit Pistons,Detroit Pistons,New York Knicks,26,24,50,824878800.0,1996
+Detroit Pistons,Minnesota Timberwolves,Detroit Pistons,26,25,51,825051600.0,1996
+Detroit Pistons,Portland Trail Blazers,Detroit Pistons,27,25,52,825224400.0,1996
+Detroit Pistons,Sacramento Kings,Detroit Pistons,28,25,53,825310800.0,1996
+Detroit Pistons,Seattle Supersonics,Detroit Pistons,28,26,54,825483600.0,1996
+Detroit Pistons,Phoenix Suns,Detroit Pistons,29,26,55,825656400.0,1996
+Detroit Pistons,Los Angeles Clippers,Detroit Pistons,30,26,56,825742800.0,1996
+Detroit Pistons,Detroit Pistons,Atlanta Hawks,31,26,57,825915600.0,1996
+Detroit Pistons,Toronto Raptors,Detroit Pistons,32,26,58,826002000.0,1996
+Detroit Pistons,Chicago Bulls,Detroit Pistons,32,27,59,826174800.0,1996
+Detroit Pistons,Detroit Pistons,Dallas Mavericks,33,27,60,826347600.0,1996
+Detroit Pistons,Detroit Pistons,Los Angeles Clippers,34,27,61,826520400.0,1996
+Detroit Pistons,Detroit Pistons,Phoenix Suns,35,27,62,826693200.0,1996
+Detroit Pistons,Detroit Pistons,Cleveland Cavaliers,36,27,63,826866000.0,1996
+Detroit Pistons,Detroit Pistons,Denver Nuggets,37,27,64,827038800.0,1996
+Detroit Pistons,Orlando Magic,Detroit Pistons,37,28,65,827211600.0,1996
+Detroit Pistons,Miami Heat,Detroit Pistons,37,29,66,827298000.0,1996
+Detroit Pistons,Detroit Pistons,New Jersey Nets,38,29,67,827470800.0,1996
+Detroit Pistons,Atlanta Hawks,Detroit Pistons,38,30,68,827557200.0,1996
+Detroit Pistons,Detroit Pistons,Vancouver Grizzlies,39,30,69,827816400.0,1996
+Detroit Pistons,Detroit Pistons,Miami Heat,39,31,70,828162000.0,1996
+Detroit Pistons,Milwaukee Bucks,Detroit Pistons,39,32,71,828421200.0,1996
+Detroit Pistons,Detroit Pistons,Charlotte Hornets (Original),40,32,72,828507600.0,1996
+Detroit Pistons,Philadelphia 76ers,Detroit Pistons,41,32,73,828680400.0,1996
+Detroit Pistons,Boston Celtics,Detroit Pistons,41,33,74,828853200.0,1996
+Detroit Pistons,New Jersey Nets,Detroit Pistons,42,33,75,829022400.0,1996
+Detroit Pistons,Detroit Pistons,Philadelphia 76ers,43,33,76,829108800.0,1996
+Detroit Pistons,Indiana Pacers,Detroit Pistons,43,34,77,829368000.0,1996
+Detroit Pistons,Detroit Pistons,Boston Celtics,44,34,78,829454400.0,1996
+Detroit Pistons,Detroit Pistons,Indiana Pacers,45,34,79,829713600.0,1996
+Detroit Pistons,Chicago Bulls,Detroit Pistons,45,35,80,829800000.0,1996
+Detroit Pistons,Cleveland Cavaliers,Detroit Pistons,45,36,81,829972800.0,1996
+Detroit Pistons,Detroit Pistons,Milwaukee Bucks,46,36,82,830059200.0,1996
+Golden State Warriors,Houston Rockets,Golden State Warriors,0,1,1,815374800.0,1996
+Golden State Warriors,Dallas Mavericks,Golden State Warriors,0,2,2,815461200.0,1996
+Golden State Warriors,Golden State Warriors,Denver Nuggets,1,2,3,815720400.0,1996
+Golden State Warriors,Golden State Warriors,Atlanta Hawks,1,3,4,815893200.0,1996
+Golden State Warriors,Golden State Warriors,Los Angeles Lakers,2,3,5,816066000.0,1996
+Golden State Warriors,Phoenix Suns,Golden State Warriors,2,4,6,816152400.0,1996
+Golden State Warriors,Golden State Warriors,Los Angeles Clippers,2,5,7,816325200.0,1996
+Golden State Warriors,Golden State Warriors,New York Knicks,2,6,8,816498000.0,1996
+Golden State Warriors,Golden State Warriors,Dallas Mavericks,3,6,9,816670800.0,1996
+Golden State Warriors,Orlando Magic,Golden State Warriors,3,7,10,816843600.0,1996
+Golden State Warriors,Miami Heat,Golden State Warriors,3,8,11,817016400.0,1996
+Golden State Warriors,Boston Celtics,Golden State Warriors,4,8,12,817189200.0,1996
+Golden State Warriors,Philadelphia 76ers,Golden State Warriors,5,8,13,817275600.0,1996
+Golden State Warriors,Toronto Raptors,Golden State Warriors,5,9,14,817448400.0,1996
+Golden State Warriors,Golden State Warriors,Portland Trail Blazers,5,10,15,817621200.0,1996
+Golden State Warriors,Golden State Warriors,Indiana Pacers,6,10,16,817880400.0,1996
+Golden State Warriors,Golden State Warriors,Orlando Magic,6,11,17,818226000.0,1996
+Golden State Warriors,Golden State Warriors,Detroit Pistons,6,12,18,818398800.0,1996
+Golden State Warriors,Utah Jazz,Golden State Warriors,6,13,19,818485200.0,1996
+Golden State Warriors,Golden State Warriors,Miami Heat,7,13,20,818744400.0,1996
+Golden State Warriors,Seattle Supersonics,Golden State Warriors,7,14,21,819003600.0,1996
+Golden State Warriors,Vancouver Grizzlies,Golden State Warriors,8,14,22,819090000.0,1996
+Golden State Warriors,Golden State Warriors,Charlotte Hornets (Original),9,14,23,819349200.0,1996
+Golden State Warriors,Denver Nuggets,Golden State Warriors,9,15,24,819435600.0,1996
+Golden State Warriors,Golden State Warriors,Washington Bullets,10,15,25,819608400.0,1996
+Golden State Warriors,Detroit Pistons,Golden State Warriors,10,16,26,819954000.0,1996
+Golden State Warriors,Washington Bullets,Golden State Warriors,10,17,27,820040400.0,1996
+Golden State Warriors,Atlanta Hawks,Golden State Warriors,11,17,28,820213200.0,1996
+Golden State Warriors,New Jersey Nets,Golden State Warriors,12,17,29,820299600.0,1996
+Golden State Warriors,Golden State Warriors,Philadelphia 76ers,13,17,30,820645200.0,1996
+Golden State Warriors,Golden State Warriors,Minnesota Timberwolves,14,17,31,820818000.0,1996
+Golden State Warriors,Sacramento Kings,Golden State Warriors,14,18,32,820904400.0,1996
+Golden State Warriors,Golden State Warriors,Vancouver Grizzlies,15,18,33,821163600.0,1996
+Golden State Warriors,Golden State Warriors,Phoenix Suns,15,19,34,821336400.0,1996
+Golden State Warriors,Vancouver Grizzlies,Golden State Warriors,16,19,35,821422800.0,1996
+Golden State Warriors,Golden State Warriors,Seattle Supersonics,16,20,36,821682000.0,1996
+Golden State Warriors,Minnesota Timberwolves,Golden State Warriors,16,21,37,821854800.0,1996
+Golden State Warriors,Milwaukee Bucks,Golden State Warriors,16,22,38,821941200.0,1996
+Golden State Warriors,Charlotte Hornets (Original),Golden State Warriors,17,22,39,822114000.0,1996
+Golden State Warriors,Golden State Warriors,Utah Jazz,17,23,40,822459600.0,1996
+Golden State Warriors,Golden State Warriors,Sacramento Kings,18,23,41,822632400.0,1996
+Golden State Warriors,Utah Jazz,Golden State Warriors,18,24,42,822718800.0,1996
+Golden State Warriors,Los Angeles Lakers,Golden State Warriors,18,25,43,822978000.0,1996
+Golden State Warriors,Golden State Warriors,Toronto Raptors,19,25,44,823237200.0,1996
+Golden State Warriors,Golden State Warriors,New Jersey Nets,20,25,45,823410000.0,1996
+Golden State Warriors,Los Angeles Clippers,Golden State Warriors,21,25,46,823496400.0,1996
+Golden State Warriors,Golden State Warriors,Chicago Bulls,21,26,47,823669200.0,1996
+Golden State Warriors,Portland Trail Blazers,Golden State Warriors,22,26,48,824187600.0,1996
+Golden State Warriors,Golden State Warriors,Boston Celtics,23,26,49,824274000.0,1996
+Golden State Warriors,San Antonio Spurs,Golden State Warriors,23,27,50,824446800.0,1996
+Golden State Warriors,Dallas Mavericks,Golden State Warriors,24,27,51,824706000.0,1996
+Golden State Warriors,Golden State Warriors,San Antonio Spurs,25,27,52,824878800.0,1996
+Golden State Warriors,Seattle Supersonics,Golden State Warriors,25,28,53,824965200.0,1996
+Golden State Warriors,Golden State Warriors,Los Angeles Clippers,26,28,54,825138000.0,1996
+Golden State Warriors,Cleveland Cavaliers,Golden State Warriors,26,29,55,825397200.0,1996
+Golden State Warriors,Indiana Pacers,Golden State Warriors,26,30,56,825570000.0,1996
+Golden State Warriors,Chicago Bulls,Golden State Warriors,26,31,57,825656400.0,1996
+Golden State Warriors,New York Knicks,Golden State Warriors,26,32,58,825829200.0,1996
+Golden State Warriors,Golden State Warriors,Vancouver Grizzlies,27,32,59,826002000.0,1996
+Golden State Warriors,Golden State Warriors,Houston Rockets,28,32,60,826174800.0,1996
+Golden State Warriors,Denver Nuggets,Golden State Warriors,28,33,61,826347600.0,1996
+Golden State Warriors,Golden State Warriors,Sacramento Kings,28,34,62,826434000.0,1996
+Golden State Warriors,Golden State Warriors,San Antonio Spurs,28,35,63,826606800.0,1996
+Golden State Warriors,Golden State Warriors,Los Angeles Lakers,28,36,64,826779600.0,1996
+Golden State Warriors,Golden State Warriors,Milwaukee Bucks,29,36,65,826952400.0,1996
+Golden State Warriors,San Antonio Spurs,Golden State Warriors,29,37,66,827125200.0,1996
+Golden State Warriors,Houston Rockets,Golden State Warriors,30,37,67,827211600.0,1996
+Golden State Warriors,Phoenix Suns,Golden State Warriors,30,38,68,827384400.0,1996
+Golden State Warriors,Golden State Warriors,Phoenix Suns,31,38,69,827557200.0,1996
+Golden State Warriors,Golden State Warriors,Seattle Supersonics,31,39,70,827816400.0,1996
+Golden State Warriors,Portland Trail Blazers,Golden State Warriors,31,40,71,827989200.0,1996
+Golden State Warriors,Golden State Warriors,Cleveland Cavaliers,31,41,72,828162000.0,1996
+Golden State Warriors,Golden State Warriors,Houston Rockets,31,42,73,828421200.0,1996
+Golden State Warriors,Golden State Warriors,Denver Nuggets,32,42,74,828594000.0,1996
+Golden State Warriors,Golden State Warriors,Minnesota Timberwolves,33,42,75,828766800.0,1996
+Golden State Warriors,Golden State Warriors,Dallas Mavericks,33,43,76,828936000.0,1996
+Golden State Warriors,Los Angeles Clippers,Golden State Warriors,34,43,77,829195200.0,1996
+Golden State Warriors,Los Angeles Lakers,Golden State Warriors,34,44,78,829281600.0,1996
+Golden State Warriors,Golden State Warriors,Utah Jazz,35,44,79,829454400.0,1996
+Golden State Warriors,Minnesota Timberwolves,Golden State Warriors,36,44,80,829713600.0,1996
+Golden State Warriors,Golden State Warriors,Portland Trail Blazers,36,45,81,829886400.0,1996
+Golden State Warriors,Sacramento Kings,Golden State Warriors,36,46,82,830059200.0,1996
+Houston Rockets,Houston Rockets,Golden State Warriors,1,0,1,815374800.0,1996
+Houston Rockets,Phoenix Suns,Houston Rockets,2,0,2,815547600.0,1996
+Houston Rockets,Houston Rockets,Milwaukee Bucks,3,0,3,815720400.0,1996
+Houston Rockets,Miami Heat,Houston Rockets,3,1,4,815806800.0,1996
+Houston Rockets,Houston Rockets,Minnesota Timberwolves,4,1,5,816066000.0,1996
+Houston Rockets,Toronto Raptors,Houston Rockets,5,1,6,816411600.0,1996
+Houston Rockets,Milwaukee Bucks,Houston Rockets,6,1,7,816498000.0,1996
+Houston Rockets,Houston Rockets,Denver Nuggets,7,1,8,816670800.0,1996
+Houston Rockets,Boston Celtics,Houston Rockets,8,1,9,816843600.0,1996
+Houston Rockets,Philadelphia 76ers,Houston Rockets,9,1,10,817016400.0,1996
+Houston Rockets,Indiana Pacers,Houston Rockets,10,1,11,817102800.0,1996
+Houston Rockets,New York Knicks,Houston Rockets,10,2,12,817275600.0,1996
+Houston Rockets,Detroit Pistons,Houston Rockets,10,3,13,817362000.0,1996
+Houston Rockets,Houston Rockets,Los Angeles Clippers,11,3,14,817534800.0,1996
+Houston Rockets,Houston Rockets,Utah Jazz,11,4,15,817707600.0,1996
+Houston Rockets,Houston Rockets,Charlotte Hornets (Original),12,4,16,817880400.0,1996
+Houston Rockets,Utah Jazz,Houston Rockets,13,4,17,818139600.0,1996
+Houston Rockets,Houston Rockets,Los Angeles Lakers,14,4,18,818226000.0,1996
+Houston Rockets,Houston Rockets,Washington Bullets,15,4,19,818398800.0,1996
+Houston Rockets,Portland Trail Blazers,Houston Rockets,15,5,20,818571600.0,1996
+Houston Rockets,Sacramento Kings,Houston Rockets,16,5,21,818744400.0,1996
+Houston Rockets,Vancouver Grizzlies,Houston Rockets,17,5,22,818830800.0,1996
+Houston Rockets,Houston Rockets,Sacramento Kings,17,6,23,819003600.0,1996
+Houston Rockets,Houston Rockets,Phoenix Suns,18,6,24,819349200.0,1996
+Houston Rockets,Houston Rockets,Portland Trail Blazers,19,6,25,819522000.0,1996
+Houston Rockets,San Antonio Spurs,Houston Rockets,19,7,26,819694800.0,1996
+Houston Rockets,Orlando Magic,Houston Rockets,19,8,27,819867600.0,1996
+Houston Rockets,Houston Rockets,Vancouver Grizzlies,20,8,28,819954000.0,1996
+Houston Rockets,Houston Rockets,New Jersey Nets,21,8,29,820126800.0,1996
+Houston Rockets,Dallas Mavericks,Houston Rockets,22,8,30,820299600.0,1996
+Houston Rockets,Minnesota Timberwolves,Houston Rockets,23,8,31,820558800.0,1996
+Houston Rockets,Chicago Bulls,Houston Rockets,23,9,32,820645200.0,1996
+Houston Rockets,Houston Rockets,Indiana Pacers,24,9,33,820904400.0,1996
+Houston Rockets,Houston Rockets,San Antonio Spurs,24,10,34,821163600.0,1996
+Houston Rockets,Los Angeles Lakers,Houston Rockets,24,11,35,821422800.0,1996
+Houston Rockets,Los Angeles Clippers,Houston Rockets,25,11,36,821509200.0,1996
+Houston Rockets,Houston Rockets,Utah Jazz,26,11,37,821682000.0,1996
+Houston Rockets,Denver Nuggets,Houston Rockets,27,11,38,821854800.0,1996
+Houston Rockets,Houston Rockets,Boston Celtics,27,12,39,821941200.0,1996
+Houston Rockets,Houston Rockets,Orlando Magic,27,13,40,822200400.0,1996
+Houston Rockets,Atlanta Hawks,Houston Rockets,27,14,41,822286800.0,1996
+Houston Rockets,New Jersey Nets,Houston Rockets,28,14,42,822459600.0,1996
+Houston Rockets,Washington Bullets,Houston Rockets,28,15,43,822546000.0,1996
+Houston Rockets,Houston Rockets,Detroit Pistons,29,15,44,822718800.0,1996
+Houston Rockets,Houston Rockets,Chicago Bulls,29,16,45,822978000.0,1996
+Houston Rockets,Charlotte Hornets (Original),Houston Rockets,30,16,46,823150800.0,1996
+Houston Rockets,Houston Rockets,Seattle Supersonics,30,17,47,823323600.0,1996
+Houston Rockets,Seattle Supersonics,Houston Rockets,30,18,48,823582800.0,1996
+Houston Rockets,Los Angeles Clippers,Houston Rockets,31,18,49,823669200.0,1996
+Houston Rockets,Houston Rockets,Dallas Mavericks,32,18,50,824187600.0,1996
+Houston Rockets,Houston Rockets,San Antonio Spurs,33,18,51,824360400.0,1996
+Houston Rockets,San Antonio Spurs,Houston Rockets,33,19,52,824619600.0,1996
+Houston Rockets,Houston Rockets,Sacramento Kings,34,19,53,824706000.0,1996
+Houston Rockets,Minnesota Timberwolves,Houston Rockets,34,20,54,824878800.0,1996
+Houston Rockets,Cleveland Cavaliers,Houston Rockets,35,20,55,824965200.0,1996
+Houston Rockets,Houston Rockets,Los Angeles Lakers,36,20,56,825138000.0,1996
+Houston Rockets,Houston Rockets,Toronto Raptors,37,20,57,825397200.0,1996
+Houston Rockets,Houston Rockets,Philadelphia 76ers,38,20,58,825570000.0,1996
+Houston Rockets,Los Angeles Lakers,Houston Rockets,39,20,59,825829200.0,1996
+Houston Rockets,Portland Trail Blazers,Houston Rockets,40,20,60,826002000.0,1996
+Houston Rockets,Golden State Warriors,Houston Rockets,40,21,61,826174800.0,1996
+Houston Rockets,Utah Jazz,Houston Rockets,40,22,62,826261200.0,1996
+Houston Rockets,Vancouver Grizzlies,Houston Rockets,41,22,63,826434000.0,1996
+Houston Rockets,Houston Rockets,Atlanta Hawks,42,22,64,826779600.0,1996
+Houston Rockets,Houston Rockets,Miami Heat,42,23,65,826952400.0,1996
+Houston Rockets,Houston Rockets,Golden State Warriors,42,24,66,827211600.0,1996
+Houston Rockets,Houston Rockets,Cleveland Cavaliers,42,25,67,827384400.0,1996
+Houston Rockets,Houston Rockets,Minnesota Timberwolves,42,26,68,827557200.0,1996
+Houston Rockets,Houston Rockets,New York Knicks,42,27,69,827816400.0,1996
+Houston Rockets,Dallas Mavericks,Houston Rockets,42,28,70,827902800.0,1996
+Houston Rockets,Houston Rockets,Portland Trail Blazers,42,29,71,828162000.0,1996
+Houston Rockets,Golden State Warriors,Houston Rockets,43,29,72,828421200.0,1996
+Houston Rockets,Seattle Supersonics,Houston Rockets,43,30,73,828507600.0,1996
+Houston Rockets,Sacramento Kings,Houston Rockets,43,31,74,828680400.0,1996
+Houston Rockets,Denver Nuggets,Houston Rockets,43,32,75,828853200.0,1996
+Houston Rockets,Houston Rockets,Vancouver Grizzlies,44,32,76,829022400.0,1996
+Houston Rockets,Houston Rockets,Denver Nuggets,45,32,77,829195200.0,1996
+Houston Rockets,Houston Rockets,Dallas Mavericks,46,32,78,829368000.0,1996
+Houston Rockets,Houston Rockets,Seattle Supersonics,46,33,79,829540800.0,1996
+Houston Rockets,Phoenix Suns,Houston Rockets,46,34,80,829627200.0,1996
+Houston Rockets,Houston Rockets,Los Angeles Clippers,47,34,81,829800000.0,1996
+Houston Rockets,Houston Rockets,Phoenix Suns,48,34,82,830059200.0,1996
+Indiana Pacers,Atlanta Hawks,Indiana Pacers,1,0,1,815374800.0,1996
+Indiana Pacers,Indiana Pacers,Toronto Raptors,2,0,2,815461200.0,1996
+Indiana Pacers,Cleveland Cavaliers,Indiana Pacers,3,0,3,815720400.0,1996
+Indiana Pacers,New York Knicks,Indiana Pacers,3,1,4,815893200.0,1996
+Indiana Pacers,Indiana Pacers,Sacramento Kings,3,2,5,815979600.0,1996
+Indiana Pacers,Miami Heat,Indiana Pacers,4,2,6,816411600.0,1996
+Indiana Pacers,Orlando Magic,Indiana Pacers,4,3,7,816498000.0,1996
+Indiana Pacers,Indiana Pacers,Seattle Supersonics,5,3,8,816670800.0,1996
+Indiana Pacers,Indiana Pacers,Houston Rockets,5,4,9,817102800.0,1996
+Indiana Pacers,Indiana Pacers,Cleveland Cavaliers,5,5,10,817189200.0,1996
+Indiana Pacers,Seattle Supersonics,Indiana Pacers,6,5,11,817534800.0,1996
+Indiana Pacers,Sacramento Kings,Indiana Pacers,6,6,12,817707600.0,1996
+Indiana Pacers,Golden State Warriors,Indiana Pacers,6,7,13,817880400.0,1996
+Indiana Pacers,Los Angeles Lakers,Indiana Pacers,6,8,14,817966800.0,1996
+Indiana Pacers,Indiana Pacers,Philadelphia 76ers,7,8,15,818139600.0,1996
+Indiana Pacers,New Jersey Nets,Indiana Pacers,7,9,16,818398800.0,1996
+Indiana Pacers,Indiana Pacers,Los Angeles Clippers,8,9,17,818571600.0,1996
+Indiana Pacers,Indiana Pacers,Denver Nuggets,9,9,18,818744400.0,1996
+Indiana Pacers,Toronto Raptors,Indiana Pacers,10,9,19,818917200.0,1996
+Indiana Pacers,Indiana Pacers,Milwaukee Bucks,11,9,20,819003600.0,1996
+Indiana Pacers,Milwaukee Bucks,Indiana Pacers,11,10,21,819176400.0,1996
+Indiana Pacers,Indiana Pacers,Los Angeles Lakers,12,10,22,819435600.0,1996
+Indiana Pacers,Indiana Pacers,Dallas Mavericks,13,10,23,819608400.0,1996
+Indiana Pacers,Cleveland Cavaliers,Indiana Pacers,13,11,24,819694800.0,1996
+Indiana Pacers,Indiana Pacers,Chicago Bulls,14,11,25,819954000.0,1996
+Indiana Pacers,Indiana Pacers,Miami Heat,15,11,26,820126800.0,1996
+Indiana Pacers,Chicago Bulls,Indiana Pacers,15,12,27,820213200.0,1996
+Indiana Pacers,Denver Nuggets,Indiana Pacers,16,12,28,820558800.0,1996
+Indiana Pacers,Los Angeles Clippers,Indiana Pacers,17,12,29,820645200.0,1996
+Indiana Pacers,San Antonio Spurs,Indiana Pacers,18,12,30,820818000.0,1996
+Indiana Pacers,Houston Rockets,Indiana Pacers,18,13,31,820904400.0,1996
+Indiana Pacers,Dallas Mavericks,Indiana Pacers,19,13,32,821163600.0,1996
+Indiana Pacers,Indiana Pacers,Milwaukee Bucks,20,13,33,821336400.0,1996
+Indiana Pacers,Indiana Pacers,Minnesota Timberwolves,21,13,34,821509200.0,1996
+Indiana Pacers,Toronto Raptors,Indiana Pacers,22,13,35,821768400.0,1996
+Indiana Pacers,Atlanta Hawks,Indiana Pacers,22,14,36,821854800.0,1996
+Indiana Pacers,Indiana Pacers,Detroit Pistons,23,14,37,822027600.0,1996
+Indiana Pacers,Indiana Pacers,Washington Bullets,24,14,38,822200400.0,1996
+Indiana Pacers,Indiana Pacers,Phoenix Suns,25,14,39,822373200.0,1996
+Indiana Pacers,Milwaukee Bucks,Indiana Pacers,26,14,40,822459600.0,1996
+Indiana Pacers,Boston Celtics,Indiana Pacers,27,14,41,822632400.0,1996
+Indiana Pacers,Indiana Pacers,Orlando Magic,28,14,42,822718800.0,1996
+Indiana Pacers,Indiana Pacers,Atlanta Hawks,29,14,43,822978000.0,1996
+Indiana Pacers,Detroit Pistons,Indiana Pacers,29,15,44,823150800.0,1996
+Indiana Pacers,Indiana Pacers,Boston Celtics,30,15,45,823237200.0,1996
+Indiana Pacers,Indiana Pacers,New York Knicks,31,15,46,823410000.0,1996
+Indiana Pacers,Philadelphia 76ers,Indiana Pacers,31,16,47,823669200.0,1996
+Indiana Pacers,Indiana Pacers,New Jersey Nets,31,17,48,824187600.0,1996
+Indiana Pacers,New Jersey Nets,Indiana Pacers,31,18,49,824274000.0,1996
+Indiana Pacers,Washington Bullets,Indiana Pacers,32,18,50,824446800.0,1996
+Indiana Pacers,Indiana Pacers,Chicago Bulls,32,19,51,824619600.0,1996
+Indiana Pacers,Indiana Pacers,Orlando Magic,32,20,52,824878800.0,1996
+Indiana Pacers,Indiana Pacers,Philadelphia 76ers,33,20,53,825051600.0,1996
+Indiana Pacers,Charlotte Hornets (Original),Indiana Pacers,34,20,54,825138000.0,1996
+Indiana Pacers,Boston Celtics,Indiana Pacers,35,20,55,825310800.0,1996
+Indiana Pacers,Indiana Pacers,Portland Trail Blazers,36,20,56,825397200.0,1996
+Indiana Pacers,Indiana Pacers,Golden State Warriors,37,20,57,825570000.0,1996
+Indiana Pacers,Indiana Pacers,Charlotte Hornets (Original),38,20,58,825829200.0,1996
+Indiana Pacers,Phoenix Suns,Indiana Pacers,38,21,59,826002000.0,1996
+Indiana Pacers,Utah Jazz,Indiana Pacers,38,22,60,826088400.0,1996
+Indiana Pacers,Vancouver Grizzlies,Indiana Pacers,39,22,61,826261200.0,1996
+Indiana Pacers,Portland Trail Blazers,Indiana Pacers,39,23,62,826434000.0,1996
+Indiana Pacers,Indiana Pacers,Utah Jazz,39,24,63,826866000.0,1996
+Indiana Pacers,Indiana Pacers,Toronto Raptors,40,24,64,827038800.0,1996
+Indiana Pacers,Charlotte Hornets (Original),Indiana Pacers,40,25,65,827211600.0,1996
+Indiana Pacers,New York Knicks,Indiana Pacers,40,26,66,827298000.0,1996
+Indiana Pacers,Indiana Pacers,Vancouver Grizzlies,41,26,67,827470800.0,1996
+Indiana Pacers,Indiana Pacers,San Antonio Spurs,41,27,68,827643600.0,1996
+Indiana Pacers,Indiana Pacers,Boston Celtics,42,27,69,827816400.0,1996
+Indiana Pacers,Washington Bullets,Indiana Pacers,43,27,70,827902800.0,1996
+Indiana Pacers,Minnesota Timberwolves,Indiana Pacers,43,28,71,828075600.0,1996
+Indiana Pacers,Indiana Pacers,New Jersey Nets,44,28,72,828248400.0,1996
+Indiana Pacers,Indiana Pacers,New York Knicks,44,29,73,828421200.0,1996
+Indiana Pacers,Philadelphia 76ers,Indiana Pacers,45,29,74,828507600.0,1996
+Indiana Pacers,Indiana Pacers,Miami Heat,46,29,75,828766800.0,1996
+Indiana Pacers,Indiana Pacers,Atlanta Hawks,47,29,76,828936000.0,1996
+Indiana Pacers,Orlando Magic,Indiana Pacers,48,29,77,829281600.0,1996
+Indiana Pacers,Indiana Pacers,Detroit Pistons,49,29,78,829368000.0,1996
+Indiana Pacers,Indiana Pacers,Charlotte Hornets (Original),50,29,79,829540800.0,1996
+Indiana Pacers,Detroit Pistons,Indiana Pacers,50,30,80,829713600.0,1996
+Indiana Pacers,Chicago Bulls,Indiana Pacers,51,30,81,829972800.0,1996
+Indiana Pacers,Indiana Pacers,Cleveland Cavaliers,52,30,82,830059200.0,1996
+Los Angeles Clippers,Los Angeles Clippers,Phoenix Suns,1,0,1,815374800.0,1996
+Los Angeles Clippers,Sacramento Kings,Los Angeles Clippers,1,1,2,815547600.0,1996
+Los Angeles Clippers,Seattle Supersonics,Los Angeles Clippers,1,2,3,815720400.0,1996
+Los Angeles Clippers,Los Angeles Clippers,Atlanta Hawks,1,3,4,815806800.0,1996
+Los Angeles Clippers,Vancouver Grizzlies,Los Angeles Clippers,2,3,5,815979600.0,1996
+Los Angeles Clippers,Los Angeles Clippers,Denver Nuggets,3,3,6,816152400.0,1996
+Los Angeles Clippers,Golden State Warriors,Los Angeles Clippers,4,3,7,816325200.0,1996
+Los Angeles Clippers,Los Angeles Clippers,Vancouver Grizzlies,5,3,8,816498000.0,1996
+Los Angeles Clippers,Los Angeles Clippers,Dallas Mavericks,6,3,9,816584400.0,1996
+Los Angeles Clippers,Los Angeles Lakers,Los Angeles Clippers,6,4,10,816757200.0,1996
+Los Angeles Clippers,Portland Trail Blazers,Los Angeles Clippers,6,5,11,816843600.0,1996
+Los Angeles Clippers,Los Angeles Clippers,New Jersey Nets,7,5,12,817016400.0,1996
+Los Angeles Clippers,Los Angeles Clippers,San Antonio Spurs,7,6,13,817275600.0,1996
+Los Angeles Clippers,Houston Rockets,Los Angeles Clippers,7,7,14,817534800.0,1996
+Los Angeles Clippers,San Antonio Spurs,Los Angeles Clippers,7,8,15,817621200.0,1996
+Los Angeles Clippers,Los Angeles Clippers,Chicago Bulls,7,9,16,817880400.0,1996
+Los Angeles Clippers,Los Angeles Clippers,Orlando Magic,7,10,17,818139600.0,1996
+Los Angeles Clippers,Milwaukee Bucks,Los Angeles Clippers,7,11,18,818312400.0,1996
+Los Angeles Clippers,Minnesota Timberwolves,Los Angeles Clippers,7,12,19,818398800.0,1996
+Los Angeles Clippers,Indiana Pacers,Los Angeles Clippers,7,13,20,818571600.0,1996
+Los Angeles Clippers,Cleveland Cavaliers,Los Angeles Clippers,7,14,21,818744400.0,1996
+Los Angeles Clippers,Los Angeles Clippers,Miami Heat,8,14,22,818917200.0,1996
+Los Angeles Clippers,Los Angeles Clippers,Charlotte Hornets (Original),8,15,23,819090000.0,1996
+Los Angeles Clippers,Los Angeles Clippers,Washington Bullets,8,16,24,819349200.0,1996
+Los Angeles Clippers,Los Angeles Clippers,Sacramento Kings,9,16,25,819522000.0,1996
+Los Angeles Clippers,Denver Nuggets,Los Angeles Clippers,10,16,26,819694800.0,1996
+Los Angeles Clippers,Atlanta Hawks,Los Angeles Clippers,10,17,27,819954000.0,1996
+Los Angeles Clippers,Charlotte Hornets (Original),Los Angeles Clippers,11,17,28,820040400.0,1996
+Los Angeles Clippers,Orlando Magic,Los Angeles Clippers,11,18,29,820213200.0,1996
+Los Angeles Clippers,Miami Heat,Los Angeles Clippers,11,19,30,820299600.0,1996
+Los Angeles Clippers,Los Angeles Clippers,Indiana Pacers,11,20,31,820645200.0,1996
+Los Angeles Clippers,Los Angeles Clippers,Phoenix Suns,12,20,32,820818000.0,1996
+Los Angeles Clippers,Vancouver Grizzlies,Los Angeles Clippers,13,20,33,820990800.0,1996
+Los Angeles Clippers,Phoenix Suns,Los Angeles Clippers,14,20,34,821163600.0,1996
+Los Angeles Clippers,Los Angeles Clippers,Minnesota Timberwolves,15,20,35,821336400.0,1996
+Los Angeles Clippers,Los Angeles Clippers,Houston Rockets,15,21,36,821509200.0,1996
+Los Angeles Clippers,Los Angeles Clippers,New York Knicks,15,22,37,821854800.0,1996
+Los Angeles Clippers,Los Angeles Clippers,Los Angeles Lakers,15,23,38,822027600.0,1996
+Los Angeles Clippers,Los Angeles Clippers,Utah Jazz,15,24,39,822114000.0,1996
+Los Angeles Clippers,Los Angeles Clippers,Denver Nuggets,16,24,40,822546000.0,1996
+Los Angeles Clippers,Los Angeles Clippers,Seattle Supersonics,16,25,41,822718800.0,1996
+Los Angeles Clippers,Dallas Mavericks,Los Angeles Clippers,16,26,42,822978000.0,1996
+Los Angeles Clippers,San Antonio Spurs,Los Angeles Clippers,16,27,43,823064400.0,1996
+Los Angeles Clippers,Utah Jazz,Los Angeles Clippers,16,28,44,823237200.0,1996
+Los Angeles Clippers,Los Angeles Clippers,Toronto Raptors,16,29,45,823323600.0,1996
+Los Angeles Clippers,Los Angeles Clippers,Golden State Warriors,16,30,46,823496400.0,1996
+Los Angeles Clippers,Los Angeles Clippers,Houston Rockets,16,31,47,823669200.0,1996
+Los Angeles Clippers,Denver Nuggets,Los Angeles Clippers,16,32,48,823755600.0,1996
+Los Angeles Clippers,Los Angeles Clippers,Boston Celtics,16,33,49,824187600.0,1996
+Los Angeles Clippers,Los Angeles Clippers,Portland Trail Blazers,17,33,50,824533200.0,1996
+Los Angeles Clippers,Los Angeles Lakers,Los Angeles Clippers,17,34,51,824792400.0,1996
+Los Angeles Clippers,Los Angeles Clippers,Los Angeles Lakers,17,35,52,824878800.0,1996
+Los Angeles Clippers,Golden State Warriors,Los Angeles Clippers,17,36,53,825138000.0,1996
+Los Angeles Clippers,Los Angeles Clippers,Seattle Supersonics,17,37,54,825224400.0,1996
+Los Angeles Clippers,Los Angeles Clippers,San Antonio Spurs,18,37,55,825397200.0,1996
+Los Angeles Clippers,Los Angeles Clippers,Sacramento Kings,19,37,56,825570000.0,1996
+Los Angeles Clippers,Los Angeles Clippers,Detroit Pistons,19,38,57,825742800.0,1996
+Los Angeles Clippers,New York Knicks,Los Angeles Clippers,20,38,58,826002000.0,1996
+Los Angeles Clippers,Boston Celtics,Los Angeles Clippers,20,39,59,826088400.0,1996
+Los Angeles Clippers,Washington Bullets,Los Angeles Clippers,21,39,60,826261200.0,1996
+Los Angeles Clippers,Philadelphia 76ers,Los Angeles Clippers,22,39,61,826434000.0,1996
+Los Angeles Clippers,Detroit Pistons,Los Angeles Clippers,22,40,62,826520400.0,1996
+Los Angeles Clippers,Los Angeles Clippers,Dallas Mavericks,23,40,63,826779600.0,1996
+Los Angeles Clippers,Portland Trail Blazers,Los Angeles Clippers,23,41,64,826866000.0,1996
+Los Angeles Clippers,Seattle Supersonics,Los Angeles Clippers,23,42,65,827125200.0,1996
+Los Angeles Clippers,Los Angeles Clippers,Minnesota Timberwolves,24,42,66,827298000.0,1996
+Los Angeles Clippers,Los Angeles Clippers,Philadelphia 76ers,25,42,67,827470800.0,1996
+Los Angeles Clippers,Phoenix Suns,Los Angeles Clippers,25,43,68,827643600.0,1996
+Los Angeles Clippers,Los Angeles Clippers,Milwaukee Bucks,26,43,69,827816400.0,1996
+Los Angeles Clippers,Los Angeles Clippers,Cleveland Cavaliers,26,44,70,827989200.0,1996
+Los Angeles Clippers,Chicago Bulls,Los Angeles Clippers,26,45,71,828162000.0,1996
+Los Angeles Clippers,Minnesota Timberwolves,Los Angeles Clippers,27,45,72,828248400.0,1996
+Los Angeles Clippers,Toronto Raptors,Los Angeles Clippers,27,46,73,828421200.0,1996
+Los Angeles Clippers,New Jersey Nets,Los Angeles Clippers,27,47,74,828507600.0,1996
+Los Angeles Clippers,Dallas Mavericks,Los Angeles Clippers,27,48,75,828766800.0,1996
+Los Angeles Clippers,Los Angeles Clippers,Portland Trail Blazers,28,48,76,828936000.0,1996
+Los Angeles Clippers,Los Angeles Clippers,Golden State Warriors,28,49,77,829195200.0,1996
+Los Angeles Clippers,Los Angeles Clippers,Utah Jazz,29,49,78,829368000.0,1996
+Los Angeles Clippers,Sacramento Kings,Los Angeles Clippers,29,50,79,829454400.0,1996
+Los Angeles Clippers,Utah Jazz,Los Angeles Clippers,29,51,80,829627200.0,1996
+Los Angeles Clippers,Houston Rockets,Los Angeles Clippers,29,52,81,829800000.0,1996
+Los Angeles Clippers,Los Angeles Clippers,Vancouver Grizzlies,29,53,82,830059200.0,1996
+Los Angeles Lakers,Los Angeles Lakers,Denver Nuggets,1,0,1,815374800.0,1996
+Los Angeles Lakers,Seattle Supersonics,Los Angeles Lakers,1,1,2,815461200.0,1996
+Los Angeles Lakers,Minnesota Timberwolves,Los Angeles Lakers,1,2,3,815720400.0,1996
+Los Angeles Lakers,Utah Jazz,Los Angeles Lakers,1,3,4,815806800.0,1996
+Los Angeles Lakers,Los Angeles Lakers,Seattle Supersonics,2,3,5,815979600.0,1996
+Los Angeles Lakers,Golden State Warriors,Los Angeles Lakers,2,4,6,816066000.0,1996
+Los Angeles Lakers,Sacramento Kings,Los Angeles Lakers,3,4,7,816325200.0,1996
+Los Angeles Lakers,Los Angeles Lakers,Dallas Mavericks,4,4,8,816411600.0,1996
+Los Angeles Lakers,Vancouver Grizzlies,Los Angeles Lakers,5,4,9,816584400.0,1996
+Los Angeles Lakers,Los Angeles Lakers,Los Angeles Clippers,6,4,10,816757200.0,1996
+Los Angeles Lakers,Los Angeles Lakers,Portland Trail Blazers,6,5,11,816930000.0,1996
+Los Angeles Lakers,Los Angeles Lakers,Sacramento Kings,6,6,12,817189200.0,1996
+Los Angeles Lakers,Phoenix Suns,Los Angeles Lakers,6,7,13,817275600.0,1996
+Los Angeles Lakers,Los Angeles Lakers,Phoenix Suns,7,7,14,817621200.0,1996
+Los Angeles Lakers,Los Angeles Lakers,Vancouver Grizzlies,8,7,15,817794000.0,1996
+Los Angeles Lakers,Los Angeles Lakers,Indiana Pacers,9,7,16,817966800.0,1996
+Los Angeles Lakers,San Antonio Spurs,Los Angeles Lakers,9,8,17,818139600.0,1996
+Los Angeles Lakers,Houston Rockets,Los Angeles Lakers,9,9,18,818226000.0,1996
+Los Angeles Lakers,Los Angeles Lakers,Toronto Raptors,10,9,19,818398800.0,1996
+Los Angeles Lakers,Los Angeles Lakers,Detroit Pistons,11,9,20,818571600.0,1996
+Los Angeles Lakers,New York Knicks,Los Angeles Lakers,11,10,21,818744400.0,1996
+Los Angeles Lakers,Detroit Pistons,Los Angeles Lakers,12,10,22,818830800.0,1996
+Los Angeles Lakers,Washington Bullets,Los Angeles Lakers,12,11,23,819003600.0,1996
+Los Angeles Lakers,Chicago Bulls,Los Angeles Lakers,12,12,24,819090000.0,1996
+Los Angeles Lakers,Milwaukee Bucks,Los Angeles Lakers,13,12,25,819349200.0,1996
+Los Angeles Lakers,Indiana Pacers,Los Angeles Lakers,13,13,26,819435600.0,1996
+Los Angeles Lakers,Los Angeles Lakers,Sacramento Kings,14,13,27,819608400.0,1996
+Los Angeles Lakers,Portland Trail Blazers,Los Angeles Lakers,15,13,28,819694800.0,1996
+Los Angeles Lakers,Los Angeles Lakers,Boston Celtics,16,13,29,819954000.0,1996
+Los Angeles Lakers,Los Angeles Lakers,San Antonio Spurs,16,14,30,820126800.0,1996
+Los Angeles Lakers,Utah Jazz,Los Angeles Lakers,16,15,31,820299600.0,1996
+Los Angeles Lakers,Los Angeles Lakers,Philadelphia 76ers,16,16,32,820558800.0,1996
+Los Angeles Lakers,Los Angeles Lakers,Utah Jazz,17,16,33,820818000.0,1996
+Los Angeles Lakers,Los Angeles Lakers,Denver Nuggets,17,17,34,820990800.0,1996
+Los Angeles Lakers,Los Angeles Lakers,Minnesota Timberwolves,18,17,35,821163600.0,1996
+Los Angeles Lakers,Los Angeles Lakers,Houston Rockets,19,17,36,821422800.0,1996
+Los Angeles Lakers,Los Angeles Lakers,Miami Heat,20,17,37,821682000.0,1996
+Los Angeles Lakers,Los Angeles Clippers,Los Angeles Lakers,21,17,38,822027600.0,1996
+Los Angeles Lakers,Los Angeles Lakers,Cleveland Cavaliers,21,18,39,822114000.0,1996
+Los Angeles Lakers,Boston Celtics,Los Angeles Lakers,22,18,40,822459600.0,1996
+Los Angeles Lakers,Philadelphia 76ers,Los Angeles Lakers,23,18,41,822632400.0,1996
+Los Angeles Lakers,New Jersey Nets,Los Angeles Lakers,24,18,42,822718800.0,1996
+Los Angeles Lakers,Los Angeles Lakers,Golden State Warriors,25,18,43,822978000.0,1996
+Los Angeles Lakers,Los Angeles Lakers,Chicago Bulls,25,19,44,823237200.0,1996
+Los Angeles Lakers,Los Angeles Lakers,Utah Jazz,26,19,45,823410000.0,1996
+Los Angeles Lakers,Denver Nuggets,Los Angeles Lakers,27,19,46,823582800.0,1996
+Los Angeles Lakers,Los Angeles Lakers,New Jersey Nets,28,19,47,823669200.0,1996
+Los Angeles Lakers,Los Angeles Lakers,Atlanta Hawks,29,19,48,824274000.0,1996
+Los Angeles Lakers,Los Angeles Lakers,Dallas Mavericks,30,19,49,824446800.0,1996
+Los Angeles Lakers,Los Angeles Lakers,Los Angeles Clippers,31,19,50,824792400.0,1996
+Los Angeles Lakers,Los Angeles Clippers,Los Angeles Lakers,32,19,51,824878800.0,1996
+Los Angeles Lakers,Dallas Mavericks,Los Angeles Lakers,33,19,52,825051600.0,1996
+Los Angeles Lakers,Houston Rockets,Los Angeles Lakers,33,20,53,825138000.0,1996
+Los Angeles Lakers,Los Angeles Lakers,New York Knicks,34,20,54,825310800.0,1996
+Los Angeles Lakers,Vancouver Grizzlies,Los Angeles Lakers,35,20,55,825483600.0,1996
+Los Angeles Lakers,Los Angeles Lakers,Washington Bullets,36,20,56,825656400.0,1996
+Los Angeles Lakers,Los Angeles Lakers,Houston Rockets,36,21,57,825829200.0,1996
+Los Angeles Lakers,Sacramento Kings,Los Angeles Lakers,37,21,58,826174800.0,1996
+Los Angeles Lakers,Phoenix Suns,Los Angeles Lakers,38,21,59,826261200.0,1996
+Los Angeles Lakers,Los Angeles Lakers,Portland Trail Blazers,38,22,60,826606800.0,1996
+Los Angeles Lakers,Golden State Warriors,Los Angeles Lakers,39,22,61,826779600.0,1996
+Los Angeles Lakers,Los Angeles Lakers,Milwaukee Bucks,40,22,62,826866000.0,1996
+Los Angeles Lakers,Los Angeles Lakers,Orlando Magic,40,23,63,827038800.0,1996
+Los Angeles Lakers,Los Angeles Lakers,Seattle Supersonics,41,23,64,827211600.0,1996
+Los Angeles Lakers,Seattle Supersonics,Los Angeles Lakers,41,24,65,827384400.0,1996
+Los Angeles Lakers,Los Angeles Lakers,Charlotte Hornets (Original),41,25,66,827643600.0,1996
+Los Angeles Lakers,Orlando Magic,Los Angeles Lakers,42,25,67,827816400.0,1996
+Los Angeles Lakers,Miami Heat,Los Angeles Lakers,43,25,68,827902800.0,1996
+Los Angeles Lakers,Atlanta Hawks,Los Angeles Lakers,44,25,69,828075600.0,1996
+Los Angeles Lakers,Toronto Raptors,Los Angeles Lakers,45,25,70,828248400.0,1996
+Los Angeles Lakers,Charlotte Hornets (Original),Los Angeles Lakers,45,26,71,828421200.0,1996
+Los Angeles Lakers,Cleveland Cavaliers,Los Angeles Lakers,45,27,72,828507600.0,1996
+Los Angeles Lakers,Los Angeles Lakers,Vancouver Grizzlies,46,27,73,828680400.0,1996
+Los Angeles Lakers,Los Angeles Lakers,San Antonio Spurs,47,27,74,828853200.0,1996
+Los Angeles Lakers,Denver Nuggets,Los Angeles Lakers,47,28,75,829022400.0,1996
+Los Angeles Lakers,Minnesota Timberwolves,Los Angeles Lakers,48,28,76,829108800.0,1996
+Los Angeles Lakers,Los Angeles Lakers,Golden State Warriors,49,28,77,829281600.0,1996
+Los Angeles Lakers,Los Angeles Lakers,Phoenix Suns,50,28,78,829454400.0,1996
+Los Angeles Lakers,Dallas Mavericks,Los Angeles Lakers,51,28,79,829627200.0,1996
+Los Angeles Lakers,San Antonio Spurs,Los Angeles Lakers,51,29,80,829800000.0,1996
+Los Angeles Lakers,Los Angeles Lakers,Minnesota Timberwolves,52,29,81,829972800.0,1996
+Los Angeles Lakers,Portland Trail Blazers,Los Angeles Lakers,53,29,82,830059200.0,1996
+Miami Heat,Miami Heat,Cleveland Cavaliers,1,0,1,815461200.0,1996
+Miami Heat,Miami Heat,Houston Rockets,2,0,2,815806800.0,1996
+Miami Heat,Miami Heat,New Jersey Nets,3,0,3,815979600.0,1996
+Miami Heat,Orlando Magic,Miami Heat,3,1,4,816066000.0,1996
+Miami Heat,Miami Heat,Indiana Pacers,3,2,5,816411600.0,1996
+Miami Heat,Atlanta Hawks,Miami Heat,4,2,6,816584400.0,1996
+Miami Heat,Miami Heat,Orlando Magic,5,2,7,816670800.0,1996
+Miami Heat,Miami Heat,Golden State Warriors,6,2,8,817016400.0,1996
+Miami Heat,Washington Bullets,Miami Heat,6,3,9,817189200.0,1996
+Miami Heat,Miami Heat,Vancouver Grizzlies,7,3,10,817275600.0,1996
+Miami Heat,Miami Heat,Dallas Mavericks,8,3,11,817534800.0,1996
+Miami Heat,Detroit Pistons,Miami Heat,9,3,12,817707600.0,1996
+Miami Heat,Miami Heat,Charlotte Hornets (Original),10,3,13,817794000.0,1996
+Miami Heat,Toronto Raptors,Miami Heat,11,3,14,817966800.0,1996
+Miami Heat,Boston Celtics,Miami Heat,11,4,15,818053200.0,1996
+Miami Heat,Miami Heat,Boston Celtics,11,5,16,818226000.0,1996
+Miami Heat,Phoenix Suns,Miami Heat,12,5,17,818485200.0,1996
+Miami Heat,Sacramento Kings,Miami Heat,12,6,18,818571600.0,1996
+Miami Heat,Golden State Warriors,Miami Heat,12,7,19,818744400.0,1996
+Miami Heat,Los Angeles Clippers,Miami Heat,12,8,20,818917200.0,1996
+Miami Heat,Miami Heat,Utah Jazz,12,9,21,819090000.0,1996
+Miami Heat,New York Knicks,Miami Heat,12,10,22,819349200.0,1996
+Miami Heat,New Jersey Nets,Miami Heat,13,10,23,819435600.0,1996
+Miami Heat,Miami Heat,Detroit Pistons,13,11,24,819608400.0,1996
+Miami Heat,Charlotte Hornets (Original),Miami Heat,13,12,25,819694800.0,1996
+Miami Heat,Miami Heat,New Jersey Nets,14,12,26,819954000.0,1996
+Miami Heat,Indiana Pacers,Miami Heat,14,13,27,820126800.0,1996
+Miami Heat,Miami Heat,Los Angeles Clippers,15,13,28,820299600.0,1996
+Miami Heat,Miami Heat,Seattle Supersonics,15,14,29,820731600.0,1996
+Miami Heat,Denver Nuggets,Miami Heat,16,14,30,820904400.0,1996
+Miami Heat,Utah Jazz,Miami Heat,16,15,31,821077200.0,1996
+Miami Heat,Portland Trail Blazers,Miami Heat,16,16,32,821250000.0,1996
+Miami Heat,Seattle Supersonics,Miami Heat,16,17,33,821422800.0,1996
+Miami Heat,Vancouver Grizzlies,Miami Heat,16,18,34,821509200.0,1996
+Miami Heat,Los Angeles Lakers,Miami Heat,16,19,35,821682000.0,1996
+Miami Heat,Miami Heat,Washington Bullets,17,19,36,821854800.0,1996
+Miami Heat,Miami Heat,Charlotte Hornets (Original),17,20,37,822027600.0,1996
+Miami Heat,Atlanta Hawks,Miami Heat,17,21,38,822114000.0,1996
+Miami Heat,Miami Heat,San Antonio Spurs,18,21,39,822286800.0,1996
+Miami Heat,Miami Heat,New York Knicks,18,22,40,822459600.0,1996
+Miami Heat,Chicago Bulls,Miami Heat,18,23,41,822632400.0,1996
+Miami Heat,Cleveland Cavaliers,Miami Heat,19,23,42,822718800.0,1996
+Miami Heat,New York Knicks,Miami Heat,19,24,43,822891600.0,1996
+Miami Heat,Miami Heat,Phoenix Suns,19,25,44,822978000.0,1996
+Miami Heat,Miami Heat,Philadelphia 76ers,20,25,45,823150800.0,1996
+Miami Heat,Miami Heat,Boston Celtics,20,26,46,823323600.0,1996
+Miami Heat,Miami Heat,Sacramento Kings,21,26,47,823496400.0,1996
+Miami Heat,Miami Heat,Atlanta Hawks,22,26,48,823669200.0,1996
+Miami Heat,Miami Heat,Toronto Raptors,22,27,49,824187600.0,1996
+Miami Heat,Miami Heat,Denver Nuggets,23,27,50,824360400.0,1996
+Miami Heat,Miami Heat,Orlando Magic,23,28,51,824533200.0,1996
+Miami Heat,Cleveland Cavaliers,Miami Heat,23,29,52,824706000.0,1996
+Miami Heat,Philadelphia 76ers,Miami Heat,24,29,53,824878800.0,1996
+Miami Heat,Miami Heat,Chicago Bulls,25,29,54,825051600.0,1996
+Miami Heat,Miami Heat,Philadelphia 76ers,26,29,55,825224400.0,1996
+Miami Heat,New Jersey Nets,Miami Heat,27,29,56,825397200.0,1996
+Miami Heat,Orlando Magic,Miami Heat,27,30,57,825483600.0,1996
+Miami Heat,Miami Heat,Portland Trail Blazers,27,31,58,825656400.0,1996
+Miami Heat,Minnesota Timberwolves,Miami Heat,27,32,59,825829200.0,1996
+Miami Heat,Miami Heat,Minnesota Timberwolves,28,32,60,826002000.0,1996
+Miami Heat,Miami Heat,Toronto Raptors,29,32,61,826261200.0,1996
+Miami Heat,Miami Heat,Cleveland Cavaliers,30,32,62,826434000.0,1996
+Miami Heat,Dallas Mavericks,Miami Heat,31,32,63,826606800.0,1996
+Miami Heat,San Antonio Spurs,Miami Heat,31,33,64,826779600.0,1996
+Miami Heat,Houston Rockets,Miami Heat,32,33,65,826952400.0,1996
+Miami Heat,Miami Heat,Detroit Pistons,33,33,66,827298000.0,1996
+Miami Heat,Milwaukee Bucks,Miami Heat,34,33,67,827470800.0,1996
+Miami Heat,Boston Celtics,Miami Heat,35,33,68,827643600.0,1996
+Miami Heat,Miami Heat,Los Angeles Lakers,35,34,69,827902800.0,1996
+Miami Heat,Miami Heat,Washington Bullets,36,34,70,828075600.0,1996
+Miami Heat,Detroit Pistons,Miami Heat,37,34,71,828162000.0,1996
+Miami Heat,Miami Heat,Chicago Bulls,37,35,72,828421200.0,1996
+Miami Heat,Chicago Bulls,Miami Heat,37,36,73,828594000.0,1996
+Miami Heat,Indiana Pacers,Miami Heat,37,37,74,828766800.0,1996
+Miami Heat,Washington Bullets,Miami Heat,37,38,75,828936000.0,1996
+Miami Heat,Charlotte Hornets (Original),Miami Heat,38,38,76,829108800.0,1996
+Miami Heat,Miami Heat,Milwaukee Bucks,39,38,77,829195200.0,1996
+Miami Heat,Miami Heat,New York Knicks,40,38,78,829368000.0,1996
+Miami Heat,Miami Heat,New Jersey Nets,41,38,79,829540800.0,1996
+Miami Heat,Philadelphia 76ers,Miami Heat,41,39,80,829713600.0,1996
+Miami Heat,Milwaukee Bucks,Miami Heat,42,39,81,829886400.0,1996
+Miami Heat,Miami Heat,Atlanta Hawks,42,40,82,830059200.0,1996
+Milwaukee Bucks,Boston Celtics,Milwaukee Bucks,1,0,1,815374800.0,1996
+Milwaukee Bucks,Milwaukee Bucks,New York Knicks,1,1,2,815461200.0,1996
+Milwaukee Bucks,Houston Rockets,Milwaukee Bucks,1,2,3,815720400.0,1996
+Milwaukee Bucks,Dallas Mavericks,Milwaukee Bucks,1,3,4,815893200.0,1996
+Milwaukee Bucks,San Antonio Spurs,Milwaukee Bucks,1,4,5,815979600.0,1996
+Milwaukee Bucks,Milwaukee Bucks,San Antonio Spurs,2,4,6,816325200.0,1996
+Milwaukee Bucks,Milwaukee Bucks,Houston Rockets,2,5,7,816498000.0,1996
+Milwaukee Bucks,Milwaukee Bucks,Boston Celtics,2,6,8,816670800.0,1996
+Milwaukee Bucks,Milwaukee Bucks,Toronto Raptors,3,6,9,817016400.0,1996
+Milwaukee Bucks,Cleveland Cavaliers,Milwaukee Bucks,3,7,10,817275600.0,1996
+Milwaukee Bucks,Milwaukee Bucks,Minnesota Timberwolves,3,8,11,817362000.0,1996
+Milwaukee Bucks,Milwaukee Bucks,Charlotte Hornets (Original),3,9,12,817534800.0,1996
+Milwaukee Bucks,Portland Trail Blazers,Milwaukee Bucks,4,9,13,817707600.0,1996
+Milwaukee Bucks,Seattle Supersonics,Milwaukee Bucks,4,10,14,817794000.0,1996
+Milwaukee Bucks,Vancouver Grizzlies,Milwaukee Bucks,5,10,15,817966800.0,1996
+Milwaukee Bucks,Milwaukee Bucks,Los Angeles Clippers,6,10,16,818312400.0,1996
+Milwaukee Bucks,Milwaukee Bucks,Chicago Bulls,6,11,17,818485200.0,1996
+Milwaukee Bucks,Washington Bullets,Milwaukee Bucks,6,12,18,818744400.0,1996
+Milwaukee Bucks,Indiana Pacers,Milwaukee Bucks,6,13,19,819003600.0,1996
+Milwaukee Bucks,Milwaukee Bucks,Indiana Pacers,7,13,20,819176400.0,1996
+Milwaukee Bucks,Milwaukee Bucks,Los Angeles Lakers,7,14,21,819349200.0,1996
+Milwaukee Bucks,Detroit Pistons,Milwaukee Bucks,7,15,22,819435600.0,1996
+Milwaukee Bucks,Philadelphia 76ers,Milwaukee Bucks,8,15,23,819608400.0,1996
+Milwaukee Bucks,Milwaukee Bucks,Atlanta Hawks,9,15,24,819694800.0,1996
+Milwaukee Bucks,Toronto Raptors,Milwaukee Bucks,9,16,25,819954000.0,1996
+Milwaukee Bucks,Minnesota Timberwolves,Milwaukee Bucks,10,16,26,820040400.0,1996
+Milwaukee Bucks,Milwaukee Bucks,Washington Bullets,10,17,27,820299600.0,1996
+Milwaukee Bucks,New Jersey Nets,Milwaukee Bucks,10,18,28,820558800.0,1996
+Milwaukee Bucks,Milwaukee Bucks,Detroit Pistons,11,18,29,820645200.0,1996
+Milwaukee Bucks,Milwaukee Bucks,Portland Trail Blazers,12,18,30,820818000.0,1996
+Milwaukee Bucks,Chicago Bulls,Milwaukee Bucks,12,19,31,820904400.0,1996
+Milwaukee Bucks,Milwaukee Bucks,Seattle Supersonics,12,20,32,821163600.0,1996
+Milwaukee Bucks,Indiana Pacers,Milwaukee Bucks,12,21,33,821336400.0,1996
+Milwaukee Bucks,Orlando Magic,Milwaukee Bucks,12,22,34,821422800.0,1996
+Milwaukee Bucks,New York Knicks,Milwaukee Bucks,13,22,35,821682000.0,1996
+Milwaukee Bucks,Philadelphia 76ers,Milwaukee Bucks,14,22,36,821854800.0,1996
+Milwaukee Bucks,Milwaukee Bucks,Golden State Warriors,15,22,37,821941200.0,1996
+Milwaukee Bucks,Milwaukee Bucks,Vancouver Grizzlies,15,23,38,822286800.0,1996
+Milwaukee Bucks,Milwaukee Bucks,Indiana Pacers,15,24,39,822459600.0,1996
+Milwaukee Bucks,Milwaukee Bucks,Phoenix Suns,15,25,40,822632400.0,1996
+Milwaukee Bucks,Cleveland Cavaliers,Milwaukee Bucks,15,26,41,823064400.0,1996
+Milwaukee Bucks,Milwaukee Bucks,Denver Nuggets,16,26,42,823150800.0,1996
+Milwaukee Bucks,Milwaukee Bucks,Cleveland Cavaliers,16,27,43,823323600.0,1996
+Milwaukee Bucks,Milwaukee Bucks,Dallas Mavericks,17,27,44,823582800.0,1996
+Milwaukee Bucks,Toronto Raptors,Milwaukee Bucks,18,27,45,823669200.0,1996
+Milwaukee Bucks,Milwaukee Bucks,Philadelphia 76ers,18,28,46,824187600.0,1996
+Milwaukee Bucks,Milwaukee Bucks,Washington Bullets,19,28,47,824360400.0,1996
+Milwaukee Bucks,Orlando Magic,Milwaukee Bucks,19,29,48,824446800.0,1996
+Milwaukee Bucks,Charlotte Hornets (Original),Milwaukee Bucks,19,30,49,824619600.0,1996
+Milwaukee Bucks,New York Knicks,Milwaukee Bucks,20,30,50,824792400.0,1996
+Milwaukee Bucks,Milwaukee Bucks,New Jersey Nets,20,31,51,824878800.0,1996
+Milwaukee Bucks,Milwaukee Bucks,Orlando Magic,20,32,52,825051600.0,1996
+Milwaukee Bucks,Washington Bullets,Milwaukee Bucks,20,33,53,825224400.0,1996
+Milwaukee Bucks,Milwaukee Bucks,Charlotte Hornets (Original),20,34,54,825397200.0,1996
+Milwaukee Bucks,Milwaukee Bucks,Cleveland Cavaliers,20,35,55,825570000.0,1996
+Milwaukee Bucks,Milwaukee Bucks,Atlanta Hawks,21,35,56,825742800.0,1996
+Milwaukee Bucks,Boston Celtics,Milwaukee Bucks,21,36,57,825915600.0,1996
+Milwaukee Bucks,Chicago Bulls,Milwaukee Bucks,21,37,58,826002000.0,1996
+Milwaukee Bucks,Atlanta Hawks,Milwaukee Bucks,21,38,59,826261200.0,1996
+Milwaukee Bucks,Milwaukee Bucks,Boston Celtics,21,39,60,826434000.0,1996
+Milwaukee Bucks,Sacramento Kings,Milwaukee Bucks,21,40,61,826693200.0,1996
+Milwaukee Bucks,Los Angeles Lakers,Milwaukee Bucks,21,41,62,826866000.0,1996
+Milwaukee Bucks,Golden State Warriors,Milwaukee Bucks,21,42,63,826952400.0,1996
+Milwaukee Bucks,Milwaukee Bucks,Utah Jazz,21,43,64,827125200.0,1996
+Milwaukee Bucks,Milwaukee Bucks,Sacramento Kings,21,44,65,827298000.0,1996
+Milwaukee Bucks,Milwaukee Bucks,Miami Heat,21,45,66,827470800.0,1996
+Milwaukee Bucks,Milwaukee Bucks,New Jersey Nets,21,46,67,827643600.0,1996
+Milwaukee Bucks,Los Angeles Clippers,Milwaukee Bucks,21,47,68,827816400.0,1996
+Milwaukee Bucks,Utah Jazz,Milwaukee Bucks,21,48,69,827902800.0,1996
+Milwaukee Bucks,Phoenix Suns,Milwaukee Bucks,21,49,70,828075600.0,1996
+Milwaukee Bucks,Denver Nuggets,Milwaukee Bucks,21,50,71,828162000.0,1996
+Milwaukee Bucks,Milwaukee Bucks,Detroit Pistons,22,50,72,828421200.0,1996
+Milwaukee Bucks,Milwaukee Bucks,New York Knicks,22,51,73,828680400.0,1996
+Milwaukee Bucks,New Jersey Nets,Milwaukee Bucks,23,51,74,828766800.0,1996
+Milwaukee Bucks,Milwaukee Bucks,Toronto Raptors,23,52,75,829022400.0,1996
+Milwaukee Bucks,Miami Heat,Milwaukee Bucks,23,53,76,829195200.0,1996
+Milwaukee Bucks,Atlanta Hawks,Milwaukee Bucks,23,54,77,829281600.0,1996
+Milwaukee Bucks,Milwaukee Bucks,Orlando Magic,24,54,78,829454400.0,1996
+Milwaukee Bucks,Milwaukee Bucks,Chicago Bulls,24,55,79,829627200.0,1996
+Milwaukee Bucks,Charlotte Hornets (Original),Milwaukee Bucks,25,55,80,829800000.0,1996
+Milwaukee Bucks,Milwaukee Bucks,Miami Heat,25,56,81,829886400.0,1996
+Milwaukee Bucks,Detroit Pistons,Milwaukee Bucks,25,57,82,830059200.0,1996
+Minnesota Timberwolves,Sacramento Kings,Minnesota Timberwolves,0,1,1,815374800.0,1996
+Minnesota Timberwolves,Vancouver Grizzlies,Minnesota Timberwolves,0,2,2,815547600.0,1996
+Minnesota Timberwolves,Minnesota Timberwolves,Los Angeles Lakers,1,2,3,815720400.0,1996
+Minnesota Timberwolves,Minnesota Timberwolves,Portland Trail Blazers,1,3,4,815979600.0,1996
+Minnesota Timberwolves,Houston Rockets,Minnesota Timberwolves,1,4,5,816066000.0,1996
+Minnesota Timberwolves,Minnesota Timberwolves,San Antonio Spurs,1,5,6,816411600.0,1996
+Minnesota Timberwolves,Toronto Raptors,Minnesota Timberwolves,1,6,7,816584400.0,1996
+Minnesota Timberwolves,Minnesota Timberwolves,Utah Jazz,1,7,8,816670800.0,1996
+Minnesota Timberwolves,Minnesota Timberwolves,Seattle Supersonics,1,8,9,817016400.0,1996
+Minnesota Timberwolves,Minnesota Timberwolves,Orlando Magic,1,9,10,817189200.0,1996
+Minnesota Timberwolves,Milwaukee Bucks,Minnesota Timberwolves,2,9,11,817362000.0,1996
+Minnesota Timberwolves,Minnesota Timberwolves,Vancouver Grizzlies,3,9,12,817534800.0,1996
+Minnesota Timberwolves,Phoenix Suns,Minnesota Timberwolves,3,10,13,817794000.0,1996
+Minnesota Timberwolves,Denver Nuggets,Minnesota Timberwolves,3,11,14,817880400.0,1996
+Minnesota Timberwolves,Minnesota Timberwolves,New Jersey Nets,4,11,15,818226000.0,1996
+Minnesota Timberwolves,Minnesota Timberwolves,Los Angeles Clippers,5,11,16,818398800.0,1996
+Minnesota Timberwolves,Charlotte Hornets (Original),Minnesota Timberwolves,5,12,17,818485200.0,1996
+Minnesota Timberwolves,Atlanta Hawks,Minnesota Timberwolves,6,12,18,818744400.0,1996
+Minnesota Timberwolves,Minnesota Timberwolves,Cleveland Cavaliers,6,13,19,819003600.0,1996
+Minnesota Timberwolves,Minnesota Timberwolves,Philadelphia 76ers,6,14,20,819176400.0,1996
+Minnesota Timberwolves,Cleveland Cavaliers,Minnesota Timberwolves,6,15,21,819349200.0,1996
+Minnesota Timberwolves,Orlando Magic,Minnesota Timberwolves,6,16,22,819435600.0,1996
+Minnesota Timberwolves,Boston Celtics,Minnesota Timberwolves,6,17,23,819608400.0,1996
+Minnesota Timberwolves,Minnesota Timberwolves,Dallas Mavericks,7,17,24,819694800.0,1996
+Minnesota Timberwolves,Minnesota Timberwolves,Milwaukee Bucks,7,18,25,820040400.0,1996
+Minnesota Timberwolves,Utah Jazz,Minnesota Timberwolves,7,19,26,820126800.0,1996
+Minnesota Timberwolves,San Antonio Spurs,Minnesota Timberwolves,7,20,27,820299600.0,1996
+Minnesota Timberwolves,Minnesota Timberwolves,Houston Rockets,7,21,28,820558800.0,1996
+Minnesota Timberwolves,Phoenix Suns,Minnesota Timberwolves,8,21,29,820731600.0,1996
+Minnesota Timberwolves,Golden State Warriors,Minnesota Timberwolves,8,22,30,820818000.0,1996
+Minnesota Timberwolves,Portland Trail Blazers,Minnesota Timberwolves,8,23,31,820990800.0,1996
+Minnesota Timberwolves,Los Angeles Lakers,Minnesota Timberwolves,8,24,32,821163600.0,1996
+Minnesota Timberwolves,Los Angeles Clippers,Minnesota Timberwolves,8,25,33,821336400.0,1996
+Minnesota Timberwolves,Indiana Pacers,Minnesota Timberwolves,8,26,34,821509200.0,1996
+Minnesota Timberwolves,Minnesota Timberwolves,Sacramento Kings,9,26,35,821682000.0,1996
+Minnesota Timberwolves,Minnesota Timberwolves,Golden State Warriors,10,26,36,821854800.0,1996
+Minnesota Timberwolves,Minnesota Timberwolves,San Antonio Spurs,11,26,37,822027600.0,1996
+Minnesota Timberwolves,New Jersey Nets,Minnesota Timberwolves,11,27,38,822114000.0,1996
+Minnesota Timberwolves,Minnesota Timberwolves,Phoenix Suns,11,28,39,822459600.0,1996
+Minnesota Timberwolves,New York Knicks,Minnesota Timberwolves,11,29,40,822718800.0,1996
+Minnesota Timberwolves,Minnesota Timberwolves,Denver Nuggets,11,30,41,822978000.0,1996
+Minnesota Timberwolves,San Antonio Spurs,Minnesota Timberwolves,11,31,42,823237200.0,1996
+Minnesota Timberwolves,Dallas Mavericks,Minnesota Timberwolves,12,31,43,823323600.0,1996
+Minnesota Timberwolves,Minnesota Timberwolves,Dallas Mavericks,13,31,44,823496400.0,1996
+Minnesota Timberwolves,Minnesota Timberwolves,Portland Trail Blazers,13,32,45,823669200.0,1996
+Minnesota Timberwolves,Sacramento Kings,Minnesota Timberwolves,14,32,46,824187600.0,1996
+Minnesota Timberwolves,Seattle Supersonics,Minnesota Timberwolves,14,33,47,824274000.0,1996
+Minnesota Timberwolves,Minnesota Timberwolves,Chicago Bulls,14,34,48,824446800.0,1996
+Minnesota Timberwolves,Minnesota Timberwolves,Washington Bullets,14,35,49,824619600.0,1996
+Minnesota Timberwolves,Detroit Pistons,Minnesota Timberwolves,14,36,50,824706000.0,1996
+Minnesota Timberwolves,Minnesota Timberwolves,Houston Rockets,15,36,51,824878800.0,1996
+Minnesota Timberwolves,Minnesota Timberwolves,Detroit Pistons,16,36,52,825051600.0,1996
+Minnesota Timberwolves,Minnesota Timberwolves,Atlanta Hawks,16,37,53,825224400.0,1996
+Minnesota Timberwolves,Chicago Bulls,Minnesota Timberwolves,16,38,54,825397200.0,1996
+Minnesota Timberwolves,Minnesota Timberwolves,Phoenix Suns,16,39,55,825483600.0,1996
+Minnesota Timberwolves,Minnesota Timberwolves,Charlotte Hornets (Original),17,39,56,825656400.0,1996
+Minnesota Timberwolves,Minnesota Timberwolves,Miami Heat,18,39,57,825829200.0,1996
+Minnesota Timberwolves,Miami Heat,Minnesota Timberwolves,18,40,58,826002000.0,1996
+Minnesota Timberwolves,Philadelphia 76ers,Minnesota Timberwolves,19,40,59,826088400.0,1996
+Minnesota Timberwolves,Minnesota Timberwolves,Seattle Supersonics,19,41,60,826261200.0,1996
+Minnesota Timberwolves,Minnesota Timberwolves,Utah Jazz,19,42,61,826434000.0,1996
+Minnesota Timberwolves,Minnesota Timberwolves,New York Knicks,19,43,62,826693200.0,1996
+Minnesota Timberwolves,Minnesota Timberwolves,Sacramento Kings,20,43,63,826866000.0,1996
+Minnesota Timberwolves,Minnesota Timberwolves,Vancouver Grizzlies,21,43,64,827038800.0,1996
+Minnesota Timberwolves,Portland Trail Blazers,Minnesota Timberwolves,21,44,65,827211600.0,1996
+Minnesota Timberwolves,Los Angeles Clippers,Minnesota Timberwolves,21,45,66,827298000.0,1996
+Minnesota Timberwolves,Dallas Mavericks,Minnesota Timberwolves,22,45,67,827470800.0,1996
+Minnesota Timberwolves,Houston Rockets,Minnesota Timberwolves,23,45,68,827557200.0,1996
+Minnesota Timberwolves,Minnesota Timberwolves,Boston Celtics,23,46,69,827902800.0,1996
+Minnesota Timberwolves,Minnesota Timberwolves,Indiana Pacers,24,46,70,828075600.0,1996
+Minnesota Timberwolves,Minnesota Timberwolves,Los Angeles Clippers,24,47,71,828248400.0,1996
+Minnesota Timberwolves,Denver Nuggets,Minnesota Timberwolves,24,48,72,828421200.0,1996
+Minnesota Timberwolves,Vancouver Grizzlies,Minnesota Timberwolves,24,49,73,828507600.0,1996
+Minnesota Timberwolves,Utah Jazz,Minnesota Timberwolves,25,49,74,828680400.0,1996
+Minnesota Timberwolves,Golden State Warriors,Minnesota Timberwolves,25,50,75,828766800.0,1996
+Minnesota Timberwolves,Minnesota Timberwolves,Toronto Raptors,26,50,76,828936000.0,1996
+Minnesota Timberwolves,Minnesota Timberwolves,Los Angeles Lakers,26,51,77,829108800.0,1996
+Minnesota Timberwolves,Washington Bullets,Minnesota Timberwolves,26,52,78,829281600.0,1996
+Minnesota Timberwolves,Minnesota Timberwolves,Denver Nuggets,26,53,79,829454400.0,1996
+Minnesota Timberwolves,Minnesota Timberwolves,Golden State Warriors,26,54,80,829713600.0,1996
+Minnesota Timberwolves,Seattle Supersonics,Minnesota Timberwolves,26,55,81,829886400.0,1996
+Minnesota Timberwolves,Los Angeles Lakers,Minnesota Timberwolves,26,56,82,829972800.0,1996
+New Jersey Nets,Toronto Raptors,New Jersey Nets,0,1,1,815374800.0,1996
+New Jersey Nets,New Jersey Nets,Portland Trail Blazers,1,1,2,815720400.0,1996
+New Jersey Nets,Orlando Magic,New Jersey Nets,1,2,3,815806800.0,1996
+New Jersey Nets,Miami Heat,New Jersey Nets,1,3,4,815979600.0,1996
+New Jersey Nets,New Jersey Nets,Sacramento Kings,2,3,5,816066000.0,1996
+New Jersey Nets,New Jersey Nets,Charlotte Hornets (Original),3,3,6,816411600.0,1996
+New Jersey Nets,Chicago Bulls,New Jersey Nets,3,4,7,816584400.0,1996
+New Jersey Nets,New Jersey Nets,Philadelphia 76ers,4,4,8,816670800.0,1996
+New Jersey Nets,Utah Jazz,New Jersey Nets,4,5,9,816843600.0,1996
+New Jersey Nets,Los Angeles Clippers,New Jersey Nets,4,6,10,817016400.0,1996
+New Jersey Nets,Portland Trail Blazers,New Jersey Nets,4,7,11,817189200.0,1996
+New Jersey Nets,Sacramento Kings,New Jersey Nets,4,8,12,817362000.0,1996
+New Jersey Nets,New Jersey Nets,Washington Bullets,5,8,13,817534800.0,1996
+New Jersey Nets,Boston Celtics,New Jersey Nets,6,8,14,817794000.0,1996
+New Jersey Nets,New Jersey Nets,Cleveland Cavaliers,7,8,15,817880400.0,1996
+New Jersey Nets,Minnesota Timberwolves,New Jersey Nets,7,9,16,818226000.0,1996
+New Jersey Nets,New Jersey Nets,Indiana Pacers,8,9,17,818398800.0,1996
+New Jersey Nets,Cleveland Cavaliers,New Jersey Nets,9,9,18,818485200.0,1996
+New Jersey Nets,New Jersey Nets,Orlando Magic,9,10,19,818744400.0,1996
+New Jersey Nets,Detroit Pistons,New Jersey Nets,9,11,20,819003600.0,1996
+New Jersey Nets,New Jersey Nets,Utah Jazz,9,12,21,819262800.0,1996
+New Jersey Nets,New Jersey Nets,Miami Heat,9,13,22,819435600.0,1996
+New Jersey Nets,Atlanta Hawks,New Jersey Nets,9,14,23,819608400.0,1996
+New Jersey Nets,Philadelphia 76ers,New Jersey Nets,10,14,24,819694800.0,1996
+New Jersey Nets,Miami Heat,New Jersey Nets,10,15,25,819954000.0,1996
+New Jersey Nets,Houston Rockets,New Jersey Nets,10,16,26,820126800.0,1996
+New Jersey Nets,New Jersey Nets,Golden State Warriors,10,17,27,820299600.0,1996
+New Jersey Nets,New Jersey Nets,Milwaukee Bucks,11,17,28,820558800.0,1996
+New Jersey Nets,New York Knicks,New Jersey Nets,11,18,29,820731600.0,1996
+New Jersey Nets,New Jersey Nets,Dallas Mavericks,12,18,30,820818000.0,1996
+New Jersey Nets,Orlando Magic,New Jersey Nets,12,19,31,821163600.0,1996
+New Jersey Nets,New Jersey Nets,New York Knicks,13,19,32,821250000.0,1996
+New Jersey Nets,New Jersey Nets,Philadelphia 76ers,13,20,33,821422800.0,1996
+New Jersey Nets,New Jersey Nets,Detroit Pistons,13,21,34,821509200.0,1996
+New Jersey Nets,New Jersey Nets,Toronto Raptors,14,21,35,821682000.0,1996
+New Jersey Nets,Charlotte Hornets (Original),New Jersey Nets,15,21,36,821854800.0,1996
+New Jersey Nets,Washington Bullets,New Jersey Nets,15,22,37,822027600.0,1996
+New Jersey Nets,New Jersey Nets,Minnesota Timberwolves,16,22,38,822114000.0,1996
+New Jersey Nets,Toronto Raptors,New Jersey Nets,16,23,39,822373200.0,1996
+New Jersey Nets,New Jersey Nets,Houston Rockets,16,24,40,822459600.0,1996
+New Jersey Nets,New Jersey Nets,Charlotte Hornets (Original),17,24,41,822632400.0,1996
+New Jersey Nets,New Jersey Nets,Los Angeles Lakers,17,25,42,822718800.0,1996
+New Jersey Nets,Seattle Supersonics,New Jersey Nets,17,26,43,822978000.0,1996
+New Jersey Nets,Vancouver Grizzlies,New Jersey Nets,18,26,44,823237200.0,1996
+New Jersey Nets,Golden State Warriors,New Jersey Nets,18,27,45,823410000.0,1996
+New Jersey Nets,Los Angeles Lakers,New Jersey Nets,18,28,46,823669200.0,1996
+New Jersey Nets,Phoenix Suns,New Jersey Nets,18,29,47,823755600.0,1996
+New Jersey Nets,Indiana Pacers,New Jersey Nets,19,29,48,824187600.0,1996
+New Jersey Nets,New Jersey Nets,Indiana Pacers,20,29,49,824274000.0,1996
+New Jersey Nets,New Jersey Nets,New York Knicks,21,29,50,824533200.0,1996
+New Jersey Nets,Washington Bullets,New Jersey Nets,22,29,51,824706000.0,1996
+New Jersey Nets,Milwaukee Bucks,New Jersey Nets,23,29,52,824878800.0,1996
+New Jersey Nets,Cleveland Cavaliers,New Jersey Nets,23,30,53,825138000.0,1996
+New Jersey Nets,New Jersey Nets,Boston Celtics,24,30,54,825224400.0,1996
+New Jersey Nets,New Jersey Nets,Miami Heat,24,31,55,825397200.0,1996
+New Jersey Nets,New Jersey Nets,Orlando Magic,24,32,56,825570000.0,1996
+New Jersey Nets,New Jersey Nets,Seattle Supersonics,24,33,57,825742800.0,1996
+New Jersey Nets,Dallas Mavericks,New Jersey Nets,24,34,58,826002000.0,1996
+New Jersey Nets,San Antonio Spurs,New Jersey Nets,24,35,59,826261200.0,1996
+New Jersey Nets,Denver Nuggets,New Jersey Nets,25,35,60,826434000.0,1996
+New Jersey Nets,New Jersey Nets,Phoenix Suns,25,36,61,826606800.0,1996
+New Jersey Nets,New Jersey Nets,Washington Bullets,25,37,62,826779600.0,1996
+New Jersey Nets,New Jersey Nets,Chicago Bulls,25,38,63,826952400.0,1996
+New Jersey Nets,Boston Celtics,New Jersey Nets,25,39,64,827038800.0,1996
+New Jersey Nets,New Jersey Nets,Vancouver Grizzlies,26,39,65,827211600.0,1996
+New Jersey Nets,New Jersey Nets,Denver Nuggets,27,39,66,827384400.0,1996
+New Jersey Nets,Detroit Pistons,New Jersey Nets,27,40,67,827470800.0,1996
+New Jersey Nets,Milwaukee Bucks,New Jersey Nets,28,40,68,827643600.0,1996
+New Jersey Nets,New Jersey Nets,San Antonio Spurs,28,41,69,827730000.0,1996
+New Jersey Nets,New York Knicks,New Jersey Nets,28,42,70,828075600.0,1996
+New Jersey Nets,Indiana Pacers,New Jersey Nets,28,43,71,828248400.0,1996
+New Jersey Nets,New Jersey Nets,Los Angeles Clippers,29,43,72,828507600.0,1996
+New Jersey Nets,New Jersey Nets,Atlanta Hawks,29,44,73,828680400.0,1996
+New Jersey Nets,New Jersey Nets,Milwaukee Bucks,29,45,74,828766800.0,1996
+New Jersey Nets,Philadelphia 76ers,New Jersey Nets,29,46,75,828936000.0,1996
+New Jersey Nets,New Jersey Nets,Detroit Pistons,29,47,76,829022400.0,1996
+New Jersey Nets,New Jersey Nets,Chicago Bulls,29,48,77,829195200.0,1996
+New Jersey Nets,New Jersey Nets,Atlanta Hawks,29,49,78,829454400.0,1996
+New Jersey Nets,Miami Heat,New Jersey Nets,29,50,79,829540800.0,1996
+New Jersey Nets,New Jersey Nets,Toronto Raptors,30,50,80,829713600.0,1996
+New Jersey Nets,New Jersey Nets,Boston Celtics,30,51,81,829886400.0,1996
+New Jersey Nets,Atlanta Hawks,New Jersey Nets,30,52,82,829972800.0,1996
+New York Knicks,Detroit Pistons,New York Knicks,1,0,1,815374800.0,1996
+New York Knicks,Milwaukee Bucks,New York Knicks,2,0,2,815461200.0,1996
+New York Knicks,New York Knicks,Phoenix Suns,2,1,3,815720400.0,1996
+New York Knicks,New York Knicks,Indiana Pacers,3,1,4,815893200.0,1996
+New York Knicks,Washington Bullets,New York Knicks,4,1,5,815979600.0,1996
+New York Knicks,New York Knicks,Utah Jazz,5,1,6,816152400.0,1996
+New York Knicks,Portland Trail Blazers,New York Knicks,5,2,7,816325200.0,1996
+New York Knicks,Golden State Warriors,New York Knicks,6,2,8,816498000.0,1996
+New York Knicks,Denver Nuggets,New York Knicks,7,2,9,816584400.0,1996
+New York Knicks,New York Knicks,Vancouver Grizzlies,8,2,10,816757200.0,1996
+New York Knicks,Cleveland Cavaliers,New York Knicks,9,2,11,817016400.0,1996
+New York Knicks,New York Knicks,Houston Rockets,10,2,12,817275600.0,1996
+New York Knicks,New York Knicks,Atlanta Hawks,10,3,13,817534800.0,1996
+New York Knicks,Charlotte Hornets (Original),New York Knicks,10,4,14,817621200.0,1996
+New York Knicks,Philadelphia 76ers,New York Knicks,11,4,15,817880400.0,1996
+New York Knicks,New York Knicks,Washington Bullets,12,4,16,817966800.0,1996
+New York Knicks,New York Knicks,Dallas Mavericks,13,4,17,818139600.0,1996
+New York Knicks,Chicago Bulls,New York Knicks,13,5,18,818226000.0,1996
+New York Knicks,Atlanta Hawks,New York Knicks,14,5,19,818485200.0,1996
+New York Knicks,New York Knicks,San Antonio Spurs,15,5,20,818571600.0,1996
+New York Knicks,New York Knicks,Los Angeles Lakers,16,5,21,818744400.0,1996
+New York Knicks,New York Knicks,Denver Nuggets,16,6,22,818917200.0,1996
+New York Knicks,New York Knicks,Detroit Pistons,17,6,23,819090000.0,1996
+New York Knicks,New York Knicks,Miami Heat,18,6,24,819349200.0,1996
+New York Knicks,Orlando Magic,New York Knicks,18,7,25,819608400.0,1996
+New York Knicks,New York Knicks,Toronto Raptors,19,7,26,819694800.0,1996
+New York Knicks,New York Knicks,Cleveland Cavaliers,19,8,27,820126800.0,1996
+New York Knicks,Washington Bullets,New York Knicks,19,9,28,820213200.0,1996
+New York Knicks,New York Knicks,Portland Trail Blazers,19,10,29,820558800.0,1996
+New York Knicks,New York Knicks,New Jersey Nets,20,10,30,820731600.0,1996
+New York Knicks,New York Knicks,Boston Celtics,21,10,31,821163600.0,1996
+New York Knicks,New Jersey Nets,New York Knicks,21,11,32,821250000.0,1996
+New York Knicks,Boston Celtics,New York Knicks,22,11,33,821422800.0,1996
+New York Knicks,New York Knicks,Sacramento Kings,22,12,34,821509200.0,1996
+New York Knicks,New York Knicks,Milwaukee Bucks,22,13,35,821682000.0,1996
+New York Knicks,Los Angeles Clippers,New York Knicks,23,13,36,821854800.0,1996
+New York Knicks,Seattle Supersonics,New York Knicks,24,13,37,822027600.0,1996
+New York Knicks,Vancouver Grizzlies,New York Knicks,24,14,38,822114000.0,1996
+New York Knicks,New York Knicks,Chicago Bulls,24,15,39,822373200.0,1996
+New York Knicks,Miami Heat,New York Knicks,25,15,40,822459600.0,1996
+New York Knicks,New York Knicks,Minnesota Timberwolves,26,15,41,822718800.0,1996
+New York Knicks,New York Knicks,Miami Heat,27,15,42,822891600.0,1996
+New York Knicks,New York Knicks,Orlando Magic,28,15,43,823150800.0,1996
+New York Knicks,Indiana Pacers,New York Knicks,28,16,44,823410000.0,1996
+New York Knicks,New York Knicks,Detroit Pistons,29,16,45,823496400.0,1996
+New York Knicks,New York Knicks,Washington Bullets,30,16,46,823669200.0,1996
+New York Knicks,Charlotte Hornets (Original),New York Knicks,30,17,47,824274000.0,1996
+New York Knicks,New York Knicks,Philadelphia 76ers,31,17,48,824446800.0,1996
+New York Knicks,New Jersey Nets,New York Knicks,31,18,49,824533200.0,1996
+New York Knicks,New York Knicks,Milwaukee Bucks,31,19,50,824792400.0,1996
+New York Knicks,Detroit Pistons,New York Knicks,32,19,51,824878800.0,1996
+New York Knicks,New York Knicks,Atlanta Hawks,32,20,52,825051600.0,1996
+New York Knicks,Phoenix Suns,New York Knicks,32,21,53,825224400.0,1996
+New York Knicks,Los Angeles Lakers,New York Knicks,32,22,54,825310800.0,1996
+New York Knicks,Sacramento Kings,New York Knicks,32,23,55,825483600.0,1996
+New York Knicks,Utah Jazz,New York Knicks,32,24,56,825656400.0,1996
+New York Knicks,New York Knicks,Golden State Warriors,33,24,57,825829200.0,1996
+New York Knicks,New York Knicks,Los Angeles Clippers,33,25,58,826002000.0,1996
+New York Knicks,Toronto Raptors,New York Knicks,34,25,59,826088400.0,1996
+New York Knicks,Philadelphia 76ers,New York Knicks,34,26,60,826261200.0,1996
+New York Knicks,New York Knicks,Chicago Bulls,35,26,61,826434000.0,1996
+New York Knicks,Minnesota Timberwolves,New York Knicks,36,26,62,826693200.0,1996
+New York Knicks,New York Knicks,Philadelphia 76ers,37,26,63,826952400.0,1996
+New York Knicks,New York Knicks,Indiana Pacers,38,26,64,827298000.0,1996
+New York Knicks,Chicago Bulls,New York Knicks,38,27,65,827384400.0,1996
+New York Knicks,Dallas Mavericks,New York Knicks,39,27,66,827643600.0,1996
+New York Knicks,Houston Rockets,New York Knicks,40,27,67,827816400.0,1996
+New York Knicks,San Antonio Spurs,New York Knicks,40,28,68,827902800.0,1996
+New York Knicks,New York Knicks,New Jersey Nets,41,28,69,828075600.0,1996
+New York Knicks,Orlando Magic,New York Knicks,41,29,70,828248400.0,1996
+New York Knicks,Indiana Pacers,New York Knicks,42,29,71,828421200.0,1996
+New York Knicks,New York Knicks,Orlando Magic,42,30,72,828507600.0,1996
+New York Knicks,Milwaukee Bucks,New York Knicks,43,30,73,828680400.0,1996
+New York Knicks,Toronto Raptors,New York Knicks,44,30,74,828766800.0,1996
+New York Knicks,New York Knicks,Seattle Supersonics,44,31,75,828936000.0,1996
+New York Knicks,New York Knicks,Boston Celtics,45,31,76,829022400.0,1996
+New York Knicks,New York Knicks,Cleveland Cavaliers,45,32,77,829195200.0,1996
+New York Knicks,Miami Heat,New York Knicks,45,33,78,829368000.0,1996
+New York Knicks,New York Knicks,Toronto Raptors,46,33,79,829540800.0,1996
+New York Knicks,Cleveland Cavaliers,New York Knicks,46,34,80,829800000.0,1996
+New York Knicks,New York Knicks,Charlotte Hornets (Original),46,35,81,829886400.0,1996
+New York Knicks,Boston Celtics,New York Knicks,47,35,82,830059200.0,1996
+Orlando Magic,Orlando Magic,Cleveland Cavaliers,1,0,1,815374800.0,1996
+Orlando Magic,Atlanta Hawks,Orlando Magic,1,1,2,815461200.0,1996
+Orlando Magic,Orlando Magic,Washington Bullets,2,1,3,815634000.0,1996
+Orlando Magic,Orlando Magic,New Jersey Nets,3,1,4,815806800.0,1996
+Orlando Magic,Boston Celtics,Orlando Magic,4,1,5,815979600.0,1996
+Orlando Magic,Orlando Magic,Miami Heat,5,1,6,816066000.0,1996
+Orlando Magic,Orlando Magic,Chicago Bulls,6,1,7,816325200.0,1996
+Orlando Magic,Orlando Magic,Indiana Pacers,7,1,8,816498000.0,1996
+Orlando Magic,Miami Heat,Orlando Magic,7,2,9,816670800.0,1996
+Orlando Magic,Orlando Magic,Golden State Warriors,8,2,10,816843600.0,1996
+Orlando Magic,Orlando Magic,Vancouver Grizzlies,9,2,11,817016400.0,1996
+Orlando Magic,Minnesota Timberwolves,Orlando Magic,10,2,12,817189200.0,1996
+Orlando Magic,Washington Bullets,Orlando Magic,11,2,13,817275600.0,1996
+Orlando Magic,Orlando Magic,Detroit Pistons,12,2,14,817448400.0,1996
+Orlando Magic,Orlando Magic,Dallas Mavericks,13,2,15,817707600.0,1996
+Orlando Magic,Sacramento Kings,Orlando Magic,13,3,16,817880400.0,1996
+Orlando Magic,Portland Trail Blazers,Orlando Magic,13,4,17,817966800.0,1996
+Orlando Magic,Los Angeles Clippers,Orlando Magic,14,4,18,818139600.0,1996
+Orlando Magic,Golden State Warriors,Orlando Magic,15,4,19,818226000.0,1996
+Orlando Magic,Orlando Magic,Charlotte Hornets (Original),16,4,20,818398800.0,1996
+Orlando Magic,New Jersey Nets,Orlando Magic,17,4,21,818744400.0,1996
+Orlando Magic,Chicago Bulls,Orlando Magic,17,5,22,818830800.0,1996
+Orlando Magic,Orlando Magic,Utah Jazz,18,5,23,819003600.0,1996
+Orlando Magic,Toronto Raptors,Orlando Magic,18,6,24,819176400.0,1996
+Orlando Magic,Orlando Magic,Minnesota Timberwolves,19,6,25,819435600.0,1996
+Orlando Magic,Orlando Magic,New York Knicks,20,6,26,819608400.0,1996
+Orlando Magic,Detroit Pistons,Orlando Magic,21,6,27,819694800.0,1996
+Orlando Magic,Orlando Magic,Houston Rockets,22,6,28,819867600.0,1996
+Orlando Magic,Orlando Magic,Los Angeles Clippers,23,6,29,820213200.0,1996
+Orlando Magic,Orlando Magic,Toronto Raptors,24,6,30,820645200.0,1996
+Orlando Magic,Orlando Magic,Seattle Supersonics,25,6,31,820818000.0,1996
+Orlando Magic,Cleveland Cavaliers,Orlando Magic,25,7,32,820904400.0,1996
+Orlando Magic,Orlando Magic,New Jersey Nets,26,7,33,821163600.0,1996
+Orlando Magic,Orlando Magic,Milwaukee Bucks,27,7,34,821422800.0,1996
+Orlando Magic,San Antonio Spurs,Orlando Magic,27,8,35,821509200.0,1996
+Orlando Magic,Dallas Mavericks,Orlando Magic,27,9,36,821682000.0,1996
+Orlando Magic,Phoenix Suns,Orlando Magic,28,9,37,821854800.0,1996
+Orlando Magic,Utah Jazz,Orlando Magic,28,10,38,822027600.0,1996
+Orlando Magic,Houston Rockets,Orlando Magic,29,10,39,822200400.0,1996
+Orlando Magic,Orlando Magic,Philadelphia 76ers,30,10,40,822373200.0,1996
+Orlando Magic,Atlanta Hawks,Orlando Magic,30,11,41,822632400.0,1996
+Orlando Magic,Indiana Pacers,Orlando Magic,30,12,42,822718800.0,1996
+Orlando Magic,Orlando Magic,Boston Celtics,31,12,43,822978000.0,1996
+Orlando Magic,New York Knicks,Orlando Magic,31,13,44,823150800.0,1996
+Orlando Magic,Orlando Magic,Atlanta Hawks,32,13,45,823237200.0,1996
+Orlando Magic,Orlando Magic,San Antonio Spurs,33,13,46,823410000.0,1996
+Orlando Magic,Orlando Magic,Sacramento Kings,34,13,47,823582800.0,1996
+Orlando Magic,Detroit Pistons,Orlando Magic,34,14,48,823669200.0,1996
+Orlando Magic,Orlando Magic,Denver Nuggets,35,14,49,824187600.0,1996
+Orlando Magic,Orlando Magic,Milwaukee Bucks,36,14,50,824446800.0,1996
+Orlando Magic,Miami Heat,Orlando Magic,37,14,51,824533200.0,1996
+Orlando Magic,Orlando Magic,Philadelphia 76ers,38,14,52,824792400.0,1996
+Orlando Magic,Indiana Pacers,Orlando Magic,39,14,53,824878800.0,1996
+Orlando Magic,Milwaukee Bucks,Orlando Magic,40,14,54,825051600.0,1996
+Orlando Magic,Chicago Bulls,Orlando Magic,40,15,55,825224400.0,1996
+Orlando Magic,Orlando Magic,Miami Heat,41,15,56,825483600.0,1996
+Orlando Magic,New Jersey Nets,Orlando Magic,42,15,57,825570000.0,1996
+Orlando Magic,Orlando Magic,Portland Trail Blazers,43,15,58,825742800.0,1996
+Orlando Magic,Philadelphia 76ers,Orlando Magic,44,15,59,825915600.0,1996
+Orlando Magic,Charlotte Hornets (Original),Orlando Magic,45,15,60,826002000.0,1996
+Orlando Magic,Orlando Magic,Charlotte Hornets (Original),46,15,61,826261200.0,1996
+Orlando Magic,Orlando Magic,Phoenix Suns,47,15,62,826434000.0,1996
+Orlando Magic,Denver Nuggets,Orlando Magic,47,16,63,826606800.0,1996
+Orlando Magic,Seattle Supersonics,Orlando Magic,47,17,64,826693200.0,1996
+Orlando Magic,Vancouver Grizzlies,Orlando Magic,48,17,65,826866000.0,1996
+Orlando Magic,Los Angeles Lakers,Orlando Magic,49,17,66,827038800.0,1996
+Orlando Magic,Orlando Magic,Detroit Pistons,50,17,67,827211600.0,1996
+Orlando Magic,Boston Celtics,Orlando Magic,51,17,68,827298000.0,1996
+Orlando Magic,Washington Bullets,Orlando Magic,52,17,69,827470800.0,1996
+Orlando Magic,Orlando Magic,Los Angeles Lakers,52,18,70,827816400.0,1996
+Orlando Magic,Toronto Raptors,Orlando Magic,53,18,71,828075600.0,1996
+Orlando Magic,Orlando Magic,New York Knicks,54,18,72,828248400.0,1996
+Orlando Magic,New York Knicks,Orlando Magic,55,18,73,828507600.0,1996
+Orlando Magic,Orlando Magic,Boston Celtics,55,19,74,828594000.0,1996
+Orlando Magic,Orlando Magic,Chicago Bulls,55,20,75,828853200.0,1996
+Orlando Magic,Orlando Magic,Cleveland Cavaliers,56,20,76,829108800.0,1996
+Orlando Magic,Orlando Magic,Indiana Pacers,56,21,77,829281600.0,1996
+Orlando Magic,Milwaukee Bucks,Orlando Magic,56,22,78,829454400.0,1996
+Orlando Magic,Orlando Magic,Washington Bullets,57,22,79,829627200.0,1996
+Orlando Magic,Orlando Magic,Atlanta Hawks,58,22,80,829800000.0,1996
+Orlando Magic,Philadelphia 76ers,Orlando Magic,59,22,81,829886400.0,1996
+Orlando Magic,Charlotte Hornets (Original),Orlando Magic,60,22,82,830059200.0,1996
+Philadelphia 76ers,Philadelphia 76ers,Washington Bullets,1,0,1,815374800.0,1996
+Philadelphia 76ers,Charlotte Hornets (Original),Philadelphia 76ers,1,1,2,815461200.0,1996
+Philadelphia 76ers,Philadelphia 76ers,Sacramento Kings,1,2,3,815720400.0,1996
+Philadelphia 76ers,Philadelphia 76ers,Charlotte Hornets (Original),2,2,4,815979600.0,1996
+Philadelphia 76ers,Philadelphia 76ers,Seattle Supersonics,2,3,5,816325200.0,1996
+Philadelphia 76ers,Washington Bullets,Philadelphia 76ers,2,4,6,816411600.0,1996
+Philadelphia 76ers,Philadelphia 76ers,Cleveland Cavaliers,2,5,7,816584400.0,1996
+Philadelphia 76ers,New Jersey Nets,Philadelphia 76ers,2,6,8,816670800.0,1996
+Philadelphia 76ers,Philadelphia 76ers,Houston Rockets,2,7,9,817016400.0,1996
+Philadelphia 76ers,Detroit Pistons,Philadelphia 76ers,2,8,10,817189200.0,1996
+Philadelphia 76ers,Philadelphia 76ers,Golden State Warriors,2,9,11,817275600.0,1996
+Philadelphia 76ers,Atlanta Hawks,Philadelphia 76ers,2,10,12,817621200.0,1996
+Philadelphia 76ers,Toronto Raptors,Philadelphia 76ers,2,11,13,817794000.0,1996
+Philadelphia 76ers,Philadelphia 76ers,New York Knicks,2,12,14,817880400.0,1996
+Philadelphia 76ers,Indiana Pacers,Philadelphia 76ers,2,13,15,818139600.0,1996
+Philadelphia 76ers,Philadelphia 76ers,Dallas Mavericks,3,13,16,818226000.0,1996
+Philadelphia 76ers,Cleveland Cavaliers,Philadelphia 76ers,3,14,17,818398800.0,1996
+Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,3,15,18,818485200.0,1996
+Philadelphia 76ers,Philadelphia 76ers,Denver Nuggets,3,16,19,818658000.0,1996
+Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,3,17,20,818830800.0,1996
+Philadelphia 76ers,Minnesota Timberwolves,Philadelphia 76ers,4,17,21,819176400.0,1996
+Philadelphia 76ers,Philadelphia 76ers,Utah Jazz,5,17,22,819435600.0,1996
+Philadelphia 76ers,Philadelphia 76ers,Milwaukee Bucks,5,18,23,819608400.0,1996
+Philadelphia 76ers,Philadelphia 76ers,New Jersey Nets,5,19,24,819694800.0,1996
+Philadelphia 76ers,Phoenix Suns,Philadelphia 76ers,5,20,25,820040400.0,1996
+Philadelphia 76ers,Sacramento Kings,Philadelphia 76ers,5,21,26,820213200.0,1996
+Philadelphia 76ers,Denver Nuggets,Philadelphia 76ers,5,22,27,820299600.0,1996
+Philadelphia 76ers,Los Angeles Lakers,Philadelphia 76ers,6,22,28,820558800.0,1996
+Philadelphia 76ers,Golden State Warriors,Philadelphia 76ers,6,23,29,820645200.0,1996
+Philadelphia 76ers,Vancouver Grizzlies,Philadelphia 76ers,6,24,30,820818000.0,1996
+Philadelphia 76ers,Philadelphia 76ers,Washington Bullets,6,25,31,821250000.0,1996
+Philadelphia 76ers,New Jersey Nets,Philadelphia 76ers,7,25,32,821422800.0,1996
+Philadelphia 76ers,Philadelphia 76ers,Chicago Bulls,7,26,33,821509200.0,1996
+Philadelphia 76ers,Chicago Bulls,Philadelphia 76ers,7,27,34,821768400.0,1996
+Philadelphia 76ers,Philadelphia 76ers,Milwaukee Bucks,7,28,35,821854800.0,1996
+Philadelphia 76ers,Philadelphia 76ers,Atlanta Hawks,7,29,36,822027600.0,1996
+Philadelphia 76ers,Philadelphia 76ers,San Antonio Spurs,7,30,37,822200400.0,1996
+Philadelphia 76ers,Orlando Magic,Philadelphia 76ers,7,31,38,822373200.0,1996
+Philadelphia 76ers,Philadelphia 76ers,Cleveland Cavaliers,7,32,39,822459600.0,1996
+Philadelphia 76ers,Philadelphia 76ers,Los Angeles Lakers,7,33,40,822632400.0,1996
+Philadelphia 76ers,Charlotte Hornets (Original),Philadelphia 76ers,7,34,41,822718800.0,1996
+Philadelphia 76ers,Philadelphia 76ers,Vancouver Grizzlies,8,34,42,822891600.0,1996
+Philadelphia 76ers,Miami Heat,Philadelphia 76ers,8,35,43,823150800.0,1996
+Philadelphia 76ers,Philadelphia 76ers,Portland Trail Blazers,8,36,44,823323600.0,1996
+Philadelphia 76ers,Philadelphia 76ers,Indiana Pacers,9,36,45,823669200.0,1996
+Philadelphia 76ers,Milwaukee Bucks,Philadelphia 76ers,10,36,46,824187600.0,1996
+Philadelphia 76ers,Philadelphia 76ers,Detroit Pistons,10,37,47,824274000.0,1996
+Philadelphia 76ers,New York Knicks,Philadelphia 76ers,10,38,48,824446800.0,1996
+Philadelphia 76ers,Cleveland Cavaliers,Philadelphia 76ers,10,39,49,824533200.0,1996
+Philadelphia 76ers,Orlando Magic,Philadelphia 76ers,10,40,50,824792400.0,1996
+Philadelphia 76ers,Philadelphia 76ers,Miami Heat,10,41,51,824878800.0,1996
+Philadelphia 76ers,Indiana Pacers,Philadelphia 76ers,10,42,52,825051600.0,1996
+Philadelphia 76ers,Miami Heat,Philadelphia 76ers,10,43,53,825224400.0,1996
+Philadelphia 76ers,Dallas Mavericks,Philadelphia 76ers,11,43,54,825397200.0,1996
+Philadelphia 76ers,Houston Rockets,Philadelphia 76ers,11,44,55,825570000.0,1996
+Philadelphia 76ers,San Antonio Spurs,Philadelphia 76ers,11,45,56,825742800.0,1996
+Philadelphia 76ers,Philadelphia 76ers,Orlando Magic,11,46,57,825915600.0,1996
+Philadelphia 76ers,Philadelphia 76ers,Minnesota Timberwolves,11,47,58,826088400.0,1996
+Philadelphia 76ers,Philadelphia 76ers,New York Knicks,12,47,59,826261200.0,1996
+Philadelphia 76ers,Philadelphia 76ers,Los Angeles Clippers,12,48,60,826434000.0,1996
+Philadelphia 76ers,Philadelphia 76ers,Toronto Raptors,13,48,61,826606800.0,1996
+Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,13,49,62,826693200.0,1996
+Philadelphia 76ers,Philadelphia 76ers,Phoenix Suns,13,50,63,826866000.0,1996
+Philadelphia 76ers,New York Knicks,Philadelphia 76ers,13,51,64,826952400.0,1996
+Philadelphia 76ers,Philadelphia 76ers,Chicago Bulls,13,52,65,827125200.0,1996
+Philadelphia 76ers,Utah Jazz,Philadelphia 76ers,13,53,66,827298000.0,1996
+Philadelphia 76ers,Los Angeles Clippers,Philadelphia 76ers,13,54,67,827470800.0,1996
+Philadelphia 76ers,Seattle Supersonics,Philadelphia 76ers,13,55,68,827557200.0,1996
+Philadelphia 76ers,Portland Trail Blazers,Philadelphia 76ers,13,56,69,827730000.0,1996
+Philadelphia 76ers,Philadelphia 76ers,Toronto Raptors,14,56,70,827902800.0,1996
+Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,14,57,71,828075600.0,1996
+Philadelphia 76ers,Washington Bullets,Philadelphia 76ers,14,58,72,828162000.0,1996
+Philadelphia 76ers,Philadelphia 76ers,Indiana Pacers,14,59,73,828507600.0,1996
+Philadelphia 76ers,Philadelphia 76ers,Detroit Pistons,14,60,74,828680400.0,1996
+Philadelphia 76ers,Atlanta Hawks,Philadelphia 76ers,15,60,75,828766800.0,1996
+Philadelphia 76ers,Philadelphia 76ers,New Jersey Nets,16,60,76,828936000.0,1996
+Philadelphia 76ers,Detroit Pistons,Philadelphia 76ers,16,61,77,829108800.0,1996
+Philadelphia 76ers,Chicago Bulls,Philadelphia 76ers,16,62,78,829281600.0,1996
+Philadelphia 76ers,Philadelphia 76ers,Charlotte Hornets (Original),16,63,79,829454400.0,1996
+Philadelphia 76ers,Philadelphia 76ers,Miami Heat,17,63,80,829713600.0,1996
+Philadelphia 76ers,Philadelphia 76ers,Orlando Magic,17,64,81,829886400.0,1996
+Philadelphia 76ers,Toronto Raptors,Philadelphia 76ers,18,64,82,830059200.0,1996
+Phoenix Suns,Los Angeles Clippers,Phoenix Suns,0,1,1,815374800.0,1996
+Phoenix Suns,Phoenix Suns,Houston Rockets,0,2,2,815547600.0,1996
+Phoenix Suns,New York Knicks,Phoenix Suns,1,2,3,815720400.0,1996
+Phoenix Suns,Boston Celtics,Phoenix Suns,1,3,4,815806800.0,1996
+Phoenix Suns,Toronto Raptors,Phoenix Suns,2,3,5,815979600.0,1996
+Phoenix Suns,Phoenix Suns,Golden State Warriors,3,3,6,816152400.0,1996
+Phoenix Suns,Phoenix Suns,Denver Nuggets,3,4,7,816411600.0,1996
+Phoenix Suns,Sacramento Kings,Phoenix Suns,3,5,8,816584400.0,1996
+Phoenix Suns,Phoenix Suns,Portland Trail Blazers,4,5,9,816670800.0,1996
+Phoenix Suns,Phoenix Suns,Atlanta Hawks,5,5,10,817016400.0,1996
+Phoenix Suns,Phoenix Suns,Los Angeles Lakers,6,5,11,817275600.0,1996
+Phoenix Suns,Phoenix Suns,Utah Jazz,6,6,12,817448400.0,1996
+Phoenix Suns,Los Angeles Lakers,Phoenix Suns,6,7,13,817621200.0,1996
+Phoenix Suns,Phoenix Suns,Minnesota Timberwolves,7,7,14,817794000.0,1996
+Phoenix Suns,San Antonio Spurs,Phoenix Suns,7,8,15,817880400.0,1996
+Phoenix Suns,Phoenix Suns,Vancouver Grizzlies,8,8,16,818139600.0,1996
+Phoenix Suns,Denver Nuggets,Phoenix Suns,8,9,17,818398800.0,1996
+Phoenix Suns,Phoenix Suns,Miami Heat,8,10,18,818485200.0,1996
+Phoenix Suns,Phoenix Suns,Charlotte Hornets (Original),8,11,19,818744400.0,1996
+Phoenix Suns,Dallas Mavericks,Phoenix Suns,9,11,20,819090000.0,1996
+Phoenix Suns,Houston Rockets,Phoenix Suns,9,12,21,819349200.0,1996
+Phoenix Suns,Phoenix Suns,Washington Bullets,10,12,22,819435600.0,1996
+Phoenix Suns,Vancouver Grizzlies,Phoenix Suns,11,12,23,819608400.0,1996
+Phoenix Suns,Phoenix Suns,San Antonio Spurs,11,13,24,819867600.0,1996
+Phoenix Suns,Phoenix Suns,Philadelphia 76ers,12,13,25,820040400.0,1996
+Phoenix Suns,Phoenix Suns,Denver Nuggets,13,13,26,820213200.0,1996
+Phoenix Suns,Phoenix Suns,Seattle Supersonics,13,14,27,820299600.0,1996
+Phoenix Suns,Phoenix Suns,Minnesota Timberwolves,13,15,28,820731600.0,1996
+Phoenix Suns,Los Angeles Clippers,Phoenix Suns,13,16,29,820818000.0,1996
+Phoenix Suns,Phoenix Suns,Los Angeles Clippers,13,17,30,821163600.0,1996
+Phoenix Suns,Golden State Warriors,Phoenix Suns,14,17,31,821336400.0,1996
+Phoenix Suns,Phoenix Suns,Dallas Mavericks,14,18,32,821422800.0,1996
+Phoenix Suns,Phoenix Suns,Cleveland Cavaliers,14,19,33,821595600.0,1996
+Phoenix Suns,Phoenix Suns,Orlando Magic,14,20,34,821854800.0,1996
+Phoenix Suns,Portland Trail Blazers,Phoenix Suns,14,21,35,822027600.0,1996
+Phoenix Suns,Phoenix Suns,Sacramento Kings,15,21,36,822200400.0,1996
+Phoenix Suns,Indiana Pacers,Phoenix Suns,15,22,37,822373200.0,1996
+Phoenix Suns,Minnesota Timberwolves,Phoenix Suns,16,22,38,822459600.0,1996
+Phoenix Suns,Milwaukee Bucks,Phoenix Suns,17,22,39,822632400.0,1996
+Phoenix Suns,Chicago Bulls,Phoenix Suns,17,23,40,822805200.0,1996
+Phoenix Suns,Miami Heat,Phoenix Suns,18,23,41,822978000.0,1996
+Phoenix Suns,Atlanta Hawks,Phoenix Suns,19,23,42,823064400.0,1996
+Phoenix Suns,Cleveland Cavaliers,Phoenix Suns,19,24,43,823237200.0,1996
+Phoenix Suns,Washington Bullets,Phoenix Suns,20,24,44,823410000.0,1996
+Phoenix Suns,Phoenix Suns,Chicago Bulls,21,24,45,823582800.0,1996
+Phoenix Suns,Phoenix Suns,New Jersey Nets,22,24,46,823755600.0,1996
+Phoenix Suns,Phoenix Suns,Seattle Supersonics,22,25,47,824187600.0,1996
+Phoenix Suns,Portland Trail Blazers,Phoenix Suns,23,25,48,824360400.0,1996
+Phoenix Suns,Seattle Supersonics,Phoenix Suns,23,26,49,824446800.0,1996
+Phoenix Suns,Phoenix Suns,Vancouver Grizzlies,24,26,50,824706000.0,1996
+Phoenix Suns,Phoenix Suns,Boston Celtics,25,26,51,824878800.0,1996
+Phoenix Suns,Phoenix Suns,Toronto Raptors,26,26,52,825051600.0,1996
+Phoenix Suns,Phoenix Suns,New York Knicks,27,26,53,825224400.0,1996
+Phoenix Suns,Utah Jazz,Phoenix Suns,27,27,54,825310800.0,1996
+Phoenix Suns,Minnesota Timberwolves,Phoenix Suns,28,27,55,825483600.0,1996
+Phoenix Suns,Phoenix Suns,Detroit Pistons,28,28,56,825656400.0,1996
+Phoenix Suns,Dallas Mavericks,Phoenix Suns,29,28,57,825829200.0,1996
+Phoenix Suns,Phoenix Suns,Indiana Pacers,30,28,58,826002000.0,1996
+Phoenix Suns,Denver Nuggets,Phoenix Suns,30,29,59,826174800.0,1996
+Phoenix Suns,Phoenix Suns,Los Angeles Lakers,30,30,60,826261200.0,1996
+Phoenix Suns,Orlando Magic,Phoenix Suns,30,31,61,826434000.0,1996
+Phoenix Suns,New Jersey Nets,Phoenix Suns,31,31,62,826606800.0,1996
+Phoenix Suns,Detroit Pistons,Phoenix Suns,31,32,63,826693200.0,1996
+Phoenix Suns,Philadelphia 76ers,Phoenix Suns,32,32,64,826866000.0,1996
+Phoenix Suns,Charlotte Hornets (Original),Phoenix Suns,32,33,65,827038800.0,1996
+Phoenix Suns,Phoenix Suns,Golden State Warriors,33,33,66,827384400.0,1996
+Phoenix Suns,Golden State Warriors,Phoenix Suns,33,34,67,827557200.0,1996
+Phoenix Suns,Phoenix Suns,Los Angeles Clippers,34,34,68,827643600.0,1996
+Phoenix Suns,Phoenix Suns,Sacramento Kings,35,34,69,827816400.0,1996
+Phoenix Suns,Phoenix Suns,Milwaukee Bucks,36,34,70,828075600.0,1996
+Phoenix Suns,San Antonio Spurs,Phoenix Suns,36,35,71,828248400.0,1996
+Phoenix Suns,Phoenix Suns,San Antonio Spurs,37,35,72,828421200.0,1996
+Phoenix Suns,Phoenix Suns,Utah Jazz,38,35,73,828594000.0,1996
+Phoenix Suns,Seattle Supersonics,Phoenix Suns,38,36,74,828680400.0,1996
+Phoenix Suns,Vancouver Grizzlies,Phoenix Suns,39,36,75,828853200.0,1996
+Phoenix Suns,Phoenix Suns,Portland Trail Blazers,39,37,76,829022400.0,1996
+Phoenix Suns,Utah Jazz,Phoenix Suns,39,38,77,829108800.0,1996
+Phoenix Suns,Los Angeles Lakers,Phoenix Suns,39,39,78,829454400.0,1996
+Phoenix Suns,Phoenix Suns,Houston Rockets,40,39,79,829627200.0,1996
+Phoenix Suns,Sacramento Kings,Phoenix Suns,40,40,80,829713600.0,1996
+Phoenix Suns,Phoenix Suns,Dallas Mavericks,41,40,81,829886400.0,1996
+Phoenix Suns,Houston Rockets,Phoenix Suns,41,41,82,830059200.0,1996
+Portland Trail Blazers,Portland Trail Blazers,Vancouver Grizzlies,0,1,1,815374800.0,1996
+Portland Trail Blazers,Portland Trail Blazers,Utah Jazz,1,1,2,815547600.0,1996
+Portland Trail Blazers,New Jersey Nets,Portland Trail Blazers,1,2,3,815720400.0,1996
+Portland Trail Blazers,Detroit Pistons,Portland Trail Blazers,1,3,4,815806800.0,1996
+Portland Trail Blazers,Minnesota Timberwolves,Portland Trail Blazers,2,3,5,815979600.0,1996
+Portland Trail Blazers,Chicago Bulls,Portland Trail Blazers,2,4,6,816066000.0,1996
+Portland Trail Blazers,Portland Trail Blazers,New York Knicks,3,4,7,816325200.0,1996
+Portland Trail Blazers,Portland Trail Blazers,Sacramento Kings,3,5,8,816498000.0,1996
+Portland Trail Blazers,Phoenix Suns,Portland Trail Blazers,3,6,9,816670800.0,1996
+Portland Trail Blazers,Portland Trail Blazers,Los Angeles Clippers,4,6,10,816843600.0,1996
+Portland Trail Blazers,Los Angeles Lakers,Portland Trail Blazers,5,6,11,816930000.0,1996
+Portland Trail Blazers,Portland Trail Blazers,New Jersey Nets,6,6,12,817189200.0,1996
+Portland Trail Blazers,Portland Trail Blazers,Chicago Bulls,6,7,13,817448400.0,1996
+Portland Trail Blazers,Golden State Warriors,Portland Trail Blazers,7,7,14,817621200.0,1996
+Portland Trail Blazers,Portland Trail Blazers,Milwaukee Bucks,7,8,15,817707600.0,1996
+Portland Trail Blazers,Portland Trail Blazers,Orlando Magic,8,8,16,817966800.0,1996
+Portland Trail Blazers,Portland Trail Blazers,Toronto Raptors,9,8,17,818312400.0,1996
+Portland Trail Blazers,Seattle Supersonics,Portland Trail Blazers,9,9,18,818485200.0,1996
+Portland Trail Blazers,Portland Trail Blazers,Houston Rockets,10,9,19,818571600.0,1996
+Portland Trail Blazers,Portland Trail Blazers,Charlotte Hornets (Original),11,9,20,818917200.0,1996
+Portland Trail Blazers,Vancouver Grizzlies,Portland Trail Blazers,11,10,21,819003600.0,1996
+Portland Trail Blazers,Portland Trail Blazers,Washington Bullets,11,11,22,819176400.0,1996
+Portland Trail Blazers,San Antonio Spurs,Portland Trail Blazers,11,12,23,819349200.0,1996
+Portland Trail Blazers,Houston Rockets,Portland Trail Blazers,11,13,24,819522000.0,1996
+Portland Trail Blazers,Portland Trail Blazers,Los Angeles Lakers,11,14,25,819694800.0,1996
+Portland Trail Blazers,Utah Jazz,Portland Trail Blazers,11,15,26,819954000.0,1996
+Portland Trail Blazers,Portland Trail Blazers,Boston Celtics,12,15,27,820040400.0,1996
+Portland Trail Blazers,Charlotte Hornets (Original),Portland Trail Blazers,12,16,28,820213200.0,1996
+Portland Trail Blazers,Cleveland Cavaliers,Portland Trail Blazers,12,17,29,820299600.0,1996
+Portland Trail Blazers,New York Knicks,Portland Trail Blazers,13,17,30,820558800.0,1996
+Portland Trail Blazers,Boston Celtics,Portland Trail Blazers,14,17,31,820645200.0,1996
+Portland Trail Blazers,Milwaukee Bucks,Portland Trail Blazers,14,18,32,820818000.0,1996
+Portland Trail Blazers,Portland Trail Blazers,Minnesota Timberwolves,15,18,33,820990800.0,1996
+Portland Trail Blazers,Portland Trail Blazers,Miami Heat,16,18,34,821250000.0,1996
+Portland Trail Blazers,Denver Nuggets,Portland Trail Blazers,17,18,35,821509200.0,1996
+Portland Trail Blazers,Portland Trail Blazers,Denver Nuggets,18,18,36,821768400.0,1996
+Portland Trail Blazers,Sacramento Kings,Portland Trail Blazers,18,19,37,821941200.0,1996
+Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,19,19,38,822027600.0,1996
+Portland Trail Blazers,Portland Trail Blazers,Cleveland Cavaliers,20,19,39,822200400.0,1996
+Portland Trail Blazers,Utah Jazz,Portland Trail Blazers,20,20,40,822373200.0,1996
+Portland Trail Blazers,San Antonio Spurs,Portland Trail Blazers,20,21,41,822632400.0,1996
+Portland Trail Blazers,Dallas Mavericks,Portland Trail Blazers,21,21,42,822718800.0,1996
+Portland Trail Blazers,Portland Trail Blazers,Seattle Supersonics,21,22,43,822891600.0,1996
+Portland Trail Blazers,Portland Trail Blazers,Utah Jazz,21,23,44,823064400.0,1996
+Portland Trail Blazers,Washington Bullets,Portland Trail Blazers,21,24,45,823237200.0,1996
+Portland Trail Blazers,Philadelphia 76ers,Portland Trail Blazers,22,24,46,823323600.0,1996
+Portland Trail Blazers,Toronto Raptors,Portland Trail Blazers,23,24,47,823496400.0,1996
+Portland Trail Blazers,Minnesota Timberwolves,Portland Trail Blazers,24,24,48,823669200.0,1996
+Portland Trail Blazers,Portland Trail Blazers,Golden State Warriors,24,25,49,824187600.0,1996
+Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,24,26,50,824360400.0,1996
+Portland Trail Blazers,Los Angeles Clippers,Portland Trail Blazers,24,27,51,824533200.0,1996
+Portland Trail Blazers,Portland Trail Blazers,Atlanta Hawks,24,28,52,824619600.0,1996
+Portland Trail Blazers,Portland Trail Blazers,San Antonio Spurs,24,29,53,824792400.0,1996
+Portland Trail Blazers,Portland Trail Blazers,Denver Nuggets,25,29,54,824965200.0,1996
+Portland Trail Blazers,Portland Trail Blazers,Detroit Pistons,25,30,55,825224400.0,1996
+Portland Trail Blazers,Indiana Pacers,Portland Trail Blazers,25,31,56,825397200.0,1996
+Portland Trail Blazers,Atlanta Hawks,Portland Trail Blazers,25,32,57,825483600.0,1996
+Portland Trail Blazers,Miami Heat,Portland Trail Blazers,26,32,58,825656400.0,1996
+Portland Trail Blazers,Orlando Magic,Portland Trail Blazers,26,33,59,825742800.0,1996
+Portland Trail Blazers,Portland Trail Blazers,Houston Rockets,26,34,60,826002000.0,1996
+Portland Trail Blazers,Portland Trail Blazers,Sacramento Kings,27,34,61,826261200.0,1996
+Portland Trail Blazers,Portland Trail Blazers,Indiana Pacers,28,34,62,826434000.0,1996
+Portland Trail Blazers,Los Angeles Lakers,Portland Trail Blazers,29,34,63,826606800.0,1996
+Portland Trail Blazers,Portland Trail Blazers,Los Angeles Clippers,30,34,64,826866000.0,1996
+Portland Trail Blazers,Portland Trail Blazers,Dallas Mavericks,31,34,65,827038800.0,1996
+Portland Trail Blazers,Portland Trail Blazers,Minnesota Timberwolves,32,34,66,827211600.0,1996
+Portland Trail Blazers,Sacramento Kings,Portland Trail Blazers,32,35,67,827470800.0,1996
+Portland Trail Blazers,Portland Trail Blazers,Philadelphia 76ers,33,35,68,827730000.0,1996
+Portland Trail Blazers,Portland Trail Blazers,Golden State Warriors,34,35,69,827989200.0,1996
+Portland Trail Blazers,Houston Rockets,Portland Trail Blazers,35,35,70,828162000.0,1996
+Portland Trail Blazers,Dallas Mavericks,Portland Trail Blazers,36,35,71,828248400.0,1996
+Portland Trail Blazers,Portland Trail Blazers,Vancouver Grizzlies,37,35,72,828421200.0,1996
+Portland Trail Blazers,Denver Nuggets,Portland Trail Blazers,38,35,73,828680400.0,1996
+Portland Trail Blazers,Portland Trail Blazers,Seattle Supersonics,39,35,74,828766800.0,1996
+Portland Trail Blazers,Los Angeles Clippers,Portland Trail Blazers,39,36,75,828936000.0,1996
+Portland Trail Blazers,Phoenix Suns,Portland Trail Blazers,40,36,76,829022400.0,1996
+Portland Trail Blazers,Portland Trail Blazers,Dallas Mavericks,41,36,77,829195200.0,1996
+Portland Trail Blazers,Vancouver Grizzlies,Portland Trail Blazers,42,36,78,829454400.0,1996
+Portland Trail Blazers,Portland Trail Blazers,San Antonio Spurs,43,36,79,829540800.0,1996
+Portland Trail Blazers,Seattle Supersonics,Portland Trail Blazers,43,37,80,829713600.0,1996
+Portland Trail Blazers,Golden State Warriors,Portland Trail Blazers,44,37,81,829886400.0,1996
+Portland Trail Blazers,Portland Trail Blazers,Los Angeles Lakers,44,38,82,830059200.0,1996
+Sacramento Kings,Sacramento Kings,Minnesota Timberwolves,1,0,1,815374800.0,1996
+Sacramento Kings,Sacramento Kings,Los Angeles Clippers,2,0,2,815547600.0,1996
+Sacramento Kings,Philadelphia 76ers,Sacramento Kings,3,0,3,815720400.0,1996
+Sacramento Kings,Toronto Raptors,Sacramento Kings,4,0,4,815806800.0,1996
+Sacramento Kings,Indiana Pacers,Sacramento Kings,5,0,5,815979600.0,1996
+Sacramento Kings,New Jersey Nets,Sacramento Kings,5,1,6,816066000.0,1996
+Sacramento Kings,Sacramento Kings,Los Angeles Lakers,5,2,7,816325200.0,1996
+Sacramento Kings,Portland Trail Blazers,Sacramento Kings,6,2,8,816498000.0,1996
+Sacramento Kings,Sacramento Kings,Phoenix Suns,7,2,9,816584400.0,1996
+Sacramento Kings,Sacramento Kings,Atlanta Hawks,7,3,10,816757200.0,1996
+Sacramento Kings,Utah Jazz,Sacramento Kings,7,4,11,817016400.0,1996
+Sacramento Kings,Los Angeles Lakers,Sacramento Kings,8,4,12,817189200.0,1996
+Sacramento Kings,Sacramento Kings,New Jersey Nets,9,4,13,817362000.0,1996
+Sacramento Kings,Sacramento Kings,Denver Nuggets,10,4,14,817534800.0,1996
+Sacramento Kings,Sacramento Kings,Indiana Pacers,11,4,15,817707600.0,1996
+Sacramento Kings,Sacramento Kings,Orlando Magic,12,4,16,817880400.0,1996
+Sacramento Kings,Sacramento Kings,Seattle Supersonics,12,5,17,818398800.0,1996
+Sacramento Kings,Sacramento Kings,Miami Heat,13,5,18,818571600.0,1996
+Sacramento Kings,Sacramento Kings,Houston Rockets,13,6,19,818744400.0,1996
+Sacramento Kings,Houston Rockets,Sacramento Kings,14,6,20,819003600.0,1996
+Sacramento Kings,San Antonio Spurs,Sacramento Kings,14,7,21,819090000.0,1996
+Sacramento Kings,Sacramento Kings,Vancouver Grizzlies,15,7,22,819262800.0,1996
+Sacramento Kings,Los Angeles Clippers,Sacramento Kings,15,8,23,819522000.0,1996
+Sacramento Kings,Los Angeles Lakers,Sacramento Kings,15,9,24,819608400.0,1996
+Sacramento Kings,Sacramento Kings,San Antonio Spurs,16,9,25,819954000.0,1996
+Sacramento Kings,Sacramento Kings,Philadelphia 76ers,17,9,26,820213200.0,1996
+Sacramento Kings,Sacramento Kings,Denver Nuggets,18,9,27,820731600.0,1996
+Sacramento Kings,Sacramento Kings,Golden State Warriors,19,9,28,820904400.0,1996
+Sacramento Kings,Atlanta Hawks,Sacramento Kings,19,10,29,821163600.0,1996
+Sacramento Kings,Boston Celtics,Sacramento Kings,19,11,30,821250000.0,1996
+Sacramento Kings,Washington Bullets,Sacramento Kings,19,12,31,821422800.0,1996
+Sacramento Kings,New York Knicks,Sacramento Kings,20,12,32,821509200.0,1996
+Sacramento Kings,Minnesota Timberwolves,Sacramento Kings,20,13,33,821682000.0,1996
+Sacramento Kings,Sacramento Kings,Portland Trail Blazers,21,13,34,821941200.0,1996
+Sacramento Kings,Denver Nuggets,Sacramento Kings,22,13,35,822114000.0,1996
+Sacramento Kings,Phoenix Suns,Sacramento Kings,22,14,36,822200400.0,1996
+Sacramento Kings,Sacramento Kings,Dallas Mavericks,22,15,37,822373200.0,1996
+Sacramento Kings,Golden State Warriors,Sacramento Kings,22,16,38,822632400.0,1996
+Sacramento Kings,Sacramento Kings,Toronto Raptors,23,16,39,822978000.0,1996
+Sacramento Kings,Sacramento Kings,Chicago Bulls,23,17,40,823150800.0,1996
+Sacramento Kings,Detroit Pistons,Sacramento Kings,24,17,41,823323600.0,1996
+Sacramento Kings,Miami Heat,Sacramento Kings,24,18,42,823496400.0,1996
+Sacramento Kings,Orlando Magic,Sacramento Kings,24,19,43,823582800.0,1996
+Sacramento Kings,Charlotte Hornets (Original),Sacramento Kings,24,20,44,823755600.0,1996
+Sacramento Kings,Sacramento Kings,Minnesota Timberwolves,24,21,45,824187600.0,1996
+Sacramento Kings,Vancouver Grizzlies,Sacramento Kings,24,22,46,824274000.0,1996
+Sacramento Kings,Sacramento Kings,Boston Celtics,24,23,47,824446800.0,1996
+Sacramento Kings,Houston Rockets,Sacramento Kings,24,24,48,824706000.0,1996
+Sacramento Kings,Dallas Mavericks,Sacramento Kings,24,25,49,824878800.0,1996
+Sacramento Kings,Sacramento Kings,San Antonio Spurs,24,26,50,825051600.0,1996
+Sacramento Kings,Seattle Supersonics,Sacramento Kings,24,27,51,825138000.0,1996
+Sacramento Kings,Sacramento Kings,Detroit Pistons,24,28,52,825310800.0,1996
+Sacramento Kings,Sacramento Kings,New York Knicks,25,28,53,825483600.0,1996
+Sacramento Kings,Los Angeles Clippers,Sacramento Kings,25,29,54,825570000.0,1996
+Sacramento Kings,Sacramento Kings,Washington Bullets,25,30,55,825829200.0,1996
+Sacramento Kings,Sacramento Kings,Utah Jazz,25,31,56,826002000.0,1996
+Sacramento Kings,Sacramento Kings,Los Angeles Lakers,25,32,57,826174800.0,1996
+Sacramento Kings,Portland Trail Blazers,Sacramento Kings,25,33,58,826261200.0,1996
+Sacramento Kings,Golden State Warriors,Sacramento Kings,26,33,59,826434000.0,1996
+Sacramento Kings,Sacramento Kings,Vancouver Grizzlies,27,33,60,826520400.0,1996
+Sacramento Kings,Sacramento Kings,Milwaukee Bucks,28,33,61,826693200.0,1996
+Sacramento Kings,Minnesota Timberwolves,Sacramento Kings,28,34,62,826866000.0,1996
+Sacramento Kings,Cleveland Cavaliers,Sacramento Kings,28,35,63,827038800.0,1996
+Sacramento Kings,Chicago Bulls,Sacramento Kings,28,36,64,827211600.0,1996
+Sacramento Kings,Milwaukee Bucks,Sacramento Kings,29,36,65,827298000.0,1996
+Sacramento Kings,Sacramento Kings,Portland Trail Blazers,30,36,66,827470800.0,1996
+Sacramento Kings,Sacramento Kings,Seattle Supersonics,30,37,67,827643600.0,1996
+Sacramento Kings,Phoenix Suns,Sacramento Kings,30,38,68,827816400.0,1996
+Sacramento Kings,Sacramento Kings,Charlotte Hornets (Original),31,38,69,828075600.0,1996
+Sacramento Kings,Sacramento Kings,Cleveland Cavaliers,32,38,70,828248400.0,1996
+Sacramento Kings,Dallas Mavericks,Sacramento Kings,33,38,71,828421200.0,1996
+Sacramento Kings,San Antonio Spurs,Sacramento Kings,33,39,72,828507600.0,1996
+Sacramento Kings,Sacramento Kings,Houston Rockets,34,39,73,828680400.0,1996
+Sacramento Kings,Sacramento Kings,Utah Jazz,34,40,74,828853200.0,1996
+Sacramento Kings,Sacramento Kings,Dallas Mavericks,35,40,75,829022400.0,1996
+Sacramento Kings,Seattle Supersonics,Sacramento Kings,35,41,76,829108800.0,1996
+Sacramento Kings,Vancouver Grizzlies,Sacramento Kings,35,42,77,829281600.0,1996
+Sacramento Kings,Sacramento Kings,Los Angeles Clippers,36,42,78,829454400.0,1996
+Sacramento Kings,Denver Nuggets,Sacramento Kings,37,42,79,829540800.0,1996
+Sacramento Kings,Sacramento Kings,Phoenix Suns,38,42,80,829713600.0,1996
+Sacramento Kings,Utah Jazz,Sacramento Kings,38,43,81,829972800.0,1996
+Sacramento Kings,Sacramento Kings,Golden State Warriors,39,43,82,830059200.0,1996
+San Antonio Spurs,San Antonio Spurs,Dallas Mavericks,0,1,1,815374800.0,1996
+San Antonio Spurs,Denver Nuggets,San Antonio Spurs,1,1,2,815461200.0,1996
+San Antonio Spurs,San Antonio Spurs,Vancouver Grizzlies,2,1,3,815806800.0,1996
+San Antonio Spurs,San Antonio Spurs,Milwaukee Bucks,3,1,4,815979600.0,1996
+San Antonio Spurs,Cleveland Cavaliers,San Antonio Spurs,4,1,5,816152400.0,1996
+San Antonio Spurs,Milwaukee Bucks,San Antonio Spurs,4,2,6,816325200.0,1996
+San Antonio Spurs,Minnesota Timberwolves,San Antonio Spurs,5,2,7,816411600.0,1996
+San Antonio Spurs,San Antonio Spurs,Charlotte Hornets (Original),6,2,8,816670800.0,1996
+San Antonio Spurs,San Antonio Spurs,Chicago Bulls,6,3,9,817016400.0,1996
+San Antonio Spurs,Seattle Supersonics,San Antonio Spurs,6,4,10,817189200.0,1996
+San Antonio Spurs,Los Angeles Clippers,San Antonio Spurs,7,4,11,817275600.0,1996
+San Antonio Spurs,San Antonio Spurs,Los Angeles Clippers,8,4,12,817621200.0,1996
+San Antonio Spurs,San Antonio Spurs,Phoenix Suns,9,4,13,817880400.0,1996
+San Antonio Spurs,San Antonio Spurs,Los Angeles Lakers,10,4,14,818139600.0,1996
+San Antonio Spurs,Atlanta Hawks,San Antonio Spurs,11,4,15,818312400.0,1996
+San Antonio Spurs,Chicago Bulls,San Antonio Spurs,11,5,16,818398800.0,1996
+San Antonio Spurs,New York Knicks,San Antonio Spurs,11,6,17,818571600.0,1996
+San Antonio Spurs,San Antonio Spurs,Seattle Supersonics,11,7,18,818830800.0,1996
+San Antonio Spurs,Dallas Mavericks,San Antonio Spurs,12,7,19,818917200.0,1996
+San Antonio Spurs,San Antonio Spurs,Sacramento Kings,13,7,20,819090000.0,1996
+San Antonio Spurs,San Antonio Spurs,Portland Trail Blazers,14,7,21,819349200.0,1996
+San Antonio Spurs,San Antonio Spurs,Denver Nuggets,15,7,22,819522000.0,1996
+San Antonio Spurs,San Antonio Spurs,Houston Rockets,16,7,23,819694800.0,1996
+San Antonio Spurs,Phoenix Suns,San Antonio Spurs,17,7,24,819867600.0,1996
+San Antonio Spurs,Sacramento Kings,San Antonio Spurs,17,8,25,819954000.0,1996
+San Antonio Spurs,Los Angeles Lakers,San Antonio Spurs,18,8,26,820126800.0,1996
+San Antonio Spurs,San Antonio Spurs,Minnesota Timberwolves,19,8,27,820299600.0,1996
+San Antonio Spurs,San Antonio Spurs,Utah Jazz,20,8,28,820645200.0,1996
+San Antonio Spurs,San Antonio Spurs,Indiana Pacers,20,9,29,820818000.0,1996
+San Antonio Spurs,Houston Rockets,San Antonio Spurs,21,9,30,821163600.0,1996
+San Antonio Spurs,San Antonio Spurs,Cleveland Cavaliers,22,9,31,821250000.0,1996
+San Antonio Spurs,Utah Jazz,San Antonio Spurs,23,9,32,821422800.0,1996
+San Antonio Spurs,San Antonio Spurs,Orlando Magic,24,9,33,821509200.0,1996
+San Antonio Spurs,San Antonio Spurs,Boston Celtics,25,9,34,821768400.0,1996
+San Antonio Spurs,Detroit Pistons,San Antonio Spurs,25,10,35,821941200.0,1996
+San Antonio Spurs,Minnesota Timberwolves,San Antonio Spurs,25,11,36,822027600.0,1996
+San Antonio Spurs,Philadelphia 76ers,San Antonio Spurs,26,11,37,822200400.0,1996
+San Antonio Spurs,Miami Heat,San Antonio Spurs,26,12,38,822286800.0,1996
+San Antonio Spurs,San Antonio Spurs,Detroit Pistons,26,13,39,822459600.0,1996
+San Antonio Spurs,San Antonio Spurs,Portland Trail Blazers,27,13,40,822632400.0,1996
+San Antonio Spurs,San Antonio Spurs,Los Angeles Clippers,28,13,41,823064400.0,1996
+San Antonio Spurs,San Antonio Spurs,Minnesota Timberwolves,29,13,42,823237200.0,1996
+San Antonio Spurs,Orlando Magic,San Antonio Spurs,29,14,43,823410000.0,1996
+San Antonio Spurs,Charlotte Hornets (Original),San Antonio Spurs,30,14,44,823582800.0,1996
+San Antonio Spurs,Boston Celtics,San Antonio Spurs,31,14,45,823669200.0,1996
+San Antonio Spurs,San Antonio Spurs,Utah Jazz,31,15,46,824187600.0,1996
+San Antonio Spurs,Houston Rockets,San Antonio Spurs,31,16,47,824360400.0,1996
+San Antonio Spurs,San Antonio Spurs,Golden State Warriors,32,16,48,824446800.0,1996
+San Antonio Spurs,San Antonio Spurs,Houston Rockets,33,16,49,824619600.0,1996
+San Antonio Spurs,Portland Trail Blazers,San Antonio Spurs,34,16,50,824792400.0,1996
+San Antonio Spurs,Golden State Warriors,San Antonio Spurs,34,17,51,824878800.0,1996
+San Antonio Spurs,Sacramento Kings,San Antonio Spurs,35,17,52,825051600.0,1996
+San Antonio Spurs,Vancouver Grizzlies,San Antonio Spurs,36,17,53,825224400.0,1996
+San Antonio Spurs,Los Angeles Clippers,San Antonio Spurs,36,18,54,825397200.0,1996
+San Antonio Spurs,San Antonio Spurs,Toronto Raptors,37,18,55,825570000.0,1996
+San Antonio Spurs,San Antonio Spurs,Philadelphia 76ers,38,18,56,825742800.0,1996
+San Antonio Spurs,Denver Nuggets,San Antonio Spurs,39,18,57,825915600.0,1996
+San Antonio Spurs,San Antonio Spurs,Denver Nuggets,40,18,58,826088400.0,1996
+San Antonio Spurs,San Antonio Spurs,New Jersey Nets,41,18,59,826261200.0,1996
+San Antonio Spurs,Seattle Supersonics,San Antonio Spurs,42,18,60,826434000.0,1996
+San Antonio Spurs,Golden State Warriors,San Antonio Spurs,43,18,61,826606800.0,1996
+San Antonio Spurs,San Antonio Spurs,Miami Heat,44,18,62,826779600.0,1996
+San Antonio Spurs,San Antonio Spurs,Atlanta Hawks,45,18,63,826952400.0,1996
+San Antonio Spurs,San Antonio Spurs,Golden State Warriors,46,18,64,827125200.0,1996
+San Antonio Spurs,Washington Bullets,San Antonio Spurs,47,18,65,827298000.0,1996
+San Antonio Spurs,Toronto Raptors,San Antonio Spurs,48,18,66,827470800.0,1996
+San Antonio Spurs,Indiana Pacers,San Antonio Spurs,49,18,67,827643600.0,1996
+San Antonio Spurs,New Jersey Nets,San Antonio Spurs,50,18,68,827730000.0,1996
+San Antonio Spurs,San Antonio Spurs,New York Knicks,51,18,69,827902800.0,1996
+San Antonio Spurs,Dallas Mavericks,San Antonio Spurs,52,18,70,828075600.0,1996
+San Antonio Spurs,San Antonio Spurs,Phoenix Suns,53,18,71,828248400.0,1996
+San Antonio Spurs,Phoenix Suns,San Antonio Spurs,53,19,72,828421200.0,1996
+San Antonio Spurs,San Antonio Spurs,Sacramento Kings,54,19,73,828507600.0,1996
+San Antonio Spurs,San Antonio Spurs,Washington Bullets,54,20,74,828680400.0,1996
+San Antonio Spurs,Los Angeles Lakers,San Antonio Spurs,54,21,75,828853200.0,1996
+San Antonio Spurs,Utah Jazz,San Antonio Spurs,55,21,76,828936000.0,1996
+San Antonio Spurs,San Antonio Spurs,Vancouver Grizzlies,56,21,77,829108800.0,1996
+San Antonio Spurs,San Antonio Spurs,Seattle Supersonics,57,21,78,829368000.0,1996
+San Antonio Spurs,Portland Trail Blazers,San Antonio Spurs,57,22,79,829540800.0,1996
+San Antonio Spurs,Vancouver Grizzlies,San Antonio Spurs,58,22,80,829627200.0,1996
+San Antonio Spurs,San Antonio Spurs,Los Angeles Lakers,59,22,81,829800000.0,1996
+San Antonio Spurs,San Antonio Spurs,Dallas Mavericks,59,23,82,830059200.0,1996
+Seattle Supersonics,Utah Jazz,Seattle Supersonics,0,1,1,815374800.0,1996
+Seattle Supersonics,Seattle Supersonics,Los Angeles Lakers,1,1,2,815461200.0,1996
+Seattle Supersonics,Seattle Supersonics,Los Angeles Clippers,2,1,3,815720400.0,1996
+Seattle Supersonics,Denver Nuggets,Seattle Supersonics,3,1,4,815806800.0,1996
+Seattle Supersonics,Los Angeles Lakers,Seattle Supersonics,3,2,5,815979600.0,1996
+Seattle Supersonics,Seattle Supersonics,Vancouver Grizzlies,4,2,6,816066000.0,1996
+Seattle Supersonics,Philadelphia 76ers,Seattle Supersonics,5,2,7,816325200.0,1996
+Seattle Supersonics,Detroit Pistons,Seattle Supersonics,5,3,8,816411600.0,1996
+Seattle Supersonics,Charlotte Hornets (Original),Seattle Supersonics,6,3,9,816584400.0,1996
+Seattle Supersonics,Indiana Pacers,Seattle Supersonics,6,4,10,816670800.0,1996
+Seattle Supersonics,Toronto Raptors,Seattle Supersonics,6,5,11,816930000.0,1996
+Seattle Supersonics,Minnesota Timberwolves,Seattle Supersonics,7,5,12,817016400.0,1996
+Seattle Supersonics,Seattle Supersonics,San Antonio Spurs,8,5,13,817189200.0,1996
+Seattle Supersonics,Seattle Supersonics,Chicago Bulls,9,5,14,817362000.0,1996
+Seattle Supersonics,Seattle Supersonics,Indiana Pacers,9,6,15,817534800.0,1996
+Seattle Supersonics,Seattle Supersonics,Milwaukee Bucks,10,6,16,817794000.0,1996
+Seattle Supersonics,Seattle Supersonics,Toronto Raptors,11,6,17,818139600.0,1996
+Seattle Supersonics,Sacramento Kings,Seattle Supersonics,12,6,18,818398800.0,1996
+Seattle Supersonics,Seattle Supersonics,Portland Trail Blazers,13,6,19,818485200.0,1996
+Seattle Supersonics,Dallas Mavericks,Seattle Supersonics,13,7,20,818744400.0,1996
+Seattle Supersonics,San Antonio Spurs,Seattle Supersonics,14,7,21,818830800.0,1996
+Seattle Supersonics,Seattle Supersonics,Golden State Warriors,15,7,22,819003600.0,1996
+Seattle Supersonics,Vancouver Grizzlies,Seattle Supersonics,15,8,23,819349200.0,1996
+Seattle Supersonics,Seattle Supersonics,Vancouver Grizzlies,16,8,24,819522000.0,1996
+Seattle Supersonics,Seattle Supersonics,Washington Bullets,17,8,25,819694800.0,1996
+Seattle Supersonics,Seattle Supersonics,Denver Nuggets,18,8,26,820040400.0,1996
+Seattle Supersonics,Seattle Supersonics,Boston Celtics,19,8,27,820213200.0,1996
+Seattle Supersonics,Phoenix Suns,Seattle Supersonics,20,8,28,820299600.0,1996
+Seattle Supersonics,Atlanta Hawks,Seattle Supersonics,21,8,29,820558800.0,1996
+Seattle Supersonics,Miami Heat,Seattle Supersonics,22,8,30,820731600.0,1996
+Seattle Supersonics,Orlando Magic,Seattle Supersonics,22,9,31,820818000.0,1996
+Seattle Supersonics,Milwaukee Bucks,Seattle Supersonics,23,9,32,821163600.0,1996
+Seattle Supersonics,Chicago Bulls,Seattle Supersonics,23,10,33,821250000.0,1996
+Seattle Supersonics,Seattle Supersonics,Miami Heat,24,10,34,821422800.0,1996
+Seattle Supersonics,Golden State Warriors,Seattle Supersonics,25,10,35,821682000.0,1996
+Seattle Supersonics,Seattle Supersonics,Cleveland Cavaliers,26,10,36,821768400.0,1996
+Seattle Supersonics,Seattle Supersonics,New York Knicks,26,11,37,822027600.0,1996
+Seattle Supersonics,Seattle Supersonics,Dallas Mavericks,27,11,38,822200400.0,1996
+Seattle Supersonics,Seattle Supersonics,Denver Nuggets,28,11,39,822459600.0,1996
+Seattle Supersonics,Seattle Supersonics,Utah Jazz,29,11,40,822632400.0,1996
+Seattle Supersonics,Los Angeles Clippers,Seattle Supersonics,30,11,41,822718800.0,1996
+Seattle Supersonics,Portland Trail Blazers,Seattle Supersonics,31,11,42,822891600.0,1996
+Seattle Supersonics,Seattle Supersonics,New Jersey Nets,32,11,43,822978000.0,1996
+Seattle Supersonics,Dallas Mavericks,Seattle Supersonics,32,12,44,823150800.0,1996
+Seattle Supersonics,Houston Rockets,Seattle Supersonics,33,12,45,823323600.0,1996
+Seattle Supersonics,Seattle Supersonics,Houston Rockets,34,12,46,823582800.0,1996
+Seattle Supersonics,Phoenix Suns,Seattle Supersonics,35,12,47,824187600.0,1996
+Seattle Supersonics,Seattle Supersonics,Minnesota Timberwolves,36,12,48,824274000.0,1996
+Seattle Supersonics,Seattle Supersonics,Phoenix Suns,37,12,49,824446800.0,1996
+Seattle Supersonics,Vancouver Grizzlies,Seattle Supersonics,38,12,50,824619600.0,1996
+Seattle Supersonics,Seattle Supersonics,Atlanta Hawks,39,12,51,824706000.0,1996
+Seattle Supersonics,Seattle Supersonics,Golden State Warriors,40,12,52,824965200.0,1996
+Seattle Supersonics,Seattle Supersonics,Sacramento Kings,41,12,53,825138000.0,1996
+Seattle Supersonics,Los Angeles Clippers,Seattle Supersonics,42,12,54,825224400.0,1996
+Seattle Supersonics,Seattle Supersonics,Detroit Pistons,43,12,55,825483600.0,1996
+Seattle Supersonics,Boston Celtics,Seattle Supersonics,44,12,56,825656400.0,1996
+Seattle Supersonics,New Jersey Nets,Seattle Supersonics,45,12,57,825742800.0,1996
+Seattle Supersonics,Cleveland Cavaliers,Seattle Supersonics,46,12,58,826002000.0,1996
+Seattle Supersonics,Washington Bullets,Seattle Supersonics,46,13,59,826088400.0,1996
+Seattle Supersonics,Minnesota Timberwolves,Seattle Supersonics,47,13,60,826261200.0,1996
+Seattle Supersonics,Seattle Supersonics,San Antonio Spurs,47,14,61,826434000.0,1996
+Seattle Supersonics,Seattle Supersonics,Orlando Magic,48,14,62,826693200.0,1996
+Seattle Supersonics,Seattle Supersonics,Dallas Mavericks,49,14,63,826866000.0,1996
+Seattle Supersonics,Seattle Supersonics,Los Angeles Clippers,50,14,64,827125200.0,1996
+Seattle Supersonics,Los Angeles Lakers,Seattle Supersonics,50,15,65,827211600.0,1996
+Seattle Supersonics,Seattle Supersonics,Los Angeles Lakers,51,15,66,827384400.0,1996
+Seattle Supersonics,Seattle Supersonics,Philadelphia 76ers,52,15,67,827557200.0,1996
+Seattle Supersonics,Sacramento Kings,Seattle Supersonics,53,15,68,827643600.0,1996
+Seattle Supersonics,Golden State Warriors,Seattle Supersonics,54,15,69,827816400.0,1996
+Seattle Supersonics,Seattle Supersonics,Charlotte Hornets (Original),55,15,70,827902800.0,1996
+Seattle Supersonics,Seattle Supersonics,Utah Jazz,56,15,71,828162000.0,1996
+Seattle Supersonics,Utah Jazz,Seattle Supersonics,57,15,72,828421200.0,1996
+Seattle Supersonics,Seattle Supersonics,Houston Rockets,58,15,73,828507600.0,1996
+Seattle Supersonics,Seattle Supersonics,Phoenix Suns,59,15,74,828680400.0,1996
+Seattle Supersonics,Portland Trail Blazers,Seattle Supersonics,59,16,75,828766800.0,1996
+Seattle Supersonics,New York Knicks,Seattle Supersonics,60,16,76,828936000.0,1996
+Seattle Supersonics,Seattle Supersonics,Sacramento Kings,61,16,77,829108800.0,1996
+Seattle Supersonics,San Antonio Spurs,Seattle Supersonics,61,17,78,829368000.0,1996
+Seattle Supersonics,Houston Rockets,Seattle Supersonics,62,17,79,829540800.0,1996
+Seattle Supersonics,Seattle Supersonics,Portland Trail Blazers,63,17,80,829713600.0,1996
+Seattle Supersonics,Seattle Supersonics,Minnesota Timberwolves,64,17,81,829886400.0,1996
+Seattle Supersonics,Denver Nuggets,Seattle Supersonics,64,18,82,830059200.0,1996
+Toronto Raptors,Toronto Raptors,New Jersey Nets,1,0,1,815374800.0,1996
+Toronto Raptors,Indiana Pacers,Toronto Raptors,1,1,2,815461200.0,1996
+Toronto Raptors,Chicago Bulls,Toronto Raptors,1,2,3,815720400.0,1996
+Toronto Raptors,Toronto Raptors,Sacramento Kings,1,3,4,815806800.0,1996
+Toronto Raptors,Toronto Raptors,Phoenix Suns,1,4,5,815979600.0,1996
+Toronto Raptors,Charlotte Hornets (Original),Toronto Raptors,1,5,6,816066000.0,1996
+Toronto Raptors,Toronto Raptors,Utah Jazz,1,6,7,816238800.0,1996
+Toronto Raptors,Toronto Raptors,Houston Rockets,1,7,8,816411600.0,1996
+Toronto Raptors,Toronto Raptors,Minnesota Timberwolves,2,7,9,816584400.0,1996
+Toronto Raptors,Washington Bullets,Toronto Raptors,3,7,10,816670800.0,1996
+Toronto Raptors,Toronto Raptors,Seattle Supersonics,4,7,11,816930000.0,1996
+Toronto Raptors,Milwaukee Bucks,Toronto Raptors,4,8,12,817016400.0,1996
+Toronto Raptors,Atlanta Hawks,Toronto Raptors,4,9,13,817275600.0,1996
+Toronto Raptors,Toronto Raptors,Golden State Warriors,5,9,14,817448400.0,1996
+Toronto Raptors,Cleveland Cavaliers,Toronto Raptors,5,10,15,817534800.0,1996
+Toronto Raptors,Toronto Raptors,Philadelphia 76ers,6,10,16,817794000.0,1996
+Toronto Raptors,Toronto Raptors,Miami Heat,6,11,17,817966800.0,1996
+Toronto Raptors,Seattle Supersonics,Toronto Raptors,6,12,18,818139600.0,1996
+Toronto Raptors,Portland Trail Blazers,Toronto Raptors,6,13,19,818312400.0,1996
+Toronto Raptors,Los Angeles Lakers,Toronto Raptors,6,14,20,818398800.0,1996
+Toronto Raptors,Vancouver Grizzlies,Toronto Raptors,7,14,21,818571600.0,1996
+Toronto Raptors,Toronto Raptors,Boston Celtics,7,15,22,818744400.0,1996
+Toronto Raptors,Toronto Raptors,Indiana Pacers,7,16,23,818917200.0,1996
+Toronto Raptors,Boston Celtics,Toronto Raptors,7,17,24,819003600.0,1996
+Toronto Raptors,Toronto Raptors,Orlando Magic,8,17,25,819176400.0,1996
+Toronto Raptors,Toronto Raptors,Detroit Pistons,8,18,26,819349200.0,1996
+Toronto Raptors,Chicago Bulls,Toronto Raptors,8,19,27,819608400.0,1996
+Toronto Raptors,New York Knicks,Toronto Raptors,8,20,28,819694800.0,1996
+Toronto Raptors,Toronto Raptors,Milwaukee Bucks,9,20,29,819954000.0,1996
+Toronto Raptors,Detroit Pistons,Toronto Raptors,9,21,30,820126800.0,1996
+Toronto Raptors,Orlando Magic,Toronto Raptors,9,22,31,820645200.0,1996
+Toronto Raptors,Atlanta Hawks,Toronto Raptors,9,23,32,820731600.0,1996
+Toronto Raptors,Toronto Raptors,Charlotte Hornets (Original),9,24,33,821163600.0,1996
+Toronto Raptors,Toronto Raptors,Atlanta Hawks,9,25,34,821336400.0,1996
+Toronto Raptors,Toronto Raptors,Washington Bullets,10,25,35,821509200.0,1996
+Toronto Raptors,New Jersey Nets,Toronto Raptors,10,26,36,821682000.0,1996
+Toronto Raptors,Toronto Raptors,Indiana Pacers,10,27,37,821768400.0,1996
+Toronto Raptors,Toronto Raptors,Chicago Bulls,10,28,38,821941200.0,1996
+Toronto Raptors,Toronto Raptors,Boston Celtics,11,28,39,822200400.0,1996
+Toronto Raptors,Toronto Raptors,New Jersey Nets,12,28,40,822373200.0,1996
+Toronto Raptors,Toronto Raptors,Vancouver Grizzlies,12,29,41,822546000.0,1996
+Toronto Raptors,Denver Nuggets,Toronto Raptors,12,30,42,822718800.0,1996
+Toronto Raptors,Sacramento Kings,Toronto Raptors,12,31,43,822978000.0,1996
+Toronto Raptors,Golden State Warriors,Toronto Raptors,12,32,44,823237200.0,1996
+Toronto Raptors,Los Angeles Clippers,Toronto Raptors,13,32,45,823323600.0,1996
+Toronto Raptors,Toronto Raptors,Portland Trail Blazers,13,33,46,823496400.0,1996
+Toronto Raptors,Toronto Raptors,Milwaukee Bucks,13,34,47,823669200.0,1996
+Toronto Raptors,Miami Heat,Toronto Raptors,14,34,48,824187600.0,1996
+Toronto Raptors,Toronto Raptors,Cleveland Cavaliers,14,35,49,824360400.0,1996
+Toronto Raptors,Detroit Pistons,Toronto Raptors,14,36,50,824533200.0,1996
+Toronto Raptors,Utah Jazz,Toronto Raptors,14,37,51,824965200.0,1996
+Toronto Raptors,Phoenix Suns,Toronto Raptors,14,38,52,825051600.0,1996
+Toronto Raptors,Dallas Mavericks,Toronto Raptors,14,39,53,825224400.0,1996
+Toronto Raptors,Houston Rockets,Toronto Raptors,14,40,54,825397200.0,1996
+Toronto Raptors,San Antonio Spurs,Toronto Raptors,14,41,55,825570000.0,1996
+Toronto Raptors,Cleveland Cavaliers,Toronto Raptors,15,41,56,825829200.0,1996
+Toronto Raptors,Toronto Raptors,Detroit Pistons,15,42,57,826002000.0,1996
+Toronto Raptors,Toronto Raptors,New York Knicks,15,43,58,826088400.0,1996
+Toronto Raptors,Miami Heat,Toronto Raptors,15,44,59,826261200.0,1996
+Toronto Raptors,Toronto Raptors,Dallas Mavericks,16,44,60,826434000.0,1996
+Toronto Raptors,Philadelphia 76ers,Toronto Raptors,16,45,61,826606800.0,1996
+Toronto Raptors,Charlotte Hornets (Original),Toronto Raptors,16,46,62,826866000.0,1996
+Toronto Raptors,Indiana Pacers,Toronto Raptors,16,47,63,827038800.0,1996
+Toronto Raptors,Toronto Raptors,Denver Nuggets,16,48,64,827125200.0,1996
+Toronto Raptors,Toronto Raptors,Charlotte Hornets (Original),17,48,65,827298000.0,1996
+Toronto Raptors,Toronto Raptors,San Antonio Spurs,17,49,66,827470800.0,1996
+Toronto Raptors,Toronto Raptors,Chicago Bulls,18,49,67,827643600.0,1996
+Toronto Raptors,Toronto Raptors,Atlanta Hawks,18,50,68,827816400.0,1996
+Toronto Raptors,Philadelphia 76ers,Toronto Raptors,18,51,69,827902800.0,1996
+Toronto Raptors,Toronto Raptors,Orlando Magic,18,52,70,828075600.0,1996
+Toronto Raptors,Toronto Raptors,Los Angeles Lakers,18,53,71,828248400.0,1996
+Toronto Raptors,Toronto Raptors,Los Angeles Clippers,19,53,72,828421200.0,1996
+Toronto Raptors,Toronto Raptors,Cleveland Cavaliers,19,54,73,828594000.0,1996
+Toronto Raptors,Toronto Raptors,New York Knicks,19,55,74,828766800.0,1996
+Toronto Raptors,Minnesota Timberwolves,Toronto Raptors,19,56,75,828936000.0,1996
+Toronto Raptors,Milwaukee Bucks,Toronto Raptors,20,56,76,829022400.0,1996
+Toronto Raptors,Boston Celtics,Toronto Raptors,20,57,77,829281600.0,1996
+Toronto Raptors,Washington Bullets,Toronto Raptors,20,58,78,829454400.0,1996
+Toronto Raptors,New York Knicks,Toronto Raptors,20,59,79,829540800.0,1996
+Toronto Raptors,New Jersey Nets,Toronto Raptors,20,60,80,829713600.0,1996
+Toronto Raptors,Toronto Raptors,Washington Bullets,21,60,81,829886400.0,1996
+Toronto Raptors,Toronto Raptors,Philadelphia 76ers,21,61,82,830059200.0,1996
+Utah Jazz,Utah Jazz,Seattle Supersonics,1,0,1,815374800.0,1996
+Utah Jazz,Portland Trail Blazers,Utah Jazz,1,1,2,815547600.0,1996
+Utah Jazz,Utah Jazz,Atlanta Hawks,2,1,3,815634000.0,1996
+Utah Jazz,Utah Jazz,Los Angeles Lakers,3,1,4,815806800.0,1996
+Utah Jazz,Utah Jazz,Denver Nuggets,4,1,5,815979600.0,1996
+Utah Jazz,New York Knicks,Utah Jazz,4,2,6,816152400.0,1996
+Utah Jazz,Toronto Raptors,Utah Jazz,5,2,7,816238800.0,1996
+Utah Jazz,Boston Celtics,Utah Jazz,6,2,8,816411600.0,1996
+Utah Jazz,Detroit Pistons,Utah Jazz,7,2,9,816584400.0,1996
+Utah Jazz,Minnesota Timberwolves,Utah Jazz,8,2,10,816670800.0,1996
+Utah Jazz,Utah Jazz,New Jersey Nets,9,2,11,816843600.0,1996
+Utah Jazz,Utah Jazz,Sacramento Kings,10,2,12,817016400.0,1996
+Utah Jazz,Utah Jazz,Chicago Bulls,10,3,13,817189200.0,1996
+Utah Jazz,Denver Nuggets,Utah Jazz,10,4,14,817275600.0,1996
+Utah Jazz,Phoenix Suns,Utah Jazz,11,4,15,817448400.0,1996
+Utah Jazz,Houston Rockets,Utah Jazz,12,4,16,817707600.0,1996
+Utah Jazz,Utah Jazz,Houston Rockets,12,5,17,818139600.0,1996
+Utah Jazz,Utah Jazz,Denver Nuggets,12,6,18,818312400.0,1996
+Utah Jazz,Utah Jazz,Golden State Warriors,13,6,19,818485200.0,1996
+Utah Jazz,Utah Jazz,Charlotte Hornets (Original),14,6,20,818658000.0,1996
+Utah Jazz,Orlando Magic,Utah Jazz,14,7,21,819003600.0,1996
+Utah Jazz,Miami Heat,Utah Jazz,15,7,22,819090000.0,1996
+Utah Jazz,New Jersey Nets,Utah Jazz,16,7,23,819262800.0,1996
+Utah Jazz,Philadelphia 76ers,Utah Jazz,16,8,24,819435600.0,1996
+Utah Jazz,Cleveland Cavaliers,Utah Jazz,17,8,25,819522000.0,1996
+Utah Jazz,Chicago Bulls,Utah Jazz,17,9,26,819694800.0,1996
+Utah Jazz,Utah Jazz,Portland Trail Blazers,18,9,27,819954000.0,1996
+Utah Jazz,Utah Jazz,Minnesota Timberwolves,19,9,28,820126800.0,1996
+Utah Jazz,Utah Jazz,Los Angeles Lakers,20,9,29,820299600.0,1996
+Utah Jazz,Dallas Mavericks,Utah Jazz,21,9,30,820558800.0,1996
+Utah Jazz,San Antonio Spurs,Utah Jazz,21,10,31,820645200.0,1996
+Utah Jazz,Los Angeles Lakers,Utah Jazz,21,11,32,820818000.0,1996
+Utah Jazz,Utah Jazz,Miami Heat,22,11,33,821077200.0,1996
+Utah Jazz,Utah Jazz,San Antonio Spurs,22,12,34,821422800.0,1996
+Utah Jazz,Houston Rockets,Utah Jazz,22,13,35,821682000.0,1996
+Utah Jazz,Utah Jazz,Orlando Magic,23,13,36,822027600.0,1996
+Utah Jazz,Los Angeles Clippers,Utah Jazz,24,13,37,822114000.0,1996
+Utah Jazz,Utah Jazz,Portland Trail Blazers,25,13,38,822373200.0,1996
+Utah Jazz,Golden State Warriors,Utah Jazz,26,13,39,822459600.0,1996
+Utah Jazz,Seattle Supersonics,Utah Jazz,26,14,40,822632400.0,1996
+Utah Jazz,Utah Jazz,Golden State Warriors,27,14,41,822718800.0,1996
+Utah Jazz,Utah Jazz,Detroit Pistons,28,14,42,822891600.0,1996
+Utah Jazz,Portland Trail Blazers,Utah Jazz,29,14,43,823064400.0,1996
+Utah Jazz,Utah Jazz,Los Angeles Clippers,30,14,44,823237200.0,1996
+Utah Jazz,Los Angeles Lakers,Utah Jazz,30,15,45,823410000.0,1996
+Utah Jazz,Vancouver Grizzlies,Utah Jazz,31,15,46,823496400.0,1996
+Utah Jazz,Utah Jazz,Vancouver Grizzlies,32,15,47,823669200.0,1996
+Utah Jazz,Dallas Mavericks,Utah Jazz,32,16,48,823755600.0,1996
+Utah Jazz,San Antonio Spurs,Utah Jazz,33,16,49,824187600.0,1996
+Utah Jazz,Utah Jazz,Dallas Mavericks,34,16,50,824360400.0,1996
+Utah Jazz,Utah Jazz,Boston Celtics,35,16,51,824792400.0,1996
+Utah Jazz,Utah Jazz,Toronto Raptors,36,16,52,824965200.0,1996
+Utah Jazz,Denver Nuggets,Utah Jazz,36,17,53,825138000.0,1996
+Utah Jazz,Utah Jazz,Phoenix Suns,37,17,54,825310800.0,1996
+Utah Jazz,Utah Jazz,Washington Bullets,38,17,55,825483600.0,1996
+Utah Jazz,Utah Jazz,New York Knicks,39,17,56,825656400.0,1996
+Utah Jazz,Sacramento Kings,Utah Jazz,40,17,57,826002000.0,1996
+Utah Jazz,Utah Jazz,Indiana Pacers,41,17,58,826088400.0,1996
+Utah Jazz,Utah Jazz,Houston Rockets,42,17,59,826261200.0,1996
+Utah Jazz,Minnesota Timberwolves,Utah Jazz,43,17,60,826434000.0,1996
+Utah Jazz,Atlanta Hawks,Utah Jazz,43,18,61,826606800.0,1996
+Utah Jazz,Charlotte Hornets (Original),Utah Jazz,43,19,62,826693200.0,1996
+Utah Jazz,Indiana Pacers,Utah Jazz,44,19,63,826866000.0,1996
+Utah Jazz,Washington Bullets,Utah Jazz,44,20,64,826952400.0,1996
+Utah Jazz,Milwaukee Bucks,Utah Jazz,45,20,65,827125200.0,1996
+Utah Jazz,Utah Jazz,Philadelphia 76ers,46,20,66,827298000.0,1996
+Utah Jazz,Utah Jazz,Cleveland Cavaliers,47,20,67,827470800.0,1996
+Utah Jazz,Utah Jazz,Dallas Mavericks,48,20,68,827730000.0,1996
+Utah Jazz,Utah Jazz,Milwaukee Bucks,49,20,69,827902800.0,1996
+Utah Jazz,Utah Jazz,Vancouver Grizzlies,50,20,70,828075600.0,1996
+Utah Jazz,Seattle Supersonics,Utah Jazz,50,21,71,828162000.0,1996
+Utah Jazz,Utah Jazz,Seattle Supersonics,50,22,72,828421200.0,1996
+Utah Jazz,Phoenix Suns,Utah Jazz,50,23,73,828594000.0,1996
+Utah Jazz,Utah Jazz,Minnesota Timberwolves,50,24,74,828680400.0,1996
+Utah Jazz,Sacramento Kings,Utah Jazz,51,24,75,828853200.0,1996
+Utah Jazz,Utah Jazz,San Antonio Spurs,51,25,76,828936000.0,1996
+Utah Jazz,Utah Jazz,Phoenix Suns,52,25,77,829108800.0,1996
+Utah Jazz,Los Angeles Clippers,Utah Jazz,52,26,78,829368000.0,1996
+Utah Jazz,Golden State Warriors,Utah Jazz,52,27,79,829454400.0,1996
+Utah Jazz,Utah Jazz,Los Angeles Clippers,53,27,80,829627200.0,1996
+Utah Jazz,Vancouver Grizzlies,Utah Jazz,54,27,81,829800000.0,1996
+Utah Jazz,Utah Jazz,Sacramento Kings,55,27,82,829972800.0,1996
+Vancouver Grizzlies,Portland Trail Blazers,Vancouver Grizzlies,1,0,1,815374800.0,1996
+Vancouver Grizzlies,Vancouver Grizzlies,Minnesota Timberwolves,2,0,2,815547600.0,1996
+Vancouver Grizzlies,Dallas Mavericks,Vancouver Grizzlies,2,1,3,815720400.0,1996
+Vancouver Grizzlies,San Antonio Spurs,Vancouver Grizzlies,2,2,4,815806800.0,1996
+Vancouver Grizzlies,Vancouver Grizzlies,Los Angeles Clippers,2,3,5,815979600.0,1996
+Vancouver Grizzlies,Seattle Supersonics,Vancouver Grizzlies,2,4,6,816066000.0,1996
+Vancouver Grizzlies,Vancouver Grizzlies,Dallas Mavericks,2,5,7,816238800.0,1996
+Vancouver Grizzlies,Los Angeles Clippers,Vancouver Grizzlies,2,6,8,816498000.0,1996
+Vancouver Grizzlies,Vancouver Grizzlies,Los Angeles Lakers,2,7,9,816584400.0,1996
+Vancouver Grizzlies,New York Knicks,Vancouver Grizzlies,2,8,10,816757200.0,1996
+Vancouver Grizzlies,Orlando Magic,Vancouver Grizzlies,2,9,11,817016400.0,1996
+Vancouver Grizzlies,Charlotte Hornets (Original),Vancouver Grizzlies,2,10,12,817189200.0,1996
+Vancouver Grizzlies,Miami Heat,Vancouver Grizzlies,2,11,13,817275600.0,1996
+Vancouver Grizzlies,Minnesota Timberwolves,Vancouver Grizzlies,2,12,14,817534800.0,1996
+Vancouver Grizzlies,Vancouver Grizzlies,Chicago Bulls,2,13,15,817707600.0,1996
+Vancouver Grizzlies,Los Angeles Lakers,Vancouver Grizzlies,2,14,16,817794000.0,1996
+Vancouver Grizzlies,Vancouver Grizzlies,Milwaukee Bucks,2,15,17,817966800.0,1996
+Vancouver Grizzlies,Phoenix Suns,Vancouver Grizzlies,2,16,18,818139600.0,1996
+Vancouver Grizzlies,Vancouver Grizzlies,Detroit Pistons,2,17,19,818312400.0,1996
+Vancouver Grizzlies,Vancouver Grizzlies,Toronto Raptors,2,18,20,818571600.0,1996
+Vancouver Grizzlies,Vancouver Grizzlies,Houston Rockets,2,19,21,818830800.0,1996
+Vancouver Grizzlies,Vancouver Grizzlies,Portland Trail Blazers,3,19,22,819003600.0,1996
+Vancouver Grizzlies,Vancouver Grizzlies,Golden State Warriors,3,20,23,819090000.0,1996
+Vancouver Grizzlies,Sacramento Kings,Vancouver Grizzlies,3,21,24,819262800.0,1996
+Vancouver Grizzlies,Vancouver Grizzlies,Seattle Supersonics,4,21,25,819349200.0,1996
+Vancouver Grizzlies,Seattle Supersonics,Vancouver Grizzlies,4,22,26,819522000.0,1996
+Vancouver Grizzlies,Vancouver Grizzlies,Phoenix Suns,4,23,27,819608400.0,1996
+Vancouver Grizzlies,Houston Rockets,Vancouver Grizzlies,4,24,28,819954000.0,1996
+Vancouver Grizzlies,Dallas Mavericks,Vancouver Grizzlies,4,25,29,820126800.0,1996
+Vancouver Grizzlies,Vancouver Grizzlies,Boston Celtics,5,25,30,820299600.0,1996
+Vancouver Grizzlies,Vancouver Grizzlies,Philadelphia 76ers,6,25,31,820818000.0,1996
+Vancouver Grizzlies,Vancouver Grizzlies,Los Angeles Clippers,6,26,32,820990800.0,1996
+Vancouver Grizzlies,Golden State Warriors,Vancouver Grizzlies,6,27,33,821163600.0,1996
+Vancouver Grizzlies,Vancouver Grizzlies,Denver Nuggets,6,28,34,821250000.0,1996
+Vancouver Grizzlies,Vancouver Grizzlies,Golden State Warriors,6,29,35,821422800.0,1996
+Vancouver Grizzlies,Vancouver Grizzlies,Miami Heat,7,29,36,821509200.0,1996
+Vancouver Grizzlies,Vancouver Grizzlies,Cleveland Cavaliers,7,30,37,821941200.0,1996
+Vancouver Grizzlies,Vancouver Grizzlies,New York Knicks,8,30,38,822114000.0,1996
+Vancouver Grizzlies,Milwaukee Bucks,Vancouver Grizzlies,9,30,39,822286800.0,1996
+Vancouver Grizzlies,Chicago Bulls,Vancouver Grizzlies,9,31,40,822459600.0,1996
+Vancouver Grizzlies,Toronto Raptors,Vancouver Grizzlies,10,31,41,822546000.0,1996
+Vancouver Grizzlies,Washington Bullets,Vancouver Grizzlies,10,32,42,822718800.0,1996
+Vancouver Grizzlies,Philadelphia 76ers,Vancouver Grizzlies,10,33,43,822891600.0,1996
+Vancouver Grizzlies,Boston Celtics,Vancouver Grizzlies,10,34,44,823064400.0,1996
+Vancouver Grizzlies,Vancouver Grizzlies,New Jersey Nets,10,35,45,823237200.0,1996
+Vancouver Grizzlies,Vancouver Grizzlies,Utah Jazz,10,36,46,823496400.0,1996
+Vancouver Grizzlies,Utah Jazz,Vancouver Grizzlies,10,37,47,823669200.0,1996
+Vancouver Grizzlies,Vancouver Grizzlies,Sacramento Kings,11,37,48,824274000.0,1996
+Vancouver Grizzlies,Vancouver Grizzlies,Atlanta Hawks,11,38,49,824446800.0,1996
+Vancouver Grizzlies,Vancouver Grizzlies,Seattle Supersonics,11,39,50,824619600.0,1996
+Vancouver Grizzlies,Phoenix Suns,Vancouver Grizzlies,11,40,51,824706000.0,1996
+Vancouver Grizzlies,Vancouver Grizzlies,San Antonio Spurs,11,41,52,825224400.0,1996
+Vancouver Grizzlies,Vancouver Grizzlies,Los Angeles Lakers,11,42,53,825483600.0,1996
+Vancouver Grizzlies,Vancouver Grizzlies,Dallas Mavericks,11,43,54,825656400.0,1996
+Vancouver Grizzlies,Denver Nuggets,Vancouver Grizzlies,11,44,55,825742800.0,1996
+Vancouver Grizzlies,Vancouver Grizzlies,Washington Bullets,11,45,56,825915600.0,1996
+Vancouver Grizzlies,Golden State Warriors,Vancouver Grizzlies,11,46,57,826002000.0,1996
+Vancouver Grizzlies,Vancouver Grizzlies,Indiana Pacers,11,47,58,826261200.0,1996
+Vancouver Grizzlies,Vancouver Grizzlies,Houston Rockets,11,48,59,826434000.0,1996
+Vancouver Grizzlies,Sacramento Kings,Vancouver Grizzlies,11,49,60,826520400.0,1996
+Vancouver Grizzlies,Vancouver Grizzlies,Orlando Magic,11,50,61,826866000.0,1996
+Vancouver Grizzlies,Minnesota Timberwolves,Vancouver Grizzlies,11,51,62,827038800.0,1996
+Vancouver Grizzlies,New Jersey Nets,Vancouver Grizzlies,11,52,63,827211600.0,1996
+Vancouver Grizzlies,Atlanta Hawks,Vancouver Grizzlies,11,53,64,827298000.0,1996
+Vancouver Grizzlies,Indiana Pacers,Vancouver Grizzlies,11,54,65,827470800.0,1996
+Vancouver Grizzlies,Cleveland Cavaliers,Vancouver Grizzlies,11,55,66,827643600.0,1996
+Vancouver Grizzlies,Detroit Pistons,Vancouver Grizzlies,11,56,67,827816400.0,1996
+Vancouver Grizzlies,Vancouver Grizzlies,Denver Nuggets,11,57,68,827989200.0,1996
+Vancouver Grizzlies,Utah Jazz,Vancouver Grizzlies,11,58,69,828075600.0,1996
+Vancouver Grizzlies,Vancouver Grizzlies,Charlotte Hornets (Original),11,59,70,828248400.0,1996
+Vancouver Grizzlies,Portland Trail Blazers,Vancouver Grizzlies,11,60,71,828421200.0,1996
+Vancouver Grizzlies,Vancouver Grizzlies,Minnesota Timberwolves,12,60,72,828507600.0,1996
+Vancouver Grizzlies,Los Angeles Lakers,Vancouver Grizzlies,12,61,73,828680400.0,1996
+Vancouver Grizzlies,Vancouver Grizzlies,Phoenix Suns,12,62,74,828853200.0,1996
+Vancouver Grizzlies,Houston Rockets,Vancouver Grizzlies,12,63,75,829022400.0,1996
+Vancouver Grizzlies,San Antonio Spurs,Vancouver Grizzlies,12,64,76,829108800.0,1996
+Vancouver Grizzlies,Vancouver Grizzlies,Sacramento Kings,13,64,77,829281600.0,1996
+Vancouver Grizzlies,Vancouver Grizzlies,Portland Trail Blazers,13,65,78,829454400.0,1996
+Vancouver Grizzlies,Vancouver Grizzlies,San Antonio Spurs,13,66,79,829627200.0,1996
+Vancouver Grizzlies,Vancouver Grizzlies,Utah Jazz,13,67,80,829800000.0,1996
+Vancouver Grizzlies,Denver Nuggets,Vancouver Grizzlies,14,67,81,829886400.0,1996
+Vancouver Grizzlies,Los Angeles Clippers,Vancouver Grizzlies,15,67,82,830059200.0,1996
+Washington Bullets,Philadelphia 76ers,Washington Bullets,0,1,1,815374800.0,1996
+Washington Bullets,Washington Bullets,Detroit Pistons,1,1,2,815461200.0,1996
+Washington Bullets,Orlando Magic,Washington Bullets,1,2,3,815634000.0,1996
+Washington Bullets,Washington Bullets,Charlotte Hornets (Original),2,2,4,815806800.0,1996
+Washington Bullets,Washington Bullets,New York Knicks,2,3,5,815979600.0,1996
+Washington Bullets,Washington Bullets,Philadelphia 76ers,3,3,6,816411600.0,1996
+Washington Bullets,Boston Celtics,Washington Bullets,3,4,7,816584400.0,1996
+Washington Bullets,Washington Bullets,Toronto Raptors,3,5,8,816670800.0,1996
+Washington Bullets,Detroit Pistons,Washington Bullets,4,5,9,817016400.0,1996
+Washington Bullets,Washington Bullets,Miami Heat,5,5,10,817189200.0,1996
+Washington Bullets,Washington Bullets,Orlando Magic,5,6,11,817275600.0,1996
+Washington Bullets,New Jersey Nets,Washington Bullets,5,7,12,817534800.0,1996
+Washington Bullets,Washington Bullets,Cleveland Cavaliers,5,8,13,817707600.0,1996
+Washington Bullets,Washington Bullets,Boston Celtics,6,8,14,817880400.0,1996
+Washington Bullets,New York Knicks,Washington Bullets,6,9,15,817966800.0,1996
+Washington Bullets,Washington Bullets,Atlanta Hawks,7,9,16,818226000.0,1996
+Washington Bullets,Houston Rockets,Washington Bullets,7,10,17,818398800.0,1996
+Washington Bullets,Dallas Mavericks,Washington Bullets,8,10,18,818485200.0,1996
+Washington Bullets,Washington Bullets,Milwaukee Bucks,9,10,19,818744400.0,1996
+Washington Bullets,Washington Bullets,Los Angeles Lakers,10,10,20,819003600.0,1996
+Washington Bullets,Portland Trail Blazers,Washington Bullets,11,10,21,819176400.0,1996
+Washington Bullets,Los Angeles Clippers,Washington Bullets,12,10,22,819349200.0,1996
+Washington Bullets,Phoenix Suns,Washington Bullets,12,11,23,819435600.0,1996
+Washington Bullets,Golden State Warriors,Washington Bullets,12,12,24,819608400.0,1996
+Washington Bullets,Seattle Supersonics,Washington Bullets,12,13,25,819694800.0,1996
+Washington Bullets,Washington Bullets,Golden State Warriors,13,13,26,820040400.0,1996
+Washington Bullets,Washington Bullets,New York Knicks,14,13,27,820213200.0,1996
+Washington Bullets,Milwaukee Bucks,Washington Bullets,15,13,28,820299600.0,1996
+Washington Bullets,Washington Bullets,Cleveland Cavaliers,15,14,29,820558800.0,1996
+Washington Bullets,Washington Bullets,Dallas Mavericks,16,14,30,820731600.0,1996
+Washington Bullets,Detroit Pistons,Washington Bullets,16,15,31,820904400.0,1996
+Washington Bullets,Cleveland Cavaliers,Washington Bullets,16,16,32,821077200.0,1996
+Washington Bullets,Philadelphia 76ers,Washington Bullets,17,16,33,821250000.0,1996
+Washington Bullets,Washington Bullets,Sacramento Kings,18,16,34,821422800.0,1996
+Washington Bullets,Toronto Raptors,Washington Bullets,18,17,35,821509200.0,1996
+Washington Bullets,Washington Bullets,Chicago Bulls,18,18,36,821682000.0,1996
+Washington Bullets,Miami Heat,Washington Bullets,18,19,37,821854800.0,1996
+Washington Bullets,Washington Bullets,New Jersey Nets,19,19,38,822027600.0,1996
+Washington Bullets,Indiana Pacers,Washington Bullets,19,20,39,822200400.0,1996
+Washington Bullets,Charlotte Hornets (Original),Washington Bullets,19,21,40,822459600.0,1996
+Washington Bullets,Washington Bullets,Houston Rockets,20,21,41,822546000.0,1996
+Washington Bullets,Washington Bullets,Vancouver Grizzlies,21,21,42,822718800.0,1996
+Washington Bullets,Washington Bullets,Portland Trail Blazers,22,21,43,823237200.0,1996
+Washington Bullets,Washington Bullets,Phoenix Suns,22,22,44,823410000.0,1996
+Washington Bullets,New York Knicks,Washington Bullets,22,23,45,823669200.0,1996
+Washington Bullets,Atlanta Hawks,Washington Bullets,22,24,46,823755600.0,1996
+Washington Bullets,Chicago Bulls,Washington Bullets,22,25,47,824187600.0,1996
+Washington Bullets,Milwaukee Bucks,Washington Bullets,22,26,48,824360400.0,1996
+Washington Bullets,Washington Bullets,Indiana Pacers,22,27,49,824446800.0,1996
+Washington Bullets,Minnesota Timberwolves,Washington Bullets,23,27,50,824619600.0,1996
+Washington Bullets,Washington Bullets,New Jersey Nets,23,28,51,824706000.0,1996
+Washington Bullets,Charlotte Hornets (Original),Washington Bullets,23,29,52,824878800.0,1996
+Washington Bullets,Washington Bullets,Charlotte Hornets (Original),23,30,53,825051600.0,1996
+Washington Bullets,Washington Bullets,Milwaukee Bucks,24,30,54,825224400.0,1996
+Washington Bullets,Denver Nuggets,Washington Bullets,24,31,55,825397200.0,1996
+Washington Bullets,Utah Jazz,Washington Bullets,24,32,56,825483600.0,1996
+Washington Bullets,Los Angeles Lakers,Washington Bullets,24,33,57,825656400.0,1996
+Washington Bullets,Sacramento Kings,Washington Bullets,25,33,58,825829200.0,1996
+Washington Bullets,Vancouver Grizzlies,Washington Bullets,26,33,59,825915600.0,1996
+Washington Bullets,Washington Bullets,Seattle Supersonics,27,33,60,826088400.0,1996
+Washington Bullets,Washington Bullets,Los Angeles Clippers,27,34,61,826261200.0,1996
+Washington Bullets,Washington Bullets,Atlanta Hawks,28,34,62,826434000.0,1996
+Washington Bullets,Chicago Bulls,Washington Bullets,28,35,63,826693200.0,1996
+Washington Bullets,New Jersey Nets,Washington Bullets,29,35,64,826779600.0,1996
+Washington Bullets,Washington Bullets,Utah Jazz,30,35,65,826952400.0,1996
+Washington Bullets,Washington Bullets,San Antonio Spurs,30,36,66,827298000.0,1996
+Washington Bullets,Washington Bullets,Orlando Magic,30,37,67,827470800.0,1996
+Washington Bullets,Washington Bullets,Denver Nuggets,31,37,68,827643600.0,1996
+Washington Bullets,Cleveland Cavaliers,Washington Bullets,32,37,69,827816400.0,1996
+Washington Bullets,Washington Bullets,Indiana Pacers,32,38,70,827902800.0,1996
+Washington Bullets,Miami Heat,Washington Bullets,32,39,71,828075600.0,1996
+Washington Bullets,Washington Bullets,Philadelphia 76ers,33,39,72,828162000.0,1996
+Washington Bullets,Atlanta Hawks,Washington Bullets,34,39,73,828594000.0,1996
+Washington Bullets,San Antonio Spurs,Washington Bullets,35,39,74,828680400.0,1996
+Washington Bullets,Washington Bullets,Miami Heat,36,39,75,828936000.0,1996
+Washington Bullets,Boston Celtics,Washington Bullets,37,39,76,829108800.0,1996
+Washington Bullets,Washington Bullets,Minnesota Timberwolves,38,39,77,829281600.0,1996
+Washington Bullets,Washington Bullets,Toronto Raptors,39,39,78,829454400.0,1996
+Washington Bullets,Orlando Magic,Washington Bullets,39,40,79,829627200.0,1996
+Washington Bullets,Washington Bullets,Boston Celtics,39,41,80,829713600.0,1996
+Washington Bullets,Toronto Raptors,Washington Bullets,39,42,81,829886400.0,1996
+Washington Bullets,Washington Bullets,Chicago Bulls,39,43,82,830059200.0,1996

@@ -1,0 +1,2379 @@
+id,home_team,away_team,win,loss,game_number,date,year
+Atlanta Hawks,Houston Rockets,Atlanta Hawks,0,1,1,1004491800.0,2002
+Atlanta Hawks,Atlanta Hawks,Washington Wizards,0,2,2,1004662800.0,2002
+Atlanta Hawks,Atlanta Hawks,Miami Heat,1,2,3,1004832000.0,2002
+Atlanta Hawks,Los Angeles Clippers,Atlanta Hawks,1,3,4,1005017400.0,2002
+Atlanta Hawks,Utah Jazz,Atlanta Hawks,1,4,5,1005184800.0,2002
+Atlanta Hawks,Phoenix Suns,Atlanta Hawks,1,5,6,1005271200.0,2002
+Atlanta Hawks,San Antonio Spurs,Atlanta Hawks,1,6,7,1005442200.0,2002
+Atlanta Hawks,Atlanta Hawks,Utah Jazz,2,6,8,1005784200.0,2002
+Atlanta Hawks,Philadelphia 76ers,Atlanta Hawks,2,7,9,1005955200.0,2002
+Atlanta Hawks,Atlanta Hawks,Boston Celtics,3,7,10,1006041600.0,2002
+Atlanta Hawks,Indiana Pacers,Atlanta Hawks,3,8,11,1006300800.0,2002
+Atlanta Hawks,Boston Celtics,Atlanta Hawks,4,8,12,1006387200.0,2002
+Atlanta Hawks,Atlanta Hawks,Detroit Pistons,5,8,13,1006561800.0,2002
+Atlanta Hawks,Milwaukee Bucks,Atlanta Hawks,5,9,14,1006653600.0,2002
+Atlanta Hawks,New York Knicks,Atlanta Hawks,5,10,15,1006821000.0,2002
+Atlanta Hawks,Atlanta Hawks,New York Knicks,5,11,16,1006993800.0,2002
+Atlanta Hawks,Cleveland Cavaliers,Atlanta Hawks,6,11,17,1007078400.0,2002
+Atlanta Hawks,Atlanta Hawks,Toronto Raptors,6,12,18,1007233200.0,2002
+Atlanta Hawks,Atlanta Hawks,San Antonio Spurs,6,13,19,1007598600.0,2002
+Atlanta Hawks,Orlando Magic,Atlanta Hawks,6,14,20,1007771400.0,2002
+Atlanta Hawks,Atlanta Hawks,Orlando Magic,7,14,21,1007856000.0,2002
+Atlanta Hawks,Atlanta Hawks,Philadelphia 76ers,8,14,22,1008118800.0,2002
+Atlanta Hawks,Chicago Bulls,Atlanta Hawks,9,14,23,1008466200.0,2002
+Atlanta Hawks,Atlanta Hawks,Indiana Pacers,9,15,24,1008721800.0,2002
+Atlanta Hawks,Washington Wizards,Atlanta Hawks,9,16,25,1008806400.0,2002
+Atlanta Hawks,Philadelphia 76ers,Atlanta Hawks,9,17,26,1008979200.0,2002
+Atlanta Hawks,Atlanta Hawks,Charlotte Hornets (Original),10,17,27,1009065600.0,2002
+Atlanta Hawks,Milwaukee Bucks,Atlanta Hawks,10,18,28,1009414800.0,2002
+Atlanta Hawks,Atlanta Hawks,Miami Heat,11,18,29,1009499400.0,2002
+Atlanta Hawks,Dallas Mavericks,Atlanta Hawks,11,19,30,1009675800.0,2002
+Atlanta Hawks,Memphis Grizzlies,Atlanta Hawks,12,19,31,1010192400.0,2002
+Atlanta Hawks,Atlanta Hawks,Minnesota Timberwolves,12,20,32,1010275200.0,2002
+Atlanta Hawks,Atlanta Hawks,Portland Trail Blazers,13,20,33,1010536200.0,2002
+Atlanta Hawks,Charlotte Hornets (Original),Atlanta Hawks,13,21,34,1010620800.0,2002
+Atlanta Hawks,Toronto Raptors,Atlanta Hawks,13,22,35,1010793600.0,2002
+Atlanta Hawks,Atlanta Hawks,Boston Celtics,13,23,36,1010880000.0,2002
+Atlanta Hawks,Atlanta Hawks,Dallas Mavericks,13,24,37,1011141000.0,2002
+Atlanta Hawks,Atlanta Hawks,Chicago Bulls,13,25,38,1011313800.0,2002
+Atlanta Hawks,Atlanta Hawks,Milwaukee Bucks,13,26,39,1011484800.0,2002
+Atlanta Hawks,Atlanta Hawks,Houston Rockets,14,26,40,1011639600.0,2002
+Atlanta Hawks,Orlando Magic,Atlanta Hawks,14,27,41,1011745800.0,2002
+Atlanta Hawks,Atlanta Hawks,Detroit Pistons,14,28,42,1012005000.0,2002
+Atlanta Hawks,Minnesota Timberwolves,Atlanta Hawks,14,29,43,1012093200.0,2002
+Atlanta Hawks,Atlanta Hawks,Los Angeles Lakers,14,30,44,1012350600.0,2002
+Atlanta Hawks,Detroit Pistons,Atlanta Hawks,14,31,45,1012437000.0,2002
+Atlanta Hawks,Washington Wizards,Atlanta Hawks,14,32,46,1012608000.0,2002
+Atlanta Hawks,Atlanta Hawks,Los Angeles Clippers,15,32,47,1012698000.0,2002
+Atlanta Hawks,Miami Heat,Atlanta Hawks,16,32,48,1012955400.0,2002
+Atlanta Hawks,New York Knicks,Atlanta Hawks,16,33,49,1013128200.0,2002
+Atlanta Hawks,Atlanta Hawks,New Jersey Nets,17,33,50,1013560200.0,2002
+Atlanta Hawks,Los Angeles Lakers,Atlanta Hawks,18,33,51,1013830200.0,2002
+Atlanta Hawks,Golden State Warriors,Atlanta Hawks,19,33,52,1013997600.0,2002
+Atlanta Hawks,Sacramento Kings,Atlanta Hawks,19,34,53,1014174000.0,2002
+Atlanta Hawks,Portland Trail Blazers,Atlanta Hawks,19,35,54,1014346800.0,2002
+Atlanta Hawks,Seattle Supersonics,Atlanta Hawks,19,36,55,1014433200.0,2002
+Atlanta Hawks,Denver Nuggets,Atlanta Hawks,20,36,56,1014602400.0,2002
+Atlanta Hawks,Atlanta Hawks,Seattle Supersonics,20,37,57,1014856200.0,2002
+Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,21,37,58,1015113600.0,2002
+Atlanta Hawks,Atlanta Hawks,Memphis Grizzlies,22,37,59,1015288200.0,2002
+Atlanta Hawks,Cleveland Cavaliers,Atlanta Hawks,22,38,60,1015372800.0,2002
+Atlanta Hawks,Atlanta Hawks,Philadelphia 76ers,22,39,61,1015718400.0,2002
+Atlanta Hawks,Atlanta Hawks,Golden State Warriors,23,39,62,1015893000.0,2002
+Atlanta Hawks,Atlanta Hawks,Denver Nuggets,24,39,63,1016065800.0,2002
+Atlanta Hawks,Atlanta Hawks,Phoenix Suns,25,39,64,1016238600.0,2002
+Atlanta Hawks,Indiana Pacers,Atlanta Hawks,25,40,65,1016393400.0,2002
+Atlanta Hawks,Chicago Bulls,Atlanta Hawks,26,40,66,1016587800.0,2002
+Atlanta Hawks,Atlanta Hawks,New York Knicks,27,40,67,1016757000.0,2002
+Atlanta Hawks,Atlanta Hawks,Chicago Bulls,28,40,68,1016928000.0,2002
+Atlanta Hawks,New Jersey Nets,Atlanta Hawks,28,41,69,1017010800.0,2002
+Atlanta Hawks,Atlanta Hawks,New Jersey Nets,29,41,70,1017189000.0,2002
+Atlanta Hawks,Atlanta Hawks,Toronto Raptors,29,42,71,1017361800.0,2002
+Atlanta Hawks,Miami Heat,Atlanta Hawks,29,43,72,1017448200.0,2002
+Atlanta Hawks,Atlanta Hawks,Sacramento Kings,29,44,73,1017601200.0,2002
+Atlanta Hawks,Atlanta Hawks,Milwaukee Bucks,30,44,74,1017793800.0,2002
+Atlanta Hawks,Atlanta Hawks,Indiana Pacers,31,44,75,1017966600.0,2002
+Atlanta Hawks,Atlanta Hawks,Charlotte Hornets (Original),31,45,76,1018141200.0,2002
+Atlanta Hawks,Detroit Pistons,Atlanta Hawks,31,46,77,1018308600.0,2002
+Atlanta Hawks,Charlotte Hornets (Original),Atlanta Hawks,32,46,78,1018479600.0,2002
+Atlanta Hawks,Toronto Raptors,Atlanta Hawks,32,47,79,1018652400.0,2002
+Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,33,47,80,1018738800.0,2002
+Atlanta Hawks,Atlanta Hawks,Orlando Magic,33,48,81,1018999800.0,2002
+Atlanta Hawks,Boston Celtics,Atlanta Hawks,33,49,82,1019084400.0,2002
+Boston Celtics,Cleveland Cavaliers,Boston Celtics,1,0,1,1004486400.0,2002
+Boston Celtics,Boston Celtics,New Jersey Nets,1,1,2,1004572800.0,2002
+Boston Celtics,Boston Celtics,Chicago Bulls,2,1,3,1004747400.0,2002
+Boston Celtics,Milwaukee Bucks,Boston Celtics,2,2,4,1004837400.0,2002
+Boston Celtics,Boston Celtics,Washington Wizards,3,2,5,1005181200.0,2002
+Boston Celtics,Boston Celtics,Seattle Supersonics,4,2,6,1005352200.0,2002
+Boston Celtics,Boston Celtics,Indiana Pacers,5,2,7,1005782400.0,2002
+Boston Celtics,Atlanta Hawks,Boston Celtics,5,3,8,1006041600.0,2002
+Boston Celtics,Boston Celtics,Atlanta Hawks,5,4,9,1006387200.0,2002
+Boston Celtics,Boston Celtics,Toronto Raptors,5,5,10,1006561800.0,2002
+Boston Celtics,Washington Wizards,Boston Celtics,5,6,11,1006646400.0,2002
+Boston Celtics,Miami Heat,Boston Celtics,6,6,12,1006907400.0,2002
+Boston Celtics,Orlando Magic,Boston Celtics,7,6,13,1007080200.0,2002
+Boston Celtics,New Jersey Nets,Boston Celtics,8,6,14,1007229600.0,2002
+Boston Celtics,Toronto Raptors,Boston Celtics,9,6,15,1007323200.0,2002
+Boston Celtics,Boston Celtics,Denver Nuggets,10,6,16,1007596800.0,2002
+Boston Celtics,Boston Celtics,Phoenix Suns,11,6,17,1007771400.0,2002
+Boston Celtics,Chicago Bulls,Boston Celtics,11,7,18,1007861400.0,2002
+Boston Celtics,New York Knicks,Boston Celtics,12,7,19,1008117000.0,2002
+Boston Celtics,Boston Celtics,Chicago Bulls,13,7,20,1008376200.0,2002
+Boston Celtics,Charlotte Hornets (Original),Boston Celtics,14,7,21,1008462600.0,2002
+Boston Celtics,Philadelphia 76ers,Boston Celtics,14,8,22,1008633600.0,2002
+Boston Celtics,Boston Celtics,Cleveland Cavaliers,15,8,23,1008806400.0,2002
+Boston Celtics,Boston Celtics,Utah Jazz,16,8,24,1008981000.0,2002
+Boston Celtics,Boston Celtics,Memphis Grizzlies,17,8,25,1009148400.0,2002
+Boston Celtics,Utah Jazz,Boston Celtics,17,9,26,1009418400.0,2002
+Boston Celtics,Phoenix Suns,Boston Celtics,17,10,27,1009504800.0,2002
+Boston Celtics,Los Angeles Clippers,Boston Celtics,18,10,28,1009657800.0,2002
+Boston Celtics,Sacramento Kings,Boston Celtics,18,11,29,1009764000.0,2002
+Boston Celtics,Boston Celtics,Orlando Magic,19,11,30,1010016000.0,2002
+Boston Celtics,Boston Celtics,Miami Heat,19,12,31,1010190600.0,2002
+Boston Celtics,New York Knicks,Boston Celtics,20,12,32,1010277000.0,2002
+Boston Celtics,Orlando Magic,Boston Celtics,20,13,33,1010449800.0,2002
+Boston Celtics,Boston Celtics,San Antonio Spurs,20,14,34,1010620800.0,2002
+Boston Celtics,Boston Celtics,Detroit Pistons,21,14,35,1010795400.0,2002
+Boston Celtics,Atlanta Hawks,Boston Celtics,22,14,36,1010880000.0,2002
+Boston Celtics,Boston Celtics,New York Knicks,23,14,37,1011225600.0,2002
+Boston Celtics,Boston Celtics,Houston Rockets,23,15,38,1011400200.0,2002
+Boston Celtics,Detroit Pistons,Boston Celtics,23,16,39,1011486600.0,2002
+Boston Celtics,Boston Celtics,Toronto Raptors,24,16,40,1011659400.0,2002
+Boston Celtics,Boston Celtics,Indiana Pacers,25,16,41,1011830400.0,2002
+Boston Celtics,Boston Celtics,Philadelphia 76ers,25,17,42,1012005000.0,2002
+Boston Celtics,Cleveland Cavaliers,Boston Celtics,26,17,43,1012093200.0,2002
+Boston Celtics,Milwaukee Bucks,Boston Celtics,26,18,44,1012352400.0,2002
+Boston Celtics,Toronto Raptors,Boston Celtics,26,19,45,1012525200.0,2002
+Boston Celtics,Boston Celtics,Minnesota Timberwolves,26,20,46,1012609800.0,2002
+Boston Celtics,Boston Celtics,Los Angeles Clippers,27,20,47,1012782600.0,2002
+Boston Celtics,Charlotte Hornets (Original),Boston Celtics,28,20,48,1012953600.0,2002
+Boston Celtics,Boston Celtics,Sacramento Kings,28,21,49,1013040000.0,2002
+Boston Celtics,Denver Nuggets,Boston Celtics,29,21,50,1013565600.0,2002
+Boston Celtics,Golden State Warriors,Boston Celtics,29,22,51,1013657400.0,2002
+Boston Celtics,Portland Trail Blazers,Boston Celtics,30,22,52,1013828400.0,2002
+Boston Celtics,Seattle Supersonics,Boston Celtics,30,23,53,1013914800.0,2002
+Boston Celtics,Los Angeles Lakers,Boston Celtics,31,23,54,1014175800.0,2002
+Boston Celtics,Dallas Mavericks,Boston Celtics,31,24,55,1014341400.0,2002
+Boston Celtics,Houston Rockets,Boston Celtics,31,25,56,1014514200.0,2002
+Boston Celtics,Boston Celtics,Milwaukee Bucks,31,26,57,1014854400.0,2002
+Boston Celtics,Boston Celtics,Charlotte Hornets (Original),31,27,58,1015029000.0,2002
+Boston Celtics,Philadelphia 76ers,Boston Celtics,32,27,59,1015286400.0,2002
+Boston Celtics,Boston Celtics,Orlando Magic,33,27,60,1015459200.0,2002
+Boston Celtics,Boston Celtics,Detroit Pistons,34,27,61,1015633800.0,2002
+Boston Celtics,Boston Celtics,Washington Wizards,35,27,62,1015790400.0,2002
+Boston Celtics,Washington Wizards,Boston Celtics,36,27,63,1015891200.0,2002
+Boston Celtics,Boston Celtics,New Jersey Nets,37,27,64,1016064000.0,2002
+Boston Celtics,Memphis Grizzlies,Boston Celtics,38,27,65,1016240400.0,2002
+Boston Celtics,San Antonio Spurs,Boston Celtics,38,28,66,1016328600.0,2002
+Boston Celtics,Boston Celtics,Portland Trail Blazers,38,29,67,1016496000.0,2002
+Boston Celtics,Boston Celtics,Cleveland Cavaliers,39,29,68,1016668800.0,2002
+Boston Celtics,Boston Celtics,Philadelphia 76ers,39,30,69,1016843400.0,2002
+Boston Celtics,Detroit Pistons,Boston Celtics,39,31,70,1016989200.0,2002
+Boston Celtics,Miami Heat,Boston Celtics,40,31,71,1017102600.0,2002
+Boston Celtics,Boston Celtics,Golden State Warriors,41,31,72,1017273600.0,2002
+Boston Celtics,Boston Celtics,Dallas Mavericks,41,32,73,1017448200.0,2002
+Boston Celtics,Boston Celtics,Milwaukee Bucks,42,32,74,1017595800.0,2002
+Boston Celtics,Indiana Pacers,Boston Celtics,43,32,75,1017792000.0,2002
+Boston Celtics,Boston Celtics,Los Angeles Lakers,44,32,76,1018053000.0,2002
+Boston Celtics,New Jersey Nets,Boston Celtics,45,32,77,1018224000.0,2002
+Boston Celtics,Chicago Bulls,Boston Celtics,45,33,78,1018312200.0,2002
+Boston Celtics,Boston Celtics,Miami Heat,46,33,79,1018483200.0,2002
+Boston Celtics,Boston Celtics,New York Knicks,47,33,80,1018654200.0,2002
+Boston Celtics,Minnesota Timberwolves,Boston Celtics,48,33,81,1018915200.0,2002
+Boston Celtics,Boston Celtics,Atlanta Hawks,49,33,82,1019084400.0,2002
+Charlotte Hornets (Original),Charlotte Hornets (Original),Cleveland Cavaliers,1,0,1,1004572800.0,2002
+Charlotte Hornets (Original),Charlotte Hornets (Original),New York Knicks,2,0,2,1004747400.0,2002
+Charlotte Hornets (Original),New Jersey Nets,Charlotte Hornets (Original),2,1,3,1004835600.0,2002
+Charlotte Hornets (Original),Dallas Mavericks,Charlotte Hornets (Original),2,2,4,1005096600.0,2002
+Charlotte Hornets (Original),Charlotte Hornets (Original),San Antonio Spurs,2,3,5,1005264000.0,2002
+Charlotte Hornets (Original),Chicago Bulls,Charlotte Hornets (Original),3,3,6,1005442200.0,2002
+Charlotte Hornets (Original),Philadelphia 76ers,Charlotte Hornets (Original),3,4,7,1005782400.0,2002
+Charlotte Hornets (Original),Miami Heat,Charlotte Hornets (Original),4,4,8,1005957000.0,2002
+Charlotte Hornets (Original),Charlotte Hornets (Original),Portland Trail Blazers,4,5,9,1006043400.0,2002
+Charlotte Hornets (Original),Washington Wizards,Charlotte Hornets (Original),5,5,10,1006304400.0,2002
+Charlotte Hornets (Original),Charlotte Hornets (Original),Dallas Mavericks,5,6,11,1006387200.0,2002
+Charlotte Hornets (Original),Charlotte Hornets (Original),Orlando Magic,5,7,12,1006561800.0,2002
+Charlotte Hornets (Original),Orlando Magic,Charlotte Hornets (Original),6,7,13,1006648200.0,2002
+Charlotte Hornets (Original),Detroit Pistons,Charlotte Hornets (Original),7,7,14,1006993800.0,2002
+Charlotte Hornets (Original),Charlotte Hornets (Original),Detroit Pistons,7,8,15,1007166600.0,2002
+Charlotte Hornets (Original),Cleveland Cavaliers,Charlotte Hornets (Original),7,9,16,1007253000.0,2002
+Charlotte Hornets (Original),Utah Jazz,Charlotte Hornets (Original),7,10,17,1007517600.0,2002
+Charlotte Hornets (Original),Portland Trail Blazers,Charlotte Hornets (Original),8,10,18,1007694000.0,2002
+Charlotte Hornets (Original),Golden State Warriors,Charlotte Hornets (Original),9,10,19,1007782200.0,2002
+Charlotte Hornets (Original),Los Angeles Clippers,Charlotte Hornets (Original),9,11,20,1007949600.0,2002
+Charlotte Hornets (Original),Denver Nuggets,Charlotte Hornets (Original),10,11,21,1008122400.0,2002
+Charlotte Hornets (Original),Charlotte Hornets (Original),Toronto Raptors,11,11,22,1008288000.0,2002
+Charlotte Hornets (Original),Charlotte Hornets (Original),Boston Celtics,11,12,23,1008462600.0,2002
+Charlotte Hornets (Original),Charlotte Hornets (Original),New York Knicks,11,13,24,1008720000.0,2002
+Charlotte Hornets (Original),Philadelphia 76ers,Charlotte Hornets (Original),12,13,25,1008806400.0,2002
+Charlotte Hornets (Original),Minnesota Timberwolves,Charlotte Hornets (Original),12,14,26,1008982800.0,2002
+Charlotte Hornets (Original),Atlanta Hawks,Charlotte Hornets (Original),12,15,27,1009065600.0,2002
+Charlotte Hornets (Original),Charlotte Hornets (Original),Washington Wizards,13,15,28,1009414800.0,2002
+Charlotte Hornets (Original),Charlotte Hornets (Original),Milwaukee Bucks,13,16,29,1009585800.0,2002
+Charlotte Hornets (Original),Washington Wizards,Charlotte Hornets (Original),13,17,30,1009670400.0,2002
+Charlotte Hornets (Original),Charlotte Hornets (Original),Golden State Warriors,14,17,31,1010102400.0,2002
+Charlotte Hornets (Original),Charlotte Hornets (Original),New Jersey Nets,14,18,32,1010277000.0,2002
+Charlotte Hornets (Original),Charlotte Hornets (Original),Denver Nuggets,15,18,33,1010448000.0,2002
+Charlotte Hornets (Original),Charlotte Hornets (Original),Atlanta Hawks,16,18,34,1010620800.0,2002
+Charlotte Hornets (Original),Charlotte Hornets (Original),Los Angeles Clippers,17,18,35,1010795400.0,2002
+Charlotte Hornets (Original),Detroit Pistons,Charlotte Hornets (Original),17,19,36,1010881800.0,2002
+Charlotte Hornets (Original),Chicago Bulls,Charlotte Hornets (Original),18,19,37,1011144600.0,2002
+Charlotte Hornets (Original),Charlotte Hornets (Original),Philadelphia 76ers,18,20,38,1011312000.0,2002
+Charlotte Hornets (Original),Charlotte Hornets (Original),Toronto Raptors,18,21,39,1011486600.0,2002
+Charlotte Hornets (Original),New York Knicks,Charlotte Hornets (Original),19,21,40,1011636000.0,2002
+Charlotte Hornets (Original),Charlotte Hornets (Original),Seattle Supersonics,20,21,41,1011830400.0,2002
+Charlotte Hornets (Original),Indiana Pacers,Charlotte Hornets (Original),20,22,42,1012003200.0,2002
+Charlotte Hornets (Original),Charlotte Hornets (Original),Houston Rockets,20,23,43,1012093200.0,2002
+Charlotte Hornets (Original),San Antonio Spurs,Charlotte Hornets (Original),21,23,44,1012354200.0,2002
+Charlotte Hornets (Original),Houston Rockets,Charlotte Hornets (Original),22,23,45,1012613400.0,2002
+Charlotte Hornets (Original),Memphis Grizzlies,Charlotte Hornets (Original),23,23,46,1012766400.0,2002
+Charlotte Hornets (Original),Charlotte Hornets (Original),Boston Celtics,23,24,47,1012953600.0,2002
+Charlotte Hornets (Original),Charlotte Hornets (Original),Philadelphia 76ers,23,25,48,1013126400.0,2002
+Charlotte Hornets (Original),Charlotte Hornets (Original),Chicago Bulls,24,25,49,1013644800.0,2002
+Charlotte Hornets (Original),Charlotte Hornets (Original),Indiana Pacers,25,25,50,1013819400.0,2002
+Charlotte Hornets (Original),Charlotte Hornets (Original),Memphis Grizzlies,25,26,51,1013972400.0,2002
+Charlotte Hornets (Original),Milwaukee Bucks,Charlotte Hornets (Original),26,26,52,1014080400.0,2002
+Charlotte Hornets (Original),Toronto Raptors,Charlotte Hornets (Original),27,26,53,1014253200.0,2002
+Charlotte Hornets (Original),Charlotte Hornets (Original),Los Angeles Lakers,27,27,54,1014424200.0,2002
+Charlotte Hornets (Original),New Jersey Nets,Charlotte Hornets (Original),27,28,55,1014580800.0,2002
+Charlotte Hornets (Original),Charlotte Hornets (Original),Minnesota Timberwolves,27,29,56,1014681600.0,2002
+Charlotte Hornets (Original),Charlotte Hornets (Original),New Jersey Nets,28,29,57,1014854400.0,2002
+Charlotte Hornets (Original),Boston Celtics,Charlotte Hornets (Original),29,29,58,1015029000.0,2002
+Charlotte Hornets (Original),Charlotte Hornets (Original),Detroit Pistons,29,30,59,1015185600.0,2002
+Charlotte Hornets (Original),Seattle Supersonics,Charlotte Hornets (Original),29,31,60,1015556400.0,2002
+Charlotte Hornets (Original),Sacramento Kings,Charlotte Hornets (Original),29,32,61,1015642800.0,2002
+Charlotte Hornets (Original),Phoenix Suns,Charlotte Hornets (Original),30,32,62,1015812000.0,2002
+Charlotte Hornets (Original),Los Angeles Lakers,Charlotte Hornets (Original),30,33,63,1015990200.0,2002
+Charlotte Hornets (Original),Charlotte Hornets (Original),Utah Jazz,31,33,64,1016150400.0,2002
+Charlotte Hornets (Original),Charlotte Hornets (Original),Phoenix Suns,32,33,65,1016325000.0,2002
+Charlotte Hornets (Original),Charlotte Hornets (Original),Milwaukee Bucks,33,33,66,1016496000.0,2002
+Charlotte Hornets (Original),Charlotte Hornets (Original),Indiana Pacers,34,33,67,1016668800.0,2002
+Charlotte Hornets (Original),Orlando Magic,Charlotte Hornets (Original),35,33,68,1016843400.0,2002
+Charlotte Hornets (Original),Indiana Pacers,Charlotte Hornets (Original),36,33,69,1016998200.0,2002
+Charlotte Hornets (Original),Charlotte Hornets (Original),Orlando Magic,37,33,70,1017273600.0,2002
+Charlotte Hornets (Original),Charlotte Hornets (Original),Sacramento Kings,37,34,71,1017448200.0,2002
+Charlotte Hornets (Original),Cleveland Cavaliers,Charlotte Hornets (Original),38,34,72,1017534600.0,2002
+Charlotte Hornets (Original),New York Knicks,Charlotte Hornets (Original),38,35,73,1017795600.0,2002
+Charlotte Hornets (Original),Charlotte Hornets (Original),Miami Heat,39,35,74,1017878400.0,2002
+Charlotte Hornets (Original),Charlotte Hornets (Original),Washington Wizards,40,35,75,1018053000.0,2002
+Charlotte Hornets (Original),Atlanta Hawks,Charlotte Hornets (Original),41,35,76,1018141200.0,2002
+Charlotte Hornets (Original),Toronto Raptors,Charlotte Hornets (Original),41,36,77,1018393200.0,2002
+Charlotte Hornets (Original),Charlotte Hornets (Original),Atlanta Hawks,41,37,78,1018479600.0,2002
+Charlotte Hornets (Original),Charlotte Hornets (Original),Cleveland Cavaliers,42,37,79,1018654200.0,2002
+Charlotte Hornets (Original),Milwaukee Bucks,Charlotte Hornets (Original),42,38,80,1018810800.0,2002
+Charlotte Hornets (Original),Miami Heat,Charlotte Hornets (Original),43,38,81,1018999800.0,2002
+Charlotte Hornets (Original),Charlotte Hornets (Original),Chicago Bulls,44,38,82,1019084400.0,2002
+Chicago Bulls,Chicago Bulls,Indiana Pacers,0,1,1,1004578200.0,2002
+Chicago Bulls,Boston Celtics,Chicago Bulls,0,2,2,1004747400.0,2002
+Chicago Bulls,Chicago Bulls,New York Knicks,1,2,3,1004837400.0,2002
+Chicago Bulls,Chicago Bulls,Detroit Pistons,1,3,4,1005183000.0,2002
+Chicago Bulls,Minnesota Timberwolves,Chicago Bulls,1,4,5,1005267600.0,2002
+Chicago Bulls,Chicago Bulls,Charlotte Hornets (Original),1,5,6,1005442200.0,2002
+Chicago Bulls,Denver Nuggets,Chicago Bulls,1,6,7,1005703200.0,2002
+Chicago Bulls,Los Angeles Clippers,Chicago Bulls,1,7,8,1005795000.0,2002
+Chicago Bulls,Sacramento Kings,Chicago Bulls,1,8,9,1005966000.0,2002
+Chicago Bulls,Golden State Warriors,Chicago Bulls,1,9,10,1006054200.0,2002
+Chicago Bulls,Milwaukee Bucks,Chicago Bulls,1,10,11,1006390800.0,2002
+Chicago Bulls,New York Knicks,Chicago Bulls,1,11,12,1006624800.0,2002
+Chicago Bulls,New Jersey Nets,Chicago Bulls,1,12,13,1006907400.0,2002
+Chicago Bulls,Chicago Bulls,Miami Heat,2,12,14,1007083800.0,2002
+Chicago Bulls,Chicago Bulls,Philadelphia 76ers,2,13,15,1007256600.0,2002
+Chicago Bulls,Chicago Bulls,Houston Rockets,3,13,16,1007515800.0,2002
+Chicago Bulls,Orlando Magic,Chicago Bulls,3,14,17,1007598600.0,2002
+Chicago Bulls,Indiana Pacers,Chicago Bulls,3,15,18,1007769600.0,2002
+Chicago Bulls,Chicago Bulls,Boston Celtics,4,15,19,1007861400.0,2002
+Chicago Bulls,Chicago Bulls,New Jersey Nets,4,16,20,1008120600.0,2002
+Chicago Bulls,Boston Celtics,Chicago Bulls,4,17,21,1008376200.0,2002
+Chicago Bulls,Chicago Bulls,Atlanta Hawks,4,18,22,1008466200.0,2002
+Chicago Bulls,Cleveland Cavaliers,Chicago Bulls,4,19,23,1008720000.0,2002
+Chicago Bulls,Toronto Raptors,Chicago Bulls,4,20,24,1008892800.0,2002
+Chicago Bulls,Chicago Bulls,Minnesota Timberwolves,4,21,25,1009071000.0,2002
+Chicago Bulls,Memphis Grizzlies,Chicago Bulls,4,22,26,1009414800.0,2002
+Chicago Bulls,Dallas Mavericks,Chicago Bulls,4,23,27,1009503000.0,2002
+Chicago Bulls,Chicago Bulls,Cleveland Cavaliers,5,23,28,1009675800.0,2002
+Chicago Bulls,Chicago Bulls,Milwaukee Bucks,6,23,29,1009830600.0,2002
+Chicago Bulls,Chicago Bulls,Dallas Mavericks,6,24,30,1010021400.0,2002
+Chicago Bulls,Washington Wizards,Chicago Bulls,6,25,31,1010188800.0,2002
+Chicago Bulls,Chicago Bulls,Utah Jazz,6,26,32,1010280600.0,2002
+Chicago Bulls,Chicago Bulls,Seattle Supersonics,6,27,33,1010453400.0,2002
+Chicago Bulls,Chicago Bulls,Toronto Raptors,6,28,34,1010626200.0,2002
+Chicago Bulls,Indiana Pacers,Chicago Bulls,6,29,35,1010793600.0,2002
+Chicago Bulls,Chicago Bulls,Los Angeles Lakers,7,29,36,1010885400.0,2002
+Chicago Bulls,Chicago Bulls,Charlotte Hornets (Original),7,30,37,1011144600.0,2002
+Chicago Bulls,Atlanta Hawks,Chicago Bulls,8,30,38,1011313800.0,2002
+Chicago Bulls,Chicago Bulls,Washington Wizards,8,31,39,1011492000.0,2002
+Chicago Bulls,Chicago Bulls,Indiana Pacers,8,32,40,1011645000.0,2002
+Chicago Bulls,Miami Heat,Chicago Bulls,8,33,41,1011745800.0,2002
+Chicago Bulls,Chicago Bulls,Memphis Grizzlies,9,33,42,1012095000.0,2002
+Chicago Bulls,Phoenix Suns,Chicago Bulls,9,34,43,1012356000.0,2002
+Chicago Bulls,Utah Jazz,Chicago Bulls,9,35,44,1012442400.0,2002
+Chicago Bulls,Seattle Supersonics,Chicago Bulls,10,35,45,1012698000.0,2002
+Chicago Bulls,Portland Trail Blazers,Chicago Bulls,10,36,46,1012791600.0,2002
+Chicago Bulls,Los Angeles Lakers,Chicago Bulls,11,36,47,1013052600.0,2002
+Chicago Bulls,Chicago Bulls,Milwaukee Bucks,12,36,48,1013563800.0,2002
+Chicago Bulls,Charlotte Hornets (Original),Chicago Bulls,12,37,49,1013644800.0,2002
+Chicago Bulls,Chicago Bulls,New Jersey Nets,12,38,50,1013823000.0,2002
+Chicago Bulls,Chicago Bulls,Cleveland Cavaliers,12,39,51,1013909400.0,2002
+Chicago Bulls,Miami Heat,Chicago Bulls,12,40,52,1014078600.0,2002
+Chicago Bulls,Chicago Bulls,New York Knicks,13,40,53,1014255000.0,2002
+Chicago Bulls,Chicago Bulls,Phoenix Suns,14,40,54,1014427800.0,2002
+Chicago Bulls,Chicago Bulls,Golden State Warriors,15,40,55,1014514200.0,2002
+Chicago Bulls,Chicago Bulls,Orlando Magic,15,41,56,1014773400.0,2002
+Chicago Bulls,Detroit Pistons,Chicago Bulls,15,42,57,1014856200.0,2002
+Chicago Bulls,Chicago Bulls,Washington Wizards,16,42,58,1015032600.0,2002
+Chicago Bulls,New Jersey Nets,Chicago Bulls,16,43,59,1015185600.0,2002
+Chicago Bulls,Washington Wizards,Chicago Bulls,16,44,60,1015372800.0,2002
+Chicago Bulls,Chicago Bulls,Miami Heat,16,45,61,1015464600.0,2002
+Chicago Bulls,Chicago Bulls,Los Angeles Clippers,16,46,62,1015637400.0,2002
+Chicago Bulls,Chicago Bulls,San Antonio Spurs,16,47,63,1015723800.0,2002
+Chicago Bulls,Chicago Bulls,Sacramento Kings,16,48,64,1015896600.0,2002
+Chicago Bulls,Milwaukee Bucks,Chicago Bulls,16,49,65,1015981200.0,2002
+Chicago Bulls,San Antonio Spurs,Chicago Bulls,16,50,66,1016155800.0,2002
+Chicago Bulls,Houston Rockets,Chicago Bulls,17,50,67,1016328600.0,2002
+Chicago Bulls,Chicago Bulls,Atlanta Hawks,17,51,68,1016587800.0,2002
+Chicago Bulls,Chicago Bulls,Portland Trail Blazers,17,52,69,1016847000.0,2002
+Chicago Bulls,Atlanta Hawks,Chicago Bulls,17,53,70,1016928000.0,2002
+Chicago Bulls,Orlando Magic,Chicago Bulls,17,54,71,1017189000.0,2002
+Chicago Bulls,Chicago Bulls,Philadelphia 76ers,17,55,72,1017365400.0,2002
+Chicago Bulls,Chicago Bulls,Denver Nuggets,17,56,73,1017538200.0,2002
+Chicago Bulls,Toronto Raptors,Chicago Bulls,17,57,74,1017878400.0,2002
+Chicago Bulls,Chicago Bulls,Toronto Raptors,17,58,75,1018056600.0,2002
+Chicago Bulls,Cleveland Cavaliers,Chicago Bulls,17,59,76,1018141200.0,2002
+Chicago Bulls,Chicago Bulls,Boston Celtics,18,59,77,1018312200.0,2002
+Chicago Bulls,Detroit Pistons,Chicago Bulls,19,59,78,1018481400.0,2002
+Chicago Bulls,New York Knicks,Chicago Bulls,20,59,79,1018567800.0,2002
+Chicago Bulls,Chicago Bulls,Detroit Pistons,20,60,80,1018744200.0,2002
+Chicago Bulls,Philadelphia 76ers,Chicago Bulls,21,60,81,1018911600.0,2002
+Chicago Bulls,Charlotte Hornets (Original),Chicago Bulls,21,61,82,1019084400.0,2002
+Cleveland Cavaliers,Cleveland Cavaliers,Boston Celtics,0,1,1,1004486400.0,2002
+Cleveland Cavaliers,Charlotte Hornets (Original),Cleveland Cavaliers,0,2,2,1004572800.0,2002
+Cleveland Cavaliers,Miami Heat,Cleveland Cavaliers,1,2,3,1004747400.0,2002
+Cleveland Cavaliers,Cleveland Cavaliers,Orlando Magic,1,3,4,1004837400.0,2002
+Cleveland Cavaliers,Cleveland Cavaliers,Sacramento Kings,1,4,5,1005091200.0,2002
+Cleveland Cavaliers,New York Knicks,Cleveland Cavaliers,1,5,6,1005179400.0,2002
+Cleveland Cavaliers,New Jersey Nets,Cleveland Cavaliers,1,6,7,1005415200.0,2002
+Cleveland Cavaliers,Minnesota Timberwolves,Cleveland Cavaliers,2,6,8,1005699600.0,2002
+Cleveland Cavaliers,Cleveland Cavaliers,Dallas Mavericks,2,7,9,1005782400.0,2002
+Cleveland Cavaliers,San Antonio Spurs,Cleveland Cavaliers,2,8,10,1005960600.0,2002
+Cleveland Cavaliers,Memphis Grizzlies,Cleveland Cavaliers,2,9,11,1006045200.0,2002
+Cleveland Cavaliers,Cleveland Cavaliers,Memphis Grizzlies,3,9,12,1006387200.0,2002
+Cleveland Cavaliers,Philadelphia 76ers,Cleveland Cavaliers,3,10,13,1006560000.0,2002
+Cleveland Cavaliers,Cleveland Cavaliers,Miami Heat,4,10,14,1006648200.0,2002
+Cleveland Cavaliers,Cleveland Cavaliers,Washington Wizards,5,10,15,1006905600.0,2002
+Cleveland Cavaliers,Cleveland Cavaliers,Atlanta Hawks,5,11,16,1007078400.0,2002
+Cleveland Cavaliers,Cleveland Cavaliers,Charlotte Hornets (Original),6,11,17,1007253000.0,2002
+Cleveland Cavaliers,Cleveland Cavaliers,Detroit Pistons,7,11,18,1007510400.0,2002
+Cleveland Cavaliers,New Jersey Nets,Cleveland Cavaliers,7,12,19,1007771400.0,2002
+Cleveland Cavaliers,Cleveland Cavaliers,Denver Nuggets,8,12,20,1007857800.0,2002
+Cleveland Cavaliers,Houston Rockets,Cleveland Cavaliers,9,12,21,1008120600.0,2002
+Cleveland Cavaliers,Dallas Mavericks,Cleveland Cavaliers,9,13,22,1008293400.0,2002
+Cleveland Cavaliers,Cleveland Cavaliers,Philadelphia 76ers,9,14,23,1008462600.0,2002
+Cleveland Cavaliers,Cleveland Cavaliers,Chicago Bulls,10,14,24,1008720000.0,2002
+Cleveland Cavaliers,Boston Celtics,Cleveland Cavaliers,10,15,25,1008806400.0,2002
+Cleveland Cavaliers,Miami Heat,Cleveland Cavaliers,11,15,26,1008981000.0,2002
+Cleveland Cavaliers,Cleveland Cavaliers,Indiana Pacers,11,16,27,1009067400.0,2002
+Cleveland Cavaliers,Cleveland Cavaliers,New Jersey Nets,11,17,28,1009411200.0,2002
+Cleveland Cavaliers,Cleveland Cavaliers,New York Knicks,12,17,29,1009585800.0,2002
+Cleveland Cavaliers,Chicago Bulls,Cleveland Cavaliers,12,18,30,1009675800.0,2002
+Cleveland Cavaliers,Cleveland Cavaliers,Golden State Warriors,13,18,31,1010016000.0,2002
+Cleveland Cavaliers,Toronto Raptors,Cleveland Cavaliers,13,19,32,1010188800.0,2002
+Cleveland Cavaliers,Detroit Pistons,Cleveland Cavaliers,13,20,33,1010277000.0,2002
+Cleveland Cavaliers,Cleveland Cavaliers,Portland Trail Blazers,13,21,34,1010448000.0,2002
+Cleveland Cavaliers,Denver Nuggets,Cleveland Cavaliers,13,22,35,1010714400.0,2002
+Cleveland Cavaliers,Seattle Supersonics,Cleveland Cavaliers,13,23,36,1010804400.0,2002
+Cleveland Cavaliers,Portland Trail Blazers,Cleveland Cavaliers,13,24,37,1010977200.0,2002
+Cleveland Cavaliers,Sacramento Kings,Cleveland Cavaliers,13,25,38,1011150000.0,2002
+Cleveland Cavaliers,Golden State Warriors,Cleveland Cavaliers,13,26,39,1011238200.0,2002
+Cleveland Cavaliers,Los Angeles Clippers,Cleveland Cavaliers,13,27,40,1011411000.0,2002
+Cleveland Cavaliers,Cleveland Cavaliers,Miami Heat,13,28,41,1011657600.0,2002
+Cleveland Cavaliers,Washington Wizards,Cleveland Cavaliers,13,29,42,1011916800.0,2002
+Cleveland Cavaliers,Cleveland Cavaliers,Boston Celtics,13,30,43,1012093200.0,2002
+Cleveland Cavaliers,Cleveland Cavaliers,Minnesota Timberwolves,14,30,44,1012348800.0,2002
+Cleveland Cavaliers,Cleveland Cavaliers,Washington Wizards,14,31,45,1012521600.0,2002
+Cleveland Cavaliers,Cleveland Cavaliers,Detroit Pistons,14,32,46,1012698000.0,2002
+Cleveland Cavaliers,Orlando Magic,Cleveland Cavaliers,14,33,47,1012955400.0,2002
+Cleveland Cavaliers,Cleveland Cavaliers,Houston Rockets,15,33,48,1013040000.0,2002
+Cleveland Cavaliers,Cleveland Cavaliers,Toronto Raptors,16,33,49,1013558400.0,2002
+Cleveland Cavaliers,Milwaukee Bucks,Cleveland Cavaliers,17,33,50,1013648400.0,2002
+Cleveland Cavaliers,Chicago Bulls,Cleveland Cavaliers,18,33,51,1013909400.0,2002
+Cleveland Cavaliers,Cleveland Cavaliers,Utah Jazz,18,34,52,1014076800.0,2002
+Cleveland Cavaliers,Cleveland Cavaliers,Los Angeles Lakers,18,35,53,1014336000.0,2002
+Cleveland Cavaliers,Indiana Pacers,Cleveland Cavaliers,19,35,54,1014422400.0,2002
+Cleveland Cavaliers,Cleveland Cavaliers,Orlando Magic,20,35,55,1014595200.0,2002
+Cleveland Cavaliers,Cleveland Cavaliers,Seattle Supersonics,20,36,56,1014768000.0,2002
+Cleveland Cavaliers,Cleveland Cavaliers,San Antonio Spurs,21,36,57,1014940800.0,2002
+Cleveland Cavaliers,Atlanta Hawks,Cleveland Cavaliers,21,37,58,1015113600.0,2002
+Cleveland Cavaliers,Cleveland Cavaliers,Milwaukee Bucks,21,38,59,1015200000.0,2002
+Cleveland Cavaliers,Cleveland Cavaliers,Atlanta Hawks,22,38,60,1015372800.0,2002
+Cleveland Cavaliers,Philadelphia 76ers,Cleveland Cavaliers,22,39,61,1015459200.0,2002
+Cleveland Cavaliers,Milwaukee Bucks,Cleveland Cavaliers,23,39,62,1015637400.0,2002
+Cleveland Cavaliers,Cleveland Cavaliers,Los Angeles Clippers,23,40,63,1015790400.0,2002
+Cleveland Cavaliers,Detroit Pistons,Cleveland Cavaliers,23,41,64,1016065800.0,2002
+Cleveland Cavaliers,New York Knicks,Cleveland Cavaliers,23,42,65,1016325000.0,2002
+Cleveland Cavaliers,Cleveland Cavaliers,New York Knicks,24,42,66,1016409600.0,2002
+Cleveland Cavaliers,Cleveland Cavaliers,New Jersey Nets,25,42,67,1016582400.0,2002
+Cleveland Cavaliers,Boston Celtics,Cleveland Cavaliers,25,43,68,1016668800.0,2002
+Cleveland Cavaliers,Cleveland Cavaliers,Toronto Raptors,25,44,69,1016843400.0,2002
+Cleveland Cavaliers,Phoenix Suns,Cleveland Cavaliers,25,45,70,1017108000.0,2002
+Cleveland Cavaliers,Los Angeles Lakers,Cleveland Cavaliers,25,46,71,1017199800.0,2002
+Cleveland Cavaliers,Utah Jazz,Cleveland Cavaliers,25,47,72,1017367200.0,2002
+Cleveland Cavaliers,Cleveland Cavaliers,Charlotte Hornets (Original),25,48,73,1017534600.0,2002
+Cleveland Cavaliers,Cleveland Cavaliers,Phoenix Suns,26,48,74,1017792000.0,2002
+Cleveland Cavaliers,Orlando Magic,Cleveland Cavaliers,26,49,75,1017966600.0,2002
+Cleveland Cavaliers,Cleveland Cavaliers,Chicago Bulls,27,49,76,1018141200.0,2002
+Cleveland Cavaliers,Indiana Pacers,Cleveland Cavaliers,28,49,77,1018310400.0,2002
+Cleveland Cavaliers,Cleveland Cavaliers,Milwaukee Bucks,29,49,78,1018479600.0,2002
+Cleveland Cavaliers,Charlotte Hornets (Original),Cleveland Cavaliers,29,50,79,1018654200.0,2002
+Cleveland Cavaliers,Atlanta Hawks,Cleveland Cavaliers,29,51,80,1018738800.0,2002
+Cleveland Cavaliers,Cleveland Cavaliers,Indiana Pacers,29,52,81,1018998000.0,2002
+Cleveland Cavaliers,Toronto Raptors,Cleveland Cavaliers,29,53,82,1019084400.0,2002
+Dallas Mavericks,Dallas Mavericks,Detroit Pistons,1,0,1,1004491800.0,2002
+Dallas Mavericks,Philadelphia 76ers,Dallas Mavericks,2,0,2,1004659200.0,2002
+Dallas Mavericks,Toronto Raptors,Dallas Mavericks,2,1,3,1004745600.0,2002
+Dallas Mavericks,Memphis Grizzlies,Dallas Mavericks,3,1,4,1004904000.0,2002
+Dallas Mavericks,Dallas Mavericks,Charlotte Hornets (Original),4,1,5,1005096600.0,2002
+Dallas Mavericks,Dallas Mavericks,Denver Nuggets,5,1,6,1005269400.0,2002
+Dallas Mavericks,Dallas Mavericks,Philadelphia 76ers,5,2,7,1005442200.0,2002
+Dallas Mavericks,Cleveland Cavaliers,Dallas Mavericks,6,2,8,1005782400.0,2002
+Dallas Mavericks,Detroit Pistons,Dallas Mavericks,6,3,9,1005870600.0,2002
+Dallas Mavericks,Houston Rockets,Dallas Mavericks,6,4,10,1006047000.0,2002
+Dallas Mavericks,Dallas Mavericks,Seattle Supersonics,6,5,11,1006306200.0,2002
+Dallas Mavericks,Charlotte Hornets (Original),Dallas Mavericks,7,5,12,1006387200.0,2002
+Dallas Mavericks,Miami Heat,Dallas Mavericks,8,5,13,1006561800.0,2002
+Dallas Mavericks,Dallas Mavericks,Phoenix Suns,9,5,14,1006651800.0,2002
+Dallas Mavericks,Dallas Mavericks,Golden State Warriors,10,5,15,1006911000.0,2002
+Dallas Mavericks,Dallas Mavericks,Sacramento Kings,10,6,16,1007083800.0,2002
+Dallas Mavericks,Golden State Warriors,Dallas Mavericks,11,6,17,1007263800.0,2002
+Dallas Mavericks,Sacramento Kings,Dallas Mavericks,12,6,18,1007344800.0,2002
+Dallas Mavericks,Los Angeles Lakers,Dallas Mavericks,12,7,19,1007609400.0,2002
+Dallas Mavericks,Dallas Mavericks,Washington Wizards,12,8,20,1007861400.0,2002
+Dallas Mavericks,Utah Jazz,Dallas Mavericks,12,9,21,1008036000.0,2002
+Dallas Mavericks,Dallas Mavericks,Portland Trail Blazers,13,9,22,1008120600.0,2002
+Dallas Mavericks,Dallas Mavericks,Cleveland Cavaliers,14,9,23,1008293400.0,2002
+Dallas Mavericks,Dallas Mavericks,Minnesota Timberwolves,15,9,24,1008466200.0,2002
+Dallas Mavericks,Minnesota Timberwolves,Dallas Mavericks,16,9,25,1008723600.0,2002
+Dallas Mavericks,Dallas Mavericks,Milwaukee Bucks,17,9,26,1008898200.0,2002
+Dallas Mavericks,Dallas Mavericks,Orlando Magic,18,9,27,1009071000.0,2002
+Dallas Mavericks,San Antonio Spurs,Dallas Mavericks,19,9,28,1009414800.0,2002
+Dallas Mavericks,Dallas Mavericks,Chicago Bulls,20,9,29,1009503000.0,2002
+Dallas Mavericks,Dallas Mavericks,Atlanta Hawks,21,9,30,1009675800.0,2002
+Dallas Mavericks,Chicago Bulls,Dallas Mavericks,22,9,31,1010021400.0,2002
+Dallas Mavericks,New York Knicks,Dallas Mavericks,22,10,32,1010104200.0,2002
+Dallas Mavericks,Dallas Mavericks,San Antonio Spurs,22,11,33,1010280600.0,2002
+Dallas Mavericks,Dallas Mavericks,Denver Nuggets,23,11,34,1010539800.0,2002
+Dallas Mavericks,Dallas Mavericks,New York Knicks,24,11,35,1010714400.0,2002
+Dallas Mavericks,Dallas Mavericks,Indiana Pacers,25,11,36,1010885400.0,2002
+Dallas Mavericks,Orlando Magic,Dallas Mavericks,25,12,37,1011054600.0,2002
+Dallas Mavericks,Atlanta Hawks,Dallas Mavericks,26,12,38,1011141000.0,2002
+Dallas Mavericks,Memphis Grizzlies,Dallas Mavericks,27,12,39,1011315600.0,2002
+Dallas Mavericks,Dallas Mavericks,Utah Jazz,28,12,40,1011492000.0,2002
+Dallas Mavericks,Dallas Mavericks,New Jersey Nets,29,12,41,1011643200.0,2002
+Dallas Mavericks,Houston Rockets,Dallas Mavericks,30,12,42,1011749400.0,2002
+Dallas Mavericks,Denver Nuggets,Dallas Mavericks,31,12,43,1011924000.0,2002
+Dallas Mavericks,Los Angeles Clippers,Dallas Mavericks,32,12,44,1012102200.0,2002
+Dallas Mavericks,Dallas Mavericks,Los Angeles Clippers,32,13,45,1012352400.0,2002
+Dallas Mavericks,Dallas Mavericks,Houston Rockets,33,13,46,1012528800.0,2002
+Dallas Mavericks,Dallas Mavericks,Los Angeles Lakers,33,14,47,1012764600.0,2002
+Dallas Mavericks,Indiana Pacers,Dallas Mavericks,34,14,48,1012957200.0,2002
+Dallas Mavericks,New Jersey Nets,Dallas Mavericks,35,14,49,1013041800.0,2002
+Dallas Mavericks,Seattle Supersonics,Dallas Mavericks,36,14,50,1013569200.0,2002
+Dallas Mavericks,Portland Trail Blazers,Dallas Mavericks,36,15,51,1013655600.0,2002
+Dallas Mavericks,Los Angeles Clippers,Dallas Mavericks,36,16,52,1013916600.0,2002
+Dallas Mavericks,Phoenix Suns,Dallas Mavericks,37,16,53,1013994000.0,2002
+Dallas Mavericks,Dallas Mavericks,Minnesota Timberwolves,37,17,54,1014166800.0,2002
+Dallas Mavericks,Dallas Mavericks,Boston Celtics,38,17,55,1014341400.0,2002
+Dallas Mavericks,Dallas Mavericks,Sacramento Kings,39,17,56,1014503400.0,2002
+Dallas Mavericks,Dallas Mavericks,Memphis Grizzlies,40,17,57,1014773400.0,2002
+Dallas Mavericks,Dallas Mavericks,Miami Heat,40,18,58,1015119000.0,2002
+Dallas Mavericks,Denver Nuggets,Dallas Mavericks,41,18,59,1015207200.0,2002
+Dallas Mavericks,Dallas Mavericks,Phoenix Suns,42,18,60,1015378200.0,2002
+Dallas Mavericks,Dallas Mavericks,Toronto Raptors,43,18,61,1015552800.0,2002
+Dallas Mavericks,Dallas Mavericks,Golden State Warriors,44,18,62,1015723800.0,2002
+Dallas Mavericks,Dallas Mavericks,Seattle Supersonics,45,18,63,1015896600.0,2002
+Dallas Mavericks,Portland Trail Blazers,Dallas Mavericks,45,19,64,1016161200.0,2002
+Dallas Mavericks,Golden State Warriors,Dallas Mavericks,46,19,65,1016335800.0,2002
+Dallas Mavericks,Los Angeles Lakers,Dallas Mavericks,46,20,66,1016418600.0,2002
+Dallas Mavericks,Dallas Mavericks,Los Angeles Lakers,47,20,67,1016587800.0,2002
+Dallas Mavericks,Dallas Mavericks,San Antonio Spurs,47,21,68,1016760600.0,2002
+Dallas Mavericks,Dallas Mavericks,Memphis Grizzlies,48,21,69,1016933400.0,2002
+Dallas Mavericks,Milwaukee Bucks,Dallas Mavericks,49,21,70,1017190800.0,2002
+Dallas Mavericks,Minnesota Timberwolves,Dallas Mavericks,49,22,71,1017363600.0,2002
+Dallas Mavericks,Boston Celtics,Dallas Mavericks,50,22,72,1017448200.0,2002
+Dallas Mavericks,Washington Wizards,Dallas Mavericks,51,22,73,1017604800.0,2002
+Dallas Mavericks,Dallas Mavericks,Los Angeles Clippers,52,22,74,1017972000.0,2002
+Dallas Mavericks,San Antonio Spurs,Dallas Mavericks,52,23,75,1018132200.0,2002
+Dallas Mavericks,Utah Jazz,Dallas Mavericks,53,23,76,1018314000.0,2002
+Dallas Mavericks,Dallas Mavericks,Portland Trail Blazers,54,23,77,1018398600.0,2002
+Dallas Mavericks,Dallas Mavericks,Houston Rockets,54,24,78,1018571400.0,2002
+Dallas Mavericks,Seattle Supersonics,Dallas Mavericks,55,24,79,1018742400.0,2002
+Dallas Mavericks,Sacramento Kings,Dallas Mavericks,56,24,80,1018832400.0,2002
+Dallas Mavericks,Dallas Mavericks,Utah Jazz,57,24,81,1019003400.0,2002
+Dallas Mavericks,Phoenix Suns,Dallas Mavericks,57,25,82,1019095200.0,2002
+Denver Nuggets,Phoenix Suns,Denver Nuggets,1,0,1,1004493600.0,2002
+Denver Nuggets,Denver Nuggets,Milwaukee Bucks,1,1,2,1004666400.0,2002
+Denver Nuggets,Denver Nuggets,Sacramento Kings,1,2,3,1004839200.0,2002
+Denver Nuggets,Houston Rockets,Denver Nuggets,1,3,4,1005096600.0,2002
+Denver Nuggets,Dallas Mavericks,Denver Nuggets,1,4,5,1005269400.0,2002
+Denver Nuggets,Denver Nuggets,Houston Rockets,2,4,6,1005357600.0,2002
+Denver Nuggets,Denver Nuggets,Toronto Raptors,3,4,7,1005530400.0,2002
+Denver Nuggets,Denver Nuggets,Chicago Bulls,4,4,8,1005703200.0,2002
+Denver Nuggets,Denver Nuggets,Orlando Magic,4,5,9,1005876000.0,2002
+Denver Nuggets,Seattle Supersonics,Denver Nuggets,5,5,10,1006054200.0,2002
+Denver Nuggets,Denver Nuggets,New Jersey Nets,6,5,11,1006221600.0,2002
+Denver Nuggets,Denver Nuggets,Los Angeles Lakers,6,6,12,1006394400.0,2002
+Denver Nuggets,Portland Trail Blazers,Denver Nuggets,6,7,13,1006570800.0,2002
+Denver Nuggets,Los Angeles Lakers,Denver Nuggets,6,8,14,1006741800.0,2002
+Denver Nuggets,Denver Nuggets,Indiana Pacers,6,9,15,1006999200.0,2002
+Denver Nuggets,Denver Nuggets,Los Angeles Clippers,7,9,16,1007172000.0,2002
+Denver Nuggets,Indiana Pacers,Denver Nuggets,7,10,17,1007510400.0,2002
+Denver Nuggets,Boston Celtics,Denver Nuggets,7,11,18,1007596800.0,2002
+Denver Nuggets,Toronto Raptors,Denver Nuggets,7,12,19,1007769600.0,2002
+Denver Nuggets,Cleveland Cavaliers,Denver Nuggets,7,13,20,1007857800.0,2002
+Denver Nuggets,Denver Nuggets,Charlotte Hornets (Original),7,14,21,1008122400.0,2002
+Denver Nuggets,Denver Nuggets,Memphis Grizzlies,8,14,22,1008295200.0,2002
+Denver Nuggets,Denver Nuggets,Phoenix Suns,9,14,23,1008468000.0,2002
+Denver Nuggets,Denver Nuggets,San Antonio Spurs,9,15,24,1008727200.0,2002
+Denver Nuggets,San Antonio Spurs,Denver Nuggets,9,16,25,1008984600.0,2002
+Denver Nuggets,Denver Nuggets,Golden State Warriors,9,17,26,1009072800.0,2002
+Denver Nuggets,Denver Nuggets,Minnesota Timberwolves,9,18,27,1009418400.0,2002
+Denver Nuggets,Denver Nuggets,Philadelphia 76ers,10,18,28,1009591200.0,2002
+Denver Nuggets,Phoenix Suns,Denver Nuggets,10,19,29,1009677600.0,2002
+Denver Nuggets,Denver Nuggets,Los Angeles Lakers,10,20,30,1010023200.0,2002
+Denver Nuggets,Denver Nuggets,Los Angeles Clippers,10,21,31,1010196000.0,2002
+Denver Nuggets,Charlotte Hornets (Original),Denver Nuggets,10,22,32,1010448000.0,2002
+Denver Nuggets,Dallas Mavericks,Denver Nuggets,10,23,33,1010539800.0,2002
+Denver Nuggets,Denver Nuggets,Cleveland Cavaliers,11,23,34,1010714400.0,2002
+Denver Nuggets,Houston Rockets,Denver Nuggets,11,24,35,1010885400.0,2002
+Denver Nuggets,Utah Jazz,Denver Nuggets,11,25,36,1011060000.0,2002
+Denver Nuggets,Denver Nuggets,Sacramento Kings,11,26,37,1011229200.0,2002
+Denver Nuggets,Denver Nuggets,Seattle Supersonics,12,26,38,1011405600.0,2002
+Denver Nuggets,Seattle Supersonics,Denver Nuggets,12,27,39,1011495600.0,2002
+Denver Nuggets,Los Angeles Clippers,Denver Nuggets,12,28,40,1011670200.0,2002
+Denver Nuggets,Los Angeles Lakers,Denver Nuggets,13,28,41,1011756600.0,2002
+Denver Nuggets,Denver Nuggets,Dallas Mavericks,13,29,42,1011924000.0,2002
+Denver Nuggets,Denver Nuggets,Miami Heat,13,30,43,1012356000.0,2002
+Denver Nuggets,Sacramento Kings,Denver Nuggets,13,31,44,1012618800.0,2002
+Denver Nuggets,Denver Nuggets,Portland Trail Blazers,14,31,45,1012960800.0,2002
+Denver Nuggets,Denver Nuggets,Boston Celtics,14,32,46,1013565600.0,2002
+Denver Nuggets,Memphis Grizzlies,Denver Nuggets,15,32,47,1013734800.0,2002
+Denver Nuggets,Minnesota Timberwolves,Denver Nuggets,16,32,48,1013821200.0,2002
+Denver Nuggets,New Jersey Nets,Denver Nuggets,16,33,49,1013968800.0,2002
+Denver Nuggets,Philadelphia 76ers,Denver Nuggets,16,34,50,1014076800.0,2002
+Denver Nuggets,Denver Nuggets,Utah Jazz,16,35,51,1014256800.0,2002
+Denver Nuggets,Portland Trail Blazers,Denver Nuggets,16,36,52,1014519600.0,2002
+Denver Nuggets,Denver Nuggets,Atlanta Hawks,16,37,53,1014602400.0,2002
+Denver Nuggets,Golden State Warriors,Denver Nuggets,16,38,54,1014867000.0,2002
+Denver Nuggets,Denver Nuggets,Memphis Grizzlies,17,38,55,1015034400.0,2002
+Denver Nuggets,Denver Nuggets,Dallas Mavericks,17,39,56,1015207200.0,2002
+Denver Nuggets,Utah Jazz,Denver Nuggets,17,40,57,1015293600.0,2002
+Denver Nuggets,Denver Nuggets,New York Knicks,18,40,58,1015552800.0,2002
+Denver Nuggets,Denver Nuggets,Portland Trail Blazers,19,40,59,1015729200.0,2002
+Denver Nuggets,Denver Nuggets,San Antonio Spurs,19,41,60,1015898400.0,2002
+Denver Nuggets,Atlanta Hawks,Denver Nuggets,19,42,61,1016065800.0,2002
+Denver Nuggets,Orlando Magic,Denver Nuggets,19,43,62,1016238600.0,2002
+Denver Nuggets,Miami Heat,Denver Nuggets,19,44,63,1016325000.0,2002
+Denver Nuggets,Denver Nuggets,Detroit Pistons,19,45,64,1016503200.0,2002
+Denver Nuggets,Denver Nuggets,Washington Wizards,19,46,65,1016676000.0,2002
+Denver Nuggets,Sacramento Kings,Denver Nuggets,19,47,66,1016766000.0,2002
+Denver Nuggets,Denver Nuggets,Seattle Supersonics,20,47,67,1016938800.0,2002
+Denver Nuggets,New York Knicks,Denver Nuggets,21,47,68,1017102600.0,2002
+Denver Nuggets,Washington Wizards,Denver Nuggets,21,48,69,1017187200.0,2002
+Denver Nuggets,Milwaukee Bucks,Denver Nuggets,21,49,70,1017363600.0,2002
+Denver Nuggets,Chicago Bulls,Denver Nuggets,22,49,71,1017538200.0,2002
+Denver Nuggets,Detroit Pistons,Denver Nuggets,22,50,72,1017622800.0,2002
+Denver Nuggets,Denver Nuggets,Utah Jazz,23,50,73,1017799200.0,2002
+Denver Nuggets,Denver Nuggets,Minnesota Timberwolves,24,50,74,1017972000.0,2002
+Denver Nuggets,Golden State Warriors,Denver Nuggets,24,51,75,1018063800.0,2002
+Denver Nuggets,Los Angeles Clippers,Denver Nuggets,24,52,76,1018227600.0,2002
+Denver Nuggets,Memphis Grizzlies,Denver Nuggets,24,53,77,1018396800.0,2002
+Denver Nuggets,San Antonio Spurs,Denver Nuggets,24,54,78,1018485000.0,2002
+Denver Nuggets,Denver Nuggets,Golden State Warriors,25,54,79,1018659600.0,2002
+Denver Nuggets,Denver Nuggets,Phoenix Suns,26,54,80,1018746000.0,2002
+Denver Nuggets,Denver Nuggets,Houston Rockets,27,54,81,1019005200.0,2002
+Denver Nuggets,Minnesota Timberwolves,Denver Nuggets,27,55,82,1019088000.0,2002
+Detroit Pistons,Dallas Mavericks,Detroit Pistons,0,1,1,1004491800.0,2002
+Detroit Pistons,Memphis Grizzlies,Detroit Pistons,1,1,2,1004662800.0,2002
+Detroit Pistons,Detroit Pistons,New Jersey Nets,2,1,3,1004749200.0,2002
+Detroit Pistons,Detroit Pistons,Washington Wizards,3,1,4,1004918400.0,2002
+Detroit Pistons,Chicago Bulls,Detroit Pistons,4,1,5,1005183000.0,2002
+Detroit Pistons,Detroit Pistons,Portland Trail Blazers,4,2,6,1005519600.0,2002
+Detroit Pistons,Detroit Pistons,Dallas Mavericks,5,2,7,1005870600.0,2002
+Detroit Pistons,Detroit Pistons,Indiana Pacers,6,2,8,1006043400.0,2002
+Detroit Pistons,Toronto Raptors,Detroit Pistons,7,2,9,1006299000.0,2002
+Detroit Pistons,Philadelphia 76ers,Detroit Pistons,7,3,10,1006387200.0,2002
+Detroit Pistons,Atlanta Hawks,Detroit Pistons,7,4,11,1006561800.0,2002
+Detroit Pistons,Detroit Pistons,Memphis Grizzlies,8,4,12,1006648200.0,2002
+Detroit Pistons,Orlando Magic,Detroit Pistons,9,4,13,1006821000.0,2002
+Detroit Pistons,Detroit Pistons,Charlotte Hornets (Original),9,5,14,1006993800.0,2002
+Detroit Pistons,Charlotte Hornets (Original),Detroit Pistons,10,5,15,1007166600.0,2002
+Detroit Pistons,New York Knicks,Detroit Pistons,11,5,16,1007254800.0,2002
+Detroit Pistons,Cleveland Cavaliers,Detroit Pistons,11,6,17,1007510400.0,2002
+Detroit Pistons,Detroit Pistons,Seattle Supersonics,12,6,18,1007598600.0,2002
+Detroit Pistons,Detroit Pistons,Houston Rockets,13,6,19,1007938800.0,2002
+Detroit Pistons,Detroit Pistons,New York Knicks,14,6,20,1008289800.0,2002
+Detroit Pistons,Los Angeles Clippers,Detroit Pistons,14,7,21,1008534600.0,2002
+Detroit Pistons,Sacramento Kings,Detroit Pistons,14,8,22,1008730800.0,2002
+Detroit Pistons,Golden State Warriors,Detroit Pistons,14,9,23,1008819000.0,2002
+Detroit Pistons,Portland Trail Blazers,Detroit Pistons,14,10,24,1008990000.0,2002
+Detroit Pistons,Seattle Supersonics,Detroit Pistons,14,11,25,1009076400.0,2002
+Detroit Pistons,Detroit Pistons,New Jersey Nets,14,12,26,1009499400.0,2002
+Detroit Pistons,Orlando Magic,Detroit Pistons,14,13,27,1009585800.0,2002
+Detroit Pistons,Detroit Pistons,Miami Heat,15,13,28,1009753200.0,2002
+Detroit Pistons,San Antonio Spurs,Detroit Pistons,15,14,29,1010021400.0,2002
+Detroit Pistons,Houston Rockets,Detroit Pistons,15,15,30,1010107800.0,2002
+Detroit Pistons,Detroit Pistons,Cleveland Cavaliers,16,15,31,1010277000.0,2002
+Detroit Pistons,Minnesota Timberwolves,Detroit Pistons,16,16,32,1010451600.0,2002
+Detroit Pistons,Detroit Pistons,Los Angeles Lakers,16,17,33,1010538000.0,2002
+Detroit Pistons,Boston Celtics,Detroit Pistons,16,18,34,1010795400.0,2002
+Detroit Pistons,Detroit Pistons,Charlotte Hornets (Original),17,18,35,1010881800.0,2002
+Detroit Pistons,Detroit Pistons,Toronto Raptors,17,19,36,1011141000.0,2002
+Detroit Pistons,Indiana Pacers,Detroit Pistons,18,19,37,1011398400.0,2002
+Detroit Pistons,Detroit Pistons,Boston Celtics,19,19,38,1011486600.0,2002
+Detroit Pistons,Detroit Pistons,Milwaukee Bucks,19,20,39,1011643200.0,2002
+Detroit Pistons,Detroit Pistons,Minnesota Timberwolves,20,20,40,1011832200.0,2002
+Detroit Pistons,Atlanta Hawks,Detroit Pistons,21,20,41,1012005000.0,2002
+Detroit Pistons,Washington Wizards,Detroit Pistons,22,20,42,1012348800.0,2002
+Detroit Pistons,Detroit Pistons,Atlanta Hawks,23,20,43,1012437000.0,2002
+Detroit Pistons,Detroit Pistons,Orlando Magic,23,21,44,1012611600.0,2002
+Detroit Pistons,Cleveland Cavaliers,Detroit Pistons,24,21,45,1012698000.0,2002
+Detroit Pistons,Detroit Pistons,Philadelphia 76ers,25,21,46,1012955400.0,2002
+Detroit Pistons,Detroit Pistons,Los Angeles Clippers,26,21,47,1013128200.0,2002
+Detroit Pistons,Detroit Pistons,Phoenix Suns,26,22,48,1013560200.0,2002
+Detroit Pistons,New Jersey Nets,Detroit Pistons,27,22,49,1013733000.0,2002
+Detroit Pistons,New York Knicks,Detroit Pistons,28,22,50,1013819400.0,2002
+Detroit Pistons,Detroit Pistons,Toronto Raptors,29,22,51,1014078600.0,2002
+Detroit Pistons,Detroit Pistons,Washington Wizards,30,22,52,1014251400.0,2002
+Detroit Pistons,Toronto Raptors,Detroit Pistons,31,22,53,1014422400.0,2002
+Detroit Pistons,Milwaukee Bucks,Detroit Pistons,31,23,54,1014580800.0,2002
+Detroit Pistons,Detroit Pistons,Chicago Bulls,32,23,55,1014856200.0,2002
+Detroit Pistons,Detroit Pistons,Orlando Magic,33,23,56,1015030800.0,2002
+Detroit Pistons,Charlotte Hornets (Original),Detroit Pistons,34,23,57,1015185600.0,2002
+Detroit Pistons,Detroit Pistons,Miami Heat,34,24,58,1015374600.0,2002
+Detroit Pistons,Washington Wizards,Detroit Pistons,35,24,59,1015545600.0,2002
+Detroit Pistons,Boston Celtics,Detroit Pistons,35,25,60,1015633800.0,2002
+Detroit Pistons,Detroit Pistons,Indiana Pacers,35,26,61,1015790400.0,2002
+Detroit Pistons,Detroit Pistons,Cleveland Cavaliers,36,26,62,1016065800.0,2002
+Detroit Pistons,Detroit Pistons,Utah Jazz,36,27,63,1016240400.0,2002
+Detroit Pistons,Milwaukee Bucks,Detroit Pistons,37,27,64,1016328600.0,2002
+Detroit Pistons,Denver Nuggets,Detroit Pistons,38,27,65,1016503200.0,2002
+Detroit Pistons,Utah Jazz,Detroit Pistons,39,27,66,1016589600.0,2002
+Detroit Pistons,Phoenix Suns,Detroit Pistons,40,27,67,1016762400.0,2002
+Detroit Pistons,Los Angeles Lakers,Detroit Pistons,40,28,68,1016854200.0,2002
+Detroit Pistons,Detroit Pistons,Boston Celtics,41,28,69,1016989200.0,2002
+Detroit Pistons,Indiana Pacers,Detroit Pistons,42,28,70,1017187200.0,2002
+Detroit Pistons,Detroit Pistons,New York Knicks,42,29,71,1017275400.0,2002
+Detroit Pistons,Detroit Pistons,Golden State Warriors,43,29,72,1017450000.0,2002
+Detroit Pistons,Detroit Pistons,Denver Nuggets,44,29,73,1017622800.0,2002
+Detroit Pistons,Miami Heat,Detroit Pistons,45,29,74,1017793800.0,2002
+Detroit Pistons,Detroit Pistons,Sacramento Kings,45,30,75,1017880200.0,2002
+Detroit Pistons,Philadelphia 76ers,Detroit Pistons,46,30,76,1018051200.0,2002
+Detroit Pistons,Detroit Pistons,Atlanta Hawks,47,30,77,1018308600.0,2002
+Detroit Pistons,Detroit Pistons,Chicago Bulls,47,31,78,1018481400.0,2002
+Detroit Pistons,Detroit Pistons,San Antonio Spurs,47,32,79,1018656000.0,2002
+Detroit Pistons,Chicago Bulls,Detroit Pistons,48,32,80,1018744200.0,2002
+Detroit Pistons,New Jersey Nets,Detroit Pistons,49,32,81,1019001600.0,2002
+Detroit Pistons,Detroit Pistons,Milwaukee Bucks,50,32,82,1019086200.0,2002
+Golden State Warriors,Portland Trail Blazers,Golden State Warriors,0,1,1,1004583600.0,2002
+Golden State Warriors,Golden State Warriors,Phoenix Suns,0,2,2,1004671800.0,2002
+Golden State Warriors,Los Angeles Clippers,Golden State Warriors,1,2,3,1004844600.0,2002
+Golden State Warriors,Golden State Warriors,Portland Trail Blazers,2,2,4,1004925600.0,2002
+Golden State Warriors,Toronto Raptors,Golden State Warriors,2,3,5,1005177600.0,2002
+Golden State Warriors,Washington Wizards,Golden State Warriors,3,3,6,1005350400.0,2002
+Golden State Warriors,New York Knicks,Golden State Warriors,4,3,7,1005438600.0,2002
+Golden State Warriors,Memphis Grizzlies,Golden State Warriors,5,3,8,1005613200.0,2002
+Golden State Warriors,Golden State Warriors,Toronto Raptors,5,4,9,1005795000.0,2002
+Golden State Warriors,Seattle Supersonics,Golden State Warriors,5,5,10,1005966000.0,2002
+Golden State Warriors,Golden State Warriors,Chicago Bulls,6,5,11,1006054200.0,2002
+Golden State Warriors,Golden State Warriors,New York Knicks,6,6,12,1006313400.0,2002
+Golden State Warriors,Los Angeles Lakers,Golden State Warriors,6,7,13,1006572600.0,2002
+Golden State Warriors,Golden State Warriors,New Jersey Nets,7,7,14,1006740000.0,2002
+Golden State Warriors,Dallas Mavericks,Golden State Warriors,7,8,15,1006911000.0,2002
+Golden State Warriors,San Antonio Spurs,Golden State Warriors,7,9,16,1006997400.0,2002
+Golden State Warriors,Golden State Warriors,Dallas Mavericks,7,10,17,1007263800.0,2002
+Golden State Warriors,Phoenix Suns,Golden State Warriors,7,11,18,1007431200.0,2002
+Golden State Warriors,Golden State Warriors,Philadelphia 76ers,8,11,19,1007609400.0,2002
+Golden State Warriors,Golden State Warriors,Charlotte Hornets (Original),8,12,20,1007782200.0,2002
+Golden State Warriors,Utah Jazz,Golden State Warriors,8,13,21,1007863200.0,2002
+Golden State Warriors,Minnesota Timberwolves,Golden State Warriors,8,14,22,1008118800.0,2002
+Golden State Warriors,Golden State Warriors,Orlando Magic,8,15,23,1008295200.0,2002
+Golden State Warriors,Golden State Warriors,Memphis Grizzlies,9,15,24,1008473400.0,2002
+Golden State Warriors,Los Angeles Lakers,Golden State Warriors,9,16,25,1008556200.0,2002
+Golden State Warriors,Golden State Warriors,Detroit Pistons,10,16,26,1008819000.0,2002
+Golden State Warriors,Golden State Warriors,Seattle Supersonics,10,17,27,1008991800.0,2002
+Golden State Warriors,Denver Nuggets,Golden State Warriors,11,17,28,1009072800.0,2002
+Golden State Warriors,Golden State Warriors,Los Angeles Lakers,12,17,29,1009423800.0,2002
+Golden State Warriors,Golden State Warriors,Houston Rockets,12,18,30,1009596600.0,2002
+Golden State Warriors,Cleveland Cavaliers,Golden State Warriors,12,19,31,1010016000.0,2002
+Golden State Warriors,Charlotte Hornets (Original),Golden State Warriors,12,20,32,1010102400.0,2002
+Golden State Warriors,Orlando Magic,Golden State Warriors,12,21,33,1010277000.0,2002
+Golden State Warriors,Miami Heat,Golden State Warriors,12,22,34,1010363400.0,2002
+Golden State Warriors,Golden State Warriors,Milwaukee Bucks,12,23,35,1010547000.0,2002
+Golden State Warriors,Golden State Warriors,Miami Heat,12,24,36,1011065400.0,2002
+Golden State Warriors,Golden State Warriors,Cleveland Cavaliers,13,24,37,1011238200.0,2002
+Golden State Warriors,Sacramento Kings,Golden State Warriors,13,25,38,1011409200.0,2002
+Golden State Warriors,Golden State Warriors,Minnesota Timberwolves,13,26,39,1011497400.0,2002
+Golden State Warriors,Golden State Warriors,Utah Jazz,13,27,40,1011646800.0,2002
+Golden State Warriors,Golden State Warriors,Memphis Grizzlies,14,27,41,1011843000.0,2002
+Golden State Warriors,Golden State Warriors,San Antonio Spurs,14,28,42,1012102200.0,2002
+Golden State Warriors,Houston Rockets,Golden State Warriors,14,29,43,1012354200.0,2002
+Golden State Warriors,Phoenix Suns,Golden State Warriors,14,30,44,1012615200.0,2002
+Golden State Warriors,Golden State Warriors,Phoenix Suns,14,31,45,1012788000.0,2002
+Golden State Warriors,Golden State Warriors,Seattle Supersonics,14,32,46,1012966200.0,2002
+Golden State Warriors,Golden State Warriors,Boston Celtics,15,32,47,1013657400.0,2002
+Golden State Warriors,Golden State Warriors,San Antonio Spurs,15,33,48,1013830200.0,2002
+Golden State Warriors,Golden State Warriors,Atlanta Hawks,15,34,49,1013997600.0,2002
+Golden State Warriors,New Jersey Nets,Golden State Warriors,15,35,50,1014165000.0,2002
+Golden State Warriors,Philadelphia 76ers,Golden State Warriors,15,36,51,1014249600.0,2002
+Golden State Warriors,Milwaukee Bucks,Golden State Warriors,15,37,52,1014427800.0,2002
+Golden State Warriors,Chicago Bulls,Golden State Warriors,15,38,53,1014514200.0,2002
+Golden State Warriors,Golden State Warriors,Indiana Pacers,15,39,54,1014694200.0,2002
+Golden State Warriors,Golden State Warriors,Denver Nuggets,16,39,55,1014867000.0,2002
+Golden State Warriors,Golden State Warriors,Sacramento Kings,16,40,56,1015039800.0,2002
+Golden State Warriors,Los Angeles Clippers,Golden State Warriors,16,41,57,1015126200.0,2002
+Golden State Warriors,San Antonio Spurs,Golden State Warriors,16,42,58,1015378200.0,2002
+Golden State Warriors,Houston Rockets,Golden State Warriors,17,42,59,1015637400.0,2002
+Golden State Warriors,Dallas Mavericks,Golden State Warriors,17,43,60,1015723800.0,2002
+Golden State Warriors,Atlanta Hawks,Golden State Warriors,17,44,61,1015893000.0,2002
+Golden State Warriors,Indiana Pacers,Golden State Warriors,17,45,62,1015977600.0,2002
+Golden State Warriors,Golden State Warriors,Los Angeles Lakers,17,46,63,1016163000.0,2002
+Golden State Warriors,Golden State Warriors,Dallas Mavericks,17,47,64,1016335800.0,2002
+Golden State Warriors,Golden State Warriors,Washington Wizards,17,48,65,1016508600.0,2002
+Golden State Warriors,Seattle Supersonics,Golden State Warriors,17,49,66,1016593200.0,2002
+Golden State Warriors,Golden State Warriors,Los Angeles Clippers,17,50,67,1016767800.0,2002
+Golden State Warriors,Utah Jazz,Golden State Warriors,17,51,68,1016935200.0,2002
+Golden State Warriors,Golden State Warriors,Houston Rockets,17,52,69,1017021600.0,2002
+Golden State Warriors,Minnesota Timberwolves,Golden State Warriors,18,52,70,1017190800.0,2002
+Golden State Warriors,Boston Celtics,Golden State Warriors,18,53,71,1017273600.0,2002
+Golden State Warriors,Detroit Pistons,Golden State Warriors,18,54,72,1017450000.0,2002
+Golden State Warriors,Memphis Grizzlies,Golden State Warriors,18,55,73,1017536400.0,2002
+Golden State Warriors,Golden State Warriors,Portland Trail Blazers,19,55,74,1017804600.0,2002
+Golden State Warriors,Golden State Warriors,Denver Nuggets,20,55,75,1018063800.0,2002
+Golden State Warriors,Portland Trail Blazers,Golden State Warriors,20,56,76,1018148400.0,2002
+Golden State Warriors,Golden State Warriors,Minnesota Timberwolves,20,57,77,1018319400.0,2002
+Golden State Warriors,Golden State Warriors,Sacramento Kings,20,58,78,1018492200.0,2002
+Golden State Warriors,Denver Nuggets,Golden State Warriors,20,59,79,1018659600.0,2002
+Golden State Warriors,Golden State Warriors,Utah Jazz,20,60,80,1018751400.0,2002
+Golden State Warriors,Sacramento Kings,Golden State Warriors,20,61,81,1019008800.0,2002
+Golden State Warriors,Golden State Warriors,Los Angeles Clippers,21,61,82,1019097000.0,2002
+Houston Rockets,Houston Rockets,Atlanta Hawks,1,0,1,1004491800.0,2002
+Houston Rockets,Houston Rockets,Los Angeles Clippers,2,0,2,1004664600.0,2002
+Houston Rockets,Houston Rockets,Minnesota Timberwolves,2,1,3,1004837400.0,2002
+Houston Rockets,Phoenix Suns,Houston Rockets,3,1,4,1004922000.0,2002
+Houston Rockets,Houston Rockets,Denver Nuggets,4,1,5,1005096600.0,2002
+Houston Rockets,Houston Rockets,Philadelphia 76ers,5,1,6,1005271200.0,2002
+Houston Rockets,Denver Nuggets,Houston Rockets,5,2,7,1005357600.0,2002
+Houston Rockets,San Antonio Spurs,Houston Rockets,5,3,8,1005701400.0,2002
+Houston Rockets,Houston Rockets,Los Angeles Lakers,5,4,9,1005876000.0,2002
+Houston Rockets,Houston Rockets,Dallas Mavericks,6,4,10,1006047000.0,2002
+Houston Rockets,Sacramento Kings,Houston Rockets,6,5,11,1006225200.0,2002
+Houston Rockets,Portland Trail Blazers,Houston Rockets,7,5,12,1006311600.0,2002
+Houston Rockets,Seattle Supersonics,Houston Rockets,7,6,13,1006570800.0,2002
+Houston Rockets,Los Angeles Clippers,Houston Rockets,7,7,14,1006720200.0,2002
+Houston Rockets,Houston Rockets,Sacramento Kings,7,8,15,1006909200.0,2002
+Houston Rockets,Memphis Grizzlies,Houston Rockets,7,9,16,1007168400.0,2002
+Houston Rockets,Houston Rockets,San Antonio Spurs,7,10,17,1007256600.0,2002
+Houston Rockets,New York Knicks,Houston Rockets,7,11,18,1007425800.0,2002
+Houston Rockets,Chicago Bulls,Houston Rockets,7,12,19,1007515800.0,2002
+Houston Rockets,Houston Rockets,Washington Wizards,7,13,20,1007688600.0,2002
+Houston Rockets,Minnesota Timberwolves,Houston Rockets,7,14,21,1007859600.0,2002
+Houston Rockets,Detroit Pistons,Houston Rockets,7,15,22,1007938800.0,2002
+Houston Rockets,Houston Rockets,Cleveland Cavaliers,7,16,23,1008120600.0,2002
+Houston Rockets,Indiana Pacers,Houston Rockets,7,17,24,1008288000.0,2002
+Houston Rockets,Houston Rockets,Miami Heat,7,18,25,1008466200.0,2002
+Houston Rockets,Houston Rockets,Portland Trail Blazers,7,19,26,1008725400.0,2002
+Houston Rockets,Houston Rockets,Los Angeles Lakers,7,20,27,1008900000.0,2002
+Houston Rockets,Houston Rockets,Milwaukee Bucks,8,20,28,1009071000.0,2002
+Houston Rockets,Houston Rockets,Phoenix Suns,8,21,29,1009416600.0,2002
+Houston Rockets,Golden State Warriors,Houston Rockets,9,21,30,1009596600.0,2002
+Houston Rockets,Los Angeles Lakers,Houston Rockets,9,22,31,1009765800.0,2002
+Houston Rockets,Houston Rockets,Detroit Pistons,10,22,32,1010107800.0,2002
+Houston Rockets,Houston Rockets,Indiana Pacers,10,23,33,1010280600.0,2002
+Houston Rockets,Houston Rockets,New York Knicks,11,23,34,1010539800.0,2002
+Houston Rockets,Utah Jazz,Houston Rockets,11,24,35,1010714400.0,2002
+Houston Rockets,Houston Rockets,Denver Nuggets,12,24,36,1010885400.0,2002
+Houston Rockets,Philadelphia 76ers,Houston Rockets,12,25,37,1011142800.0,2002
+Houston Rockets,Toronto Raptors,Houston Rockets,12,26,38,1011225600.0,2002
+Houston Rockets,Boston Celtics,Houston Rockets,13,26,39,1011400200.0,2002
+Houston Rockets,New Jersey Nets,Houston Rockets,13,27,40,1011488400.0,2002
+Houston Rockets,Atlanta Hawks,Houston Rockets,13,28,41,1011639600.0,2002
+Houston Rockets,Houston Rockets,Dallas Mavericks,13,29,42,1011749400.0,2002
+Houston Rockets,Houston Rockets,New Jersey Nets,13,30,43,1011922200.0,2002
+Houston Rockets,Charlotte Hornets (Original),Houston Rockets,14,30,44,1012093200.0,2002
+Houston Rockets,Houston Rockets,Golden State Warriors,15,30,45,1012354200.0,2002
+Houston Rockets,Dallas Mavericks,Houston Rockets,15,31,46,1012528800.0,2002
+Houston Rockets,Houston Rockets,Charlotte Hornets (Original),15,32,47,1012613400.0,2002
+Houston Rockets,Houston Rockets,Utah Jazz,16,32,48,1012872600.0,2002
+Houston Rockets,Cleveland Cavaliers,Houston Rockets,16,33,49,1013040000.0,2002
+Houston Rockets,Houston Rockets,Memphis Grizzlies,17,33,50,1013563800.0,2002
+Houston Rockets,Houston Rockets,Orlando Magic,17,34,51,1013909400.0,2002
+Houston Rockets,Washington Wizards,Houston Rockets,18,34,52,1014055200.0,2002
+Houston Rockets,Milwaukee Bucks,Houston Rockets,18,35,53,1014253200.0,2002
+Houston Rockets,Houston Rockets,Minnesota Timberwolves,19,35,54,1014341400.0,2002
+Houston Rockets,Houston Rockets,Boston Celtics,20,35,55,1014514200.0,2002
+Houston Rockets,Houston Rockets,Los Angeles Clippers,20,36,56,1014773400.0,2002
+Houston Rockets,Phoenix Suns,Houston Rockets,21,36,57,1015120800.0,2002
+Houston Rockets,Los Angeles Lakers,Houston Rockets,21,37,58,1015209000.0,2002
+Houston Rockets,Houston Rockets,Toronto Raptors,22,37,59,1015378200.0,2002
+Houston Rockets,San Antonio Spurs,Houston Rockets,22,38,60,1015551000.0,2002
+Houston Rockets,Houston Rockets,Golden State Warriors,22,39,61,1015637400.0,2002
+Houston Rockets,Houston Rockets,Utah Jazz,23,39,62,1015790400.0,2002
+Houston Rockets,Houston Rockets,Seattle Supersonics,24,39,63,1015983000.0,2002
+Houston Rockets,Minnesota Timberwolves,Houston Rockets,25,39,64,1016067600.0,2002
+Houston Rockets,Houston Rockets,Chicago Bulls,25,40,65,1016328600.0,2002
+Houston Rockets,Los Angeles Clippers,Houston Rockets,25,41,66,1016508600.0,2002
+Houston Rockets,Sacramento Kings,Houston Rockets,25,42,67,1016595000.0,2002
+Houston Rockets,Seattle Supersonics,Houston Rockets,25,43,68,1016852400.0,2002
+Houston Rockets,Golden State Warriors,Houston Rockets,26,43,69,1017021600.0,2002
+Houston Rockets,Utah Jazz,Houston Rockets,26,44,70,1017194400.0,2002
+Houston Rockets,Houston Rockets,Sacramento Kings,26,45,71,1017365400.0,2002
+Houston Rockets,Houston Rockets,Phoenix Suns,26,46,72,1017538200.0,2002
+Houston Rockets,Houston Rockets,Seattle Supersonics,27,46,73,1017797400.0,2002
+Houston Rockets,Houston Rockets,San Antonio Spurs,27,47,74,1017970200.0,2002
+Houston Rockets,Memphis Grizzlies,Houston Rockets,27,48,75,1018054800.0,2002
+Houston Rockets,Orlando Magic,Houston Rockets,27,49,76,1018308600.0,2002
+Houston Rockets,Miami Heat,Houston Rockets,27,50,77,1018395000.0,2002
+Houston Rockets,Dallas Mavericks,Houston Rockets,28,50,78,1018571400.0,2002
+Houston Rockets,Houston Rockets,Portland Trail Blazers,28,51,79,1018657800.0,2002
+Houston Rockets,Houston Rockets,Memphis Grizzlies,28,52,80,1018830600.0,2002
+Houston Rockets,Denver Nuggets,Houston Rockets,28,53,81,1019005200.0,2002
+Houston Rockets,Portland Trail Blazers,Houston Rockets,28,54,82,1019095200.0,2002
+Indiana Pacers,New Jersey Nets,Indiana Pacers,0,1,1,1004488200.0,2002
+Indiana Pacers,Chicago Bulls,Indiana Pacers,1,1,2,1004578200.0,2002
+Indiana Pacers,Indiana Pacers,Orlando Magic,2,1,3,1004745600.0,2002
+Indiana Pacers,Toronto Raptors,Indiana Pacers,2,2,4,1004913000.0,2002
+Indiana Pacers,Philadelphia 76ers,Indiana Pacers,3,2,5,1005091200.0,2002
+Indiana Pacers,Indiana Pacers,Sacramento Kings,4,2,6,1005181200.0,2002
+Indiana Pacers,Indiana Pacers,New York Knicks,5,2,7,1005350400.0,2002
+Indiana Pacers,Indiana Pacers,Portland Trail Blazers,6,2,8,1005440400.0,2002
+Indiana Pacers,Indiana Pacers,New Jersey Nets,6,3,9,1005696000.0,2002
+Indiana Pacers,Boston Celtics,Indiana Pacers,6,4,10,1005782400.0,2002
+Indiana Pacers,Indiana Pacers,Minnesota Timberwolves,6,5,11,1005955200.0,2002
+Indiana Pacers,Detroit Pistons,Indiana Pacers,6,6,12,1006043400.0,2002
+Indiana Pacers,Indiana Pacers,Atlanta Hawks,7,6,13,1006300800.0,2002
+Indiana Pacers,Indiana Pacers,Washington Wizards,8,6,14,1006477200.0,2002
+Indiana Pacers,Indiana Pacers,San Antonio Spurs,8,7,15,1006563600.0,2002
+Indiana Pacers,Seattle Supersonics,Indiana Pacers,8,8,16,1006732800.0,2002
+Indiana Pacers,Portland Trail Blazers,Indiana Pacers,8,9,17,1006916400.0,2002
+Indiana Pacers,Denver Nuggets,Indiana Pacers,9,9,18,1006999200.0,2002
+Indiana Pacers,Utah Jazz,Indiana Pacers,10,9,19,1007258400.0,2002
+Indiana Pacers,Los Angeles Clippers,Indiana Pacers,10,10,20,1007344800.0,2002
+Indiana Pacers,Indiana Pacers,Denver Nuggets,11,10,21,1007510400.0,2002
+Indiana Pacers,Indiana Pacers,Chicago Bulls,12,10,22,1007769600.0,2002
+Indiana Pacers,New York Knicks,Indiana Pacers,12,11,23,1007857800.0,2002
+Indiana Pacers,Indiana Pacers,Houston Rockets,13,11,24,1008288000.0,2002
+Indiana Pacers,Milwaukee Bucks,Indiana Pacers,13,12,25,1008466200.0,2002
+Indiana Pacers,Atlanta Hawks,Indiana Pacers,14,12,26,1008721800.0,2002
+Indiana Pacers,Indiana Pacers,Toronto Raptors,14,13,27,1008810000.0,2002
+Indiana Pacers,Indiana Pacers,New Jersey Nets,15,13,28,1008979200.0,2002
+Indiana Pacers,Cleveland Cavaliers,Indiana Pacers,16,13,29,1009067400.0,2002
+Indiana Pacers,Orlando Magic,Indiana Pacers,17,13,30,1009414800.0,2002
+Indiana Pacers,Indiana Pacers,Washington Wizards,18,13,31,1009497600.0,2002
+Indiana Pacers,New Jersey Nets,Indiana Pacers,18,14,32,1009672200.0,2002
+Indiana Pacers,Indiana Pacers,Miami Heat,18,15,33,1009843200.0,2002
+Indiana Pacers,San Antonio Spurs,Indiana Pacers,19,15,34,1010194200.0,2002
+Indiana Pacers,Houston Rockets,Indiana Pacers,20,15,35,1010280600.0,2002
+Indiana Pacers,Indiana Pacers,Los Angeles Lakers,20,16,36,1010620800.0,2002
+Indiana Pacers,Indiana Pacers,Chicago Bulls,21,16,37,1010793600.0,2002
+Indiana Pacers,Dallas Mavericks,Indiana Pacers,21,17,38,1010885400.0,2002
+Indiana Pacers,Indiana Pacers,Milwaukee Bucks,21,18,39,1011139200.0,2002
+Indiana Pacers,Milwaukee Bucks,Indiana Pacers,21,19,40,1011229200.0,2002
+Indiana Pacers,Indiana Pacers,Detroit Pistons,21,20,41,1011398400.0,2002
+Indiana Pacers,Miami Heat,Indiana Pacers,21,21,42,1011492000.0,2002
+Indiana Pacers,Chicago Bulls,Indiana Pacers,22,21,43,1011645000.0,2002
+Indiana Pacers,Boston Celtics,Indiana Pacers,22,22,44,1011830400.0,2002
+Indiana Pacers,Indiana Pacers,Charlotte Hornets (Original),23,22,45,1012003200.0,2002
+Indiana Pacers,Indiana Pacers,Seattle Supersonics,23,23,46,1012093200.0,2002
+Indiana Pacers,Indiana Pacers,Memphis Grizzlies,24,23,47,1012435200.0,2002
+Indiana Pacers,Indiana Pacers,New York Knicks,25,23,48,1012608000.0,2002
+Indiana Pacers,Washington Wizards,Indiana Pacers,25,24,49,1012755600.0,2002
+Indiana Pacers,Indiana Pacers,Dallas Mavericks,25,25,50,1012957200.0,2002
+Indiana Pacers,Indiana Pacers,Utah Jazz,25,26,51,1013558400.0,2002
+Indiana Pacers,Charlotte Hornets (Original),Indiana Pacers,25,27,52,1013819400.0,2002
+Indiana Pacers,Indiana Pacers,Philadelphia 76ers,26,27,53,1013972400.0,2002
+Indiana Pacers,Indiana Pacers,Cleveland Cavaliers,26,28,54,1014422400.0,2002
+Indiana Pacers,Indiana Pacers,Los Angeles Clippers,27,28,55,1014512400.0,2002
+Indiana Pacers,Golden State Warriors,Indiana Pacers,28,28,56,1014694200.0,2002
+Indiana Pacers,Phoenix Suns,Indiana Pacers,28,29,57,1014948000.0,2002
+Indiana Pacers,Los Angeles Lakers,Indiana Pacers,28,30,58,1015039800.0,2002
+Indiana Pacers,Sacramento Kings,Indiana Pacers,29,30,59,1015196400.0,2002
+Indiana Pacers,Indiana Pacers,Orlando Magic,30,30,60,1015376400.0,2002
+Indiana Pacers,Memphis Grizzlies,Indiana Pacers,30,31,61,1015549200.0,2002
+Indiana Pacers,Philadelphia 76ers,Indiana Pacers,30,32,62,1015632000.0,2002
+Indiana Pacers,Detroit Pistons,Indiana Pacers,31,32,63,1015790400.0,2002
+Indiana Pacers,Indiana Pacers,Golden State Warriors,32,32,64,1015977600.0,2002
+Indiana Pacers,Minnesota Timberwolves,Indiana Pacers,33,32,65,1016240400.0,2002
+Indiana Pacers,Indiana Pacers,Atlanta Hawks,34,32,66,1016393400.0,2002
+Indiana Pacers,Charlotte Hornets (Original),Indiana Pacers,34,33,67,1016668800.0,2002
+Indiana Pacers,Miami Heat,Indiana Pacers,35,33,68,1016843400.0,2002
+Indiana Pacers,Indiana Pacers,Charlotte Hornets (Original),35,34,69,1016998200.0,2002
+Indiana Pacers,Indiana Pacers,Detroit Pistons,35,35,70,1017187200.0,2002
+Indiana Pacers,Orlando Magic,Indiana Pacers,35,36,71,1017448200.0,2002
+Indiana Pacers,Indiana Pacers,Miami Heat,36,36,72,1017604800.0,2002
+Indiana Pacers,Indiana Pacers,Boston Celtics,36,37,73,1017792000.0,2002
+Indiana Pacers,Atlanta Hawks,Indiana Pacers,36,38,74,1017966600.0,2002
+Indiana Pacers,Indiana Pacers,Phoenix Suns,37,38,75,1018051200.0,2002
+Indiana Pacers,Toronto Raptors,Indiana Pacers,37,39,76,1018215000.0,2002
+Indiana Pacers,Indiana Pacers,Cleveland Cavaliers,37,40,77,1018310400.0,2002
+Indiana Pacers,Indiana Pacers,Toronto Raptors,38,40,78,1018483200.0,2002
+Indiana Pacers,Indiana Pacers,Milwaukee Bucks,39,40,79,1018656000.0,2002
+Indiana Pacers,Washington Wizards,Indiana Pacers,40,40,80,1018803600.0,2002
+Indiana Pacers,Cleveland Cavaliers,Indiana Pacers,41,40,81,1018998000.0,2002
+Indiana Pacers,Indiana Pacers,Philadelphia 76ers,42,40,82,1019088000.0,2002
+Los Angeles Clippers,San Antonio Spurs,Los Angeles Clippers,0,1,1,1004491800.0,2002
+Los Angeles Clippers,Houston Rockets,Los Angeles Clippers,0,2,2,1004664600.0,2002
+Los Angeles Clippers,Los Angeles Clippers,Golden State Warriors,0,3,3,1004844600.0,2002
+Los Angeles Clippers,Los Angeles Clippers,Atlanta Hawks,1,3,4,1005017400.0,2002
+Los Angeles Clippers,Los Angeles Clippers,Memphis Grizzlies,2,3,5,1005190200.0,2002
+Los Angeles Clippers,Portland Trail Blazers,Los Angeles Clippers,2,4,6,1005274800.0,2002
+Los Angeles Clippers,Los Angeles Clippers,Phoenix Suns,3,4,7,1005424200.0,2002
+Los Angeles Clippers,Los Angeles Clippers,Chicago Bulls,4,4,8,1005795000.0,2002
+Los Angeles Clippers,Los Angeles Clippers,Toronto Raptors,4,5,9,1005967800.0,2002
+Los Angeles Clippers,Los Angeles Clippers,New York Knicks,5,5,10,1006115400.0,2002
+Los Angeles Clippers,Los Angeles Clippers,Los Angeles Lakers,5,6,11,1006313400.0,2002
+Los Angeles Clippers,Los Angeles Clippers,New Jersey Nets,5,7,12,1006486200.0,2002
+Los Angeles Clippers,Utah Jazz,Los Angeles Clippers,5,8,13,1006567200.0,2002
+Los Angeles Clippers,Los Angeles Clippers,Houston Rockets,6,8,14,1006720200.0,2002
+Los Angeles Clippers,Los Angeles Clippers,Minnesota Timberwolves,7,8,15,1007004600.0,2002
+Los Angeles Clippers,Denver Nuggets,Los Angeles Clippers,7,9,16,1007172000.0,2002
+Los Angeles Clippers,Los Angeles Clippers,Indiana Pacers,8,9,17,1007344800.0,2002
+Los Angeles Clippers,Los Angeles Clippers,Miami Heat,9,9,18,1007523000.0,2002
+Los Angeles Clippers,Los Angeles Clippers,Utah Jazz,9,10,19,1007782200.0,2002
+Los Angeles Clippers,Los Angeles Clippers,Charlotte Hornets (Original),10,10,20,1007949600.0,2002
+Los Angeles Clippers,Los Angeles Clippers,Orlando Magic,11,10,21,1008041400.0,2002
+Los Angeles Clippers,Los Angeles Clippers,Seattle Supersonics,12,10,22,1008214200.0,2002
+Los Angeles Clippers,Los Angeles Lakers,Los Angeles Clippers,12,11,23,1008387000.0,2002
+Los Angeles Clippers,Los Angeles Clippers,Detroit Pistons,13,11,24,1008534600.0,2002
+Los Angeles Clippers,Phoenix Suns,Los Angeles Clippers,14,11,25,1008723600.0,2002
+Los Angeles Clippers,Los Angeles Clippers,Sacramento Kings,15,11,26,1009078200.0,2002
+Los Angeles Clippers,Los Angeles Clippers,Philadelphia 76ers,15,12,27,1009423800.0,2002
+Los Angeles Clippers,Seattle Supersonics,Los Angeles Clippers,15,13,28,1009510200.0,2002
+Los Angeles Clippers,Los Angeles Clippers,Boston Celtics,15,14,29,1009657800.0,2002
+Los Angeles Clippers,Los Angeles Clippers,Portland Trail Blazers,16,14,30,1009936800.0,2002
+Los Angeles Clippers,Sacramento Kings,Los Angeles Clippers,16,15,31,1010026800.0,2002
+Los Angeles Clippers,Denver Nuggets,Los Angeles Clippers,17,15,32,1010196000.0,2002
+Los Angeles Clippers,Los Angeles Clippers,Milwaukee Bucks,18,15,33,1010287800.0,2002
+Los Angeles Clippers,Philadelphia 76ers,Los Angeles Clippers,18,16,34,1010448000.0,2002
+Los Angeles Clippers,Washington Wizards,Los Angeles Clippers,18,17,35,1010534400.0,2002
+Los Angeles Clippers,New Jersey Nets,Los Angeles Clippers,18,18,36,1010709000.0,2002
+Los Angeles Clippers,Charlotte Hornets (Original),Los Angeles Clippers,18,19,37,1010795400.0,2002
+Los Angeles Clippers,Toronto Raptors,Los Angeles Clippers,19,19,38,1010952000.0,2002
+Los Angeles Clippers,Minnesota Timberwolves,Los Angeles Clippers,19,20,39,1011142800.0,2002
+Los Angeles Clippers,Los Angeles Clippers,Cleveland Cavaliers,20,20,40,1011411000.0,2002
+Los Angeles Clippers,Portland Trail Blazers,Los Angeles Clippers,20,21,41,1011495600.0,2002
+Los Angeles Clippers,Los Angeles Clippers,Denver Nuggets,21,21,42,1011670200.0,2002
+Los Angeles Clippers,Los Angeles Clippers,Los Angeles Lakers,22,21,43,1011843000.0,2002
+Los Angeles Clippers,Los Angeles Clippers,Dallas Mavericks,22,22,44,1012102200.0,2002
+Los Angeles Clippers,Memphis Grizzlies,Los Angeles Clippers,22,23,45,1012266000.0,2002
+Los Angeles Clippers,Dallas Mavericks,Los Angeles Clippers,23,23,46,1012352400.0,2002
+Los Angeles Clippers,San Antonio Spurs,Los Angeles Clippers,24,23,47,1012527000.0,2002
+Los Angeles Clippers,Atlanta Hawks,Los Angeles Clippers,24,24,48,1012698000.0,2002
+Los Angeles Clippers,Boston Celtics,Los Angeles Clippers,24,25,49,1012782600.0,2002
+Los Angeles Clippers,New York Knicks,Los Angeles Clippers,25,25,50,1012955400.0,2002
+Los Angeles Clippers,Detroit Pistons,Los Angeles Clippers,25,26,51,1013128200.0,2002
+Los Angeles Clippers,Los Angeles Clippers,San Antonio Spurs,25,27,52,1013743800.0,2002
+Los Angeles Clippers,Los Angeles Clippers,Dallas Mavericks,26,27,53,1013916600.0,2002
+Los Angeles Clippers,Los Angeles Clippers,Portland Trail Blazers,26,28,54,1014089400.0,2002
+Los Angeles Clippers,Miami Heat,Los Angeles Clippers,27,28,55,1014251400.0,2002
+Los Angeles Clippers,Orlando Magic,Los Angeles Clippers,27,29,56,1014337800.0,2002
+Los Angeles Clippers,Indiana Pacers,Los Angeles Clippers,27,30,57,1014512400.0,2002
+Los Angeles Clippers,Memphis Grizzlies,Los Angeles Clippers,28,30,58,1014685200.0,2002
+Los Angeles Clippers,Houston Rockets,Los Angeles Clippers,29,30,59,1014773400.0,2002
+Los Angeles Clippers,Los Angeles Clippers,Golden State Warriors,30,30,60,1015126200.0,2002
+Los Angeles Clippers,Milwaukee Bucks,Los Angeles Clippers,30,31,61,1015462800.0,2002
+Los Angeles Clippers,Chicago Bulls,Los Angeles Clippers,31,31,62,1015637400.0,2002
+Los Angeles Clippers,Cleveland Cavaliers,Los Angeles Clippers,32,31,63,1015790400.0,2002
+Los Angeles Clippers,Minnesota Timberwolves,Los Angeles Clippers,33,31,64,1015894800.0,2002
+Los Angeles Clippers,Los Angeles Clippers,Washington Wizards,34,31,65,1016076600.0,2002
+Los Angeles Clippers,Los Angeles Lakers,Los Angeles Clippers,34,32,66,1016249400.0,2002
+Los Angeles Clippers,Los Angeles Clippers,Seattle Supersonics,34,33,67,1016335800.0,2002
+Los Angeles Clippers,Los Angeles Clippers,Houston Rockets,35,33,68,1016508600.0,2002
+Los Angeles Clippers,Golden State Warriors,Los Angeles Clippers,36,33,69,1016767800.0,2002
+Los Angeles Clippers,Los Angeles Clippers,Phoenix Suns,36,34,70,1016940600.0,2002
+Los Angeles Clippers,Los Angeles Clippers,San Antonio Spurs,36,35,71,1017113400.0,2002
+Los Angeles Clippers,Sacramento Kings,Los Angeles Clippers,36,36,72,1017199800.0,2002
+Los Angeles Clippers,Phoenix Suns,Los Angeles Clippers,37,36,73,1017453600.0,2002
+Los Angeles Clippers,Los Angeles Clippers,Utah Jazz,37,37,74,1017545400.0,2002
+Los Angeles Clippers,Utah Jazz,Los Angeles Clippers,37,38,75,1017885600.0,2002
+Los Angeles Clippers,Dallas Mavericks,Los Angeles Clippers,37,39,76,1017972000.0,2002
+Los Angeles Clippers,Los Angeles Clippers,Denver Nuggets,38,39,77,1018227600.0,2002
+Los Angeles Clippers,Seattle Supersonics,Los Angeles Clippers,38,40,78,1018317600.0,2002
+Los Angeles Clippers,Los Angeles Clippers,Sacramento Kings,38,41,79,1018665000.0,2002
+Los Angeles Clippers,Los Angeles Clippers,Minnesota Timberwolves,38,42,80,1018751400.0,2002
+Los Angeles Clippers,Los Angeles Clippers,Memphis Grizzlies,39,42,81,1019010600.0,2002
+Los Angeles Clippers,Golden State Warriors,Los Angeles Clippers,39,43,82,1019097000.0,2002
+Los Angeles Lakers,Los Angeles Lakers,Portland Trail Blazers,1,0,1,1004499000.0,2002
+Los Angeles Lakers,Utah Jazz,Los Angeles Lakers,2,0,2,1004666400.0,2002
+Los Angeles Lakers,Los Angeles Lakers,Phoenix Suns,3,0,3,1004758200.0,2002
+Los Angeles Lakers,Los Angeles Lakers,Utah Jazz,4,0,4,1004927400.0,2002
+Los Angeles Lakers,Los Angeles Lakers,Memphis Grizzlies,5,0,5,1005363000.0,2002
+Los Angeles Lakers,Los Angeles Lakers,Orlando Magic,6,0,6,1005532200.0,2002
+Los Angeles Lakers,Houston Rockets,Los Angeles Lakers,7,0,7,1005876000.0,2002
+Los Angeles Lakers,Phoenix Suns,Los Angeles Lakers,7,1,8,1005962400.0,2002
+Los Angeles Lakers,Los Angeles Lakers,Sacramento Kings,8,1,9,1006137000.0,2002
+Los Angeles Lakers,Los Angeles Clippers,Los Angeles Lakers,9,1,10,1006313400.0,2002
+Los Angeles Lakers,Denver Nuggets,Los Angeles Lakers,10,1,11,1006394400.0,2002
+Los Angeles Lakers,Los Angeles Lakers,Golden State Warriors,11,1,12,1006572600.0,2002
+Los Angeles Lakers,Los Angeles Lakers,Denver Nuggets,12,1,13,1006741800.0,2002
+Los Angeles Lakers,Los Angeles Lakers,Milwaukee Bucks,13,1,14,1006918200.0,2002
+Los Angeles Lakers,Seattle Supersonics,Los Angeles Lakers,14,1,15,1007175600.0,2002
+Los Angeles Lakers,Los Angeles Lakers,Minnesota Timberwolves,15,1,16,1007263800.0,2002
+Los Angeles Lakers,Los Angeles Lakers,Dallas Mavericks,16,1,17,1007609400.0,2002
+Los Angeles Lakers,Sacramento Kings,Los Angeles Lakers,16,2,18,1007780400.0,2002
+Los Angeles Lakers,Los Angeles Lakers,Seattle Supersonics,16,3,19,1008127800.0,2002
+Los Angeles Lakers,Los Angeles Lakers,Los Angeles Clippers,17,3,20,1008387000.0,2002
+Los Angeles Lakers,Los Angeles Lakers,Golden State Warriors,18,3,21,1008556200.0,2002
+Los Angeles Lakers,Houston Rockets,Los Angeles Lakers,19,3,22,1008900000.0,2002
+Los Angeles Lakers,Memphis Grizzlies,Los Angeles Lakers,19,4,23,1008982800.0,2002
+Los Angeles Lakers,Los Angeles Lakers,Philadelphia 76ers,20,4,24,1009330200.0,2002
+Los Angeles Lakers,Golden State Warriors,Los Angeles Lakers,20,5,25,1009423800.0,2002
+Los Angeles Lakers,Los Angeles Lakers,Toronto Raptors,20,6,26,1009596600.0,2002
+Los Angeles Lakers,Los Angeles Lakers,Houston Rockets,21,6,27,1009765800.0,2002
+Los Angeles Lakers,Denver Nuggets,Los Angeles Lakers,22,6,28,1010023200.0,2002
+Los Angeles Lakers,Los Angeles Lakers,Phoenix Suns,23,6,29,1010201400.0,2002
+Los Angeles Lakers,Toronto Raptors,Los Angeles Lakers,24,6,30,1010347200.0,2002
+Los Angeles Lakers,Detroit Pistons,Los Angeles Lakers,25,6,31,1010538000.0,2002
+Los Angeles Lakers,Indiana Pacers,Los Angeles Lakers,26,6,32,1010620800.0,2002
+Los Angeles Lakers,Minnesota Timberwolves,Los Angeles Lakers,26,7,33,1010797200.0,2002
+Los Angeles Lakers,Chicago Bulls,Los Angeles Lakers,26,8,34,1010885400.0,2002
+Los Angeles Lakers,Los Angeles Lakers,Memphis Grizzlies,27,8,35,1011065400.0,2002
+Los Angeles Lakers,Los Angeles Lakers,Miami Heat,27,9,36,1011238200.0,2002
+Los Angeles Lakers,San Antonio Spurs,Los Angeles Lakers,28,9,37,1011463200.0,2002
+Los Angeles Lakers,Los Angeles Lakers,Denver Nuggets,28,10,38,1011756600.0,2002
+Los Angeles Lakers,Los Angeles Clippers,Los Angeles Lakers,28,11,39,1011843000.0,2002
+Los Angeles Lakers,Los Angeles Lakers,San Antonio Spurs,29,11,40,1012015800.0,2002
+Los Angeles Lakers,Philadelphia 76ers,Los Angeles Lakers,29,12,41,1012150800.0,2002
+Los Angeles Lakers,Atlanta Hawks,Los Angeles Lakers,30,12,42,1012350600.0,2002
+Los Angeles Lakers,Orlando Magic,Los Angeles Lakers,31,12,43,1012438800.0,2002
+Los Angeles Lakers,Memphis Grizzlies,Los Angeles Lakers,32,12,44,1012611600.0,2002
+Los Angeles Lakers,Dallas Mavericks,Los Angeles Lakers,33,12,45,1012764600.0,2002
+Los Angeles Lakers,Los Angeles Lakers,Chicago Bulls,33,13,46,1013052600.0,2002
+Los Angeles Lakers,Los Angeles Lakers,Washington Wizards,34,13,47,1013571000.0,2002
+Los Angeles Lakers,Seattle Supersonics,Los Angeles Lakers,35,13,48,1013742000.0,2002
+Los Angeles Lakers,Los Angeles Lakers,Atlanta Hawks,35,14,49,1013830200.0,2002
+Los Angeles Lakers,Portland Trail Blazers,Los Angeles Lakers,35,15,50,1013981400.0,2002
+Los Angeles Lakers,Los Angeles Lakers,Boston Celtics,35,16,51,1014175800.0,2002
+Los Angeles Lakers,Cleveland Cavaliers,Los Angeles Lakers,36,16,52,1014336000.0,2002
+Los Angeles Lakers,Charlotte Hornets (Original),Los Angeles Lakers,37,16,53,1014424200.0,2002
+Los Angeles Lakers,New York Knicks,Los Angeles Lakers,38,16,54,1014570000.0,2002
+Los Angeles Lakers,Milwaukee Bucks,Los Angeles Lakers,39,16,55,1014771600.0,2002
+Los Angeles Lakers,Minnesota Timberwolves,Los Angeles Lakers,39,17,56,1014858000.0,2002
+Los Angeles Lakers,Los Angeles Lakers,Indiana Pacers,40,17,57,1015039800.0,2002
+Los Angeles Lakers,Los Angeles Lakers,Houston Rockets,41,17,58,1015209000.0,2002
+Los Angeles Lakers,Los Angeles Lakers,New Jersey Nets,42,17,59,1015385400.0,2002
+Los Angeles Lakers,Utah Jazz,Los Angeles Lakers,42,18,60,1015462800.0,2002
+Los Angeles Lakers,Los Angeles Lakers,New York Knicks,43,18,61,1015801200.0,2002
+Los Angeles Lakers,Los Angeles Lakers,Charlotte Hornets (Original),44,18,62,1015990200.0,2002
+Los Angeles Lakers,Golden State Warriors,Los Angeles Lakers,45,18,63,1016163000.0,2002
+Los Angeles Lakers,Los Angeles Lakers,Los Angeles Clippers,46,18,64,1016249400.0,2002
+Los Angeles Lakers,Los Angeles Lakers,Dallas Mavericks,47,18,65,1016418600.0,2002
+Los Angeles Lakers,Dallas Mavericks,Los Angeles Lakers,47,19,66,1016587800.0,2002
+Los Angeles Lakers,San Antonio Spurs,Los Angeles Lakers,47,20,67,1016672400.0,2002
+Los Angeles Lakers,Los Angeles Lakers,Detroit Pistons,48,20,68,1016854200.0,2002
+Los Angeles Lakers,Sacramento Kings,Los Angeles Lakers,49,20,69,1017012600.0,2002
+Los Angeles Lakers,Los Angeles Lakers,Cleveland Cavaliers,50,20,70,1017199800.0,2002
+Los Angeles Lakers,Phoenix Suns,Los Angeles Lakers,50,21,71,1017280800.0,2002
+Los Angeles Lakers,Los Angeles Lakers,Portland Trail Blazers,51,21,72,1017459000.0,2002
+Los Angeles Lakers,Los Angeles Lakers,San Antonio Spurs,52,21,73,1017613800.0,2002
+Los Angeles Lakers,Washington Wizards,Los Angeles Lakers,53,21,74,1017795600.0,2002
+Los Angeles Lakers,New Jersey Nets,Los Angeles Lakers,53,22,75,1017882000.0,2002
+Los Angeles Lakers,Boston Celtics,Los Angeles Lakers,53,23,76,1018053000.0,2002
+Los Angeles Lakers,Miami Heat,Los Angeles Lakers,54,23,77,1018215000.0,2002
+Los Angeles Lakers,Los Angeles Lakers,Utah Jazz,55,23,78,1018405800.0,2002
+Los Angeles Lakers,Los Angeles Lakers,Minnesota Timberwolves,56,23,79,1018578600.0,2002
+Los Angeles Lakers,Portland Trail Blazers,Los Angeles Lakers,56,24,80,1018819800.0,2002
+Los Angeles Lakers,Los Angeles Lakers,Seattle Supersonics,57,24,81,1018924200.0,2002
+Los Angeles Lakers,Los Angeles Lakers,Sacramento Kings,58,24,82,1019097000.0,2002
+Memphis Grizzlies,Memphis Grizzlies,Detroit Pistons,0,1,1,1004662800.0,2002
+Memphis Grizzlies,Minnesota Timberwolves,Memphis Grizzlies,0,2,2,1004749200.0,2002
+Memphis Grizzlies,Memphis Grizzlies,Dallas Mavericks,0,3,3,1004904000.0,2002
+Memphis Grizzlies,Phoenix Suns,Memphis Grizzlies,0,4,4,1005098400.0,2002
+Memphis Grizzlies,Los Angeles Clippers,Memphis Grizzlies,0,5,5,1005190200.0,2002
+Memphis Grizzlies,Los Angeles Lakers,Memphis Grizzlies,0,6,6,1005363000.0,2002
+Memphis Grizzlies,Memphis Grizzlies,Golden State Warriors,0,7,7,1005613200.0,2002
+Memphis Grizzlies,Memphis Grizzlies,Portland Trail Blazers,0,8,8,1005872400.0,2002
+Memphis Grizzlies,Memphis Grizzlies,Cleveland Cavaliers,1,8,9,1006045200.0,2002
+Memphis Grizzlies,Cleveland Cavaliers,Memphis Grizzlies,1,9,10,1006387200.0,2002
+Memphis Grizzlies,Memphis Grizzlies,Phoenix Suns,1,10,11,1006563600.0,2002
+Memphis Grizzlies,Detroit Pistons,Memphis Grizzlies,1,11,12,1006648200.0,2002
+Memphis Grizzlies,Memphis Grizzlies,Sacramento Kings,2,11,13,1006822800.0,2002
+Memphis Grizzlies,Toronto Raptors,Memphis Grizzlies,2,12,14,1007076600.0,2002
+Memphis Grizzlies,Memphis Grizzlies,Houston Rockets,3,12,15,1007168400.0,2002
+Memphis Grizzlies,Philadelphia 76ers,Memphis Grizzlies,4,12,16,1007334000.0,2002
+Memphis Grizzlies,Orlando Magic,Memphis Grizzlies,4,13,17,1007425800.0,2002
+Memphis Grizzlies,Memphis Grizzlies,Minnesota Timberwolves,4,14,18,1007686800.0,2002
+Memphis Grizzlies,Memphis Grizzlies,Philadelphia 76ers,5,14,19,1007859600.0,2002
+Memphis Grizzlies,Memphis Grizzlies,Washington Wizards,5,15,20,1008118800.0,2002
+Memphis Grizzlies,Denver Nuggets,Memphis Grizzlies,5,16,21,1008295200.0,2002
+Memphis Grizzlies,Golden State Warriors,Memphis Grizzlies,5,17,22,1008473400.0,2002
+Memphis Grizzlies,Sacramento Kings,Memphis Grizzlies,5,18,23,1008554400.0,2002
+Memphis Grizzlies,Memphis Grizzlies,Milwaukee Bucks,5,19,24,1008723600.0,2002
+Memphis Grizzlies,New York Knicks,Memphis Grizzlies,6,19,25,1008894600.0,2002
+Memphis Grizzlies,Memphis Grizzlies,Los Angeles Lakers,7,19,26,1008982800.0,2002
+Memphis Grizzlies,Boston Celtics,Memphis Grizzlies,7,20,27,1009148400.0,2002
+Memphis Grizzlies,Memphis Grizzlies,Chicago Bulls,8,20,28,1009414800.0,2002
+Memphis Grizzlies,Miami Heat,Memphis Grizzlies,9,20,29,1009585800.0,2002
+Memphis Grizzlies,Memphis Grizzlies,San Antonio Spurs,9,21,30,1009756800.0,2002
+Memphis Grizzlies,New Jersey Nets,Memphis Grizzlies,9,22,31,1010017800.0,2002
+Memphis Grizzlies,Memphis Grizzlies,Atlanta Hawks,9,23,32,1010192400.0,2002
+Memphis Grizzlies,Memphis Grizzlies,Seattle Supersonics,9,24,33,1010347200.0,2002
+Memphis Grizzlies,Memphis Grizzlies,Toronto Raptors,10,24,34,1010538000.0,2002
+Memphis Grizzlies,Phoenix Suns,Memphis Grizzlies,11,24,35,1010714400.0,2002
+Memphis Grizzlies,Utah Jazz,Memphis Grizzlies,12,24,36,1010887200.0,2002
+Memphis Grizzlies,Los Angeles Lakers,Memphis Grizzlies,12,25,37,1011065400.0,2002
+Memphis Grizzlies,Memphis Grizzlies,Dallas Mavericks,12,26,38,1011315600.0,2002
+Memphis Grizzlies,Memphis Grizzlies,Orlando Magic,12,27,39,1011492000.0,2002
+Memphis Grizzlies,Sacramento Kings,Memphis Grizzlies,12,28,40,1011668400.0,2002
+Memphis Grizzlies,Golden State Warriors,Memphis Grizzlies,12,29,41,1011843000.0,2002
+Memphis Grizzlies,Portland Trail Blazers,Memphis Grizzlies,12,30,42,1011927600.0,2002
+Memphis Grizzlies,Chicago Bulls,Memphis Grizzlies,12,31,43,1012095000.0,2002
+Memphis Grizzlies,Memphis Grizzlies,Los Angeles Clippers,13,31,44,1012266000.0,2002
+Memphis Grizzlies,Indiana Pacers,Memphis Grizzlies,13,32,45,1012435200.0,2002
+Memphis Grizzlies,Memphis Grizzlies,Los Angeles Lakers,13,33,46,1012611600.0,2002
+Memphis Grizzlies,Memphis Grizzlies,Charlotte Hornets (Original),13,34,47,1012766400.0,2002
+Memphis Grizzlies,Memphis Grizzlies,Utah Jazz,14,34,48,1012957200.0,2002
+Memphis Grizzlies,Milwaukee Bucks,Memphis Grizzlies,14,35,49,1013130000.0,2002
+Memphis Grizzlies,Houston Rockets,Memphis Grizzlies,14,36,50,1013563800.0,2002
+Memphis Grizzlies,Memphis Grizzlies,Denver Nuggets,14,37,51,1013734800.0,2002
+Memphis Grizzlies,Charlotte Hornets (Original),Memphis Grizzlies,15,37,52,1013972400.0,2002
+Memphis Grizzlies,San Antonio Spurs,Memphis Grizzlies,15,38,53,1014168600.0,2002
+Memphis Grizzlies,Memphis Grizzlies,Phoenix Suns,15,39,54,1014339600.0,2002
+Memphis Grizzlies,Memphis Grizzlies,Los Angeles Clippers,15,40,55,1014685200.0,2002
+Memphis Grizzlies,Dallas Mavericks,Memphis Grizzlies,15,41,56,1014773400.0,2002
+Memphis Grizzlies,Utah Jazz,Memphis Grizzlies,15,42,57,1014948000.0,2002
+Memphis Grizzlies,Denver Nuggets,Memphis Grizzlies,15,43,58,1015034400.0,2002
+Memphis Grizzlies,Memphis Grizzlies,Seattle Supersonics,15,44,59,1015185600.0,2002
+Memphis Grizzlies,Atlanta Hawks,Memphis Grizzlies,15,45,60,1015288200.0,2002
+Memphis Grizzlies,Memphis Grizzlies,Indiana Pacers,16,45,61,1015549200.0,2002
+Memphis Grizzlies,Memphis Grizzlies,Miami Heat,16,46,62,1015722000.0,2002
+Memphis Grizzlies,Memphis Grizzlies,Utah Jazz,17,46,63,1015894800.0,2002
+Memphis Grizzlies,San Antonio Spurs,Memphis Grizzlies,17,47,64,1015983000.0,2002
+Memphis Grizzlies,Memphis Grizzlies,Boston Celtics,17,48,65,1016240400.0,2002
+Memphis Grizzlies,Memphis Grizzlies,New Jersey Nets,17,49,66,1016395200.0,2002
+Memphis Grizzlies,Memphis Grizzlies,New York Knicks,17,50,67,1016586000.0,2002
+Memphis Grizzlies,Memphis Grizzlies,Minnesota Timberwolves,17,51,68,1016758800.0,2002
+Memphis Grizzlies,Dallas Mavericks,Memphis Grizzlies,17,52,69,1016933400.0,2002
+Memphis Grizzlies,Portland Trail Blazers,Memphis Grizzlies,18,52,70,1017111600.0,2002
+Memphis Grizzlies,Seattle Supersonics,Memphis Grizzlies,18,53,71,1017284400.0,2002
+Memphis Grizzlies,Memphis Grizzlies,Golden State Warriors,19,53,72,1017536400.0,2002
+Memphis Grizzlies,Memphis Grizzlies,Sacramento Kings,19,54,73,1017795600.0,2002
+Memphis Grizzlies,Minnesota Timberwolves,Memphis Grizzlies,19,55,74,1017882000.0,2002
+Memphis Grizzlies,Memphis Grizzlies,Houston Rockets,20,55,75,1018054800.0,2002
+Memphis Grizzlies,Washington Wizards,Memphis Grizzlies,20,56,76,1018141200.0,2002
+Memphis Grizzlies,Memphis Grizzlies,Denver Nuggets,21,56,77,1018396800.0,2002
+Memphis Grizzlies,Memphis Grizzlies,Portland Trail Blazers,22,56,78,1018569600.0,2002
+Memphis Grizzlies,Memphis Grizzlies,San Antonio Spurs,22,57,79,1018742400.0,2002
+Memphis Grizzlies,Houston Rockets,Memphis Grizzlies,23,57,80,1018830600.0,2002
+Memphis Grizzlies,Los Angeles Clippers,Memphis Grizzlies,23,58,81,1019010600.0,2002
+Memphis Grizzlies,Seattle Supersonics,Memphis Grizzlies,23,59,82,1019095200.0,2002
+Miami Heat,Miami Heat,Toronto Raptors,1,0,1,1004576400.0,2002
+Miami Heat,Miami Heat,Cleveland Cavaliers,1,1,2,1004747400.0,2002
+Miami Heat,Atlanta Hawks,Miami Heat,1,2,3,1004832000.0,2002
+Miami Heat,Miami Heat,Seattle Supersonics,2,2,4,1005093000.0,2002
+Miami Heat,Milwaukee Bucks,Miami Heat,2,3,5,1005267600.0,2002
+Miami Heat,Miami Heat,Sacramento Kings,2,4,6,1005438600.0,2002
+Miami Heat,Miami Heat,Philadelphia 76ers,2,5,7,1005697800.0,2002
+Miami Heat,New York Knicks,Miami Heat,2,6,8,1005870600.0,2002
+Miami Heat,Miami Heat,Charlotte Hornets (Original),2,7,9,1005957000.0,2002
+Miami Heat,Miami Heat,Minnesota Timberwolves,2,8,10,1006304400.0,2002
+Miami Heat,Miami Heat,Dallas Mavericks,2,9,11,1006561800.0,2002
+Miami Heat,Cleveland Cavaliers,Miami Heat,2,10,12,1006648200.0,2002
+Miami Heat,Miami Heat,Boston Celtics,2,11,13,1006907400.0,2002
+Miami Heat,Chicago Bulls,Miami Heat,2,12,14,1007083800.0,2002
+Miami Heat,Miami Heat,Washington Wizards,2,13,15,1007166600.0,2002
+Miami Heat,Los Angeles Clippers,Miami Heat,2,14,16,1007523000.0,2002
+Miami Heat,Seattle Supersonics,Miami Heat,3,14,17,1007780400.0,2002
+Miami Heat,Sacramento Kings,Miami Heat,3,15,18,1007949600.0,2002
+Miami Heat,Miami Heat,Milwaukee Bucks,4,15,19,1008117000.0,2002
+Miami Heat,Washington Wizards,Miami Heat,4,16,20,1008205200.0,2002
+Miami Heat,Miami Heat,New Jersey Nets,4,17,21,1008376200.0,2002
+Miami Heat,Houston Rockets,Miami Heat,5,17,22,1008466200.0,2002
+Miami Heat,Miami Heat,Utah Jazz,5,18,23,1008721800.0,2002
+Miami Heat,Miami Heat,Cleveland Cavaliers,5,19,24,1008981000.0,2002
+Miami Heat,Toronto Raptors,Miami Heat,5,20,25,1009137600.0,2002
+Miami Heat,Atlanta Hawks,Miami Heat,5,21,26,1009499400.0,2002
+Miami Heat,Miami Heat,Memphis Grizzlies,5,22,27,1009585800.0,2002
+Miami Heat,Detroit Pistons,Miami Heat,5,23,28,1009753200.0,2002
+Miami Heat,Indiana Pacers,Miami Heat,6,23,29,1009843200.0,2002
+Miami Heat,Boston Celtics,Miami Heat,7,23,30,1010190600.0,2002
+Miami Heat,Miami Heat,Golden State Warriors,8,23,31,1010363400.0,2002
+Miami Heat,New Jersey Nets,Miami Heat,8,24,32,1010536200.0,2002
+Miami Heat,Miami Heat,Portland Trail Blazers,8,25,33,1010709000.0,2002
+Miami Heat,Phoenix Suns,Miami Heat,8,26,34,1010887200.0,2002
+Miami Heat,Golden State Warriors,Miami Heat,9,26,35,1011065400.0,2002
+Miami Heat,Los Angeles Lakers,Miami Heat,10,26,36,1011238200.0,2002
+Miami Heat,Portland Trail Blazers,Miami Heat,11,26,37,1011322800.0,2002
+Miami Heat,Miami Heat,Indiana Pacers,12,26,38,1011492000.0,2002
+Miami Heat,Cleveland Cavaliers,Miami Heat,13,26,39,1011657600.0,2002
+Miami Heat,Miami Heat,Chicago Bulls,14,26,40,1011745800.0,2002
+Miami Heat,Orlando Magic,Miami Heat,14,27,41,1011918600.0,2002
+Miami Heat,Miami Heat,New Jersey Nets,15,27,42,1012075200.0,2002
+Miami Heat,Utah Jazz,Miami Heat,15,28,43,1012269600.0,2002
+Miami Heat,Denver Nuggets,Miami Heat,16,28,44,1012356000.0,2002
+Miami Heat,Miami Heat,San Antonio Spurs,17,28,45,1012609800.0,2002
+Miami Heat,New York Knicks,Miami Heat,18,28,46,1012755600.0,2002
+Miami Heat,Miami Heat,Atlanta Hawks,18,29,47,1012955400.0,2002
+Miami Heat,Miami Heat,Orlando Magic,19,29,48,1013646600.0,2002
+Miami Heat,Milwaukee Bucks,Miami Heat,20,29,49,1013823000.0,2002
+Miami Heat,Minnesota Timberwolves,Miami Heat,20,30,50,1013977800.0,2002
+Miami Heat,Miami Heat,Chicago Bulls,21,30,51,1014078600.0,2002
+Miami Heat,Miami Heat,Los Angeles Clippers,21,31,52,1014251400.0,2002
+Miami Heat,Washington Wizards,Miami Heat,22,31,53,1014512400.0,2002
+Miami Heat,Miami Heat,Washington Wizards,23,31,54,1014597000.0,2002
+Miami Heat,Philadelphia 76ers,Miami Heat,23,32,55,1014854400.0,2002
+Miami Heat,Miami Heat,New York Knicks,24,32,56,1014944400.0,2002
+Miami Heat,Dallas Mavericks,Miami Heat,25,32,57,1015119000.0,2002
+Miami Heat,Detroit Pistons,Miami Heat,26,32,58,1015374600.0,2002
+Miami Heat,Chicago Bulls,Miami Heat,27,32,59,1015464600.0,2002
+Miami Heat,Miami Heat,Toronto Raptors,27,33,60,1015633800.0,2002
+Miami Heat,Memphis Grizzlies,Miami Heat,28,33,61,1015722000.0,2002
+Miami Heat,Miami Heat,Phoenix Suns,29,33,62,1015981200.0,2002
+Miami Heat,New Jersey Nets,Miami Heat,29,34,63,1016238600.0,2002
+Miami Heat,Miami Heat,Denver Nuggets,30,34,64,1016325000.0,2002
+Miami Heat,Miami Heat,Philadelphia 76ers,30,35,65,1016584200.0,2002
+Miami Heat,Philadelphia 76ers,Miami Heat,31,35,66,1016668800.0,2002
+Miami Heat,Miami Heat,Indiana Pacers,31,36,67,1016843400.0,2002
+Miami Heat,San Antonio Spurs,Miami Heat,31,37,68,1016933400.0,2002
+Miami Heat,Miami Heat,Boston Celtics,31,38,69,1017102600.0,2002
+Miami Heat,Toronto Raptors,Miami Heat,31,39,70,1017277200.0,2002
+Miami Heat,Miami Heat,Atlanta Hawks,32,39,71,1017448200.0,2002
+Miami Heat,Indiana Pacers,Miami Heat,32,40,72,1017604800.0,2002
+Miami Heat,Miami Heat,Detroit Pistons,32,41,73,1017793800.0,2002
+Miami Heat,Charlotte Hornets (Original),Miami Heat,32,42,74,1017878400.0,2002
+Miami Heat,Miami Heat,Milwaukee Bucks,33,42,75,1018053000.0,2002
+Miami Heat,Miami Heat,Los Angeles Lakers,33,43,76,1018215000.0,2002
+Miami Heat,Miami Heat,Houston Rockets,34,43,77,1018395000.0,2002
+Miami Heat,Boston Celtics,Miami Heat,34,44,78,1018483200.0,2002
+Miami Heat,Miami Heat,Orlando Magic,35,44,79,1018654200.0,2002
+Miami Heat,Miami Heat,New York Knicks,35,45,80,1018828800.0,2002
+Miami Heat,Miami Heat,Charlotte Hornets (Original),35,46,81,1018999800.0,2002
+Miami Heat,Orlando Magic,Miami Heat,36,46,82,1019086200.0,2002
+Milwaukee Bucks,Utah Jazz,Milwaukee Bucks,1,0,1,1004493600.0,2002
+Milwaukee Bucks,Denver Nuggets,Milwaukee Bucks,2,0,2,1004666400.0,2002
+Milwaukee Bucks,Milwaukee Bucks,Boston Celtics,3,0,3,1004837400.0,2002
+Milwaukee Bucks,Milwaukee Bucks,Miami Heat,4,0,4,1005267600.0,2002
+Milwaukee Bucks,Milwaukee Bucks,Minnesota Timberwolves,4,1,5,1005442200.0,2002
+Milwaukee Bucks,Washington Wizards,Milwaukee Bucks,5,1,6,1005782400.0,2002
+Milwaukee Bucks,Milwaukee Bucks,Utah Jazz,6,1,7,1006047000.0,2002
+Milwaukee Bucks,Milwaukee Bucks,Chicago Bulls,7,1,8,1006390800.0,2002
+Milwaukee Bucks,Toronto Raptors,Milwaukee Bucks,8,1,9,1006477200.0,2002
+Milwaukee Bucks,Milwaukee Bucks,Atlanta Hawks,9,1,10,1006653600.0,2002
+Milwaukee Bucks,Los Angeles Lakers,Milwaukee Bucks,9,2,11,1006918200.0,2002
+Milwaukee Bucks,Phoenix Suns,Milwaukee Bucks,9,3,12,1006999200.0,2002
+Milwaukee Bucks,Portland Trail Blazers,Milwaukee Bucks,9,4,13,1007175600.0,2002
+Milwaukee Bucks,Seattle Supersonics,Milwaukee Bucks,9,5,14,1007344800.0,2002
+Milwaukee Bucks,Milwaukee Bucks,New York Knicks,9,6,15,1007514000.0,2002
+Milwaukee Bucks,Milwaukee Bucks,Toronto Raptors,10,6,16,1007690400.0,2002
+Milwaukee Bucks,Milwaukee Bucks,New Jersey Nets,11,6,17,1007861400.0,2002
+Milwaukee Bucks,Miami Heat,Milwaukee Bucks,11,7,18,1008117000.0,2002
+Milwaukee Bucks,Philadelphia 76ers,Milwaukee Bucks,12,7,19,1008374400.0,2002
+Milwaukee Bucks,Milwaukee Bucks,Indiana Pacers,13,7,20,1008466200.0,2002
+Milwaukee Bucks,Memphis Grizzlies,Milwaukee Bucks,14,7,21,1008723600.0,2002
+Milwaukee Bucks,Dallas Mavericks,Milwaukee Bucks,14,8,22,1008898200.0,2002
+Milwaukee Bucks,Houston Rockets,Milwaukee Bucks,14,9,23,1009071000.0,2002
+Milwaukee Bucks,San Antonio Spurs,Milwaukee Bucks,15,9,24,1009152000.0,2002
+Milwaukee Bucks,Milwaukee Bucks,Atlanta Hawks,16,9,25,1009414800.0,2002
+Milwaukee Bucks,Charlotte Hornets (Original),Milwaukee Bucks,17,9,26,1009585800.0,2002
+Milwaukee Bucks,Milwaukee Bucks,San Antonio Spurs,18,9,27,1009675800.0,2002
+Milwaukee Bucks,Chicago Bulls,Milwaukee Bucks,18,10,28,1009830600.0,2002
+Milwaukee Bucks,Minnesota Timberwolves,Milwaukee Bucks,18,11,29,1010019600.0,2002
+Milwaukee Bucks,Los Angeles Clippers,Milwaukee Bucks,18,12,30,1010287800.0,2002
+Milwaukee Bucks,Sacramento Kings,Milwaukee Bucks,18,13,31,1010368800.0,2002
+Milwaukee Bucks,Golden State Warriors,Milwaukee Bucks,19,13,32,1010547000.0,2002
+Milwaukee Bucks,Milwaukee Bucks,Washington Wizards,20,13,33,1010799000.0,2002
+Milwaukee Bucks,New York Knicks,Milwaukee Bucks,21,13,34,1010881800.0,2002
+Milwaukee Bucks,Indiana Pacers,Milwaukee Bucks,22,13,35,1011139200.0,2002
+Milwaukee Bucks,Milwaukee Bucks,Indiana Pacers,23,13,36,1011229200.0,2002
+Milwaukee Bucks,Milwaukee Bucks,Orlando Magic,24,13,37,1011403800.0,2002
+Milwaukee Bucks,Atlanta Hawks,Milwaukee Bucks,25,13,38,1011484800.0,2002
+Milwaukee Bucks,Detroit Pistons,Milwaukee Bucks,26,13,39,1011643200.0,2002
+Milwaukee Bucks,Milwaukee Bucks,Phoenix Suns,26,14,40,1011747600.0,2002
+Milwaukee Bucks,Milwaukee Bucks,Seattle Supersonics,26,15,41,1011920400.0,2002
+Milwaukee Bucks,Milwaukee Bucks,New York Knicks,26,16,42,1012075200.0,2002
+Milwaukee Bucks,Milwaukee Bucks,Boston Celtics,27,16,43,1012352400.0,2002
+Milwaukee Bucks,New Jersey Nets,Milwaukee Bucks,27,17,44,1012523400.0,2002
+Milwaukee Bucks,Milwaukee Bucks,Philadelphia 76ers,27,18,45,1012689000.0,2002
+Milwaukee Bucks,Milwaukee Bucks,Memphis Grizzlies,28,18,46,1013130000.0,2002
+Milwaukee Bucks,Chicago Bulls,Milwaukee Bucks,28,19,47,1013563800.0,2002
+Milwaukee Bucks,Milwaukee Bucks,Cleveland Cavaliers,28,20,48,1013648400.0,2002
+Milwaukee Bucks,Milwaukee Bucks,Miami Heat,28,21,49,1013823000.0,2002
+Milwaukee Bucks,Toronto Raptors,Milwaukee Bucks,29,21,50,1013972400.0,2002
+Milwaukee Bucks,Milwaukee Bucks,Charlotte Hornets (Original),29,22,51,1014080400.0,2002
+Milwaukee Bucks,Milwaukee Bucks,Houston Rockets,30,22,52,1014253200.0,2002
+Milwaukee Bucks,Milwaukee Bucks,Golden State Warriors,31,22,53,1014427800.0,2002
+Milwaukee Bucks,Milwaukee Bucks,Detroit Pistons,32,22,54,1014580800.0,2002
+Milwaukee Bucks,Milwaukee Bucks,Los Angeles Lakers,32,23,55,1014771600.0,2002
+Milwaukee Bucks,Boston Celtics,Milwaukee Bucks,33,23,56,1014854400.0,2002
+Milwaukee Bucks,Milwaukee Bucks,Portland Trail Blazers,33,24,57,1015119000.0,2002
+Milwaukee Bucks,Cleveland Cavaliers,Milwaukee Bucks,34,24,58,1015200000.0,2002
+Milwaukee Bucks,New York Knicks,Milwaukee Bucks,34,25,59,1015374600.0,2002
+Milwaukee Bucks,Milwaukee Bucks,Los Angeles Clippers,35,25,60,1015462800.0,2002
+Milwaukee Bucks,Milwaukee Bucks,Cleveland Cavaliers,35,26,61,1015637400.0,2002
+Milwaukee Bucks,Milwaukee Bucks,Sacramento Kings,35,27,62,1015790400.0,2002
+Milwaukee Bucks,Milwaukee Bucks,Chicago Bulls,36,27,63,1015981200.0,2002
+Milwaukee Bucks,Milwaukee Bucks,Detroit Pistons,36,28,64,1016328600.0,2002
+Milwaukee Bucks,Charlotte Hornets (Original),Milwaukee Bucks,36,29,65,1016496000.0,2002
+Milwaukee Bucks,Orlando Magic,Milwaukee Bucks,36,30,66,1016586000.0,2002
+Milwaukee Bucks,New Jersey Nets,Milwaukee Bucks,36,31,67,1016843400.0,2002
+Milwaukee Bucks,Milwaukee Bucks,Orlando Magic,37,31,68,1017000000.0,2002
+Milwaukee Bucks,Milwaukee Bucks,Dallas Mavericks,37,32,69,1017190800.0,2002
+Milwaukee Bucks,Milwaukee Bucks,Denver Nuggets,38,32,70,1017363600.0,2002
+Milwaukee Bucks,Washington Wizards,Milwaukee Bucks,38,33,71,1017446400.0,2002
+Milwaukee Bucks,Boston Celtics,Milwaukee Bucks,38,34,72,1017595800.0,2002
+Milwaukee Bucks,Atlanta Hawks,Milwaukee Bucks,38,35,73,1017793800.0,2002
+Milwaukee Bucks,Milwaukee Bucks,Washington Wizards,39,35,74,1017882000.0,2002
+Milwaukee Bucks,Miami Heat,Milwaukee Bucks,39,36,75,1018053000.0,2002
+Milwaukee Bucks,Philadelphia 76ers,Milwaukee Bucks,39,37,76,1018197000.0,2002
+Milwaukee Bucks,Milwaukee Bucks,Philadelphia 76ers,39,38,77,1018396800.0,2002
+Milwaukee Bucks,Cleveland Cavaliers,Milwaukee Bucks,39,39,78,1018479600.0,2002
+Milwaukee Bucks,Indiana Pacers,Milwaukee Bucks,39,40,79,1018656000.0,2002
+Milwaukee Bucks,Milwaukee Bucks,Charlotte Hornets (Original),40,40,80,1018810800.0,2002
+Milwaukee Bucks,Milwaukee Bucks,Toronto Raptors,41,40,81,1019001600.0,2002
+Milwaukee Bucks,Detroit Pistons,Milwaukee Bucks,41,41,82,1019086200.0,2002
+Minnesota Timberwolves,Minnesota Timberwolves,Philadelphia 76ers,1,0,1,1004490000.0,2002
+Minnesota Timberwolves,Minnesota Timberwolves,Memphis Grizzlies,2,0,2,1004749200.0,2002
+Minnesota Timberwolves,Houston Rockets,Minnesota Timberwolves,3,0,3,1004837400.0,2002
+Minnesota Timberwolves,Minnesota Timberwolves,New York Knicks,4,0,4,1005094800.0,2002
+Minnesota Timberwolves,Minnesota Timberwolves,Chicago Bulls,5,0,5,1005267600.0,2002
+Minnesota Timberwolves,Milwaukee Bucks,Minnesota Timberwolves,6,0,6,1005442200.0,2002
+Minnesota Timberwolves,Minnesota Timberwolves,Cleveland Cavaliers,6,1,7,1005699600.0,2002
+Minnesota Timberwolves,Indiana Pacers,Minnesota Timberwolves,7,1,8,1005955200.0,2002
+Minnesota Timberwolves,Minnesota Timberwolves,Orlando Magic,8,1,9,1006045200.0,2002
+Minnesota Timberwolves,Miami Heat,Minnesota Timberwolves,9,1,10,1006304400.0,2002
+Minnesota Timberwolves,Orlando Magic,Minnesota Timberwolves,9,2,11,1006389000.0,2002
+Minnesota Timberwolves,Minnesota Timberwolves,San Antonio Spurs,10,2,12,1006650000.0,2002
+Minnesota Timberwolves,Seattle Supersonics,Minnesota Timberwolves,10,3,13,1006916400.0,2002
+Minnesota Timberwolves,Los Angeles Clippers,Minnesota Timberwolves,10,4,14,1007004600.0,2002
+Minnesota Timberwolves,Los Angeles Lakers,Minnesota Timberwolves,10,5,15,1007263800.0,2002
+Minnesota Timberwolves,Minnesota Timberwolves,Seattle Supersonics,11,5,16,1007514000.0,2002
+Minnesota Timberwolves,Memphis Grizzlies,Minnesota Timberwolves,12,5,17,1007686800.0,2002
+Minnesota Timberwolves,Minnesota Timberwolves,Houston Rockets,13,5,18,1007859600.0,2002
+Minnesota Timberwolves,Minnesota Timberwolves,Golden State Warriors,14,5,19,1008118800.0,2002
+Minnesota Timberwolves,Utah Jazz,Minnesota Timberwolves,15,5,20,1008208800.0,2002
+Minnesota Timberwolves,Minnesota Timberwolves,Sacramento Kings,16,5,21,1008378000.0,2002
+Minnesota Timberwolves,Dallas Mavericks,Minnesota Timberwolves,16,6,22,1008466200.0,2002
+Minnesota Timberwolves,Minnesota Timberwolves,Dallas Mavericks,16,7,23,1008723600.0,2002
+Minnesota Timberwolves,New Jersey Nets,Minnesota Timberwolves,16,8,24,1008808200.0,2002
+Minnesota Timberwolves,Minnesota Timberwolves,Charlotte Hornets (Original),17,8,25,1008982800.0,2002
+Minnesota Timberwolves,Chicago Bulls,Minnesota Timberwolves,18,8,26,1009071000.0,2002
+Minnesota Timberwolves,Denver Nuggets,Minnesota Timberwolves,19,8,27,1009418400.0,2002
+Minnesota Timberwolves,Sacramento Kings,Minnesota Timberwolves,19,9,28,1009594800.0,2002
+Minnesota Timberwolves,Portland Trail Blazers,Minnesota Timberwolves,20,9,29,1009767600.0,2002
+Minnesota Timberwolves,Minnesota Timberwolves,Milwaukee Bucks,21,9,30,1010019600.0,2002
+Minnesota Timberwolves,Minnesota Timberwolves,Utah Jazz,22,9,31,1010192400.0,2002
+Minnesota Timberwolves,Atlanta Hawks,Minnesota Timberwolves,23,9,32,1010275200.0,2002
+Minnesota Timberwolves,Minnesota Timberwolves,Detroit Pistons,24,9,33,1010451600.0,2002
+Minnesota Timberwolves,Minnesota Timberwolves,Seattle Supersonics,25,9,34,1010624400.0,2002
+Minnesota Timberwolves,Minnesota Timberwolves,Los Angeles Lakers,26,9,35,1010797200.0,2002
+Minnesota Timberwolves,Washington Wizards,Minnesota Timberwolves,27,9,36,1010880000.0,2002
+Minnesota Timberwolves,Minnesota Timberwolves,Los Angeles Clippers,28,9,37,1011142800.0,2002
+Minnesota Timberwolves,Phoenix Suns,Minnesota Timberwolves,28,10,38,1011405600.0,2002
+Minnesota Timberwolves,Golden State Warriors,Minnesota Timberwolves,29,10,39,1011497400.0,2002
+Minnesota Timberwolves,Minnesota Timberwolves,Washington Wizards,30,10,40,1011654000.0,2002
+Minnesota Timberwolves,Detroit Pistons,Minnesota Timberwolves,30,11,41,1011832200.0,2002
+Minnesota Timberwolves,Toronto Raptors,Minnesota Timberwolves,30,12,42,1012003200.0,2002
+Minnesota Timberwolves,Minnesota Timberwolves,Atlanta Hawks,31,12,43,1012093200.0,2002
+Minnesota Timberwolves,Cleveland Cavaliers,Minnesota Timberwolves,31,13,44,1012348800.0,2002
+Minnesota Timberwolves,Philadelphia 76ers,Minnesota Timberwolves,31,14,45,1012435200.0,2002
+Minnesota Timberwolves,Boston Celtics,Minnesota Timberwolves,32,14,46,1012609800.0,2002
+Minnesota Timberwolves,Minnesota Timberwolves,Sacramento Kings,32,15,47,1012764600.0,2002
+Minnesota Timberwolves,San Antonio Spurs,Minnesota Timberwolves,32,16,48,1012872600.0,2002
+Minnesota Timberwolves,Minnesota Timberwolves,Portland Trail Blazers,33,16,49,1013043600.0,2002
+Minnesota Timberwolves,Minnesota Timberwolves,Phoenix Suns,34,16,50,1013648400.0,2002
+Minnesota Timberwolves,Minnesota Timberwolves,Denver Nuggets,34,17,51,1013821200.0,2002
+Minnesota Timberwolves,Minnesota Timberwolves,Miami Heat,35,17,52,1013977800.0,2002
+Minnesota Timberwolves,Dallas Mavericks,Minnesota Timberwolves,36,17,53,1014166800.0,2002
+Minnesota Timberwolves,Houston Rockets,Minnesota Timberwolves,36,18,54,1014341400.0,2002
+Minnesota Timberwolves,San Antonio Spurs,Minnesota Timberwolves,37,18,55,1014514200.0,2002
+Minnesota Timberwolves,Charlotte Hornets (Original),Minnesota Timberwolves,38,18,56,1014681600.0,2002
+Minnesota Timberwolves,Minnesota Timberwolves,Los Angeles Lakers,39,18,57,1014858000.0,2002
+Minnesota Timberwolves,Minnesota Timberwolves,San Antonio Spurs,39,19,58,1015030800.0,2002
+Minnesota Timberwolves,Utah Jazz,Minnesota Timberwolves,40,19,59,1015120800.0,2002
+Minnesota Timberwolves,Seattle Supersonics,Minnesota Timberwolves,40,20,60,1015385400.0,2002
+Minnesota Timberwolves,Portland Trail Blazers,Minnesota Timberwolves,40,21,61,1015470000.0,2002
+Minnesota Timberwolves,Phoenix Suns,Minnesota Timberwolves,40,22,62,1015639200.0,2002
+Minnesota Timberwolves,Minnesota Timberwolves,Los Angeles Clippers,40,23,63,1015894800.0,2002
+Minnesota Timberwolves,Minnesota Timberwolves,Houston Rockets,40,24,64,1016067600.0,2002
+Minnesota Timberwolves,Minnesota Timberwolves,Indiana Pacers,40,25,65,1016240400.0,2002
+Minnesota Timberwolves,Minnesota Timberwolves,Utah Jazz,40,26,66,1016397000.0,2002
+Minnesota Timberwolves,Minnesota Timberwolves,Toronto Raptors,41,26,67,1016586000.0,2002
+Minnesota Timberwolves,Memphis Grizzlies,Minnesota Timberwolves,42,26,68,1016758800.0,2002
+Minnesota Timberwolves,Minnesota Timberwolves,Portland Trail Blazers,42,27,69,1016931600.0,2002
+Minnesota Timberwolves,Minnesota Timberwolves,Golden State Warriors,42,28,70,1017190800.0,2002
+Minnesota Timberwolves,Minnesota Timberwolves,Dallas Mavericks,43,28,71,1017363600.0,2002
+Minnesota Timberwolves,New York Knicks,Minnesota Timberwolves,44,28,72,1017448200.0,2002
+Minnesota Timberwolves,Minnesota Timberwolves,New Jersey Nets,45,28,73,1017606600.0,2002
+Minnesota Timberwolves,Minnesota Timberwolves,Memphis Grizzlies,46,28,74,1017882000.0,2002
+Minnesota Timberwolves,Denver Nuggets,Minnesota Timberwolves,46,29,75,1017972000.0,2002
+Minnesota Timberwolves,Minnesota Timberwolves,Phoenix Suns,47,29,76,1018141200.0,2002
+Minnesota Timberwolves,Golden State Warriors,Minnesota Timberwolves,48,29,77,1018319400.0,2002
+Minnesota Timberwolves,Sacramento Kings,Minnesota Timberwolves,48,30,78,1018405800.0,2002
+Minnesota Timberwolves,Los Angeles Lakers,Minnesota Timberwolves,48,31,79,1018578600.0,2002
+Minnesota Timberwolves,Los Angeles Clippers,Minnesota Timberwolves,49,31,80,1018751400.0,2002
+Minnesota Timberwolves,Minnesota Timberwolves,Boston Celtics,49,32,81,1018915200.0,2002
+Minnesota Timberwolves,Minnesota Timberwolves,Denver Nuggets,50,32,82,1019088000.0,2002
+New Jersey Nets,New Jersey Nets,Indiana Pacers,1,0,1,1004488200.0,2002
+New Jersey Nets,Boston Celtics,New Jersey Nets,2,0,2,1004572800.0,2002
+New Jersey Nets,Detroit Pistons,New Jersey Nets,2,1,3,1004749200.0,2002
+New Jersey Nets,New Jersey Nets,Charlotte Hornets (Original),3,1,4,1004835600.0,2002
+New Jersey Nets,New Jersey Nets,Seattle Supersonics,4,1,5,1005265800.0,2002
+New Jersey Nets,New Jersey Nets,Cleveland Cavaliers,5,1,6,1005415200.0,2002
+New Jersey Nets,Indiana Pacers,New Jersey Nets,6,1,7,1005696000.0,2002
+New Jersey Nets,New Jersey Nets,New York Knicks,7,1,8,1005957000.0,2002
+New Jersey Nets,New Jersey Nets,Philadelphia 76ers,7,2,9,1006045200.0,2002
+New Jersey Nets,Denver Nuggets,New Jersey Nets,7,3,10,1006221600.0,2002
+New Jersey Nets,Utah Jazz,New Jersey Nets,8,3,11,1006394400.0,2002
+New Jersey Nets,Los Angeles Clippers,New Jersey Nets,9,3,12,1006486200.0,2002
+New Jersey Nets,Sacramento Kings,New Jersey Nets,9,4,13,1006657200.0,2002
+New Jersey Nets,Golden State Warriors,New Jersey Nets,9,5,14,1006740000.0,2002
+New Jersey Nets,New Jersey Nets,Chicago Bulls,10,5,15,1006907400.0,2002
+New Jersey Nets,New Jersey Nets,Boston Celtics,10,6,16,1007229600.0,2002
+New Jersey Nets,New Jersey Nets,Phoenix Suns,11,6,17,1007600400.0,2002
+New Jersey Nets,New Jersey Nets,Cleveland Cavaliers,12,6,18,1007771400.0,2002
+New Jersey Nets,Milwaukee Bucks,New Jersey Nets,12,7,19,1007861400.0,2002
+New Jersey Nets,Chicago Bulls,New Jersey Nets,13,7,20,1008120600.0,2002
+New Jersey Nets,Miami Heat,New Jersey Nets,14,7,21,1008376200.0,2002
+New Jersey Nets,New York Knicks,New Jersey Nets,15,7,22,1008547200.0,2002
+New Jersey Nets,New Jersey Nets,Minnesota Timberwolves,16,7,23,1008808200.0,2002
+New Jersey Nets,Indiana Pacers,New Jersey Nets,16,8,24,1008979200.0,2002
+New Jersey Nets,New Jersey Nets,Utah Jazz,16,9,25,1009069200.0,2002
+New Jersey Nets,Cleveland Cavaliers,New Jersey Nets,17,9,26,1009411200.0,2002
+New Jersey Nets,Detroit Pistons,New Jersey Nets,18,9,27,1009499400.0,2002
+New Jersey Nets,New Jersey Nets,Indiana Pacers,19,9,28,1009672200.0,2002
+New Jersey Nets,Washington Wizards,New Jersey Nets,19,10,29,1009848600.0,2002
+New Jersey Nets,New Jersey Nets,Memphis Grizzlies,20,10,30,1010017800.0,2002
+New Jersey Nets,New Jersey Nets,Orlando Magic,20,11,31,1010190600.0,2002
+New Jersey Nets,Charlotte Hornets (Original),New Jersey Nets,21,11,32,1010277000.0,2002
+New Jersey Nets,New Jersey Nets,Miami Heat,22,11,33,1010536200.0,2002
+New Jersey Nets,New Jersey Nets,Los Angeles Clippers,23,11,34,1010709000.0,2002
+New Jersey Nets,Orlando Magic,New Jersey Nets,24,11,35,1010881800.0,2002
+New Jersey Nets,New Jersey Nets,San Antonio Spurs,25,11,36,1011054600.0,2002
+New Jersey Nets,New Jersey Nets,Washington Wizards,26,11,37,1011227400.0,2002
+New Jersey Nets,Toronto Raptors,New Jersey Nets,26,12,38,1011398400.0,2002
+New Jersey Nets,New Jersey Nets,Houston Rockets,27,12,39,1011488400.0,2002
+New Jersey Nets,Dallas Mavericks,New Jersey Nets,27,13,40,1011643200.0,2002
+New Jersey Nets,San Antonio Spurs,New Jersey Nets,28,13,41,1011749400.0,2002
+New Jersey Nets,Houston Rockets,New Jersey Nets,29,13,42,1011922200.0,2002
+New Jersey Nets,Miami Heat,New Jersey Nets,29,14,43,1012075200.0,2002
+New Jersey Nets,New Jersey Nets,Milwaukee Bucks,30,14,44,1012523400.0,2002
+New Jersey Nets,New Jersey Nets,Toronto Raptors,31,14,45,1012671000.0,2002
+New Jersey Nets,New Jersey Nets,Sacramento Kings,32,14,46,1012869000.0,2002
+New Jersey Nets,New Jersey Nets,Dallas Mavericks,32,15,47,1013041800.0,2002
+New Jersey Nets,Atlanta Hawks,New Jersey Nets,32,16,48,1013560200.0,2002
+New Jersey Nets,New Jersey Nets,Detroit Pistons,32,17,49,1013733000.0,2002
+New Jersey Nets,Chicago Bulls,New Jersey Nets,33,17,50,1013823000.0,2002
+New Jersey Nets,New Jersey Nets,Denver Nuggets,34,17,51,1013968800.0,2002
+New Jersey Nets,New Jersey Nets,Golden State Warriors,35,17,52,1014165000.0,2002
+New Jersey Nets,Washington Wizards,New Jersey Nets,36,17,53,1014336000.0,2002
+New Jersey Nets,New Jersey Nets,New York Knicks,37,17,54,1014424200.0,2002
+New Jersey Nets,New Jersey Nets,Charlotte Hornets (Original),38,17,55,1014580800.0,2002
+New Jersey Nets,Charlotte Hornets (Original),New Jersey Nets,38,18,56,1014854400.0,2002
+New Jersey Nets,Philadelphia 76ers,New Jersey Nets,38,19,57,1015027200.0,2002
+New Jersey Nets,New Jersey Nets,Chicago Bulls,39,19,58,1015185600.0,2002
+New Jersey Nets,Los Angeles Lakers,New Jersey Nets,39,20,59,1015385400.0,2002
+New Jersey Nets,Phoenix Suns,New Jersey Nets,39,21,60,1015466400.0,2002
+New Jersey Nets,Portland Trail Blazers,New Jersey Nets,39,22,61,1015642800.0,2002
+New Jersey Nets,Seattle Supersonics,New Jersey Nets,39,23,62,1015729200.0,2002
+New Jersey Nets,New Jersey Nets,Toronto Raptors,40,23,63,1015981200.0,2002
+New Jersey Nets,Boston Celtics,New Jersey Nets,40,24,64,1016064000.0,2002
+New Jersey Nets,New Jersey Nets,Miami Heat,41,24,65,1016238600.0,2002
+New Jersey Nets,Memphis Grizzlies,New Jersey Nets,42,24,66,1016395200.0,2002
+New Jersey Nets,Cleveland Cavaliers,New Jersey Nets,42,25,67,1016582400.0,2002
+New Jersey Nets,New Jersey Nets,Portland Trail Blazers,43,25,68,1016670600.0,2002
+New Jersey Nets,New Jersey Nets,Milwaukee Bucks,44,25,69,1016843400.0,2002
+New Jersey Nets,New Jersey Nets,Atlanta Hawks,45,25,70,1017010800.0,2002
+New Jersey Nets,Atlanta Hawks,New Jersey Nets,45,26,71,1017189000.0,2002
+New Jersey Nets,Philadelphia 76ers,New Jersey Nets,46,26,72,1017277200.0,2002
+New Jersey Nets,New Jersey Nets,Philadelphia 76ers,47,26,73,1017511200.0,2002
+New Jersey Nets,Minnesota Timberwolves,New Jersey Nets,47,27,74,1017606600.0,2002
+New Jersey Nets,New Jersey Nets,Los Angeles Lakers,48,27,75,1017882000.0,2002
+New Jersey Nets,New Jersey Nets,Orlando Magic,49,27,76,1018053000.0,2002
+New Jersey Nets,New Jersey Nets,Boston Celtics,49,28,77,1018224000.0,2002
+New Jersey Nets,New Jersey Nets,Washington Wizards,50,28,78,1018395000.0,2002
+New Jersey Nets,Orlando Magic,New Jersey Nets,51,28,79,1018569600.0,2002
+New Jersey Nets,Toronto Raptors,New Jersey Nets,51,29,80,1018819800.0,2002
+New Jersey Nets,New Jersey Nets,Detroit Pistons,51,30,81,1019001600.0,2002
+New Jersey Nets,New York Knicks,New Jersey Nets,52,30,82,1019086200.0,2002
+New York Knicks,New York Knicks,Washington Wizards,1,0,1,1004488200.0,2002
+New York Knicks,Charlotte Hornets (Original),New York Knicks,1,1,2,1004747400.0,2002
+New York Knicks,Chicago Bulls,New York Knicks,1,2,3,1004837400.0,2002
+New York Knicks,Minnesota Timberwolves,New York Knicks,1,3,4,1005094800.0,2002
+New York Knicks,New York Knicks,Cleveland Cavaliers,2,3,5,1005179400.0,2002
+New York Knicks,Indiana Pacers,New York Knicks,2,4,6,1005350400.0,2002
+New York Knicks,New York Knicks,Golden State Warriors,2,5,7,1005438600.0,2002
+New York Knicks,New York Knicks,Portland Trail Blazers,3,5,8,1005697800.0,2002
+New York Knicks,New York Knicks,Miami Heat,4,5,9,1005870600.0,2002
+New York Knicks,New Jersey Nets,New York Knicks,4,6,10,1005957000.0,2002
+New York Knicks,Los Angeles Clippers,New York Knicks,4,7,11,1006115400.0,2002
+New York Knicks,Golden State Warriors,New York Knicks,5,7,12,1006313400.0,2002
+New York Knicks,Phoenix Suns,New York Knicks,5,8,13,1006394400.0,2002
+New York Knicks,New York Knicks,Chicago Bulls,6,8,14,1006624800.0,2002
+New York Knicks,New York Knicks,Atlanta Hawks,7,8,15,1006821000.0,2002
+New York Knicks,Atlanta Hawks,New York Knicks,8,8,16,1006993800.0,2002
+New York Knicks,New York Knicks,Detroit Pistons,8,9,17,1007254800.0,2002
+New York Knicks,New York Knicks,Houston Rockets,9,9,18,1007425800.0,2002
+New York Knicks,Milwaukee Bucks,New York Knicks,10,9,19,1007514000.0,2002
+New York Knicks,New York Knicks,Indiana Pacers,11,9,20,1007857800.0,2002
+New York Knicks,New York Knicks,Boston Celtics,11,10,21,1008117000.0,2002
+New York Knicks,Detroit Pistons,New York Knicks,11,11,22,1008289800.0,2002
+New York Knicks,Washington Wizards,New York Knicks,11,12,23,1008374400.0,2002
+New York Knicks,New York Knicks,New Jersey Nets,11,13,24,1008547200.0,2002
+New York Knicks,Charlotte Hornets (Original),New York Knicks,12,13,25,1008720000.0,2002
+New York Knicks,New York Knicks,Memphis Grizzlies,12,14,26,1008894600.0,2002
+New York Knicks,New York Knicks,Washington Wizards,12,15,27,1009067400.0,2002
+New York Knicks,New York Knicks,Toronto Raptors,13,15,28,1009321200.0,2002
+New York Knicks,Cleveland Cavaliers,New York Knicks,13,16,29,1009585800.0,2002
+New York Knicks,New York Knicks,Orlando Magic,13,17,30,1009756800.0,2002
+New York Knicks,New York Knicks,Dallas Mavericks,14,17,31,1010104200.0,2002
+New York Knicks,New York Knicks,Boston Celtics,14,18,32,1010277000.0,2002
+New York Knicks,San Antonio Spurs,New York Knicks,14,19,33,1010453400.0,2002
+New York Knicks,Houston Rockets,New York Knicks,14,20,34,1010539800.0,2002
+New York Knicks,Dallas Mavericks,New York Knicks,14,21,35,1010714400.0,2002
+New York Knicks,New York Knicks,Milwaukee Bucks,14,22,36,1010881800.0,2002
+New York Knicks,Boston Celtics,New York Knicks,14,23,37,1011225600.0,2002
+New York Knicks,Philadelphia 76ers,New York Knicks,14,24,38,1011474000.0,2002
+New York Knicks,New York Knicks,Charlotte Hornets (Original),14,25,39,1011636000.0,2002
+New York Knicks,Toronto Raptors,New York Knicks,15,25,40,1011834000.0,2002
+New York Knicks,New York Knicks,Phoenix Suns,16,25,41,1011918600.0,2002
+New York Knicks,Milwaukee Bucks,New York Knicks,17,25,42,1012075200.0,2002
+New York Knicks,New York Knicks,Philadelphia 76ers,18,25,43,1012350600.0,2002
+New York Knicks,Indiana Pacers,New York Knicks,18,26,44,1012608000.0,2002
+New York Knicks,New York Knicks,Miami Heat,18,27,45,1012755600.0,2002
+New York Knicks,New York Knicks,Los Angeles Clippers,18,28,46,1012955400.0,2002
+New York Knicks,New York Knicks,Atlanta Hawks,19,28,47,1013128200.0,2002
+New York Knicks,Orlando Magic,New York Knicks,19,29,48,1013562000.0,2002
+New York Knicks,New York Knicks,Toronto Raptors,20,29,49,1013646600.0,2002
+New York Knicks,New York Knicks,Detroit Pistons,20,30,50,1013819400.0,2002
+New York Knicks,New York Knicks,Utah Jazz,20,31,51,1013990400.0,2002
+New York Knicks,Chicago Bulls,New York Knicks,20,32,52,1014255000.0,2002
+New York Knicks,New Jersey Nets,New York Knicks,20,33,53,1014424200.0,2002
+New York Knicks,New York Knicks,Los Angeles Lakers,20,34,54,1014570000.0,2002
+New York Knicks,Miami Heat,New York Knicks,20,35,55,1014944400.0,2002
+New York Knicks,New York Knicks,Seattle Supersonics,21,35,56,1015029000.0,2002
+New York Knicks,New York Knicks,San Antonio Spurs,21,36,57,1015176600.0,2002
+New York Knicks,New York Knicks,Milwaukee Bucks,22,36,58,1015374600.0,2002
+New York Knicks,Denver Nuggets,New York Knicks,22,37,59,1015552800.0,2002
+New York Knicks,Utah Jazz,New York Knicks,23,37,60,1015639200.0,2002
+New York Knicks,Los Angeles Lakers,New York Knicks,23,38,61,1015801200.0,2002
+New York Knicks,New York Knicks,Philadelphia 76ers,23,39,62,1015979400.0,2002
+New York Knicks,New York Knicks,Sacramento Kings,24,39,63,1016152200.0,2002
+New York Knicks,New York Knicks,Cleveland Cavaliers,25,39,64,1016325000.0,2002
+New York Knicks,Cleveland Cavaliers,New York Knicks,25,40,65,1016409600.0,2002
+New York Knicks,Memphis Grizzlies,New York Knicks,26,40,66,1016586000.0,2002
+New York Knicks,Atlanta Hawks,New York Knicks,26,41,67,1016757000.0,2002
+New York Knicks,Philadelphia 76ers,New York Knicks,26,42,68,1017003600.0,2002
+New York Knicks,New York Knicks,Denver Nuggets,26,43,69,1017102600.0,2002
+New York Knicks,Detroit Pistons,New York Knicks,27,43,70,1017275400.0,2002
+New York Knicks,New York Knicks,Minnesota Timberwolves,27,44,71,1017448200.0,2002
+New York Knicks,Orlando Magic,New York Knicks,27,45,72,1017604800.0,2002
+New York Knicks,New York Knicks,Charlotte Hornets (Original),28,45,73,1017795600.0,2002
+New York Knicks,Portland Trail Blazers,New York Knicks,28,46,74,1017975600.0,2002
+New York Knicks,Seattle Supersonics,New York Knicks,29,46,75,1018062000.0,2002
+New York Knicks,Sacramento Kings,New York Knicks,29,47,76,1018216800.0,2002
+New York Knicks,New York Knicks,Orlando Magic,29,48,77,1018395000.0,2002
+New York Knicks,New York Knicks,Chicago Bulls,29,49,78,1018567800.0,2002
+New York Knicks,Boston Celtics,New York Knicks,29,50,79,1018654200.0,2002
+New York Knicks,Miami Heat,New York Knicks,30,50,80,1018828800.0,2002
+New York Knicks,Washington Wizards,New York Knicks,30,51,81,1018998000.0,2002
+New York Knicks,New York Knicks,New Jersey Nets,30,52,82,1019086200.0,2002
+Orlando Magic,Orlando Magic,Toronto Raptors,1,0,1,1004488200.0,2002
+Orlando Magic,Indiana Pacers,Orlando Magic,1,1,2,1004745600.0,2002
+Orlando Magic,Cleveland Cavaliers,Orlando Magic,2,1,3,1004837400.0,2002
+Orlando Magic,Orlando Magic,Seattle Supersonics,2,2,4,1005006600.0,2002
+Orlando Magic,San Antonio Spurs,Orlando Magic,2,3,5,1005094800.0,2002
+Orlando Magic,Orlando Magic,Sacramento Kings,3,3,6,1005352200.0,2002
+Orlando Magic,Los Angeles Lakers,Orlando Magic,3,4,7,1005532200.0,2002
+Orlando Magic,Utah Jazz,Orlando Magic,3,5,8,1005616800.0,2002
+Orlando Magic,Phoenix Suns,Orlando Magic,4,5,9,1005786000.0,2002
+Orlando Magic,Denver Nuggets,Orlando Magic,5,5,10,1005876000.0,2002
+Orlando Magic,Minnesota Timberwolves,Orlando Magic,5,6,11,1006045200.0,2002
+Orlando Magic,Orlando Magic,Minnesota Timberwolves,6,6,12,1006389000.0,2002
+Orlando Magic,Charlotte Hornets (Original),Orlando Magic,7,6,13,1006561800.0,2002
+Orlando Magic,Orlando Magic,Charlotte Hornets (Original),7,7,14,1006648200.0,2002
+Orlando Magic,Orlando Magic,Detroit Pistons,7,8,15,1006821000.0,2002
+Orlando Magic,Orlando Magic,Boston Celtics,7,9,16,1007080200.0,2002
+Orlando Magic,Washington Wizards,Orlando Magic,8,9,17,1007249400.0,2002
+Orlando Magic,Orlando Magic,Memphis Grizzlies,9,9,18,1007425800.0,2002
+Orlando Magic,Orlando Magic,Chicago Bulls,10,9,19,1007598600.0,2002
+Orlando Magic,Orlando Magic,Atlanta Hawks,11,9,20,1007771400.0,2002
+Orlando Magic,Atlanta Hawks,Orlando Magic,11,10,21,1007856000.0,2002
+Orlando Magic,Los Angeles Clippers,Orlando Magic,11,11,22,1008041400.0,2002
+Orlando Magic,Sacramento Kings,Orlando Magic,11,12,23,1008126000.0,2002
+Orlando Magic,Golden State Warriors,Orlando Magic,12,12,24,1008295200.0,2002
+Orlando Magic,Portland Trail Blazers,Orlando Magic,12,13,25,1008471600.0,2002
+Orlando Magic,Seattle Supersonics,Orlando Magic,12,14,26,1008554400.0,2002
+Orlando Magic,Orlando Magic,Utah Jazz,13,14,27,1008808200.0,2002
+Orlando Magic,Orlando Magic,Washington Wizards,13,15,28,1008981000.0,2002
+Orlando Magic,Dallas Mavericks,Orlando Magic,13,16,29,1009071000.0,2002
+Orlando Magic,Orlando Magic,Indiana Pacers,13,17,30,1009414800.0,2002
+Orlando Magic,Orlando Magic,Detroit Pistons,14,17,31,1009585800.0,2002
+Orlando Magic,New York Knicks,Orlando Magic,15,17,32,1009756800.0,2002
+Orlando Magic,Boston Celtics,Orlando Magic,15,18,33,1010016000.0,2002
+Orlando Magic,New Jersey Nets,Orlando Magic,16,18,34,1010190600.0,2002
+Orlando Magic,Orlando Magic,Golden State Warriors,17,18,35,1010277000.0,2002
+Orlando Magic,Orlando Magic,Boston Celtics,18,18,36,1010449800.0,2002
+Orlando Magic,Philadelphia 76ers,Orlando Magic,19,18,37,1010624400.0,2002
+Orlando Magic,Orlando Magic,Portland Trail Blazers,19,19,38,1010795400.0,2002
+Orlando Magic,Orlando Magic,New Jersey Nets,19,20,39,1010881800.0,2002
+Orlando Magic,Orlando Magic,Dallas Mavericks,20,20,40,1011054600.0,2002
+Orlando Magic,Milwaukee Bucks,Orlando Magic,20,21,41,1011403800.0,2002
+Orlando Magic,Memphis Grizzlies,Orlando Magic,21,21,42,1011492000.0,2002
+Orlando Magic,Orlando Magic,Atlanta Hawks,22,21,43,1011745800.0,2002
+Orlando Magic,Orlando Magic,Miami Heat,23,21,44,1011918600.0,2002
+Orlando Magic,Toronto Raptors,Orlando Magic,23,22,45,1012159800.0,2002
+Orlando Magic,Orlando Magic,Los Angeles Lakers,23,23,46,1012438800.0,2002
+Orlando Magic,Detroit Pistons,Orlando Magic,24,23,47,1012611600.0,2002
+Orlando Magic,Orlando Magic,San Antonio Spurs,24,24,48,1012755600.0,2002
+Orlando Magic,Orlando Magic,Cleveland Cavaliers,25,24,49,1012955400.0,2002
+Orlando Magic,Orlando Magic,New York Knicks,26,24,50,1013562000.0,2002
+Orlando Magic,Miami Heat,Orlando Magic,26,25,51,1013646600.0,2002
+Orlando Magic,Houston Rockets,Orlando Magic,27,25,52,1013909400.0,2002
+Orlando Magic,Orlando Magic,Los Angeles Clippers,28,25,53,1014337800.0,2002
+Orlando Magic,Orlando Magic,Philadelphia 76ers,29,25,54,1014503400.0,2002
+Orlando Magic,Cleveland Cavaliers,Orlando Magic,29,26,55,1014595200.0,2002
+Orlando Magic,Chicago Bulls,Orlando Magic,30,26,56,1014773400.0,2002
+Orlando Magic,Toronto Raptors,Orlando Magic,31,26,57,1014858000.0,2002
+Orlando Magic,Detroit Pistons,Orlando Magic,31,27,58,1015030800.0,2002
+Orlando Magic,Washington Wizards,Orlando Magic,31,28,59,1015196400.0,2002
+Orlando Magic,Indiana Pacers,Orlando Magic,31,29,60,1015376400.0,2002
+Orlando Magic,Boston Celtics,Orlando Magic,31,30,61,1015459200.0,2002
+Orlando Magic,Orlando Magic,Washington Wizards,32,30,62,1015633800.0,2002
+Orlando Magic,Orlando Magic,Toronto Raptors,33,30,63,1015781400.0,2002
+Orlando Magic,Orlando Magic,Phoenix Suns,34,30,64,1016065800.0,2002
+Orlando Magic,Orlando Magic,Denver Nuggets,35,30,65,1016238600.0,2002
+Orlando Magic,Philadelphia 76ers,Orlando Magic,36,30,66,1016384400.0,2002
+Orlando Magic,Orlando Magic,Milwaukee Bucks,37,30,67,1016586000.0,2002
+Orlando Magic,Orlando Magic,Charlotte Hornets (Original),37,31,68,1016843400.0,2002
+Orlando Magic,Milwaukee Bucks,Orlando Magic,37,32,69,1017000000.0,2002
+Orlando Magic,Orlando Magic,Chicago Bulls,38,32,70,1017189000.0,2002
+Orlando Magic,Charlotte Hornets (Original),Orlando Magic,38,33,71,1017273600.0,2002
+Orlando Magic,Orlando Magic,Indiana Pacers,39,33,72,1017448200.0,2002
+Orlando Magic,Orlando Magic,New York Knicks,40,33,73,1017604800.0,2002
+Orlando Magic,Orlando Magic,Cleveland Cavaliers,41,33,74,1017966600.0,2002
+Orlando Magic,New Jersey Nets,Orlando Magic,41,34,75,1018053000.0,2002
+Orlando Magic,Orlando Magic,Houston Rockets,42,34,76,1018308600.0,2002
+Orlando Magic,New York Knicks,Orlando Magic,43,34,77,1018395000.0,2002
+Orlando Magic,Orlando Magic,New Jersey Nets,43,35,78,1018569600.0,2002
+Orlando Magic,Miami Heat,Orlando Magic,43,36,79,1018654200.0,2002
+Orlando Magic,Orlando Magic,Philadelphia 76ers,43,37,80,1018801800.0,2002
+Orlando Magic,Atlanta Hawks,Orlando Magic,44,37,81,1018999800.0,2002
+Orlando Magic,Orlando Magic,Miami Heat,44,38,82,1019086200.0,2002
+Philadelphia 76ers,Minnesota Timberwolves,Philadelphia 76ers,0,1,1,1004490000.0,2002
+Philadelphia 76ers,Philadelphia 76ers,Dallas Mavericks,0,2,2,1004659200.0,2002
+Philadelphia 76ers,Washington Wizards,Philadelphia 76ers,0,3,3,1004830200.0,2002
+Philadelphia 76ers,Philadelphia 76ers,Indiana Pacers,0,4,4,1005091200.0,2002
+Philadelphia 76ers,Houston Rockets,Philadelphia 76ers,0,5,5,1005271200.0,2002
+Philadelphia 76ers,Dallas Mavericks,Philadelphia 76ers,1,5,6,1005442200.0,2002
+Philadelphia 76ers,Miami Heat,Philadelphia 76ers,2,5,7,1005697800.0,2002
+Philadelphia 76ers,Philadelphia 76ers,Charlotte Hornets (Original),3,5,8,1005782400.0,2002
+Philadelphia 76ers,Philadelphia 76ers,Atlanta Hawks,4,5,9,1005955200.0,2002
+Philadelphia 76ers,New Jersey Nets,Philadelphia 76ers,5,5,10,1006045200.0,2002
+Philadelphia 76ers,Philadelphia 76ers,Detroit Pistons,6,5,11,1006387200.0,2002
+Philadelphia 76ers,Philadelphia 76ers,Cleveland Cavaliers,7,5,12,1006560000.0,2002
+Philadelphia 76ers,Toronto Raptors,Philadelphia 76ers,7,6,13,1006709400.0,2002
+Philadelphia 76ers,Philadelphia 76ers,Washington Wizards,7,7,14,1006995600.0,2002
+Philadelphia 76ers,Chicago Bulls,Philadelphia 76ers,8,7,15,1007256600.0,2002
+Philadelphia 76ers,Philadelphia 76ers,Memphis Grizzlies,8,8,16,1007334000.0,2002
+Philadelphia 76ers,Sacramento Kings,Philadelphia 76ers,8,9,17,1007514000.0,2002
+Philadelphia 76ers,Golden State Warriors,Philadelphia 76ers,8,10,18,1007609400.0,2002
+Philadelphia 76ers,San Antonio Spurs,Philadelphia 76ers,8,11,19,1007775000.0,2002
+Philadelphia 76ers,Memphis Grizzlies,Philadelphia 76ers,8,12,20,1007859600.0,2002
+Philadelphia 76ers,Atlanta Hawks,Philadelphia 76ers,8,13,21,1008118800.0,2002
+Philadelphia 76ers,Philadelphia 76ers,Milwaukee Bucks,8,14,22,1008374400.0,2002
+Philadelphia 76ers,Cleveland Cavaliers,Philadelphia 76ers,9,14,23,1008462600.0,2002
+Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,10,14,24,1008633600.0,2002
+Philadelphia 76ers,Philadelphia 76ers,Charlotte Hornets (Original),10,15,25,1008806400.0,2002
+Philadelphia 76ers,Philadelphia 76ers,Atlanta Hawks,11,15,26,1008979200.0,2002
+Philadelphia 76ers,Los Angeles Lakers,Philadelphia 76ers,11,16,27,1009330200.0,2002
+Philadelphia 76ers,Los Angeles Clippers,Philadelphia 76ers,12,16,28,1009423800.0,2002
+Philadelphia 76ers,Denver Nuggets,Philadelphia 76ers,12,17,29,1009591200.0,2002
+Philadelphia 76ers,Utah Jazz,Philadelphia 76ers,12,18,30,1009677600.0,2002
+Philadelphia 76ers,Phoenix Suns,Philadelphia 76ers,13,18,31,1010023200.0,2002
+Philadelphia 76ers,Seattle Supersonics,Philadelphia 76ers,14,18,32,1010199600.0,2002
+Philadelphia 76ers,Portland Trail Blazers,Philadelphia 76ers,14,19,33,1010286000.0,2002
+Philadelphia 76ers,Philadelphia 76ers,Los Angeles Clippers,15,19,34,1010448000.0,2002
+Philadelphia 76ers,Philadelphia 76ers,Orlando Magic,15,20,35,1010624400.0,2002
+Philadelphia 76ers,Philadelphia 76ers,San Antonio Spurs,16,20,36,1010793600.0,2002
+Philadelphia 76ers,Philadelphia 76ers,Houston Rockets,17,20,37,1011142800.0,2002
+Philadelphia 76ers,Charlotte Hornets (Original),Philadelphia 76ers,18,20,38,1011312000.0,2002
+Philadelphia 76ers,Philadelphia 76ers,New York Knicks,19,20,39,1011474000.0,2002
+Philadelphia 76ers,Philadelphia 76ers,Seattle Supersonics,19,21,40,1011639600.0,2002
+Philadelphia 76ers,Washington Wizards,Philadelphia 76ers,20,21,41,1011747600.0,2002
+Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,21,21,42,1012005000.0,2002
+Philadelphia 76ers,Philadelphia 76ers,Los Angeles Lakers,22,21,43,1012150800.0,2002
+Philadelphia 76ers,New York Knicks,Philadelphia 76ers,22,22,44,1012350600.0,2002
+Philadelphia 76ers,Philadelphia 76ers,Minnesota Timberwolves,23,22,45,1012435200.0,2002
+Philadelphia 76ers,Milwaukee Bucks,Philadelphia 76ers,24,22,46,1012689000.0,2002
+Philadelphia 76ers,Philadelphia 76ers,Toronto Raptors,24,23,47,1012869000.0,2002
+Philadelphia 76ers,Detroit Pistons,Philadelphia 76ers,24,24,48,1012955400.0,2002
+Philadelphia 76ers,Charlotte Hornets (Original),Philadelphia 76ers,25,24,49,1013126400.0,2002
+Philadelphia 76ers,Philadelphia 76ers,Utah Jazz,25,25,50,1013734800.0,2002
+Philadelphia 76ers,Indiana Pacers,Philadelphia 76ers,25,26,51,1013972400.0,2002
+Philadelphia 76ers,Philadelphia 76ers,Denver Nuggets,26,26,52,1014076800.0,2002
+Philadelphia 76ers,Philadelphia 76ers,Golden State Warriors,27,26,53,1014249600.0,2002
+Philadelphia 76ers,Orlando Magic,Philadelphia 76ers,27,27,54,1014503400.0,2002
+Philadelphia 76ers,Philadelphia 76ers,Portland Trail Blazers,27,28,55,1014681600.0,2002
+Philadelphia 76ers,Philadelphia 76ers,Miami Heat,28,28,56,1014854400.0,2002
+Philadelphia 76ers,Philadelphia 76ers,New Jersey Nets,29,28,57,1015027200.0,2002
+Philadelphia 76ers,Toronto Raptors,Philadelphia 76ers,30,28,58,1015176600.0,2002
+Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,30,29,59,1015286400.0,2002
+Philadelphia 76ers,Philadelphia 76ers,Cleveland Cavaliers,31,29,60,1015459200.0,2002
+Philadelphia 76ers,Philadelphia 76ers,Indiana Pacers,32,29,61,1015632000.0,2002
+Philadelphia 76ers,Atlanta Hawks,Philadelphia 76ers,33,29,62,1015718400.0,2002
+Philadelphia 76ers,New York Knicks,Philadelphia 76ers,34,29,63,1015979400.0,2002
+Philadelphia 76ers,Philadelphia 76ers,Sacramento Kings,34,30,64,1016067600.0,2002
+Philadelphia 76ers,Philadelphia 76ers,Orlando Magic,34,31,65,1016384400.0,2002
+Philadelphia 76ers,Miami Heat,Philadelphia 76ers,35,31,66,1016584200.0,2002
+Philadelphia 76ers,Philadelphia 76ers,Miami Heat,35,32,67,1016668800.0,2002
+Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,36,32,68,1016843400.0,2002
+Philadelphia 76ers,Philadelphia 76ers,New York Knicks,37,32,69,1017003600.0,2002
+Philadelphia 76ers,Philadelphia 76ers,New Jersey Nets,37,33,70,1017277200.0,2002
+Philadelphia 76ers,Chicago Bulls,Philadelphia 76ers,38,33,71,1017365400.0,2002
+Philadelphia 76ers,New Jersey Nets,Philadelphia 76ers,38,34,72,1017511200.0,2002
+Philadelphia 76ers,Philadelphia 76ers,Toronto Raptors,38,35,73,1017606600.0,2002
+Philadelphia 76ers,Philadelphia 76ers,Phoenix Suns,39,35,74,1017878400.0,2002
+Philadelphia 76ers,Philadelphia 76ers,Detroit Pistons,39,36,75,1018051200.0,2002
+Philadelphia 76ers,Philadelphia 76ers,Milwaukee Bucks,40,36,76,1018197000.0,2002
+Philadelphia 76ers,Milwaukee Bucks,Philadelphia 76ers,41,36,77,1018396800.0,2002
+Philadelphia 76ers,Washington Wizards,Philadelphia 76ers,41,37,78,1018479600.0,2002
+Philadelphia 76ers,Philadelphia 76ers,Washington Wizards,42,37,79,1018652400.0,2002
+Philadelphia 76ers,Orlando Magic,Philadelphia 76ers,43,37,80,1018801800.0,2002
+Philadelphia 76ers,Philadelphia 76ers,Chicago Bulls,43,38,81,1018911600.0,2002
+Philadelphia 76ers,Indiana Pacers,Philadelphia 76ers,43,39,82,1019088000.0,2002
+Phoenix Suns,Phoenix Suns,Denver Nuggets,0,1,1,1004493600.0,2002
+Phoenix Suns,Golden State Warriors,Phoenix Suns,1,1,2,1004671800.0,2002
+Phoenix Suns,Los Angeles Lakers,Phoenix Suns,1,2,3,1004758200.0,2002
+Phoenix Suns,Phoenix Suns,Houston Rockets,1,3,4,1004922000.0,2002
+Phoenix Suns,Phoenix Suns,Memphis Grizzlies,2,3,5,1005098400.0,2002
+Phoenix Suns,Phoenix Suns,Atlanta Hawks,3,3,6,1005271200.0,2002
+Phoenix Suns,Los Angeles Clippers,Phoenix Suns,3,4,7,1005424200.0,2002
+Phoenix Suns,Seattle Supersonics,Phoenix Suns,4,4,8,1005706800.0,2002
+Phoenix Suns,Phoenix Suns,Orlando Magic,4,5,9,1005786000.0,2002
+Phoenix Suns,Phoenix Suns,Los Angeles Lakers,5,5,10,1005962400.0,2002
+Phoenix Suns,Phoenix Suns,Toronto Raptors,5,6,11,1006131600.0,2002
+Phoenix Suns,Phoenix Suns,New York Knicks,6,6,12,1006394400.0,2002
+Phoenix Suns,Memphis Grizzlies,Phoenix Suns,7,6,13,1006563600.0,2002
+Phoenix Suns,Dallas Mavericks,Phoenix Suns,7,7,14,1006651800.0,2002
+Phoenix Suns,Utah Jazz,Phoenix Suns,8,7,15,1006826400.0,2002
+Phoenix Suns,Phoenix Suns,Milwaukee Bucks,9,7,16,1006999200.0,2002
+Phoenix Suns,Phoenix Suns,Utah Jazz,10,7,17,1007172000.0,2002
+Phoenix Suns,Portland Trail Blazers,Phoenix Suns,11,7,18,1007262000.0,2002
+Phoenix Suns,Phoenix Suns,Golden State Warriors,12,7,19,1007431200.0,2002
+Phoenix Suns,New Jersey Nets,Phoenix Suns,12,8,20,1007600400.0,2002
+Phoenix Suns,Boston Celtics,Phoenix Suns,12,9,21,1007771400.0,2002
+Phoenix Suns,Toronto Raptors,Phoenix Suns,13,9,22,1007928000.0,2002
+Phoenix Suns,Phoenix Suns,Sacramento Kings,14,9,23,1008208800.0,2002
+Phoenix Suns,Phoenix Suns,San Antonio Spurs,14,10,24,1008381600.0,2002
+Phoenix Suns,Denver Nuggets,Phoenix Suns,14,11,25,1008468000.0,2002
+Phoenix Suns,Phoenix Suns,Los Angeles Clippers,14,12,26,1008723600.0,2002
+Phoenix Suns,Phoenix Suns,Portland Trail Blazers,15,12,27,1009072800.0,2002
+Phoenix Suns,Sacramento Kings,Phoenix Suns,15,13,28,1009159200.0,2002
+Phoenix Suns,Houston Rockets,Phoenix Suns,16,13,29,1009416600.0,2002
+Phoenix Suns,Phoenix Suns,Boston Celtics,17,13,30,1009504800.0,2002
+Phoenix Suns,Phoenix Suns,Denver Nuggets,18,13,31,1009677600.0,2002
+Phoenix Suns,Phoenix Suns,Philadelphia 76ers,18,14,32,1010023200.0,2002
+Phoenix Suns,Los Angeles Lakers,Phoenix Suns,18,15,33,1010201400.0,2002
+Phoenix Suns,Phoenix Suns,Sacramento Kings,18,16,34,1010282400.0,2002
+Phoenix Suns,Utah Jazz,Phoenix Suns,18,17,35,1010541600.0,2002
+Phoenix Suns,Phoenix Suns,Memphis Grizzlies,18,18,36,1010714400.0,2002
+Phoenix Suns,Phoenix Suns,Miami Heat,19,18,37,1010887200.0,2002
+Phoenix Suns,Sacramento Kings,Phoenix Suns,19,19,38,1010973600.0,2002
+Phoenix Suns,Phoenix Suns,Portland Trail Blazers,19,20,39,1011232800.0,2002
+Phoenix Suns,Phoenix Suns,Minnesota Timberwolves,20,20,40,1011405600.0,2002
+Phoenix Suns,Milwaukee Bucks,Phoenix Suns,21,20,41,1011747600.0,2002
+Phoenix Suns,New York Knicks,Phoenix Suns,21,21,42,1011918600.0,2002
+Phoenix Suns,Washington Wizards,Phoenix Suns,21,22,43,1012093200.0,2002
+Phoenix Suns,Phoenix Suns,Chicago Bulls,22,22,44,1012356000.0,2002
+Phoenix Suns,Portland Trail Blazers,Phoenix Suns,22,23,45,1012532400.0,2002
+Phoenix Suns,Phoenix Suns,Golden State Warriors,23,23,46,1012615200.0,2002
+Phoenix Suns,Golden State Warriors,Phoenix Suns,24,23,47,1012788000.0,2002
+Phoenix Suns,Seattle Supersonics,Phoenix Suns,24,24,48,1013050800.0,2002
+Phoenix Suns,Detroit Pistons,Phoenix Suns,25,24,49,1013560200.0,2002
+Phoenix Suns,Minnesota Timberwolves,Phoenix Suns,25,25,50,1013648400.0,2002
+Phoenix Suns,Phoenix Suns,Washington Wizards,25,26,51,1013824800.0,2002
+Phoenix Suns,Phoenix Suns,Dallas Mavericks,25,27,52,1013994000.0,2002
+Phoenix Suns,Phoenix Suns,Seattle Supersonics,25,28,53,1014170400.0,2002
+Phoenix Suns,Memphis Grizzlies,Phoenix Suns,26,28,54,1014339600.0,2002
+Phoenix Suns,Chicago Bulls,Phoenix Suns,26,29,55,1014427800.0,2002
+Phoenix Suns,Phoenix Suns,San Antonio Spurs,27,29,56,1014598800.0,2002
+Phoenix Suns,San Antonio Spurs,Phoenix Suns,27,30,57,1014773400.0,2002
+Phoenix Suns,Phoenix Suns,Indiana Pacers,28,30,58,1014948000.0,2002
+Phoenix Suns,Phoenix Suns,Houston Rockets,28,31,59,1015120800.0,2002
+Phoenix Suns,Dallas Mavericks,Phoenix Suns,28,32,60,1015378200.0,2002
+Phoenix Suns,Phoenix Suns,New Jersey Nets,29,32,61,1015466400.0,2002
+Phoenix Suns,Phoenix Suns,Minnesota Timberwolves,30,32,62,1015639200.0,2002
+Phoenix Suns,Phoenix Suns,Charlotte Hornets (Original),30,33,63,1015812000.0,2002
+Phoenix Suns,Miami Heat,Phoenix Suns,30,34,64,1015981200.0,2002
+Phoenix Suns,Orlando Magic,Phoenix Suns,30,35,65,1016065800.0,2002
+Phoenix Suns,Atlanta Hawks,Phoenix Suns,30,36,66,1016238600.0,2002
+Phoenix Suns,Charlotte Hornets (Original),Phoenix Suns,30,37,67,1016325000.0,2002
+Phoenix Suns,Phoenix Suns,Detroit Pistons,30,38,68,1016762400.0,2002
+Phoenix Suns,Los Angeles Clippers,Phoenix Suns,31,38,69,1016940600.0,2002
+Phoenix Suns,Phoenix Suns,Cleveland Cavaliers,32,38,70,1017108000.0,2002
+Phoenix Suns,Phoenix Suns,Los Angeles Lakers,33,38,71,1017280800.0,2002
+Phoenix Suns,Phoenix Suns,Los Angeles Clippers,33,39,72,1017453600.0,2002
+Phoenix Suns,Houston Rockets,Phoenix Suns,34,39,73,1017538200.0,2002
+Phoenix Suns,Cleveland Cavaliers,Phoenix Suns,34,40,74,1017792000.0,2002
+Phoenix Suns,Philadelphia 76ers,Phoenix Suns,34,41,75,1017878400.0,2002
+Phoenix Suns,Indiana Pacers,Phoenix Suns,34,42,76,1018051200.0,2002
+Phoenix Suns,Minnesota Timberwolves,Phoenix Suns,34,43,77,1018141200.0,2002
+Phoenix Suns,Phoenix Suns,Seattle Supersonics,35,43,78,1018404000.0,2002
+Phoenix Suns,Phoenix Suns,Utah Jazz,35,44,79,1018576800.0,2002
+Phoenix Suns,Denver Nuggets,Phoenix Suns,35,45,80,1018746000.0,2002
+Phoenix Suns,San Antonio Spurs,Phoenix Suns,35,46,81,1019003400.0,2002
+Phoenix Suns,Phoenix Suns,Dallas Mavericks,36,46,82,1019095200.0,2002
+Portland Trail Blazers,Los Angeles Lakers,Portland Trail Blazers,0,1,1,1004499000.0,2002
+Portland Trail Blazers,Portland Trail Blazers,Golden State Warriors,1,1,2,1004583600.0,2002
+Portland Trail Blazers,Portland Trail Blazers,San Antonio Spurs,1,2,3,1004842800.0,2002
+Portland Trail Blazers,Golden State Warriors,Portland Trail Blazers,1,3,4,1004925600.0,2002
+Portland Trail Blazers,Portland Trail Blazers,Utah Jazz,2,3,5,1005102000.0,2002
+Portland Trail Blazers,Portland Trail Blazers,Los Angeles Clippers,3,3,6,1005274800.0,2002
+Portland Trail Blazers,Indiana Pacers,Portland Trail Blazers,3,4,7,1005440400.0,2002
+Portland Trail Blazers,Detroit Pistons,Portland Trail Blazers,4,4,8,1005519600.0,2002
+Portland Trail Blazers,New York Knicks,Portland Trail Blazers,4,5,9,1005697800.0,2002
+Portland Trail Blazers,Memphis Grizzlies,Portland Trail Blazers,5,5,10,1005872400.0,2002
+Portland Trail Blazers,Charlotte Hornets (Original),Portland Trail Blazers,6,5,11,1006043400.0,2002
+Portland Trail Blazers,Portland Trail Blazers,Houston Rockets,6,6,12,1006311600.0,2002
+Portland Trail Blazers,Sacramento Kings,Portland Trail Blazers,6,7,13,1006398000.0,2002
+Portland Trail Blazers,Portland Trail Blazers,Denver Nuggets,7,7,14,1006570800.0,2002
+Portland Trail Blazers,Portland Trail Blazers,Indiana Pacers,8,7,15,1006916400.0,2002
+Portland Trail Blazers,Portland Trail Blazers,Milwaukee Bucks,9,7,16,1007175600.0,2002
+Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,9,8,17,1007262000.0,2002
+Portland Trail Blazers,Portland Trail Blazers,Charlotte Hornets (Original),9,9,18,1007694000.0,2002
+Portland Trail Blazers,Portland Trail Blazers,Seattle Supersonics,10,9,19,1007866800.0,2002
+Portland Trail Blazers,Dallas Mavericks,Portland Trail Blazers,10,10,20,1008120600.0,2002
+Portland Trail Blazers,Utah Jazz,Portland Trail Blazers,10,11,21,1008381600.0,2002
+Portland Trail Blazers,Portland Trail Blazers,Orlando Magic,11,11,22,1008471600.0,2002
+Portland Trail Blazers,Houston Rockets,Portland Trail Blazers,12,11,23,1008725400.0,2002
+Portland Trail Blazers,San Antonio Spurs,Portland Trail Blazers,12,12,24,1008811800.0,2002
+Portland Trail Blazers,Portland Trail Blazers,Detroit Pistons,13,12,25,1008990000.0,2002
+Portland Trail Blazers,Phoenix Suns,Portland Trail Blazers,13,13,26,1009072800.0,2002
+Portland Trail Blazers,Sacramento Kings,Portland Trail Blazers,13,14,27,1009422000.0,2002
+Portland Trail Blazers,Portland Trail Blazers,Utah Jazz,13,15,28,1009504800.0,2002
+Portland Trail Blazers,Portland Trail Blazers,Minnesota Timberwolves,13,16,29,1009767600.0,2002
+Portland Trail Blazers,Los Angeles Clippers,Portland Trail Blazers,13,17,30,1009936800.0,2002
+Portland Trail Blazers,Portland Trail Blazers,Toronto Raptors,13,18,31,1010026800.0,2002
+Portland Trail Blazers,Portland Trail Blazers,Philadelphia 76ers,14,18,32,1010286000.0,2002
+Portland Trail Blazers,Cleveland Cavaliers,Portland Trail Blazers,15,18,33,1010448000.0,2002
+Portland Trail Blazers,Atlanta Hawks,Portland Trail Blazers,15,19,34,1010536200.0,2002
+Portland Trail Blazers,Miami Heat,Portland Trail Blazers,16,19,35,1010709000.0,2002
+Portland Trail Blazers,Orlando Magic,Portland Trail Blazers,17,19,36,1010795400.0,2002
+Portland Trail Blazers,Portland Trail Blazers,Cleveland Cavaliers,18,19,37,1010977200.0,2002
+Portland Trail Blazers,Phoenix Suns,Portland Trail Blazers,19,19,38,1011232800.0,2002
+Portland Trail Blazers,Portland Trail Blazers,Miami Heat,19,20,39,1011322800.0,2002
+Portland Trail Blazers,Portland Trail Blazers,Los Angeles Clippers,20,20,40,1011495600.0,2002
+Portland Trail Blazers,Portland Trail Blazers,Sacramento Kings,21,20,41,1011756600.0,2002
+Portland Trail Blazers,Portland Trail Blazers,Memphis Grizzlies,22,20,42,1011927600.0,2002
+Portland Trail Blazers,Seattle Supersonics,Portland Trail Blazers,23,20,43,1012359600.0,2002
+Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,24,20,44,1012532400.0,2002
+Portland Trail Blazers,Utah Jazz,Portland Trail Blazers,24,21,45,1012680000.0,2002
+Portland Trail Blazers,Portland Trail Blazers,Chicago Bulls,25,21,46,1012791600.0,2002
+Portland Trail Blazers,Denver Nuggets,Portland Trail Blazers,25,22,47,1012960800.0,2002
+Portland Trail Blazers,Minnesota Timberwolves,Portland Trail Blazers,25,23,48,1013043600.0,2002
+Portland Trail Blazers,Portland Trail Blazers,Dallas Mavericks,26,23,49,1013655600.0,2002
+Portland Trail Blazers,Portland Trail Blazers,Boston Celtics,26,24,50,1013828400.0,2002
+Portland Trail Blazers,Portland Trail Blazers,Los Angeles Lakers,27,24,51,1013981400.0,2002
+Portland Trail Blazers,Los Angeles Clippers,Portland Trail Blazers,28,24,52,1014089400.0,2002
+Portland Trail Blazers,Seattle Supersonics,Portland Trail Blazers,29,24,53,1014260400.0,2002
+Portland Trail Blazers,Portland Trail Blazers,Atlanta Hawks,30,24,54,1014346800.0,2002
+Portland Trail Blazers,Portland Trail Blazers,Denver Nuggets,31,24,55,1014519600.0,2002
+Portland Trail Blazers,Philadelphia 76ers,Portland Trail Blazers,32,24,56,1014681600.0,2002
+Portland Trail Blazers,Washington Wizards,Portland Trail Blazers,33,24,57,1014854400.0,2002
+Portland Trail Blazers,Toronto Raptors,Portland Trail Blazers,34,24,58,1015027200.0,2002
+Portland Trail Blazers,Milwaukee Bucks,Portland Trail Blazers,35,24,59,1015119000.0,2002
+Portland Trail Blazers,Portland Trail Blazers,Sacramento Kings,36,24,60,1015297200.0,2002
+Portland Trail Blazers,Portland Trail Blazers,Minnesota Timberwolves,37,24,61,1015470000.0,2002
+Portland Trail Blazers,Portland Trail Blazers,New Jersey Nets,38,24,62,1015642800.0,2002
+Portland Trail Blazers,Denver Nuggets,Portland Trail Blazers,38,25,63,1015729200.0,2002
+Portland Trail Blazers,Portland Trail Blazers,Dallas Mavericks,39,25,64,1016161200.0,2002
+Portland Trail Blazers,Portland Trail Blazers,Washington Wizards,40,25,65,1016334000.0,2002
+Portland Trail Blazers,Boston Celtics,Portland Trail Blazers,41,25,66,1016496000.0,2002
+Portland Trail Blazers,New Jersey Nets,Portland Trail Blazers,41,26,67,1016670600.0,2002
+Portland Trail Blazers,Chicago Bulls,Portland Trail Blazers,42,26,68,1016847000.0,2002
+Portland Trail Blazers,Minnesota Timberwolves,Portland Trail Blazers,43,26,69,1016931600.0,2002
+Portland Trail Blazers,Portland Trail Blazers,Memphis Grizzlies,43,27,70,1017111600.0,2002
+Portland Trail Blazers,Portland Trail Blazers,San Antonio Spurs,44,27,71,1017286200.0,2002
+Portland Trail Blazers,Los Angeles Lakers,Portland Trail Blazers,44,28,72,1017459000.0,2002
+Portland Trail Blazers,Portland Trail Blazers,Seattle Supersonics,44,29,73,1017543600.0,2002
+Portland Trail Blazers,Golden State Warriors,Portland Trail Blazers,44,30,74,1017804600.0,2002
+Portland Trail Blazers,Portland Trail Blazers,New York Knicks,45,30,75,1017975600.0,2002
+Portland Trail Blazers,Portland Trail Blazers,Golden State Warriors,46,30,76,1018148400.0,2002
+Portland Trail Blazers,San Antonio Spurs,Portland Trail Blazers,46,31,77,1018312200.0,2002
+Portland Trail Blazers,Dallas Mavericks,Portland Trail Blazers,46,32,78,1018398600.0,2002
+Portland Trail Blazers,Memphis Grizzlies,Portland Trail Blazers,46,33,79,1018569600.0,2002
+Portland Trail Blazers,Houston Rockets,Portland Trail Blazers,47,33,80,1018657800.0,2002
+Portland Trail Blazers,Portland Trail Blazers,Los Angeles Lakers,48,33,81,1018819800.0,2002
+Portland Trail Blazers,Portland Trail Blazers,Houston Rockets,49,33,82,1019095200.0,2002
+Sacramento Kings,Sacramento Kings,Seattle Supersonics,1,0,1,1004497200.0,2002
+Sacramento Kings,Denver Nuggets,Sacramento Kings,2,0,2,1004839200.0,2002
+Sacramento Kings,Sacramento Kings,San Antonio Spurs,3,0,3,1004925600.0,2002
+Sacramento Kings,Cleveland Cavaliers,Sacramento Kings,4,0,4,1005091200.0,2002
+Sacramento Kings,Indiana Pacers,Sacramento Kings,4,1,5,1005181200.0,2002
+Sacramento Kings,Orlando Magic,Sacramento Kings,4,2,6,1005352200.0,2002
+Sacramento Kings,Miami Heat,Sacramento Kings,5,2,7,1005438600.0,2002
+Sacramento Kings,Sacramento Kings,Toronto Raptors,6,2,8,1005699600.0,2002
+Sacramento Kings,Sacramento Kings,Chicago Bulls,7,2,9,1005966000.0,2002
+Sacramento Kings,Los Angeles Lakers,Sacramento Kings,7,3,10,1006137000.0,2002
+Sacramento Kings,Sacramento Kings,Houston Rockets,8,3,11,1006225200.0,2002
+Sacramento Kings,Sacramento Kings,Portland Trail Blazers,9,3,12,1006398000.0,2002
+Sacramento Kings,Sacramento Kings,New Jersey Nets,10,3,13,1006657200.0,2002
+Sacramento Kings,Memphis Grizzlies,Sacramento Kings,10,4,14,1006822800.0,2002
+Sacramento Kings,Houston Rockets,Sacramento Kings,11,4,15,1006909200.0,2002
+Sacramento Kings,Dallas Mavericks,Sacramento Kings,12,4,16,1007083800.0,2002
+Sacramento Kings,San Antonio Spurs,Sacramento Kings,13,4,17,1007170200.0,2002
+Sacramento Kings,Sacramento Kings,Dallas Mavericks,13,5,18,1007344800.0,2002
+Sacramento Kings,Sacramento Kings,Philadelphia 76ers,14,5,19,1007514000.0,2002
+Sacramento Kings,Sacramento Kings,Los Angeles Lakers,15,5,20,1007780400.0,2002
+Sacramento Kings,Sacramento Kings,Miami Heat,16,5,21,1007949600.0,2002
+Sacramento Kings,Sacramento Kings,Orlando Magic,17,5,22,1008126000.0,2002
+Sacramento Kings,Phoenix Suns,Sacramento Kings,17,6,23,1008208800.0,2002
+Sacramento Kings,Minnesota Timberwolves,Sacramento Kings,17,7,24,1008378000.0,2002
+Sacramento Kings,Sacramento Kings,Memphis Grizzlies,18,7,25,1008554400.0,2002
+Sacramento Kings,Sacramento Kings,Detroit Pistons,19,7,26,1008730800.0,2002
+Sacramento Kings,Seattle Supersonics,Sacramento Kings,19,8,27,1008817200.0,2002
+Sacramento Kings,Los Angeles Clippers,Sacramento Kings,19,9,28,1009078200.0,2002
+Sacramento Kings,Sacramento Kings,Phoenix Suns,20,9,29,1009159200.0,2002
+Sacramento Kings,Sacramento Kings,Portland Trail Blazers,21,9,30,1009422000.0,2002
+Sacramento Kings,Sacramento Kings,Minnesota Timberwolves,22,9,31,1009594800.0,2002
+Sacramento Kings,Sacramento Kings,Boston Celtics,23,9,32,1009764000.0,2002
+Sacramento Kings,Sacramento Kings,Los Angeles Clippers,24,9,33,1010026800.0,2002
+Sacramento Kings,Phoenix Suns,Sacramento Kings,25,9,34,1010282400.0,2002
+Sacramento Kings,Sacramento Kings,Milwaukee Bucks,26,9,35,1010368800.0,2002
+Sacramento Kings,Sacramento Kings,Phoenix Suns,27,9,36,1010973600.0,2002
+Sacramento Kings,Sacramento Kings,Cleveland Cavaliers,28,9,37,1011150000.0,2002
+Sacramento Kings,Denver Nuggets,Sacramento Kings,29,9,38,1011229200.0,2002
+Sacramento Kings,Sacramento Kings,Golden State Warriors,30,9,39,1011409200.0,2002
+Sacramento Kings,Sacramento Kings,Memphis Grizzlies,31,9,40,1011668400.0,2002
+Sacramento Kings,Portland Trail Blazers,Sacramento Kings,31,10,41,1011756600.0,2002
+Sacramento Kings,Sacramento Kings,Utah Jazz,32,10,42,1011924000.0,2002
+Sacramento Kings,Utah Jazz,Sacramento Kings,33,10,43,1012084200.0,2002
+Sacramento Kings,Seattle Supersonics,Sacramento Kings,34,10,44,1012532400.0,2002
+Sacramento Kings,Sacramento Kings,Denver Nuggets,35,10,45,1012618800.0,2002
+Sacramento Kings,Minnesota Timberwolves,Sacramento Kings,36,10,46,1012764600.0,2002
+Sacramento Kings,New Jersey Nets,Sacramento Kings,36,11,47,1012869000.0,2002
+Sacramento Kings,Boston Celtics,Sacramento Kings,37,11,48,1013040000.0,2002
+Sacramento Kings,Washington Wizards,Sacramento Kings,37,12,49,1013126400.0,2002
+Sacramento Kings,Sacramento Kings,San Antonio Spurs,38,12,50,1013571000.0,2002
+Sacramento Kings,Sacramento Kings,Washington Wizards,39,12,51,1013738400.0,2002
+Sacramento Kings,Sacramento Kings,Seattle Supersonics,39,13,52,1013997600.0,2002
+Sacramento Kings,Sacramento Kings,Atlanta Hawks,40,13,53,1014174000.0,2002
+Sacramento Kings,San Antonio Spurs,Sacramento Kings,40,14,54,1014343200.0,2002
+Sacramento Kings,Dallas Mavericks,Sacramento Kings,40,15,55,1014503400.0,2002
+Sacramento Kings,Sacramento Kings,Utah Jazz,41,15,56,1014780600.0,2002
+Sacramento Kings,Golden State Warriors,Sacramento Kings,42,15,57,1015039800.0,2002
+Sacramento Kings,Sacramento Kings,Indiana Pacers,42,16,58,1015196400.0,2002
+Sacramento Kings,Portland Trail Blazers,Sacramento Kings,42,17,59,1015297200.0,2002
+Sacramento Kings,Sacramento Kings,Charlotte Hornets (Original),43,17,60,1015642800.0,2002
+Sacramento Kings,Milwaukee Bucks,Sacramento Kings,44,17,61,1015790400.0,2002
+Sacramento Kings,Chicago Bulls,Sacramento Kings,45,17,62,1015896600.0,2002
+Sacramento Kings,Philadelphia 76ers,Sacramento Kings,46,17,63,1016067600.0,2002
+Sacramento Kings,New York Knicks,Sacramento Kings,46,18,64,1016152200.0,2002
+Sacramento Kings,Toronto Raptors,Sacramento Kings,47,18,65,1016395200.0,2002
+Sacramento Kings,Sacramento Kings,Houston Rockets,48,18,66,1016595000.0,2002
+Sacramento Kings,Sacramento Kings,Denver Nuggets,49,18,67,1016766000.0,2002
+Sacramento Kings,Sacramento Kings,Los Angeles Lakers,49,19,68,1017012600.0,2002
+Sacramento Kings,Sacramento Kings,Los Angeles Clippers,50,19,69,1017199800.0,2002
+Sacramento Kings,Houston Rockets,Sacramento Kings,51,19,70,1017365400.0,2002
+Sacramento Kings,Charlotte Hornets (Original),Sacramento Kings,52,19,71,1017448200.0,2002
+Sacramento Kings,Atlanta Hawks,Sacramento Kings,53,19,72,1017601200.0,2002
+Sacramento Kings,Memphis Grizzlies,Sacramento Kings,54,19,73,1017795600.0,2002
+Sacramento Kings,Detroit Pistons,Sacramento Kings,55,19,74,1017880200.0,2002
+Sacramento Kings,Utah Jazz,Sacramento Kings,56,19,75,1018058400.0,2002
+Sacramento Kings,Sacramento Kings,New York Knicks,57,19,76,1018216800.0,2002
+Sacramento Kings,Sacramento Kings,Minnesota Timberwolves,58,19,77,1018405800.0,2002
+Sacramento Kings,Golden State Warriors,Sacramento Kings,59,19,78,1018492200.0,2002
+Sacramento Kings,Los Angeles Clippers,Sacramento Kings,60,19,79,1018665000.0,2002
+Sacramento Kings,Sacramento Kings,Dallas Mavericks,60,20,80,1018832400.0,2002
+Sacramento Kings,Sacramento Kings,Golden State Warriors,61,20,81,1019008800.0,2002
+Sacramento Kings,Los Angeles Lakers,Sacramento Kings,61,21,82,1019097000.0,2002
+San Antonio Spurs,San Antonio Spurs,Los Angeles Clippers,1,0,1,1004491800.0,2002
+San Antonio Spurs,Seattle Supersonics,San Antonio Spurs,1,1,2,1004670000.0,2002
+San Antonio Spurs,Portland Trail Blazers,San Antonio Spurs,2,1,3,1004842800.0,2002
+San Antonio Spurs,Sacramento Kings,San Antonio Spurs,2,2,4,1004925600.0,2002
+San Antonio Spurs,San Antonio Spurs,Orlando Magic,3,2,5,1005094800.0,2002
+San Antonio Spurs,Charlotte Hornets (Original),San Antonio Spurs,4,2,6,1005264000.0,2002
+San Antonio Spurs,San Antonio Spurs,Atlanta Hawks,5,2,7,1005442200.0,2002
+San Antonio Spurs,San Antonio Spurs,Houston Rockets,6,2,8,1005701400.0,2002
+San Antonio Spurs,San Antonio Spurs,Cleveland Cavaliers,7,2,9,1005960600.0,2002
+San Antonio Spurs,San Antonio Spurs,Seattle Supersonics,8,2,10,1006392600.0,2002
+San Antonio Spurs,Indiana Pacers,San Antonio Spurs,9,2,11,1006563600.0,2002
+San Antonio Spurs,Minnesota Timberwolves,San Antonio Spurs,9,3,12,1006650000.0,2002
+San Antonio Spurs,San Antonio Spurs,Golden State Warriors,10,3,13,1006997400.0,2002
+San Antonio Spurs,San Antonio Spurs,Sacramento Kings,10,4,14,1007170200.0,2002
+San Antonio Spurs,Houston Rockets,San Antonio Spurs,11,4,15,1007256600.0,2002
+San Antonio Spurs,San Antonio Spurs,Washington Wizards,12,4,16,1007515800.0,2002
+San Antonio Spurs,Atlanta Hawks,San Antonio Spurs,13,4,17,1007598600.0,2002
+San Antonio Spurs,San Antonio Spurs,Philadelphia 76ers,14,4,18,1007775000.0,2002
+San Antonio Spurs,San Antonio Spurs,Toronto Raptors,15,4,19,1008205200.0,2002
+San Antonio Spurs,Phoenix Suns,San Antonio Spurs,16,4,20,1008381600.0,2002
+San Antonio Spurs,San Antonio Spurs,Utah Jazz,17,4,21,1008466200.0,2002
+San Antonio Spurs,Denver Nuggets,San Antonio Spurs,18,4,22,1008727200.0,2002
+San Antonio Spurs,San Antonio Spurs,Portland Trail Blazers,19,4,23,1008811800.0,2002
+San Antonio Spurs,San Antonio Spurs,Denver Nuggets,20,4,24,1008984600.0,2002
+San Antonio Spurs,San Antonio Spurs,Milwaukee Bucks,20,5,25,1009152000.0,2002
+San Antonio Spurs,San Antonio Spurs,Dallas Mavericks,20,6,26,1009414800.0,2002
+San Antonio Spurs,Milwaukee Bucks,San Antonio Spurs,20,7,27,1009675800.0,2002
+San Antonio Spurs,Memphis Grizzlies,San Antonio Spurs,21,7,28,1009756800.0,2002
+San Antonio Spurs,San Antonio Spurs,Detroit Pistons,22,7,29,1010021400.0,2002
+San Antonio Spurs,San Antonio Spurs,Indiana Pacers,22,8,30,1010194200.0,2002
+San Antonio Spurs,Dallas Mavericks,San Antonio Spurs,23,8,31,1010280600.0,2002
+San Antonio Spurs,San Antonio Spurs,New York Knicks,24,8,32,1010453400.0,2002
+San Antonio Spurs,Boston Celtics,San Antonio Spurs,25,8,33,1010620800.0,2002
+San Antonio Spurs,Philadelphia 76ers,San Antonio Spurs,25,9,34,1010793600.0,2002
+San Antonio Spurs,New Jersey Nets,San Antonio Spurs,25,10,35,1011054600.0,2002
+San Antonio Spurs,Washington Wizards,San Antonio Spurs,26,10,36,1011142800.0,2002
+San Antonio Spurs,San Antonio Spurs,Utah Jazz,27,10,37,1011319200.0,2002
+San Antonio Spurs,San Antonio Spurs,Los Angeles Lakers,27,11,38,1011463200.0,2002
+San Antonio Spurs,San Antonio Spurs,New Jersey Nets,27,12,39,1011749400.0,2002
+San Antonio Spurs,Utah Jazz,San Antonio Spurs,28,12,40,1011837600.0,2002
+San Antonio Spurs,Los Angeles Lakers,San Antonio Spurs,28,13,41,1012015800.0,2002
+San Antonio Spurs,Golden State Warriors,San Antonio Spurs,29,13,42,1012102200.0,2002
+San Antonio Spurs,San Antonio Spurs,Charlotte Hornets (Original),29,14,43,1012354200.0,2002
+San Antonio Spurs,San Antonio Spurs,Los Angeles Clippers,29,15,44,1012527000.0,2002
+San Antonio Spurs,Miami Heat,San Antonio Spurs,29,16,45,1012609800.0,2002
+San Antonio Spurs,Orlando Magic,San Antonio Spurs,30,16,46,1012755600.0,2002
+San Antonio Spurs,San Antonio Spurs,Minnesota Timberwolves,31,16,47,1012872600.0,2002
+San Antonio Spurs,Toronto Raptors,San Antonio Spurs,31,17,48,1013130000.0,2002
+San Antonio Spurs,Sacramento Kings,San Antonio Spurs,31,18,49,1013571000.0,2002
+San Antonio Spurs,Los Angeles Clippers,San Antonio Spurs,32,18,50,1013743800.0,2002
+San Antonio Spurs,Golden State Warriors,San Antonio Spurs,33,18,51,1013830200.0,2002
+San Antonio Spurs,San Antonio Spurs,Memphis Grizzlies,34,18,52,1014168600.0,2002
+San Antonio Spurs,San Antonio Spurs,Sacramento Kings,35,18,53,1014343200.0,2002
+San Antonio Spurs,San Antonio Spurs,Minnesota Timberwolves,35,19,54,1014514200.0,2002
+San Antonio Spurs,Phoenix Suns,San Antonio Spurs,35,20,55,1014598800.0,2002
+San Antonio Spurs,San Antonio Spurs,Phoenix Suns,36,20,56,1014773400.0,2002
+San Antonio Spurs,Cleveland Cavaliers,San Antonio Spurs,36,21,57,1014940800.0,2002
+San Antonio Spurs,Minnesota Timberwolves,San Antonio Spurs,37,21,58,1015030800.0,2002
+San Antonio Spurs,New York Knicks,San Antonio Spurs,38,21,59,1015176600.0,2002
+San Antonio Spurs,San Antonio Spurs,Golden State Warriors,39,21,60,1015378200.0,2002
+San Antonio Spurs,San Antonio Spurs,Houston Rockets,40,21,61,1015551000.0,2002
+San Antonio Spurs,Chicago Bulls,San Antonio Spurs,41,21,62,1015723800.0,2002
+San Antonio Spurs,Denver Nuggets,San Antonio Spurs,42,21,63,1015898400.0,2002
+San Antonio Spurs,San Antonio Spurs,Memphis Grizzlies,43,21,64,1015983000.0,2002
+San Antonio Spurs,San Antonio Spurs,Chicago Bulls,44,21,65,1016155800.0,2002
+San Antonio Spurs,San Antonio Spurs,Boston Celtics,45,21,66,1016328600.0,2002
+San Antonio Spurs,San Antonio Spurs,Los Angeles Lakers,46,21,67,1016672400.0,2002
+San Antonio Spurs,Dallas Mavericks,San Antonio Spurs,47,21,68,1016760600.0,2002
+San Antonio Spurs,San Antonio Spurs,Miami Heat,48,21,69,1016933400.0,2002
+San Antonio Spurs,Los Angeles Clippers,San Antonio Spurs,49,21,70,1017113400.0,2002
+San Antonio Spurs,Portland Trail Blazers,San Antonio Spurs,49,22,71,1017286200.0,2002
+San Antonio Spurs,Seattle Supersonics,San Antonio Spurs,49,23,72,1017457200.0,2002
+San Antonio Spurs,Los Angeles Lakers,San Antonio Spurs,49,24,73,1017613800.0,2002
+San Antonio Spurs,San Antonio Spurs,Seattle Supersonics,50,24,74,1017883800.0,2002
+San Antonio Spurs,Houston Rockets,San Antonio Spurs,51,24,75,1017970200.0,2002
+San Antonio Spurs,San Antonio Spurs,Dallas Mavericks,52,24,76,1018132200.0,2002
+San Antonio Spurs,San Antonio Spurs,Portland Trail Blazers,53,24,77,1018312200.0,2002
+San Antonio Spurs,San Antonio Spurs,Denver Nuggets,54,24,78,1018485000.0,2002
+San Antonio Spurs,Detroit Pistons,San Antonio Spurs,55,24,79,1018656000.0,2002
+San Antonio Spurs,Memphis Grizzlies,San Antonio Spurs,56,24,80,1018742400.0,2002
+San Antonio Spurs,San Antonio Spurs,Phoenix Suns,57,24,81,1019003400.0,2002
+San Antonio Spurs,Utah Jazz,San Antonio Spurs,58,24,82,1019091600.0,2002
+Seattle Supersonics,Sacramento Kings,Seattle Supersonics,0,1,1,1004497200.0,2002
+Seattle Supersonics,Seattle Supersonics,San Antonio Spurs,1,1,2,1004670000.0,2002
+Seattle Supersonics,Seattle Supersonics,Utah Jazz,1,2,3,1004839200.0,2002
+Seattle Supersonics,Orlando Magic,Seattle Supersonics,2,2,4,1005006600.0,2002
+Seattle Supersonics,Miami Heat,Seattle Supersonics,2,3,5,1005093000.0,2002
+Seattle Supersonics,New Jersey Nets,Seattle Supersonics,2,4,6,1005265800.0,2002
+Seattle Supersonics,Boston Celtics,Seattle Supersonics,2,5,7,1005352200.0,2002
+Seattle Supersonics,Washington Wizards,Seattle Supersonics,3,5,8,1005501600.0,2002
+Seattle Supersonics,Seattle Supersonics,Phoenix Suns,3,6,9,1005706800.0,2002
+Seattle Supersonics,Seattle Supersonics,Golden State Warriors,4,6,10,1005966000.0,2002
+Seattle Supersonics,Seattle Supersonics,Denver Nuggets,4,7,11,1006054200.0,2002
+Seattle Supersonics,Dallas Mavericks,Seattle Supersonics,5,7,12,1006306200.0,2002
+Seattle Supersonics,San Antonio Spurs,Seattle Supersonics,5,8,13,1006392600.0,2002
+Seattle Supersonics,Seattle Supersonics,Houston Rockets,6,8,14,1006570800.0,2002
+Seattle Supersonics,Seattle Supersonics,Indiana Pacers,7,8,15,1006732800.0,2002
+Seattle Supersonics,Seattle Supersonics,Minnesota Timberwolves,8,8,16,1006916400.0,2002
+Seattle Supersonics,Utah Jazz,Seattle Supersonics,8,9,17,1006999200.0,2002
+Seattle Supersonics,Seattle Supersonics,Los Angeles Lakers,8,10,18,1007175600.0,2002
+Seattle Supersonics,Seattle Supersonics,Milwaukee Bucks,9,10,19,1007344800.0,2002
+Seattle Supersonics,Minnesota Timberwolves,Seattle Supersonics,9,11,20,1007514000.0,2002
+Seattle Supersonics,Detroit Pistons,Seattle Supersonics,9,12,21,1007598600.0,2002
+Seattle Supersonics,Seattle Supersonics,Miami Heat,9,13,22,1007780400.0,2002
+Seattle Supersonics,Portland Trail Blazers,Seattle Supersonics,9,14,23,1007866800.0,2002
+Seattle Supersonics,Los Angeles Lakers,Seattle Supersonics,10,14,24,1008127800.0,2002
+Seattle Supersonics,Los Angeles Clippers,Seattle Supersonics,10,15,25,1008214200.0,2002
+Seattle Supersonics,Seattle Supersonics,Orlando Magic,11,15,26,1008554400.0,2002
+Seattle Supersonics,Seattle Supersonics,Sacramento Kings,12,15,27,1008817200.0,2002
+Seattle Supersonics,Golden State Warriors,Seattle Supersonics,13,15,28,1008991800.0,2002
+Seattle Supersonics,Seattle Supersonics,Detroit Pistons,14,15,29,1009076400.0,2002
+Seattle Supersonics,Seattle Supersonics,Los Angeles Clippers,15,15,30,1009510200.0,2002
+Seattle Supersonics,Seattle Supersonics,Toronto Raptors,16,15,31,1009681200.0,2002
+Seattle Supersonics,Seattle Supersonics,Philadelphia 76ers,16,16,32,1010199600.0,2002
+Seattle Supersonics,Memphis Grizzlies,Seattle Supersonics,17,16,33,1010347200.0,2002
+Seattle Supersonics,Chicago Bulls,Seattle Supersonics,18,16,34,1010453400.0,2002
+Seattle Supersonics,Minnesota Timberwolves,Seattle Supersonics,18,17,35,1010624400.0,2002
+Seattle Supersonics,Seattle Supersonics,Cleveland Cavaliers,19,17,36,1010804400.0,2002
+Seattle Supersonics,Utah Jazz,Seattle Supersonics,19,18,37,1011232800.0,2002
+Seattle Supersonics,Denver Nuggets,Seattle Supersonics,19,19,38,1011405600.0,2002
+Seattle Supersonics,Seattle Supersonics,Denver Nuggets,20,19,39,1011495600.0,2002
+Seattle Supersonics,Philadelphia 76ers,Seattle Supersonics,21,19,40,1011639600.0,2002
+Seattle Supersonics,Charlotte Hornets (Original),Seattle Supersonics,21,20,41,1011830400.0,2002
+Seattle Supersonics,Milwaukee Bucks,Seattle Supersonics,22,20,42,1011920400.0,2002
+Seattle Supersonics,Indiana Pacers,Seattle Supersonics,23,20,43,1012093200.0,2002
+Seattle Supersonics,Seattle Supersonics,Portland Trail Blazers,23,21,44,1012359600.0,2002
+Seattle Supersonics,Seattle Supersonics,Sacramento Kings,23,22,45,1012532400.0,2002
+Seattle Supersonics,Seattle Supersonics,Chicago Bulls,23,23,46,1012698000.0,2002
+Seattle Supersonics,Golden State Warriors,Seattle Supersonics,24,23,47,1012966200.0,2002
+Seattle Supersonics,Seattle Supersonics,Phoenix Suns,25,23,48,1013050800.0,2002
+Seattle Supersonics,Seattle Supersonics,Dallas Mavericks,25,24,49,1013569200.0,2002
+Seattle Supersonics,Seattle Supersonics,Los Angeles Lakers,25,25,50,1013742000.0,2002
+Seattle Supersonics,Seattle Supersonics,Boston Celtics,26,25,51,1013914800.0,2002
+Seattle Supersonics,Sacramento Kings,Seattle Supersonics,27,25,52,1013997600.0,2002
+Seattle Supersonics,Phoenix Suns,Seattle Supersonics,28,25,53,1014170400.0,2002
+Seattle Supersonics,Seattle Supersonics,Portland Trail Blazers,28,26,54,1014260400.0,2002
+Seattle Supersonics,Seattle Supersonics,Atlanta Hawks,29,26,55,1014433200.0,2002
+Seattle Supersonics,Toronto Raptors,Seattle Supersonics,30,26,56,1014591600.0,2002
+Seattle Supersonics,Cleveland Cavaliers,Seattle Supersonics,31,26,57,1014768000.0,2002
+Seattle Supersonics,Atlanta Hawks,Seattle Supersonics,32,26,58,1014856200.0,2002
+Seattle Supersonics,New York Knicks,Seattle Supersonics,32,27,59,1015029000.0,2002
+Seattle Supersonics,Memphis Grizzlies,Seattle Supersonics,33,27,60,1015185600.0,2002
+Seattle Supersonics,Seattle Supersonics,Minnesota Timberwolves,34,27,61,1015385400.0,2002
+Seattle Supersonics,Seattle Supersonics,Charlotte Hornets (Original),35,27,62,1015556400.0,2002
+Seattle Supersonics,Seattle Supersonics,New Jersey Nets,36,27,63,1015729200.0,2002
+Seattle Supersonics,Dallas Mavericks,Seattle Supersonics,36,28,64,1015896600.0,2002
+Seattle Supersonics,Houston Rockets,Seattle Supersonics,36,29,65,1015983000.0,2002
+Seattle Supersonics,Seattle Supersonics,Washington Wizards,36,30,66,1016247600.0,2002
+Seattle Supersonics,Los Angeles Clippers,Seattle Supersonics,37,30,67,1016335800.0,2002
+Seattle Supersonics,Seattle Supersonics,Golden State Warriors,38,30,68,1016593200.0,2002
+Seattle Supersonics,Seattle Supersonics,Houston Rockets,39,30,69,1016852400.0,2002
+Seattle Supersonics,Denver Nuggets,Seattle Supersonics,39,31,70,1016938800.0,2002
+Seattle Supersonics,Seattle Supersonics,Utah Jazz,40,31,71,1017111600.0,2002
+Seattle Supersonics,Seattle Supersonics,Memphis Grizzlies,41,31,72,1017284400.0,2002
+Seattle Supersonics,Seattle Supersonics,San Antonio Spurs,42,31,73,1017457200.0,2002
+Seattle Supersonics,Portland Trail Blazers,Seattle Supersonics,43,31,74,1017543600.0,2002
+Seattle Supersonics,Houston Rockets,Seattle Supersonics,43,32,75,1017797400.0,2002
+Seattle Supersonics,San Antonio Spurs,Seattle Supersonics,43,33,76,1017883800.0,2002
+Seattle Supersonics,Seattle Supersonics,New York Knicks,43,34,77,1018062000.0,2002
+Seattle Supersonics,Seattle Supersonics,Los Angeles Clippers,44,34,78,1018317600.0,2002
+Seattle Supersonics,Phoenix Suns,Seattle Supersonics,44,35,79,1018404000.0,2002
+Seattle Supersonics,Seattle Supersonics,Dallas Mavericks,44,36,80,1018742400.0,2002
+Seattle Supersonics,Los Angeles Lakers,Seattle Supersonics,44,37,81,1018924200.0,2002
+Seattle Supersonics,Seattle Supersonics,Memphis Grizzlies,45,37,82,1019095200.0,2002
+Toronto Raptors,Orlando Magic,Toronto Raptors,0,1,1,1004488200.0,2002
+Toronto Raptors,Miami Heat,Toronto Raptors,0,2,2,1004576400.0,2002
+Toronto Raptors,Toronto Raptors,Dallas Mavericks,1,2,3,1004745600.0,2002
+Toronto Raptors,Toronto Raptors,Indiana Pacers,2,2,4,1004913000.0,2002
+Toronto Raptors,Toronto Raptors,Golden State Warriors,3,2,5,1005177600.0,2002
+Toronto Raptors,Utah Jazz,Toronto Raptors,4,2,6,1005444000.0,2002
+Toronto Raptors,Denver Nuggets,Toronto Raptors,4,3,7,1005530400.0,2002
+Toronto Raptors,Sacramento Kings,Toronto Raptors,4,4,8,1005699600.0,2002
+Toronto Raptors,Golden State Warriors,Toronto Raptors,5,4,9,1005795000.0,2002
+Toronto Raptors,Los Angeles Clippers,Toronto Raptors,6,4,10,1005967800.0,2002
+Toronto Raptors,Phoenix Suns,Toronto Raptors,7,4,11,1006131600.0,2002
+Toronto Raptors,Toronto Raptors,Detroit Pistons,7,5,12,1006299000.0,2002
+Toronto Raptors,Toronto Raptors,Milwaukee Bucks,7,6,13,1006477200.0,2002
+Toronto Raptors,Boston Celtics,Toronto Raptors,8,6,14,1006561800.0,2002
+Toronto Raptors,Toronto Raptors,Philadelphia 76ers,9,6,15,1006709400.0,2002
+Toronto Raptors,Toronto Raptors,Memphis Grizzlies,10,6,16,1007076600.0,2002
+Toronto Raptors,Atlanta Hawks,Toronto Raptors,11,6,17,1007233200.0,2002
+Toronto Raptors,Toronto Raptors,Boston Celtics,11,7,18,1007323200.0,2002
+Toronto Raptors,Milwaukee Bucks,Toronto Raptors,11,8,19,1007690400.0,2002
+Toronto Raptors,Toronto Raptors,Denver Nuggets,12,8,20,1007769600.0,2002
+Toronto Raptors,Toronto Raptors,Phoenix Suns,12,9,21,1007928000.0,2002
+Toronto Raptors,San Antonio Spurs,Toronto Raptors,12,10,22,1008205200.0,2002
+Toronto Raptors,Charlotte Hornets (Original),Toronto Raptors,12,11,23,1008288000.0,2002
+Toronto Raptors,Toronto Raptors,Washington Wizards,12,12,24,1008532800.0,2002
+Toronto Raptors,Indiana Pacers,Toronto Raptors,13,12,25,1008810000.0,2002
+Toronto Raptors,Toronto Raptors,Chicago Bulls,14,12,26,1008892800.0,2002
+Toronto Raptors,Toronto Raptors,Miami Heat,15,12,27,1009137600.0,2002
+Toronto Raptors,New York Knicks,Toronto Raptors,15,13,28,1009321200.0,2002
+Toronto Raptors,Los Angeles Lakers,Toronto Raptors,16,13,29,1009596600.0,2002
+Toronto Raptors,Seattle Supersonics,Toronto Raptors,16,14,30,1009681200.0,2002
+Toronto Raptors,Portland Trail Blazers,Toronto Raptors,17,14,31,1010026800.0,2002
+Toronto Raptors,Toronto Raptors,Cleveland Cavaliers,18,14,32,1010188800.0,2002
+Toronto Raptors,Toronto Raptors,Los Angeles Lakers,18,15,33,1010347200.0,2002
+Toronto Raptors,Memphis Grizzlies,Toronto Raptors,18,16,34,1010538000.0,2002
+Toronto Raptors,Chicago Bulls,Toronto Raptors,19,16,35,1010626200.0,2002
+Toronto Raptors,Toronto Raptors,Atlanta Hawks,20,16,36,1010793600.0,2002
+Toronto Raptors,Toronto Raptors,Los Angeles Clippers,20,17,37,1010952000.0,2002
+Toronto Raptors,Detroit Pistons,Toronto Raptors,21,17,38,1011141000.0,2002
+Toronto Raptors,Toronto Raptors,Houston Rockets,22,17,39,1011225600.0,2002
+Toronto Raptors,Toronto Raptors,New Jersey Nets,23,17,40,1011398400.0,2002
+Toronto Raptors,Charlotte Hornets (Original),Toronto Raptors,24,17,41,1011486600.0,2002
+Toronto Raptors,Boston Celtics,Toronto Raptors,24,18,42,1011659400.0,2002
+Toronto Raptors,Toronto Raptors,New York Knicks,24,19,43,1011834000.0,2002
+Toronto Raptors,Toronto Raptors,Minnesota Timberwolves,25,19,44,1012003200.0,2002
+Toronto Raptors,Toronto Raptors,Orlando Magic,26,19,45,1012159800.0,2002
+Toronto Raptors,Toronto Raptors,Boston Celtics,27,19,46,1012525200.0,2002
+Toronto Raptors,New Jersey Nets,Toronto Raptors,27,20,47,1012671000.0,2002
+Toronto Raptors,Philadelphia 76ers,Toronto Raptors,28,20,48,1012869000.0,2002
+Toronto Raptors,Washington Wizards,Toronto Raptors,28,21,49,1012957200.0,2002
+Toronto Raptors,Toronto Raptors,San Antonio Spurs,29,21,50,1013130000.0,2002
+Toronto Raptors,Cleveland Cavaliers,Toronto Raptors,29,22,51,1013558400.0,2002
+Toronto Raptors,New York Knicks,Toronto Raptors,29,23,52,1013646600.0,2002
+Toronto Raptors,Toronto Raptors,Utah Jazz,29,24,53,1013817600.0,2002
+Toronto Raptors,Toronto Raptors,Milwaukee Bucks,29,25,54,1013972400.0,2002
+Toronto Raptors,Detroit Pistons,Toronto Raptors,29,26,55,1014078600.0,2002
+Toronto Raptors,Toronto Raptors,Charlotte Hornets (Original),29,27,56,1014253200.0,2002
+Toronto Raptors,Toronto Raptors,Detroit Pistons,29,28,57,1014422400.0,2002
+Toronto Raptors,Toronto Raptors,Seattle Supersonics,29,29,58,1014591600.0,2002
+Toronto Raptors,Toronto Raptors,Orlando Magic,29,30,59,1014858000.0,2002
+Toronto Raptors,Toronto Raptors,Portland Trail Blazers,29,31,60,1015027200.0,2002
+Toronto Raptors,Toronto Raptors,Philadelphia 76ers,29,32,61,1015176600.0,2002
+Toronto Raptors,Houston Rockets,Toronto Raptors,29,33,62,1015378200.0,2002
+Toronto Raptors,Dallas Mavericks,Toronto Raptors,29,34,63,1015552800.0,2002
+Toronto Raptors,Miami Heat,Toronto Raptors,30,34,64,1015633800.0,2002
+Toronto Raptors,Orlando Magic,Toronto Raptors,30,35,65,1015781400.0,2002
+Toronto Raptors,New Jersey Nets,Toronto Raptors,30,36,66,1015981200.0,2002
+Toronto Raptors,Toronto Raptors,Sacramento Kings,30,37,67,1016395200.0,2002
+Toronto Raptors,Minnesota Timberwolves,Toronto Raptors,30,38,68,1016586000.0,2002
+Toronto Raptors,Cleveland Cavaliers,Toronto Raptors,31,38,69,1016843400.0,2002
+Toronto Raptors,Toronto Raptors,Washington Wizards,32,38,70,1016989200.0,2002
+Toronto Raptors,Toronto Raptors,Miami Heat,33,38,71,1017277200.0,2002
+Toronto Raptors,Atlanta Hawks,Toronto Raptors,34,38,72,1017361800.0,2002
+Toronto Raptors,Philadelphia 76ers,Toronto Raptors,35,38,73,1017606600.0,2002
+Toronto Raptors,Toronto Raptors,Chicago Bulls,36,38,74,1017878400.0,2002
+Toronto Raptors,Chicago Bulls,Toronto Raptors,37,38,75,1018056600.0,2002
+Toronto Raptors,Toronto Raptors,Indiana Pacers,38,38,76,1018215000.0,2002
+Toronto Raptors,Toronto Raptors,Charlotte Hornets (Original),39,38,77,1018393200.0,2002
+Toronto Raptors,Indiana Pacers,Toronto Raptors,39,39,78,1018483200.0,2002
+Toronto Raptors,Toronto Raptors,Atlanta Hawks,40,39,79,1018652400.0,2002
+Toronto Raptors,Toronto Raptors,New Jersey Nets,41,39,80,1018819800.0,2002
+Toronto Raptors,Milwaukee Bucks,Toronto Raptors,41,40,81,1019001600.0,2002
+Toronto Raptors,Toronto Raptors,Cleveland Cavaliers,42,40,82,1019084400.0,2002
+Utah Jazz,Utah Jazz,Milwaukee Bucks,0,1,1,1004493600.0,2002
+Utah Jazz,Utah Jazz,Los Angeles Lakers,0,2,2,1004666400.0,2002
+Utah Jazz,Seattle Supersonics,Utah Jazz,1,2,3,1004839200.0,2002
+Utah Jazz,Los Angeles Lakers,Utah Jazz,1,3,4,1004927400.0,2002
+Utah Jazz,Portland Trail Blazers,Utah Jazz,1,4,5,1005102000.0,2002
+Utah Jazz,Utah Jazz,Atlanta Hawks,2,4,6,1005184800.0,2002
+Utah Jazz,Utah Jazz,Toronto Raptors,2,5,7,1005444000.0,2002
+Utah Jazz,Utah Jazz,Orlando Magic,3,5,8,1005616800.0,2002
+Utah Jazz,Atlanta Hawks,Utah Jazz,3,6,9,1005784200.0,2002
+Utah Jazz,Washington Wizards,Utah Jazz,4,6,10,1005955200.0,2002
+Utah Jazz,Milwaukee Bucks,Utah Jazz,4,7,11,1006047000.0,2002
+Utah Jazz,Utah Jazz,New Jersey Nets,4,8,12,1006394400.0,2002
+Utah Jazz,Utah Jazz,Los Angeles Clippers,5,8,13,1006567200.0,2002
+Utah Jazz,Utah Jazz,Phoenix Suns,5,9,14,1006826400.0,2002
+Utah Jazz,Utah Jazz,Seattle Supersonics,6,9,15,1006999200.0,2002
+Utah Jazz,Phoenix Suns,Utah Jazz,6,10,16,1007172000.0,2002
+Utah Jazz,Utah Jazz,Indiana Pacers,6,11,17,1007258400.0,2002
+Utah Jazz,Utah Jazz,Charlotte Hornets (Original),7,11,18,1007517600.0,2002
+Utah Jazz,Los Angeles Clippers,Utah Jazz,8,11,19,1007782200.0,2002
+Utah Jazz,Utah Jazz,Golden State Warriors,9,11,20,1007863200.0,2002
+Utah Jazz,Utah Jazz,Dallas Mavericks,10,11,21,1008036000.0,2002
+Utah Jazz,Utah Jazz,Minnesota Timberwolves,10,12,22,1008208800.0,2002
+Utah Jazz,Utah Jazz,Portland Trail Blazers,11,12,23,1008381600.0,2002
+Utah Jazz,San Antonio Spurs,Utah Jazz,11,13,24,1008466200.0,2002
+Utah Jazz,Miami Heat,Utah Jazz,12,13,25,1008721800.0,2002
+Utah Jazz,Orlando Magic,Utah Jazz,12,14,26,1008808200.0,2002
+Utah Jazz,Boston Celtics,Utah Jazz,12,15,27,1008981000.0,2002
+Utah Jazz,New Jersey Nets,Utah Jazz,13,15,28,1009069200.0,2002
+Utah Jazz,Utah Jazz,Boston Celtics,14,15,29,1009418400.0,2002
+Utah Jazz,Portland Trail Blazers,Utah Jazz,15,15,30,1009504800.0,2002
+Utah Jazz,Utah Jazz,Philadelphia 76ers,16,15,31,1009677600.0,2002
+Utah Jazz,Minnesota Timberwolves,Utah Jazz,16,16,32,1010192400.0,2002
+Utah Jazz,Chicago Bulls,Utah Jazz,17,16,33,1010280600.0,2002
+Utah Jazz,Utah Jazz,Phoenix Suns,18,16,34,1010541600.0,2002
+Utah Jazz,Utah Jazz,Houston Rockets,19,16,35,1010714400.0,2002
+Utah Jazz,Utah Jazz,Memphis Grizzlies,19,17,36,1010887200.0,2002
+Utah Jazz,Utah Jazz,Denver Nuggets,20,17,37,1011060000.0,2002
+Utah Jazz,Utah Jazz,Seattle Supersonics,21,17,38,1011232800.0,2002
+Utah Jazz,San Antonio Spurs,Utah Jazz,21,18,39,1011319200.0,2002
+Utah Jazz,Dallas Mavericks,Utah Jazz,21,19,40,1011492000.0,2002
+Utah Jazz,Golden State Warriors,Utah Jazz,22,19,41,1011646800.0,2002
+Utah Jazz,Utah Jazz,San Antonio Spurs,22,20,42,1011837600.0,2002
+Utah Jazz,Sacramento Kings,Utah Jazz,22,21,43,1011924000.0,2002
+Utah Jazz,Utah Jazz,Sacramento Kings,22,22,44,1012084200.0,2002
+Utah Jazz,Utah Jazz,Miami Heat,23,22,45,1012269600.0,2002
+Utah Jazz,Utah Jazz,Chicago Bulls,24,22,46,1012442400.0,2002
+Utah Jazz,Utah Jazz,Portland Trail Blazers,25,22,47,1012680000.0,2002
+Utah Jazz,Houston Rockets,Utah Jazz,25,23,48,1012872600.0,2002
+Utah Jazz,Memphis Grizzlies,Utah Jazz,25,24,49,1012957200.0,2002
+Utah Jazz,Indiana Pacers,Utah Jazz,26,24,50,1013558400.0,2002
+Utah Jazz,Philadelphia 76ers,Utah Jazz,27,24,51,1013734800.0,2002
+Utah Jazz,Toronto Raptors,Utah Jazz,28,24,52,1013817600.0,2002
+Utah Jazz,New York Knicks,Utah Jazz,29,24,53,1013990400.0,2002
+Utah Jazz,Cleveland Cavaliers,Utah Jazz,30,24,54,1014076800.0,2002
+Utah Jazz,Denver Nuggets,Utah Jazz,31,24,55,1014256800.0,2002
+Utah Jazz,Sacramento Kings,Utah Jazz,31,25,56,1014780600.0,2002
+Utah Jazz,Utah Jazz,Memphis Grizzlies,32,25,57,1014948000.0,2002
+Utah Jazz,Utah Jazz,Minnesota Timberwolves,32,26,58,1015120800.0,2002
+Utah Jazz,Utah Jazz,Denver Nuggets,33,26,59,1015293600.0,2002
+Utah Jazz,Utah Jazz,Los Angeles Lakers,34,26,60,1015462800.0,2002
+Utah Jazz,Utah Jazz,New York Knicks,34,27,61,1015639200.0,2002
+Utah Jazz,Houston Rockets,Utah Jazz,34,28,62,1015790400.0,2002
+Utah Jazz,Memphis Grizzlies,Utah Jazz,34,29,63,1015894800.0,2002
+Utah Jazz,Charlotte Hornets (Original),Utah Jazz,34,30,64,1016150400.0,2002
+Utah Jazz,Detroit Pistons,Utah Jazz,35,30,65,1016240400.0,2002
+Utah Jazz,Minnesota Timberwolves,Utah Jazz,36,30,66,1016397000.0,2002
+Utah Jazz,Utah Jazz,Detroit Pistons,36,31,67,1016589600.0,2002
+Utah Jazz,Utah Jazz,Washington Wizards,37,31,68,1016762400.0,2002
+Utah Jazz,Utah Jazz,Golden State Warriors,38,31,69,1016935200.0,2002
+Utah Jazz,Seattle Supersonics,Utah Jazz,38,32,70,1017111600.0,2002
+Utah Jazz,Utah Jazz,Houston Rockets,39,32,71,1017194400.0,2002
+Utah Jazz,Utah Jazz,Cleveland Cavaliers,40,32,72,1017367200.0,2002
+Utah Jazz,Los Angeles Clippers,Utah Jazz,41,32,73,1017545400.0,2002
+Utah Jazz,Denver Nuggets,Utah Jazz,41,33,74,1017799200.0,2002
+Utah Jazz,Utah Jazz,Los Angeles Clippers,42,33,75,1017885600.0,2002
+Utah Jazz,Utah Jazz,Sacramento Kings,42,34,76,1018058400.0,2002
+Utah Jazz,Utah Jazz,Dallas Mavericks,42,35,77,1018314000.0,2002
+Utah Jazz,Los Angeles Lakers,Utah Jazz,42,36,78,1018405800.0,2002
+Utah Jazz,Phoenix Suns,Utah Jazz,43,36,79,1018576800.0,2002
+Utah Jazz,Golden State Warriors,Utah Jazz,44,36,80,1018751400.0,2002
+Utah Jazz,Dallas Mavericks,Utah Jazz,44,37,81,1019003400.0,2002
+Utah Jazz,Utah Jazz,San Antonio Spurs,44,38,82,1019091600.0,2002
+Washington Wizards,New York Knicks,Washington Wizards,0,1,1,1004488200.0,2002
+Washington Wizards,Atlanta Hawks,Washington Wizards,1,1,2,1004662800.0,2002
+Washington Wizards,Washington Wizards,Philadelphia 76ers,2,1,3,1004830200.0,2002
+Washington Wizards,Detroit Pistons,Washington Wizards,2,2,4,1004918400.0,2002
+Washington Wizards,Boston Celtics,Washington Wizards,2,3,5,1005181200.0,2002
+Washington Wizards,Washington Wizards,Golden State Warriors,2,4,6,1005350400.0,2002
+Washington Wizards,Washington Wizards,Seattle Supersonics,2,5,7,1005501600.0,2002
+Washington Wizards,Washington Wizards,Milwaukee Bucks,2,6,8,1005782400.0,2002
+Washington Wizards,Washington Wizards,Utah Jazz,2,7,9,1005955200.0,2002
+Washington Wizards,Washington Wizards,Charlotte Hornets (Original),2,8,10,1006304400.0,2002
+Washington Wizards,Indiana Pacers,Washington Wizards,2,9,11,1006477200.0,2002
+Washington Wizards,Washington Wizards,Boston Celtics,3,9,12,1006646400.0,2002
+Washington Wizards,Cleveland Cavaliers,Washington Wizards,3,10,13,1006905600.0,2002
+Washington Wizards,Philadelphia 76ers,Washington Wizards,4,10,14,1006995600.0,2002
+Washington Wizards,Miami Heat,Washington Wizards,5,10,15,1007166600.0,2002
+Washington Wizards,Washington Wizards,Orlando Magic,5,11,16,1007249400.0,2002
+Washington Wizards,San Antonio Spurs,Washington Wizards,5,12,17,1007515800.0,2002
+Washington Wizards,Houston Rockets,Washington Wizards,6,12,18,1007688600.0,2002
+Washington Wizards,Dallas Mavericks,Washington Wizards,7,12,19,1007861400.0,2002
+Washington Wizards,Memphis Grizzlies,Washington Wizards,8,12,20,1008118800.0,2002
+Washington Wizards,Washington Wizards,Miami Heat,9,12,21,1008205200.0,2002
+Washington Wizards,Washington Wizards,New York Knicks,10,12,22,1008374400.0,2002
+Washington Wizards,Toronto Raptors,Washington Wizards,11,12,23,1008532800.0,2002
+Washington Wizards,Washington Wizards,Atlanta Hawks,12,12,24,1008806400.0,2002
+Washington Wizards,Orlando Magic,Washington Wizards,13,12,25,1008981000.0,2002
+Washington Wizards,New York Knicks,Washington Wizards,14,12,26,1009067400.0,2002
+Washington Wizards,Charlotte Hornets (Original),Washington Wizards,14,13,27,1009414800.0,2002
+Washington Wizards,Indiana Pacers,Washington Wizards,14,14,28,1009497600.0,2002
+Washington Wizards,Washington Wizards,Charlotte Hornets (Original),15,14,29,1009670400.0,2002
+Washington Wizards,Washington Wizards,New Jersey Nets,16,14,30,1009848600.0,2002
+Washington Wizards,Washington Wizards,Chicago Bulls,17,14,31,1010188800.0,2002
+Washington Wizards,Washington Wizards,Los Angeles Clippers,18,14,32,1010534400.0,2002
+Washington Wizards,Milwaukee Bucks,Washington Wizards,18,15,33,1010799000.0,2002
+Washington Wizards,Washington Wizards,Minnesota Timberwolves,18,16,34,1010880000.0,2002
+Washington Wizards,Washington Wizards,San Antonio Spurs,18,17,35,1011142800.0,2002
+Washington Wizards,New Jersey Nets,Washington Wizards,18,18,36,1011227400.0,2002
+Washington Wizards,Chicago Bulls,Washington Wizards,19,18,37,1011492000.0,2002
+Washington Wizards,Minnesota Timberwolves,Washington Wizards,19,19,38,1011654000.0,2002
+Washington Wizards,Washington Wizards,Philadelphia 76ers,19,20,39,1011747600.0,2002
+Washington Wizards,Washington Wizards,Cleveland Cavaliers,20,20,40,1011916800.0,2002
+Washington Wizards,Washington Wizards,Phoenix Suns,21,20,41,1012093200.0,2002
+Washington Wizards,Washington Wizards,Detroit Pistons,21,21,42,1012348800.0,2002
+Washington Wizards,Cleveland Cavaliers,Washington Wizards,22,21,43,1012521600.0,2002
+Washington Wizards,Washington Wizards,Atlanta Hawks,23,21,44,1012608000.0,2002
+Washington Wizards,Washington Wizards,Indiana Pacers,24,21,45,1012755600.0,2002
+Washington Wizards,Washington Wizards,Toronto Raptors,25,21,46,1012957200.0,2002
+Washington Wizards,Washington Wizards,Sacramento Kings,26,21,47,1013126400.0,2002
+Washington Wizards,Los Angeles Lakers,Washington Wizards,26,22,48,1013571000.0,2002
+Washington Wizards,Sacramento Kings,Washington Wizards,26,23,49,1013738400.0,2002
+Washington Wizards,Phoenix Suns,Washington Wizards,27,23,50,1013824800.0,2002
+Washington Wizards,Washington Wizards,Houston Rockets,27,24,51,1014055200.0,2002
+Washington Wizards,Detroit Pistons,Washington Wizards,27,25,52,1014251400.0,2002
+Washington Wizards,Washington Wizards,New Jersey Nets,27,26,53,1014336000.0,2002
+Washington Wizards,Washington Wizards,Miami Heat,27,27,54,1014512400.0,2002
+Washington Wizards,Miami Heat,Washington Wizards,27,28,55,1014597000.0,2002
+Washington Wizards,Washington Wizards,Portland Trail Blazers,27,29,56,1014854400.0,2002
+Washington Wizards,Chicago Bulls,Washington Wizards,27,30,57,1015032600.0,2002
+Washington Wizards,Washington Wizards,Orlando Magic,28,30,58,1015196400.0,2002
+Washington Wizards,Washington Wizards,Chicago Bulls,29,30,59,1015372800.0,2002
+Washington Wizards,Washington Wizards,Detroit Pistons,29,31,60,1015545600.0,2002
+Washington Wizards,Orlando Magic,Washington Wizards,29,32,61,1015633800.0,2002
+Washington Wizards,Boston Celtics,Washington Wizards,29,33,62,1015790400.0,2002
+Washington Wizards,Washington Wizards,Boston Celtics,29,34,63,1015891200.0,2002
+Washington Wizards,Los Angeles Clippers,Washington Wizards,29,35,64,1016076600.0,2002
+Washington Wizards,Seattle Supersonics,Washington Wizards,30,35,65,1016247600.0,2002
+Washington Wizards,Portland Trail Blazers,Washington Wizards,30,36,66,1016334000.0,2002
+Washington Wizards,Golden State Warriors,Washington Wizards,31,36,67,1016508600.0,2002
+Washington Wizards,Denver Nuggets,Washington Wizards,32,36,68,1016676000.0,2002
+Washington Wizards,Utah Jazz,Washington Wizards,32,37,69,1016762400.0,2002
+Washington Wizards,Toronto Raptors,Washington Wizards,32,38,70,1016989200.0,2002
+Washington Wizards,Washington Wizards,Denver Nuggets,33,38,71,1017187200.0,2002
+Washington Wizards,Washington Wizards,Milwaukee Bucks,34,38,72,1017446400.0,2002
+Washington Wizards,Washington Wizards,Dallas Mavericks,34,39,73,1017604800.0,2002
+Washington Wizards,Washington Wizards,Los Angeles Lakers,34,40,74,1017795600.0,2002
+Washington Wizards,Milwaukee Bucks,Washington Wizards,34,41,75,1017882000.0,2002
+Washington Wizards,Charlotte Hornets (Original),Washington Wizards,34,42,76,1018053000.0,2002
+Washington Wizards,Washington Wizards,Memphis Grizzlies,35,42,77,1018141200.0,2002
+Washington Wizards,New Jersey Nets,Washington Wizards,35,43,78,1018395000.0,2002
+Washington Wizards,Washington Wizards,Philadelphia 76ers,36,43,79,1018479600.0,2002
+Washington Wizards,Philadelphia 76ers,Washington Wizards,36,44,80,1018652400.0,2002
+Washington Wizards,Washington Wizards,Indiana Pacers,36,45,81,1018803600.0,2002
+Washington Wizards,Washington Wizards,New York Knicks,37,45,82,1018998000.0,2002

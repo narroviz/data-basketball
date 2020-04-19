@@ -1,0 +1,443 @@
+id,home_team,away_team,win,loss,game_number,date,year
+Atlanta Dream,Atlanta Dream,Indiana Fever,1,0,1,1244260800.0,2009
+Atlanta Dream,Washington Mystics,Atlanta Dream,1,1,2,1244347200.0,2009
+Atlanta Dream,Chicago Sky,Atlanta Dream,1,2,3,1244779200.0,2009
+Atlanta Dream,Connecticut Sun,Atlanta Dream,2,2,4,1244952000.0,2009
+Atlanta Dream,Atlanta Dream,Washington Mystics,3,2,5,1245384000.0,2009
+Atlanta Dream,Atlanta Dream,New York Liberty,3,3,6,1245556800.0,2009
+Atlanta Dream,Atlanta Dream,Chicago Sky,3,4,7,1245729600.0,2009
+Atlanta Dream,Atlanta Dream,Detroit Shock,4,4,8,1245988800.0,2009
+Atlanta Dream,Connecticut Sun,Atlanta Dream,4,5,9,1246075200.0,2009
+Atlanta Dream,Atlanta Dream,Minnesota Lynx,4,6,10,1246334400.0,2009
+Atlanta Dream,Atlanta Dream,Washington Mystics,5,6,11,1246593600.0,2009
+Atlanta Dream,Indiana Fever,Atlanta Dream,5,7,12,1246766400.0,2009
+Atlanta Dream,Atlanta Dream,Connecticut Sun,6,7,13,1246939200.0,2009
+Atlanta Dream,New York Liberty,Atlanta Dream,6,8,14,1247284800.0,2009
+Atlanta Dream,Minnesota Lynx,Atlanta Dream,7,8,15,1247630400.0,2009
+Atlanta Dream,Indiana Fever,Atlanta Dream,7,9,16,1247803200.0,2009
+Atlanta Dream,New York Liberty,Atlanta Dream,7,10,17,1247976000.0,2009
+Atlanta Dream,Detroit Shock,Atlanta Dream,8,10,18,1248235200.0,2009
+Atlanta Dream,Atlanta Dream,Phoenix Mercury,9,10,19,1248926400.0,2009
+Atlanta Dream,Atlanta Dream,New York Liberty,10,10,20,1249099200.0,2009
+Atlanta Dream,San Antonio Silver Stars,Atlanta Dream,11,10,21,1249531200.0,2009
+Atlanta Dream,Atlanta Dream,Chicago Sky,11,11,22,1249704000.0,2009
+Atlanta Dream,Atlanta Dream,Detroit Shock,12,11,23,1250136000.0,2009
+Atlanta Dream,Atlanta Dream,Seattle Storm,13,11,24,1250308800.0,2009
+Atlanta Dream,Atlanta Dream,San Antonio Silver Stars,14,11,25,1250740800.0,2009
+Atlanta Dream,Atlanta Dream,Los Angeles Sparks,14,12,26,1251000000.0,2009
+Atlanta Dream,Atlanta Dream,Sacramento Monarchs,15,12,27,1251172800.0,2009
+Atlanta Dream,Detroit Shock,Atlanta Dream,15,13,28,1251345600.0,2009
+Atlanta Dream,Seattle Storm,Atlanta Dream,15,14,29,1251518400.0,2009
+Atlanta Dream,Los Angeles Sparks,Atlanta Dream,16,14,30,1251777600.0,2009
+Atlanta Dream,Sacramento Monarchs,Atlanta Dream,17,14,31,1252036800.0,2009
+Atlanta Dream,Phoenix Mercury,Atlanta Dream,17,15,32,1252123200.0,2009
+Atlanta Dream,Atlanta Dream,Connecticut Sun,18,15,33,1252641600.0,2009
+Atlanta Dream,Washington Mystics,Atlanta Dream,18,16,34,1252728000.0,2009
+Chicago Sky,Minnesota Lynx,Chicago Sky,0,1,1,1244260800.0,2009
+Chicago Sky,Chicago Sky,Atlanta Dream,1,1,2,1244779200.0,2009
+Chicago Sky,Chicago Sky,Seattle Storm,2,1,3,1244952000.0,2009
+Chicago Sky,Chicago Sky,Connecticut Sun,3,1,4,1245124800.0,2009
+Chicago Sky,Connecticut Sun,Chicago Sky,3,2,5,1245384000.0,2009
+Chicago Sky,Washington Mystics,Chicago Sky,3,3,6,1245470400.0,2009
+Chicago Sky,Atlanta Dream,Chicago Sky,4,3,7,1245729600.0,2009
+Chicago Sky,Chicago Sky,Washington Mystics,5,3,8,1246075200.0,2009
+Chicago Sky,Chicago Sky,Sacramento Monarchs,6,3,9,1246334400.0,2009
+Chicago Sky,San Antonio Silver Stars,Chicago Sky,6,4,10,1246593600.0,2009
+Chicago Sky,Sacramento Monarchs,Chicago Sky,6,5,11,1246939200.0,2009
+Chicago Sky,Phoenix Mercury,Chicago Sky,6,6,12,1247025600.0,2009
+Chicago Sky,Chicago Sky,Indiana Fever,6,7,13,1247198400.0,2009
+Chicago Sky,Seattle Storm,Chicago Sky,7,7,14,1247371200.0,2009
+Chicago Sky,Indiana Fever,Chicago Sky,7,8,15,1247630400.0,2009
+Chicago Sky,Chicago Sky,San Antonio Silver Stars,8,8,16,1247976000.0,2009
+Chicago Sky,Chicago Sky,New York Liberty,8,9,17,1248235200.0,2009
+Chicago Sky,Washington Mystics,Chicago Sky,8,10,18,1248321600.0,2009
+Chicago Sky,Chicago Sky,Los Angeles Sparks,9,10,19,1248840000.0,2009
+Chicago Sky,Chicago Sky,Connecticut Sun,10,10,20,1249099200.0,2009
+Chicago Sky,Indiana Fever,Chicago Sky,10,11,21,1249444800.0,2009
+Chicago Sky,Atlanta Dream,Chicago Sky,11,11,22,1249704000.0,2009
+Chicago Sky,Detroit Shock,Chicago Sky,11,12,23,1249790400.0,2009
+Chicago Sky,New York Liberty,Chicago Sky,12,12,24,1250222400.0,2009
+Chicago Sky,Chicago Sky,Minnesota Lynx,13,12,25,1250308800.0,2009
+Chicago Sky,Chicago Sky,Phoenix Mercury,13,13,26,1250568000.0,2009
+Chicago Sky,Chicago Sky,Detroit Shock,13,14,27,1250913600.0,2009
+Chicago Sky,Los Angeles Sparks,Chicago Sky,13,15,28,1251172800.0,2009
+Chicago Sky,Chicago Sky,New York Liberty,14,15,29,1251432000.0,2009
+Chicago Sky,New York Liberty,Chicago Sky,14,16,30,1251604800.0,2009
+Chicago Sky,Chicago Sky,Washington Mystics,15,16,31,1252036800.0,2009
+Chicago Sky,Detroit Shock,Chicago Sky,15,17,32,1252209600.0,2009
+Chicago Sky,Chicago Sky,Indiana Fever,16,17,33,1252555200.0,2009
+Chicago Sky,Chicago Sky,Detroit Shock,16,18,34,1252728000.0,2009
+Connecticut Sun,Connecticut Sun,Washington Mystics,0,1,1,1244260800.0,2009
+Connecticut Sun,New York Liberty,Connecticut Sun,1,1,2,1244347200.0,2009
+Connecticut Sun,Connecticut Sun,Atlanta Dream,1,2,3,1244952000.0,2009
+Connecticut Sun,Chicago Sky,Connecticut Sun,1,3,4,1245124800.0,2009
+Connecticut Sun,Connecticut Sun,Chicago Sky,2,3,5,1245384000.0,2009
+Connecticut Sun,Connecticut Sun,San Antonio Silver Stars,3,3,6,1245556800.0,2009
+Connecticut Sun,Connecticut Sun,Atlanta Dream,4,3,7,1246075200.0,2009
+Connecticut Sun,Indiana Fever,Connecticut Sun,4,4,8,1246507200.0,2009
+Connecticut Sun,Detroit Shock,Connecticut Sun,5,4,9,1246766400.0,2009
+Connecticut Sun,Atlanta Dream,Connecticut Sun,5,5,10,1246939200.0,2009
+Connecticut Sun,Connecticut Sun,Detroit Shock,5,6,11,1247284800.0,2009
+Connecticut Sun,Connecticut Sun,Los Angeles Sparks,6,6,12,1247544000.0,2009
+Connecticut Sun,San Antonio Silver Stars,Connecticut Sun,7,6,13,1247803200.0,2009
+Connecticut Sun,Connecticut Sun,Indiana Fever,8,6,14,1247976000.0,2009
+Connecticut Sun,Connecticut Sun,Sacramento Monarchs,9,6,15,1248235200.0,2009
+Connecticut Sun,Connecticut Sun,Phoenix Mercury,9,7,16,1248753600.0,2009
+Connecticut Sun,Indiana Fever,Connecticut Sun,9,8,17,1248926400.0,2009
+Connecticut Sun,Chicago Sky,Connecticut Sun,9,9,18,1249099200.0,2009
+Connecticut Sun,Detroit Shock,Connecticut Sun,10,9,19,1249185600.0,2009
+Connecticut Sun,Minnesota Lynx,Connecticut Sun,10,10,20,1249617600.0,2009
+Connecticut Sun,Connecticut Sun,Washington Mystics,11,10,21,1249790400.0,2009
+Connecticut Sun,Connecticut Sun,Seattle Storm,12,10,22,1250136000.0,2009
+Connecticut Sun,Washington Mystics,Connecticut Sun,12,11,23,1250222400.0,2009
+Connecticut Sun,Connecticut Sun,New York Liberty,13,11,24,1250654400.0,2009
+Connecticut Sun,New York Liberty,Connecticut Sun,13,12,25,1250827200.0,2009
+Connecticut Sun,Connecticut Sun,Minnesota Lynx,14,12,26,1250913600.0,2009
+Connecticut Sun,Connecticut Sun,Detroit Shock,14,13,27,1251172800.0,2009
+Connecticut Sun,Seattle Storm,Connecticut Sun,14,14,28,1251345600.0,2009
+Connecticut Sun,Phoenix Mercury,Connecticut Sun,14,15,29,1251518400.0,2009
+Connecticut Sun,Los Angeles Sparks,Connecticut Sun,14,16,30,1251604800.0,2009
+Connecticut Sun,Sacramento Monarchs,Connecticut Sun,14,17,31,1251777600.0,2009
+Connecticut Sun,Connecticut Sun,New York Liberty,15,17,32,1252036800.0,2009
+Connecticut Sun,Atlanta Dream,Connecticut Sun,15,18,33,1252641600.0,2009
+Connecticut Sun,Connecticut Sun,Indiana Fever,16,18,34,1252814400.0,2009
+Detroit Shock,Los Angeles Sparks,Detroit Shock,0,1,1,1244260800.0,2009
+Detroit Shock,Detroit Shock,Los Angeles Sparks,1,1,2,1244433600.0,2009
+Detroit Shock,Detroit Shock,Washington Mystics,1,2,3,1244606400.0,2009
+Detroit Shock,Detroit Shock,Indiana Fever,1,3,4,1245384000.0,2009
+Detroit Shock,Indiana Fever,Detroit Shock,1,4,5,1245556800.0,2009
+Detroit Shock,Atlanta Dream,Detroit Shock,1,5,6,1245988800.0,2009
+Detroit Shock,Detroit Shock,Sacramento Monarchs,2,5,7,1246161600.0,2009
+Detroit Shock,New York Liberty,Detroit Shock,2,6,8,1246507200.0,2009
+Detroit Shock,Detroit Shock,Connecticut Sun,2,7,9,1246766400.0,2009
+Detroit Shock,Connecticut Sun,Detroit Shock,3,7,10,1247284800.0,2009
+Detroit Shock,Seattle Storm,Detroit Shock,4,7,11,1247630400.0,2009
+Detroit Shock,Phoenix Mercury,Detroit Shock,4,8,12,1247889600.0,2009
+Detroit Shock,Sacramento Monarchs,Detroit Shock,5,8,13,1247976000.0,2009
+Detroit Shock,Detroit Shock,Atlanta Dream,5,9,14,1248235200.0,2009
+Detroit Shock,Detroit Shock,Minnesota Lynx,6,9,15,1249012800.0,2009
+Detroit Shock,Detroit Shock,Connecticut Sun,6,10,16,1249185600.0,2009
+Detroit Shock,Detroit Shock,New York Liberty,7,10,17,1249358400.0,2009
+Detroit Shock,Washington Mystics,Detroit Shock,7,11,18,1249617600.0,2009
+Detroit Shock,Detroit Shock,Chicago Sky,8,11,19,1249790400.0,2009
+Detroit Shock,Washington Mystics,Detroit Shock,9,11,20,1249963200.0,2009
+Detroit Shock,Atlanta Dream,Detroit Shock,9,12,21,1250136000.0,2009
+Detroit Shock,Indiana Fever,Detroit Shock,9,13,22,1250308800.0,2009
+Detroit Shock,Detroit Shock,Seattle Storm,9,14,23,1250568000.0,2009
+Detroit Shock,Chicago Sky,Detroit Shock,10,14,24,1250913600.0,2009
+Detroit Shock,Detroit Shock,San Antonio Silver Stars,11,14,25,1251000000.0,2009
+Detroit Shock,Connecticut Sun,Detroit Shock,12,14,26,1251172800.0,2009
+Detroit Shock,Detroit Shock,Atlanta Dream,13,14,27,1251345600.0,2009
+Detroit Shock,San Antonio Silver Stars,Detroit Shock,13,15,28,1251518400.0,2009
+Detroit Shock,Detroit Shock,Phoenix Mercury,14,15,29,1251777600.0,2009
+Detroit Shock,Detroit Shock,Indiana Fever,15,15,30,1252036800.0,2009
+Detroit Shock,Detroit Shock,Chicago Sky,16,15,31,1252209600.0,2009
+Detroit Shock,Minnesota Lynx,Detroit Shock,16,16,32,1252468800.0,2009
+Detroit Shock,Detroit Shock,New York Liberty,17,16,33,1252555200.0,2009
+Detroit Shock,Chicago Sky,Detroit Shock,18,16,34,1252728000.0,2009
+Indiana Fever,Atlanta Dream,Indiana Fever,0,1,1,1244260800.0,2009
+Indiana Fever,Indiana Fever,Minnesota Lynx,0,2,2,1244347200.0,2009
+Indiana Fever,Indiana Fever,Seattle Storm,1,2,3,1244520000.0,2009
+Indiana Fever,Indiana Fever,Los Angeles Sparks,2,2,4,1244779200.0,2009
+Indiana Fever,Detroit Shock,Indiana Fever,3,2,5,1245384000.0,2009
+Indiana Fever,Indiana Fever,Detroit Shock,4,2,6,1245556800.0,2009
+Indiana Fever,New York Liberty,Indiana Fever,5,2,7,1245988800.0,2009
+Indiana Fever,Indiana Fever,New York Liberty,6,2,8,1246075200.0,2009
+Indiana Fever,Indiana Fever,Connecticut Sun,7,2,9,1246507200.0,2009
+Indiana Fever,Indiana Fever,Atlanta Dream,8,2,10,1246766400.0,2009
+Indiana Fever,Chicago Sky,Indiana Fever,9,2,11,1247198400.0,2009
+Indiana Fever,Indiana Fever,Chicago Sky,10,2,12,1247630400.0,2009
+Indiana Fever,Indiana Fever,Atlanta Dream,11,2,13,1247803200.0,2009
+Indiana Fever,Connecticut Sun,Indiana Fever,11,3,14,1247976000.0,2009
+Indiana Fever,Washington Mystics,Indiana Fever,12,3,15,1248148800.0,2009
+Indiana Fever,San Antonio Silver Stars,Indiana Fever,12,4,16,1248321600.0,2009
+Indiana Fever,Indiana Fever,Washington Mystics,13,4,17,1248753600.0,2009
+Indiana Fever,Indiana Fever,Connecticut Sun,14,4,18,1248926400.0,2009
+Indiana Fever,Washington Mystics,Indiana Fever,15,4,19,1249185600.0,2009
+Indiana Fever,Indiana Fever,Chicago Sky,16,4,20,1249444800.0,2009
+Indiana Fever,Phoenix Mercury,Indiana Fever,17,4,21,1249704000.0,2009
+Indiana Fever,Los Angeles Sparks,Indiana Fever,17,5,22,1249876800.0,2009
+Indiana Fever,Minnesota Lynx,Indiana Fever,18,5,23,1250136000.0,2009
+Indiana Fever,Indiana Fever,Detroit Shock,19,5,24,1250308800.0,2009
+Indiana Fever,Sacramento Monarchs,Indiana Fever,19,6,25,1250740800.0,2009
+Indiana Fever,Seattle Storm,Indiana Fever,19,7,26,1250913600.0,2009
+Indiana Fever,Indiana Fever,San Antonio Silver Stars,20,7,27,1251345600.0,2009
+Indiana Fever,Indiana Fever,Sacramento Monarchs,20,8,28,1251518400.0,2009
+Indiana Fever,Indiana Fever,Phoenix Mercury,20,9,29,1251864000.0,2009
+Indiana Fever,Detroit Shock,Indiana Fever,20,10,30,1252036800.0,2009
+Indiana Fever,Indiana Fever,Washington Mystics,21,10,31,1252209600.0,2009
+Indiana Fever,New York Liberty,Indiana Fever,22,10,32,1252382400.0,2009
+Indiana Fever,Chicago Sky,Indiana Fever,22,11,33,1252555200.0,2009
+Indiana Fever,Connecticut Sun,Indiana Fever,22,12,34,1252814400.0,2009
+Los Angeles Sparks,Los Angeles Sparks,Detroit Shock,1,0,1,1244260800.0,2009
+Los Angeles Sparks,Detroit Shock,Los Angeles Sparks,1,1,2,1244433600.0,2009
+Los Angeles Sparks,Minnesota Lynx,Los Angeles Sparks,1,2,3,1244606400.0,2009
+Los Angeles Sparks,Indiana Fever,Los Angeles Sparks,1,3,4,1244779200.0,2009
+Los Angeles Sparks,Phoenix Mercury,Los Angeles Sparks,1,4,5,1245384000.0,2009
+Los Angeles Sparks,Los Angeles Sparks,Sacramento Monarchs,2,4,6,1245556800.0,2009
+Los Angeles Sparks,Seattle Storm,Los Angeles Sparks,2,5,7,1245988800.0,2009
+Los Angeles Sparks,Los Angeles Sparks,Seattle Storm,3,5,8,1246161600.0,2009
+Los Angeles Sparks,Los Angeles Sparks,Phoenix Mercury,3,6,9,1246766400.0,2009
+Los Angeles Sparks,New York Liberty,Los Angeles Sparks,4,6,10,1247112000.0,2009
+Los Angeles Sparks,Washington Mystics,Los Angeles Sparks,4,7,11,1247284800.0,2009
+Los Angeles Sparks,Connecticut Sun,Los Angeles Sparks,4,8,12,1247544000.0,2009
+Los Angeles Sparks,Seattle Storm,Los Angeles Sparks,4,9,13,1248235200.0,2009
+Los Angeles Sparks,Minnesota Lynx,Los Angeles Sparks,5,9,14,1248753600.0,2009
+Los Angeles Sparks,Chicago Sky,Los Angeles Sparks,5,10,15,1248840000.0,2009
+Los Angeles Sparks,Sacramento Monarchs,Los Angeles Sparks,6,10,16,1249099200.0,2009
+Los Angeles Sparks,Los Angeles Sparks,San Antonio Silver Stars,6,11,17,1249358400.0,2009
+Los Angeles Sparks,Los Angeles Sparks,Seattle Storm,7,11,18,1249531200.0,2009
+Los Angeles Sparks,Los Angeles Sparks,Indiana Fever,8,11,19,1249876800.0,2009
+Los Angeles Sparks,Los Angeles Sparks,New York Liberty,8,12,20,1249963200.0,2009
+Los Angeles Sparks,Los Angeles Sparks,Sacramento Monarchs,8,13,21,1250222400.0,2009
+Los Angeles Sparks,Sacramento Monarchs,Los Angeles Sparks,9,13,22,1250308800.0,2009
+Los Angeles Sparks,Los Angeles Sparks,Washington Mystics,10,13,23,1250568000.0,2009
+Los Angeles Sparks,Los Angeles Sparks,Minnesota Lynx,11,13,24,1250654400.0,2009
+Los Angeles Sparks,San Antonio Silver Stars,Los Angeles Sparks,12,13,25,1250827200.0,2009
+Los Angeles Sparks,Atlanta Dream,Los Angeles Sparks,13,13,26,1251000000.0,2009
+Los Angeles Sparks,Los Angeles Sparks,Chicago Sky,14,13,27,1251172800.0,2009
+Los Angeles Sparks,Los Angeles Sparks,Phoenix Mercury,14,14,28,1251345600.0,2009
+Los Angeles Sparks,Los Angeles Sparks,Connecticut Sun,15,14,29,1251604800.0,2009
+Los Angeles Sparks,Los Angeles Sparks,Atlanta Dream,15,15,30,1251777600.0,2009
+Los Angeles Sparks,San Antonio Silver Stars,Los Angeles Sparks,15,16,31,1252123200.0,2009
+Los Angeles Sparks,Los Angeles Sparks,San Antonio Silver Stars,16,16,32,1252382400.0,2009
+Los Angeles Sparks,Los Angeles Sparks,Minnesota Lynx,17,16,33,1252641600.0,2009
+Los Angeles Sparks,Phoenix Mercury,Los Angeles Sparks,18,16,34,1252814400.0,2009
+Minnesota Lynx,Minnesota Lynx,Chicago Sky,1,0,1,1244260800.0,2009
+Minnesota Lynx,Indiana Fever,Minnesota Lynx,2,0,2,1244347200.0,2009
+Minnesota Lynx,Minnesota Lynx,Los Angeles Sparks,3,0,3,1244606400.0,2009
+Minnesota Lynx,Minnesota Lynx,Seattle Storm,3,1,4,1244779200.0,2009
+Minnesota Lynx,Sacramento Monarchs,Minnesota Lynx,4,1,5,1245124800.0,2009
+Minnesota Lynx,Phoenix Mercury,Minnesota Lynx,4,2,6,1245211200.0,2009
+Minnesota Lynx,Seattle Storm,Minnesota Lynx,4,3,7,1245384000.0,2009
+Minnesota Lynx,Minnesota Lynx,New York Liberty,5,3,8,1245729600.0,2009
+Minnesota Lynx,Minnesota Lynx,Phoenix Mercury,6,3,9,1246075200.0,2009
+Minnesota Lynx,Atlanta Dream,Minnesota Lynx,7,3,10,1246334400.0,2009
+Minnesota Lynx,Minnesota Lynx,Sacramento Monarchs,7,4,11,1246507200.0,2009
+Minnesota Lynx,Minnesota Lynx,Washington Mystics,8,4,12,1246939200.0,2009
+Minnesota Lynx,Minnesota Lynx,San Antonio Silver Stars,8,5,13,1247198400.0,2009
+Minnesota Lynx,San Antonio Silver Stars,Minnesota Lynx,9,5,14,1247371200.0,2009
+Minnesota Lynx,Minnesota Lynx,Atlanta Dream,9,6,15,1247630400.0,2009
+Minnesota Lynx,Seattle Storm,Minnesota Lynx,9,7,16,1247976000.0,2009
+Minnesota Lynx,Phoenix Mercury,Minnesota Lynx,10,7,17,1248235200.0,2009
+Minnesota Lynx,Minnesota Lynx,Los Angeles Sparks,10,8,18,1248753600.0,2009
+Minnesota Lynx,Detroit Shock,Minnesota Lynx,10,9,19,1249012800.0,2009
+Minnesota Lynx,Minnesota Lynx,Phoenix Mercury,10,10,20,1249099200.0,2009
+Minnesota Lynx,Minnesota Lynx,Connecticut Sun,11,10,21,1249617600.0,2009
+Minnesota Lynx,Minnesota Lynx,San Antonio Silver Stars,11,11,22,1249790400.0,2009
+Minnesota Lynx,Minnesota Lynx,Indiana Fever,11,12,23,1250136000.0,2009
+Minnesota Lynx,Chicago Sky,Minnesota Lynx,11,13,24,1250308800.0,2009
+Minnesota Lynx,Los Angeles Sparks,Minnesota Lynx,11,14,25,1250654400.0,2009
+Minnesota Lynx,Connecticut Sun,Minnesota Lynx,11,15,26,1250913600.0,2009
+Minnesota Lynx,New York Liberty,Minnesota Lynx,11,16,27,1251000000.0,2009
+Minnesota Lynx,Minnesota Lynx,Sacramento Monarchs,12,16,28,1251432000.0,2009
+Minnesota Lynx,Washington Mystics,Minnesota Lynx,12,17,29,1251604800.0,2009
+Minnesota Lynx,San Antonio Silver Stars,Minnesota Lynx,12,18,30,1251777600.0,2009
+Minnesota Lynx,Minnesota Lynx,Seattle Storm,13,18,31,1252123200.0,2009
+Minnesota Lynx,Minnesota Lynx,Detroit Shock,14,18,32,1252468800.0,2009
+Minnesota Lynx,Los Angeles Sparks,Minnesota Lynx,14,19,33,1252641600.0,2009
+Minnesota Lynx,Sacramento Monarchs,Minnesota Lynx,14,20,34,1252814400.0,2009
+New York Liberty,New York Liberty,Connecticut Sun,0,1,1,1244347200.0,2009
+New York Liberty,Phoenix Mercury,New York Liberty,0,2,2,1244606400.0,2009
+New York Liberty,San Antonio Silver Stars,New York Liberty,0,3,3,1244865600.0,2009
+New York Liberty,New York Liberty,San Antonio Silver Stars,1,3,4,1245384000.0,2009
+New York Liberty,Atlanta Dream,New York Liberty,2,3,5,1245556800.0,2009
+New York Liberty,Minnesota Lynx,New York Liberty,2,4,6,1245729600.0,2009
+New York Liberty,New York Liberty,Indiana Fever,2,5,7,1245988800.0,2009
+New York Liberty,Indiana Fever,New York Liberty,2,6,8,1246075200.0,2009
+New York Liberty,New York Liberty,Detroit Shock,3,6,9,1246507200.0,2009
+New York Liberty,New York Liberty,Los Angeles Sparks,3,7,10,1247112000.0,2009
+New York Liberty,New York Liberty,Atlanta Dream,4,7,11,1247284800.0,2009
+New York Liberty,Washington Mystics,New York Liberty,4,8,12,1247889600.0,2009
+New York Liberty,New York Liberty,Atlanta Dream,5,8,13,1247976000.0,2009
+New York Liberty,Chicago Sky,New York Liberty,6,8,14,1248235200.0,2009
+New York Liberty,New York Liberty,Sacramento Monarchs,6,9,15,1248321600.0,2009
+New York Liberty,New York Liberty,Phoenix Mercury,6,10,16,1248580800.0,2009
+New York Liberty,New York Liberty,Washington Mystics,6,11,17,1248926400.0,2009
+New York Liberty,Atlanta Dream,New York Liberty,6,12,18,1249099200.0,2009
+New York Liberty,Detroit Shock,New York Liberty,6,13,19,1249358400.0,2009
+New York Liberty,Sacramento Monarchs,New York Liberty,7,13,20,1249617600.0,2009
+New York Liberty,Seattle Storm,New York Liberty,7,14,21,1249704000.0,2009
+New York Liberty,Los Angeles Sparks,New York Liberty,8,14,22,1249963200.0,2009
+New York Liberty,New York Liberty,Chicago Sky,8,15,23,1250222400.0,2009
+New York Liberty,Washington Mystics,New York Liberty,9,15,24,1250395200.0,2009
+New York Liberty,Connecticut Sun,New York Liberty,9,16,25,1250654400.0,2009
+New York Liberty,New York Liberty,Connecticut Sun,10,16,26,1250827200.0,2009
+New York Liberty,New York Liberty,Minnesota Lynx,11,16,27,1251000000.0,2009
+New York Liberty,Chicago Sky,New York Liberty,11,17,28,1251432000.0,2009
+New York Liberty,New York Liberty,Chicago Sky,12,17,29,1251604800.0,2009
+New York Liberty,New York Liberty,Seattle Storm,12,18,30,1251777600.0,2009
+New York Liberty,Connecticut Sun,New York Liberty,12,19,31,1252036800.0,2009
+New York Liberty,New York Liberty,Indiana Fever,12,20,32,1252382400.0,2009
+New York Liberty,Detroit Shock,New York Liberty,12,21,33,1252555200.0,2009
+New York Liberty,New York Liberty,Washington Mystics,13,21,34,1252814400.0,2009
+Phoenix Mercury,Phoenix Mercury,San Antonio Silver Stars,1,0,1,1244260800.0,2009
+Phoenix Mercury,Phoenix Mercury,New York Liberty,2,0,2,1244606400.0,2009
+Phoenix Mercury,Sacramento Monarchs,Phoenix Mercury,2,1,3,1244779200.0,2009
+Phoenix Mercury,Phoenix Mercury,Sacramento Monarchs,3,1,4,1244865600.0,2009
+Phoenix Mercury,Phoenix Mercury,Minnesota Lynx,4,1,5,1245211200.0,2009
+Phoenix Mercury,Phoenix Mercury,Los Angeles Sparks,5,1,6,1245384000.0,2009
+Phoenix Mercury,Phoenix Mercury,Seattle Storm,5,2,7,1245556800.0,2009
+Phoenix Mercury,San Antonio Silver Stars,Phoenix Mercury,5,3,8,1245729600.0,2009
+Phoenix Mercury,Washington Mystics,Phoenix Mercury,6,3,9,1245902400.0,2009
+Phoenix Mercury,Minnesota Lynx,Phoenix Mercury,6,4,10,1246075200.0,2009
+Phoenix Mercury,Phoenix Mercury,Seattle Storm,7,4,11,1246420800.0,2009
+Phoenix Mercury,Los Angeles Sparks,Phoenix Mercury,8,4,12,1246766400.0,2009
+Phoenix Mercury,Phoenix Mercury,Chicago Sky,9,4,13,1247025600.0,2009
+Phoenix Mercury,Sacramento Monarchs,Phoenix Mercury,10,4,14,1247284800.0,2009
+Phoenix Mercury,Phoenix Mercury,Sacramento Monarchs,11,4,15,1247630400.0,2009
+Phoenix Mercury,Phoenix Mercury,Detroit Shock,12,4,16,1247889600.0,2009
+Phoenix Mercury,Phoenix Mercury,Minnesota Lynx,12,5,17,1248235200.0,2009
+Phoenix Mercury,New York Liberty,Phoenix Mercury,13,5,18,1248580800.0,2009
+Phoenix Mercury,Connecticut Sun,Phoenix Mercury,14,5,19,1248753600.0,2009
+Phoenix Mercury,Atlanta Dream,Phoenix Mercury,14,6,20,1248926400.0,2009
+Phoenix Mercury,Minnesota Lynx,Phoenix Mercury,15,6,21,1249099200.0,2009
+Phoenix Mercury,Seattle Storm,Phoenix Mercury,16,6,22,1249358400.0,2009
+Phoenix Mercury,Phoenix Mercury,Indiana Fever,16,7,23,1249704000.0,2009
+Phoenix Mercury,Phoenix Mercury,San Antonio Silver Stars,17,7,24,1250136000.0,2009
+Phoenix Mercury,San Antonio Silver Stars,Phoenix Mercury,17,8,25,1250308800.0,2009
+Phoenix Mercury,Chicago Sky,Phoenix Mercury,18,8,26,1250568000.0,2009
+Phoenix Mercury,Phoenix Mercury,Washington Mystics,18,9,27,1250827200.0,2009
+Phoenix Mercury,Los Angeles Sparks,Phoenix Mercury,19,9,28,1251345600.0,2009
+Phoenix Mercury,Phoenix Mercury,Connecticut Sun,20,9,29,1251518400.0,2009
+Phoenix Mercury,Detroit Shock,Phoenix Mercury,20,10,30,1251777600.0,2009
+Phoenix Mercury,Indiana Fever,Phoenix Mercury,21,10,31,1251864000.0,2009
+Phoenix Mercury,Phoenix Mercury,Atlanta Dream,22,10,32,1252123200.0,2009
+Phoenix Mercury,Seattle Storm,Phoenix Mercury,23,10,33,1252555200.0,2009
+Phoenix Mercury,Phoenix Mercury,Los Angeles Sparks,23,11,34,1252814400.0,2009
+Sacramento Monarchs,Sacramento Monarchs,Seattle Storm,0,1,1,1244260800.0,2009
+Sacramento Monarchs,Seattle Storm,Sacramento Monarchs,0,2,2,1244347200.0,2009
+Sacramento Monarchs,Sacramento Monarchs,Phoenix Mercury,1,2,3,1244779200.0,2009
+Sacramento Monarchs,Phoenix Mercury,Sacramento Monarchs,1,3,4,1244865600.0,2009
+Sacramento Monarchs,Sacramento Monarchs,Minnesota Lynx,1,4,5,1245124800.0,2009
+Sacramento Monarchs,Los Angeles Sparks,Sacramento Monarchs,1,5,6,1245556800.0,2009
+Sacramento Monarchs,San Antonio Silver Stars,Sacramento Monarchs,1,6,7,1245988800.0,2009
+Sacramento Monarchs,Detroit Shock,Sacramento Monarchs,1,7,8,1246161600.0,2009
+Sacramento Monarchs,Chicago Sky,Sacramento Monarchs,1,8,9,1246334400.0,2009
+Sacramento Monarchs,Minnesota Lynx,Sacramento Monarchs,2,8,10,1246507200.0,2009
+Sacramento Monarchs,Sacramento Monarchs,Chicago Sky,3,8,11,1246939200.0,2009
+Sacramento Monarchs,Seattle Storm,Sacramento Monarchs,3,9,12,1247112000.0,2009
+Sacramento Monarchs,Sacramento Monarchs,Phoenix Mercury,3,10,13,1247284800.0,2009
+Sacramento Monarchs,Phoenix Mercury,Sacramento Monarchs,3,11,14,1247630400.0,2009
+Sacramento Monarchs,Sacramento Monarchs,Seattle Storm,3,12,15,1247803200.0,2009
+Sacramento Monarchs,Sacramento Monarchs,Detroit Shock,3,13,16,1247976000.0,2009
+Sacramento Monarchs,Connecticut Sun,Sacramento Monarchs,3,14,17,1248235200.0,2009
+Sacramento Monarchs,New York Liberty,Sacramento Monarchs,4,14,18,1248321600.0,2009
+Sacramento Monarchs,Washington Mystics,Sacramento Monarchs,4,15,19,1248580800.0,2009
+Sacramento Monarchs,Sacramento Monarchs,San Antonio Silver Stars,5,15,20,1248926400.0,2009
+Sacramento Monarchs,Sacramento Monarchs,Los Angeles Sparks,5,16,21,1249099200.0,2009
+Sacramento Monarchs,Sacramento Monarchs,New York Liberty,5,17,22,1249617600.0,2009
+Sacramento Monarchs,San Antonio Silver Stars,Sacramento Monarchs,6,17,23,1249963200.0,2009
+Sacramento Monarchs,Los Angeles Sparks,Sacramento Monarchs,7,17,24,1250222400.0,2009
+Sacramento Monarchs,Sacramento Monarchs,Los Angeles Sparks,7,18,25,1250308800.0,2009
+Sacramento Monarchs,Sacramento Monarchs,Indiana Fever,8,18,26,1250740800.0,2009
+Sacramento Monarchs,Sacramento Monarchs,Washington Mystics,9,18,27,1250913600.0,2009
+Sacramento Monarchs,Atlanta Dream,Sacramento Monarchs,9,19,28,1251172800.0,2009
+Sacramento Monarchs,Minnesota Lynx,Sacramento Monarchs,9,20,29,1251432000.0,2009
+Sacramento Monarchs,Indiana Fever,Sacramento Monarchs,10,20,30,1251518400.0,2009
+Sacramento Monarchs,Sacramento Monarchs,Connecticut Sun,11,20,31,1251777600.0,2009
+Sacramento Monarchs,Sacramento Monarchs,Atlanta Dream,11,21,32,1252036800.0,2009
+Sacramento Monarchs,Sacramento Monarchs,San Antonio Silver Stars,11,22,33,1252555200.0,2009
+Sacramento Monarchs,Sacramento Monarchs,Minnesota Lynx,12,22,34,1252814400.0,2009
+San Antonio Silver Stars,Phoenix Mercury,San Antonio Silver Stars,0,1,1,1244260800.0,2009
+San Antonio Silver Stars,San Antonio Silver Stars,New York Liberty,1,1,2,1244865600.0,2009
+San Antonio Silver Stars,New York Liberty,San Antonio Silver Stars,1,2,3,1245384000.0,2009
+San Antonio Silver Stars,Connecticut Sun,San Antonio Silver Stars,1,3,4,1245556800.0,2009
+San Antonio Silver Stars,San Antonio Silver Stars,Phoenix Mercury,2,3,5,1245729600.0,2009
+San Antonio Silver Stars,San Antonio Silver Stars,Sacramento Monarchs,3,3,6,1245988800.0,2009
+San Antonio Silver Stars,San Antonio Silver Stars,Washington Mystics,3,4,7,1246334400.0,2009
+San Antonio Silver Stars,San Antonio Silver Stars,Chicago Sky,4,4,8,1246593600.0,2009
+San Antonio Silver Stars,Seattle Storm,San Antonio Silver Stars,4,5,9,1246939200.0,2009
+San Antonio Silver Stars,Minnesota Lynx,San Antonio Silver Stars,5,5,10,1247198400.0,2009
+San Antonio Silver Stars,San Antonio Silver Stars,Minnesota Lynx,5,6,11,1247371200.0,2009
+San Antonio Silver Stars,Washington Mystics,San Antonio Silver Stars,6,6,12,1247630400.0,2009
+San Antonio Silver Stars,San Antonio Silver Stars,Connecticut Sun,6,7,13,1247803200.0,2009
+San Antonio Silver Stars,Chicago Sky,San Antonio Silver Stars,6,8,14,1247976000.0,2009
+San Antonio Silver Stars,San Antonio Silver Stars,Indiana Fever,7,8,15,1248321600.0,2009
+San Antonio Silver Stars,San Antonio Silver Stars,Seattle Storm,8,8,16,1248753600.0,2009
+San Antonio Silver Stars,Sacramento Monarchs,San Antonio Silver Stars,8,9,17,1248926400.0,2009
+San Antonio Silver Stars,Seattle Storm,San Antonio Silver Stars,8,10,18,1249099200.0,2009
+San Antonio Silver Stars,Los Angeles Sparks,San Antonio Silver Stars,9,10,19,1249358400.0,2009
+San Antonio Silver Stars,San Antonio Silver Stars,Atlanta Dream,9,11,20,1249531200.0,2009
+San Antonio Silver Stars,Minnesota Lynx,San Antonio Silver Stars,10,11,21,1249790400.0,2009
+San Antonio Silver Stars,San Antonio Silver Stars,Sacramento Monarchs,10,12,22,1249963200.0,2009
+San Antonio Silver Stars,Phoenix Mercury,San Antonio Silver Stars,10,13,23,1250136000.0,2009
+San Antonio Silver Stars,San Antonio Silver Stars,Phoenix Mercury,11,13,24,1250308800.0,2009
+San Antonio Silver Stars,Atlanta Dream,San Antonio Silver Stars,11,14,25,1250740800.0,2009
+San Antonio Silver Stars,San Antonio Silver Stars,Los Angeles Sparks,11,15,26,1250827200.0,2009
+San Antonio Silver Stars,Detroit Shock,San Antonio Silver Stars,11,16,27,1251000000.0,2009
+San Antonio Silver Stars,Indiana Fever,San Antonio Silver Stars,11,17,28,1251345600.0,2009
+San Antonio Silver Stars,San Antonio Silver Stars,Detroit Shock,12,17,29,1251518400.0,2009
+San Antonio Silver Stars,San Antonio Silver Stars,Minnesota Lynx,13,17,30,1251777600.0,2009
+San Antonio Silver Stars,San Antonio Silver Stars,Los Angeles Sparks,14,17,31,1252123200.0,2009
+San Antonio Silver Stars,Los Angeles Sparks,San Antonio Silver Stars,14,18,32,1252382400.0,2009
+San Antonio Silver Stars,Sacramento Monarchs,San Antonio Silver Stars,15,18,33,1252555200.0,2009
+San Antonio Silver Stars,San Antonio Silver Stars,Seattle Storm,15,19,34,1252728000.0,2009
+Seattle Storm,Sacramento Monarchs,Seattle Storm,1,0,1,1244260800.0,2009
+Seattle Storm,Seattle Storm,Sacramento Monarchs,2,0,2,1244347200.0,2009
+Seattle Storm,Indiana Fever,Seattle Storm,2,1,3,1244520000.0,2009
+Seattle Storm,Minnesota Lynx,Seattle Storm,3,1,4,1244779200.0,2009
+Seattle Storm,Chicago Sky,Seattle Storm,3,2,5,1244952000.0,2009
+Seattle Storm,Seattle Storm,Minnesota Lynx,4,2,6,1245384000.0,2009
+Seattle Storm,Phoenix Mercury,Seattle Storm,5,2,7,1245556800.0,2009
+Seattle Storm,Seattle Storm,Los Angeles Sparks,6,2,8,1245988800.0,2009
+Seattle Storm,Los Angeles Sparks,Seattle Storm,6,3,9,1246161600.0,2009
+Seattle Storm,Phoenix Mercury,Seattle Storm,6,4,10,1246420800.0,2009
+Seattle Storm,Seattle Storm,San Antonio Silver Stars,7,4,11,1246939200.0,2009
+Seattle Storm,Seattle Storm,Sacramento Monarchs,8,4,12,1247112000.0,2009
+Seattle Storm,Seattle Storm,Chicago Sky,8,5,13,1247371200.0,2009
+Seattle Storm,Seattle Storm,Detroit Shock,8,6,14,1247630400.0,2009
+Seattle Storm,Sacramento Monarchs,Seattle Storm,9,6,15,1247803200.0,2009
+Seattle Storm,Seattle Storm,Minnesota Lynx,10,6,16,1247976000.0,2009
+Seattle Storm,Seattle Storm,Los Angeles Sparks,11,6,17,1248235200.0,2009
+Seattle Storm,San Antonio Silver Stars,Seattle Storm,11,7,18,1248753600.0,2009
+Seattle Storm,Seattle Storm,San Antonio Silver Stars,12,7,19,1249099200.0,2009
+Seattle Storm,Seattle Storm,Phoenix Mercury,12,8,20,1249358400.0,2009
+Seattle Storm,Los Angeles Sparks,Seattle Storm,12,9,21,1249531200.0,2009
+Seattle Storm,Seattle Storm,New York Liberty,13,9,22,1249704000.0,2009
+Seattle Storm,Connecticut Sun,Seattle Storm,13,10,23,1250136000.0,2009
+Seattle Storm,Atlanta Dream,Seattle Storm,13,11,24,1250308800.0,2009
+Seattle Storm,Detroit Shock,Seattle Storm,14,11,25,1250568000.0,2009
+Seattle Storm,Seattle Storm,Indiana Fever,15,11,26,1250913600.0,2009
+Seattle Storm,Seattle Storm,Washington Mystics,16,11,27,1251172800.0,2009
+Seattle Storm,Seattle Storm,Connecticut Sun,17,11,28,1251345600.0,2009
+Seattle Storm,Seattle Storm,Atlanta Dream,18,11,29,1251518400.0,2009
+Seattle Storm,New York Liberty,Seattle Storm,19,11,30,1251777600.0,2009
+Seattle Storm,Washington Mystics,Seattle Storm,19,12,31,1251950400.0,2009
+Seattle Storm,Minnesota Lynx,Seattle Storm,19,13,32,1252123200.0,2009
+Seattle Storm,Seattle Storm,Phoenix Mercury,19,14,33,1252555200.0,2009
+Seattle Storm,San Antonio Silver Stars,Seattle Storm,20,14,34,1252728000.0,2009
+Washington Mystics,Connecticut Sun,Washington Mystics,1,0,1,1244260800.0,2009
+Washington Mystics,Washington Mystics,Atlanta Dream,2,0,2,1244347200.0,2009
+Washington Mystics,Detroit Shock,Washington Mystics,3,0,3,1244606400.0,2009
+Washington Mystics,Atlanta Dream,Washington Mystics,3,1,4,1245384000.0,2009
+Washington Mystics,Washington Mystics,Chicago Sky,4,1,5,1245470400.0,2009
+Washington Mystics,Washington Mystics,Phoenix Mercury,4,2,6,1245902400.0,2009
+Washington Mystics,Chicago Sky,Washington Mystics,4,3,7,1246075200.0,2009
+Washington Mystics,San Antonio Silver Stars,Washington Mystics,5,3,8,1246334400.0,2009
+Washington Mystics,Atlanta Dream,Washington Mystics,5,4,9,1246593600.0,2009
+Washington Mystics,Minnesota Lynx,Washington Mystics,5,5,10,1246939200.0,2009
+Washington Mystics,Washington Mystics,Los Angeles Sparks,6,5,11,1247284800.0,2009
+Washington Mystics,Washington Mystics,San Antonio Silver Stars,6,6,12,1247630400.0,2009
+Washington Mystics,Washington Mystics,New York Liberty,7,6,13,1247889600.0,2009
+Washington Mystics,Washington Mystics,Indiana Fever,7,7,14,1248148800.0,2009
+Washington Mystics,Washington Mystics,Chicago Sky,8,7,15,1248321600.0,2009
+Washington Mystics,Washington Mystics,Sacramento Monarchs,9,7,16,1248580800.0,2009
+Washington Mystics,Indiana Fever,Washington Mystics,9,8,17,1248753600.0,2009
+Washington Mystics,New York Liberty,Washington Mystics,10,8,18,1248926400.0,2009
+Washington Mystics,Washington Mystics,Indiana Fever,10,9,19,1249185600.0,2009
+Washington Mystics,Washington Mystics,Detroit Shock,11,9,20,1249617600.0,2009
+Washington Mystics,Connecticut Sun,Washington Mystics,11,10,21,1249790400.0,2009
+Washington Mystics,Washington Mystics,Detroit Shock,11,11,22,1249963200.0,2009
+Washington Mystics,Washington Mystics,Connecticut Sun,12,11,23,1250222400.0,2009
+Washington Mystics,Washington Mystics,New York Liberty,12,12,24,1250395200.0,2009
+Washington Mystics,Los Angeles Sparks,Washington Mystics,12,13,25,1250568000.0,2009
+Washington Mystics,Phoenix Mercury,Washington Mystics,13,13,26,1250827200.0,2009
+Washington Mystics,Sacramento Monarchs,Washington Mystics,13,14,27,1250913600.0,2009
+Washington Mystics,Seattle Storm,Washington Mystics,13,15,28,1251172800.0,2009
+Washington Mystics,Washington Mystics,Minnesota Lynx,14,15,29,1251604800.0,2009
+Washington Mystics,Washington Mystics,Seattle Storm,15,15,30,1251950400.0,2009
+Washington Mystics,Chicago Sky,Washington Mystics,15,16,31,1252036800.0,2009
+Washington Mystics,Indiana Fever,Washington Mystics,15,17,32,1252209600.0,2009
+Washington Mystics,Washington Mystics,Atlanta Dream,16,17,33,1252728000.0,2009
+Washington Mystics,New York Liberty,Washington Mystics,16,18,34,1252814400.0,2009

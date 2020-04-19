@@ -1,0 +1,985 @@
+id,home_team,away_team,win,loss,game_number,date,year
+Baltimore Bullets,Baltimore Bullets,New York Knicks,1,0,1,-69624000.0,1968
+Baltimore Bullets,Baltimore Bullets,Boston Celtics,1,1,2,-69364800.0,1968
+Baltimore Bullets,Baltimore Bullets,Seattle Supersonics,2,1,3,-69105600.0,1968
+Baltimore Bullets,San Diego Rockets,Baltimore Bullets,3,1,4,-69019200.0,1968
+Baltimore Bullets,San Francisco Warriors,Baltimore Bullets,3,2,5,-68846400.0,1968
+Baltimore Bullets,Los Angeles Lakers,Baltimore Bullets,3,3,6,-68673600.0,1968
+Baltimore Bullets,St. Louis Hawks,Baltimore Bullets,3,4,7,-68497200.0,1968
+Baltimore Bullets,Philadelphia 76ers,Baltimore Bullets,3,5,8,-68410800.0,1968
+Baltimore Bullets,Baltimore Bullets,Detroit Pistons,3,6,9,-68238000.0,1968
+Baltimore Bullets,Detroit Pistons,Baltimore Bullets,3,7,10,-68151600.0,1968
+Baltimore Bullets,Baltimore Bullets,Cincinnati Royals,4,7,11,-67806000.0,1968
+Baltimore Bullets,Boston Celtics,Baltimore Bullets,4,8,12,-67633200.0,1968
+Baltimore Bullets,Baltimore Bullets,Seattle Supersonics,5,8,13,-67546800.0,1968
+Baltimore Bullets,Baltimore Bullets,San Francisco Warriors,5,9,14,-67287600.0,1968
+Baltimore Bullets,Baltimore Bullets,Los Angeles Lakers,6,9,15,-67028400.0,1968
+Baltimore Bullets,New York Knicks,Baltimore Bullets,7,9,16,-66942000.0,1968
+Baltimore Bullets,Baltimore Bullets,Chicago Bulls,7,10,17,-66596400.0,1968
+Baltimore Bullets,Baltimore Bullets,Boston Celtics,8,10,18,-66337200.0,1968
+Baltimore Bullets,Baltimore Bullets,San Francisco Warriors,8,11,19,-66078000.0,1968
+Baltimore Bullets,Baltimore Bullets,Cincinnati Royals,9,11,20,-65818800.0,1968
+Baltimore Bullets,Philadelphia 76ers,Baltimore Bullets,9,12,21,-65732400.0,1968
+Baltimore Bullets,New York Knicks,Baltimore Bullets,9,13,22,-65473200.0,1968
+Baltimore Bullets,Baltimore Bullets,Los Angeles Lakers,9,14,23,-65386800.0,1968
+Baltimore Bullets,Boston Celtics,Baltimore Bullets,9,15,24,-65214000.0,1968
+Baltimore Bullets,Baltimore Bullets,Philadelphia 76ers,9,16,25,-65127600.0,1968
+Baltimore Bullets,St. Louis Hawks,Baltimore Bullets,9,17,26,-65041200.0,1968
+Baltimore Bullets,Baltimore Bullets,Detroit Pistons,10,17,27,-64868400.0,1968
+Baltimore Bullets,Cincinnati Royals,Baltimore Bullets,10,18,28,-64782000.0,1968
+Baltimore Bullets,Baltimore Bullets,San Francisco Warriors,10,19,29,-64609200.0,1968
+Baltimore Bullets,Baltimore Bullets,St. Louis Hawks,11,19,30,-64263600.0,1968
+Baltimore Bullets,Chicago Bulls,Baltimore Bullets,12,19,31,-64090800.0,1968
+Baltimore Bullets,Baltimore Bullets,Chicago Bulls,13,19,32,-64004400.0,1968
+Baltimore Bullets,Baltimore Bullets,Philadelphia 76ers,13,20,33,-63745200.0,1968
+Baltimore Bullets,Baltimore Bullets,Cincinnati Royals,14,20,34,-63399600.0,1968
+Baltimore Bullets,Chicago Bulls,Baltimore Bullets,14,21,35,-63140400.0,1968
+Baltimore Bullets,Baltimore Bullets,Detroit Pistons,14,22,36,-63054000.0,1968
+Baltimore Bullets,Baltimore Bullets,Chicago Bulls,14,23,37,-62967600.0,1968
+Baltimore Bullets,Baltimore Bullets,Los Angeles Lakers,15,23,38,-62708400.0,1968
+Baltimore Bullets,Baltimore Bullets,Cincinnati Royals,16,23,39,-62449200.0,1968
+Baltimore Bullets,Cincinnati Royals,Baltimore Bullets,16,24,40,-62362800.0,1968
+Baltimore Bullets,Baltimore Bullets,St. Louis Hawks,16,25,41,-62276400.0,1968
+Baltimore Bullets,Philadelphia 76ers,Baltimore Bullets,16,26,42,-62190000.0,1968
+Baltimore Bullets,Chicago Bulls,Baltimore Bullets,16,27,43,-62103600.0,1968
+Baltimore Bullets,Baltimore Bullets,Seattle Supersonics,16,28,44,-61844400.0,1968
+Baltimore Bullets,Baltimore Bullets,New York Knicks,16,29,45,-61758000.0,1968
+Baltimore Bullets,Baltimore Bullets,St. Louis Hawks,16,30,46,-61671600.0,1968
+Baltimore Bullets,Baltimore Bullets,Boston Celtics,17,30,47,-61498800.0,1968
+Baltimore Bullets,San Diego Rockets,Baltimore Bullets,18,30,48,-61066800.0,1968
+Baltimore Bullets,San Francisco Warriors,Baltimore Bullets,19,30,49,-60980400.0,1968
+Baltimore Bullets,San Diego Rockets,Baltimore Bullets,20,30,50,-60894000.0,1968
+Baltimore Bullets,Baltimore Bullets,Seattle Supersonics,20,31,51,-60807600.0,1968
+Baltimore Bullets,New York Knicks,Baltimore Bullets,21,31,52,-60634800.0,1968
+Baltimore Bullets,Baltimore Bullets,Detroit Pistons,22,31,53,-60548400.0,1968
+Baltimore Bullets,Boston Celtics,Baltimore Bullets,22,32,54,-60375600.0,1968
+Baltimore Bullets,Baltimore Bullets,Philadelphia 76ers,22,33,55,-60289200.0,1968
+Baltimore Bullets,Detroit Pistons,Baltimore Bullets,22,34,56,-60202800.0,1968
+Baltimore Bullets,Baltimore Bullets,San Diego Rockets,23,34,57,-60116400.0,1968
+Baltimore Bullets,Baltimore Bullets,New York Knicks,23,35,58,-59943600.0,1968
+Baltimore Bullets,Baltimore Bullets,San Diego Rockets,24,35,59,-59857200.0,1968
+Baltimore Bullets,Detroit Pistons,Baltimore Bullets,25,35,60,-59684400.0,1968
+Baltimore Bullets,Baltimore Bullets,San Diego Rockets,26,35,61,-59598000.0,1968
+Baltimore Bullets,Baltimore Bullets,Los Angeles Lakers,26,36,62,-59425200.0,1968
+Baltimore Bullets,Baltimore Bullets,Seattle Supersonics,27,36,63,-59166000.0,1968
+Baltimore Bullets,Cincinnati Royals,Baltimore Bullets,27,37,64,-59079600.0,1968
+Baltimore Bullets,Baltimore Bullets,St. Louis Hawks,28,37,65,-58820400.0,1968
+Baltimore Bullets,Baltimore Bullets,San Francisco Warriors,29,37,66,-58734000.0,1968
+Baltimore Bullets,Baltimore Bullets,Cincinnati Royals,30,37,67,-58647600.0,1968
+Baltimore Bullets,St. Louis Hawks,Baltimore Bullets,30,38,68,-58561200.0,1968
+Baltimore Bullets,Baltimore Bullets,Detroit Pistons,31,38,69,-58474800.0,1968
+Baltimore Bullets,Baltimore Bullets,New York Knicks,31,39,70,-58129200.0,1968
+Baltimore Bullets,San Diego Rockets,Baltimore Bullets,32,39,71,-57956400.0,1968
+Baltimore Bullets,San Francisco Warriors,Baltimore Bullets,32,40,72,-57870000.0,1968
+Baltimore Bullets,Los Angeles Lakers,Baltimore Bullets,32,41,73,-57783600.0,1968
+Baltimore Bullets,Seattle Supersonics,Baltimore Bullets,33,41,74,-57610800.0,1968
+Baltimore Bullets,Baltimore Bullets,Seattle Supersonics,34,41,75,-57351600.0,1968
+Baltimore Bullets,Los Angeles Lakers,Baltimore Bullets,35,41,76,-57178800.0,1968
+Baltimore Bullets,New York Knicks,Baltimore Bullets,35,42,77,-57006000.0,1968
+Baltimore Bullets,Baltimore Bullets,Chicago Bulls,35,43,78,-56919600.0,1968
+Baltimore Bullets,Philadelphia 76ers,Baltimore Bullets,35,44,79,-56746800.0,1968
+Baltimore Bullets,Baltimore Bullets,Boston Celtics,35,45,80,-56660400.0,1968
+Baltimore Bullets,Boston Celtics,Baltimore Bullets,36,45,81,-56574000.0,1968
+Baltimore Bullets,Baltimore Bullets,Philadelphia 76ers,36,46,82,-56314800.0,1968
+Boston Celtics,Boston Celtics,Chicago Bulls,1,0,1,-69969600.0,1968
+Boston Celtics,Baltimore Bullets,Boston Celtics,2,0,2,-69364800.0,1968
+Boston Celtics,Boston Celtics,St. Louis Hawks,3,0,3,-69019200.0,1968
+Boston Celtics,Detroit Pistons,Boston Celtics,4,0,4,-68846400.0,1968
+Boston Celtics,Boston Celtics,Philadelphia 76ers,5,0,5,-68760000.0,1968
+Boston Celtics,Boston Celtics,Los Angeles Lakers,6,0,6,-68238000.0,1968
+Boston Celtics,St. Louis Hawks,Boston Celtics,6,1,7,-68151600.0,1968
+Boston Celtics,Cincinnati Royals,Boston Celtics,7,1,8,-67892400.0,1968
+Boston Celtics,Chicago Bulls,Boston Celtics,8,1,9,-67719600.0,1968
+Boston Celtics,Boston Celtics,Baltimore Bullets,9,1,10,-67633200.0,1968
+Boston Celtics,New York Knicks,Boston Celtics,9,2,11,-67546800.0,1968
+Boston Celtics,Boston Celtics,Seattle Supersonics,10,2,12,-67287600.0,1968
+Boston Celtics,Boston Celtics,San Francisco Warriors,11,2,13,-67201200.0,1968
+Boston Celtics,Boston Celtics,Cincinnati Royals,11,3,14,-67028400.0,1968
+Boston Celtics,Philadelphia 76ers,Boston Celtics,12,3,15,-66942000.0,1968
+Boston Celtics,Boston Celtics,San Diego Rockets,13,3,16,-66682800.0,1968
+Boston Celtics,Boston Celtics,San Diego Rockets,14,3,17,-66596400.0,1968
+Boston Celtics,Boston Celtics,Seattle Supersonics,14,4,18,-66510000.0,1968
+Boston Celtics,Baltimore Bullets,Boston Celtics,14,5,19,-66337200.0,1968
+Boston Celtics,Boston Celtics,Detroit Pistons,15,5,20,-66078000.0,1968
+Boston Celtics,Boston Celtics,Los Angeles Lakers,16,5,21,-65818800.0,1968
+Boston Celtics,Detroit Pistons,Boston Celtics,16,6,22,-65732400.0,1968
+Boston Celtics,Boston Celtics,New York Knicks,17,6,23,-65386800.0,1968
+Boston Celtics,Boston Celtics,Baltimore Bullets,18,6,24,-65214000.0,1968
+Boston Celtics,Cincinnati Royals,Boston Celtics,18,7,25,-65127600.0,1968
+Boston Celtics,Boston Celtics,Philadelphia 76ers,19,7,26,-64695600.0,1968
+Boston Celtics,Boston Celtics,San Diego Rockets,20,7,27,-64609200.0,1968
+Boston Celtics,Los Angeles Lakers,Boston Celtics,21,7,28,-64436400.0,1968
+Boston Celtics,Seattle Supersonics,Boston Celtics,22,7,29,-64263600.0,1968
+Boston Celtics,San Diego Rockets,Boston Celtics,23,7,30,-64177200.0,1968
+Boston Celtics,Boston Celtics,Cincinnati Royals,24,7,31,-64004400.0,1968
+Boston Celtics,New York Knicks,Boston Celtics,25,7,32,-63745200.0,1968
+Boston Celtics,Boston Celtics,San Francisco Warriors,25,8,33,-63658800.0,1968
+Boston Celtics,St. Louis Hawks,Boston Celtics,25,9,34,-63572400.0,1968
+Boston Celtics,Philadelphia 76ers,Boston Celtics,25,10,35,-63399600.0,1968
+Boston Celtics,Chicago Bulls,Boston Celtics,25,11,36,-63054000.0,1968
+Boston Celtics,Los Angeles Lakers,Boston Celtics,26,11,37,-62967600.0,1968
+Boston Celtics,Seattle Supersonics,Boston Celtics,27,11,38,-62794800.0,1968
+Boston Celtics,San Francisco Warriors,Boston Celtics,27,12,39,-62708400.0,1968
+Boston Celtics,Boston Celtics,Seattle Supersonics,28,12,40,-62362800.0,1968
+Boston Celtics,Boston Celtics,Cincinnati Royals,28,13,41,-62276400.0,1968
+Boston Celtics,Boston Celtics,Detroit Pistons,29,13,42,-62190000.0,1968
+Boston Celtics,Boston Celtics,San Francisco Warriors,30,13,43,-61930800.0,1968
+Boston Celtics,Boston Celtics,St. Louis Hawks,31,13,44,-61758000.0,1968
+Boston Celtics,Boston Celtics,New York Knicks,32,13,45,-61585200.0,1968
+Boston Celtics,Baltimore Bullets,Boston Celtics,32,14,46,-61498800.0,1968
+Boston Celtics,Boston Celtics,San Diego Rockets,33,14,47,-61412400.0,1968
+Boston Celtics,Boston Celtics,St. Louis Hawks,33,15,48,-61066800.0,1968
+Boston Celtics,Boston Celtics,Los Angeles Lakers,33,16,49,-60980400.0,1968
+Boston Celtics,Boston Celtics,Philadelphia 76ers,34,16,50,-60807600.0,1968
+Boston Celtics,Philadelphia 76ers,Boston Celtics,34,17,51,-60634800.0,1968
+Boston Celtics,Boston Celtics,Chicago Bulls,35,17,52,-60548400.0,1968
+Boston Celtics,Boston Celtics,Baltimore Bullets,36,17,53,-60375600.0,1968
+Boston Celtics,New York Knicks,Boston Celtics,37,17,54,-60289200.0,1968
+Boston Celtics,Boston Celtics,New York Knicks,37,18,55,-60202800.0,1968
+Boston Celtics,Boston Celtics,St. Louis Hawks,38,18,56,-59943600.0,1968
+Boston Celtics,Boston Celtics,Detroit Pistons,39,18,57,-59770800.0,1968
+Boston Celtics,Boston Celtics,Los Angeles Lakers,39,19,58,-59598000.0,1968
+Boston Celtics,Detroit Pistons,Boston Celtics,40,19,59,-59425200.0,1968
+Boston Celtics,Boston Celtics,Detroit Pistons,41,19,60,-59338800.0,1968
+Boston Celtics,Chicago Bulls,Boston Celtics,42,19,61,-59166000.0,1968
+Boston Celtics,St. Louis Hawks,Boston Celtics,43,19,62,-59079600.0,1968
+Boston Celtics,Cincinnati Royals,Boston Celtics,43,20,63,-58993200.0,1968
+Boston Celtics,Boston Celtics,Cincinnati Royals,44,20,64,-58820400.0,1968
+Boston Celtics,Los Angeles Lakers,Boston Celtics,44,21,65,-58734000.0,1968
+Boston Celtics,San Francisco Warriors,Boston Celtics,44,22,66,-58561200.0,1968
+Boston Celtics,Boston Celtics,Seattle Supersonics,45,22,67,-58474800.0,1968
+Boston Celtics,San Diego Rockets,Boston Celtics,46,22,68,-58302000.0,1968
+Boston Celtics,Boston Celtics,San Francisco Warriors,47,22,69,-58129200.0,1968
+Boston Celtics,Boston Celtics,Chicago Bulls,48,22,70,-57956400.0,1968
+Boston Celtics,Boston Celtics,Philadelphia 76ers,48,23,71,-57783600.0,1968
+Boston Celtics,New York Knicks,Boston Celtics,49,23,72,-57610800.0,1968
+Boston Celtics,Boston Celtics,New York Knicks,50,23,73,-57524400.0,1968
+Boston Celtics,Chicago Bulls,Boston Celtics,50,24,74,-57438000.0,1968
+Boston Celtics,Philadelphia 76ers,Boston Celtics,50,25,75,-57351600.0,1968
+Boston Celtics,Boston Celtics,Cincinnati Royals,50,26,76,-57178800.0,1968
+Boston Celtics,Seattle Supersonics,Boston Celtics,51,26,77,-57092400.0,1968
+Boston Celtics,San Francisco Warriors,Boston Celtics,52,26,78,-57006000.0,1968
+Boston Celtics,San Diego Rockets,Boston Celtics,53,26,79,-56919600.0,1968
+Boston Celtics,Baltimore Bullets,Boston Celtics,54,26,80,-56660400.0,1968
+Boston Celtics,Boston Celtics,Baltimore Bullets,54,27,81,-56574000.0,1968
+Boston Celtics,Boston Celtics,Detroit Pistons,54,28,82,-56314800.0,1968
+Chicago Bulls,Boston Celtics,Chicago Bulls,0,1,1,-69969600.0,1968
+Chicago Bulls,Chicago Bulls,Los Angeles Lakers,0,2,2,-69710400.0,1968
+Chicago Bulls,Chicago Bulls,San Francisco Warriors,0,3,3,-69537600.0,1968
+Chicago Bulls,Chicago Bulls,St. Louis Hawks,0,4,4,-69451200.0,1968
+Chicago Bulls,Cincinnati Royals,Chicago Bulls,0,5,5,-69364800.0,1968
+Chicago Bulls,Detroit Pistons,Chicago Bulls,0,6,6,-69019200.0,1968
+Chicago Bulls,Los Angeles Lakers,Chicago Bulls,0,7,7,-68846400.0,1968
+Chicago Bulls,San Francisco Warriors,Chicago Bulls,0,8,8,-68673600.0,1968
+Chicago Bulls,Seattle Supersonics,Chicago Bulls,0,9,9,-68497200.0,1968
+Chicago Bulls,Chicago Bulls,Seattle Supersonics,1,9,10,-68324400.0,1968
+Chicago Bulls,Chicago Bulls,St. Louis Hawks,1,10,11,-67892400.0,1968
+Chicago Bulls,Chicago Bulls,Boston Celtics,1,11,12,-67719600.0,1968
+Chicago Bulls,Los Angeles Lakers,Chicago Bulls,1,12,13,-67460400.0,1968
+Chicago Bulls,Los Angeles Lakers,Chicago Bulls,1,13,14,-67201200.0,1968
+Chicago Bulls,San Diego Rockets,Chicago Bulls,1,14,15,-67114800.0,1968
+Chicago Bulls,San Francisco Warriors,Chicago Bulls,1,15,16,-67028400.0,1968
+Chicago Bulls,Chicago Bulls,Detroit Pistons,2,15,17,-66942000.0,1968
+Chicago Bulls,New York Knicks,Chicago Bulls,2,16,18,-66682800.0,1968
+Chicago Bulls,Baltimore Bullets,Chicago Bulls,3,16,19,-66596400.0,1968
+Chicago Bulls,Chicago Bulls,New York Knicks,4,16,20,-66510000.0,1968
+Chicago Bulls,Chicago Bulls,Philadelphia 76ers,4,17,21,-66423600.0,1968
+Chicago Bulls,Philadelphia 76ers,Chicago Bulls,5,17,22,-66337200.0,1968
+Chicago Bulls,Chicago Bulls,Seattle Supersonics,5,18,23,-66078000.0,1968
+Chicago Bulls,Chicago Bulls,New York Knicks,6,18,24,-65818800.0,1968
+Chicago Bulls,Cincinnati Royals,Chicago Bulls,7,18,25,-65732400.0,1968
+Chicago Bulls,Chicago Bulls,Cincinnati Royals,8,18,26,-65473200.0,1968
+Chicago Bulls,Detroit Pistons,Chicago Bulls,8,19,27,-65386800.0,1968
+Chicago Bulls,Chicago Bulls,San Diego Rockets,8,20,28,-65300400.0,1968
+Chicago Bulls,Seattle Supersonics,Chicago Bulls,9,20,29,-65214000.0,1968
+Chicago Bulls,San Francisco Warriors,Chicago Bulls,9,21,30,-65127600.0,1968
+Chicago Bulls,San Diego Rockets,Chicago Bulls,9,22,31,-64868400.0,1968
+Chicago Bulls,San Francisco Warriors,Chicago Bulls,10,22,32,-64782000.0,1968
+Chicago Bulls,Los Angeles Lakers,Chicago Bulls,11,22,33,-64695600.0,1968
+Chicago Bulls,Chicago Bulls,Seattle Supersonics,11,23,34,-64609200.0,1968
+Chicago Bulls,Chicago Bulls,Philadelphia 76ers,11,24,35,-64522800.0,1968
+Chicago Bulls,Chicago Bulls,Baltimore Bullets,11,25,36,-64090800.0,1968
+Chicago Bulls,Baltimore Bullets,Chicago Bulls,11,26,37,-64004400.0,1968
+Chicago Bulls,Chicago Bulls,Los Angeles Lakers,11,27,38,-63658800.0,1968
+Chicago Bulls,Chicago Bulls,San Francisco Warriors,12,27,39,-63399600.0,1968
+Chicago Bulls,Chicago Bulls,Baltimore Bullets,13,27,40,-63140400.0,1968
+Chicago Bulls,Chicago Bulls,Boston Celtics,14,27,41,-63054000.0,1968
+Chicago Bulls,Baltimore Bullets,Chicago Bulls,15,27,42,-62967600.0,1968
+Chicago Bulls,Chicago Bulls,New York Knicks,15,28,43,-62794800.0,1968
+Chicago Bulls,Cincinnati Royals,Chicago Bulls,16,28,44,-62708400.0,1968
+Chicago Bulls,Chicago Bulls,St. Louis Hawks,16,29,45,-62449200.0,1968
+Chicago Bulls,Chicago Bulls,Baltimore Bullets,17,29,46,-62103600.0,1968
+Chicago Bulls,St. Louis Hawks,Chicago Bulls,17,30,47,-62017200.0,1968
+Chicago Bulls,Chicago Bulls,San Diego Rockets,18,30,48,-61844400.0,1968
+Chicago Bulls,Chicago Bulls,San Diego Rockets,18,31,49,-61758000.0,1968
+Chicago Bulls,Chicago Bulls,Philadelphia 76ers,18,32,50,-61498800.0,1968
+Chicago Bulls,St. Louis Hawks,Chicago Bulls,18,33,51,-61412400.0,1968
+Chicago Bulls,Chicago Bulls,New York Knicks,18,34,52,-61066800.0,1968
+Chicago Bulls,Chicago Bulls,San Francisco Warriors,18,35,53,-60634800.0,1968
+Chicago Bulls,Boston Celtics,Chicago Bulls,18,36,54,-60548400.0,1968
+Chicago Bulls,Chicago Bulls,New York Knicks,18,37,55,-60462000.0,1968
+Chicago Bulls,Chicago Bulls,Cincinnati Royals,18,38,56,-60375600.0,1968
+Chicago Bulls,Chicago Bulls,San Francisco Warriors,18,39,57,-60030000.0,1968
+Chicago Bulls,Chicago Bulls,Detroit Pistons,19,39,58,-59857200.0,1968
+Chicago Bulls,Philadelphia 76ers,Chicago Bulls,19,40,59,-59770800.0,1968
+Chicago Bulls,St. Louis Hawks,Chicago Bulls,19,41,60,-59684400.0,1968
+Chicago Bulls,Chicago Bulls,Cincinnati Royals,20,41,61,-59511600.0,1968
+Chicago Bulls,Chicago Bulls,San Diego Rockets,21,41,62,-59425200.0,1968
+Chicago Bulls,Chicago Bulls,Los Angeles Lakers,21,42,63,-59252400.0,1968
+Chicago Bulls,Chicago Bulls,Boston Celtics,21,43,64,-59166000.0,1968
+Chicago Bulls,St. Louis Hawks,Chicago Bulls,22,43,65,-58993200.0,1968
+Chicago Bulls,Chicago Bulls,Detroit Pistons,23,43,66,-58820400.0,1968
+Chicago Bulls,Chicago Bulls,Seattle Supersonics,24,43,67,-58734000.0,1968
+Chicago Bulls,New York Knicks,Chicago Bulls,24,44,68,-58474800.0,1968
+Chicago Bulls,Chicago Bulls,Los Angeles Lakers,24,45,69,-58042800.0,1968
+Chicago Bulls,Boston Celtics,Chicago Bulls,24,46,70,-57956400.0,1968
+Chicago Bulls,Detroit Pistons,Chicago Bulls,24,47,71,-57783600.0,1968
+Chicago Bulls,Chicago Bulls,Detroit Pistons,24,48,72,-57610800.0,1968
+Chicago Bulls,Chicago Bulls,Boston Celtics,25,48,73,-57438000.0,1968
+Chicago Bulls,Chicago Bulls,St. Louis Hawks,25,49,74,-57265200.0,1968
+Chicago Bulls,Chicago Bulls,Cincinnati Royals,26,49,75,-57092400.0,1968
+Chicago Bulls,Chicago Bulls,Philadelphia 76ers,26,50,76,-57006000.0,1968
+Chicago Bulls,Baltimore Bullets,Chicago Bulls,27,50,77,-56919600.0,1968
+Chicago Bulls,Chicago Bulls,Seattle Supersonics,27,51,78,-56746800.0,1968
+Chicago Bulls,Chicago Bulls,Philadelphia 76ers,27,52,79,-56660400.0,1968
+Chicago Bulls,San Diego Rockets,Chicago Bulls,28,52,80,-56574000.0,1968
+Chicago Bulls,Seattle Supersonics,Chicago Bulls,28,53,81,-56401200.0,1968
+Chicago Bulls,San Diego Rockets,Chicago Bulls,29,53,82,-56314800.0,1968
+Cincinnati Royals,Detroit Pistons,Cincinnati Royals,0,1,1,-69710400.0,1968
+Cincinnati Royals,Cincinnati Royals,San Francisco Warriors,1,1,2,-69624000.0,1968
+Cincinnati Royals,Cincinnati Royals,Chicago Bulls,2,1,3,-69364800.0,1968
+Cincinnati Royals,Seattle Supersonics,Cincinnati Royals,3,1,4,-69278400.0,1968
+Cincinnati Royals,San Francisco Warriors,Cincinnati Royals,3,2,5,-69105600.0,1968
+Cincinnati Royals,Los Angeles Lakers,Cincinnati Royals,3,3,6,-69019200.0,1968
+Cincinnati Royals,San Diego Rockets,Cincinnati Royals,4,3,7,-68846400.0,1968
+Cincinnati Royals,San Diego Rockets,Cincinnati Royals,5,3,8,-68673600.0,1968
+Cincinnati Royals,Cincinnati Royals,St. Louis Hawks,5,4,9,-68410800.0,1968
+Cincinnati Royals,Cincinnati Royals,Los Angeles Lakers,5,5,10,-68151600.0,1968
+Cincinnati Royals,Cincinnati Royals,Boston Celtics,5,6,11,-67892400.0,1968
+Cincinnati Royals,Baltimore Bullets,Cincinnati Royals,5,7,12,-67806000.0,1968
+Cincinnati Royals,New York Knicks,Cincinnati Royals,5,8,13,-67719600.0,1968
+Cincinnati Royals,Cincinnati Royals,San Diego Rockets,6,8,14,-67546800.0,1968
+Cincinnati Royals,Philadelphia 76ers,Cincinnati Royals,6,9,15,-67287600.0,1968
+Cincinnati Royals,Boston Celtics,Cincinnati Royals,7,9,16,-67028400.0,1968
+Cincinnati Royals,Cincinnati Royals,New York Knicks,8,9,17,-66596400.0,1968
+Cincinnati Royals,Cincinnati Royals,Seattle Supersonics,9,9,18,-66423600.0,1968
+Cincinnati Royals,Cincinnati Royals,Detroit Pistons,9,10,19,-66337200.0,1968
+Cincinnati Royals,Cincinnati Royals,New York Knicks,9,11,20,-65991600.0,1968
+Cincinnati Royals,Baltimore Bullets,Cincinnati Royals,9,12,21,-65818800.0,1968
+Cincinnati Royals,Cincinnati Royals,Chicago Bulls,9,13,22,-65732400.0,1968
+Cincinnati Royals,Chicago Bulls,Cincinnati Royals,9,14,23,-65473200.0,1968
+Cincinnati Royals,Cincinnati Royals,Philadelphia 76ers,9,15,24,-65386800.0,1968
+Cincinnati Royals,St. Louis Hawks,Cincinnati Royals,9,16,25,-65214000.0,1968
+Cincinnati Royals,Cincinnati Royals,Boston Celtics,10,16,26,-65127600.0,1968
+Cincinnati Royals,Cincinnati Royals,Baltimore Bullets,11,16,27,-64782000.0,1968
+Cincinnati Royals,Cincinnati Royals,Detroit Pistons,12,16,28,-64609200.0,1968
+Cincinnati Royals,Detroit Pistons,Cincinnati Royals,13,16,29,-64522800.0,1968
+Cincinnati Royals,New York Knicks,Cincinnati Royals,13,17,30,-64263600.0,1968
+Cincinnati Royals,Boston Celtics,Cincinnati Royals,13,18,31,-64004400.0,1968
+Cincinnati Royals,Cincinnati Royals,Seattle Supersonics,14,18,32,-63745200.0,1968
+Cincinnati Royals,Philadelphia 76ers,Cincinnati Royals,14,19,33,-63658800.0,1968
+Cincinnati Royals,Cincinnati Royals,Los Angeles Lakers,15,19,34,-63572400.0,1968
+Cincinnati Royals,Cincinnati Royals,San Francisco Warriors,16,19,35,-63486000.0,1968
+Cincinnati Royals,Baltimore Bullets,Cincinnati Royals,16,20,36,-63399600.0,1968
+Cincinnati Royals,New York Knicks,Cincinnati Royals,17,20,37,-63054000.0,1968
+Cincinnati Royals,Detroit Pistons,Cincinnati Royals,17,21,38,-62794800.0,1968
+Cincinnati Royals,Cincinnati Royals,Chicago Bulls,17,22,39,-62708400.0,1968
+Cincinnati Royals,Cincinnati Royals,Philadelphia 76ers,18,22,40,-62622000.0,1968
+Cincinnati Royals,Baltimore Bullets,Cincinnati Royals,18,23,41,-62449200.0,1968
+Cincinnati Royals,Cincinnati Royals,Baltimore Bullets,19,23,42,-62362800.0,1968
+Cincinnati Royals,Boston Celtics,Cincinnati Royals,20,23,43,-62276400.0,1968
+Cincinnati Royals,Cincinnati Royals,San Diego Rockets,21,23,44,-62103600.0,1968
+Cincinnati Royals,Cincinnati Royals,San Francisco Warriors,22,23,45,-61844400.0,1968
+Cincinnati Royals,Cincinnati Royals,San Diego Rockets,23,23,46,-61671600.0,1968
+Cincinnati Royals,Cincinnati Royals,Detroit Pistons,24,23,47,-61498800.0,1968
+Cincinnati Royals,Cincinnati Royals,Los Angeles Lakers,24,24,48,-61066800.0,1968
+Cincinnati Royals,Philadelphia 76ers,Cincinnati Royals,24,25,49,-60980400.0,1968
+Cincinnati Royals,Cincinnati Royals,St. Louis Hawks,24,26,50,-60894000.0,1968
+Cincinnati Royals,Cincinnati Royals,Detroit Pistons,25,26,51,-60634800.0,1968
+Cincinnati Royals,Cincinnati Royals,New York Knicks,25,27,52,-60548400.0,1968
+Cincinnati Royals,Chicago Bulls,Cincinnati Royals,26,27,53,-60375600.0,1968
+Cincinnati Royals,Cincinnati Royals,St. Louis Hawks,26,28,54,-60289200.0,1968
+Cincinnati Royals,St. Louis Hawks,Cincinnati Royals,26,29,55,-60202800.0,1968
+Cincinnati Royals,Cincinnati Royals,Seattle Supersonics,26,30,56,-60116400.0,1968
+Cincinnati Royals,Los Angeles Lakers,Cincinnati Royals,26,31,57,-60030000.0,1968
+Cincinnati Royals,San Francisco Warriors,Cincinnati Royals,26,32,58,-59857200.0,1968
+Cincinnati Royals,San Diego Rockets,Cincinnati Royals,27,32,59,-59684400.0,1968
+Cincinnati Royals,Chicago Bulls,Cincinnati Royals,27,33,60,-59511600.0,1968
+Cincinnati Royals,Cincinnati Royals,St. Louis Hawks,27,34,61,-59425200.0,1968
+Cincinnati Royals,Cincinnati Royals,Seattle Supersonics,28,34,62,-59252400.0,1968
+Cincinnati Royals,Cincinnati Royals,New York Knicks,29,34,63,-59166000.0,1968
+Cincinnati Royals,Cincinnati Royals,Baltimore Bullets,30,34,64,-59079600.0,1968
+Cincinnati Royals,Cincinnati Royals,Boston Celtics,31,34,65,-58993200.0,1968
+Cincinnati Royals,Boston Celtics,Cincinnati Royals,31,35,66,-58820400.0,1968
+Cincinnati Royals,Baltimore Bullets,Cincinnati Royals,31,36,67,-58647600.0,1968
+Cincinnati Royals,Los Angeles Lakers,Cincinnati Royals,31,37,68,-58561200.0,1968
+Cincinnati Royals,San Francisco Warriors,Cincinnati Royals,31,38,69,-58474800.0,1968
+Cincinnati Royals,Los Angeles Lakers,Cincinnati Royals,31,39,70,-58215600.0,1968
+Cincinnati Royals,San Diego Rockets,Cincinnati Royals,32,39,71,-58042800.0,1968
+Cincinnati Royals,San Francisco Warriors,Cincinnati Royals,33,39,72,-57956400.0,1968
+Cincinnati Royals,Seattle Supersonics,Cincinnati Royals,34,39,73,-57783600.0,1968
+Cincinnati Royals,Cincinnati Royals,Philadelphia 76ers,35,39,74,-57524400.0,1968
+Cincinnati Royals,Cincinnati Royals,Philadelphia 76ers,35,40,75,-57438000.0,1968
+Cincinnati Royals,Cincinnati Royals,Detroit Pistons,35,41,76,-57351600.0,1968
+Cincinnati Royals,Boston Celtics,Cincinnati Royals,36,41,77,-57178800.0,1968
+Cincinnati Royals,Chicago Bulls,Cincinnati Royals,36,42,78,-57092400.0,1968
+Cincinnati Royals,Cincinnati Royals,Seattle Supersonics,37,42,79,-56919600.0,1968
+Cincinnati Royals,Cincinnati Royals,St. Louis Hawks,38,42,80,-56833200.0,1968
+Cincinnati Royals,Philadelphia 76ers,Cincinnati Royals,39,42,81,-56401200.0,1968
+Cincinnati Royals,New York Knicks,Cincinnati Royals,39,43,82,-56314800.0,1968
+Detroit Pistons,Detroit Pistons,Cincinnati Royals,1,0,1,-69710400.0,1968
+Detroit Pistons,Philadelphia 76ers,Detroit Pistons,1,1,2,-69364800.0,1968
+Detroit Pistons,Detroit Pistons,Philadelphia 76ers,1,2,3,-69105600.0,1968
+Detroit Pistons,Detroit Pistons,Chicago Bulls,2,2,4,-69019200.0,1968
+Detroit Pistons,Detroit Pistons,Boston Celtics,2,3,5,-68846400.0,1968
+Detroit Pistons,New York Knicks,Detroit Pistons,3,3,6,-68760000.0,1968
+Detroit Pistons,Detroit Pistons,San Francisco Warriors,3,4,7,-68410800.0,1968
+Detroit Pistons,Baltimore Bullets,Detroit Pistons,4,4,8,-68238000.0,1968
+Detroit Pistons,Detroit Pistons,Baltimore Bullets,5,4,9,-68151600.0,1968
+Detroit Pistons,Detroit Pistons,New York Knicks,6,4,10,-67806000.0,1968
+Detroit Pistons,Detroit Pistons,Seattle Supersonics,7,4,11,-67719600.0,1968
+Detroit Pistons,Detroit Pistons,St. Louis Hawks,7,5,12,-67633200.0,1968
+Detroit Pistons,Detroit Pistons,St. Louis Hawks,8,5,13,-67287600.0,1968
+Detroit Pistons,Detroit Pistons,Philadelphia 76ers,9,5,14,-67201200.0,1968
+Detroit Pistons,Chicago Bulls,Detroit Pistons,9,6,15,-66942000.0,1968
+Detroit Pistons,Seattle Supersonics,Detroit Pistons,9,7,16,-66855600.0,1968
+Detroit Pistons,Detroit Pistons,Seattle Supersonics,10,7,17,-66769200.0,1968
+Detroit Pistons,San Francisco Warriors,Detroit Pistons,10,8,18,-66682800.0,1968
+Detroit Pistons,Los Angeles Lakers,Detroit Pistons,10,9,19,-66510000.0,1968
+Detroit Pistons,Detroit Pistons,San Diego Rockets,11,9,20,-66423600.0,1968
+Detroit Pistons,Cincinnati Royals,Detroit Pistons,12,9,21,-66337200.0,1968
+Detroit Pistons,Boston Celtics,Detroit Pistons,12,10,22,-66078000.0,1968
+Detroit Pistons,Detroit Pistons,Los Angeles Lakers,13,10,23,-65991600.0,1968
+Detroit Pistons,Detroit Pistons,Boston Celtics,14,10,24,-65732400.0,1968
+Detroit Pistons,Detroit Pistons,San Diego Rockets,15,10,25,-65473200.0,1968
+Detroit Pistons,Detroit Pistons,Chicago Bulls,16,10,26,-65386800.0,1968
+Detroit Pistons,Detroit Pistons,Los Angeles Lakers,16,11,27,-65214000.0,1968
+Detroit Pistons,New York Knicks,Detroit Pistons,17,11,28,-65127600.0,1968
+Detroit Pistons,Baltimore Bullets,Detroit Pistons,17,12,29,-64868400.0,1968
+Detroit Pistons,Detroit Pistons,New York Knicks,18,12,30,-64782000.0,1968
+Detroit Pistons,Cincinnati Royals,Detroit Pistons,18,13,31,-64609200.0,1968
+Detroit Pistons,Detroit Pistons,Cincinnati Royals,18,14,32,-64522800.0,1968
+Detroit Pistons,San Diego Rockets,Detroit Pistons,18,15,33,-64436400.0,1968
+Detroit Pistons,Detroit Pistons,Seattle Supersonics,19,15,34,-64350000.0,1968
+Detroit Pistons,San Francisco Warriors,Detroit Pistons,19,16,35,-64177200.0,1968
+Detroit Pistons,Los Angeles Lakers,Detroit Pistons,19,17,36,-64004400.0,1968
+Detroit Pistons,San Diego Rockets,Detroit Pistons,20,17,37,-63918000.0,1968
+Detroit Pistons,Detroit Pistons,St. Louis Hawks,21,17,38,-63658800.0,1968
+Detroit Pistons,Detroit Pistons,St. Louis Hawks,21,18,39,-63399600.0,1968
+Detroit Pistons,Detroit Pistons,Philadelphia 76ers,21,19,40,-63313200.0,1968
+Detroit Pistons,Baltimore Bullets,Detroit Pistons,22,19,41,-63054000.0,1968
+Detroit Pistons,Detroit Pistons,Cincinnati Royals,23,19,42,-62794800.0,1968
+Detroit Pistons,New York Knicks,Detroit Pistons,23,20,43,-62708400.0,1968
+Detroit Pistons,San Francisco Warriors,Detroit Pistons,24,20,44,-62449200.0,1968
+Detroit Pistons,San Diego Rockets,Detroit Pistons,24,21,45,-62362800.0,1968
+Detroit Pistons,Boston Celtics,Detroit Pistons,24,22,46,-62190000.0,1968
+Detroit Pistons,Detroit Pistons,Philadelphia 76ers,24,23,47,-62103600.0,1968
+Detroit Pistons,Detroit Pistons,San Francisco Warriors,25,23,48,-61758000.0,1968
+Detroit Pistons,Detroit Pistons,Seattle Supersonics,26,23,49,-61585200.0,1968
+Detroit Pistons,Cincinnati Royals,Detroit Pistons,26,24,50,-61498800.0,1968
+Detroit Pistons,Detroit Pistons,New York Knicks,26,25,51,-61412400.0,1968
+Detroit Pistons,Detroit Pistons,Philadelphia 76ers,26,26,52,-61066800.0,1968
+Detroit Pistons,Detroit Pistons,Los Angeles Lakers,27,26,53,-60894000.0,1968
+Detroit Pistons,Cincinnati Royals,Detroit Pistons,27,27,54,-60634800.0,1968
+Detroit Pistons,Baltimore Bullets,Detroit Pistons,27,28,55,-60548400.0,1968
+Detroit Pistons,Philadelphia 76ers,Detroit Pistons,27,29,56,-60375600.0,1968
+Detroit Pistons,Detroit Pistons,Baltimore Bullets,28,29,57,-60202800.0,1968
+Detroit Pistons,Detroit Pistons,San Diego Rockets,29,29,58,-60030000.0,1968
+Detroit Pistons,Chicago Bulls,Detroit Pistons,29,30,59,-59857200.0,1968
+Detroit Pistons,Boston Celtics,Detroit Pistons,29,31,60,-59770800.0,1968
+Detroit Pistons,Detroit Pistons,Baltimore Bullets,29,32,61,-59684400.0,1968
+Detroit Pistons,Detroit Pistons,Boston Celtics,29,33,62,-59425200.0,1968
+Detroit Pistons,Boston Celtics,Detroit Pistons,29,34,63,-59338800.0,1968
+Detroit Pistons,Detroit Pistons,San Francisco Warriors,30,34,64,-58993200.0,1968
+Detroit Pistons,Chicago Bulls,Detroit Pistons,30,35,65,-58820400.0,1968
+Detroit Pistons,Detroit Pistons,St. Louis Hawks,30,36,66,-58647600.0,1968
+Detroit Pistons,Philadelphia 76ers,Detroit Pistons,30,37,67,-58561200.0,1968
+Detroit Pistons,Baltimore Bullets,Detroit Pistons,30,38,68,-58474800.0,1968
+Detroit Pistons,Detroit Pistons,New York Knicks,30,39,69,-58388400.0,1968
+Detroit Pistons,Detroit Pistons,St. Louis Hawks,31,39,70,-57956400.0,1968
+Detroit Pistons,New York Knicks,Detroit Pistons,31,40,71,-57870000.0,1968
+Detroit Pistons,Detroit Pistons,Chicago Bulls,32,40,72,-57783600.0,1968
+Detroit Pistons,Chicago Bulls,Detroit Pistons,33,40,73,-57610800.0,1968
+Detroit Pistons,Detroit Pistons,San Diego Rockets,34,40,74,-57524400.0,1968
+Detroit Pistons,Cincinnati Royals,Detroit Pistons,35,40,75,-57351600.0,1968
+Detroit Pistons,St. Louis Hawks,Detroit Pistons,36,40,76,-57178800.0,1968
+Detroit Pistons,Detroit Pistons,Seattle Supersonics,37,40,77,-57006000.0,1968
+Detroit Pistons,San Francisco Warriors,Detroit Pistons,38,40,78,-56746800.0,1968
+Detroit Pistons,Los Angeles Lakers,Detroit Pistons,38,41,79,-56660400.0,1968
+Detroit Pistons,Los Angeles Lakers,Detroit Pistons,38,42,80,-56574000.0,1968
+Detroit Pistons,Seattle Supersonics,Detroit Pistons,39,42,81,-56487600.0,1968
+Detroit Pistons,Boston Celtics,Detroit Pistons,40,42,82,-56314800.0,1968
+Los Angeles Lakers,Chicago Bulls,Los Angeles Lakers,1,0,1,-69710400.0,1968
+Los Angeles Lakers,Philadelphia 76ers,Los Angeles Lakers,1,1,2,-69624000.0,1968
+Los Angeles Lakers,St. Louis Hawks,Los Angeles Lakers,1,2,3,-69537600.0,1968
+Los Angeles Lakers,New York Knicks,Los Angeles Lakers,2,2,4,-69364800.0,1968
+Los Angeles Lakers,Los Angeles Lakers,Cincinnati Royals,3,2,5,-69019200.0,1968
+Los Angeles Lakers,Los Angeles Lakers,Chicago Bulls,4,2,6,-68846400.0,1968
+Los Angeles Lakers,Los Angeles Lakers,Baltimore Bullets,5,2,7,-68673600.0,1968
+Los Angeles Lakers,Los Angeles Lakers,New York Knicks,5,3,8,-68410800.0,1968
+Los Angeles Lakers,Boston Celtics,Los Angeles Lakers,5,4,9,-68238000.0,1968
+Los Angeles Lakers,Cincinnati Royals,Los Angeles Lakers,6,4,10,-68151600.0,1968
+Los Angeles Lakers,Los Angeles Lakers,Philadelphia 76ers,6,5,11,-67546800.0,1968
+Los Angeles Lakers,Los Angeles Lakers,Chicago Bulls,7,5,12,-67460400.0,1968
+Los Angeles Lakers,Los Angeles Lakers,Chicago Bulls,8,5,13,-67201200.0,1968
+Los Angeles Lakers,Baltimore Bullets,Los Angeles Lakers,8,6,14,-67028400.0,1968
+Los Angeles Lakers,St. Louis Hawks,Los Angeles Lakers,9,6,15,-66942000.0,1968
+Los Angeles Lakers,Seattle Supersonics,Los Angeles Lakers,9,7,16,-66682800.0,1968
+Los Angeles Lakers,Los Angeles Lakers,Detroit Pistons,10,7,17,-66510000.0,1968
+Los Angeles Lakers,San Francisco Warriors,Los Angeles Lakers,10,8,18,-66423600.0,1968
+Los Angeles Lakers,Los Angeles Lakers,San Francisco Warriors,10,9,19,-66337200.0,1968
+Los Angeles Lakers,Los Angeles Lakers,St. Louis Hawks,11,9,20,-66250800.0,1968
+Los Angeles Lakers,Los Angeles Lakers,St. Louis Hawks,12,9,21,-66078000.0,1968
+Los Angeles Lakers,Detroit Pistons,Los Angeles Lakers,12,10,22,-65991600.0,1968
+Los Angeles Lakers,Boston Celtics,Los Angeles Lakers,12,11,23,-65818800.0,1968
+Los Angeles Lakers,New York Knicks,Los Angeles Lakers,13,11,24,-65732400.0,1968
+Los Angeles Lakers,Philadelphia 76ers,Los Angeles Lakers,14,11,25,-65473200.0,1968
+Los Angeles Lakers,Baltimore Bullets,Los Angeles Lakers,15,11,26,-65386800.0,1968
+Los Angeles Lakers,Detroit Pistons,Los Angeles Lakers,16,11,27,-65214000.0,1968
+Los Angeles Lakers,San Diego Rockets,Los Angeles Lakers,17,11,28,-65127600.0,1968
+Los Angeles Lakers,Seattle Supersonics,Los Angeles Lakers,17,12,29,-65041200.0,1968
+Los Angeles Lakers,Los Angeles Lakers,Chicago Bulls,17,13,30,-64695600.0,1968
+Los Angeles Lakers,Los Angeles Lakers,Boston Celtics,17,14,31,-64436400.0,1968
+Los Angeles Lakers,Los Angeles Lakers,New York Knicks,17,15,32,-64177200.0,1968
+Los Angeles Lakers,Los Angeles Lakers,Detroit Pistons,18,15,33,-64004400.0,1968
+Los Angeles Lakers,San Diego Rockets,Los Angeles Lakers,18,16,34,-63745200.0,1968
+Los Angeles Lakers,Chicago Bulls,Los Angeles Lakers,19,16,35,-63658800.0,1968
+Los Angeles Lakers,Cincinnati Royals,Los Angeles Lakers,19,17,36,-63572400.0,1968
+Los Angeles Lakers,New York Knicks,Los Angeles Lakers,20,17,37,-63399600.0,1968
+Los Angeles Lakers,St. Louis Hawks,Los Angeles Lakers,21,17,38,-63313200.0,1968
+Los Angeles Lakers,Los Angeles Lakers,San Diego Rockets,22,17,39,-63226800.0,1968
+Los Angeles Lakers,San Francisco Warriors,Los Angeles Lakers,22,18,40,-63054000.0,1968
+Los Angeles Lakers,Los Angeles Lakers,Boston Celtics,22,19,41,-62967600.0,1968
+Los Angeles Lakers,Philadelphia 76ers,Los Angeles Lakers,22,20,42,-62794800.0,1968
+Los Angeles Lakers,Baltimore Bullets,Los Angeles Lakers,22,21,43,-62708400.0,1968
+Los Angeles Lakers,Los Angeles Lakers,New York Knicks,22,22,44,-62362800.0,1968
+Los Angeles Lakers,Los Angeles Lakers,Philadelphia 76ers,23,22,45,-61758000.0,1968
+Los Angeles Lakers,Los Angeles Lakers,San Francisco Warriors,24,22,46,-61498800.0,1968
+Los Angeles Lakers,Los Angeles Lakers,Seattle Supersonics,25,22,47,-61412400.0,1968
+Los Angeles Lakers,Cincinnati Royals,Los Angeles Lakers,26,22,48,-61066800.0,1968
+Los Angeles Lakers,Boston Celtics,Los Angeles Lakers,27,22,49,-60980400.0,1968
+Los Angeles Lakers,Detroit Pistons,Los Angeles Lakers,27,23,50,-60894000.0,1968
+Los Angeles Lakers,Los Angeles Lakers,St. Louis Hawks,28,23,51,-60807600.0,1968
+Los Angeles Lakers,Seattle Supersonics,Los Angeles Lakers,28,24,52,-60634800.0,1968
+Los Angeles Lakers,Los Angeles Lakers,St. Louis Hawks,29,24,53,-60548400.0,1968
+Los Angeles Lakers,Los Angeles Lakers,Seattle Supersonics,30,24,54,-60375600.0,1968
+Los Angeles Lakers,Los Angeles Lakers,San Diego Rockets,31,24,55,-60289200.0,1968
+Los Angeles Lakers,Los Angeles Lakers,Seattle Supersonics,32,24,56,-60202800.0,1968
+Los Angeles Lakers,Los Angeles Lakers,Cincinnati Royals,33,24,57,-60030000.0,1968
+Los Angeles Lakers,Seattle Supersonics,Los Angeles Lakers,33,25,58,-59857200.0,1968
+Los Angeles Lakers,Los Angeles Lakers,San Francisco Warriors,34,25,59,-59770800.0,1968
+Los Angeles Lakers,Boston Celtics,Los Angeles Lakers,35,25,60,-59598000.0,1968
+Los Angeles Lakers,Baltimore Bullets,Los Angeles Lakers,36,25,61,-59425200.0,1968
+Los Angeles Lakers,Chicago Bulls,Los Angeles Lakers,37,25,62,-59252400.0,1968
+Los Angeles Lakers,San Francisco Warriors,Los Angeles Lakers,37,26,63,-59166000.0,1968
+Los Angeles Lakers,Los Angeles Lakers,Philadelphia 76ers,37,27,64,-59079600.0,1968
+Los Angeles Lakers,Los Angeles Lakers,Boston Celtics,38,27,65,-58734000.0,1968
+Los Angeles Lakers,Los Angeles Lakers,Cincinnati Royals,39,27,66,-58561200.0,1968
+Los Angeles Lakers,San Diego Rockets,Los Angeles Lakers,40,27,67,-58388400.0,1968
+Los Angeles Lakers,Los Angeles Lakers,Cincinnati Royals,41,27,68,-58215600.0,1968
+Los Angeles Lakers,Chicago Bulls,Los Angeles Lakers,42,27,69,-58042800.0,1968
+Los Angeles Lakers,Los Angeles Lakers,Seattle Supersonics,43,27,70,-57870000.0,1968
+Los Angeles Lakers,Los Angeles Lakers,Baltimore Bullets,44,27,71,-57783600.0,1968
+Los Angeles Lakers,Los Angeles Lakers,St. Louis Hawks,44,28,72,-57524400.0,1968
+Los Angeles Lakers,San Diego Rockets,Los Angeles Lakers,45,28,73,-57438000.0,1968
+Los Angeles Lakers,Los Angeles Lakers,San Diego Rockets,46,28,74,-57351600.0,1968
+Los Angeles Lakers,San Francisco Warriors,Los Angeles Lakers,47,28,75,-57265200.0,1968
+Los Angeles Lakers,Los Angeles Lakers,Baltimore Bullets,47,29,76,-57178800.0,1968
+Los Angeles Lakers,Los Angeles Lakers,San Francisco Warriors,48,29,77,-56919600.0,1968
+Los Angeles Lakers,Los Angeles Lakers,New York Knicks,49,29,78,-56746800.0,1968
+Los Angeles Lakers,Los Angeles Lakers,Detroit Pistons,50,29,79,-56660400.0,1968
+Los Angeles Lakers,Los Angeles Lakers,Detroit Pistons,51,29,80,-56574000.0,1968
+Los Angeles Lakers,Philadelphia 76ers,Los Angeles Lakers,51,30,81,-56487600.0,1968
+Los Angeles Lakers,Los Angeles Lakers,San Diego Rockets,52,30,82,-56401200.0,1968
+New York Knicks,New York Knicks,San Francisco Warriors,1,0,1,-69710400.0,1968
+New York Knicks,Baltimore Bullets,New York Knicks,1,1,2,-69624000.0,1968
+New York Knicks,New York Knicks,Los Angeles Lakers,1,2,3,-69364800.0,1968
+New York Knicks,New York Knicks,St. Louis Hawks,1,3,4,-69105600.0,1968
+New York Knicks,Philadelphia 76ers,New York Knicks,1,4,5,-69019200.0,1968
+New York Knicks,New York Knicks,Detroit Pistons,1,5,6,-68760000.0,1968
+New York Knicks,San Francisco Warriors,New York Knicks,1,6,7,-68497200.0,1968
+New York Knicks,Los Angeles Lakers,New York Knicks,2,6,8,-68410800.0,1968
+New York Knicks,Seattle Supersonics,New York Knicks,3,6,9,-68238000.0,1968
+New York Knicks,San Diego Rockets,New York Knicks,4,6,10,-68151600.0,1968
+New York Knicks,San Diego Rockets,New York Knicks,5,6,11,-68065200.0,1968
+New York Knicks,Detroit Pistons,New York Knicks,5,7,12,-67806000.0,1968
+New York Knicks,New York Knicks,Cincinnati Royals,6,7,13,-67719600.0,1968
+New York Knicks,New York Knicks,Boston Celtics,7,7,14,-67546800.0,1968
+New York Knicks,New York Knicks,San Diego Rockets,8,7,15,-67287600.0,1968
+New York Knicks,New York Knicks,San Diego Rockets,8,8,16,-67201200.0,1968
+New York Knicks,New York Knicks,Baltimore Bullets,8,9,17,-66942000.0,1968
+New York Knicks,New York Knicks,Chicago Bulls,9,9,18,-66682800.0,1968
+New York Knicks,Cincinnati Royals,New York Knicks,9,10,19,-66596400.0,1968
+New York Knicks,Chicago Bulls,New York Knicks,9,11,20,-66510000.0,1968
+New York Knicks,New York Knicks,Seattle Supersonics,10,11,21,-66337200.0,1968
+New York Knicks,New York Knicks,Philadelphia 76ers,10,12,22,-66078000.0,1968
+New York Knicks,Cincinnati Royals,New York Knicks,11,12,23,-65991600.0,1968
+New York Knicks,Chicago Bulls,New York Knicks,11,13,24,-65818800.0,1968
+New York Knicks,New York Knicks,Los Angeles Lakers,11,14,25,-65732400.0,1968
+New York Knicks,New York Knicks,Baltimore Bullets,12,14,26,-65473200.0,1968
+New York Knicks,Boston Celtics,New York Knicks,12,15,27,-65386800.0,1968
+New York Knicks,Philadelphia 76ers,New York Knicks,12,16,28,-65214000.0,1968
+New York Knicks,New York Knicks,Detroit Pistons,12,17,29,-65127600.0,1968
+New York Knicks,New York Knicks,St. Louis Hawks,12,18,30,-64868400.0,1968
+New York Knicks,Detroit Pistons,New York Knicks,12,19,31,-64782000.0,1968
+New York Knicks,New York Knicks,San Diego Rockets,13,19,32,-64522800.0,1968
+New York Knicks,New York Knicks,Cincinnati Royals,14,19,33,-64263600.0,1968
+New York Knicks,Los Angeles Lakers,New York Knicks,15,19,34,-64177200.0,1968
+New York Knicks,Seattle Supersonics,New York Knicks,15,20,35,-64004400.0,1968
+New York Knicks,New York Knicks,Boston Celtics,15,21,36,-63745200.0,1968
+New York Knicks,New York Knicks,Seattle Supersonics,15,22,37,-63658800.0,1968
+New York Knicks,New York Knicks,Philadelphia 76ers,15,23,38,-63572400.0,1968
+New York Knicks,New York Knicks,Los Angeles Lakers,15,24,39,-63399600.0,1968
+New York Knicks,New York Knicks,Cincinnati Royals,15,25,40,-63054000.0,1968
+New York Knicks,Philadelphia 76ers,New York Knicks,16,25,41,-62967600.0,1968
+New York Knicks,Chicago Bulls,New York Knicks,17,25,42,-62794800.0,1968
+New York Knicks,New York Knicks,Detroit Pistons,18,25,43,-62708400.0,1968
+New York Knicks,Seattle Supersonics,New York Knicks,19,25,44,-62535600.0,1968
+New York Knicks,San Diego Rockets,New York Knicks,20,25,45,-62449200.0,1968
+New York Knicks,Los Angeles Lakers,New York Knicks,21,25,46,-62362800.0,1968
+New York Knicks,San Francisco Warriors,New York Knicks,21,26,47,-62190000.0,1968
+New York Knicks,New York Knicks,Seattle Supersonics,21,27,48,-61930800.0,1968
+New York Knicks,Baltimore Bullets,New York Knicks,22,27,49,-61758000.0,1968
+New York Knicks,Boston Celtics,New York Knicks,22,28,50,-61585200.0,1968
+New York Knicks,Detroit Pistons,New York Knicks,23,28,51,-61412400.0,1968
+New York Knicks,Chicago Bulls,New York Knicks,24,28,52,-61066800.0,1968
+New York Knicks,St. Louis Hawks,New York Knicks,24,29,53,-60980400.0,1968
+New York Knicks,New York Knicks,San Francisco Warriors,25,29,54,-60807600.0,1968
+New York Knicks,New York Knicks,Baltimore Bullets,25,30,55,-60634800.0,1968
+New York Knicks,Cincinnati Royals,New York Knicks,26,30,56,-60548400.0,1968
+New York Knicks,Chicago Bulls,New York Knicks,27,30,57,-60462000.0,1968
+New York Knicks,New York Knicks,Boston Celtics,27,31,58,-60289200.0,1968
+New York Knicks,Boston Celtics,New York Knicks,28,31,59,-60202800.0,1968
+New York Knicks,New York Knicks,St. Louis Hawks,29,31,60,-60030000.0,1968
+New York Knicks,Baltimore Bullets,New York Knicks,30,31,61,-59943600.0,1968
+New York Knicks,St. Louis Hawks,New York Knicks,30,32,62,-59770800.0,1968
+New York Knicks,New York Knicks,Philadelphia 76ers,31,32,63,-59684400.0,1968
+New York Knicks,New York Knicks,San Diego Rockets,32,32,64,-59338800.0,1968
+New York Knicks,Cincinnati Royals,New York Knicks,32,33,65,-59166000.0,1968
+New York Knicks,New York Knicks,Seattle Supersonics,33,33,66,-59079600.0,1968
+New York Knicks,New York Knicks,San Francisco Warriors,34,33,67,-58820400.0,1968
+New York Knicks,New York Knicks,Chicago Bulls,35,33,68,-58474800.0,1968
+New York Knicks,Detroit Pistons,New York Knicks,36,33,69,-58388400.0,1968
+New York Knicks,New York Knicks,St. Louis Hawks,36,34,70,-58215600.0,1968
+New York Knicks,Baltimore Bullets,New York Knicks,37,34,71,-58129200.0,1968
+New York Knicks,New York Knicks,St. Louis Hawks,37,35,72,-58042800.0,1968
+New York Knicks,New York Knicks,Detroit Pistons,38,35,73,-57870000.0,1968
+New York Knicks,New York Knicks,Boston Celtics,38,36,74,-57610800.0,1968
+New York Knicks,Boston Celtics,New York Knicks,38,37,75,-57524400.0,1968
+New York Knicks,New York Knicks,Philadelphia 76ers,38,38,76,-57178800.0,1968
+New York Knicks,New York Knicks,Baltimore Bullets,39,38,77,-57006000.0,1968
+New York Knicks,Philadelphia 76ers,New York Knicks,40,38,78,-56919600.0,1968
+New York Knicks,Los Angeles Lakers,New York Knicks,40,39,79,-56746800.0,1968
+New York Knicks,San Francisco Warriors,New York Knicks,41,39,80,-56574000.0,1968
+New York Knicks,San Francisco Warriors,New York Knicks,42,39,81,-56487600.0,1968
+New York Knicks,New York Knicks,Cincinnati Royals,43,39,82,-56314800.0,1968
+Philadelphia 76ers,Philadelphia 76ers,Los Angeles Lakers,1,0,1,-69624000.0,1968
+Philadelphia 76ers,Philadelphia 76ers,Detroit Pistons,2,0,2,-69364800.0,1968
+Philadelphia 76ers,Detroit Pistons,Philadelphia 76ers,3,0,3,-69105600.0,1968
+Philadelphia 76ers,Philadelphia 76ers,New York Knicks,4,0,4,-69019200.0,1968
+Philadelphia 76ers,Philadelphia 76ers,Seattle Supersonics,5,0,5,-68846400.0,1968
+Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,5,1,6,-68760000.0,1968
+Philadelphia 76ers,Philadelphia 76ers,Baltimore Bullets,6,1,7,-68410800.0,1968
+Philadelphia 76ers,Philadelphia 76ers,San Francisco Warriors,7,1,8,-68151600.0,1968
+Philadelphia 76ers,San Diego Rockets,Philadelphia 76ers,8,1,9,-67892400.0,1968
+Philadelphia 76ers,San Diego Rockets,Philadelphia 76ers,9,1,10,-67806000.0,1968
+Philadelphia 76ers,San Francisco Warriors,Philadelphia 76ers,9,2,11,-67633200.0,1968
+Philadelphia 76ers,Los Angeles Lakers,Philadelphia 76ers,10,2,12,-67546800.0,1968
+Philadelphia 76ers,Philadelphia 76ers,Cincinnati Royals,11,2,13,-67287600.0,1968
+Philadelphia 76ers,Detroit Pistons,Philadelphia 76ers,11,3,14,-67201200.0,1968
+Philadelphia 76ers,Philadelphia 76ers,St. Louis Hawks,12,3,15,-67028400.0,1968
+Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,12,4,16,-66942000.0,1968
+Philadelphia 76ers,St. Louis Hawks,Philadelphia 76ers,12,5,17,-66596400.0,1968
+Philadelphia 76ers,Philadelphia 76ers,San Diego Rockets,13,5,18,-66510000.0,1968
+Philadelphia 76ers,Chicago Bulls,Philadelphia 76ers,14,5,19,-66423600.0,1968
+Philadelphia 76ers,Philadelphia 76ers,Chicago Bulls,14,6,20,-66337200.0,1968
+Philadelphia 76ers,New York Knicks,Philadelphia 76ers,15,6,21,-66078000.0,1968
+Philadelphia 76ers,Philadelphia 76ers,San Francisco Warriors,15,7,22,-65991600.0,1968
+Philadelphia 76ers,Philadelphia 76ers,Seattle Supersonics,16,7,23,-65818800.0,1968
+Philadelphia 76ers,Philadelphia 76ers,Baltimore Bullets,17,7,24,-65732400.0,1968
+Philadelphia 76ers,Philadelphia 76ers,Los Angeles Lakers,17,8,25,-65473200.0,1968
+Philadelphia 76ers,Cincinnati Royals,Philadelphia 76ers,18,8,26,-65386800.0,1968
+Philadelphia 76ers,Philadelphia 76ers,New York Knicks,19,8,27,-65214000.0,1968
+Philadelphia 76ers,Baltimore Bullets,Philadelphia 76ers,20,8,28,-65127600.0,1968
+Philadelphia 76ers,Philadelphia 76ers,Seattle Supersonics,21,8,29,-64868400.0,1968
+Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,21,9,30,-64695600.0,1968
+Philadelphia 76ers,Philadelphia 76ers,St. Louis Hawks,22,9,31,-64609200.0,1968
+Philadelphia 76ers,Chicago Bulls,Philadelphia 76ers,23,9,32,-64522800.0,1968
+Philadelphia 76ers,Seattle Supersonics,Philadelphia 76ers,24,9,33,-64436400.0,1968
+Philadelphia 76ers,Seattle Supersonics,Philadelphia 76ers,25,9,34,-64177200.0,1968
+Philadelphia 76ers,Baltimore Bullets,Philadelphia 76ers,26,9,35,-63745200.0,1968
+Philadelphia 76ers,Philadelphia 76ers,Cincinnati Royals,27,9,36,-63658800.0,1968
+Philadelphia 76ers,New York Knicks,Philadelphia 76ers,28,9,37,-63572400.0,1968
+Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,29,9,38,-63399600.0,1968
+Philadelphia 76ers,Detroit Pistons,Philadelphia 76ers,30,9,39,-63313200.0,1968
+Philadelphia 76ers,Philadelphia 76ers,New York Knicks,30,10,40,-62967600.0,1968
+Philadelphia 76ers,Philadelphia 76ers,Los Angeles Lakers,31,10,41,-62794800.0,1968
+Philadelphia 76ers,St. Louis Hawks,Philadelphia 76ers,32,10,42,-62708400.0,1968
+Philadelphia 76ers,Cincinnati Royals,Philadelphia 76ers,32,11,43,-62622000.0,1968
+Philadelphia 76ers,Philadelphia 76ers,St. Louis Hawks,32,12,44,-62362800.0,1968
+Philadelphia 76ers,Philadelphia 76ers,Baltimore Bullets,33,12,45,-62190000.0,1968
+Philadelphia 76ers,Detroit Pistons,Philadelphia 76ers,34,12,46,-62103600.0,1968
+Philadelphia 76ers,Los Angeles Lakers,Philadelphia 76ers,34,13,47,-61758000.0,1968
+Philadelphia 76ers,San Francisco Warriors,Philadelphia 76ers,34,14,48,-61585200.0,1968
+Philadelphia 76ers,Chicago Bulls,Philadelphia 76ers,35,14,49,-61498800.0,1968
+Philadelphia 76ers,Detroit Pistons,Philadelphia 76ers,36,14,50,-61066800.0,1968
+Philadelphia 76ers,Philadelphia 76ers,Cincinnati Royals,37,14,51,-60980400.0,1968
+Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,37,15,52,-60807600.0,1968
+Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,38,15,53,-60634800.0,1968
+Philadelphia 76ers,Philadelphia 76ers,Detroit Pistons,39,15,54,-60375600.0,1968
+Philadelphia 76ers,Baltimore Bullets,Philadelphia 76ers,40,15,55,-60289200.0,1968
+Philadelphia 76ers,Philadelphia 76ers,San Francisco Warriors,41,15,56,-60202800.0,1968
+Philadelphia 76ers,Philadelphia 76ers,San Diego Rockets,42,15,57,-59943600.0,1968
+Philadelphia 76ers,Philadelphia 76ers,Chicago Bulls,43,15,58,-59770800.0,1968
+Philadelphia 76ers,New York Knicks,Philadelphia 76ers,43,16,59,-59684400.0,1968
+Philadelphia 76ers,Philadelphia 76ers,St. Louis Hawks,44,16,60,-59598000.0,1968
+Philadelphia 76ers,San Francisco Warriors,Philadelphia 76ers,45,16,61,-59425200.0,1968
+Philadelphia 76ers,Seattle Supersonics,Philadelphia 76ers,46,16,62,-59338800.0,1968
+Philadelphia 76ers,San Diego Rockets,Philadelphia 76ers,47,16,63,-59166000.0,1968
+Philadelphia 76ers,Los Angeles Lakers,Philadelphia 76ers,48,16,64,-59079600.0,1968
+Philadelphia 76ers,San Diego Rockets,Philadelphia 76ers,48,17,65,-58993200.0,1968
+Philadelphia 76ers,Philadelphia 76ers,Seattle Supersonics,49,17,66,-58820400.0,1968
+Philadelphia 76ers,Philadelphia 76ers,Detroit Pistons,50,17,67,-58561200.0,1968
+Philadelphia 76ers,St. Louis Hawks,Philadelphia 76ers,51,17,68,-58388400.0,1968
+Philadelphia 76ers,Philadelphia 76ers,San Francisco Warriors,52,17,69,-58215600.0,1968
+Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,53,17,70,-57783600.0,1968
+Philadelphia 76ers,Philadelphia 76ers,San Diego Rockets,54,17,71,-57610800.0,1968
+Philadelphia 76ers,Cincinnati Royals,Philadelphia 76ers,54,18,72,-57524400.0,1968
+Philadelphia 76ers,Cincinnati Royals,Philadelphia 76ers,55,18,73,-57438000.0,1968
+Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,56,18,74,-57351600.0,1968
+Philadelphia 76ers,New York Knicks,Philadelphia 76ers,57,18,75,-57178800.0,1968
+Philadelphia 76ers,Chicago Bulls,Philadelphia 76ers,58,18,76,-57006000.0,1968
+Philadelphia 76ers,Philadelphia 76ers,New York Knicks,58,19,77,-56919600.0,1968
+Philadelphia 76ers,Philadelphia 76ers,Baltimore Bullets,59,19,78,-56746800.0,1968
+Philadelphia 76ers,Chicago Bulls,Philadelphia 76ers,60,19,79,-56660400.0,1968
+Philadelphia 76ers,Philadelphia 76ers,Los Angeles Lakers,61,19,80,-56487600.0,1968
+Philadelphia 76ers,Philadelphia 76ers,Cincinnati Royals,61,20,81,-56401200.0,1968
+Philadelphia 76ers,Baltimore Bullets,Philadelphia 76ers,62,20,82,-56314800.0,1968
+San Diego Rockets,San Diego Rockets,St. Louis Hawks,0,1,1,-69969600.0,1968
+San Diego Rockets,San Diego Rockets,St. Louis Hawks,0,2,2,-69710400.0,1968
+San Diego Rockets,Seattle Supersonics,San Diego Rockets,1,2,3,-69451200.0,1968
+San Diego Rockets,San Diego Rockets,Seattle Supersonics,1,3,4,-69364800.0,1968
+San Diego Rockets,San Francisco Warriors,San Diego Rockets,1,4,5,-69278400.0,1968
+San Diego Rockets,San Diego Rockets,Baltimore Bullets,1,5,6,-69019200.0,1968
+San Diego Rockets,San Diego Rockets,Cincinnati Royals,1,6,7,-68846400.0,1968
+San Diego Rockets,San Diego Rockets,Cincinnati Royals,1,7,8,-68673600.0,1968
+San Diego Rockets,San Diego Rockets,Seattle Supersonics,2,7,9,-68410800.0,1968
+San Diego Rockets,San Diego Rockets,New York Knicks,2,8,10,-68151600.0,1968
+San Diego Rockets,San Diego Rockets,New York Knicks,2,9,11,-68065200.0,1968
+San Diego Rockets,San Diego Rockets,Philadelphia 76ers,2,10,12,-67892400.0,1968
+San Diego Rockets,San Diego Rockets,Philadelphia 76ers,2,11,13,-67806000.0,1968
+San Diego Rockets,Cincinnati Royals,San Diego Rockets,2,12,14,-67546800.0,1968
+San Diego Rockets,St. Louis Hawks,San Diego Rockets,2,13,15,-67460400.0,1968
+San Diego Rockets,New York Knicks,San Diego Rockets,2,14,16,-67287600.0,1968
+San Diego Rockets,New York Knicks,San Diego Rockets,3,14,17,-67201200.0,1968
+San Diego Rockets,San Diego Rockets,Chicago Bulls,4,14,18,-67114800.0,1968
+San Diego Rockets,Seattle Supersonics,San Diego Rockets,4,15,19,-67028400.0,1968
+San Diego Rockets,San Diego Rockets,San Francisco Warriors,4,16,20,-66942000.0,1968
+San Diego Rockets,Boston Celtics,San Diego Rockets,4,17,21,-66682800.0,1968
+San Diego Rockets,Boston Celtics,San Diego Rockets,4,18,22,-66596400.0,1968
+San Diego Rockets,Philadelphia 76ers,San Diego Rockets,4,19,23,-66510000.0,1968
+San Diego Rockets,Detroit Pistons,San Diego Rockets,4,20,24,-66423600.0,1968
+San Diego Rockets,St. Louis Hawks,San Diego Rockets,4,21,25,-66337200.0,1968
+San Diego Rockets,San Diego Rockets,St. Louis Hawks,4,22,26,-65905200.0,1968
+San Diego Rockets,San Diego Rockets,San Francisco Warriors,5,22,27,-65732400.0,1968
+San Diego Rockets,Detroit Pistons,San Diego Rockets,5,23,28,-65473200.0,1968
+San Diego Rockets,Chicago Bulls,San Diego Rockets,6,23,29,-65300400.0,1968
+San Diego Rockets,San Francisco Warriors,San Diego Rockets,7,23,30,-65214000.0,1968
+San Diego Rockets,San Diego Rockets,Los Angeles Lakers,7,24,31,-65127600.0,1968
+San Diego Rockets,San Diego Rockets,Chicago Bulls,8,24,32,-64868400.0,1968
+San Diego Rockets,Boston Celtics,San Diego Rockets,8,25,33,-64609200.0,1968
+San Diego Rockets,New York Knicks,San Diego Rockets,8,26,34,-64522800.0,1968
+San Diego Rockets,San Diego Rockets,Detroit Pistons,9,26,35,-64436400.0,1968
+San Diego Rockets,San Diego Rockets,Boston Celtics,9,27,36,-64177200.0,1968
+San Diego Rockets,San Francisco Warriors,San Diego Rockets,9,28,37,-64004400.0,1968
+San Diego Rockets,San Diego Rockets,Detroit Pistons,9,29,38,-63918000.0,1968
+San Diego Rockets,San Diego Rockets,Los Angeles Lakers,10,29,39,-63745200.0,1968
+San Diego Rockets,Seattle Supersonics,San Diego Rockets,11,29,40,-63486000.0,1968
+San Diego Rockets,Los Angeles Lakers,San Diego Rockets,11,30,41,-63226800.0,1968
+San Diego Rockets,San Diego Rockets,St. Louis Hawks,12,30,42,-62967600.0,1968
+San Diego Rockets,San Diego Rockets,Seattle Supersonics,12,31,43,-62708400.0,1968
+San Diego Rockets,San Diego Rockets,New York Knicks,12,32,44,-62449200.0,1968
+San Diego Rockets,San Diego Rockets,Detroit Pistons,13,32,45,-62362800.0,1968
+San Diego Rockets,St. Louis Hawks,San Diego Rockets,13,33,46,-62190000.0,1968
+San Diego Rockets,Cincinnati Royals,San Diego Rockets,13,34,47,-62103600.0,1968
+San Diego Rockets,Chicago Bulls,San Diego Rockets,13,35,48,-61844400.0,1968
+San Diego Rockets,Chicago Bulls,San Diego Rockets,14,35,49,-61758000.0,1968
+San Diego Rockets,Cincinnati Royals,San Diego Rockets,14,36,50,-61671600.0,1968
+San Diego Rockets,Boston Celtics,San Diego Rockets,14,37,51,-61412400.0,1968
+San Diego Rockets,San Diego Rockets,Baltimore Bullets,14,38,52,-61066800.0,1968
+San Diego Rockets,San Diego Rockets,Baltimore Bullets,14,39,53,-60894000.0,1968
+San Diego Rockets,San Diego Rockets,San Francisco Warriors,14,40,54,-60462000.0,1968
+San Diego Rockets,San Francisco Warriors,San Diego Rockets,14,41,55,-60375600.0,1968
+San Diego Rockets,Los Angeles Lakers,San Diego Rockets,14,42,56,-60289200.0,1968
+San Diego Rockets,Baltimore Bullets,San Diego Rockets,14,43,57,-60116400.0,1968
+San Diego Rockets,Detroit Pistons,San Diego Rockets,14,44,58,-60030000.0,1968
+San Diego Rockets,Philadelphia 76ers,San Diego Rockets,14,45,59,-59943600.0,1968
+San Diego Rockets,Baltimore Bullets,San Diego Rockets,14,46,60,-59857200.0,1968
+San Diego Rockets,San Diego Rockets,Cincinnati Royals,14,47,61,-59684400.0,1968
+San Diego Rockets,Baltimore Bullets,San Diego Rockets,14,48,62,-59598000.0,1968
+San Diego Rockets,Chicago Bulls,San Diego Rockets,14,49,63,-59425200.0,1968
+San Diego Rockets,New York Knicks,San Diego Rockets,14,50,64,-59338800.0,1968
+San Diego Rockets,San Diego Rockets,San Francisco Warriors,14,51,65,-59252400.0,1968
+San Diego Rockets,San Diego Rockets,Philadelphia 76ers,14,52,66,-59166000.0,1968
+San Diego Rockets,San Diego Rockets,Philadelphia 76ers,15,52,67,-58993200.0,1968
+San Diego Rockets,San Diego Rockets,Seattle Supersonics,15,53,68,-58561200.0,1968
+San Diego Rockets,San Diego Rockets,Los Angeles Lakers,15,54,69,-58388400.0,1968
+San Diego Rockets,San Diego Rockets,Boston Celtics,15,55,70,-58302000.0,1968
+San Diego Rockets,San Diego Rockets,Cincinnati Royals,15,56,71,-58042800.0,1968
+San Diego Rockets,San Diego Rockets,Baltimore Bullets,15,57,72,-57956400.0,1968
+San Diego Rockets,St. Louis Hawks,San Diego Rockets,15,58,73,-57783600.0,1968
+San Diego Rockets,Philadelphia 76ers,San Diego Rockets,15,59,74,-57610800.0,1968
+San Diego Rockets,Detroit Pistons,San Diego Rockets,15,60,75,-57524400.0,1968
+San Diego Rockets,San Diego Rockets,Los Angeles Lakers,15,61,76,-57438000.0,1968
+San Diego Rockets,Los Angeles Lakers,San Diego Rockets,15,62,77,-57351600.0,1968
+San Diego Rockets,San Diego Rockets,Seattle Supersonics,15,63,78,-57265200.0,1968
+San Diego Rockets,San Diego Rockets,Boston Celtics,15,64,79,-56919600.0,1968
+San Diego Rockets,San Diego Rockets,Chicago Bulls,15,65,80,-56574000.0,1968
+San Diego Rockets,Los Angeles Lakers,San Diego Rockets,15,66,81,-56401200.0,1968
+San Diego Rockets,San Diego Rockets,Chicago Bulls,15,67,82,-56314800.0,1968
+San Francisco Warriors,San Francisco Warriors,Seattle Supersonics,1,0,1,-70056000.0,1968
+San Francisco Warriors,San Francisco Warriors,St. Louis Hawks,1,1,2,-69883200.0,1968
+San Francisco Warriors,New York Knicks,San Francisco Warriors,1,2,3,-69710400.0,1968
+San Francisco Warriors,Cincinnati Royals,San Francisco Warriors,1,3,4,-69624000.0,1968
+San Francisco Warriors,Chicago Bulls,San Francisco Warriors,2,3,5,-69537600.0,1968
+San Francisco Warriors,St. Louis Hawks,San Francisco Warriors,2,4,6,-69364800.0,1968
+San Francisco Warriors,San Francisco Warriors,San Diego Rockets,3,4,7,-69278400.0,1968
+San Francisco Warriors,San Francisco Warriors,Cincinnati Royals,4,4,8,-69105600.0,1968
+San Francisco Warriors,San Francisco Warriors,Baltimore Bullets,5,4,9,-68846400.0,1968
+San Francisco Warriors,San Francisco Warriors,Chicago Bulls,6,4,10,-68673600.0,1968
+San Francisco Warriors,San Francisco Warriors,New York Knicks,7,4,11,-68497200.0,1968
+San Francisco Warriors,Detroit Pistons,San Francisco Warriors,8,4,12,-68410800.0,1968
+San Francisco Warriors,Philadelphia 76ers,San Francisco Warriors,8,5,13,-68151600.0,1968
+San Francisco Warriors,San Francisco Warriors,Seattle Supersonics,9,5,14,-67892400.0,1968
+San Francisco Warriors,San Francisco Warriors,Philadelphia 76ers,10,5,15,-67633200.0,1968
+San Francisco Warriors,St. Louis Hawks,San Francisco Warriors,10,6,16,-67546800.0,1968
+San Francisco Warriors,Baltimore Bullets,San Francisco Warriors,11,6,17,-67287600.0,1968
+San Francisco Warriors,Boston Celtics,San Francisco Warriors,11,7,18,-67201200.0,1968
+San Francisco Warriors,San Francisco Warriors,Chicago Bulls,12,7,19,-67028400.0,1968
+San Francisco Warriors,San Diego Rockets,San Francisco Warriors,13,7,20,-66942000.0,1968
+San Francisco Warriors,San Francisco Warriors,Detroit Pistons,14,7,21,-66682800.0,1968
+San Francisco Warriors,San Francisco Warriors,Los Angeles Lakers,15,7,22,-66423600.0,1968
+San Francisco Warriors,Los Angeles Lakers,San Francisco Warriors,16,7,23,-66337200.0,1968
+San Francisco Warriors,Baltimore Bullets,San Francisco Warriors,17,7,24,-66078000.0,1968
+San Francisco Warriors,Philadelphia 76ers,San Francisco Warriors,18,7,25,-65991600.0,1968
+San Francisco Warriors,San Francisco Warriors,St. Louis Hawks,19,7,26,-65818800.0,1968
+San Francisco Warriors,San Diego Rockets,San Francisco Warriors,19,8,27,-65732400.0,1968
+San Francisco Warriors,San Francisco Warriors,Seattle Supersonics,20,8,28,-65473200.0,1968
+San Francisco Warriors,San Francisco Warriors,San Diego Rockets,20,9,29,-65214000.0,1968
+San Francisco Warriors,San Francisco Warriors,Chicago Bulls,21,9,30,-65127600.0,1968
+San Francisco Warriors,San Francisco Warriors,Chicago Bulls,21,10,31,-64782000.0,1968
+San Francisco Warriors,Baltimore Bullets,San Francisco Warriors,22,10,32,-64609200.0,1968
+San Francisco Warriors,St. Louis Hawks,San Francisco Warriors,22,11,33,-64522800.0,1968
+San Francisco Warriors,San Francisco Warriors,St. Louis Hawks,22,12,34,-64436400.0,1968
+San Francisco Warriors,San Francisco Warriors,Detroit Pistons,23,12,35,-64177200.0,1968
+San Francisco Warriors,San Francisco Warriors,San Diego Rockets,24,12,36,-64004400.0,1968
+San Francisco Warriors,San Francisco Warriors,Seattle Supersonics,25,12,37,-63918000.0,1968
+San Francisco Warriors,Seattle Supersonics,San Francisco Warriors,26,12,38,-63831600.0,1968
+San Francisco Warriors,Boston Celtics,San Francisco Warriors,27,12,39,-63658800.0,1968
+San Francisco Warriors,Cincinnati Royals,San Francisco Warriors,27,13,40,-63486000.0,1968
+San Francisco Warriors,Chicago Bulls,San Francisco Warriors,27,14,41,-63399600.0,1968
+San Francisco Warriors,Seattle Supersonics,San Francisco Warriors,28,14,42,-63226800.0,1968
+San Francisco Warriors,San Francisco Warriors,Los Angeles Lakers,29,14,43,-63054000.0,1968
+San Francisco Warriors,San Francisco Warriors,St. Louis Hawks,29,15,44,-62881200.0,1968
+San Francisco Warriors,San Francisco Warriors,Boston Celtics,30,15,45,-62708400.0,1968
+San Francisco Warriors,San Francisco Warriors,Detroit Pistons,30,16,46,-62449200.0,1968
+San Francisco Warriors,San Francisco Warriors,New York Knicks,31,16,47,-62190000.0,1968
+San Francisco Warriors,Boston Celtics,San Francisco Warriors,31,17,48,-61930800.0,1968
+San Francisco Warriors,Cincinnati Royals,San Francisco Warriors,31,18,49,-61844400.0,1968
+San Francisco Warriors,Detroit Pistons,San Francisco Warriors,31,19,50,-61758000.0,1968
+San Francisco Warriors,San Francisco Warriors,Philadelphia 76ers,32,19,51,-61585200.0,1968
+San Francisco Warriors,Los Angeles Lakers,San Francisco Warriors,32,20,52,-61498800.0,1968
+San Francisco Warriors,San Francisco Warriors,Baltimore Bullets,32,21,53,-60980400.0,1968
+San Francisco Warriors,New York Knicks,San Francisco Warriors,32,22,54,-60807600.0,1968
+San Francisco Warriors,Chicago Bulls,San Francisco Warriors,33,22,55,-60634800.0,1968
+San Francisco Warriors,San Diego Rockets,San Francisco Warriors,34,22,56,-60462000.0,1968
+San Francisco Warriors,San Francisco Warriors,San Diego Rockets,35,22,57,-60375600.0,1968
+San Francisco Warriors,Philadelphia 76ers,San Francisco Warriors,35,23,58,-60202800.0,1968
+San Francisco Warriors,Chicago Bulls,San Francisco Warriors,36,23,59,-60030000.0,1968
+San Francisco Warriors,San Francisco Warriors,Cincinnati Royals,37,23,60,-59857200.0,1968
+San Francisco Warriors,Los Angeles Lakers,San Francisco Warriors,37,24,61,-59770800.0,1968
+San Francisco Warriors,Seattle Supersonics,San Francisco Warriors,37,25,62,-59598000.0,1968
+San Francisco Warriors,San Francisco Warriors,Philadelphia 76ers,37,26,63,-59425200.0,1968
+San Francisco Warriors,San Diego Rockets,San Francisco Warriors,38,26,64,-59252400.0,1968
+San Francisco Warriors,San Francisco Warriors,Los Angeles Lakers,39,26,65,-59166000.0,1968
+San Francisco Warriors,Detroit Pistons,San Francisco Warriors,39,27,66,-58993200.0,1968
+San Francisco Warriors,New York Knicks,San Francisco Warriors,39,28,67,-58820400.0,1968
+San Francisco Warriors,Baltimore Bullets,San Francisco Warriors,39,29,68,-58734000.0,1968
+San Francisco Warriors,San Francisco Warriors,Boston Celtics,40,29,69,-58561200.0,1968
+San Francisco Warriors,San Francisco Warriors,Cincinnati Royals,41,29,70,-58474800.0,1968
+San Francisco Warriors,Philadelphia 76ers,San Francisco Warriors,41,30,71,-58215600.0,1968
+San Francisco Warriors,Boston Celtics,San Francisco Warriors,41,31,72,-58129200.0,1968
+San Francisco Warriors,San Francisco Warriors,Cincinnati Royals,41,32,73,-57956400.0,1968
+San Francisco Warriors,San Francisco Warriors,Baltimore Bullets,42,32,74,-57870000.0,1968
+San Francisco Warriors,San Francisco Warriors,St. Louis Hawks,42,33,75,-57610800.0,1968
+San Francisco Warriors,San Francisco Warriors,Los Angeles Lakers,42,34,76,-57265200.0,1968
+San Francisco Warriors,Seattle Supersonics,San Francisco Warriors,43,34,77,-57178800.0,1968
+San Francisco Warriors,San Francisco Warriors,Boston Celtics,43,35,78,-57006000.0,1968
+San Francisco Warriors,Los Angeles Lakers,San Francisco Warriors,43,36,79,-56919600.0,1968
+San Francisco Warriors,San Francisco Warriors,Detroit Pistons,43,37,80,-56746800.0,1968
+San Francisco Warriors,San Francisco Warriors,New York Knicks,43,38,81,-56574000.0,1968
+San Francisco Warriors,San Francisco Warriors,New York Knicks,43,39,82,-56487600.0,1968
+Seattle Supersonics,San Francisco Warriors,Seattle Supersonics,0,1,1,-70056000.0,1968
+Seattle Supersonics,Seattle Supersonics,San Diego Rockets,0,2,2,-69451200.0,1968
+Seattle Supersonics,San Diego Rockets,Seattle Supersonics,1,2,3,-69364800.0,1968
+Seattle Supersonics,Seattle Supersonics,Cincinnati Royals,1,3,4,-69278400.0,1968
+Seattle Supersonics,Baltimore Bullets,Seattle Supersonics,1,4,5,-69105600.0,1968
+Seattle Supersonics,Philadelphia 76ers,Seattle Supersonics,1,5,6,-68846400.0,1968
+Seattle Supersonics,St. Louis Hawks,Seattle Supersonics,1,6,7,-68760000.0,1968
+Seattle Supersonics,Seattle Supersonics,Chicago Bulls,2,6,8,-68497200.0,1968
+Seattle Supersonics,San Diego Rockets,Seattle Supersonics,2,7,9,-68410800.0,1968
+Seattle Supersonics,Chicago Bulls,Seattle Supersonics,2,8,10,-68324400.0,1968
+Seattle Supersonics,Seattle Supersonics,New York Knicks,2,9,11,-68238000.0,1968
+Seattle Supersonics,San Francisco Warriors,Seattle Supersonics,2,10,12,-67892400.0,1968
+Seattle Supersonics,St. Louis Hawks,Seattle Supersonics,2,11,13,-67806000.0,1968
+Seattle Supersonics,Detroit Pistons,Seattle Supersonics,2,12,14,-67719600.0,1968
+Seattle Supersonics,Baltimore Bullets,Seattle Supersonics,2,13,15,-67546800.0,1968
+Seattle Supersonics,Boston Celtics,Seattle Supersonics,2,14,16,-67287600.0,1968
+Seattle Supersonics,Seattle Supersonics,San Diego Rockets,3,14,17,-67028400.0,1968
+Seattle Supersonics,Seattle Supersonics,Detroit Pistons,4,14,18,-66855600.0,1968
+Seattle Supersonics,Detroit Pistons,Seattle Supersonics,4,15,19,-66769200.0,1968
+Seattle Supersonics,Seattle Supersonics,Los Angeles Lakers,5,15,20,-66682800.0,1968
+Seattle Supersonics,Boston Celtics,Seattle Supersonics,6,15,21,-66510000.0,1968
+Seattle Supersonics,Cincinnati Royals,Seattle Supersonics,6,16,22,-66423600.0,1968
+Seattle Supersonics,New York Knicks,Seattle Supersonics,6,17,23,-66337200.0,1968
+Seattle Supersonics,Chicago Bulls,Seattle Supersonics,7,17,24,-66078000.0,1968
+Seattle Supersonics,Philadelphia 76ers,Seattle Supersonics,7,18,25,-65818800.0,1968
+Seattle Supersonics,Seattle Supersonics,St. Louis Hawks,7,19,26,-65646000.0,1968
+Seattle Supersonics,San Francisco Warriors,Seattle Supersonics,7,20,27,-65473200.0,1968
+Seattle Supersonics,Seattle Supersonics,Chicago Bulls,7,21,28,-65214000.0,1968
+Seattle Supersonics,Seattle Supersonics,Los Angeles Lakers,8,21,29,-65041200.0,1968
+Seattle Supersonics,Philadelphia 76ers,Seattle Supersonics,8,22,30,-64868400.0,1968
+Seattle Supersonics,Chicago Bulls,Seattle Supersonics,9,22,31,-64609200.0,1968
+Seattle Supersonics,Seattle Supersonics,Philadelphia 76ers,9,23,32,-64436400.0,1968
+Seattle Supersonics,Detroit Pistons,Seattle Supersonics,9,24,33,-64350000.0,1968
+Seattle Supersonics,Seattle Supersonics,Boston Celtics,9,25,34,-64263600.0,1968
+Seattle Supersonics,Seattle Supersonics,Philadelphia 76ers,9,26,35,-64177200.0,1968
+Seattle Supersonics,Seattle Supersonics,New York Knicks,10,26,36,-64004400.0,1968
+Seattle Supersonics,San Francisco Warriors,Seattle Supersonics,10,27,37,-63918000.0,1968
+Seattle Supersonics,Seattle Supersonics,San Francisco Warriors,10,28,38,-63831600.0,1968
+Seattle Supersonics,Cincinnati Royals,Seattle Supersonics,10,29,39,-63745200.0,1968
+Seattle Supersonics,New York Knicks,Seattle Supersonics,11,29,40,-63658800.0,1968
+Seattle Supersonics,Seattle Supersonics,San Diego Rockets,11,30,41,-63486000.0,1968
+Seattle Supersonics,Seattle Supersonics,San Francisco Warriors,11,31,42,-63226800.0,1968
+Seattle Supersonics,Seattle Supersonics,St. Louis Hawks,11,32,43,-63140400.0,1968
+Seattle Supersonics,Seattle Supersonics,Boston Celtics,11,33,44,-62794800.0,1968
+Seattle Supersonics,San Diego Rockets,Seattle Supersonics,12,33,45,-62708400.0,1968
+Seattle Supersonics,Seattle Supersonics,New York Knicks,12,34,46,-62535600.0,1968
+Seattle Supersonics,Boston Celtics,Seattle Supersonics,12,35,47,-62362800.0,1968
+Seattle Supersonics,New York Knicks,Seattle Supersonics,13,35,48,-61930800.0,1968
+Seattle Supersonics,Baltimore Bullets,Seattle Supersonics,14,35,49,-61844400.0,1968
+Seattle Supersonics,Detroit Pistons,Seattle Supersonics,14,36,50,-61585200.0,1968
+Seattle Supersonics,St. Louis Hawks,Seattle Supersonics,14,37,51,-61498800.0,1968
+Seattle Supersonics,Los Angeles Lakers,Seattle Supersonics,14,38,52,-61412400.0,1968
+Seattle Supersonics,Baltimore Bullets,Seattle Supersonics,15,38,53,-60807600.0,1968
+Seattle Supersonics,Seattle Supersonics,Los Angeles Lakers,16,38,54,-60634800.0,1968
+Seattle Supersonics,Seattle Supersonics,St. Louis Hawks,16,39,55,-60462000.0,1968
+Seattle Supersonics,Los Angeles Lakers,Seattle Supersonics,16,40,56,-60375600.0,1968
+Seattle Supersonics,Los Angeles Lakers,Seattle Supersonics,16,41,57,-60202800.0,1968
+Seattle Supersonics,Cincinnati Royals,Seattle Supersonics,17,41,58,-60116400.0,1968
+Seattle Supersonics,Seattle Supersonics,Los Angeles Lakers,18,41,59,-59857200.0,1968
+Seattle Supersonics,Seattle Supersonics,San Francisco Warriors,19,41,60,-59598000.0,1968
+Seattle Supersonics,Seattle Supersonics,Philadelphia 76ers,19,42,61,-59338800.0,1968
+Seattle Supersonics,Cincinnati Royals,Seattle Supersonics,19,43,62,-59252400.0,1968
+Seattle Supersonics,Baltimore Bullets,Seattle Supersonics,19,44,63,-59166000.0,1968
+Seattle Supersonics,New York Knicks,Seattle Supersonics,19,45,64,-59079600.0,1968
+Seattle Supersonics,Philadelphia 76ers,Seattle Supersonics,19,46,65,-58820400.0,1968
+Seattle Supersonics,Chicago Bulls,Seattle Supersonics,19,47,66,-58734000.0,1968
+Seattle Supersonics,San Diego Rockets,Seattle Supersonics,20,47,67,-58561200.0,1968
+Seattle Supersonics,Boston Celtics,Seattle Supersonics,20,48,68,-58474800.0,1968
+Seattle Supersonics,Los Angeles Lakers,Seattle Supersonics,20,49,69,-57870000.0,1968
+Seattle Supersonics,Seattle Supersonics,Cincinnati Royals,20,50,70,-57783600.0,1968
+Seattle Supersonics,Seattle Supersonics,Baltimore Bullets,20,51,71,-57610800.0,1968
+Seattle Supersonics,Seattle Supersonics,St. Louis Hawks,20,52,72,-57438000.0,1968
+Seattle Supersonics,Baltimore Bullets,Seattle Supersonics,20,53,73,-57351600.0,1968
+Seattle Supersonics,San Diego Rockets,Seattle Supersonics,21,53,74,-57265200.0,1968
+Seattle Supersonics,Seattle Supersonics,San Francisco Warriors,21,54,75,-57178800.0,1968
+Seattle Supersonics,Seattle Supersonics,Boston Celtics,21,55,76,-57092400.0,1968
+Seattle Supersonics,Detroit Pistons,Seattle Supersonics,21,56,77,-57006000.0,1968
+Seattle Supersonics,Cincinnati Royals,Seattle Supersonics,21,57,78,-56919600.0,1968
+Seattle Supersonics,Chicago Bulls,Seattle Supersonics,22,57,79,-56746800.0,1968
+Seattle Supersonics,St. Louis Hawks,Seattle Supersonics,22,58,80,-56660400.0,1968
+Seattle Supersonics,Seattle Supersonics,Detroit Pistons,22,59,81,-56487600.0,1968
+Seattle Supersonics,Seattle Supersonics,Chicago Bulls,23,59,82,-56401200.0,1968
+St. Louis Hawks,San Diego Rockets,St. Louis Hawks,1,0,1,-69969600.0,1968
+St. Louis Hawks,San Francisco Warriors,St. Louis Hawks,2,0,2,-69883200.0,1968
+St. Louis Hawks,San Diego Rockets,St. Louis Hawks,3,0,3,-69710400.0,1968
+St. Louis Hawks,St. Louis Hawks,Los Angeles Lakers,4,0,4,-69537600.0,1968
+St. Louis Hawks,Chicago Bulls,St. Louis Hawks,5,0,5,-69451200.0,1968
+St. Louis Hawks,St. Louis Hawks,San Francisco Warriors,6,0,6,-69364800.0,1968
+St. Louis Hawks,New York Knicks,St. Louis Hawks,7,0,7,-69105600.0,1968
+St. Louis Hawks,Boston Celtics,St. Louis Hawks,7,1,8,-69019200.0,1968
+St. Louis Hawks,St. Louis Hawks,Seattle Supersonics,8,1,9,-68760000.0,1968
+St. Louis Hawks,St. Louis Hawks,Baltimore Bullets,9,1,10,-68497200.0,1968
+St. Louis Hawks,Cincinnati Royals,St. Louis Hawks,10,1,11,-68410800.0,1968
+St. Louis Hawks,St. Louis Hawks,Boston Celtics,11,1,12,-68151600.0,1968
+St. Louis Hawks,Chicago Bulls,St. Louis Hawks,12,1,13,-67892400.0,1968
+St. Louis Hawks,St. Louis Hawks,Seattle Supersonics,13,1,14,-67806000.0,1968
+St. Louis Hawks,Detroit Pistons,St. Louis Hawks,14,1,15,-67633200.0,1968
+St. Louis Hawks,St. Louis Hawks,San Francisco Warriors,15,1,16,-67546800.0,1968
+St. Louis Hawks,St. Louis Hawks,San Diego Rockets,16,1,17,-67460400.0,1968
+St. Louis Hawks,Detroit Pistons,St. Louis Hawks,16,2,18,-67287600.0,1968
+St. Louis Hawks,Philadelphia 76ers,St. Louis Hawks,16,3,19,-67028400.0,1968
+St. Louis Hawks,St. Louis Hawks,Los Angeles Lakers,16,4,20,-66942000.0,1968
+St. Louis Hawks,St. Louis Hawks,Philadelphia 76ers,17,4,21,-66596400.0,1968
+St. Louis Hawks,St. Louis Hawks,San Diego Rockets,18,4,22,-66337200.0,1968
+St. Louis Hawks,Los Angeles Lakers,St. Louis Hawks,18,5,23,-66250800.0,1968
+St. Louis Hawks,Los Angeles Lakers,St. Louis Hawks,18,6,24,-66078000.0,1968
+St. Louis Hawks,San Diego Rockets,St. Louis Hawks,19,6,25,-65905200.0,1968
+St. Louis Hawks,San Francisco Warriors,St. Louis Hawks,19,7,26,-65818800.0,1968
+St. Louis Hawks,Seattle Supersonics,St. Louis Hawks,20,7,27,-65646000.0,1968
+St. Louis Hawks,St. Louis Hawks,Cincinnati Royals,21,7,28,-65214000.0,1968
+St. Louis Hawks,St. Louis Hawks,Baltimore Bullets,22,7,29,-65041200.0,1968
+St. Louis Hawks,New York Knicks,St. Louis Hawks,23,7,30,-64868400.0,1968
+St. Louis Hawks,Philadelphia 76ers,St. Louis Hawks,23,8,31,-64609200.0,1968
+St. Louis Hawks,St. Louis Hawks,San Francisco Warriors,24,8,32,-64522800.0,1968
+St. Louis Hawks,San Francisco Warriors,St. Louis Hawks,25,8,33,-64436400.0,1968
+St. Louis Hawks,Baltimore Bullets,St. Louis Hawks,25,9,34,-64263600.0,1968
+St. Louis Hawks,Detroit Pistons,St. Louis Hawks,25,10,35,-63658800.0,1968
+St. Louis Hawks,St. Louis Hawks,Boston Celtics,26,10,36,-63572400.0,1968
+St. Louis Hawks,Detroit Pistons,St. Louis Hawks,27,10,37,-63399600.0,1968
+St. Louis Hawks,St. Louis Hawks,Los Angeles Lakers,27,11,38,-63313200.0,1968
+St. Louis Hawks,Seattle Supersonics,St. Louis Hawks,28,11,39,-63140400.0,1968
+St. Louis Hawks,San Diego Rockets,St. Louis Hawks,28,12,40,-62967600.0,1968
+St. Louis Hawks,San Francisco Warriors,St. Louis Hawks,29,12,41,-62881200.0,1968
+St. Louis Hawks,St. Louis Hawks,Philadelphia 76ers,29,13,42,-62708400.0,1968
+St. Louis Hawks,Chicago Bulls,St. Louis Hawks,30,13,43,-62449200.0,1968
+St. Louis Hawks,Philadelphia 76ers,St. Louis Hawks,31,13,44,-62362800.0,1968
+St. Louis Hawks,Baltimore Bullets,St. Louis Hawks,32,13,45,-62276400.0,1968
+St. Louis Hawks,St. Louis Hawks,San Diego Rockets,33,13,46,-62190000.0,1968
+St. Louis Hawks,St. Louis Hawks,Chicago Bulls,34,13,47,-62017200.0,1968
+St. Louis Hawks,Boston Celtics,St. Louis Hawks,34,14,48,-61758000.0,1968
+St. Louis Hawks,Baltimore Bullets,St. Louis Hawks,35,14,49,-61671600.0,1968
+St. Louis Hawks,St. Louis Hawks,Seattle Supersonics,36,14,50,-61498800.0,1968
+St. Louis Hawks,St. Louis Hawks,Chicago Bulls,37,14,51,-61412400.0,1968
+St. Louis Hawks,Boston Celtics,St. Louis Hawks,38,14,52,-61066800.0,1968
+St. Louis Hawks,St. Louis Hawks,New York Knicks,39,14,53,-60980400.0,1968
+St. Louis Hawks,Cincinnati Royals,St. Louis Hawks,40,14,54,-60894000.0,1968
+St. Louis Hawks,Los Angeles Lakers,St. Louis Hawks,40,15,55,-60807600.0,1968
+St. Louis Hawks,Los Angeles Lakers,St. Louis Hawks,40,16,56,-60548400.0,1968
+St. Louis Hawks,Seattle Supersonics,St. Louis Hawks,41,16,57,-60462000.0,1968
+St. Louis Hawks,Cincinnati Royals,St. Louis Hawks,42,16,58,-60289200.0,1968
+St. Louis Hawks,St. Louis Hawks,Cincinnati Royals,43,16,59,-60202800.0,1968
+St. Louis Hawks,New York Knicks,St. Louis Hawks,43,17,60,-60030000.0,1968
+St. Louis Hawks,Boston Celtics,St. Louis Hawks,43,18,61,-59943600.0,1968
+St. Louis Hawks,St. Louis Hawks,New York Knicks,44,18,62,-59770800.0,1968
+St. Louis Hawks,St. Louis Hawks,Chicago Bulls,45,18,63,-59684400.0,1968
+St. Louis Hawks,Philadelphia 76ers,St. Louis Hawks,45,19,64,-59598000.0,1968
+St. Louis Hawks,Cincinnati Royals,St. Louis Hawks,46,19,65,-59425200.0,1968
+St. Louis Hawks,St. Louis Hawks,Boston Celtics,46,20,66,-59079600.0,1968
+St. Louis Hawks,St. Louis Hawks,Chicago Bulls,46,21,67,-58993200.0,1968
+St. Louis Hawks,Baltimore Bullets,St. Louis Hawks,46,22,68,-58820400.0,1968
+St. Louis Hawks,Detroit Pistons,St. Louis Hawks,47,22,69,-58647600.0,1968
+St. Louis Hawks,St. Louis Hawks,Baltimore Bullets,48,22,70,-58561200.0,1968
+St. Louis Hawks,St. Louis Hawks,Philadelphia 76ers,48,23,71,-58388400.0,1968
+St. Louis Hawks,New York Knicks,St. Louis Hawks,49,23,72,-58215600.0,1968
+St. Louis Hawks,New York Knicks,St. Louis Hawks,50,23,73,-58042800.0,1968
+St. Louis Hawks,Detroit Pistons,St. Louis Hawks,50,24,74,-57956400.0,1968
+St. Louis Hawks,St. Louis Hawks,San Diego Rockets,51,24,75,-57783600.0,1968
+St. Louis Hawks,San Francisco Warriors,St. Louis Hawks,52,24,76,-57610800.0,1968
+St. Louis Hawks,Los Angeles Lakers,St. Louis Hawks,53,24,77,-57524400.0,1968
+St. Louis Hawks,Seattle Supersonics,St. Louis Hawks,54,24,78,-57438000.0,1968
+St. Louis Hawks,Chicago Bulls,St. Louis Hawks,55,24,79,-57265200.0,1968
+St. Louis Hawks,St. Louis Hawks,Detroit Pistons,55,25,80,-57178800.0,1968
+St. Louis Hawks,Cincinnati Royals,St. Louis Hawks,55,26,81,-56833200.0,1968
+St. Louis Hawks,St. Louis Hawks,Seattle Supersonics,56,26,82,-56660400.0,1968

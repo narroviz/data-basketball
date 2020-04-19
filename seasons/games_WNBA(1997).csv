@@ -1,0 +1,225 @@
+id,home_team,away_team,win,loss,game_number,date,year
+Charlotte Sting,Phoenix Mercury,Charlotte Sting,0,1,1,866952000.0,1997
+Charlotte Sting,Los Angeles Sparks,Charlotte Sting,0,2,2,867211200.0,1997
+Charlotte Sting,Sacramento Monarchs,Charlotte Sting,0,3,3,867297600.0,1997
+Charlotte Sting,Charlotte Sting,Cleveland Rockers,1,3,4,867556800.0,1997
+Charlotte Sting,Charlotte Sting,Los Angeles Sparks,2,3,5,868075200.0,1997
+Charlotte Sting,Houston Comets,Charlotte Sting,2,4,6,868248000.0,1997
+Charlotte Sting,Charlotte Sting,New York Liberty,3,4,7,868420800.0,1997
+Charlotte Sting,New York Liberty,Charlotte Sting,3,5,8,868507200.0,1997
+Charlotte Sting,Charlotte Sting,Cleveland Rockers,4,5,9,868680000.0,1997
+Charlotte Sting,Charlotte Sting,Utah Starzz,5,5,10,869025600.0,1997
+Charlotte Sting,Cleveland Rockers,Charlotte Sting,5,6,11,869112000.0,1997
+Charlotte Sting,Charlotte Sting,Los Angeles Sparks,6,6,12,869457600.0,1997
+Charlotte Sting,Charlotte Sting,New York Liberty,6,7,13,869630400.0,1997
+Charlotte Sting,New York Liberty,Charlotte Sting,7,7,14,869889600.0,1997
+Charlotte Sting,Charlotte Sting,Phoenix Mercury,8,7,15,870235200.0,1997
+Charlotte Sting,Charlotte Sting,Sacramento Monarchs,9,7,16,870408000.0,1997
+Charlotte Sting,Los Angeles Sparks,Charlotte Sting,10,7,17,870580800.0,1997
+Charlotte Sting,Utah Starzz,Charlotte Sting,10,8,18,870667200.0,1997
+Charlotte Sting,Sacramento Monarchs,Charlotte Sting,10,9,19,870840000.0,1997
+Charlotte Sting,Charlotte Sting,Phoenix Mercury,11,9,20,871099200.0,1997
+Charlotte Sting,Charlotte Sting,Houston Comets,11,10,21,871272000.0,1997
+Charlotte Sting,Charlotte Sting,Sacramento Monarchs,12,10,22,871531200.0,1997
+Charlotte Sting,Charlotte Sting,Houston Comets,13,10,23,871704000.0,1997
+Charlotte Sting,Cleveland Rockers,Charlotte Sting,13,11,24,871790400.0,1997
+Charlotte Sting,Houston Comets,Charlotte Sting,13,12,25,871963200.0,1997
+Charlotte Sting,Utah Starzz,Charlotte Sting,14,12,26,872136000.0,1997
+Charlotte Sting,Phoenix Mercury,Charlotte Sting,14,13,27,872222400.0,1997
+Charlotte Sting,Charlotte Sting,Utah Starzz,15,13,28,872395200.0,1997
+Cleveland Rockers,Cleveland Rockers,Houston Comets,0,1,1,866865600.0,1997
+Cleveland Rockers,Cleveland Rockers,Utah Starzz,1,1,2,867297600.0,1997
+Cleveland Rockers,Cleveland Rockers,Phoenix Mercury,1,2,3,867470400.0,1997
+Cleveland Rockers,Charlotte Sting,Cleveland Rockers,1,3,4,867556800.0,1997
+Cleveland Rockers,Cleveland Rockers,Los Angeles Sparks,1,4,5,867902400.0,1997
+Cleveland Rockers,Sacramento Monarchs,Cleveland Rockers,1,5,6,868161600.0,1997
+Cleveland Rockers,Los Angeles Sparks,Cleveland Rockers,2,5,7,868248000.0,1997
+Cleveland Rockers,Cleveland Rockers,Sacramento Monarchs,3,5,8,868507200.0,1997
+Cleveland Rockers,Charlotte Sting,Cleveland Rockers,3,6,9,868680000.0,1997
+Cleveland Rockers,Cleveland Rockers,New York Liberty,3,7,10,868852800.0,1997
+Cleveland Rockers,New York Liberty,Cleveland Rockers,3,8,11,868939200.0,1997
+Cleveland Rockers,Cleveland Rockers,Charlotte Sting,4,8,12,869112000.0,1997
+Cleveland Rockers,Cleveland Rockers,Utah Starzz,5,8,13,869284800.0,1997
+Cleveland Rockers,Los Angeles Sparks,Cleveland Rockers,6,8,14,869630400.0,1997
+Cleveland Rockers,Utah Starzz,Cleveland Rockers,7,8,15,869889600.0,1997
+Cleveland Rockers,Phoenix Mercury,Cleveland Rockers,8,8,16,870062400.0,1997
+Cleveland Rockers,Houston Comets,Cleveland Rockers,9,8,17,870148800.0,1997
+Cleveland Rockers,Cleveland Rockers,Phoenix Mercury,10,8,18,870321600.0,1997
+Cleveland Rockers,Cleveland Rockers,Sacramento Monarchs,11,8,19,870494400.0,1997
+Cleveland Rockers,Cleveland Rockers,Houston Comets,11,9,20,870753600.0,1997
+Cleveland Rockers,Cleveland Rockers,Los Angeles Sparks,11,10,21,870926400.0,1997
+Cleveland Rockers,Utah Starzz,Cleveland Rockers,12,10,22,871272000.0,1997
+Cleveland Rockers,Sacramento Monarchs,Cleveland Rockers,12,11,23,871358400.0,1997
+Cleveland Rockers,Phoenix Mercury,Cleveland Rockers,12,12,24,871531200.0,1997
+Cleveland Rockers,Cleveland Rockers,Charlotte Sting,13,12,25,871790400.0,1997
+Cleveland Rockers,Houston Comets,Cleveland Rockers,14,12,26,872136000.0,1997
+Cleveland Rockers,Cleveland Rockers,New York Liberty,15,12,27,872308800.0,1997
+Cleveland Rockers,New York Liberty,Cleveland Rockers,15,13,28,872395200.0,1997
+Houston Comets,Cleveland Rockers,Houston Comets,1,0,1,866865600.0,1997
+Houston Comets,Houston Comets,Phoenix Mercury,2,0,2,867124800.0,1997
+Houston Comets,Houston Comets,New York Liberty,2,1,3,867297600.0,1997
+Houston Comets,Utah Starzz,Houston Comets,3,1,4,867470400.0,1997
+Houston Comets,Houston Comets,Los Angeles Sparks,4,1,5,867643200.0,1997
+Houston Comets,New York Liberty,Houston Comets,4,2,6,867816000.0,1997
+Houston Comets,Houston Comets,New York Liberty,4,3,7,867988800.0,1997
+Houston Comets,Houston Comets,Charlotte Sting,5,3,8,868248000.0,1997
+Houston Comets,Phoenix Mercury,Houston Comets,5,4,9,868420800.0,1997
+Houston Comets,Houston Comets,Sacramento Monarchs,6,4,10,868680000.0,1997
+Houston Comets,Houston Comets,Utah Starzz,7,4,11,868852800.0,1997
+Houston Comets,Los Angeles Sparks,Houston Comets,7,5,12,869025600.0,1997
+Houston Comets,Sacramento Monarchs,Houston Comets,8,5,13,869198400.0,1997
+Houston Comets,Phoenix Mercury,Houston Comets,9,5,14,869544000.0,1997
+Houston Comets,Sacramento Monarchs,Houston Comets,10,5,15,869803200.0,1997
+Houston Comets,Houston Comets,Cleveland Rockers,10,6,16,870148800.0,1997
+Houston Comets,Los Angeles Sparks,Houston Comets,11,6,17,870408000.0,1997
+Houston Comets,Utah Starzz,Houston Comets,11,7,18,870494400.0,1997
+Houston Comets,Cleveland Rockers,Houston Comets,12,7,19,870753600.0,1997
+Houston Comets,Houston Comets,Phoenix Mercury,13,7,20,870926400.0,1997
+Houston Comets,Houston Comets,Los Angeles Sparks,14,7,21,871099200.0,1997
+Houston Comets,Charlotte Sting,Houston Comets,15,7,22,871272000.0,1997
+Houston Comets,Houston Comets,Utah Starzz,16,7,23,871358400.0,1997
+Houston Comets,Charlotte Sting,Houston Comets,16,8,24,871704000.0,1997
+Houston Comets,New York Liberty,Houston Comets,17,8,25,871790400.0,1997
+Houston Comets,Houston Comets,Charlotte Sting,18,8,26,871963200.0,1997
+Houston Comets,Houston Comets,Cleveland Rockers,18,9,27,872136000.0,1997
+Houston Comets,Houston Comets,Sacramento Monarchs,18,10,28,872395200.0,1997
+Los Angeles Sparks,Los Angeles Sparks,New York Liberty,0,1,1,866865600.0,1997
+Los Angeles Sparks,Utah Starzz,Los Angeles Sparks,0,2,2,867038400.0,1997
+Los Angeles Sparks,Los Angeles Sparks,Charlotte Sting,1,2,3,867211200.0,1997
+Los Angeles Sparks,Los Angeles Sparks,Sacramento Monarchs,2,2,4,867384000.0,1997
+Los Angeles Sparks,Houston Comets,Los Angeles Sparks,2,3,5,867643200.0,1997
+Los Angeles Sparks,Cleveland Rockers,Los Angeles Sparks,3,3,6,867902400.0,1997
+Los Angeles Sparks,Charlotte Sting,Los Angeles Sparks,3,4,7,868075200.0,1997
+Los Angeles Sparks,Los Angeles Sparks,Cleveland Rockers,3,5,8,868248000.0,1997
+Los Angeles Sparks,Los Angeles Sparks,Utah Starzz,4,5,9,868593600.0,1997
+Los Angeles Sparks,Los Angeles Sparks,Phoenix Mercury,4,6,10,868766400.0,1997
+Los Angeles Sparks,Sacramento Monarchs,Los Angeles Sparks,4,7,11,868939200.0,1997
+Los Angeles Sparks,Los Angeles Sparks,Houston Comets,5,7,12,869025600.0,1997
+Los Angeles Sparks,New York Liberty,Los Angeles Sparks,5,8,13,869284800.0,1997
+Los Angeles Sparks,Charlotte Sting,Los Angeles Sparks,5,9,14,869457600.0,1997
+Los Angeles Sparks,Los Angeles Sparks,Cleveland Rockers,5,10,15,869630400.0,1997
+Los Angeles Sparks,Phoenix Mercury,Los Angeles Sparks,6,10,16,869803200.0,1997
+Los Angeles Sparks,Sacramento Monarchs,Los Angeles Sparks,7,10,17,869976000.0,1997
+Los Angeles Sparks,Los Angeles Sparks,Utah Starzz,8,10,18,870235200.0,1997
+Los Angeles Sparks,Los Angeles Sparks,Houston Comets,8,11,19,870408000.0,1997
+Los Angeles Sparks,Los Angeles Sparks,Charlotte Sting,8,12,20,870580800.0,1997
+Los Angeles Sparks,New York Liberty,Los Angeles Sparks,9,12,21,870753600.0,1997
+Los Angeles Sparks,Cleveland Rockers,Los Angeles Sparks,10,12,22,870926400.0,1997
+Los Angeles Sparks,Houston Comets,Los Angeles Sparks,10,13,23,871099200.0,1997
+Los Angeles Sparks,Utah Starzz,Los Angeles Sparks,11,13,24,871704000.0,1997
+Los Angeles Sparks,Los Angeles Sparks,Phoenix Mercury,12,13,25,871876800.0,1997
+Los Angeles Sparks,Los Angeles Sparks,New York Liberty,13,13,26,872049600.0,1997
+Los Angeles Sparks,Los Angeles Sparks,Sacramento Monarchs,14,13,27,872222400.0,1997
+Los Angeles Sparks,Phoenix Mercury,Los Angeles Sparks,14,14,28,872395200.0,1997
+New York Liberty,Los Angeles Sparks,New York Liberty,1,0,1,866865600.0,1997
+New York Liberty,Sacramento Monarchs,New York Liberty,2,0,2,867038400.0,1997
+New York Liberty,Houston Comets,New York Liberty,3,0,3,867297600.0,1997
+New York Liberty,New York Liberty,Phoenix Mercury,4,0,4,867556800.0,1997
+New York Liberty,New York Liberty,Houston Comets,5,0,5,867816000.0,1997
+New York Liberty,Houston Comets,New York Liberty,6,0,6,867988800.0,1997
+New York Liberty,Utah Starzz,New York Liberty,7,0,7,868075200.0,1997
+New York Liberty,Phoenix Mercury,New York Liberty,7,1,8,868248000.0,1997
+New York Liberty,Charlotte Sting,New York Liberty,7,2,9,868420800.0,1997
+New York Liberty,New York Liberty,Charlotte Sting,8,2,10,868507200.0,1997
+New York Liberty,Cleveland Rockers,New York Liberty,9,2,11,868852800.0,1997
+New York Liberty,New York Liberty,Cleveland Rockers,10,2,12,868939200.0,1997
+New York Liberty,New York Liberty,Utah Starzz,11,2,13,869112000.0,1997
+New York Liberty,New York Liberty,Los Angeles Sparks,12,2,14,869284800.0,1997
+New York Liberty,New York Liberty,Utah Starzz,12,3,15,869544000.0,1997
+New York Liberty,Charlotte Sting,New York Liberty,13,3,16,869630400.0,1997
+New York Liberty,New York Liberty,Charlotte Sting,13,4,17,869889600.0,1997
+New York Liberty,New York Liberty,Sacramento Monarchs,14,4,18,870235200.0,1997
+New York Liberty,New York Liberty,Phoenix Mercury,15,4,19,870494400.0,1997
+New York Liberty,New York Liberty,Los Angeles Sparks,15,5,20,870753600.0,1997
+New York Liberty,Sacramento Monarchs,New York Liberty,15,6,21,871185600.0,1997
+New York Liberty,Phoenix Mercury,New York Liberty,15,7,22,871358400.0,1997
+New York Liberty,New York Liberty,Sacramento Monarchs,16,7,23,871617600.0,1997
+New York Liberty,New York Liberty,Houston Comets,16,8,24,871790400.0,1997
+New York Liberty,Utah Starzz,New York Liberty,16,9,25,871963200.0,1997
+New York Liberty,Los Angeles Sparks,New York Liberty,16,10,26,872049600.0,1997
+New York Liberty,Cleveland Rockers,New York Liberty,16,11,27,872308800.0,1997
+New York Liberty,New York Liberty,Cleveland Rockers,17,11,28,872395200.0,1997
+Phoenix Mercury,Phoenix Mercury,Charlotte Sting,1,0,1,866952000.0,1997
+Phoenix Mercury,Houston Comets,Phoenix Mercury,1,1,2,867124800.0,1997
+Phoenix Mercury,Cleveland Rockers,Phoenix Mercury,2,1,3,867470400.0,1997
+Phoenix Mercury,New York Liberty,Phoenix Mercury,2,2,4,867556800.0,1997
+Phoenix Mercury,Utah Starzz,Phoenix Mercury,3,2,5,867902400.0,1997
+Phoenix Mercury,Phoenix Mercury,New York Liberty,4,2,6,868248000.0,1997
+Phoenix Mercury,Phoenix Mercury,Houston Comets,5,2,7,868420800.0,1997
+Phoenix Mercury,Utah Starzz,Phoenix Mercury,5,3,8,868680000.0,1997
+Phoenix Mercury,Los Angeles Sparks,Phoenix Mercury,6,3,9,868766400.0,1997
+Phoenix Mercury,Phoenix Mercury,Sacramento Monarchs,7,3,10,869025600.0,1997
+Phoenix Mercury,Sacramento Monarchs,Phoenix Mercury,8,3,11,869457600.0,1997
+Phoenix Mercury,Phoenix Mercury,Houston Comets,8,4,12,869544000.0,1997
+Phoenix Mercury,Phoenix Mercury,Los Angeles Sparks,8,5,13,869803200.0,1997
+Phoenix Mercury,Phoenix Mercury,Cleveland Rockers,8,6,14,870062400.0,1997
+Phoenix Mercury,Charlotte Sting,Phoenix Mercury,8,7,15,870235200.0,1997
+Phoenix Mercury,Cleveland Rockers,Phoenix Mercury,8,8,16,870321600.0,1997
+Phoenix Mercury,New York Liberty,Phoenix Mercury,8,9,17,870494400.0,1997
+Phoenix Mercury,Phoenix Mercury,Sacramento Monarchs,9,9,18,870667200.0,1997
+Phoenix Mercury,Phoenix Mercury,Utah Starzz,10,9,19,870840000.0,1997
+Phoenix Mercury,Houston Comets,Phoenix Mercury,10,10,20,870926400.0,1997
+Phoenix Mercury,Charlotte Sting,Phoenix Mercury,10,11,21,871099200.0,1997
+Phoenix Mercury,Phoenix Mercury,New York Liberty,11,11,22,871358400.0,1997
+Phoenix Mercury,Phoenix Mercury,Cleveland Rockers,12,11,23,871531200.0,1997
+Phoenix Mercury,Phoenix Mercury,Utah Starzz,13,11,24,871790400.0,1997
+Phoenix Mercury,Los Angeles Sparks,Phoenix Mercury,13,12,25,871876800.0,1997
+Phoenix Mercury,Sacramento Monarchs,Phoenix Mercury,14,12,26,872049600.0,1997
+Phoenix Mercury,Phoenix Mercury,Charlotte Sting,15,12,27,872222400.0,1997
+Phoenix Mercury,Phoenix Mercury,Los Angeles Sparks,16,12,28,872395200.0,1997
+Sacramento Monarchs,Utah Starzz,Sacramento Monarchs,1,0,1,866865600.0,1997
+Sacramento Monarchs,Sacramento Monarchs,New York Liberty,1,1,2,867038400.0,1997
+Sacramento Monarchs,Sacramento Monarchs,Charlotte Sting,2,1,3,867297600.0,1997
+Sacramento Monarchs,Los Angeles Sparks,Sacramento Monarchs,2,2,4,867384000.0,1997
+Sacramento Monarchs,Sacramento Monarchs,Utah Starzz,2,3,5,867816000.0,1997
+Sacramento Monarchs,Sacramento Monarchs,Cleveland Rockers,3,3,6,868161600.0,1997
+Sacramento Monarchs,Utah Starzz,Sacramento Monarchs,4,3,7,868248000.0,1997
+Sacramento Monarchs,Cleveland Rockers,Sacramento Monarchs,4,4,8,868507200.0,1997
+Sacramento Monarchs,Houston Comets,Sacramento Monarchs,4,5,9,868680000.0,1997
+Sacramento Monarchs,Sacramento Monarchs,Los Angeles Sparks,5,5,10,868939200.0,1997
+Sacramento Monarchs,Phoenix Mercury,Sacramento Monarchs,5,6,11,869025600.0,1997
+Sacramento Monarchs,Sacramento Monarchs,Houston Comets,5,7,12,869198400.0,1997
+Sacramento Monarchs,Sacramento Monarchs,Phoenix Mercury,5,8,13,869457600.0,1997
+Sacramento Monarchs,Sacramento Monarchs,Houston Comets,5,9,14,869803200.0,1997
+Sacramento Monarchs,Sacramento Monarchs,Los Angeles Sparks,5,10,15,869976000.0,1997
+Sacramento Monarchs,New York Liberty,Sacramento Monarchs,5,11,16,870235200.0,1997
+Sacramento Monarchs,Charlotte Sting,Sacramento Monarchs,5,12,17,870408000.0,1997
+Sacramento Monarchs,Cleveland Rockers,Sacramento Monarchs,5,13,18,870494400.0,1997
+Sacramento Monarchs,Phoenix Mercury,Sacramento Monarchs,5,14,19,870667200.0,1997
+Sacramento Monarchs,Sacramento Monarchs,Charlotte Sting,6,14,20,870840000.0,1997
+Sacramento Monarchs,Sacramento Monarchs,Utah Starzz,7,14,21,871012800.0,1997
+Sacramento Monarchs,Sacramento Monarchs,New York Liberty,8,14,22,871185600.0,1997
+Sacramento Monarchs,Sacramento Monarchs,Cleveland Rockers,9,14,23,871358400.0,1997
+Sacramento Monarchs,Charlotte Sting,Sacramento Monarchs,9,15,24,871531200.0,1997
+Sacramento Monarchs,New York Liberty,Sacramento Monarchs,9,16,25,871617600.0,1997
+Sacramento Monarchs,Sacramento Monarchs,Phoenix Mercury,9,17,26,872049600.0,1997
+Sacramento Monarchs,Los Angeles Sparks,Sacramento Monarchs,9,18,27,872222400.0,1997
+Sacramento Monarchs,Houston Comets,Sacramento Monarchs,10,18,28,872395200.0,1997
+Utah Starzz,Utah Starzz,Sacramento Monarchs,0,1,1,866865600.0,1997
+Utah Starzz,Utah Starzz,Los Angeles Sparks,1,1,2,867038400.0,1997
+Utah Starzz,Cleveland Rockers,Utah Starzz,1,2,3,867297600.0,1997
+Utah Starzz,Utah Starzz,Houston Comets,1,3,4,867470400.0,1997
+Utah Starzz,Sacramento Monarchs,Utah Starzz,2,3,5,867816000.0,1997
+Utah Starzz,Utah Starzz,Phoenix Mercury,2,4,6,867902400.0,1997
+Utah Starzz,Utah Starzz,New York Liberty,2,5,7,868075200.0,1997
+Utah Starzz,Utah Starzz,Sacramento Monarchs,2,6,8,868248000.0,1997
+Utah Starzz,Los Angeles Sparks,Utah Starzz,2,7,9,868593600.0,1997
+Utah Starzz,Utah Starzz,Phoenix Mercury,3,7,10,868680000.0,1997
+Utah Starzz,Houston Comets,Utah Starzz,3,8,11,868852800.0,1997
+Utah Starzz,Charlotte Sting,Utah Starzz,3,9,12,869025600.0,1997
+Utah Starzz,New York Liberty,Utah Starzz,3,10,13,869112000.0,1997
+Utah Starzz,Cleveland Rockers,Utah Starzz,3,11,14,869284800.0,1997
+Utah Starzz,New York Liberty,Utah Starzz,4,11,15,869544000.0,1997
+Utah Starzz,Utah Starzz,Cleveland Rockers,4,12,16,869889600.0,1997
+Utah Starzz,Los Angeles Sparks,Utah Starzz,4,13,17,870235200.0,1997
+Utah Starzz,Utah Starzz,Houston Comets,5,13,18,870494400.0,1997
+Utah Starzz,Utah Starzz,Charlotte Sting,6,13,19,870667200.0,1997
+Utah Starzz,Phoenix Mercury,Utah Starzz,6,14,20,870840000.0,1997
+Utah Starzz,Sacramento Monarchs,Utah Starzz,6,15,21,871012800.0,1997
+Utah Starzz,Utah Starzz,Cleveland Rockers,6,16,22,871272000.0,1997
+Utah Starzz,Houston Comets,Utah Starzz,6,17,23,871358400.0,1997
+Utah Starzz,Utah Starzz,Los Angeles Sparks,6,18,24,871704000.0,1997
+Utah Starzz,Phoenix Mercury,Utah Starzz,6,19,25,871790400.0,1997
+Utah Starzz,Utah Starzz,New York Liberty,7,19,26,871963200.0,1997
+Utah Starzz,Utah Starzz,Charlotte Sting,7,20,27,872136000.0,1997
+Utah Starzz,Charlotte Sting,Utah Starzz,7,21,28,872395200.0,1997

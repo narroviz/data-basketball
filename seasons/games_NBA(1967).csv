@@ -1,0 +1,811 @@
+id,home_team,away_team,win,loss,game_number,date,year
+Baltimore Bullets,Baltimore Bullets,Los Angeles Lakers,0,1,1,-101419200.0,1967
+Baltimore Bullets,Baltimore Bullets,New York Knicks,0,2,2,-101073600.0,1967
+Baltimore Bullets,Boston Celtics,Baltimore Bullets,0,3,3,-100900800.0,1967
+Baltimore Bullets,Baltimore Bullets,Philadelphia 76ers,0,4,4,-100814400.0,1967
+Baltimore Bullets,Philadelphia 76ers,Baltimore Bullets,0,5,5,-100555200.0,1967
+Baltimore Bullets,Baltimore Bullets,Cincinnati Royals,1,5,6,-100468800.0,1967
+Baltimore Bullets,Baltimore Bullets,San Francisco Warriors,1,6,7,-100296000.0,1967
+Baltimore Bullets,Detroit Pistons,Baltimore Bullets,1,7,8,-100209600.0,1967
+Baltimore Bullets,Chicago Bulls,Baltimore Bullets,1,8,9,-99860400.0,1967
+Baltimore Bullets,Los Angeles Lakers,Baltimore Bullets,1,9,10,-99687600.0,1967
+Baltimore Bullets,San Francisco Warriors,Baltimore Bullets,1,10,11,-99514800.0,1967
+Baltimore Bullets,Los Angeles Lakers,Baltimore Bullets,2,10,12,-99342000.0,1967
+Baltimore Bullets,San Francisco Warriors,Baltimore Bullets,2,11,13,-99255600.0,1967
+Baltimore Bullets,Baltimore Bullets,Cincinnati Royals,2,12,14,-99082800.0,1967
+Baltimore Bullets,New York Knicks,Baltimore Bullets,2,13,15,-98996400.0,1967
+Baltimore Bullets,Baltimore Bullets,Chicago Bulls,3,13,16,-98564400.0,1967
+Baltimore Bullets,Boston Celtics,Baltimore Bullets,3,14,17,-98478000.0,1967
+Baltimore Bullets,Baltimore Bullets,Boston Celtics,3,15,18,-98391600.0,1967
+Baltimore Bullets,Cincinnati Royals,Baltimore Bullets,3,16,19,-98305200.0,1967
+Baltimore Bullets,Baltimore Bullets,San Francisco Warriors,4,16,20,-98132400.0,1967
+Baltimore Bullets,Baltimore Bullets,San Francisco Warriors,4,17,21,-98046000.0,1967
+Baltimore Bullets,Baltimore Bullets,Philadelphia 76ers,4,18,22,-97873200.0,1967
+Baltimore Bullets,New York Knicks,Baltimore Bullets,4,19,23,-97786800.0,1967
+Baltimore Bullets,Baltimore Bullets,Los Angeles Lakers,4,20,24,-97441200.0,1967
+Baltimore Bullets,Baltimore Bullets,Philadelphia 76ers,4,21,25,-97182000.0,1967
+Baltimore Bullets,Baltimore Bullets,San Francisco Warriors,5,21,26,-96836400.0,1967
+Baltimore Bullets,Baltimore Bullets,Chicago Bulls,5,22,27,-96750000.0,1967
+Baltimore Bullets,New York Knicks,Baltimore Bullets,5,23,28,-96577200.0,1967
+Baltimore Bullets,Baltimore Bullets,Chicago Bulls,6,23,29,-96318000.0,1967
+Baltimore Bullets,Baltimore Bullets,New York Knicks,7,23,30,-96231600.0,1967
+Baltimore Bullets,Detroit Pistons,Baltimore Bullets,8,23,31,-96058800.0,1967
+Baltimore Bullets,Baltimore Bullets,Chicago Bulls,8,24,32,-95972400.0,1967
+Baltimore Bullets,Cincinnati Royals,Baltimore Bullets,8,25,33,-95886000.0,1967
+Baltimore Bullets,Baltimore Bullets,St. Louis Hawks,8,26,34,-95626800.0,1967
+Baltimore Bullets,Baltimore Bullets,Detroit Pistons,8,27,35,-95281200.0,1967
+Baltimore Bullets,Chicago Bulls,Baltimore Bullets,8,28,36,-95194800.0,1967
+Baltimore Bullets,St. Louis Hawks,Baltimore Bullets,8,29,37,-95108400.0,1967
+Baltimore Bullets,Baltimore Bullets,San Francisco Warriors,8,30,38,-95022000.0,1967
+Baltimore Bullets,Baltimore Bullets,New York Knicks,8,31,39,-94849200.0,1967
+Baltimore Bullets,Baltimore Bullets,Detroit Pistons,8,32,40,-94503600.0,1967
+Baltimore Bullets,Baltimore Bullets,Detroit Pistons,8,33,41,-94417200.0,1967
+Baltimore Bullets,Philadelphia 76ers,Baltimore Bullets,8,34,42,-94244400.0,1967
+Baltimore Bullets,New York Knicks,Baltimore Bullets,8,35,43,-94158000.0,1967
+Baltimore Bullets,Baltimore Bullets,Cincinnati Royals,8,36,44,-94071600.0,1967
+Baltimore Bullets,Baltimore Bullets,St. Louis Hawks,9,36,45,-93726000.0,1967
+Baltimore Bullets,Baltimore Bullets,Detroit Pistons,9,37,46,-93639600.0,1967
+Baltimore Bullets,Baltimore Bullets,Boston Celtics,9,38,47,-93553200.0,1967
+Baltimore Bullets,Baltimore Bullets,St. Louis Hawks,10,38,48,-93380400.0,1967
+Baltimore Bullets,Baltimore Bullets,Cincinnati Royals,11,38,49,-93121200.0,1967
+Baltimore Bullets,Boston Celtics,Baltimore Bullets,11,39,50,-93034800.0,1967
+Baltimore Bullets,Baltimore Bullets,Los Angeles Lakers,12,39,51,-92948400.0,1967
+Baltimore Bullets,Chicago Bulls,Baltimore Bullets,12,40,52,-92862000.0,1967
+Baltimore Bullets,San Francisco Warriors,Baltimore Bullets,12,41,53,-92689200.0,1967
+Baltimore Bullets,Los Angeles Lakers,Baltimore Bullets,12,42,54,-92602800.0,1967
+Baltimore Bullets,San Francisco Warriors,Baltimore Bullets,12,43,55,-92430000.0,1967
+Baltimore Bullets,Los Angeles Lakers,Baltimore Bullets,12,44,56,-92343600.0,1967
+Baltimore Bullets,Baltimore Bullets,Boston Celtics,12,45,57,-91998000.0,1967
+Baltimore Bullets,Baltimore Bullets,Cincinnati Royals,12,46,58,-91911600.0,1967
+Baltimore Bullets,Baltimore Bullets,Cincinnati Royals,13,46,59,-91738800.0,1967
+Baltimore Bullets,Baltimore Bullets,St. Louis Hawks,14,46,60,-91566000.0,1967
+Baltimore Bullets,Baltimore Bullets,St. Louis Hawks,14,47,61,-91479600.0,1967
+Baltimore Bullets,Baltimore Bullets,Los Angeles Lakers,14,48,62,-91393200.0,1967
+Baltimore Bullets,Baltimore Bullets,Boston Celtics,15,48,63,-91306800.0,1967
+Baltimore Bullets,Baltimore Bullets,Philadelphia 76ers,16,48,64,-91134000.0,1967
+Baltimore Bullets,Baltimore Bullets,St. Louis Hawks,16,49,65,-90615600.0,1967
+Baltimore Bullets,Baltimore Bullets,Detroit Pistons,16,50,66,-90529200.0,1967
+Baltimore Bullets,Detroit Pistons,Baltimore Bullets,17,50,67,-90442800.0,1967
+Baltimore Bullets,Baltimore Bullets,Boston Celtics,17,51,68,-90183600.0,1967
+Baltimore Bullets,Baltimore Bullets,Philadelphia 76ers,17,52,69,-90010800.0,1967
+Baltimore Bullets,New York Knicks,Baltimore Bullets,17,53,70,-89924400.0,1967
+Baltimore Bullets,Baltimore Bullets,Chicago Bulls,18,53,71,-89838000.0,1967
+Baltimore Bullets,Baltimore Bullets,St. Louis Hawks,19,53,72,-89578800.0,1967
+Baltimore Bullets,Cincinnati Royals,Baltimore Bullets,19,54,73,-89319600.0,1967
+Baltimore Bullets,St. Louis Hawks,Baltimore Bullets,19,55,74,-89233200.0,1967
+Baltimore Bullets,Detroit Pistons,Baltimore Bullets,19,56,75,-88974000.0,1967
+Baltimore Bullets,Chicago Bulls,Baltimore Bullets,19,57,76,-88801200.0,1967
+Baltimore Bullets,Boston Celtics,Baltimore Bullets,19,58,77,-88628400.0,1967
+Baltimore Bullets,Baltimore Bullets,New York Knicks,20,58,78,-88369200.0,1967
+Baltimore Bullets,Baltimore Bullets,Los Angeles Lakers,20,59,79,-88196400.0,1967
+Baltimore Bullets,Philadelphia 76ers,Baltimore Bullets,20,60,80,-88110000.0,1967
+Baltimore Bullets,Baltimore Bullets,Philadelphia 76ers,20,61,81,-88023600.0,1967
+Boston Celtics,Boston Celtics,San Francisco Warriors,1,0,1,-101419200.0,1967
+Boston Celtics,Boston Celtics,Baltimore Bullets,2,0,2,-100900800.0,1967
+Boston Celtics,New York Knicks,Boston Celtics,3,0,3,-100814400.0,1967
+Boston Celtics,Boston Celtics,Chicago Bulls,4,0,4,-100382400.0,1967
+Boston Celtics,Philadelphia 76ers,Boston Celtics,4,1,5,-100209600.0,1967
+Boston Celtics,Boston Celtics,Los Angeles Lakers,5,1,6,-99860400.0,1967
+Boston Celtics,Boston Celtics,Chicago Bulls,6,1,7,-99774000.0,1967
+Boston Celtics,Boston Celtics,Philadelphia 76ers,7,1,8,-99601200.0,1967
+Boston Celtics,Chicago Bulls,Boston Celtics,8,1,9,-99342000.0,1967
+Boston Celtics,Cincinnati Royals,Boston Celtics,9,1,10,-99169200.0,1967
+Boston Celtics,Boston Celtics,New York Knicks,10,1,11,-99082800.0,1967
+Boston Celtics,St. Louis Hawks,Boston Celtics,10,2,12,-98996400.0,1967
+Boston Celtics,Boston Celtics,Baltimore Bullets,11,2,13,-98478000.0,1967
+Boston Celtics,Baltimore Bullets,Boston Celtics,12,2,14,-98391600.0,1967
+Boston Celtics,Boston Celtics,St. Louis Hawks,13,2,15,-98046000.0,1967
+Boston Celtics,St. Louis Hawks,Boston Celtics,14,2,16,-97959600.0,1967
+Boston Celtics,Detroit Pistons,Boston Celtics,14,3,17,-97873200.0,1967
+Boston Celtics,Boston Celtics,Cincinnati Royals,15,3,18,-97786800.0,1967
+Boston Celtics,Boston Celtics,Detroit Pistons,15,4,19,-97527600.0,1967
+Boston Celtics,Boston Celtics,Detroit Pistons,15,5,20,-97268400.0,1967
+Boston Celtics,New York Knicks,Boston Celtics,16,5,21,-97182000.0,1967
+Boston Celtics,Boston Celtics,Detroit Pistons,17,5,22,-96922800.0,1967
+Boston Celtics,Boston Celtics,Cincinnati Royals,18,5,23,-96836400.0,1967
+Boston Celtics,Cincinnati Royals,Boston Celtics,19,5,24,-96663600.0,1967
+Boston Celtics,Boston Celtics,Chicago Bulls,20,5,25,-96577200.0,1967
+Boston Celtics,Boston Celtics,Philadelphia 76ers,21,5,26,-96490800.0,1967
+Boston Celtics,Boston Celtics,St. Louis Hawks,21,6,27,-96145200.0,1967
+Boston Celtics,San Francisco Warriors,Boston Celtics,22,6,28,-95972400.0,1967
+Boston Celtics,Los Angeles Lakers,Boston Celtics,22,7,29,-95886000.0,1967
+Boston Celtics,Boston Celtics,Detroit Pistons,23,7,30,-95713200.0,1967
+Boston Celtics,Boston Celtics,St. Louis Hawks,24,7,31,-95454000.0,1967
+Boston Celtics,Boston Celtics,Los Angeles Lakers,25,7,32,-95194800.0,1967
+Boston Celtics,Philadelphia 76ers,Boston Celtics,25,8,33,-95022000.0,1967
+Boston Celtics,St. Louis Hawks,Boston Celtics,26,8,34,-94935600.0,1967
+Boston Celtics,Chicago Bulls,Boston Celtics,27,8,35,-94849200.0,1967
+Boston Celtics,Los Angeles Lakers,Boston Celtics,27,9,36,-94676400.0,1967
+Boston Celtics,San Francisco Warriors,Boston Celtics,28,9,37,-94503600.0,1967
+Boston Celtics,Los Angeles Lakers,Boston Celtics,28,10,38,-94244400.0,1967
+Boston Celtics,San Francisco Warriors,Boston Celtics,28,11,39,-94158000.0,1967
+Boston Celtics,Boston Celtics,Chicago Bulls,29,11,40,-93639600.0,1967
+Boston Celtics,Baltimore Bullets,Boston Celtics,30,11,41,-93553200.0,1967
+Boston Celtics,Boston Celtics,Philadelphia 76ers,30,12,42,-93466800.0,1967
+Boston Celtics,Chicago Bulls,Boston Celtics,31,12,43,-93294000.0,1967
+Boston Celtics,Cincinnati Royals,Boston Celtics,32,12,44,-93207600.0,1967
+Boston Celtics,Boston Celtics,Baltimore Bullets,33,12,45,-93034800.0,1967
+Boston Celtics,Boston Celtics,Los Angeles Lakers,34,12,46,-92862000.0,1967
+Boston Celtics,Philadelphia 76ers,Boston Celtics,35,12,47,-92689200.0,1967
+Boston Celtics,Detroit Pistons,Boston Celtics,36,12,48,-92602800.0,1967
+Boston Celtics,Boston Celtics,Detroit Pistons,37,12,49,-92430000.0,1967
+Boston Celtics,New York Knicks,Boston Celtics,38,12,50,-92343600.0,1967
+Boston Celtics,Boston Celtics,New York Knicks,39,12,51,-92257200.0,1967
+Boston Celtics,Boston Celtics,San Francisco Warriors,40,12,52,-92170800.0,1967
+Boston Celtics,Baltimore Bullets,Boston Celtics,41,12,53,-91998000.0,1967
+Boston Celtics,Boston Celtics,St. Louis Hawks,41,13,54,-91825200.0,1967
+Boston Celtics,Boston Celtics,Cincinnati Royals,42,13,55,-91652400.0,1967
+Boston Celtics,Boston Celtics,Cincinnati Royals,43,13,56,-91479600.0,1967
+Boston Celtics,Baltimore Bullets,Boston Celtics,43,14,57,-91306800.0,1967
+Boston Celtics,Boston Celtics,San Francisco Warriors,44,14,58,-91220400.0,1967
+Boston Celtics,Boston Celtics,Philadelphia 76ers,45,14,59,-91047600.0,1967
+Boston Celtics,Boston Celtics,San Francisco Warriors,45,15,60,-90874800.0,1967
+Boston Celtics,Los Angeles Lakers,Boston Celtics,45,16,61,-90788400.0,1967
+Boston Celtics,Los Angeles Lakers,Boston Celtics,46,16,62,-90615600.0,1967
+Boston Celtics,Boston Celtics,San Francisco Warriors,46,17,63,-90529200.0,1967
+Boston Celtics,New York Knicks,Boston Celtics,47,17,64,-90270000.0,1967
+Boston Celtics,Baltimore Bullets,Boston Celtics,48,17,65,-90183600.0,1967
+Boston Celtics,Boston Celtics,New York Knicks,49,17,66,-90097200.0,1967
+Boston Celtics,St. Louis Hawks,Boston Celtics,50,17,67,-89838000.0,1967
+Boston Celtics,Boston Celtics,San Francisco Warriors,51,17,68,-89578800.0,1967
+Boston Celtics,Boston Celtics,Chicago Bulls,52,17,69,-89492400.0,1967
+Boston Celtics,Boston Celtics,Cincinnati Royals,53,17,70,-89406000.0,1967
+Boston Celtics,Boston Celtics,Los Angeles Lakers,54,17,71,-89233200.0,1967
+Boston Celtics,Boston Celtics,Detroit Pistons,55,17,72,-89146800.0,1967
+Boston Celtics,Chicago Bulls,Boston Celtics,55,18,73,-89060400.0,1967
+Boston Celtics,Boston Celtics,Philadelphia 76ers,55,19,74,-88974000.0,1967
+Boston Celtics,Philadelphia 76ers,Boston Celtics,56,19,75,-88714800.0,1967
+Boston Celtics,Boston Celtics,Baltimore Bullets,57,19,76,-88628400.0,1967
+Boston Celtics,Boston Celtics,St. Louis Hawks,57,20,77,-88542000.0,1967
+Boston Celtics,Cincinnati Royals,Boston Celtics,57,21,78,-88369200.0,1967
+Boston Celtics,Detroit Pistons,Boston Celtics,58,21,79,-88282800.0,1967
+Boston Celtics,New York Knicks,Boston Celtics,59,21,80,-88110000.0,1967
+Boston Celtics,Boston Celtics,New York Knicks,60,21,81,-88023600.0,1967
+Chicago Bulls,St. Louis Hawks,Chicago Bulls,1,0,1,-101419200.0,1967
+Chicago Bulls,Chicago Bulls,San Francisco Warriors,2,0,2,-101160000.0,1967
+Chicago Bulls,Chicago Bulls,Los Angeles Lakers,3,0,3,-101073600.0,1967
+Chicago Bulls,Chicago Bulls,San Francisco Warriors,3,1,4,-100987200.0,1967
+Chicago Bulls,Los Angeles Lakers,Chicago Bulls,4,1,5,-100900800.0,1967
+Chicago Bulls,Chicago Bulls,New York Knicks,4,2,6,-100728000.0,1967
+Chicago Bulls,Boston Celtics,Chicago Bulls,4,3,7,-100382400.0,1967
+Chicago Bulls,Chicago Bulls,Detroit Pistons,4,4,8,-100296000.0,1967
+Chicago Bulls,Chicago Bulls,San Francisco Warriors,4,5,9,-99946800.0,1967
+Chicago Bulls,Chicago Bulls,Baltimore Bullets,5,5,10,-99860400.0,1967
+Chicago Bulls,Boston Celtics,Chicago Bulls,5,6,11,-99774000.0,1967
+Chicago Bulls,Cincinnati Royals,Chicago Bulls,6,6,12,-99601200.0,1967
+Chicago Bulls,Chicago Bulls,St. Louis Hawks,7,6,13,-99514800.0,1967
+Chicago Bulls,Chicago Bulls,Boston Celtics,7,7,14,-99342000.0,1967
+Chicago Bulls,Chicago Bulls,New York Knicks,7,8,15,-99255600.0,1967
+Chicago Bulls,Philadelphia 76ers,Chicago Bulls,7,9,16,-99082800.0,1967
+Chicago Bulls,Chicago Bulls,Philadelphia 76ers,7,10,17,-98910000.0,1967
+Chicago Bulls,St. Louis Hawks,Chicago Bulls,7,11,18,-98737200.0,1967
+Chicago Bulls,Baltimore Bullets,Chicago Bulls,7,12,19,-98564400.0,1967
+Chicago Bulls,Chicago Bulls,Philadelphia 76ers,7,13,20,-98478000.0,1967
+Chicago Bulls,New York Knicks,Chicago Bulls,7,14,21,-98391600.0,1967
+Chicago Bulls,Los Angeles Lakers,Chicago Bulls,7,15,22,-98046000.0,1967
+Chicago Bulls,Los Angeles Lakers,Chicago Bulls,8,15,23,-97873200.0,1967
+Chicago Bulls,San Francisco Warriors,Chicago Bulls,8,16,24,-97786800.0,1967
+Chicago Bulls,Chicago Bulls,San Francisco Warriors,8,17,25,-97527600.0,1967
+Chicago Bulls,Detroit Pistons,Chicago Bulls,8,18,26,-97182000.0,1967
+Chicago Bulls,Philadelphia 76ers,Chicago Bulls,8,19,27,-96922800.0,1967
+Chicago Bulls,Chicago Bulls,Philadelphia 76ers,8,20,28,-96836400.0,1967
+Chicago Bulls,Baltimore Bullets,Chicago Bulls,9,20,29,-96750000.0,1967
+Chicago Bulls,Boston Celtics,Chicago Bulls,9,21,30,-96577200.0,1967
+Chicago Bulls,Baltimore Bullets,Chicago Bulls,9,22,31,-96318000.0,1967
+Chicago Bulls,Chicago Bulls,Detroit Pistons,10,22,32,-96231600.0,1967
+Chicago Bulls,Chicago Bulls,Cincinnati Royals,11,22,33,-96058800.0,1967
+Chicago Bulls,Baltimore Bullets,Chicago Bulls,12,22,34,-95972400.0,1967
+Chicago Bulls,Chicago Bulls,St. Louis Hawks,13,22,35,-95799600.0,1967
+Chicago Bulls,Chicago Bulls,New York Knicks,14,22,36,-95626800.0,1967
+Chicago Bulls,Chicago Bulls,Detroit Pistons,14,23,37,-95454000.0,1967
+Chicago Bulls,New York Knicks,Chicago Bulls,14,24,38,-95281200.0,1967
+Chicago Bulls,Chicago Bulls,Baltimore Bullets,15,24,39,-95194800.0,1967
+Chicago Bulls,Chicago Bulls,Boston Celtics,15,25,40,-94849200.0,1967
+Chicago Bulls,Chicago Bulls,Cincinnati Royals,16,25,41,-94503600.0,1967
+Chicago Bulls,Philadelphia 76ers,Chicago Bulls,16,26,42,-94417200.0,1967
+Chicago Bulls,Detroit Pistons,Chicago Bulls,17,26,43,-94244400.0,1967
+Chicago Bulls,Cincinnati Royals,Chicago Bulls,17,27,44,-94158000.0,1967
+Chicago Bulls,Chicago Bulls,Philadelphia 76ers,17,28,45,-94071600.0,1967
+Chicago Bulls,Chicago Bulls,Cincinnati Royals,17,29,46,-93812400.0,1967
+Chicago Bulls,Boston Celtics,Chicago Bulls,17,30,47,-93639600.0,1967
+Chicago Bulls,Chicago Bulls,Los Angeles Lakers,18,30,48,-93553200.0,1967
+Chicago Bulls,Chicago Bulls,New York Knicks,19,30,49,-93466800.0,1967
+Chicago Bulls,Chicago Bulls,Boston Celtics,19,31,50,-93294000.0,1967
+Chicago Bulls,Chicago Bulls,San Francisco Warriors,20,31,51,-93207600.0,1967
+Chicago Bulls,Chicago Bulls,Philadelphia 76ers,20,32,52,-93121200.0,1967
+Chicago Bulls,Chicago Bulls,Detroit Pistons,21,32,53,-93034800.0,1967
+Chicago Bulls,Chicago Bulls,Baltimore Bullets,22,32,54,-92862000.0,1967
+Chicago Bulls,Chicago Bulls,Detroit Pistons,22,33,55,-92689200.0,1967
+Chicago Bulls,Chicago Bulls,St. Louis Hawks,22,34,56,-92602800.0,1967
+Chicago Bulls,Chicago Bulls,Los Angeles Lakers,22,35,57,-92257200.0,1967
+Chicago Bulls,Chicago Bulls,Cincinnati Royals,23,35,58,-91825200.0,1967
+Chicago Bulls,St. Louis Hawks,Chicago Bulls,23,36,59,-91738800.0,1967
+Chicago Bulls,Chicago Bulls,San Francisco Warriors,23,37,60,-91652400.0,1967
+Chicago Bulls,Chicago Bulls,Detroit Pistons,23,38,61,-91479600.0,1967
+Chicago Bulls,Chicago Bulls,New York Knicks,23,39,62,-91393200.0,1967
+Chicago Bulls,Chicago Bulls,New York Knicks,23,40,63,-91220400.0,1967
+Chicago Bulls,Chicago Bulls,St. Louis Hawks,23,41,64,-91134000.0,1967
+Chicago Bulls,Los Angeles Lakers,Chicago Bulls,23,42,65,-91047600.0,1967
+Chicago Bulls,Chicago Bulls,San Francisco Warriors,23,43,66,-90702000.0,1967
+Chicago Bulls,Los Angeles Lakers,Chicago Bulls,24,43,67,-90442800.0,1967
+Chicago Bulls,Chicago Bulls,New York Knicks,25,43,68,-90183600.0,1967
+Chicago Bulls,Baltimore Bullets,Chicago Bulls,25,44,69,-89838000.0,1967
+Chicago Bulls,Chicago Bulls,Philadelphia 76ers,26,44,70,-89578800.0,1967
+Chicago Bulls,Boston Celtics,Chicago Bulls,26,45,71,-89492400.0,1967
+Chicago Bulls,St. Louis Hawks,Chicago Bulls,27,45,72,-89319600.0,1967
+Chicago Bulls,Chicago Bulls,Cincinnati Royals,28,45,73,-89233200.0,1967
+Chicago Bulls,Chicago Bulls,Boston Celtics,29,45,74,-89060400.0,1967
+Chicago Bulls,Chicago Bulls,Baltimore Bullets,30,45,75,-88801200.0,1967
+Chicago Bulls,Cincinnati Royals,Chicago Bulls,30,46,76,-88714800.0,1967
+Chicago Bulls,Chicago Bulls,Cincinnati Royals,30,47,77,-88542000.0,1967
+Chicago Bulls,Chicago Bulls,St. Louis Hawks,30,48,78,-88455600.0,1967
+Chicago Bulls,Detroit Pistons,Chicago Bulls,31,48,79,-88369200.0,1967
+Chicago Bulls,Chicago Bulls,San Francisco Warriors,32,48,80,-88196400.0,1967
+Chicago Bulls,Chicago Bulls,Los Angeles Lakers,33,48,81,-88023600.0,1967
+Cincinnati Royals,Cincinnati Royals,Detroit Pistons,1,0,1,-101419200.0,1967
+Cincinnati Royals,Detroit Pistons,Cincinnati Royals,1,1,2,-101160000.0,1967
+Cincinnati Royals,St. Louis Hawks,Cincinnati Royals,1,2,3,-100814400.0,1967
+Cincinnati Royals,Baltimore Bullets,Cincinnati Royals,1,3,4,-100468800.0,1967
+Cincinnati Royals,Cincinnati Royals,St. Louis Hawks,2,3,5,-100382400.0,1967
+Cincinnati Royals,Cincinnati Royals,San Francisco Warriors,2,4,6,-100209600.0,1967
+Cincinnati Royals,Cincinnati Royals,New York Knicks,3,4,7,-99860400.0,1967
+Cincinnati Royals,Detroit Pistons,Cincinnati Royals,4,4,8,-99687600.0,1967
+Cincinnati Royals,Cincinnati Royals,Chicago Bulls,4,5,9,-99601200.0,1967
+Cincinnati Royals,Cincinnati Royals,Boston Celtics,4,6,10,-99169200.0,1967
+Cincinnati Royals,Baltimore Bullets,Cincinnati Royals,5,6,11,-99082800.0,1967
+Cincinnati Royals,Cincinnati Royals,Philadelphia 76ers,5,7,12,-98996400.0,1967
+Cincinnati Royals,Cincinnati Royals,Los Angeles Lakers,5,8,13,-98650800.0,1967
+Cincinnati Royals,Philadelphia 76ers,Cincinnati Royals,5,9,14,-98391600.0,1967
+Cincinnati Royals,Cincinnati Royals,Baltimore Bullets,6,9,15,-98305200.0,1967
+Cincinnati Royals,New York Knicks,Cincinnati Royals,7,9,16,-98132400.0,1967
+Cincinnati Royals,Cincinnati Royals,Philadelphia 76ers,8,9,17,-98046000.0,1967
+Cincinnati Royals,Cincinnati Royals,New York Knicks,9,9,18,-97873200.0,1967
+Cincinnati Royals,Boston Celtics,Cincinnati Royals,9,10,19,-97786800.0,1967
+Cincinnati Royals,Cincinnati Royals,New York Knicks,9,11,20,-97441200.0,1967
+Cincinnati Royals,Cincinnati Royals,Los Angeles Lakers,9,12,21,-97182000.0,1967
+Cincinnati Royals,Boston Celtics,Cincinnati Royals,9,13,22,-96836400.0,1967
+Cincinnati Royals,Cincinnati Royals,Boston Celtics,9,14,23,-96663600.0,1967
+Cincinnati Royals,San Francisco Warriors,Cincinnati Royals,9,15,24,-96577200.0,1967
+Cincinnati Royals,Los Angeles Lakers,Cincinnati Royals,9,16,25,-96490800.0,1967
+Cincinnati Royals,San Francisco Warriors,Cincinnati Royals,10,16,26,-96318000.0,1967
+Cincinnati Royals,Los Angeles Lakers,Cincinnati Royals,11,16,27,-96231600.0,1967
+Cincinnati Royals,Chicago Bulls,Cincinnati Royals,11,17,28,-96058800.0,1967
+Cincinnati Royals,Cincinnati Royals,Baltimore Bullets,12,17,29,-95886000.0,1967
+Cincinnati Royals,Cincinnati Royals,San Francisco Warriors,12,18,30,-95281200.0,1967
+Cincinnati Royals,Philadelphia 76ers,Cincinnati Royals,12,19,31,-95194800.0,1967
+Cincinnati Royals,Cincinnati Royals,Detroit Pistons,13,19,32,-95108400.0,1967
+Cincinnati Royals,Cincinnati Royals,Los Angeles Lakers,13,20,33,-94935600.0,1967
+Cincinnati Royals,Cincinnati Royals,San Francisco Warriors,13,21,34,-94849200.0,1967
+Cincinnati Royals,New York Knicks,Cincinnati Royals,13,22,35,-94762800.0,1967
+Cincinnati Royals,Chicago Bulls,Cincinnati Royals,13,23,36,-94503600.0,1967
+Cincinnati Royals,Cincinnati Royals,Chicago Bulls,14,23,37,-94158000.0,1967
+Cincinnati Royals,Baltimore Bullets,Cincinnati Royals,15,23,38,-94071600.0,1967
+Cincinnati Royals,Chicago Bulls,Cincinnati Royals,16,23,39,-93812400.0,1967
+Cincinnati Royals,Cincinnati Royals,Los Angeles Lakers,17,23,40,-93639600.0,1967
+Cincinnati Royals,Cincinnati Royals,St. Louis Hawks,18,23,41,-93553200.0,1967
+Cincinnati Royals,Cincinnati Royals,Boston Celtics,18,24,42,-93207600.0,1967
+Cincinnati Royals,Baltimore Bullets,Cincinnati Royals,18,25,43,-93121200.0,1967
+Cincinnati Royals,Cincinnati Royals,Detroit Pistons,19,25,44,-92948400.0,1967
+Cincinnati Royals,New York Knicks,Cincinnati Royals,20,25,45,-92689200.0,1967
+Cincinnati Royals,Cincinnati Royals,New York Knicks,21,25,46,-92602800.0,1967
+Cincinnati Royals,Cincinnati Royals,Detroit Pistons,21,26,47,-92516400.0,1967
+Cincinnati Royals,Philadelphia 76ers,Cincinnati Royals,21,27,48,-92430000.0,1967
+Cincinnati Royals,Cincinnati Royals,St. Louis Hawks,22,27,49,-92343600.0,1967
+Cincinnati Royals,Cincinnati Royals,San Francisco Warriors,23,27,50,-92257200.0,1967
+Cincinnati Royals,Baltimore Bullets,Cincinnati Royals,24,27,51,-91911600.0,1967
+Cincinnati Royals,Chicago Bulls,Cincinnati Royals,24,28,52,-91825200.0,1967
+Cincinnati Royals,Baltimore Bullets,Cincinnati Royals,24,29,53,-91738800.0,1967
+Cincinnati Royals,Boston Celtics,Cincinnati Royals,24,30,54,-91652400.0,1967
+Cincinnati Royals,Boston Celtics,Cincinnati Royals,24,31,55,-91479600.0,1967
+Cincinnati Royals,Cincinnati Royals,Philadelphia 76ers,24,32,56,-91393200.0,1967
+Cincinnati Royals,Cincinnati Royals,Detroit Pistons,25,32,57,-91220400.0,1967
+Cincinnati Royals,Detroit Pistons,Cincinnati Royals,26,32,58,-91134000.0,1967
+Cincinnati Royals,St. Louis Hawks,Cincinnati Royals,26,33,59,-91047600.0,1967
+Cincinnati Royals,Philadelphia 76ers,Cincinnati Royals,26,34,60,-90961200.0,1967
+Cincinnati Royals,Cincinnati Royals,New York Knicks,27,34,61,-90788400.0,1967
+Cincinnati Royals,Cincinnati Royals,Detroit Pistons,28,34,62,-90702000.0,1967
+Cincinnati Royals,Cincinnati Royals,Philadelphia 76ers,28,35,63,-90615600.0,1967
+Cincinnati Royals,New York Knicks,Cincinnati Royals,28,36,64,-90529200.0,1967
+Cincinnati Royals,Cincinnati Royals,St. Louis Hawks,29,36,65,-90356400.0,1967
+Cincinnati Royals,Los Angeles Lakers,Cincinnati Royals,29,37,66,-90183600.0,1967
+Cincinnati Royals,San Francisco Warriors,Cincinnati Royals,30,37,67,-90010800.0,1967
+Cincinnati Royals,San Francisco Warriors,Cincinnati Royals,31,37,68,-89924400.0,1967
+Cincinnati Royals,Los Angeles Lakers,Cincinnati Royals,31,38,69,-89838000.0,1967
+Cincinnati Royals,Cincinnati Royals,Philadelphia 76ers,31,39,70,-89665200.0,1967
+Cincinnati Royals,Cincinnati Royals,Los Angeles Lakers,32,39,71,-89578800.0,1967
+Cincinnati Royals,Boston Celtics,Cincinnati Royals,32,40,72,-89406000.0,1967
+Cincinnati Royals,Cincinnati Royals,Baltimore Bullets,33,40,73,-89319600.0,1967
+Cincinnati Royals,Chicago Bulls,Cincinnati Royals,33,41,74,-89233200.0,1967
+Cincinnati Royals,Cincinnati Royals,St. Louis Hawks,34,41,75,-89146800.0,1967
+Cincinnati Royals,Cincinnati Royals,Chicago Bulls,35,41,76,-88714800.0,1967
+Cincinnati Royals,St. Louis Hawks,Cincinnati Royals,35,42,77,-88628400.0,1967
+Cincinnati Royals,Chicago Bulls,Cincinnati Royals,36,42,78,-88542000.0,1967
+Cincinnati Royals,Cincinnati Royals,Boston Celtics,37,42,79,-88369200.0,1967
+Cincinnati Royals,Cincinnati Royals,St. Louis Hawks,38,42,80,-88282800.0,1967
+Cincinnati Royals,Cincinnati Royals,San Francisco Warriors,39,42,81,-88110000.0,1967
+Detroit Pistons,Cincinnati Royals,Detroit Pistons,0,1,1,-101419200.0,1967
+Detroit Pistons,Detroit Pistons,Cincinnati Royals,1,1,2,-101160000.0,1967
+Detroit Pistons,Detroit Pistons,St. Louis Hawks,1,2,3,-100987200.0,1967
+Detroit Pistons,San Francisco Warriors,Detroit Pistons,1,3,4,-100900800.0,1967
+Detroit Pistons,Detroit Pistons,San Francisco Warriors,2,3,5,-100728000.0,1967
+Detroit Pistons,Chicago Bulls,Detroit Pistons,3,3,6,-100296000.0,1967
+Detroit Pistons,Detroit Pistons,Baltimore Bullets,4,3,7,-100209600.0,1967
+Detroit Pistons,Detroit Pistons,Los Angeles Lakers,5,3,8,-100123200.0,1967
+Detroit Pistons,Detroit Pistons,Cincinnati Royals,5,4,9,-99687600.0,1967
+Detroit Pistons,New York Knicks,Detroit Pistons,5,5,10,-99601200.0,1967
+Detroit Pistons,Detroit Pistons,Philadelphia 76ers,5,6,11,-99342000.0,1967
+Detroit Pistons,Los Angeles Lakers,Detroit Pistons,6,6,12,-99169200.0,1967
+Detroit Pistons,Los Angeles Lakers,Detroit Pistons,6,7,13,-98996400.0,1967
+Detroit Pistons,San Francisco Warriors,Detroit Pistons,6,8,14,-98910000.0,1967
+Detroit Pistons,San Francisco Warriors,Detroit Pistons,6,9,15,-98823600.0,1967
+Detroit Pistons,Detroit Pistons,St. Louis Hawks,6,10,16,-98650800.0,1967
+Detroit Pistons,Detroit Pistons,New York Knicks,7,10,17,-98564400.0,1967
+Detroit Pistons,Detroit Pistons,Los Angeles Lakers,8,10,18,-98478000.0,1967
+Detroit Pistons,St. Louis Hawks,Detroit Pistons,8,11,19,-98391600.0,1967
+Detroit Pistons,Detroit Pistons,New York Knicks,9,11,20,-98046000.0,1967
+Detroit Pistons,Detroit Pistons,Boston Celtics,10,11,21,-97873200.0,1967
+Detroit Pistons,Philadelphia 76ers,Detroit Pistons,10,12,22,-97786800.0,1967
+Detroit Pistons,Boston Celtics,Detroit Pistons,11,12,23,-97527600.0,1967
+Detroit Pistons,Detroit Pistons,Philadelphia 76ers,11,13,24,-97441200.0,1967
+Detroit Pistons,Boston Celtics,Detroit Pistons,12,13,25,-97268400.0,1967
+Detroit Pistons,Detroit Pistons,Chicago Bulls,13,13,26,-97182000.0,1967
+Detroit Pistons,Boston Celtics,Detroit Pistons,13,14,27,-96922800.0,1967
+Detroit Pistons,Detroit Pistons,New York Knicks,13,15,28,-96836400.0,1967
+Detroit Pistons,Chicago Bulls,Detroit Pistons,13,16,29,-96231600.0,1967
+Detroit Pistons,Detroit Pistons,Baltimore Bullets,13,17,30,-96058800.0,1967
+Detroit Pistons,Detroit Pistons,Philadelphia 76ers,13,18,31,-95972400.0,1967
+Detroit Pistons,Boston Celtics,Detroit Pistons,13,19,32,-95713200.0,1967
+Detroit Pistons,Chicago Bulls,Detroit Pistons,14,19,33,-95454000.0,1967
+Detroit Pistons,Baltimore Bullets,Detroit Pistons,15,19,34,-95281200.0,1967
+Detroit Pistons,Detroit Pistons,New York Knicks,15,20,35,-95194800.0,1967
+Detroit Pistons,Cincinnati Royals,Detroit Pistons,15,21,36,-95108400.0,1967
+Detroit Pistons,Detroit Pistons,Philadelphia 76ers,15,22,37,-94849200.0,1967
+Detroit Pistons,Detroit Pistons,St. Louis Hawks,15,23,38,-94590000.0,1967
+Detroit Pistons,Baltimore Bullets,Detroit Pistons,16,23,39,-94503600.0,1967
+Detroit Pistons,Baltimore Bullets,Detroit Pistons,17,23,40,-94417200.0,1967
+Detroit Pistons,Detroit Pistons,Chicago Bulls,17,24,41,-94244400.0,1967
+Detroit Pistons,St. Louis Hawks,Detroit Pistons,17,25,42,-94071600.0,1967
+Detroit Pistons,Baltimore Bullets,Detroit Pistons,18,25,43,-93639600.0,1967
+Detroit Pistons,Detroit Pistons,San Francisco Warriors,18,26,44,-93553200.0,1967
+Detroit Pistons,Detroit Pistons,Los Angeles Lakers,18,27,45,-93466800.0,1967
+Detroit Pistons,Detroit Pistons,Philadelphia 76ers,18,28,46,-93207600.0,1967
+Detroit Pistons,Chicago Bulls,Detroit Pistons,18,29,47,-93034800.0,1967
+Detroit Pistons,Cincinnati Royals,Detroit Pistons,18,30,48,-92948400.0,1967
+Detroit Pistons,Chicago Bulls,Detroit Pistons,19,30,49,-92689200.0,1967
+Detroit Pistons,Detroit Pistons,Boston Celtics,19,31,50,-92602800.0,1967
+Detroit Pistons,Cincinnati Royals,Detroit Pistons,20,31,51,-92516400.0,1967
+Detroit Pistons,Boston Celtics,Detroit Pistons,20,32,52,-92430000.0,1967
+Detroit Pistons,Detroit Pistons,San Francisco Warriors,20,33,53,-92084400.0,1967
+Detroit Pistons,Detroit Pistons,New York Knicks,21,33,54,-91998000.0,1967
+Detroit Pistons,Detroit Pistons,New York Knicks,21,34,55,-91825200.0,1967
+Detroit Pistons,New York Knicks,Detroit Pistons,21,35,56,-91738800.0,1967
+Detroit Pistons,Detroit Pistons,St. Louis Hawks,22,35,57,-91652400.0,1967
+Detroit Pistons,Chicago Bulls,Detroit Pistons,23,35,58,-91479600.0,1967
+Detroit Pistons,Cincinnati Royals,Detroit Pistons,23,36,59,-91220400.0,1967
+Detroit Pistons,Detroit Pistons,Cincinnati Royals,23,37,60,-91134000.0,1967
+Detroit Pistons,Detroit Pistons,San Francisco Warriors,24,37,61,-91047600.0,1967
+Detroit Pistons,Detroit Pistons,Philadelphia 76ers,24,38,62,-90788400.0,1967
+Detroit Pistons,Cincinnati Royals,Detroit Pistons,24,39,63,-90702000.0,1967
+Detroit Pistons,Baltimore Bullets,Detroit Pistons,25,39,64,-90529200.0,1967
+Detroit Pistons,Detroit Pistons,Baltimore Bullets,25,40,65,-90442800.0,1967
+Detroit Pistons,St. Louis Hawks,Detroit Pistons,26,40,66,-90270000.0,1967
+Detroit Pistons,Detroit Pistons,Los Angeles Lakers,27,40,67,-90010800.0,1967
+Detroit Pistons,Detroit Pistons,St. Louis Hawks,27,41,68,-89751600.0,1967
+Detroit Pistons,Detroit Pistons,Los Angeles Lakers,27,42,69,-89665200.0,1967
+Detroit Pistons,Detroit Pistons,New York Knicks,28,42,70,-89578800.0,1967
+Detroit Pistons,Detroit Pistons,Philadelphia 76ers,28,43,71,-89406000.0,1967
+Detroit Pistons,Philadelphia 76ers,Detroit Pistons,28,44,72,-89233200.0,1967
+Detroit Pistons,Boston Celtics,Detroit Pistons,28,45,73,-89146800.0,1967
+Detroit Pistons,Detroit Pistons,Baltimore Bullets,29,45,74,-88974000.0,1967
+Detroit Pistons,Los Angeles Lakers,Detroit Pistons,29,46,75,-88801200.0,1967
+Detroit Pistons,Los Angeles Lakers,Detroit Pistons,30,46,76,-88628400.0,1967
+Detroit Pistons,San Francisco Warriors,Detroit Pistons,30,47,77,-88542000.0,1967
+Detroit Pistons,Detroit Pistons,Chicago Bulls,30,48,78,-88369200.0,1967
+Detroit Pistons,Detroit Pistons,Boston Celtics,30,49,79,-88282800.0,1967
+Detroit Pistons,St. Louis Hawks,Detroit Pistons,30,50,80,-88110000.0,1967
+Detroit Pistons,Detroit Pistons,San Francisco Warriors,30,51,81,-88023600.0,1967
+Los Angeles Lakers,Baltimore Bullets,Los Angeles Lakers,1,0,1,-101419200.0,1967
+Los Angeles Lakers,New York Knicks,Los Angeles Lakers,1,1,2,-101160000.0,1967
+Los Angeles Lakers,Chicago Bulls,Los Angeles Lakers,1,2,3,-101073600.0,1967
+Los Angeles Lakers,Los Angeles Lakers,Chicago Bulls,1,3,4,-100900800.0,1967
+Los Angeles Lakers,Los Angeles Lakers,New York Knicks,1,4,5,-100468800.0,1967
+Los Angeles Lakers,Los Angeles Lakers,New York Knicks,2,4,6,-100296000.0,1967
+Los Angeles Lakers,St. Louis Hawks,Los Angeles Lakers,2,5,7,-100209600.0,1967
+Los Angeles Lakers,Detroit Pistons,Los Angeles Lakers,2,6,8,-100123200.0,1967
+Los Angeles Lakers,Boston Celtics,Los Angeles Lakers,2,7,9,-99860400.0,1967
+Los Angeles Lakers,Los Angeles Lakers,Baltimore Bullets,3,7,10,-99687600.0,1967
+Los Angeles Lakers,Los Angeles Lakers,Baltimore Bullets,3,8,11,-99342000.0,1967
+Los Angeles Lakers,Los Angeles Lakers,Detroit Pistons,3,9,12,-99169200.0,1967
+Los Angeles Lakers,San Francisco Warriors,Los Angeles Lakers,3,10,13,-99082800.0,1967
+Los Angeles Lakers,Los Angeles Lakers,Detroit Pistons,4,10,14,-98996400.0,1967
+Los Angeles Lakers,Cincinnati Royals,Los Angeles Lakers,5,10,15,-98650800.0,1967
+Los Angeles Lakers,Detroit Pistons,Los Angeles Lakers,5,11,16,-98478000.0,1967
+Los Angeles Lakers,Los Angeles Lakers,San Francisco Warriors,5,12,17,-98391600.0,1967
+Los Angeles Lakers,Los Angeles Lakers,Chicago Bulls,6,12,18,-98046000.0,1967
+Los Angeles Lakers,Los Angeles Lakers,Chicago Bulls,6,13,19,-97873200.0,1967
+Los Angeles Lakers,St. Louis Hawks,Los Angeles Lakers,7,13,20,-97786800.0,1967
+Los Angeles Lakers,New York Knicks,Los Angeles Lakers,7,14,21,-97527600.0,1967
+Los Angeles Lakers,Baltimore Bullets,Los Angeles Lakers,8,14,22,-97441200.0,1967
+Los Angeles Lakers,Philadelphia 76ers,Los Angeles Lakers,8,15,23,-97268400.0,1967
+Los Angeles Lakers,Cincinnati Royals,Los Angeles Lakers,9,15,24,-97182000.0,1967
+Los Angeles Lakers,Los Angeles Lakers,St. Louis Hawks,9,16,25,-97095600.0,1967
+Los Angeles Lakers,Los Angeles Lakers,St. Louis Hawks,10,16,26,-96836400.0,1967
+Los Angeles Lakers,Los Angeles Lakers,San Francisco Warriors,10,17,27,-96663600.0,1967
+Los Angeles Lakers,Los Angeles Lakers,Cincinnati Royals,11,17,28,-96490800.0,1967
+Los Angeles Lakers,Los Angeles Lakers,Cincinnati Royals,11,18,29,-96231600.0,1967
+Los Angeles Lakers,Los Angeles Lakers,Boston Celtics,12,18,30,-95886000.0,1967
+Los Angeles Lakers,San Francisco Warriors,Los Angeles Lakers,12,19,31,-95713200.0,1967
+Los Angeles Lakers,Los Angeles Lakers,Philadelphia 76ers,12,20,32,-95626800.0,1967
+Los Angeles Lakers,Los Angeles Lakers,Philadelphia 76ers,12,21,33,-95454000.0,1967
+Los Angeles Lakers,Boston Celtics,Los Angeles Lakers,12,22,34,-95194800.0,1967
+Los Angeles Lakers,New York Knicks,Los Angeles Lakers,12,23,35,-95022000.0,1967
+Los Angeles Lakers,Cincinnati Royals,Los Angeles Lakers,13,23,36,-94935600.0,1967
+Los Angeles Lakers,Los Angeles Lakers,Boston Celtics,14,23,37,-94676400.0,1967
+Los Angeles Lakers,Los Angeles Lakers,St. Louis Hawks,15,23,38,-94417200.0,1967
+Los Angeles Lakers,Los Angeles Lakers,San Francisco Warriors,15,24,39,-94330800.0,1967
+Los Angeles Lakers,Los Angeles Lakers,Boston Celtics,16,24,40,-94244400.0,1967
+Los Angeles Lakers,Los Angeles Lakers,New York Knicks,16,25,41,-94071600.0,1967
+Los Angeles Lakers,Los Angeles Lakers,San Francisco Warriors,17,25,42,-93812400.0,1967
+Los Angeles Lakers,Cincinnati Royals,Los Angeles Lakers,17,26,43,-93639600.0,1967
+Los Angeles Lakers,Chicago Bulls,Los Angeles Lakers,17,27,44,-93553200.0,1967
+Los Angeles Lakers,Detroit Pistons,Los Angeles Lakers,18,27,45,-93466800.0,1967
+Los Angeles Lakers,Los Angeles Lakers,St. Louis Hawks,18,28,46,-93207600.0,1967
+Los Angeles Lakers,Philadelphia 76ers,Los Angeles Lakers,18,29,47,-93034800.0,1967
+Los Angeles Lakers,Baltimore Bullets,Los Angeles Lakers,18,30,48,-92948400.0,1967
+Los Angeles Lakers,Boston Celtics,Los Angeles Lakers,18,31,49,-92862000.0,1967
+Los Angeles Lakers,Los Angeles Lakers,Baltimore Bullets,19,31,50,-92602800.0,1967
+Los Angeles Lakers,Los Angeles Lakers,Baltimore Bullets,20,31,51,-92343600.0,1967
+Los Angeles Lakers,Chicago Bulls,Los Angeles Lakers,21,31,52,-92257200.0,1967
+Los Angeles Lakers,Los Angeles Lakers,St. Louis Hawks,21,32,53,-92170800.0,1967
+Los Angeles Lakers,Los Angeles Lakers,Philadelphia 76ers,22,32,54,-91998000.0,1967
+Los Angeles Lakers,Los Angeles Lakers,San Francisco Warriors,23,32,55,-91825200.0,1967
+Los Angeles Lakers,Los Angeles Lakers,Philadelphia 76ers,23,33,56,-91652400.0,1967
+Los Angeles Lakers,New York Knicks,Los Angeles Lakers,24,33,57,-91479600.0,1967
+Los Angeles Lakers,Baltimore Bullets,Los Angeles Lakers,25,33,58,-91393200.0,1967
+Los Angeles Lakers,Philadelphia 76ers,Los Angeles Lakers,25,34,59,-91220400.0,1967
+Los Angeles Lakers,Los Angeles Lakers,Chicago Bulls,26,34,60,-91047600.0,1967
+Los Angeles Lakers,Los Angeles Lakers,Boston Celtics,27,34,61,-90788400.0,1967
+Los Angeles Lakers,Los Angeles Lakers,Boston Celtics,27,35,62,-90615600.0,1967
+Los Angeles Lakers,Los Angeles Lakers,Chicago Bulls,27,36,63,-90442800.0,1967
+Los Angeles Lakers,Los Angeles Lakers,San Francisco Warriors,27,37,64,-90270000.0,1967
+Los Angeles Lakers,Los Angeles Lakers,Cincinnati Royals,28,37,65,-90183600.0,1967
+Los Angeles Lakers,Detroit Pistons,Los Angeles Lakers,28,38,66,-90010800.0,1967
+Los Angeles Lakers,St. Louis Hawks,Los Angeles Lakers,29,38,67,-89924400.0,1967
+Los Angeles Lakers,Los Angeles Lakers,Cincinnati Royals,30,38,68,-89838000.0,1967
+Los Angeles Lakers,Detroit Pistons,Los Angeles Lakers,31,38,69,-89665200.0,1967
+Los Angeles Lakers,Cincinnati Royals,Los Angeles Lakers,31,39,70,-89578800.0,1967
+Los Angeles Lakers,Los Angeles Lakers,New York Knicks,32,39,71,-89406000.0,1967
+Los Angeles Lakers,Boston Celtics,Los Angeles Lakers,32,40,72,-89233200.0,1967
+Los Angeles Lakers,Los Angeles Lakers,Philadelphia 76ers,32,41,73,-89146800.0,1967
+Los Angeles Lakers,New York Knicks,Los Angeles Lakers,33,41,74,-89060400.0,1967
+Los Angeles Lakers,Los Angeles Lakers,St. Louis Hawks,33,42,75,-88974000.0,1967
+Los Angeles Lakers,Los Angeles Lakers,Detroit Pistons,34,42,76,-88801200.0,1967
+Los Angeles Lakers,San Francisco Warriors,Los Angeles Lakers,35,42,77,-88714800.0,1967
+Los Angeles Lakers,Los Angeles Lakers,Detroit Pistons,35,43,78,-88628400.0,1967
+Los Angeles Lakers,Los Angeles Lakers,Philadelphia 76ers,35,44,79,-88369200.0,1967
+Los Angeles Lakers,Baltimore Bullets,Los Angeles Lakers,36,44,80,-88196400.0,1967
+Los Angeles Lakers,Chicago Bulls,Los Angeles Lakers,36,45,81,-88023600.0,1967
+New York Knicks,Philadelphia 76ers,New York Knicks,0,1,1,-101419200.0,1967
+New York Knicks,New York Knicks,Los Angeles Lakers,1,1,2,-101160000.0,1967
+New York Knicks,Baltimore Bullets,New York Knicks,2,1,3,-101073600.0,1967
+New York Knicks,New York Knicks,Boston Celtics,2,2,4,-100814400.0,1967
+New York Knicks,Chicago Bulls,New York Knicks,3,2,5,-100728000.0,1967
+New York Knicks,Los Angeles Lakers,New York Knicks,4,2,6,-100468800.0,1967
+New York Knicks,Los Angeles Lakers,New York Knicks,4,3,7,-100296000.0,1967
+New York Knicks,Cincinnati Royals,New York Knicks,4,4,8,-99860400.0,1967
+New York Knicks,New York Knicks,San Francisco Warriors,5,4,9,-99774000.0,1967
+New York Knicks,New York Knicks,Detroit Pistons,6,4,10,-99601200.0,1967
+New York Knicks,New York Knicks,St. Louis Hawks,6,5,11,-99342000.0,1967
+New York Knicks,Chicago Bulls,New York Knicks,7,5,12,-99255600.0,1967
+New York Knicks,Boston Celtics,New York Knicks,7,6,13,-99082800.0,1967
+New York Knicks,New York Knicks,Baltimore Bullets,8,6,14,-98996400.0,1967
+New York Knicks,New York Knicks,Philadelphia 76ers,8,7,15,-98737200.0,1967
+New York Knicks,Philadelphia 76ers,New York Knicks,8,8,16,-98650800.0,1967
+New York Knicks,Detroit Pistons,New York Knicks,8,9,17,-98564400.0,1967
+New York Knicks,New York Knicks,Chicago Bulls,9,9,18,-98391600.0,1967
+New York Knicks,New York Knicks,Cincinnati Royals,9,10,19,-98132400.0,1967
+New York Knicks,Detroit Pistons,New York Knicks,9,11,20,-98046000.0,1967
+New York Knicks,Cincinnati Royals,New York Knicks,9,12,21,-97873200.0,1967
+New York Knicks,New York Knicks,Baltimore Bullets,10,12,22,-97786800.0,1967
+New York Knicks,New York Knicks,Los Angeles Lakers,11,12,23,-97527600.0,1967
+New York Knicks,Cincinnati Royals,New York Knicks,12,12,24,-97441200.0,1967
+New York Knicks,St. Louis Hawks,New York Knicks,12,13,25,-97268400.0,1967
+New York Knicks,New York Knicks,Boston Celtics,12,14,26,-97182000.0,1967
+New York Knicks,New York Knicks,San Francisco Warriors,12,15,27,-96922800.0,1967
+New York Knicks,Detroit Pistons,New York Knicks,13,15,28,-96836400.0,1967
+New York Knicks,Philadelphia 76ers,New York Knicks,13,16,29,-96663600.0,1967
+New York Knicks,New York Knicks,Baltimore Bullets,14,16,30,-96577200.0,1967
+New York Knicks,New York Knicks,Philadelphia 76ers,14,17,31,-96318000.0,1967
+New York Knicks,Baltimore Bullets,New York Knicks,14,18,32,-96231600.0,1967
+New York Knicks,New York Knicks,St. Louis Hawks,15,18,33,-95972400.0,1967
+New York Knicks,Chicago Bulls,New York Knicks,15,19,34,-95626800.0,1967
+New York Knicks,New York Knicks,Chicago Bulls,16,19,35,-95281200.0,1967
+New York Knicks,Detroit Pistons,New York Knicks,17,19,36,-95194800.0,1967
+New York Knicks,New York Knicks,Los Angeles Lakers,18,19,37,-95022000.0,1967
+New York Knicks,Baltimore Bullets,New York Knicks,19,19,38,-94849200.0,1967
+New York Knicks,New York Knicks,Cincinnati Royals,20,19,39,-94762800.0,1967
+New York Knicks,St. Louis Hawks,New York Knicks,20,20,40,-94676400.0,1967
+New York Knicks,New York Knicks,Philadelphia 76ers,20,21,41,-94503600.0,1967
+New York Knicks,New York Knicks,Philadelphia 76ers,21,21,42,-94330800.0,1967
+New York Knicks,New York Knicks,Baltimore Bullets,22,21,43,-94158000.0,1967
+New York Knicks,Los Angeles Lakers,New York Knicks,23,21,44,-94071600.0,1967
+New York Knicks,San Francisco Warriors,New York Knicks,23,22,45,-93726000.0,1967
+New York Knicks,New York Knicks,San Francisco Warriors,24,22,46,-93639600.0,1967
+New York Knicks,Chicago Bulls,New York Knicks,24,23,47,-93466800.0,1967
+New York Knicks,Philadelphia 76ers,New York Knicks,24,24,48,-93294000.0,1967
+New York Knicks,New York Knicks,San Francisco Warriors,24,25,49,-93121200.0,1967
+New York Knicks,St. Louis Hawks,New York Knicks,25,25,50,-92948400.0,1967
+New York Knicks,St. Louis Hawks,New York Knicks,25,26,51,-92862000.0,1967
+New York Knicks,New York Knicks,Cincinnati Royals,25,27,52,-92689200.0,1967
+New York Knicks,Cincinnati Royals,New York Knicks,25,28,53,-92602800.0,1967
+New York Knicks,New York Knicks,Boston Celtics,25,29,54,-92343600.0,1967
+New York Knicks,Boston Celtics,New York Knicks,25,30,55,-92257200.0,1967
+New York Knicks,New York Knicks,St. Louis Hawks,26,30,56,-92084400.0,1967
+New York Knicks,Detroit Pistons,New York Knicks,26,31,57,-91998000.0,1967
+New York Knicks,Detroit Pistons,New York Knicks,27,31,58,-91825200.0,1967
+New York Knicks,New York Knicks,Detroit Pistons,28,31,59,-91738800.0,1967
+New York Knicks,New York Knicks,Los Angeles Lakers,28,32,60,-91479600.0,1967
+New York Knicks,Chicago Bulls,New York Knicks,29,32,61,-91393200.0,1967
+New York Knicks,Chicago Bulls,New York Knicks,30,32,62,-91220400.0,1967
+New York Knicks,New York Knicks,San Francisco Warriors,31,32,63,-91134000.0,1967
+New York Knicks,New York Knicks,St. Louis Hawks,31,33,64,-90961200.0,1967
+New York Knicks,Cincinnati Royals,New York Knicks,31,34,65,-90788400.0,1967
+New York Knicks,New York Knicks,St. Louis Hawks,32,34,66,-90702000.0,1967
+New York Knicks,New York Knicks,Cincinnati Royals,33,34,67,-90529200.0,1967
+New York Knicks,New York Knicks,Boston Celtics,33,35,68,-90270000.0,1967
+New York Knicks,Chicago Bulls,New York Knicks,33,36,69,-90183600.0,1967
+New York Knicks,Boston Celtics,New York Knicks,33,37,70,-90097200.0,1967
+New York Knicks,New York Knicks,Baltimore Bullets,34,37,71,-89924400.0,1967
+New York Knicks,New York Knicks,San Francisco Warriors,35,37,72,-89665200.0,1967
+New York Knicks,Detroit Pistons,New York Knicks,35,38,73,-89578800.0,1967
+New York Knicks,Los Angeles Lakers,New York Knicks,35,39,74,-89406000.0,1967
+New York Knicks,New York Knicks,San Francisco Warriors,35,40,75,-89319600.0,1967
+New York Knicks,San Francisco Warriors,New York Knicks,36,40,76,-89233200.0,1967
+New York Knicks,New York Knicks,Los Angeles Lakers,36,41,77,-89060400.0,1967
+New York Knicks,New York Knicks,Philadelphia 76ers,36,42,78,-88628400.0,1967
+New York Knicks,Baltimore Bullets,New York Knicks,36,43,79,-88369200.0,1967
+New York Knicks,New York Knicks,Boston Celtics,36,44,80,-88110000.0,1967
+New York Knicks,Boston Celtics,New York Knicks,36,45,81,-88023600.0,1967
+Philadelphia 76ers,Philadelphia 76ers,New York Knicks,1,0,1,-101419200.0,1967
+Philadelphia 76ers,Philadelphia 76ers,St. Louis Hawks,2,0,2,-100900800.0,1967
+Philadelphia 76ers,Baltimore Bullets,Philadelphia 76ers,3,0,3,-100814400.0,1967
+Philadelphia 76ers,Philadelphia 76ers,Baltimore Bullets,4,0,4,-100555200.0,1967
+Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,5,0,5,-100209600.0,1967
+Philadelphia 76ers,Philadelphia 76ers,St. Louis Hawks,6,0,6,-99774000.0,1967
+Philadelphia 76ers,Philadelphia 76ers,San Francisco Warriors,7,0,7,-99687600.0,1967
+Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,7,1,8,-99601200.0,1967
+Philadelphia 76ers,Detroit Pistons,Philadelphia 76ers,8,1,9,-99342000.0,1967
+Philadelphia 76ers,Philadelphia 76ers,Chicago Bulls,9,1,10,-99082800.0,1967
+Philadelphia 76ers,Cincinnati Royals,Philadelphia 76ers,10,1,11,-98996400.0,1967
+Philadelphia 76ers,Chicago Bulls,Philadelphia 76ers,11,1,12,-98910000.0,1967
+Philadelphia 76ers,New York Knicks,Philadelphia 76ers,12,1,13,-98737200.0,1967
+Philadelphia 76ers,Philadelphia 76ers,New York Knicks,13,1,14,-98650800.0,1967
+Philadelphia 76ers,Chicago Bulls,Philadelphia 76ers,14,1,15,-98478000.0,1967
+Philadelphia 76ers,Philadelphia 76ers,Cincinnati Royals,15,1,16,-98391600.0,1967
+Philadelphia 76ers,Cincinnati Royals,Philadelphia 76ers,15,2,17,-98046000.0,1967
+Philadelphia 76ers,Philadelphia 76ers,San Francisco Warriors,16,2,18,-97959600.0,1967
+Philadelphia 76ers,Baltimore Bullets,Philadelphia 76ers,17,2,19,-97873200.0,1967
+Philadelphia 76ers,Philadelphia 76ers,Detroit Pistons,18,2,20,-97786800.0,1967
+Philadelphia 76ers,Philadelphia 76ers,St. Louis Hawks,19,2,21,-97527600.0,1967
+Philadelphia 76ers,Detroit Pistons,Philadelphia 76ers,20,2,22,-97441200.0,1967
+Philadelphia 76ers,Philadelphia 76ers,Los Angeles Lakers,21,2,23,-97268400.0,1967
+Philadelphia 76ers,Baltimore Bullets,Philadelphia 76ers,22,2,24,-97182000.0,1967
+Philadelphia 76ers,Philadelphia 76ers,Chicago Bulls,23,2,25,-96922800.0,1967
+Philadelphia 76ers,Chicago Bulls,Philadelphia 76ers,24,2,26,-96836400.0,1967
+Philadelphia 76ers,Philadelphia 76ers,New York Knicks,25,2,27,-96663600.0,1967
+Philadelphia 76ers,St. Louis Hawks,Philadelphia 76ers,26,2,28,-96577200.0,1967
+Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,26,3,29,-96490800.0,1967
+Philadelphia 76ers,New York Knicks,Philadelphia 76ers,27,3,30,-96318000.0,1967
+Philadelphia 76ers,Philadelphia 76ers,St. Louis Hawks,28,3,31,-96058800.0,1967
+Philadelphia 76ers,Detroit Pistons,Philadelphia 76ers,29,3,32,-95972400.0,1967
+Philadelphia 76ers,Los Angeles Lakers,Philadelphia 76ers,30,3,33,-95626800.0,1967
+Philadelphia 76ers,San Francisco Warriors,Philadelphia 76ers,31,3,34,-95540400.0,1967
+Philadelphia 76ers,Los Angeles Lakers,Philadelphia 76ers,32,3,35,-95454000.0,1967
+Philadelphia 76ers,Philadelphia 76ers,Cincinnati Royals,33,3,36,-95194800.0,1967
+Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,34,3,37,-95022000.0,1967
+Philadelphia 76ers,Detroit Pistons,Philadelphia 76ers,35,3,38,-94849200.0,1967
+Philadelphia 76ers,New York Knicks,Philadelphia 76ers,36,3,39,-94503600.0,1967
+Philadelphia 76ers,Philadelphia 76ers,Chicago Bulls,37,3,40,-94417200.0,1967
+Philadelphia 76ers,New York Knicks,Philadelphia 76ers,37,4,41,-94330800.0,1967
+Philadelphia 76ers,Philadelphia 76ers,Baltimore Bullets,38,4,42,-94244400.0,1967
+Philadelphia 76ers,Chicago Bulls,Philadelphia 76ers,39,4,43,-94071600.0,1967
+Philadelphia 76ers,Philadelphia 76ers,St. Louis Hawks,40,4,44,-93639600.0,1967
+Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,41,4,45,-93466800.0,1967
+Philadelphia 76ers,Philadelphia 76ers,New York Knicks,42,4,46,-93294000.0,1967
+Philadelphia 76ers,Detroit Pistons,Philadelphia 76ers,43,4,47,-93207600.0,1967
+Philadelphia 76ers,Chicago Bulls,Philadelphia 76ers,44,4,48,-93121200.0,1967
+Philadelphia 76ers,Philadelphia 76ers,Los Angeles Lakers,45,4,49,-93034800.0,1967
+Philadelphia 76ers,Philadelphia 76ers,St. Louis Hawks,46,4,50,-92775600.0,1967
+Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,46,5,51,-92689200.0,1967
+Philadelphia 76ers,Philadelphia 76ers,Cincinnati Royals,47,5,52,-92430000.0,1967
+Philadelphia 76ers,St. Louis Hawks,Philadelphia 76ers,47,6,53,-92257200.0,1967
+Philadelphia 76ers,Los Angeles Lakers,Philadelphia 76ers,47,7,54,-91998000.0,1967
+Philadelphia 76ers,Philadelphia 76ers,San Francisco Warriors,47,8,55,-91911600.0,1967
+Philadelphia 76ers,Philadelphia 76ers,San Francisco Warriors,48,8,56,-91738800.0,1967
+Philadelphia 76ers,Los Angeles Lakers,Philadelphia 76ers,49,8,57,-91652400.0,1967
+Philadelphia 76ers,Philadelphia 76ers,San Francisco Warriors,50,8,58,-91479600.0,1967
+Philadelphia 76ers,Cincinnati Royals,Philadelphia 76ers,51,8,59,-91393200.0,1967
+Philadelphia 76ers,Philadelphia 76ers,Los Angeles Lakers,52,8,60,-91220400.0,1967
+Philadelphia 76ers,Baltimore Bullets,Philadelphia 76ers,52,9,61,-91134000.0,1967
+Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,52,10,62,-91047600.0,1967
+Philadelphia 76ers,Philadelphia 76ers,Cincinnati Royals,53,10,63,-90961200.0,1967
+Philadelphia 76ers,Detroit Pistons,Philadelphia 76ers,54,10,64,-90788400.0,1967
+Philadelphia 76ers,Cincinnati Royals,Philadelphia 76ers,55,10,65,-90615600.0,1967
+Philadelphia 76ers,St. Louis Hawks,Philadelphia 76ers,56,10,66,-90442800.0,1967
+Philadelphia 76ers,Baltimore Bullets,Philadelphia 76ers,57,10,67,-90010800.0,1967
+Philadelphia 76ers,Cincinnati Royals,Philadelphia 76ers,58,10,68,-89665200.0,1967
+Philadelphia 76ers,Chicago Bulls,Philadelphia 76ers,58,11,69,-89578800.0,1967
+Philadelphia 76ers,Philadelphia 76ers,San Francisco Warriors,59,11,70,-89492400.0,1967
+Philadelphia 76ers,Detroit Pistons,Philadelphia 76ers,60,11,71,-89406000.0,1967
+Philadelphia 76ers,Philadelphia 76ers,Detroit Pistons,61,11,72,-89233200.0,1967
+Philadelphia 76ers,Los Angeles Lakers,Philadelphia 76ers,62,11,73,-89146800.0,1967
+Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,63,11,74,-88974000.0,1967
+Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,63,12,75,-88714800.0,1967
+Philadelphia 76ers,New York Knicks,Philadelphia 76ers,64,12,76,-88628400.0,1967
+Philadelphia 76ers,San Francisco Warriors,Philadelphia 76ers,65,12,77,-88455600.0,1967
+Philadelphia 76ers,Los Angeles Lakers,Philadelphia 76ers,66,12,78,-88369200.0,1967
+Philadelphia 76ers,San Francisco Warriors,Philadelphia 76ers,66,13,79,-88282800.0,1967
+Philadelphia 76ers,Philadelphia 76ers,Baltimore Bullets,67,13,80,-88110000.0,1967
+Philadelphia 76ers,Baltimore Bullets,Philadelphia 76ers,68,13,81,-88023600.0,1967
+San Francisco Warriors,Boston Celtics,San Francisco Warriors,0,1,1,-101419200.0,1967
+San Francisco Warriors,Chicago Bulls,San Francisco Warriors,0,2,2,-101160000.0,1967
+San Francisco Warriors,Chicago Bulls,San Francisco Warriors,1,2,3,-100987200.0,1967
+San Francisco Warriors,San Francisco Warriors,Detroit Pistons,2,2,4,-100900800.0,1967
+San Francisco Warriors,Detroit Pistons,San Francisco Warriors,2,3,5,-100728000.0,1967
+San Francisco Warriors,Baltimore Bullets,San Francisco Warriors,3,3,6,-100296000.0,1967
+San Francisco Warriors,Cincinnati Royals,San Francisco Warriors,4,3,7,-100209600.0,1967
+San Francisco Warriors,Chicago Bulls,San Francisco Warriors,5,3,8,-99946800.0,1967
+San Francisco Warriors,New York Knicks,San Francisco Warriors,5,4,9,-99774000.0,1967
+San Francisco Warriors,Philadelphia 76ers,San Francisco Warriors,5,5,10,-99687600.0,1967
+San Francisco Warriors,St. Louis Hawks,San Francisco Warriors,5,6,11,-99601200.0,1967
+San Francisco Warriors,San Francisco Warriors,Baltimore Bullets,6,6,12,-99514800.0,1967
+San Francisco Warriors,San Francisco Warriors,Baltimore Bullets,7,6,13,-99255600.0,1967
+San Francisco Warriors,San Francisco Warriors,Los Angeles Lakers,8,6,14,-99082800.0,1967
+San Francisco Warriors,San Francisco Warriors,Detroit Pistons,9,6,15,-98910000.0,1967
+San Francisco Warriors,San Francisco Warriors,Detroit Pistons,10,6,16,-98823600.0,1967
+San Francisco Warriors,Los Angeles Lakers,San Francisco Warriors,11,6,17,-98391600.0,1967
+San Francisco Warriors,San Francisco Warriors,St. Louis Hawks,12,6,18,-98218800.0,1967
+San Francisco Warriors,Baltimore Bullets,San Francisco Warriors,12,7,19,-98132400.0,1967
+San Francisco Warriors,Baltimore Bullets,San Francisco Warriors,13,7,20,-98046000.0,1967
+San Francisco Warriors,Philadelphia 76ers,San Francisco Warriors,13,8,21,-97959600.0,1967
+San Francisco Warriors,San Francisco Warriors,Chicago Bulls,14,8,22,-97786800.0,1967
+San Francisco Warriors,Chicago Bulls,San Francisco Warriors,15,8,23,-97527600.0,1967
+San Francisco Warriors,San Francisco Warriors,St. Louis Hawks,16,8,24,-97182000.0,1967
+San Francisco Warriors,New York Knicks,San Francisco Warriors,17,8,25,-96922800.0,1967
+San Francisco Warriors,Baltimore Bullets,San Francisco Warriors,17,9,26,-96836400.0,1967
+San Francisco Warriors,San Francisco Warriors,St. Louis Hawks,18,9,27,-96750000.0,1967
+San Francisco Warriors,Los Angeles Lakers,San Francisco Warriors,19,9,28,-96663600.0,1967
+San Francisco Warriors,San Francisco Warriors,Cincinnati Royals,20,9,29,-96577200.0,1967
+San Francisco Warriors,San Francisco Warriors,Cincinnati Royals,20,10,30,-96318000.0,1967
+San Francisco Warriors,San Francisco Warriors,Boston Celtics,20,11,31,-95972400.0,1967
+San Francisco Warriors,San Francisco Warriors,Los Angeles Lakers,21,11,32,-95713200.0,1967
+San Francisco Warriors,San Francisco Warriors,Philadelphia 76ers,21,12,33,-95540400.0,1967
+San Francisco Warriors,Cincinnati Royals,San Francisco Warriors,22,12,34,-95281200.0,1967
+San Francisco Warriors,San Francisco Warriors,St. Louis Hawks,22,13,35,-95194800.0,1967
+San Francisco Warriors,Baltimore Bullets,San Francisco Warriors,23,13,36,-95022000.0,1967
+San Francisco Warriors,Cincinnati Royals,San Francisco Warriors,24,13,37,-94849200.0,1967
+San Francisco Warriors,San Francisco Warriors,Boston Celtics,24,14,38,-94503600.0,1967
+San Francisco Warriors,Los Angeles Lakers,San Francisco Warriors,25,14,39,-94330800.0,1967
+San Francisco Warriors,San Francisco Warriors,St. Louis Hawks,26,14,40,-94244400.0,1967
+San Francisco Warriors,San Francisco Warriors,Boston Celtics,27,14,41,-94158000.0,1967
+San Francisco Warriors,Los Angeles Lakers,San Francisco Warriors,27,15,42,-93812400.0,1967
+San Francisco Warriors,San Francisco Warriors,New York Knicks,28,15,43,-93726000.0,1967
+San Francisco Warriors,New York Knicks,San Francisco Warriors,28,16,44,-93639600.0,1967
+San Francisco Warriors,Detroit Pistons,San Francisco Warriors,29,16,45,-93553200.0,1967
+San Francisco Warriors,St. Louis Hawks,San Francisco Warriors,29,17,46,-93466800.0,1967
+San Francisco Warriors,Chicago Bulls,San Francisco Warriors,29,18,47,-93207600.0,1967
+San Francisco Warriors,New York Knicks,San Francisco Warriors,30,18,48,-93121200.0,1967
+San Francisco Warriors,San Francisco Warriors,St. Louis Hawks,31,18,49,-93034800.0,1967
+San Francisco Warriors,San Francisco Warriors,Baltimore Bullets,32,18,50,-92689200.0,1967
+San Francisco Warriors,San Francisco Warriors,Baltimore Bullets,33,18,51,-92430000.0,1967
+San Francisco Warriors,Cincinnati Royals,San Francisco Warriors,33,19,52,-92257200.0,1967
+San Francisco Warriors,Boston Celtics,San Francisco Warriors,33,20,53,-92170800.0,1967
+San Francisco Warriors,Detroit Pistons,San Francisco Warriors,34,20,54,-92084400.0,1967
+San Francisco Warriors,Philadelphia 76ers,San Francisco Warriors,35,20,55,-91911600.0,1967
+San Francisco Warriors,Los Angeles Lakers,San Francisco Warriors,35,21,56,-91825200.0,1967
+San Francisco Warriors,Philadelphia 76ers,San Francisco Warriors,35,22,57,-91738800.0,1967
+San Francisco Warriors,Chicago Bulls,San Francisco Warriors,36,22,58,-91652400.0,1967
+San Francisco Warriors,Philadelphia 76ers,San Francisco Warriors,36,23,59,-91479600.0,1967
+San Francisco Warriors,Boston Celtics,San Francisco Warriors,36,24,60,-91220400.0,1967
+San Francisco Warriors,New York Knicks,San Francisco Warriors,36,25,61,-91134000.0,1967
+San Francisco Warriors,Detroit Pistons,San Francisco Warriors,36,26,62,-91047600.0,1967
+San Francisco Warriors,Boston Celtics,San Francisco Warriors,37,26,63,-90874800.0,1967
+San Francisco Warriors,Chicago Bulls,San Francisco Warriors,38,26,64,-90702000.0,1967
+San Francisco Warriors,Boston Celtics,San Francisco Warriors,39,26,65,-90529200.0,1967
+San Francisco Warriors,Los Angeles Lakers,San Francisco Warriors,40,26,66,-90270000.0,1967
+San Francisco Warriors,San Francisco Warriors,Cincinnati Royals,40,27,67,-90010800.0,1967
+San Francisco Warriors,San Francisco Warriors,Cincinnati Royals,40,28,68,-89924400.0,1967
+San Francisco Warriors,New York Knicks,San Francisco Warriors,40,29,69,-89665200.0,1967
+San Francisco Warriors,Boston Celtics,San Francisco Warriors,40,30,70,-89578800.0,1967
+San Francisco Warriors,Philadelphia 76ers,San Francisco Warriors,40,31,71,-89492400.0,1967
+San Francisco Warriors,New York Knicks,San Francisco Warriors,41,31,72,-89319600.0,1967
+San Francisco Warriors,San Francisco Warriors,New York Knicks,41,32,73,-89233200.0,1967
+San Francisco Warriors,San Francisco Warriors,St. Louis Hawks,41,33,74,-88801200.0,1967
+San Francisco Warriors,San Francisco Warriors,Los Angeles Lakers,41,34,75,-88714800.0,1967
+San Francisco Warriors,San Francisco Warriors,Detroit Pistons,42,34,76,-88542000.0,1967
+San Francisco Warriors,San Francisco Warriors,Philadelphia 76ers,42,35,77,-88455600.0,1967
+San Francisco Warriors,San Francisco Warriors,Philadelphia 76ers,43,35,78,-88282800.0,1967
+San Francisco Warriors,Chicago Bulls,San Francisco Warriors,43,36,79,-88196400.0,1967
+San Francisco Warriors,Cincinnati Royals,San Francisco Warriors,43,37,80,-88110000.0,1967
+San Francisco Warriors,Detroit Pistons,San Francisco Warriors,44,37,81,-88023600.0,1967
+St. Louis Hawks,St. Louis Hawks,Chicago Bulls,0,1,1,-101419200.0,1967
+St. Louis Hawks,Detroit Pistons,St. Louis Hawks,1,1,2,-100987200.0,1967
+St. Louis Hawks,Philadelphia 76ers,St. Louis Hawks,1,2,3,-100900800.0,1967
+St. Louis Hawks,St. Louis Hawks,Cincinnati Royals,2,2,4,-100814400.0,1967
+St. Louis Hawks,Cincinnati Royals,St. Louis Hawks,2,3,5,-100382400.0,1967
+St. Louis Hawks,St. Louis Hawks,Los Angeles Lakers,3,3,6,-100209600.0,1967
+St. Louis Hawks,Philadelphia 76ers,St. Louis Hawks,3,4,7,-99774000.0,1967
+St. Louis Hawks,St. Louis Hawks,San Francisco Warriors,4,4,8,-99601200.0,1967
+St. Louis Hawks,Chicago Bulls,St. Louis Hawks,4,5,9,-99514800.0,1967
+St. Louis Hawks,New York Knicks,St. Louis Hawks,5,5,10,-99342000.0,1967
+St. Louis Hawks,St. Louis Hawks,Boston Celtics,6,5,11,-98996400.0,1967
+St. Louis Hawks,St. Louis Hawks,Chicago Bulls,7,5,12,-98737200.0,1967
+St. Louis Hawks,Detroit Pistons,St. Louis Hawks,8,5,13,-98650800.0,1967
+St. Louis Hawks,St. Louis Hawks,Detroit Pistons,9,5,14,-98391600.0,1967
+St. Louis Hawks,San Francisco Warriors,St. Louis Hawks,9,6,15,-98218800.0,1967
+St. Louis Hawks,Boston Celtics,St. Louis Hawks,9,7,16,-98046000.0,1967
+St. Louis Hawks,St. Louis Hawks,Boston Celtics,9,8,17,-97959600.0,1967
+St. Louis Hawks,St. Louis Hawks,Los Angeles Lakers,9,9,18,-97786800.0,1967
+St. Louis Hawks,Philadelphia 76ers,St. Louis Hawks,9,10,19,-97527600.0,1967
+St. Louis Hawks,St. Louis Hawks,New York Knicks,10,10,20,-97268400.0,1967
+St. Louis Hawks,San Francisco Warriors,St. Louis Hawks,10,11,21,-97182000.0,1967
+St. Louis Hawks,Los Angeles Lakers,St. Louis Hawks,11,11,22,-97095600.0,1967
+St. Louis Hawks,Los Angeles Lakers,St. Louis Hawks,11,12,23,-96836400.0,1967
+St. Louis Hawks,San Francisco Warriors,St. Louis Hawks,11,13,24,-96750000.0,1967
+St. Louis Hawks,St. Louis Hawks,Philadelphia 76ers,11,14,25,-96577200.0,1967
+St. Louis Hawks,Boston Celtics,St. Louis Hawks,12,14,26,-96145200.0,1967
+St. Louis Hawks,Philadelphia 76ers,St. Louis Hawks,12,15,27,-96058800.0,1967
+St. Louis Hawks,New York Knicks,St. Louis Hawks,12,16,28,-95972400.0,1967
+St. Louis Hawks,Chicago Bulls,St. Louis Hawks,12,17,29,-95799600.0,1967
+St. Louis Hawks,Baltimore Bullets,St. Louis Hawks,13,17,30,-95626800.0,1967
+St. Louis Hawks,Boston Celtics,St. Louis Hawks,13,18,31,-95454000.0,1967
+St. Louis Hawks,San Francisco Warriors,St. Louis Hawks,14,18,32,-95194800.0,1967
+St. Louis Hawks,St. Louis Hawks,Baltimore Bullets,15,18,33,-95108400.0,1967
+St. Louis Hawks,St. Louis Hawks,Boston Celtics,15,19,34,-94935600.0,1967
+St. Louis Hawks,St. Louis Hawks,New York Knicks,16,19,35,-94676400.0,1967
+St. Louis Hawks,Detroit Pistons,St. Louis Hawks,17,19,36,-94590000.0,1967
+St. Louis Hawks,Los Angeles Lakers,St. Louis Hawks,17,20,37,-94417200.0,1967
+St. Louis Hawks,San Francisco Warriors,St. Louis Hawks,17,21,38,-94244400.0,1967
+St. Louis Hawks,St. Louis Hawks,Detroit Pistons,18,21,39,-94071600.0,1967
+St. Louis Hawks,Baltimore Bullets,St. Louis Hawks,18,22,40,-93726000.0,1967
+St. Louis Hawks,Philadelphia 76ers,St. Louis Hawks,18,23,41,-93639600.0,1967
+St. Louis Hawks,Cincinnati Royals,St. Louis Hawks,18,24,42,-93553200.0,1967
+St. Louis Hawks,St. Louis Hawks,San Francisco Warriors,19,24,43,-93466800.0,1967
+St. Louis Hawks,Baltimore Bullets,St. Louis Hawks,19,25,44,-93380400.0,1967
+St. Louis Hawks,Los Angeles Lakers,St. Louis Hawks,20,25,45,-93207600.0,1967
+St. Louis Hawks,San Francisco Warriors,St. Louis Hawks,20,26,46,-93034800.0,1967
+St. Louis Hawks,St. Louis Hawks,New York Knicks,20,27,47,-92948400.0,1967
+St. Louis Hawks,St. Louis Hawks,New York Knicks,21,27,48,-92862000.0,1967
+St. Louis Hawks,Philadelphia 76ers,St. Louis Hawks,21,28,49,-92775600.0,1967
+St. Louis Hawks,Chicago Bulls,St. Louis Hawks,22,28,50,-92602800.0,1967
+St. Louis Hawks,Cincinnati Royals,St. Louis Hawks,22,29,51,-92343600.0,1967
+St. Louis Hawks,St. Louis Hawks,Philadelphia 76ers,23,29,52,-92257200.0,1967
+St. Louis Hawks,Los Angeles Lakers,St. Louis Hawks,24,29,53,-92170800.0,1967
+St. Louis Hawks,New York Knicks,St. Louis Hawks,24,30,54,-92084400.0,1967
+St. Louis Hawks,Boston Celtics,St. Louis Hawks,25,30,55,-91825200.0,1967
+St. Louis Hawks,St. Louis Hawks,Chicago Bulls,26,30,56,-91738800.0,1967
+St. Louis Hawks,Detroit Pistons,St. Louis Hawks,26,31,57,-91652400.0,1967
+St. Louis Hawks,Baltimore Bullets,St. Louis Hawks,26,32,58,-91566000.0,1967
+St. Louis Hawks,Baltimore Bullets,St. Louis Hawks,27,32,59,-91479600.0,1967
+St. Louis Hawks,Chicago Bulls,St. Louis Hawks,28,32,60,-91134000.0,1967
+St. Louis Hawks,St. Louis Hawks,Cincinnati Royals,29,32,61,-91047600.0,1967
+St. Louis Hawks,New York Knicks,St. Louis Hawks,30,32,62,-90961200.0,1967
+St. Louis Hawks,New York Knicks,St. Louis Hawks,30,33,63,-90702000.0,1967
+St. Louis Hawks,Baltimore Bullets,St. Louis Hawks,31,33,64,-90615600.0,1967
+St. Louis Hawks,St. Louis Hawks,Philadelphia 76ers,31,34,65,-90442800.0,1967
+St. Louis Hawks,Cincinnati Royals,St. Louis Hawks,31,35,66,-90356400.0,1967
+St. Louis Hawks,St. Louis Hawks,Detroit Pistons,31,36,67,-90270000.0,1967
+St. Louis Hawks,St. Louis Hawks,Los Angeles Lakers,31,37,68,-89924400.0,1967
+St. Louis Hawks,St. Louis Hawks,Boston Celtics,31,38,69,-89838000.0,1967
+St. Louis Hawks,Detroit Pistons,St. Louis Hawks,32,38,70,-89751600.0,1967
+St. Louis Hawks,Baltimore Bullets,St. Louis Hawks,32,39,71,-89578800.0,1967
+St. Louis Hawks,St. Louis Hawks,Chicago Bulls,32,40,72,-89319600.0,1967
+St. Louis Hawks,St. Louis Hawks,Baltimore Bullets,33,40,73,-89233200.0,1967
+St. Louis Hawks,Cincinnati Royals,St. Louis Hawks,33,41,74,-89146800.0,1967
+St. Louis Hawks,Los Angeles Lakers,St. Louis Hawks,34,41,75,-88974000.0,1967
+St. Louis Hawks,San Francisco Warriors,St. Louis Hawks,35,41,76,-88801200.0,1967
+St. Louis Hawks,St. Louis Hawks,Cincinnati Royals,36,41,77,-88628400.0,1967
+St. Louis Hawks,Boston Celtics,St. Louis Hawks,37,41,78,-88542000.0,1967
+St. Louis Hawks,Chicago Bulls,St. Louis Hawks,38,41,79,-88455600.0,1967
+St. Louis Hawks,Cincinnati Royals,St. Louis Hawks,38,42,80,-88282800.0,1967
+St. Louis Hawks,St. Louis Hawks,Detroit Pistons,39,42,81,-88110000.0,1967

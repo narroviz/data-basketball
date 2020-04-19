@@ -1,0 +1,721 @@
+id,home_team,away_team,win,loss,game_number,date,year
+Baltimore Bullets,Baltimore Bullets,Boston Celtics,0,1,1,-196027200.0,1964
+Baltimore Bullets,New York Knicks,Baltimore Bullets,1,1,2,-195940800.0,1964
+Baltimore Bullets,Baltimore Bullets,San Francisco Warriors,1,2,3,-195768000.0,1964
+Baltimore Bullets,Baltimore Bullets,New York Knicks,2,2,4,-195422400.0,1964
+Baltimore Bullets,Boston Celtics,Baltimore Bullets,2,3,5,-195163200.0,1964
+Baltimore Bullets,Baltimore Bullets,St. Louis Hawks,2,4,6,-195076800.0,1964
+Baltimore Bullets,Baltimore Bullets,Philadelphia 76ers,2,5,7,-194814000.0,1964
+Baltimore Bullets,New York Knicks,Baltimore Bullets,2,6,8,-194554800.0,1964
+Baltimore Bullets,Baltimore Bullets,St. Louis Hawks,2,7,9,-194209200.0,1964
+Baltimore Bullets,Baltimore Bullets,Philadelphia 76ers,3,7,10,-193950000.0,1964
+Baltimore Bullets,Baltimore Bullets,Los Angeles Lakers,3,8,11,-193518000.0,1964
+Baltimore Bullets,St. Louis Hawks,Baltimore Bullets,3,9,12,-193345200.0,1964
+Baltimore Bullets,Cincinnati Royals,Baltimore Bullets,3,10,13,-193258800.0,1964
+Baltimore Bullets,Philadelphia 76ers,Baltimore Bullets,3,11,14,-192481200.0,1964
+Baltimore Bullets,Baltimore Bullets,Cincinnati Royals,3,12,15,-192394800.0,1964
+Baltimore Bullets,Baltimore Bullets,San Francisco Warriors,4,12,16,-192222000.0,1964
+Baltimore Bullets,Baltimore Bullets,Detroit Pistons,5,12,17,-192135600.0,1964
+Baltimore Bullets,Baltimore Bullets,Los Angeles Lakers,6,12,18,-191790000.0,1964
+Baltimore Bullets,Baltimore Bullets,New York Knicks,7,12,19,-191617200.0,1964
+Baltimore Bullets,Baltimore Bullets,Boston Celtics,7,13,20,-191530800.0,1964
+Baltimore Bullets,Baltimore Bullets,Los Angeles Lakers,7,14,21,-191358000.0,1964
+Baltimore Bullets,San Francisco Warriors,Baltimore Bullets,7,15,22,-191271600.0,1964
+Baltimore Bullets,Los Angeles Lakers,Baltimore Bullets,7,16,23,-191098800.0,1964
+Baltimore Bullets,San Francisco Warriors,Baltimore Bullets,8,16,24,-191012400.0,1964
+Baltimore Bullets,Los Angeles Lakers,Baltimore Bullets,8,17,25,-190926000.0,1964
+Baltimore Bullets,San Francisco Warriors,Baltimore Bullets,8,18,26,-190839600.0,1964
+Baltimore Bullets,Baltimore Bullets,Boston Celtics,8,19,27,-190666800.0,1964
+Baltimore Bullets,Detroit Pistons,Baltimore Bullets,9,19,28,-190580400.0,1964
+Baltimore Bullets,Cincinnati Royals,Baltimore Bullets,9,20,29,-190407600.0,1964
+Baltimore Bullets,Baltimore Bullets,Cincinnati Royals,10,20,30,-190321200.0,1964
+Baltimore Bullets,St. Louis Hawks,Baltimore Bullets,10,21,31,-190234800.0,1964
+Baltimore Bullets,Baltimore Bullets,Detroit Pistons,11,21,32,-189889200.0,1964
+Baltimore Bullets,Baltimore Bullets,San Francisco Warriors,11,22,33,-189716400.0,1964
+Baltimore Bullets,Baltimore Bullets,New York Knicks,12,22,34,-189284400.0,1964
+Baltimore Bullets,Baltimore Bullets,New York Knicks,12,23,35,-189198000.0,1964
+Baltimore Bullets,Baltimore Bullets,Philadelphia 76ers,12,24,36,-189111600.0,1964
+Baltimore Bullets,Cincinnati Royals,Baltimore Bullets,12,25,37,-189025200.0,1964
+Baltimore Bullets,St. Louis Hawks,Baltimore Bullets,12,26,38,-188852400.0,1964
+Baltimore Bullets,Detroit Pistons,Baltimore Bullets,13,26,39,-188766000.0,1964
+Baltimore Bullets,Baltimore Bullets,Detroit Pistons,13,27,40,-188679600.0,1964
+Baltimore Bullets,St. Louis Hawks,Baltimore Bullets,14,27,41,-188420400.0,1964
+Baltimore Bullets,Baltimore Bullets,Boston Celtics,14,28,42,-188161200.0,1964
+Baltimore Bullets,Baltimore Bullets,San Francisco Warriors,15,28,43,-187902000.0,1964
+Baltimore Bullets,Baltimore Bullets,New York Knicks,15,29,44,-187815600.0,1964
+Baltimore Bullets,Baltimore Bullets,Philadelphia 76ers,16,29,45,-187642800.0,1964
+Baltimore Bullets,Baltimore Bullets,Philadelphia 76ers,17,29,46,-187556400.0,1964
+Baltimore Bullets,Baltimore Bullets,New York Knicks,18,29,47,-187470000.0,1964
+Baltimore Bullets,Baltimore Bullets,Cincinnati Royals,19,29,48,-187297200.0,1964
+Baltimore Bullets,Philadelphia 76ers,Baltimore Bullets,20,29,49,-187210800.0,1964
+Baltimore Bullets,Baltimore Bullets,Los Angeles Lakers,21,29,50,-186865200.0,1964
+Baltimore Bullets,Baltimore Bullets,Cincinnati Royals,21,30,51,-186778800.0,1964
+Baltimore Bullets,Baltimore Bullets,Detroit Pistons,21,31,52,-186692400.0,1964
+Baltimore Bullets,Baltimore Bullets,San Francisco Warriors,21,32,53,-186606000.0,1964
+Baltimore Bullets,New York Knicks,Baltimore Bullets,22,32,54,-186433200.0,1964
+Baltimore Bullets,Baltimore Bullets,St. Louis Hawks,23,32,55,-186346800.0,1964
+Baltimore Bullets,Baltimore Bullets,Boston Celtics,23,33,56,-186260400.0,1964
+Baltimore Bullets,Baltimore Bullets,Cincinnati Royals,23,34,57,-186087600.0,1964
+Baltimore Bullets,Baltimore Bullets,Los Angeles Lakers,24,34,58,-186001200.0,1964
+Baltimore Bullets,Baltimore Bullets,Philadelphia 76ers,25,34,59,-185742000.0,1964
+Baltimore Bullets,Baltimore Bullets,Detroit Pistons,26,34,60,-185482800.0,1964
+Baltimore Bullets,Detroit Pistons,Baltimore Bullets,27,34,61,-185396400.0,1964
+Baltimore Bullets,Baltimore Bullets,St. Louis Hawks,27,35,62,-185310000.0,1964
+Baltimore Bullets,Philadelphia 76ers,Baltimore Bullets,27,36,63,-185137200.0,1964
+Baltimore Bullets,Baltimore Bullets,Boston Celtics,27,37,64,-185050800.0,1964
+Baltimore Bullets,Baltimore Bullets,St. Louis Hawks,28,37,65,-184964400.0,1964
+Baltimore Bullets,Baltimore Bullets,Detroit Pistons,29,37,66,-184791600.0,1964
+Baltimore Bullets,Baltimore Bullets,Boston Celtics,29,38,67,-184532400.0,1964
+Baltimore Bullets,Baltimore Bullets,Los Angeles Lakers,29,39,68,-184359600.0,1964
+Baltimore Bullets,Baltimore Bullets,Cincinnati Royals,29,40,69,-184186800.0,1964
+Baltimore Bullets,Baltimore Bullets,New York Knicks,30,40,70,-183927600.0,1964
+Baltimore Bullets,Baltimore Bullets,Detroit Pistons,30,41,71,-183841200.0,1964
+Baltimore Bullets,Cincinnati Royals,Baltimore Bullets,30,42,72,-183668400.0,1964
+Baltimore Bullets,St. Louis Hawks,Baltimore Bullets,30,43,73,-183582000.0,1964
+Baltimore Bullets,Los Angeles Lakers,Baltimore Bullets,30,44,74,-183495600.0,1964
+Baltimore Bullets,San Francisco Warriors,Baltimore Bullets,30,45,75,-183409200.0,1964
+Baltimore Bullets,Los Angeles Lakers,Baltimore Bullets,30,46,76,-183322800.0,1964
+Baltimore Bullets,San Francisco Warriors,Baltimore Bullets,30,47,77,-183236400.0,1964
+Baltimore Bullets,Baltimore Bullets,Philadelphia 76ers,30,48,78,-183063600.0,1964
+Baltimore Bullets,Boston Celtics,Baltimore Bullets,30,49,79,-182977200.0,1964
+Baltimore Bullets,Baltimore Bullets,Boston Celtics,31,49,80,-182718000.0,1964
+Boston Celtics,Baltimore Bullets,Boston Celtics,1,0,1,-196027200.0,1964
+Boston Celtics,Cincinnati Royals,Boston Celtics,2,0,2,-195940800.0,1964
+Boston Celtics,Boston Celtics,Baltimore Bullets,3,0,3,-195163200.0,1964
+Boston Celtics,Detroit Pistons,Boston Celtics,4,0,4,-194814000.0,1964
+Boston Celtics,Philadelphia 76ers,Boston Celtics,5,0,5,-194641200.0,1964
+Boston Celtics,Boston Celtics,Detroit Pistons,6,0,6,-194554800.0,1964
+Boston Celtics,Boston Celtics,Cincinnati Royals,7,0,7,-194209200.0,1964
+Boston Celtics,Cincinnati Royals,Boston Celtics,7,1,8,-194036400.0,1964
+Boston Celtics,St. Louis Hawks,Boston Celtics,8,1,9,-193950000.0,1964
+Boston Celtics,Boston Celtics,St. Louis Hawks,9,1,10,-193777200.0,1964
+Boston Celtics,Boston Celtics,Los Angeles Lakers,10,1,11,-193604400.0,1964
+Boston Celtics,Boston Celtics,New York Knicks,11,1,12,-193431600.0,1964
+Boston Celtics,New York Knicks,Boston Celtics,12,1,13,-193086000.0,1964
+Boston Celtics,Boston Celtics,Los Angeles Lakers,13,1,14,-192394800.0,1964
+Boston Celtics,Boston Celtics,Philadelphia 76ers,14,1,15,-192222000.0,1964
+Boston Celtics,Boston Celtics,San Francisco Warriors,15,1,16,-192135600.0,1964
+Boston Celtics,Cincinnati Royals,Boston Celtics,15,2,17,-191703600.0,1964
+Boston Celtics,Boston Celtics,Cincinnati Royals,16,2,18,-191617200.0,1964
+Boston Celtics,Baltimore Bullets,Boston Celtics,17,2,19,-191530800.0,1964
+Boston Celtics,New York Knicks,Boston Celtics,18,2,20,-191271600.0,1964
+Boston Celtics,Boston Celtics,St. Louis Hawks,19,2,21,-191185200.0,1964
+Boston Celtics,Philadelphia 76ers,Boston Celtics,20,2,22,-191012400.0,1964
+Boston Celtics,Boston Celtics,Cincinnati Royals,20,3,23,-190926000.0,1964
+Boston Celtics,Baltimore Bullets,Boston Celtics,21,3,24,-190666800.0,1964
+Boston Celtics,Boston Celtics,New York Knicks,22,3,25,-190580400.0,1964
+Boston Celtics,Boston Celtics,New York Knicks,23,3,26,-190494000.0,1964
+Boston Celtics,New York Knicks,Boston Celtics,23,4,27,-190321200.0,1964
+Boston Celtics,Boston Celtics,Los Angeles Lakers,24,4,28,-189889200.0,1964
+Boston Celtics,Cincinnati Royals,Boston Celtics,24,5,29,-189802800.0,1964
+Boston Celtics,St. Louis Hawks,Boston Celtics,25,5,30,-189716400.0,1964
+Boston Celtics,San Francisco Warriors,Boston Celtics,26,5,31,-189198000.0,1964
+Boston Celtics,Los Angeles Lakers,Boston Celtics,26,6,32,-189111600.0,1964
+Boston Celtics,Los Angeles Lakers,Boston Celtics,26,7,33,-189025200.0,1964
+Boston Celtics,San Francisco Warriors,Boston Celtics,26,8,34,-188852400.0,1964
+Boston Celtics,Boston Celtics,Cincinnati Royals,27,8,35,-188593200.0,1964
+Boston Celtics,Philadelphia 76ers,Boston Celtics,27,9,36,-188506800.0,1964
+Boston Celtics,Boston Celtics,Philadelphia 76ers,28,9,37,-188420400.0,1964
+Boston Celtics,Baltimore Bullets,Boston Celtics,29,9,38,-188161200.0,1964
+Boston Celtics,Boston Celtics,Los Angeles Lakers,30,9,39,-187988400.0,1964
+Boston Celtics,Detroit Pistons,Boston Celtics,31,9,40,-187902000.0,1964
+Boston Celtics,Boston Celtics,San Francisco Warriors,32,9,41,-187815600.0,1964
+Boston Celtics,St. Louis Hawks,Boston Celtics,32,10,42,-187642800.0,1964
+Boston Celtics,Cincinnati Royals,Boston Celtics,32,11,43,-187556400.0,1964
+Boston Celtics,Boston Celtics,St. Louis Hawks,33,11,44,-187470000.0,1964
+Boston Celtics,Boston Celtics,St. Louis Hawks,34,11,45,-187383600.0,1964
+Boston Celtics,Boston Celtics,New York Knicks,35,11,46,-187210800.0,1964
+Boston Celtics,New York Knicks,Boston Celtics,35,12,47,-187038000.0,1964
+Boston Celtics,Boston Celtics,San Francisco Warriors,35,13,48,-186951600.0,1964
+Boston Celtics,Boston Celtics,Philadelphia 76ers,36,13,49,-186778800.0,1964
+Boston Celtics,Philadelphia 76ers,Boston Celtics,37,13,50,-186692400.0,1964
+Boston Celtics,Boston Celtics,Cincinnati Royals,37,14,51,-186606000.0,1964
+Boston Celtics,Boston Celtics,St. Louis Hawks,38,14,52,-186433200.0,1964
+Boston Celtics,Baltimore Bullets,Boston Celtics,39,14,53,-186260400.0,1964
+Boston Celtics,Boston Celtics,New York Knicks,40,14,54,-186174000.0,1964
+Boston Celtics,New York Knicks,Boston Celtics,41,14,55,-186087600.0,1964
+Boston Celtics,Boston Celtics,Philadelphia 76ers,42,14,56,-186001200.0,1964
+Boston Celtics,Boston Celtics,Los Angeles Lakers,42,15,57,-185828400.0,1964
+Boston Celtics,Los Angeles Lakers,Boston Celtics,43,15,58,-185742000.0,1964
+Boston Celtics,San Francisco Warriors,Boston Celtics,43,16,59,-185655600.0,1964
+Boston Celtics,San Francisco Warriors,Boston Celtics,44,16,60,-185482800.0,1964
+Boston Celtics,Los Angeles Lakers,Boston Celtics,45,16,61,-185396400.0,1964
+Boston Celtics,Boston Celtics,Philadelphia 76ers,46,16,62,-185223600.0,1964
+Boston Celtics,Baltimore Bullets,Boston Celtics,47,16,63,-185050800.0,1964
+Boston Celtics,Philadelphia 76ers,Boston Celtics,47,17,64,-184964400.0,1964
+Boston Celtics,St. Louis Hawks,Boston Celtics,47,18,65,-184878000.0,1964
+Boston Celtics,Detroit Pistons,Boston Celtics,47,19,66,-184705200.0,1964
+Boston Celtics,New York Knicks,Boston Celtics,48,19,67,-184618800.0,1964
+Boston Celtics,Baltimore Bullets,Boston Celtics,49,19,68,-184532400.0,1964
+Boston Celtics,Boston Celtics,San Francisco Warriors,50,19,69,-184359600.0,1964
+Boston Celtics,Boston Celtics,Detroit Pistons,51,19,70,-184273200.0,1964
+Boston Celtics,Boston Celtics,Philadelphia 76ers,52,19,71,-184186800.0,1964
+Boston Celtics,Boston Celtics,Philadelphia 76ers,53,19,72,-184014000.0,1964
+Boston Celtics,Boston Celtics,Cincinnati Royals,54,19,73,-183927600.0,1964
+Boston Celtics,Cincinnati Royals,Boston Celtics,54,20,74,-183841200.0,1964
+Boston Celtics,Detroit Pistons,Boston Celtics,55,20,75,-183668400.0,1964
+Boston Celtics,Boston Celtics,Detroit Pistons,56,20,76,-183582000.0,1964
+Boston Celtics,Boston Celtics,Detroit Pistons,57,20,77,-183236400.0,1964
+Boston Celtics,Boston Celtics,Baltimore Bullets,58,20,78,-182977200.0,1964
+Boston Celtics,Boston Celtics,New York Knicks,59,20,79,-182804400.0,1964
+Boston Celtics,Baltimore Bullets,Boston Celtics,59,21,80,-182718000.0,1964
+Cincinnati Royals,St. Louis Hawks,Cincinnati Royals,1,0,1,-196027200.0,1964
+Cincinnati Royals,Cincinnati Royals,Boston Celtics,1,1,2,-195940800.0,1964
+Cincinnati Royals,Cincinnati Royals,New York Knicks,2,1,3,-195768000.0,1964
+Cincinnati Royals,Cincinnati Royals,San Francisco Warriors,3,1,4,-195508800.0,1964
+Cincinnati Royals,Cincinnati Royals,Los Angeles Lakers,3,2,5,-195249600.0,1964
+Cincinnati Royals,San Francisco Warriors,Cincinnati Royals,3,3,6,-195163200.0,1964
+Cincinnati Royals,San Francisco Warriors,Cincinnati Royals,4,3,7,-194900400.0,1964
+Cincinnati Royals,Los Angeles Lakers,Cincinnati Royals,5,3,8,-194814000.0,1964
+Cincinnati Royals,Los Angeles Lakers,Cincinnati Royals,5,4,9,-194641200.0,1964
+Cincinnati Royals,Cincinnati Royals,Philadelphia 76ers,6,4,10,-194468400.0,1964
+Cincinnati Royals,Boston Celtics,Cincinnati Royals,6,5,11,-194209200.0,1964
+Cincinnati Royals,Cincinnati Royals,Boston Celtics,7,5,12,-194036400.0,1964
+Cincinnati Royals,Cincinnati Royals,Detroit Pistons,8,5,13,-193950000.0,1964
+Cincinnati Royals,Cincinnati Royals,San Francisco Warriors,8,6,14,-193604400.0,1964
+Cincinnati Royals,New York Knicks,Cincinnati Royals,8,7,15,-193345200.0,1964
+Cincinnati Royals,Cincinnati Royals,Baltimore Bullets,9,7,16,-193258800.0,1964
+Cincinnati Royals,Cincinnati Royals,Detroit Pistons,10,7,17,-193086000.0,1964
+Cincinnati Royals,Detroit Pistons,Cincinnati Royals,10,8,18,-192999600.0,1964
+Cincinnati Royals,St. Louis Hawks,Cincinnati Royals,10,9,19,-192740400.0,1964
+Cincinnati Royals,Cincinnati Royals,St. Louis Hawks,11,9,20,-192654000.0,1964
+Cincinnati Royals,Cincinnati Royals,San Francisco Warriors,12,9,21,-192481200.0,1964
+Cincinnati Royals,Baltimore Bullets,Cincinnati Royals,13,9,22,-192394800.0,1964
+Cincinnati Royals,Philadelphia 76ers,Cincinnati Royals,14,9,23,-192308400.0,1964
+Cincinnati Royals,Cincinnati Royals,New York Knicks,15,9,24,-192222000.0,1964
+Cincinnati Royals,Cincinnati Royals,Los Angeles Lakers,15,10,25,-192049200.0,1964
+Cincinnati Royals,Cincinnati Royals,Boston Celtics,16,10,26,-191703600.0,1964
+Cincinnati Royals,Boston Celtics,Cincinnati Royals,16,11,27,-191617200.0,1964
+Cincinnati Royals,New York Knicks,Cincinnati Royals,17,11,28,-191530800.0,1964
+Cincinnati Royals,Cincinnati Royals,Philadelphia 76ers,17,12,29,-191444400.0,1964
+Cincinnati Royals,Detroit Pistons,Cincinnati Royals,18,12,30,-191185200.0,1964
+Cincinnati Royals,Cincinnati Royals,New York Knicks,19,12,31,-191098800.0,1964
+Cincinnati Royals,Boston Celtics,Cincinnati Royals,20,12,32,-190926000.0,1964
+Cincinnati Royals,Cincinnati Royals,Baltimore Bullets,21,12,33,-190407600.0,1964
+Cincinnati Royals,Baltimore Bullets,Cincinnati Royals,21,13,34,-190321200.0,1964
+Cincinnati Royals,Cincinnati Royals,St. Louis Hawks,22,13,35,-189975600.0,1964
+Cincinnati Royals,Cincinnati Royals,Boston Celtics,23,13,36,-189802800.0,1964
+Cincinnati Royals,Cincinnati Royals,New York Knicks,24,13,37,-189630000.0,1964
+Cincinnati Royals,Cincinnati Royals,Detroit Pistons,25,13,38,-189284400.0,1964
+Cincinnati Royals,Philadelphia 76ers,Cincinnati Royals,25,14,39,-189198000.0,1964
+Cincinnati Royals,New York Knicks,Cincinnati Royals,26,14,40,-189111600.0,1964
+Cincinnati Royals,Cincinnati Royals,Baltimore Bullets,27,14,41,-189025200.0,1964
+Cincinnati Royals,Cincinnati Royals,Philadelphia 76ers,28,14,42,-188852400.0,1964
+Cincinnati Royals,Cincinnati Royals,Philadelphia 76ers,29,14,43,-188766000.0,1964
+Cincinnati Royals,Boston Celtics,Cincinnati Royals,29,15,44,-188593200.0,1964
+Cincinnati Royals,Cincinnati Royals,Detroit Pistons,30,15,45,-188420400.0,1964
+Cincinnati Royals,Cincinnati Royals,Los Angeles Lakers,31,15,46,-188074800.0,1964
+Cincinnati Royals,Cincinnati Royals,St. Louis Hawks,31,16,47,-187902000.0,1964
+Cincinnati Royals,St. Louis Hawks,Cincinnati Royals,31,17,48,-187815600.0,1964
+Cincinnati Royals,New York Knicks,Cincinnati Royals,32,17,49,-187642800.0,1964
+Cincinnati Royals,Cincinnati Royals,Boston Celtics,33,17,50,-187556400.0,1964
+Cincinnati Royals,Philadelphia 76ers,Cincinnati Royals,33,18,51,-187383600.0,1964
+Cincinnati Royals,Baltimore Bullets,Cincinnati Royals,33,19,52,-187297200.0,1964
+Cincinnati Royals,Cincinnati Royals,New York Knicks,34,19,53,-186865200.0,1964
+Cincinnati Royals,Baltimore Bullets,Cincinnati Royals,35,19,54,-186778800.0,1964
+Cincinnati Royals,Boston Celtics,Cincinnati Royals,36,19,55,-186606000.0,1964
+Cincinnati Royals,Cincinnati Royals,Los Angeles Lakers,37,19,56,-186433200.0,1964
+Cincinnati Royals,Cincinnati Royals,Philadelphia 76ers,38,19,57,-186174000.0,1964
+Cincinnati Royals,Baltimore Bullets,Cincinnati Royals,39,19,58,-186087600.0,1964
+Cincinnati Royals,Cincinnati Royals,Detroit Pistons,40,19,59,-186001200.0,1964
+Cincinnati Royals,Cincinnati Royals,Detroit Pistons,41,19,60,-185742000.0,1964
+Cincinnati Royals,Cincinnati Royals,New York Knicks,42,19,61,-185569200.0,1964
+Cincinnati Royals,New York Knicks,Cincinnati Royals,43,19,62,-185482800.0,1964
+Cincinnati Royals,Cincinnati Royals,Philadelphia 76ers,44,19,63,-185396400.0,1964
+Cincinnati Royals,Cincinnati Royals,San Francisco Warriors,45,19,64,-185310000.0,1964
+Cincinnati Royals,Cincinnati Royals,San Francisco Warriors,45,20,65,-185137200.0,1964
+Cincinnati Royals,San Francisco Warriors,Cincinnati Royals,46,20,66,-184964400.0,1964
+Cincinnati Royals,Los Angeles Lakers,Cincinnati Royals,47,20,67,-184878000.0,1964
+Cincinnati Royals,San Francisco Warriors,Cincinnati Royals,47,21,68,-184618800.0,1964
+Cincinnati Royals,Los Angeles Lakers,Cincinnati Royals,47,22,69,-184532400.0,1964
+Cincinnati Royals,Cincinnati Royals,Philadelphia 76ers,48,22,70,-184359600.0,1964
+Cincinnati Royals,Philadelphia 76ers,Cincinnati Royals,49,22,71,-184273200.0,1964
+Cincinnati Royals,Baltimore Bullets,Cincinnati Royals,50,22,72,-184186800.0,1964
+Cincinnati Royals,New York Knicks,Cincinnati Royals,51,22,73,-184014000.0,1964
+Cincinnati Royals,Boston Celtics,Cincinnati Royals,51,23,74,-183927600.0,1964
+Cincinnati Royals,Cincinnati Royals,Boston Celtics,52,23,75,-183841200.0,1964
+Cincinnati Royals,Cincinnati Royals,Baltimore Bullets,53,23,76,-183668400.0,1964
+Cincinnati Royals,Detroit Pistons,Cincinnati Royals,53,24,77,-183409200.0,1964
+Cincinnati Royals,Cincinnati Royals,Philadelphia 76ers,54,24,78,-183236400.0,1964
+Cincinnati Royals,St. Louis Hawks,Cincinnati Royals,54,25,79,-183063600.0,1964
+Cincinnati Royals,Cincinnati Royals,St. Louis Hawks,55,25,80,-182977200.0,1964
+Detroit Pistons,Detroit Pistons,Philadelphia 76ers,0,1,1,-196027200.0,1964
+Detroit Pistons,Philadelphia 76ers,Detroit Pistons,1,1,2,-195768000.0,1964
+Detroit Pistons,Detroit Pistons,Los Angeles Lakers,1,2,3,-195422400.0,1964
+Detroit Pistons,St. Louis Hawks,Detroit Pistons,1,3,4,-195163200.0,1964
+Detroit Pistons,Detroit Pistons,Boston Celtics,1,4,5,-194814000.0,1964
+Detroit Pistons,Boston Celtics,Detroit Pistons,1,5,6,-194554800.0,1964
+Detroit Pistons,Detroit Pistons,Philadelphia 76ers,2,5,7,-194209200.0,1964
+Detroit Pistons,Cincinnati Royals,Detroit Pistons,2,6,8,-193950000.0,1964
+Detroit Pistons,Detroit Pistons,Los Angeles Lakers,3,6,9,-193777200.0,1964
+Detroit Pistons,San Francisco Warriors,Detroit Pistons,4,6,10,-193431600.0,1964
+Detroit Pistons,Los Angeles Lakers,Detroit Pistons,4,7,11,-193345200.0,1964
+Detroit Pistons,San Francisco Warriors,Detroit Pistons,4,8,12,-193258800.0,1964
+Detroit Pistons,Cincinnati Royals,Detroit Pistons,4,9,13,-193086000.0,1964
+Detroit Pistons,Detroit Pistons,Cincinnati Royals,5,9,14,-192999600.0,1964
+Detroit Pistons,New York Knicks,Detroit Pistons,5,10,15,-192740400.0,1964
+Detroit Pistons,Detroit Pistons,St. Louis Hawks,5,11,16,-192394800.0,1964
+Detroit Pistons,St. Louis Hawks,Detroit Pistons,5,12,17,-192308400.0,1964
+Detroit Pistons,Detroit Pistons,Los Angeles Lakers,5,13,18,-192222000.0,1964
+Detroit Pistons,Baltimore Bullets,Detroit Pistons,5,14,19,-192135600.0,1964
+Detroit Pistons,Detroit Pistons,Philadelphia 76ers,5,15,20,-192049200.0,1964
+Detroit Pistons,Detroit Pistons,New York Knicks,5,16,21,-191790000.0,1964
+Detroit Pistons,Detroit Pistons,St. Louis Hawks,6,16,22,-191617200.0,1964
+Detroit Pistons,Detroit Pistons,Cincinnati Royals,6,17,23,-191185200.0,1964
+Detroit Pistons,St. Louis Hawks,Detroit Pistons,6,18,24,-190926000.0,1964
+Detroit Pistons,New York Knicks,Detroit Pistons,7,18,25,-190666800.0,1964
+Detroit Pistons,Detroit Pistons,Baltimore Bullets,7,19,26,-190580400.0,1964
+Detroit Pistons,Detroit Pistons,St. Louis Hawks,7,20,27,-190321200.0,1964
+Detroit Pistons,Baltimore Bullets,Detroit Pistons,7,21,28,-189889200.0,1964
+Detroit Pistons,Detroit Pistons,Philadelphia 76ers,7,22,29,-189802800.0,1964
+Detroit Pistons,Detroit Pistons,Los Angeles Lakers,7,23,30,-189630000.0,1964
+Detroit Pistons,Detroit Pistons,San Francisco Warriors,8,23,31,-189543600.0,1964
+Detroit Pistons,Cincinnati Royals,Detroit Pistons,8,24,32,-189284400.0,1964
+Detroit Pistons,St. Louis Hawks,Detroit Pistons,8,25,33,-189025200.0,1964
+Detroit Pistons,Detroit Pistons,Baltimore Bullets,8,26,34,-188766000.0,1964
+Detroit Pistons,Baltimore Bullets,Detroit Pistons,9,26,35,-188679600.0,1964
+Detroit Pistons,Detroit Pistons,St. Louis Hawks,9,27,36,-188506800.0,1964
+Detroit Pistons,Cincinnati Royals,Detroit Pistons,9,28,37,-188420400.0,1964
+Detroit Pistons,Detroit Pistons,San Francisco Warriors,9,29,38,-188161200.0,1964
+Detroit Pistons,Detroit Pistons,New York Knicks,9,30,39,-188074800.0,1964
+Detroit Pistons,Detroit Pistons,New York Knicks,10,30,40,-187988400.0,1964
+Detroit Pistons,Detroit Pistons,Boston Celtics,10,31,41,-187902000.0,1964
+Detroit Pistons,Los Angeles Lakers,Detroit Pistons,11,31,42,-187729200.0,1964
+Detroit Pistons,San Francisco Warriors,Detroit Pistons,11,32,43,-187642800.0,1964
+Detroit Pistons,Los Angeles Lakers,Detroit Pistons,11,33,44,-187556400.0,1964
+Detroit Pistons,San Francisco Warriors,Detroit Pistons,11,34,45,-187470000.0,1964
+Detroit Pistons,Detroit Pistons,St. Louis Hawks,11,35,46,-187297200.0,1964
+Detroit Pistons,St. Louis Hawks,Detroit Pistons,11,36,47,-187210800.0,1964
+Detroit Pistons,Detroit Pistons,Los Angeles Lakers,12,36,48,-187038000.0,1964
+Detroit Pistons,Detroit Pistons,San Francisco Warriors,13,36,49,-186865200.0,1964
+Detroit Pistons,Baltimore Bullets,Detroit Pistons,14,36,50,-186692400.0,1964
+Detroit Pistons,San Francisco Warriors,Detroit Pistons,14,37,51,-186433200.0,1964
+Detroit Pistons,Los Angeles Lakers,Detroit Pistons,14,38,52,-186346800.0,1964
+Detroit Pistons,San Francisco Warriors,Detroit Pistons,14,39,53,-186260400.0,1964
+Detroit Pistons,Los Angeles Lakers,Detroit Pistons,15,39,54,-186174000.0,1964
+Detroit Pistons,Cincinnati Royals,Detroit Pistons,15,40,55,-186001200.0,1964
+Detroit Pistons,Detroit Pistons,San Francisco Warriors,15,41,56,-185828400.0,1964
+Detroit Pistons,Cincinnati Royals,Detroit Pistons,15,42,57,-185742000.0,1964
+Detroit Pistons,Philadelphia 76ers,Detroit Pistons,15,43,58,-185569200.0,1964
+Detroit Pistons,Baltimore Bullets,Detroit Pistons,15,44,59,-185482800.0,1964
+Detroit Pistons,Detroit Pistons,Baltimore Bullets,15,45,60,-185396400.0,1964
+Detroit Pistons,Detroit Pistons,San Francisco Warriors,15,46,61,-185223600.0,1964
+Detroit Pistons,Detroit Pistons,Los Angeles Lakers,16,46,62,-185137200.0,1964
+Detroit Pistons,Detroit Pistons,Los Angeles Lakers,16,47,63,-185050800.0,1964
+Detroit Pistons,Detroit Pistons,New York Knicks,16,48,64,-184878000.0,1964
+Detroit Pistons,Baltimore Bullets,Detroit Pistons,16,49,65,-184791600.0,1964
+Detroit Pistons,Detroit Pistons,Boston Celtics,17,49,66,-184705200.0,1964
+Detroit Pistons,Detroit Pistons,Philadelphia 76ers,17,50,67,-184532400.0,1964
+Detroit Pistons,Detroit Pistons,New York Knicks,18,50,68,-184359600.0,1964
+Detroit Pistons,Boston Celtics,Detroit Pistons,18,51,69,-184273200.0,1964
+Detroit Pistons,Detroit Pistons,San Francisco Warriors,18,52,70,-184186800.0,1964
+Detroit Pistons,Baltimore Bullets,Detroit Pistons,19,52,71,-183841200.0,1964
+Detroit Pistons,Detroit Pistons,Boston Celtics,19,53,72,-183668400.0,1964
+Detroit Pistons,Boston Celtics,Detroit Pistons,19,54,73,-183582000.0,1964
+Detroit Pistons,Detroit Pistons,Cincinnati Royals,20,54,74,-183409200.0,1964
+Detroit Pistons,Boston Celtics,Detroit Pistons,20,55,75,-183236400.0,1964
+Detroit Pistons,Detroit Pistons,Philadelphia 76ers,21,55,76,-183150000.0,1964
+Detroit Pistons,Detroit Pistons,New York Knicks,22,55,77,-183063600.0,1964
+Detroit Pistons,New York Knicks,Detroit Pistons,22,56,78,-182977200.0,1964
+Detroit Pistons,St. Louis Hawks,Detroit Pistons,22,57,79,-182804400.0,1964
+Detroit Pistons,Detroit Pistons,St. Louis Hawks,23,57,80,-182718000.0,1964
+Los Angeles Lakers,St. Louis Hawks,Los Angeles Lakers,0,1,1,-195768000.0,1964
+Los Angeles Lakers,New York Knicks,Los Angeles Lakers,1,1,2,-195508800.0,1964
+Los Angeles Lakers,Detroit Pistons,Los Angeles Lakers,2,1,3,-195422400.0,1964
+Los Angeles Lakers,Cincinnati Royals,Los Angeles Lakers,3,1,4,-195249600.0,1964
+Los Angeles Lakers,Los Angeles Lakers,Cincinnati Royals,3,2,5,-194814000.0,1964
+Los Angeles Lakers,Los Angeles Lakers,Cincinnati Royals,4,2,6,-194641200.0,1964
+Los Angeles Lakers,San Francisco Warriors,Los Angeles Lakers,4,3,7,-194554800.0,1964
+Los Angeles Lakers,Los Angeles Lakers,New York Knicks,5,3,8,-194209200.0,1964
+Los Angeles Lakers,Los Angeles Lakers,San Francisco Warriors,6,3,9,-194036400.0,1964
+Los Angeles Lakers,Los Angeles Lakers,New York Knicks,7,3,10,-193863600.0,1964
+Los Angeles Lakers,Detroit Pistons,Los Angeles Lakers,7,4,11,-193777200.0,1964
+Los Angeles Lakers,Boston Celtics,Los Angeles Lakers,7,5,12,-193604400.0,1964
+Los Angeles Lakers,Baltimore Bullets,Los Angeles Lakers,8,5,13,-193518000.0,1964
+Los Angeles Lakers,Philadelphia 76ers,Los Angeles Lakers,8,6,14,-193431600.0,1964
+Los Angeles Lakers,Los Angeles Lakers,Detroit Pistons,9,6,15,-193345200.0,1964
+Los Angeles Lakers,Los Angeles Lakers,St. Louis Hawks,9,7,16,-193258800.0,1964
+Los Angeles Lakers,Los Angeles Lakers,St. Louis Hawks,10,7,17,-192913200.0,1964
+Los Angeles Lakers,New York Knicks,Los Angeles Lakers,11,7,18,-192481200.0,1964
+Los Angeles Lakers,Boston Celtics,Los Angeles Lakers,11,8,19,-192394800.0,1964
+Los Angeles Lakers,Detroit Pistons,Los Angeles Lakers,12,8,20,-192222000.0,1964
+Los Angeles Lakers,St. Louis Hawks,Los Angeles Lakers,13,8,21,-192135600.0,1964
+Los Angeles Lakers,Cincinnati Royals,Los Angeles Lakers,14,8,22,-192049200.0,1964
+Los Angeles Lakers,Baltimore Bullets,Los Angeles Lakers,14,9,23,-191790000.0,1964
+Los Angeles Lakers,San Francisco Warriors,Los Angeles Lakers,15,9,24,-191617200.0,1964
+Los Angeles Lakers,Los Angeles Lakers,San Francisco Warriors,15,10,25,-191444400.0,1964
+Los Angeles Lakers,Baltimore Bullets,Los Angeles Lakers,16,10,26,-191358000.0,1964
+Los Angeles Lakers,Los Angeles Lakers,Baltimore Bullets,17,10,27,-191098800.0,1964
+Los Angeles Lakers,Los Angeles Lakers,Baltimore Bullets,18,10,28,-190926000.0,1964
+Los Angeles Lakers,Los Angeles Lakers,St. Louis Hawks,18,11,29,-190839600.0,1964
+Los Angeles Lakers,Los Angeles Lakers,Philadelphia 76ers,19,11,30,-190580400.0,1964
+Los Angeles Lakers,Los Angeles Lakers,Philadelphia 76ers,20,11,31,-190321200.0,1964
+Los Angeles Lakers,New York Knicks,Los Angeles Lakers,21,11,32,-189975600.0,1964
+Los Angeles Lakers,Boston Celtics,Los Angeles Lakers,21,12,33,-189889200.0,1964
+Los Angeles Lakers,Philadelphia 76ers,Los Angeles Lakers,21,13,34,-189716400.0,1964
+Los Angeles Lakers,Detroit Pistons,Los Angeles Lakers,22,13,35,-189630000.0,1964
+Los Angeles Lakers,Los Angeles Lakers,St. Louis Hawks,23,13,36,-189457200.0,1964
+Los Angeles Lakers,Los Angeles Lakers,Boston Celtics,24,13,37,-189111600.0,1964
+Los Angeles Lakers,Los Angeles Lakers,Boston Celtics,25,13,38,-189025200.0,1964
+Los Angeles Lakers,Los Angeles Lakers,New York Knicks,26,13,39,-188766000.0,1964
+Los Angeles Lakers,San Francisco Warriors,Los Angeles Lakers,26,14,40,-188593200.0,1964
+Los Angeles Lakers,Los Angeles Lakers,New York Knicks,26,15,41,-188506800.0,1964
+Los Angeles Lakers,St. Louis Hawks,Los Angeles Lakers,27,15,42,-188161200.0,1964
+Los Angeles Lakers,Cincinnati Royals,Los Angeles Lakers,27,16,43,-188074800.0,1964
+Los Angeles Lakers,Boston Celtics,Los Angeles Lakers,27,17,44,-187988400.0,1964
+Los Angeles Lakers,Los Angeles Lakers,Philadelphia 76ers,28,17,45,-187902000.0,1964
+Los Angeles Lakers,Los Angeles Lakers,Detroit Pistons,28,18,46,-187729200.0,1964
+Los Angeles Lakers,Los Angeles Lakers,Detroit Pistons,29,18,47,-187556400.0,1964
+Los Angeles Lakers,Los Angeles Lakers,San Francisco Warriors,30,18,48,-187383600.0,1964
+Los Angeles Lakers,San Francisco Warriors,Los Angeles Lakers,30,19,49,-187297200.0,1964
+Los Angeles Lakers,Los Angeles Lakers,San Francisco Warriors,31,19,50,-187210800.0,1964
+Los Angeles Lakers,Detroit Pistons,Los Angeles Lakers,31,20,51,-187038000.0,1964
+Los Angeles Lakers,Los Angeles Lakers,Philadelphia 76ers,31,21,52,-186951600.0,1964
+Los Angeles Lakers,Baltimore Bullets,Los Angeles Lakers,31,22,53,-186865200.0,1964
+Los Angeles Lakers,St. Louis Hawks,Los Angeles Lakers,31,23,54,-186692400.0,1964
+Los Angeles Lakers,St. Louis Hawks,Los Angeles Lakers,31,24,55,-186606000.0,1964
+Los Angeles Lakers,Cincinnati Royals,Los Angeles Lakers,31,25,56,-186433200.0,1964
+Los Angeles Lakers,Los Angeles Lakers,Detroit Pistons,32,25,57,-186346800.0,1964
+Los Angeles Lakers,Los Angeles Lakers,Detroit Pistons,32,26,58,-186174000.0,1964
+Los Angeles Lakers,Philadelphia 76ers,Los Angeles Lakers,32,27,59,-186087600.0,1964
+Los Angeles Lakers,Baltimore Bullets,Los Angeles Lakers,32,28,60,-186001200.0,1964
+Los Angeles Lakers,Boston Celtics,Los Angeles Lakers,33,28,61,-185828400.0,1964
+Los Angeles Lakers,Los Angeles Lakers,Boston Celtics,33,29,62,-185742000.0,1964
+Los Angeles Lakers,Los Angeles Lakers,Boston Celtics,33,30,63,-185396400.0,1964
+Los Angeles Lakers,New York Knicks,Los Angeles Lakers,33,31,64,-185223600.0,1964
+Los Angeles Lakers,Detroit Pistons,Los Angeles Lakers,33,32,65,-185137200.0,1964
+Los Angeles Lakers,Detroit Pistons,Los Angeles Lakers,34,32,66,-185050800.0,1964
+Los Angeles Lakers,Los Angeles Lakers,Cincinnati Royals,34,33,67,-184878000.0,1964
+Los Angeles Lakers,San Francisco Warriors,Los Angeles Lakers,34,34,68,-184791600.0,1964
+Los Angeles Lakers,Los Angeles Lakers,Cincinnati Royals,35,34,69,-184532400.0,1964
+Los Angeles Lakers,Baltimore Bullets,Los Angeles Lakers,36,34,70,-184359600.0,1964
+Los Angeles Lakers,St. Louis Hawks,Los Angeles Lakers,36,35,71,-184273200.0,1964
+Los Angeles Lakers,Los Angeles Lakers,St. Louis Hawks,37,35,72,-184186800.0,1964
+Los Angeles Lakers,Los Angeles Lakers,St. Louis Hawks,37,36,73,-183927600.0,1964
+Los Angeles Lakers,Los Angeles Lakers,San Francisco Warriors,37,37,74,-183668400.0,1964
+Los Angeles Lakers,Los Angeles Lakers,Baltimore Bullets,38,37,75,-183495600.0,1964
+Los Angeles Lakers,Los Angeles Lakers,Baltimore Bullets,39,37,76,-183322800.0,1964
+Los Angeles Lakers,San Francisco Warriors,Los Angeles Lakers,40,37,77,-183150000.0,1964
+Los Angeles Lakers,Los Angeles Lakers,San Francisco Warriors,40,38,78,-183063600.0,1964
+Los Angeles Lakers,Los Angeles Lakers,Philadelphia 76ers,41,38,79,-182977200.0,1964
+Los Angeles Lakers,Los Angeles Lakers,Philadelphia 76ers,42,38,80,-182804400.0,1964
+New York Knicks,New York Knicks,Baltimore Bullets,0,1,1,-195940800.0,1964
+New York Knicks,Cincinnati Royals,New York Knicks,0,2,2,-195768000.0,1964
+New York Knicks,New York Knicks,Los Angeles Lakers,0,3,3,-195508800.0,1964
+New York Knicks,Baltimore Bullets,New York Knicks,0,4,4,-195422400.0,1964
+New York Knicks,Philadelphia 76ers,New York Knicks,1,4,5,-195249600.0,1964
+New York Knicks,New York Knicks,Philadelphia 76ers,2,4,6,-195163200.0,1964
+New York Knicks,New York Knicks,St. Louis Hawks,2,5,7,-194900400.0,1964
+New York Knicks,St. Louis Hawks,New York Knicks,2,6,8,-194814000.0,1964
+New York Knicks,New York Knicks,Baltimore Bullets,3,6,9,-194554800.0,1964
+New York Knicks,Los Angeles Lakers,New York Knicks,3,7,10,-194209200.0,1964
+New York Knicks,San Francisco Warriors,New York Knicks,3,8,11,-194122800.0,1964
+New York Knicks,San Francisco Warriors,New York Knicks,4,8,12,-193950000.0,1964
+New York Knicks,Los Angeles Lakers,New York Knicks,4,9,13,-193863600.0,1964
+New York Knicks,New York Knicks,St. Louis Hawks,5,9,14,-193604400.0,1964
+New York Knicks,Boston Celtics,New York Knicks,5,10,15,-193431600.0,1964
+New York Knicks,New York Knicks,Cincinnati Royals,6,10,16,-193345200.0,1964
+New York Knicks,New York Knicks,Boston Celtics,6,11,17,-193086000.0,1964
+New York Knicks,Philadelphia 76ers,New York Knicks,6,12,18,-192999600.0,1964
+New York Knicks,New York Knicks,Detroit Pistons,7,12,19,-192740400.0,1964
+New York Knicks,New York Knicks,Los Angeles Lakers,7,13,20,-192481200.0,1964
+New York Knicks,New York Knicks,San Francisco Warriors,7,14,21,-192394800.0,1964
+New York Knicks,Cincinnati Royals,New York Knicks,7,15,22,-192222000.0,1964
+New York Knicks,New York Knicks,Philadelphia 76ers,7,16,23,-192135600.0,1964
+New York Knicks,New York Knicks,San Francisco Warriors,7,17,24,-191876400.0,1964
+New York Knicks,Detroit Pistons,New York Knicks,8,17,25,-191790000.0,1964
+New York Knicks,Baltimore Bullets,New York Knicks,8,18,26,-191617200.0,1964
+New York Knicks,New York Knicks,Cincinnati Royals,8,19,27,-191530800.0,1964
+New York Knicks,New York Knicks,Boston Celtics,8,20,28,-191271600.0,1964
+New York Knicks,Philadelphia 76ers,New York Knicks,8,21,29,-191185200.0,1964
+New York Knicks,Cincinnati Royals,New York Knicks,8,22,30,-191098800.0,1964
+New York Knicks,New York Knicks,Philadelphia 76ers,8,23,31,-190926000.0,1964
+New York Knicks,New York Knicks,Detroit Pistons,8,24,32,-190666800.0,1964
+New York Knicks,Boston Celtics,New York Knicks,8,25,33,-190580400.0,1964
+New York Knicks,Boston Celtics,New York Knicks,8,26,34,-190494000.0,1964
+New York Knicks,New York Knicks,Boston Celtics,9,26,35,-190321200.0,1964
+New York Knicks,New York Knicks,Los Angeles Lakers,9,27,36,-189975600.0,1964
+New York Knicks,St. Louis Hawks,New York Knicks,10,27,37,-189889200.0,1964
+New York Knicks,Cincinnati Royals,New York Knicks,10,28,38,-189630000.0,1964
+New York Knicks,New York Knicks,San Francisco Warriors,10,29,39,-189457200.0,1964
+New York Knicks,Baltimore Bullets,New York Knicks,10,30,40,-189284400.0,1964
+New York Knicks,Baltimore Bullets,New York Knicks,11,30,41,-189198000.0,1964
+New York Knicks,New York Knicks,Cincinnati Royals,11,31,42,-189111600.0,1964
+New York Knicks,Philadelphia 76ers,New York Knicks,12,31,43,-189025200.0,1964
+New York Knicks,Los Angeles Lakers,New York Knicks,12,32,44,-188766000.0,1964
+New York Knicks,San Francisco Warriors,New York Knicks,12,33,45,-188679600.0,1964
+New York Knicks,Los Angeles Lakers,New York Knicks,13,33,46,-188506800.0,1964
+New York Knicks,San Francisco Warriors,New York Knicks,13,34,47,-188420400.0,1964
+New York Knicks,Detroit Pistons,New York Knicks,14,34,48,-188074800.0,1964
+New York Knicks,Detroit Pistons,New York Knicks,14,35,49,-187988400.0,1964
+New York Knicks,Baltimore Bullets,New York Knicks,15,35,50,-187815600.0,1964
+New York Knicks,New York Knicks,Cincinnati Royals,15,36,51,-187642800.0,1964
+New York Knicks,Baltimore Bullets,New York Knicks,15,37,52,-187470000.0,1964
+New York Knicks,New York Knicks,Philadelphia 76ers,15,38,53,-187297200.0,1964
+New York Knicks,Boston Celtics,New York Knicks,15,39,54,-187210800.0,1964
+New York Knicks,New York Knicks,Boston Celtics,16,39,55,-187038000.0,1964
+New York Knicks,St. Louis Hawks,New York Knicks,17,39,56,-186951600.0,1964
+New York Knicks,Cincinnati Royals,New York Knicks,17,40,57,-186865200.0,1964
+New York Knicks,New York Knicks,San Francisco Warriors,17,41,58,-186692400.0,1964
+New York Knicks,New York Knicks,Baltimore Bullets,17,42,59,-186433200.0,1964
+New York Knicks,Philadelphia 76ers,New York Knicks,17,43,60,-186260400.0,1964
+New York Knicks,Boston Celtics,New York Knicks,17,44,61,-186174000.0,1964
+New York Knicks,New York Knicks,Boston Celtics,17,45,62,-186087600.0,1964
+New York Knicks,St. Louis Hawks,New York Knicks,17,46,63,-185828400.0,1964
+New York Knicks,Cincinnati Royals,New York Knicks,17,47,64,-185569200.0,1964
+New York Knicks,New York Knicks,Cincinnati Royals,17,48,65,-185482800.0,1964
+New York Knicks,New York Knicks,Los Angeles Lakers,18,48,66,-185223600.0,1964
+New York Knicks,New York Knicks,St. Louis Hawks,19,48,67,-185137200.0,1964
+New York Knicks,Detroit Pistons,New York Knicks,20,48,68,-184878000.0,1964
+New York Knicks,New York Knicks,Philadelphia 76ers,20,49,69,-184791600.0,1964
+New York Knicks,New York Knicks,Boston Celtics,20,50,70,-184618800.0,1964
+New York Knicks,Detroit Pistons,New York Knicks,20,51,71,-184359600.0,1964
+New York Knicks,New York Knicks,San Francisco Warriors,20,52,72,-184273200.0,1964
+New York Knicks,New York Knicks,Cincinnati Royals,20,53,73,-184014000.0,1964
+New York Knicks,Baltimore Bullets,New York Knicks,20,54,74,-183927600.0,1964
+New York Knicks,Philadelphia 76ers,New York Knicks,20,55,75,-183668400.0,1964
+New York Knicks,New York Knicks,Philadelphia 76ers,21,55,76,-183582000.0,1964
+New York Knicks,New York Knicks,St. Louis Hawks,21,56,77,-183409200.0,1964
+New York Knicks,Detroit Pistons,New York Knicks,21,57,78,-183063600.0,1964
+New York Knicks,New York Knicks,Detroit Pistons,22,57,79,-182977200.0,1964
+New York Knicks,Boston Celtics,New York Knicks,22,58,80,-182804400.0,1964
+Philadelphia 76ers,Detroit Pistons,Philadelphia 76ers,1,0,1,-196027200.0,1964
+Philadelphia 76ers,Philadelphia 76ers,Detroit Pistons,1,1,2,-195768000.0,1964
+Philadelphia 76ers,Philadelphia 76ers,New York Knicks,1,2,3,-195249600.0,1964
+Philadelphia 76ers,New York Knicks,Philadelphia 76ers,1,3,4,-195163200.0,1964
+Philadelphia 76ers,Baltimore Bullets,Philadelphia 76ers,2,3,5,-194814000.0,1964
+Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,2,4,6,-194641200.0,1964
+Philadelphia 76ers,St. Louis Hawks,Philadelphia 76ers,2,5,7,-194554800.0,1964
+Philadelphia 76ers,Cincinnati Royals,Philadelphia 76ers,2,6,8,-194468400.0,1964
+Philadelphia 76ers,Detroit Pistons,Philadelphia 76ers,2,7,9,-194209200.0,1964
+Philadelphia 76ers,Philadelphia 76ers,St. Louis Hawks,3,7,10,-194036400.0,1964
+Philadelphia 76ers,Baltimore Bullets,Philadelphia 76ers,3,8,11,-193950000.0,1964
+Philadelphia 76ers,Philadelphia 76ers,San Francisco Warriors,4,8,12,-193690800.0,1964
+Philadelphia 76ers,Philadelphia 76ers,Los Angeles Lakers,5,8,13,-193431600.0,1964
+Philadelphia 76ers,Philadelphia 76ers,New York Knicks,6,8,14,-192999600.0,1964
+Philadelphia 76ers,Philadelphia 76ers,Baltimore Bullets,7,8,15,-192481200.0,1964
+Philadelphia 76ers,Philadelphia 76ers,Cincinnati Royals,7,9,16,-192308400.0,1964
+Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,7,10,17,-192222000.0,1964
+Philadelphia 76ers,New York Knicks,Philadelphia 76ers,8,10,18,-192135600.0,1964
+Philadelphia 76ers,Detroit Pistons,Philadelphia 76ers,9,10,19,-192049200.0,1964
+Philadelphia 76ers,Philadelphia 76ers,St. Louis Hawks,9,11,20,-191703600.0,1964
+Philadelphia 76ers,St. Louis Hawks,Philadelphia 76ers,9,12,21,-191530800.0,1964
+Philadelphia 76ers,Cincinnati Royals,Philadelphia 76ers,10,12,22,-191444400.0,1964
+Philadelphia 76ers,Philadelphia 76ers,St. Louis Hawks,10,13,23,-191271600.0,1964
+Philadelphia 76ers,Philadelphia 76ers,New York Knicks,11,13,24,-191185200.0,1964
+Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,11,14,25,-191012400.0,1964
+Philadelphia 76ers,New York Knicks,Philadelphia 76ers,12,14,26,-190926000.0,1964
+Philadelphia 76ers,Los Angeles Lakers,Philadelphia 76ers,12,15,27,-190580400.0,1964
+Philadelphia 76ers,San Francisco Warriors,Philadelphia 76ers,13,15,28,-190407600.0,1964
+Philadelphia 76ers,Los Angeles Lakers,Philadelphia 76ers,13,16,29,-190321200.0,1964
+Philadelphia 76ers,San Francisco Warriors,Philadelphia 76ers,13,17,30,-190234800.0,1964
+Philadelphia 76ers,Philadelphia 76ers,San Francisco Warriors,14,17,31,-189889200.0,1964
+Philadelphia 76ers,Detroit Pistons,Philadelphia 76ers,15,17,32,-189802800.0,1964
+Philadelphia 76ers,Philadelphia 76ers,Los Angeles Lakers,16,17,33,-189716400.0,1964
+Philadelphia 76ers,Philadelphia 76ers,Cincinnati Royals,17,17,34,-189198000.0,1964
+Philadelphia 76ers,Baltimore Bullets,Philadelphia 76ers,18,17,35,-189111600.0,1964
+Philadelphia 76ers,Philadelphia 76ers,New York Knicks,18,18,36,-189025200.0,1964
+Philadelphia 76ers,Cincinnati Royals,Philadelphia 76ers,18,19,37,-188852400.0,1964
+Philadelphia 76ers,Cincinnati Royals,Philadelphia 76ers,18,20,38,-188766000.0,1964
+Philadelphia 76ers,Philadelphia 76ers,St. Louis Hawks,19,20,39,-188679600.0,1964
+Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,20,20,40,-188506800.0,1964
+Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,20,21,41,-188420400.0,1964
+Philadelphia 76ers,Philadelphia 76ers,San Francisco Warriors,20,22,42,-187988400.0,1964
+Philadelphia 76ers,Los Angeles Lakers,Philadelphia 76ers,20,23,43,-187902000.0,1964
+Philadelphia 76ers,Baltimore Bullets,Philadelphia 76ers,20,24,44,-187642800.0,1964
+Philadelphia 76ers,Baltimore Bullets,Philadelphia 76ers,20,25,45,-187556400.0,1964
+Philadelphia 76ers,Philadelphia 76ers,Cincinnati Royals,21,25,46,-187383600.0,1964
+Philadelphia 76ers,New York Knicks,Philadelphia 76ers,22,25,47,-187297200.0,1964
+Philadelphia 76ers,Philadelphia 76ers,Baltimore Bullets,22,26,48,-187210800.0,1964
+Philadelphia 76ers,Philadelphia 76ers,San Francisco Warriors,22,27,49,-187038000.0,1964
+Philadelphia 76ers,Los Angeles Lakers,Philadelphia 76ers,23,27,50,-186951600.0,1964
+Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,23,28,51,-186778800.0,1964
+Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,23,29,52,-186692400.0,1964
+Philadelphia 76ers,Philadelphia 76ers,New York Knicks,24,29,53,-186260400.0,1964
+Philadelphia 76ers,Cincinnati Royals,Philadelphia 76ers,24,30,54,-186174000.0,1964
+Philadelphia 76ers,Philadelphia 76ers,Los Angeles Lakers,25,30,55,-186087600.0,1964
+Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,25,31,56,-186001200.0,1964
+Philadelphia 76ers,Baltimore Bullets,Philadelphia 76ers,25,32,57,-185742000.0,1964
+Philadelphia 76ers,Philadelphia 76ers,Detroit Pistons,26,32,58,-185569200.0,1964
+Philadelphia 76ers,St. Louis Hawks,Philadelphia 76ers,26,33,59,-185482800.0,1964
+Philadelphia 76ers,Cincinnati Royals,Philadelphia 76ers,26,34,60,-185396400.0,1964
+Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,26,35,61,-185223600.0,1964
+Philadelphia 76ers,Philadelphia 76ers,Baltimore Bullets,27,35,62,-185137200.0,1964
+Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,28,35,63,-184964400.0,1964
+Philadelphia 76ers,New York Knicks,Philadelphia 76ers,29,35,64,-184791600.0,1964
+Philadelphia 76ers,Philadelphia 76ers,St. Louis Hawks,29,36,65,-184618800.0,1964
+Philadelphia 76ers,Detroit Pistons,Philadelphia 76ers,30,36,66,-184532400.0,1964
+Philadelphia 76ers,Cincinnati Royals,Philadelphia 76ers,30,37,67,-184359600.0,1964
+Philadelphia 76ers,Philadelphia 76ers,Cincinnati Royals,30,38,68,-184273200.0,1964
+Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,30,39,69,-184186800.0,1964
+Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,30,40,70,-184014000.0,1964
+Philadelphia 76ers,Philadelphia 76ers,New York Knicks,31,40,71,-183668400.0,1964
+Philadelphia 76ers,New York Knicks,Philadelphia 76ers,31,41,72,-183582000.0,1964
+Philadelphia 76ers,St. Louis Hawks,Philadelphia 76ers,32,41,73,-183322800.0,1964
+Philadelphia 76ers,Cincinnati Royals,Philadelphia 76ers,32,42,74,-183236400.0,1964
+Philadelphia 76ers,Detroit Pistons,Philadelphia 76ers,32,43,75,-183150000.0,1964
+Philadelphia 76ers,Baltimore Bullets,Philadelphia 76ers,33,43,76,-183063600.0,1964
+Philadelphia 76ers,Los Angeles Lakers,Philadelphia 76ers,33,44,77,-182977200.0,1964
+Philadelphia 76ers,San Francisco Warriors,Philadelphia 76ers,34,44,78,-182890800.0,1964
+Philadelphia 76ers,Los Angeles Lakers,Philadelphia 76ers,34,45,79,-182804400.0,1964
+Philadelphia 76ers,San Francisco Warriors,Philadelphia 76ers,34,46,80,-182718000.0,1964
+San Francisco Warriors,Baltimore Bullets,San Francisco Warriors,1,0,1,-195768000.0,1964
+San Francisco Warriors,Cincinnati Royals,San Francisco Warriors,1,1,2,-195508800.0,1964
+San Francisco Warriors,St. Louis Hawks,San Francisco Warriors,2,1,3,-195422400.0,1964
+San Francisco Warriors,San Francisco Warriors,Cincinnati Royals,3,1,4,-195163200.0,1964
+San Francisco Warriors,San Francisco Warriors,Cincinnati Royals,3,2,5,-194900400.0,1964
+San Francisco Warriors,San Francisco Warriors,Los Angeles Lakers,4,2,6,-194554800.0,1964
+San Francisco Warriors,San Francisco Warriors,New York Knicks,5,2,7,-194122800.0,1964
+San Francisco Warriors,Los Angeles Lakers,San Francisco Warriors,5,3,8,-194036400.0,1964
+San Francisco Warriors,San Francisco Warriors,New York Knicks,5,4,9,-193950000.0,1964
+San Francisco Warriors,Philadelphia 76ers,San Francisco Warriors,5,5,10,-193690800.0,1964
+San Francisco Warriors,Cincinnati Royals,San Francisco Warriors,6,5,11,-193604400.0,1964
+San Francisco Warriors,St. Louis Hawks,San Francisco Warriors,6,6,12,-193518000.0,1964
+San Francisco Warriors,San Francisco Warriors,Detroit Pistons,6,7,13,-193431600.0,1964
+San Francisco Warriors,San Francisco Warriors,Detroit Pistons,7,7,14,-193258800.0,1964
+San Francisco Warriors,San Francisco Warriors,St. Louis Hawks,8,7,15,-193086000.0,1964
+San Francisco Warriors,Cincinnati Royals,San Francisco Warriors,8,8,16,-192481200.0,1964
+San Francisco Warriors,New York Knicks,San Francisco Warriors,9,8,17,-192394800.0,1964
+San Francisco Warriors,Baltimore Bullets,San Francisco Warriors,9,9,18,-192222000.0,1964
+San Francisco Warriors,Boston Celtics,San Francisco Warriors,9,10,19,-192135600.0,1964
+San Francisco Warriors,New York Knicks,San Francisco Warriors,10,10,20,-191876400.0,1964
+San Francisco Warriors,St. Louis Hawks,San Francisco Warriors,10,11,21,-191790000.0,1964
+San Francisco Warriors,San Francisco Warriors,Los Angeles Lakers,10,12,22,-191617200.0,1964
+San Francisco Warriors,Los Angeles Lakers,San Francisco Warriors,11,12,23,-191444400.0,1964
+San Francisco Warriors,San Francisco Warriors,Baltimore Bullets,12,12,24,-191271600.0,1964
+San Francisco Warriors,San Francisco Warriors,Baltimore Bullets,12,13,25,-191012400.0,1964
+San Francisco Warriors,San Francisco Warriors,Baltimore Bullets,13,13,26,-190839600.0,1964
+San Francisco Warriors,San Francisco Warriors,St. Louis Hawks,14,13,27,-190666800.0,1964
+San Francisco Warriors,San Francisco Warriors,St. Louis Hawks,15,13,28,-190580400.0,1964
+San Francisco Warriors,San Francisco Warriors,Philadelphia 76ers,15,14,29,-190407600.0,1964
+San Francisco Warriors,San Francisco Warriors,Philadelphia 76ers,16,14,30,-190234800.0,1964
+San Francisco Warriors,Philadelphia 76ers,San Francisco Warriors,16,15,31,-189889200.0,1964
+San Francisco Warriors,Baltimore Bullets,San Francisco Warriors,17,15,32,-189716400.0,1964
+San Francisco Warriors,Detroit Pistons,San Francisco Warriors,17,16,33,-189543600.0,1964
+San Francisco Warriors,New York Knicks,San Francisco Warriors,18,16,34,-189457200.0,1964
+San Francisco Warriors,San Francisco Warriors,St. Louis Hawks,18,17,35,-189284400.0,1964
+San Francisco Warriors,San Francisco Warriors,Boston Celtics,18,18,36,-189198000.0,1964
+San Francisco Warriors,San Francisco Warriors,Boston Celtics,19,18,37,-188852400.0,1964
+San Francisco Warriors,San Francisco Warriors,New York Knicks,20,18,38,-188679600.0,1964
+San Francisco Warriors,San Francisco Warriors,Los Angeles Lakers,21,18,39,-188593200.0,1964
+San Francisco Warriors,San Francisco Warriors,New York Knicks,22,18,40,-188420400.0,1964
+San Francisco Warriors,Detroit Pistons,San Francisco Warriors,23,18,41,-188161200.0,1964
+San Francisco Warriors,Philadelphia 76ers,San Francisco Warriors,24,18,42,-187988400.0,1964
+San Francisco Warriors,Baltimore Bullets,San Francisco Warriors,24,19,43,-187902000.0,1964
+San Francisco Warriors,Boston Celtics,San Francisco Warriors,24,20,44,-187815600.0,1964
+San Francisco Warriors,San Francisco Warriors,Detroit Pistons,25,20,45,-187642800.0,1964
+San Francisco Warriors,San Francisco Warriors,Detroit Pistons,26,20,46,-187470000.0,1964
+San Francisco Warriors,Los Angeles Lakers,San Francisco Warriors,26,21,47,-187383600.0,1964
+San Francisco Warriors,San Francisco Warriors,Los Angeles Lakers,27,21,48,-187297200.0,1964
+San Francisco Warriors,Los Angeles Lakers,San Francisco Warriors,27,22,49,-187210800.0,1964
+San Francisco Warriors,Philadelphia 76ers,San Francisco Warriors,28,22,50,-187038000.0,1964
+San Francisco Warriors,Boston Celtics,San Francisco Warriors,29,22,51,-186951600.0,1964
+San Francisco Warriors,Detroit Pistons,San Francisco Warriors,29,23,52,-186865200.0,1964
+San Francisco Warriors,New York Knicks,San Francisco Warriors,30,23,53,-186692400.0,1964
+San Francisco Warriors,Baltimore Bullets,San Francisco Warriors,31,23,54,-186606000.0,1964
+San Francisco Warriors,San Francisco Warriors,Detroit Pistons,32,23,55,-186433200.0,1964
+San Francisco Warriors,San Francisco Warriors,Detroit Pistons,33,23,56,-186260400.0,1964
+San Francisco Warriors,St. Louis Hawks,San Francisco Warriors,34,23,57,-186087600.0,1964
+San Francisco Warriors,St. Louis Hawks,San Francisco Warriors,34,24,58,-186001200.0,1964
+San Francisco Warriors,Detroit Pistons,San Francisco Warriors,35,24,59,-185828400.0,1964
+San Francisco Warriors,San Francisco Warriors,Boston Celtics,36,24,60,-185655600.0,1964
+San Francisco Warriors,San Francisco Warriors,Boston Celtics,36,25,61,-185482800.0,1964
+San Francisco Warriors,Cincinnati Royals,San Francisco Warriors,36,26,62,-185310000.0,1964
+San Francisco Warriors,Detroit Pistons,San Francisco Warriors,37,26,63,-185223600.0,1964
+San Francisco Warriors,Cincinnati Royals,San Francisco Warriors,38,26,64,-185137200.0,1964
+San Francisco Warriors,San Francisco Warriors,Cincinnati Royals,38,27,65,-184964400.0,1964
+San Francisco Warriors,San Francisco Warriors,Los Angeles Lakers,39,27,66,-184791600.0,1964
+San Francisco Warriors,San Francisco Warriors,Cincinnati Royals,40,27,67,-184618800.0,1964
+San Francisco Warriors,St. Louis Hawks,San Francisco Warriors,41,27,68,-184446000.0,1964
+San Francisco Warriors,Boston Celtics,San Francisco Warriors,41,28,69,-184359600.0,1964
+San Francisco Warriors,New York Knicks,San Francisco Warriors,42,28,70,-184273200.0,1964
+San Francisco Warriors,Detroit Pistons,San Francisco Warriors,43,28,71,-184186800.0,1964
+San Francisco Warriors,San Francisco Warriors,St. Louis Hawks,43,29,72,-184100400.0,1964
+San Francisco Warriors,San Francisco Warriors,St. Louis Hawks,43,30,73,-183841200.0,1964
+San Francisco Warriors,Los Angeles Lakers,San Francisco Warriors,44,30,74,-183668400.0,1964
+San Francisco Warriors,San Francisco Warriors,Baltimore Bullets,45,30,75,-183409200.0,1964
+San Francisco Warriors,San Francisco Warriors,Baltimore Bullets,46,30,76,-183236400.0,1964
+San Francisco Warriors,San Francisco Warriors,Los Angeles Lakers,46,31,77,-183150000.0,1964
+San Francisco Warriors,Los Angeles Lakers,San Francisco Warriors,47,31,78,-183063600.0,1964
+San Francisco Warriors,San Francisco Warriors,Philadelphia 76ers,47,32,79,-182890800.0,1964
+San Francisco Warriors,San Francisco Warriors,Philadelphia 76ers,48,32,80,-182718000.0,1964
+St. Louis Hawks,St. Louis Hawks,Cincinnati Royals,0,1,1,-196027200.0,1964
+St. Louis Hawks,St. Louis Hawks,Los Angeles Lakers,1,1,2,-195768000.0,1964
+St. Louis Hawks,St. Louis Hawks,San Francisco Warriors,1,2,3,-195422400.0,1964
+St. Louis Hawks,St. Louis Hawks,Detroit Pistons,2,2,4,-195163200.0,1964
+St. Louis Hawks,Baltimore Bullets,St. Louis Hawks,3,2,5,-195076800.0,1964
+St. Louis Hawks,New York Knicks,St. Louis Hawks,4,2,6,-194900400.0,1964
+St. Louis Hawks,St. Louis Hawks,New York Knicks,5,2,7,-194814000.0,1964
+St. Louis Hawks,St. Louis Hawks,Philadelphia 76ers,6,2,8,-194554800.0,1964
+St. Louis Hawks,Baltimore Bullets,St. Louis Hawks,7,2,9,-194209200.0,1964
+St. Louis Hawks,Philadelphia 76ers,St. Louis Hawks,7,3,10,-194036400.0,1964
+St. Louis Hawks,St. Louis Hawks,Boston Celtics,7,4,11,-193950000.0,1964
+St. Louis Hawks,Boston Celtics,St. Louis Hawks,7,5,12,-193777200.0,1964
+St. Louis Hawks,New York Knicks,St. Louis Hawks,7,6,13,-193604400.0,1964
+St. Louis Hawks,St. Louis Hawks,San Francisco Warriors,8,6,14,-193518000.0,1964
+St. Louis Hawks,St. Louis Hawks,Baltimore Bullets,9,6,15,-193345200.0,1964
+St. Louis Hawks,Los Angeles Lakers,St. Louis Hawks,10,6,16,-193258800.0,1964
+St. Louis Hawks,San Francisco Warriors,St. Louis Hawks,10,7,17,-193086000.0,1964
+St. Louis Hawks,Los Angeles Lakers,St. Louis Hawks,10,8,18,-192913200.0,1964
+St. Louis Hawks,St. Louis Hawks,Cincinnati Royals,11,8,19,-192740400.0,1964
+St. Louis Hawks,Cincinnati Royals,St. Louis Hawks,11,9,20,-192654000.0,1964
+St. Louis Hawks,Detroit Pistons,St. Louis Hawks,12,9,21,-192394800.0,1964
+St. Louis Hawks,St. Louis Hawks,Detroit Pistons,13,9,22,-192308400.0,1964
+St. Louis Hawks,St. Louis Hawks,Los Angeles Lakers,13,10,23,-192135600.0,1964
+St. Louis Hawks,St. Louis Hawks,San Francisco Warriors,14,10,24,-191790000.0,1964
+St. Louis Hawks,Philadelphia 76ers,St. Louis Hawks,15,10,25,-191703600.0,1964
+St. Louis Hawks,Detroit Pistons,St. Louis Hawks,15,11,26,-191617200.0,1964
+St. Louis Hawks,St. Louis Hawks,Philadelphia 76ers,16,11,27,-191530800.0,1964
+St. Louis Hawks,Philadelphia 76ers,St. Louis Hawks,17,11,28,-191271600.0,1964
+St. Louis Hawks,Boston Celtics,St. Louis Hawks,17,12,29,-191185200.0,1964
+St. Louis Hawks,St. Louis Hawks,Detroit Pistons,18,12,30,-190926000.0,1964
+St. Louis Hawks,Los Angeles Lakers,St. Louis Hawks,19,12,31,-190839600.0,1964
+St. Louis Hawks,San Francisco Warriors,St. Louis Hawks,19,13,32,-190666800.0,1964
+St. Louis Hawks,San Francisco Warriors,St. Louis Hawks,19,14,33,-190580400.0,1964
+St. Louis Hawks,Detroit Pistons,St. Louis Hawks,20,14,34,-190321200.0,1964
+St. Louis Hawks,St. Louis Hawks,Baltimore Bullets,21,14,35,-190234800.0,1964
+St. Louis Hawks,Cincinnati Royals,St. Louis Hawks,21,15,36,-189975600.0,1964
+St. Louis Hawks,St. Louis Hawks,New York Knicks,21,16,37,-189889200.0,1964
+St. Louis Hawks,St. Louis Hawks,Boston Celtics,21,17,38,-189716400.0,1964
+St. Louis Hawks,Los Angeles Lakers,St. Louis Hawks,21,18,39,-189457200.0,1964
+St. Louis Hawks,San Francisco Warriors,St. Louis Hawks,22,18,40,-189284400.0,1964
+St. Louis Hawks,St. Louis Hawks,Detroit Pistons,23,18,41,-189025200.0,1964
+St. Louis Hawks,St. Louis Hawks,Baltimore Bullets,24,18,42,-188852400.0,1964
+St. Louis Hawks,Philadelphia 76ers,St. Louis Hawks,24,19,43,-188679600.0,1964
+St. Louis Hawks,Detroit Pistons,St. Louis Hawks,25,19,44,-188506800.0,1964
+St. Louis Hawks,St. Louis Hawks,Baltimore Bullets,25,20,45,-188420400.0,1964
+St. Louis Hawks,St. Louis Hawks,Los Angeles Lakers,25,21,46,-188161200.0,1964
+St. Louis Hawks,Cincinnati Royals,St. Louis Hawks,26,21,47,-187902000.0,1964
+St. Louis Hawks,St. Louis Hawks,Cincinnati Royals,27,21,48,-187815600.0,1964
+St. Louis Hawks,St. Louis Hawks,Boston Celtics,28,21,49,-187642800.0,1964
+St. Louis Hawks,Boston Celtics,St. Louis Hawks,28,22,50,-187470000.0,1964
+St. Louis Hawks,Boston Celtics,St. Louis Hawks,28,23,51,-187383600.0,1964
+St. Louis Hawks,Detroit Pistons,St. Louis Hawks,29,23,52,-187297200.0,1964
+St. Louis Hawks,St. Louis Hawks,Detroit Pistons,30,23,53,-187210800.0,1964
+St. Louis Hawks,St. Louis Hawks,New York Knicks,30,24,54,-186951600.0,1964
+St. Louis Hawks,St. Louis Hawks,Los Angeles Lakers,31,24,55,-186692400.0,1964
+St. Louis Hawks,St. Louis Hawks,Los Angeles Lakers,32,24,56,-186606000.0,1964
+St. Louis Hawks,Boston Celtics,St. Louis Hawks,32,25,57,-186433200.0,1964
+St. Louis Hawks,Baltimore Bullets,St. Louis Hawks,32,26,58,-186346800.0,1964
+St. Louis Hawks,St. Louis Hawks,San Francisco Warriors,32,27,59,-186087600.0,1964
+St. Louis Hawks,St. Louis Hawks,San Francisco Warriors,33,27,60,-186001200.0,1964
+St. Louis Hawks,St. Louis Hawks,New York Knicks,34,27,61,-185828400.0,1964
+St. Louis Hawks,St. Louis Hawks,Philadelphia 76ers,35,27,62,-185482800.0,1964
+St. Louis Hawks,Baltimore Bullets,St. Louis Hawks,36,27,63,-185310000.0,1964
+St. Louis Hawks,New York Knicks,St. Louis Hawks,36,28,64,-185137200.0,1964
+St. Louis Hawks,Baltimore Bullets,St. Louis Hawks,36,29,65,-184964400.0,1964
+St. Louis Hawks,St. Louis Hawks,Boston Celtics,37,29,66,-184878000.0,1964
+St. Louis Hawks,Philadelphia 76ers,St. Louis Hawks,38,29,67,-184618800.0,1964
+St. Louis Hawks,St. Louis Hawks,San Francisco Warriors,38,30,68,-184446000.0,1964
+St. Louis Hawks,St. Louis Hawks,Los Angeles Lakers,39,30,69,-184273200.0,1964
+St. Louis Hawks,Los Angeles Lakers,St. Louis Hawks,39,31,70,-184186800.0,1964
+St. Louis Hawks,San Francisco Warriors,St. Louis Hawks,40,31,71,-184100400.0,1964
+St. Louis Hawks,Los Angeles Lakers,St. Louis Hawks,41,31,72,-183927600.0,1964
+St. Louis Hawks,San Francisco Warriors,St. Louis Hawks,42,31,73,-183841200.0,1964
+St. Louis Hawks,St. Louis Hawks,Baltimore Bullets,43,31,74,-183582000.0,1964
+St. Louis Hawks,New York Knicks,St. Louis Hawks,44,31,75,-183409200.0,1964
+St. Louis Hawks,St. Louis Hawks,Philadelphia 76ers,44,32,76,-183322800.0,1964
+St. Louis Hawks,St. Louis Hawks,Cincinnati Royals,45,32,77,-183063600.0,1964
+St. Louis Hawks,Cincinnati Royals,St. Louis Hawks,45,33,78,-182977200.0,1964
+St. Louis Hawks,St. Louis Hawks,Detroit Pistons,46,33,79,-182804400.0,1964
+St. Louis Hawks,Detroit Pistons,St. Louis Hawks,46,34,80,-182718000.0,1964

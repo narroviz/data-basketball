@@ -1,0 +1,2461 @@
+id,home_team,away_team,win,loss,game_number,date,year
+Atlanta Hawks,Atlanta Hawks,Dallas Mavericks,1,0,1,1194046200.0,2008
+Atlanta Hawks,Detroit Pistons,Atlanta Hawks,1,1,2,1194222600.0,2008
+Atlanta Hawks,New Jersey Nets,Atlanta Hawks,1,2,3,1194395400.0,2008
+Atlanta Hawks,Atlanta Hawks,Phoenix Suns,2,2,4,1194480000.0,2008
+Atlanta Hawks,Boston Celtics,Atlanta Hawks,2,3,5,1194654600.0,2008
+Atlanta Hawks,Atlanta Hawks,Washington Wizards,2,4,6,1194807600.0,2008
+Atlanta Hawks,Atlanta Hawks,Charlotte Bobcats,3,4,7,1195084800.0,2008
+Atlanta Hawks,Atlanta Hawks,Seattle Supersonics,3,5,8,1195259400.0,2008
+Atlanta Hawks,Milwaukee Bucks,Atlanta Hawks,3,6,9,1195349400.0,2008
+Atlanta Hawks,Atlanta Hawks,San Antonio Spurs,3,7,10,1195603200.0,2008
+Atlanta Hawks,Miami Heat,Atlanta Hawks,4,7,11,1195691400.0,2008
+Atlanta Hawks,Minnesota Timberwolves,Atlanta Hawks,5,7,12,1195952400.0,2008
+Atlanta Hawks,Chicago Bulls,Atlanta Hawks,5,8,13,1196213400.0,2008
+Atlanta Hawks,Atlanta Hawks,Milwaukee Bucks,6,8,14,1196294400.0,2008
+Atlanta Hawks,Atlanta Hawks,New Orleans Hornets,6,9,15,1196469000.0,2008
+Atlanta Hawks,Philadelphia 76ers,Atlanta Hawks,7,9,16,1196726400.0,2008
+Atlanta Hawks,Atlanta Hawks,Detroit Pistons,7,10,17,1196812800.0,2008
+Atlanta Hawks,Atlanta Hawks,Minnesota Timberwolves,8,10,18,1196985600.0,2008
+Atlanta Hawks,Atlanta Hawks,Memphis Grizzlies,9,10,19,1197158400.0,2008
+Atlanta Hawks,Orlando Magic,Atlanta Hawks,10,10,20,1197331200.0,2008
+Atlanta Hawks,Atlanta Hawks,Toronto Raptors,10,11,21,1197417600.0,2008
+Atlanta Hawks,Detroit Pistons,Atlanta Hawks,10,12,22,1197680400.0,2008
+Atlanta Hawks,Atlanta Hawks,Charlotte Bobcats,11,12,23,1197763200.0,2008
+Atlanta Hawks,Atlanta Hawks,Utah Jazz,12,12,24,1197936000.0,2008
+Atlanta Hawks,Atlanta Hawks,Miami Heat,13,12,25,1198108800.0,2008
+Atlanta Hawks,Washington Wizards,Atlanta Hawks,14,12,26,1198281600.0,2008
+Atlanta Hawks,Atlanta Hawks,Indiana Pacers,15,12,27,1198713600.0,2008
+Atlanta Hawks,Dallas Mavericks,Atlanta Hawks,15,13,28,1198951200.0,2008
+Atlanta Hawks,Cleveland Cavaliers,Atlanta Hawks,15,14,29,1199318400.0,2008
+Atlanta Hawks,Indiana Pacers,Atlanta Hawks,15,15,30,1199491200.0,2008
+Atlanta Hawks,Atlanta Hawks,New Jersey Nets,15,16,31,1199577600.0,2008
+Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,16,16,32,1199923200.0,2008
+Atlanta Hawks,Atlanta Hawks,Washington Wizards,16,17,33,1200097800.0,2008
+Atlanta Hawks,Atlanta Hawks,Chicago Bulls,17,17,34,1200250800.0,2008
+Atlanta Hawks,Atlanta Hawks,Denver Nuggets,18,17,35,1200441600.0,2008
+Atlanta Hawks,Milwaukee Bucks,Atlanta Hawks,18,18,36,1200531600.0,2008
+Atlanta Hawks,Toronto Raptors,Atlanta Hawks,18,19,37,1200700800.0,2008
+Atlanta Hawks,Atlanta Hawks,Portland Trail Blazers,18,20,38,1200942000.0,2008
+Atlanta Hawks,Denver Nuggets,Atlanta Hawks,18,21,39,1201140000.0,2008
+Atlanta Hawks,Seattle Supersonics,Atlanta Hawks,19,21,40,1201318200.0,2008
+Atlanta Hawks,Portland Trail Blazers,Atlanta Hawks,19,22,41,1201474800.0,2008
+Atlanta Hawks,Phoenix Suns,Atlanta Hawks,19,23,42,1201658400.0,2008
+Atlanta Hawks,Los Angeles Clippers,Atlanta Hawks,19,24,43,1201750200.0,2008
+Atlanta Hawks,Atlanta Hawks,New Jersey Nets,20,24,44,1201996800.0,2008
+Atlanta Hawks,Atlanta Hawks,Philadelphia 76ers,21,24,45,1202169600.0,2008
+Atlanta Hawks,Atlanta Hawks,Los Angeles Lakers,22,24,46,1202342400.0,2008
+Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,22,25,47,1202517000.0,2008
+Atlanta Hawks,Houston Rockets,Atlanta Hawks,22,26,48,1202607000.0,2008
+Atlanta Hawks,Atlanta Hawks,Detroit Pistons,22,27,49,1202860800.0,2008
+Atlanta Hawks,Charlotte Bobcats,Atlanta Hawks,22,28,50,1202947200.0,2008
+Atlanta Hawks,Los Angeles Lakers,Atlanta Hawks,22,29,51,1203478200.0,2008
+Atlanta Hawks,Sacramento Kings,Atlanta Hawks,22,30,52,1203562800.0,2008
+Atlanta Hawks,Golden State Warriors,Atlanta Hawks,23,30,53,1203737400.0,2008
+Atlanta Hawks,Utah Jazz,Atlanta Hawks,23,31,54,1203818400.0,2008
+Atlanta Hawks,San Antonio Spurs,Atlanta Hawks,23,32,55,1203989400.0,2008
+Atlanta Hawks,Atlanta Hawks,Sacramento Kings,24,32,56,1204156800.0,2008
+Atlanta Hawks,Atlanta Hawks,New York Knicks,25,32,57,1204331400.0,2008
+Atlanta Hawks,Boston Celtics,Atlanta Hawks,25,33,58,1204498800.0,2008
+Atlanta Hawks,Atlanta Hawks,Golden State Warriors,25,34,59,1204675200.0,2008
+Atlanta Hawks,New Orleans Hornets,Atlanta Hawks,25,35,60,1204765200.0,2008
+Atlanta Hawks,Charlotte Bobcats,Atlanta Hawks,25,36,61,1204934400.0,2008
+Atlanta Hawks,Atlanta Hawks,Miami Heat,26,36,62,1205020800.0,2008
+Atlanta Hawks,Orlando Magic,Atlanta Hawks,26,37,63,1205190000.0,2008
+Atlanta Hawks,Atlanta Hawks,Houston Rockets,26,38,64,1205362800.0,2008
+Atlanta Hawks,Atlanta Hawks,Los Angeles Clippers,27,38,65,1205537400.0,2008
+Atlanta Hawks,New York Knicks,Atlanta Hawks,28,38,66,1205704800.0,2008
+Atlanta Hawks,Washington Wizards,Atlanta Hawks,29,38,67,1205794800.0,2008
+Atlanta Hawks,New Jersey Nets,Atlanta Hawks,29,39,68,1205969400.0,2008
+Atlanta Hawks,Atlanta Hawks,Orlando Magic,30,39,69,1206226800.0,2008
+Atlanta Hawks,Chicago Bulls,Atlanta Hawks,30,40,70,1206491400.0,2008
+Atlanta Hawks,Atlanta Hawks,Milwaukee Bucks,31,40,71,1206572400.0,2008
+Atlanta Hawks,Atlanta Hawks,Chicago Bulls,32,40,72,1206747000.0,2008
+Atlanta Hawks,Atlanta Hawks,New York Knicks,33,40,73,1206907200.0,2008
+Atlanta Hawks,Memphis Grizzlies,Atlanta Hawks,34,40,74,1207008000.0,2008
+Atlanta Hawks,Atlanta Hawks,Toronto Raptors,35,40,75,1207177200.0,2008
+Atlanta Hawks,Atlanta Hawks,Philadelphia 76ers,35,41,76,1207351800.0,2008
+Atlanta Hawks,Philadelphia 76ers,Atlanta Hawks,36,41,77,1207436400.0,2008
+Atlanta Hawks,Indiana Pacers,Atlanta Hawks,36,42,78,1207695600.0,2008
+Atlanta Hawks,New York Knicks,Atlanta Hawks,37,42,79,1207956600.0,2008
+Atlanta Hawks,Atlanta Hawks,Boston Celtics,37,43,80,1208041200.0,2008
+Atlanta Hawks,Atlanta Hawks,Orlando Magic,37,44,81,1208300400.0,2008
+Atlanta Hawks,Miami Heat,Atlanta Hawks,37,45,82,1208388600.0,2008
+Boston Celtics,Boston Celtics,Washington Wizards,1,0,1,1194048000.0,2008
+Boston Celtics,Toronto Raptors,Boston Celtics,2,0,2,1194204600.0,2008
+Boston Celtics,Boston Celtics,Denver Nuggets,3,0,3,1194481800.0,2008
+Boston Celtics,Boston Celtics,Atlanta Hawks,4,0,4,1194654600.0,2008
+Boston Celtics,New Jersey Nets,Boston Celtics,5,0,5,1194741000.0,2008
+Boston Celtics,Indiana Pacers,Boston Celtics,6,0,6,1194998400.0,2008
+Boston Celtics,Boston Celtics,New Jersey Nets,7,0,7,1195086600.0,2008
+Boston Celtics,Boston Celtics,Miami Heat,8,0,8,1195259400.0,2008
+Boston Celtics,Orlando Magic,Boston Celtics,8,1,9,1195426800.0,2008
+Boston Celtics,Boston Celtics,Golden State Warriors,9,1,10,1195691400.0,2008
+Boston Celtics,Boston Celtics,Los Angeles Lakers,10,1,11,1195864200.0,2008
+Boston Celtics,Charlotte Bobcats,Boston Celtics,11,1,12,1195948800.0,2008
+Boston Celtics,Cleveland Cavaliers,Boston Celtics,11,2,13,1196208000.0,2008
+Boston Celtics,Boston Celtics,New York Knicks,12,2,14,1196384400.0,2008
+Boston Celtics,Miami Heat,Boston Celtics,13,2,15,1196470800.0,2008
+Boston Celtics,Boston Celtics,Cleveland Cavaliers,14,2,16,1196616600.0,2008
+Boston Celtics,Philadelphia 76ers,Boston Celtics,15,2,17,1196899200.0,2008
+Boston Celtics,Boston Celtics,Toronto Raptors,16,2,18,1197073800.0,2008
+Boston Celtics,Chicago Bulls,Boston Celtics,17,2,19,1197163800.0,2008
+Boston Celtics,Boston Celtics,Sacramento Kings,18,2,20,1197505800.0,2008
+Boston Celtics,Boston Celtics,Milwaukee Bucks,19,2,21,1197678600.0,2008
+Boston Celtics,Toronto Raptors,Boston Celtics,20,2,22,1197828000.0,2008
+Boston Celtics,Boston Celtics,Detroit Pistons,20,3,23,1198108800.0,2008
+Boston Celtics,Boston Celtics,Chicago Bulls,21,3,24,1198281600.0,2008
+Boston Celtics,Boston Celtics,Orlando Magic,22,3,25,1198452600.0,2008
+Boston Celtics,Sacramento Kings,Boston Celtics,23,3,26,1198724400.0,2008
+Boston Celtics,Seattle Supersonics,Boston Celtics,24,3,27,1198812600.0,2008
+Boston Celtics,Utah Jazz,Boston Celtics,25,3,28,1198980000.0,2008
+Boston Celtics,Los Angeles Lakers,Boston Celtics,26,3,29,1199070000.0,2008
+Boston Celtics,Boston Celtics,Houston Rockets,27,3,30,1199320200.0,2008
+Boston Celtics,Boston Celtics,Memphis Grizzlies,28,3,31,1199493000.0,2008
+Boston Celtics,Detroit Pistons,Boston Celtics,29,3,32,1199579400.0,2008
+Boston Celtics,Boston Celtics,Charlotte Bobcats,29,4,33,1199925000.0,2008
+Boston Celtics,New Jersey Nets,Boston Celtics,30,4,34,1200097800.0,2008
+Boston Celtics,Washington Wizards,Boston Celtics,30,5,35,1200184200.0,2008
+Boston Celtics,Boston Celtics,Washington Wizards,30,6,36,1200357000.0,2008
+Boston Celtics,Boston Celtics,Portland Trail Blazers,31,6,37,1200529800.0,2008
+Boston Celtics,Boston Celtics,Philadelphia 76ers,32,6,38,1200702600.0,2008
+Boston Celtics,New York Knicks,Boston Celtics,33,6,39,1200938400.0,2008
+Boston Celtics,Boston Celtics,Toronto Raptors,33,7,40,1201134600.0,2008
+Boston Celtics,Boston Celtics,Minnesota Timberwolves,34,7,41,1201307400.0,2008
+Boston Celtics,Orlando Magic,Boston Celtics,34,8,42,1201456800.0,2008
+Boston Celtics,Miami Heat,Boston Celtics,35,8,43,1201653000.0,2008
+Boston Celtics,Boston Celtics,Dallas Mavericks,36,8,44,1201827600.0,2008
+Boston Celtics,Cleveland Cavaliers,Boston Celtics,36,9,45,1202256000.0,2008
+Boston Celtics,Boston Celtics,Los Angeles Clippers,37,9,46,1202344200.0,2008
+Boston Celtics,Minnesota Timberwolves,Boston Celtics,38,9,47,1202518800.0,2008
+Boston Celtics,Boston Celtics,San Antonio Spurs,39,9,48,1202666400.0,2008
+Boston Celtics,Indiana Pacers,Boston Celtics,40,9,49,1202860800.0,2008
+Boston Celtics,Boston Celtics,New York Knicks,41,9,50,1202949000.0,2008
+Boston Celtics,Denver Nuggets,Boston Celtics,41,10,51,1203472800.0,2008
+Boston Celtics,Golden State Warriors,Boston Celtics,41,11,52,1203564600.0,2008
+Boston Celtics,Phoenix Suns,Boston Celtics,41,12,53,1203737400.0,2008
+Boston Celtics,Portland Trail Blazers,Boston Celtics,42,12,54,1203894000.0,2008
+Boston Celtics,Los Angeles Clippers,Boston Celtics,43,12,55,1203996600.0,2008
+Boston Celtics,Boston Celtics,Cleveland Cavaliers,44,12,56,1204158600.0,2008
+Boston Celtics,Boston Celtics,Charlotte Bobcats,45,12,57,1204331400.0,2008
+Boston Celtics,Boston Celtics,Atlanta Hawks,46,12,58,1204498800.0,2008
+Boston Celtics,Boston Celtics,Detroit Pistons,47,12,59,1204763400.0,2008
+Boston Celtics,Boston Celtics,Chicago Bulls,48,12,60,1204938000.0,2008
+Boston Celtics,Memphis Grizzlies,Boston Celtics,49,12,61,1205024400.0,2008
+Boston Celtics,Philadelphia 76ers,Boston Celtics,50,12,62,1205190000.0,2008
+Boston Celtics,Boston Celtics,Seattle Supersonics,51,12,63,1205364600.0,2008
+Boston Celtics,Boston Celtics,Utah Jazz,51,13,64,1205537400.0,2008
+Boston Celtics,Milwaukee Bucks,Boston Celtics,52,13,65,1205627400.0,2008
+Boston Celtics,San Antonio Spurs,Boston Celtics,53,13,66,1205800200.0,2008
+Boston Celtics,Houston Rockets,Boston Celtics,54,13,67,1205890200.0,2008
+Boston Celtics,Dallas Mavericks,Boston Celtics,55,13,68,1206057600.0,2008
+Boston Celtics,New Orleans Hornets,Boston Celtics,55,14,69,1206230400.0,2008
+Boston Celtics,Boston Celtics,Philadelphia 76ers,55,15,70,1206401400.0,2008
+Boston Celtics,Boston Celtics,Phoenix Suns,56,15,71,1206572400.0,2008
+Boston Celtics,Boston Celtics,New Orleans Hornets,57,15,72,1206747000.0,2008
+Boston Celtics,Boston Celtics,Miami Heat,58,15,73,1206914400.0,2008
+Boston Celtics,Chicago Bulls,Boston Celtics,59,15,74,1207096200.0,2008
+Boston Celtics,Boston Celtics,Indiana Pacers,60,15,75,1207177200.0,2008
+Boston Celtics,Charlotte Bobcats,Boston Celtics,61,15,76,1207436400.0,2008
+Boston Celtics,Milwaukee Bucks,Boston Celtics,62,15,77,1207699200.0,2008
+Boston Celtics,Washington Wizards,Boston Celtics,62,16,78,1207782000.0,2008
+Boston Celtics,Boston Celtics,Milwaukee Bucks,63,16,79,1207956600.0,2008
+Boston Celtics,Atlanta Hawks,Boston Celtics,64,16,80,1208041200.0,2008
+Boston Celtics,New York Knicks,Boston Celtics,65,16,81,1208215800.0,2008
+Boston Celtics,Boston Celtics,New Jersey Nets,66,16,82,1208388600.0,2008
+Charlotte Bobcats,Charlotte Bobcats,Milwaukee Bucks,1,0,1,1194044400.0,2008
+Charlotte Bobcats,Miami Heat,Charlotte Bobcats,2,0,2,1194217200.0,2008
+Charlotte Bobcats,Charlotte Bobcats,Phoenix Suns,2,1,3,1194393600.0,2008
+Charlotte Bobcats,Philadelphia 76ers,Charlotte Bobcats,2,2,4,1194480000.0,2008
+Charlotte Bobcats,Charlotte Bobcats,Indiana Pacers,3,2,5,1194652800.0,2008
+Charlotte Bobcats,Charlotte Bobcats,Houston Rockets,3,3,6,1194822000.0,2008
+Charlotte Bobcats,Charlotte Bobcats,Miami Heat,4,3,7,1194998400.0,2008
+Charlotte Bobcats,Atlanta Hawks,Charlotte Bobcats,4,4,8,1195084800.0,2008
+Charlotte Bobcats,Charlotte Bobcats,Seattle Supersonics,5,4,9,1195344000.0,2008
+Charlotte Bobcats,Charlotte Bobcats,Portland Trail Blazers,6,4,10,1195516800.0,2008
+Charlotte Bobcats,Charlotte Bobcats,Washington Wizards,6,5,11,1195689600.0,2008
+Charlotte Bobcats,Orlando Magic,Charlotte Bobcats,6,6,12,1195862400.0,2008
+Charlotte Bobcats,Charlotte Bobcats,Boston Celtics,6,7,13,1195948800.0,2008
+Charlotte Bobcats,Miami Heat,Charlotte Bobcats,6,8,14,1196209800.0,2008
+Charlotte Bobcats,Chicago Bulls,Charlotte Bobcats,6,9,15,1196559000.0,2008
+Charlotte Bobcats,Toronto Raptors,Charlotte Bobcats,6,10,16,1196726400.0,2008
+Charlotte Bobcats,Charlotte Bobcats,Chicago Bulls,6,11,17,1196899200.0,2008
+Charlotte Bobcats,Charlotte Bobcats,Cleveland Cavaliers,7,11,18,1197158400.0,2008
+Charlotte Bobcats,Detroit Pistons,Charlotte Bobcats,7,12,19,1197241200.0,2008
+Charlotte Bobcats,Charlotte Bobcats,Los Angeles Clippers,8,12,20,1197504000.0,2008
+Charlotte Bobcats,Charlotte Bobcats,Orlando Magic,8,13,21,1197680400.0,2008
+Charlotte Bobcats,Atlanta Hawks,Charlotte Bobcats,8,14,22,1197763200.0,2008
+Charlotte Bobcats,Charlotte Bobcats,Utah Jazz,9,14,23,1198108800.0,2008
+Charlotte Bobcats,Charlotte Bobcats,New York Knicks,10,14,24,1198281600.0,2008
+Charlotte Bobcats,Milwaukee Bucks,Charlotte Bobcats,10,15,25,1198373400.0,2008
+Charlotte Bobcats,Charlotte Bobcats,Washington Wizards,10,16,26,1198713600.0,2008
+Charlotte Bobcats,Charlotte Bobcats,New Orleans Hornets,10,17,27,1198886400.0,2008
+Charlotte Bobcats,Orlando Magic,Charlotte Bobcats,10,18,28,1198972800.0,2008
+Charlotte Bobcats,Charlotte Bobcats,Indiana Pacers,11,18,29,1199127600.0,2008
+Charlotte Bobcats,Charlotte Bobcats,Chicago Bulls,11,19,30,1199318400.0,2008
+Charlotte Bobcats,New Jersey Nets,Charlotte Bobcats,11,20,31,1199493000.0,2008
+Charlotte Bobcats,Charlotte Bobcats,Milwaukee Bucks,11,21,32,1199660400.0,2008
+Charlotte Bobcats,Charlotte Bobcats,New Jersey Nets,12,21,33,1199836800.0,2008
+Charlotte Bobcats,Boston Celtics,Charlotte Bobcats,13,21,34,1199925000.0,2008
+Charlotte Bobcats,Cleveland Cavaliers,Charlotte Bobcats,13,22,35,1200097800.0,2008
+Charlotte Bobcats,Charlotte Bobcats,Detroit Pistons,13,23,36,1200182400.0,2008
+Charlotte Bobcats,Charlotte Bobcats,Denver Nuggets,14,23,37,1200355200.0,2008
+Charlotte Bobcats,Charlotte Bobcats,Orlando Magic,15,23,38,1200528000.0,2008
+Charlotte Bobcats,New Orleans Hornets,Charlotte Bobcats,15,24,39,1200704400.0,2008
+Charlotte Bobcats,Charlotte Bobcats,Memphis Grizzlies,16,24,40,1200787200.0,2008
+Charlotte Bobcats,Charlotte Bobcats,San Antonio Spurs,16,25,41,1200938400.0,2008
+Charlotte Bobcats,Charlotte Bobcats,Dallas Mavericks,16,26,42,1201132800.0,2008
+Charlotte Bobcats,Chicago Bulls,Charlotte Bobcats,17,26,43,1201311000.0,2008
+Charlotte Bobcats,Charlotte Bobcats,Philadelphia 76ers,17,27,44,1201392000.0,2008
+Charlotte Bobcats,Los Angeles Clippers,Charlotte Bobcats,18,27,45,1201577400.0,2008
+Charlotte Bobcats,Sacramento Kings,Charlotte Bobcats,18,28,46,1201748400.0,2008
+Charlotte Bobcats,Golden State Warriors,Charlotte Bobcats,18,29,47,1201923000.0,2008
+Charlotte Bobcats,Denver Nuggets,Charlotte Bobcats,18,30,48,1202004000.0,2008
+Charlotte Bobcats,Phoenix Suns,Charlotte Bobcats,18,31,49,1202176800.0,2008
+Charlotte Bobcats,Charlotte Bobcats,New Jersey Nets,18,32,50,1202515200.0,2008
+Charlotte Bobcats,Detroit Pistons,Charlotte Bobcats,18,33,51,1202684400.0,2008
+Charlotte Bobcats,Charlotte Bobcats,Los Angeles Lakers,18,34,52,1202774400.0,2008
+Charlotte Bobcats,Charlotte Bobcats,Atlanta Hawks,19,34,53,1202947200.0,2008
+Charlotte Bobcats,San Antonio Spurs,Charlotte Bobcats,19,35,54,1203471000.0,2008
+Charlotte Bobcats,Charlotte Bobcats,Sacramento Kings,19,36,55,1203724800.0,2008
+Charlotte Bobcats,Washington Wizards,Charlotte Bobcats,19,37,56,1203811200.0,2008
+Charlotte Bobcats,New York Knicks,Charlotte Bobcats,19,38,57,1204158600.0,2008
+Charlotte Bobcats,Boston Celtics,Charlotte Bobcats,19,39,58,1204331400.0,2008
+Charlotte Bobcats,Charlotte Bobcats,Toronto Raptors,20,39,59,1204498800.0,2008
+Charlotte Bobcats,Minnesota Timberwolves,Charlotte Bobcats,21,39,60,1204678800.0,2008
+Charlotte Bobcats,Charlotte Bobcats,Golden State Warriors,22,39,61,1204761600.0,2008
+Charlotte Bobcats,Charlotte Bobcats,Atlanta Hawks,23,39,62,1204934400.0,2008
+Charlotte Bobcats,Washington Wizards,Charlotte Bobcats,24,39,63,1205020800.0,2008
+Charlotte Bobcats,Dallas Mavericks,Charlotte Bobcats,24,40,64,1205368200.0,2008
+Charlotte Bobcats,Houston Rockets,Charlotte Bobcats,24,41,65,1205541000.0,2008
+Charlotte Bobcats,Cleveland Cavaliers,Charlotte Bobcats,24,42,66,1205704800.0,2008
+Charlotte Bobcats,Memphis Grizzlies,Charlotte Bobcats,24,43,67,1205798400.0,2008
+Charlotte Bobcats,Indiana Pacers,Charlotte Bobcats,24,44,68,1205967600.0,2008
+Charlotte Bobcats,Charlotte Bobcats,Miami Heat,25,44,69,1206226800.0,2008
+Charlotte Bobcats,Utah Jazz,Charlotte Bobcats,25,45,70,1206493200.0,2008
+Charlotte Bobcats,Los Angeles Lakers,Charlotte Bobcats,26,45,71,1206585000.0,2008
+Charlotte Bobcats,Seattle Supersonics,Charlotte Bobcats,27,45,72,1206757800.0,2008
+Charlotte Bobcats,Portland Trail Blazers,Charlotte Bobcats,28,45,73,1206842400.0,2008
+Charlotte Bobcats,Charlotte Bobcats,Toronto Raptors,28,46,74,1207004400.0,2008
+Charlotte Bobcats,Charlotte Bobcats,Cleveland Cavaliers,28,47,75,1207177200.0,2008
+Charlotte Bobcats,Toronto Raptors,Charlotte Bobcats,29,47,76,1207350000.0,2008
+Charlotte Bobcats,Charlotte Bobcats,Boston Celtics,29,48,77,1207436400.0,2008
+Charlotte Bobcats,Charlotte Bobcats,Minnesota Timberwolves,30,48,78,1207695600.0,2008
+Charlotte Bobcats,New York Knicks,Charlotte Bobcats,30,49,79,1207783800.0,2008
+Charlotte Bobcats,Indiana Pacers,Charlotte Bobcats,31,49,80,1208041200.0,2008
+Charlotte Bobcats,New Jersey Nets,Charlotte Bobcats,31,50,81,1208302200.0,2008
+Charlotte Bobcats,Charlotte Bobcats,Philadelphia 76ers,32,50,82,1208386800.0,2008
+Chicago Bulls,New Jersey Nets,Chicago Bulls,0,1,1,1193873400.0,2008
+Chicago Bulls,Chicago Bulls,Philadelphia 76ers,0,2,2,1194049800.0,2008
+Chicago Bulls,Milwaukee Bucks,Chicago Bulls,0,3,3,1194136200.0,2008
+Chicago Bulls,Chicago Bulls,Los Angeles Clippers,0,4,4,1194399000.0,2008
+Chicago Bulls,Chicago Bulls,Detroit Pistons,1,4,5,1194570000.0,2008
+Chicago Bulls,Chicago Bulls,Toronto Raptors,1,5,6,1194744600.0,2008
+Chicago Bulls,Phoenix Suns,Chicago Bulls,1,6,7,1195183800.0,2008
+Chicago Bulls,Los Angeles Clippers,Chicago Bulls,2,6,8,1195356600.0,2008
+Chicago Bulls,Los Angeles Lakers,Chicago Bulls,2,7,9,1195439400.0,2008
+Chicago Bulls,Denver Nuggets,Chicago Bulls,2,8,10,1195610400.0,2008
+Chicago Bulls,New York Knicks,Chicago Bulls,2,9,11,1195927200.0,2008
+Chicago Bulls,Toronto Raptors,Chicago Bulls,2,10,12,1196010000.0,2008
+Chicago Bulls,Chicago Bulls,Atlanta Hawks,3,10,13,1196213400.0,2008
+Chicago Bulls,Chicago Bulls,Charlotte Bobcats,4,10,14,1196559000.0,2008
+Chicago Bulls,Chicago Bulls,Dallas Mavericks,4,11,15,1196731800.0,2008
+Chicago Bulls,Charlotte Bobcats,Chicago Bulls,5,11,16,1196899200.0,2008
+Chicago Bulls,Detroit Pistons,Chicago Bulls,6,11,17,1197072000.0,2008
+Chicago Bulls,Chicago Bulls,Boston Celtics,6,12,18,1197163800.0,2008
+Chicago Bulls,Chicago Bulls,Seattle Supersonics,7,12,19,1197423000.0,2008
+Chicago Bulls,Indiana Pacers,Chicago Bulls,7,13,20,1197504000.0,2008
+Chicago Bulls,Chicago Bulls,New York Knicks,8,13,21,1197682200.0,2008
+Chicago Bulls,Chicago Bulls,Los Angeles Lakers,8,14,22,1198027800.0,2008
+Chicago Bulls,Washington Wizards,Chicago Bulls,9,14,23,1198108800.0,2008
+Chicago Bulls,Boston Celtics,Chicago Bulls,9,15,24,1198281600.0,2008
+Chicago Bulls,Chicago Bulls,Houston Rockets,9,16,25,1198373400.0,2008
+Chicago Bulls,San Antonio Spurs,Chicago Bulls,9,17,26,1198719000.0,2008
+Chicago Bulls,Chicago Bulls,Milwaukee Bucks,10,17,27,1198891800.0,2008
+Chicago Bulls,New York Knicks,Chicago Bulls,11,17,28,1199034000.0,2008
+Chicago Bulls,Chicago Bulls,Orlando Magic,11,18,29,1199127600.0,2008
+Chicago Bulls,Charlotte Bobcats,Chicago Bulls,12,18,30,1199318400.0,2008
+Chicago Bulls,Chicago Bulls,Portland Trail Blazers,12,19,31,1199408400.0,2008
+Chicago Bulls,Chicago Bulls,Sacramento Kings,13,19,32,1199583000.0,2008
+Chicago Bulls,Chicago Bulls,New York Knicks,13,20,33,1199842200.0,2008
+Chicago Bulls,Philadelphia 76ers,Chicago Bulls,14,20,34,1200096000.0,2008
+Chicago Bulls,Atlanta Hawks,Chicago Bulls,14,21,35,1200250800.0,2008
+Chicago Bulls,Orlando Magic,Chicago Bulls,14,22,36,1200441600.0,2008
+Chicago Bulls,Miami Heat,Chicago Bulls,15,22,37,1200528000.0,2008
+Chicago Bulls,Chicago Bulls,Golden State Warriors,15,23,38,1200709800.0,2008
+Chicago Bulls,Chicago Bulls,Detroit Pistons,16,23,39,1200792600.0,2008
+Chicago Bulls,Memphis Grizzlies,Chicago Bulls,16,24,40,1200954600.0,2008
+Chicago Bulls,Chicago Bulls,Indiana Pacers,17,24,41,1201138200.0,2008
+Chicago Bulls,Chicago Bulls,Charlotte Bobcats,17,25,42,1201311000.0,2008
+Chicago Bulls,Chicago Bulls,Phoenix Suns,17,26,43,1201456800.0,2008
+Chicago Bulls,Chicago Bulls,Minnesota Timberwolves,18,26,44,1201656600.0,2008
+Chicago Bulls,Minnesota Timberwolves,Chicago Bulls,18,27,45,1201741200.0,2008
+Chicago Bulls,Sacramento Kings,Chicago Bulls,18,28,46,1202007600.0,2008
+Chicago Bulls,Seattle Supersonics,Chicago Bulls,19,28,47,1202180400.0,2008
+Chicago Bulls,Portland Trail Blazers,Chicago Bulls,19,29,48,1202353200.0,2008
+Chicago Bulls,Golden State Warriors,Chicago Bulls,20,29,49,1202441400.0,2008
+Chicago Bulls,Utah Jazz,Chicago Bulls,20,30,50,1202608800.0,2008
+Chicago Bulls,Chicago Bulls,New Orleans Hornets,20,31,51,1202866200.0,2008
+Chicago Bulls,Chicago Bulls,Miami Heat,21,31,52,1203037200.0,2008
+Chicago Bulls,New Jersey Nets,Chicago Bulls,21,32,53,1203553800.0,2008
+Chicago Bulls,Chicago Bulls,Denver Nuggets,22,32,54,1203728400.0,2008
+Chicago Bulls,Houston Rockets,Chicago Bulls,22,33,55,1203901200.0,2008
+Chicago Bulls,Dallas Mavericks,Chicago Bulls,22,34,56,1203989400.0,2008
+Chicago Bulls,Indiana Pacers,Chicago Bulls,23,34,57,1204156800.0,2008
+Chicago Bulls,Chicago Bulls,Washington Wizards,23,35,58,1204333200.0,2008
+Chicago Bulls,Cleveland Cavaliers,Chicago Bulls,23,36,59,1204480800.0,2008
+Chicago Bulls,Chicago Bulls,Memphis Grizzlies,24,36,60,1204680600.0,2008
+Chicago Bulls,Chicago Bulls,Cleveland Cavaliers,25,36,61,1204848000.0,2008
+Chicago Bulls,Boston Celtics,Chicago Bulls,25,37,62,1204938000.0,2008
+Chicago Bulls,Detroit Pistons,Chicago Bulls,25,38,63,1205107200.0,2008
+Chicago Bulls,Chicago Bulls,Utah Jazz,26,38,64,1205281800.0,2008
+Chicago Bulls,Chicago Bulls,Philadelphia 76ers,26,39,65,1205541000.0,2008
+Chicago Bulls,New Orleans Hornets,Chicago Bulls,26,40,66,1205798400.0,2008
+Chicago Bulls,Chicago Bulls,New Jersey Nets,27,40,67,1205886600.0,2008
+Chicago Bulls,Chicago Bulls,San Antonio Spurs,27,41,68,1206057600.0,2008
+Chicago Bulls,Chicago Bulls,Indiana Pacers,27,42,69,1206232200.0,2008
+Chicago Bulls,Chicago Bulls,Atlanta Hawks,28,42,70,1206491400.0,2008
+Chicago Bulls,Philadelphia 76ers,Chicago Bulls,28,43,71,1206572400.0,2008
+Chicago Bulls,Atlanta Hawks,Chicago Bulls,28,44,72,1206747000.0,2008
+Chicago Bulls,Chicago Bulls,Milwaukee Bucks,29,44,73,1206837000.0,2008
+Chicago Bulls,Chicago Bulls,Boston Celtics,29,45,74,1207096200.0,2008
+Chicago Bulls,Cleveland Cavaliers,Chicago Bulls,30,45,75,1207267200.0,2008
+Chicago Bulls,Chicago Bulls,Washington Wizards,30,46,76,1207441800.0,2008
+Chicago Bulls,Miami Heat,Chicago Bulls,30,47,77,1207697400.0,2008
+Chicago Bulls,Orlando Magic,Chicago Bulls,30,48,78,1207782000.0,2008
+Chicago Bulls,Chicago Bulls,Cleveland Cavaliers,31,48,79,1207954800.0,2008
+Chicago Bulls,Chicago Bulls,Orlando Magic,31,49,80,1208127600.0,2008
+Chicago Bulls,Milwaukee Bucks,Chicago Bulls,32,49,81,1208217600.0,2008
+Chicago Bulls,Chicago Bulls,Toronto Raptors,33,49,82,1208392200.0,2008
+Cleveland Cavaliers,Cleveland Cavaliers,Dallas Mavericks,0,1,1,1193875200.0,2008
+Cleveland Cavaliers,Cleveland Cavaliers,New York Knicks,1,1,2,1194046200.0,2008
+Cleveland Cavaliers,Phoenix Suns,Cleveland Cavaliers,1,2,3,1194224400.0,2008
+Cleveland Cavaliers,Golden State Warriors,Cleveland Cavaliers,2,2,4,1194406200.0,2008
+Cleveland Cavaliers,Utah Jazz,Cleveland Cavaliers,2,3,5,1194492600.0,2008
+Cleveland Cavaliers,Sacramento Kings,Cleveland Cavaliers,3,3,6,1194665400.0,2008
+Cleveland Cavaliers,Los Angeles Clippers,Cleveland Cavaliers,4,3,7,1194834600.0,2008
+Cleveland Cavaliers,Denver Nuggets,Cleveland Cavaliers,4,4,8,1194919200.0,2008
+Cleveland Cavaliers,Cleveland Cavaliers,Orlando Magic,4,5,9,1195084800.0,2008
+Cleveland Cavaliers,Cleveland Cavaliers,Utah Jazz,5,5,10,1195259400.0,2008
+Cleveland Cavaliers,Cleveland Cavaliers,Milwaukee Bucks,5,6,11,1195603200.0,2008
+Cleveland Cavaliers,Minnesota Timberwolves,Cleveland Cavaliers,6,6,12,1195693200.0,2008
+Cleveland Cavaliers,Cleveland Cavaliers,Toronto Raptors,7,6,13,1195927200.0,2008
+Cleveland Cavaliers,Indiana Pacers,Cleveland Cavaliers,8,6,14,1196019000.0,2008
+Cleveland Cavaliers,Cleveland Cavaliers,Boston Celtics,9,6,15,1196208000.0,2008
+Cleveland Cavaliers,Detroit Pistons,Cleveland Cavaliers,9,7,16,1196296200.0,2008
+Cleveland Cavaliers,Toronto Raptors,Cleveland Cavaliers,9,8,17,1196467200.0,2008
+Cleveland Cavaliers,Boston Celtics,Cleveland Cavaliers,9,9,18,1196616600.0,2008
+Cleveland Cavaliers,Cleveland Cavaliers,New Jersey Nets,9,10,19,1196812800.0,2008
+Cleveland Cavaliers,Washington Wizards,Cleveland Cavaliers,9,11,20,1196899200.0,2008
+Cleveland Cavaliers,Charlotte Bobcats,Cleveland Cavaliers,9,12,21,1197158400.0,2008
+Cleveland Cavaliers,Cleveland Cavaliers,Indiana Pacers,10,12,22,1197417600.0,2008
+Cleveland Cavaliers,New Jersey Nets,Cleveland Cavaliers,10,13,23,1197680400.0,2008
+Cleveland Cavaliers,Cleveland Cavaliers,Philadelphia 76ers,10,14,24,1197765000.0,2008
+Cleveland Cavaliers,Cleveland Cavaliers,Milwaukee Bucks,11,14,25,1197936000.0,2008
+Cleveland Cavaliers,New York Knicks,Cleveland Cavaliers,11,15,26,1198110600.0,2008
+Cleveland Cavaliers,Cleveland Cavaliers,Los Angeles Lakers,12,15,27,1198198800.0,2008
+Cleveland Cavaliers,Cleveland Cavaliers,Golden State Warriors,12,16,28,1198450800.0,2008
+Cleveland Cavaliers,Cleveland Cavaliers,Miami Heat,13,16,29,1198611000.0,2008
+Cleveland Cavaliers,Dallas Mavericks,Cleveland Cavaliers,14,16,30,1198803600.0,2008
+Cleveland Cavaliers,New Orleans Hornets,Cleveland Cavaliers,14,17,31,1198976400.0,2008
+Cleveland Cavaliers,Cleveland Cavaliers,Atlanta Hawks,15,17,32,1199318400.0,2008
+Cleveland Cavaliers,Cleveland Cavaliers,Sacramento Kings,16,17,33,1199493000.0,2008
+Cleveland Cavaliers,Toronto Raptors,Cleveland Cavaliers,17,17,34,1199642400.0,2008
+Cleveland Cavaliers,Cleveland Cavaliers,Seattle Supersonics,18,17,35,1199836800.0,2008
+Cleveland Cavaliers,Atlanta Hawks,Cleveland Cavaliers,18,18,36,1199923200.0,2008
+Cleveland Cavaliers,Cleveland Cavaliers,Charlotte Bobcats,19,18,37,1200097800.0,2008
+Cleveland Cavaliers,Memphis Grizzlies,Cleveland Cavaliers,20,18,38,1200445200.0,2008
+Cleveland Cavaliers,San Antonio Spurs,Cleveland Cavaliers,21,18,39,1200618000.0,2008
+Cleveland Cavaliers,Miami Heat,Cleveland Cavaliers,22,18,40,1200963600.0,2008
+Cleveland Cavaliers,Cleveland Cavaliers,Washington Wizards,23,18,41,1201132800.0,2008
+Cleveland Cavaliers,Cleveland Cavaliers,Phoenix Suns,23,19,42,1201305600.0,2008
+Cleveland Cavaliers,Los Angeles Lakers,Cleveland Cavaliers,24,19,43,1201465800.0,2008
+Cleveland Cavaliers,Portland Trail Blazers,Cleveland Cavaliers,25,19,44,1201744800.0,2008
+Cleveland Cavaliers,Seattle Supersonics,Cleveland Cavaliers,25,20,45,1201834800.0,2008
+Cleveland Cavaliers,Cleveland Cavaliers,Los Angeles Clippers,26,20,46,1201998600.0,2008
+Cleveland Cavaliers,Cleveland Cavaliers,Boston Celtics,27,20,47,1202256000.0,2008
+Cleveland Cavaliers,Houston Rockets,Cleveland Cavaliers,27,21,48,1202432400.0,2008
+Cleveland Cavaliers,Atlanta Hawks,Cleveland Cavaliers,28,21,49,1202517000.0,2008
+Cleveland Cavaliers,Cleveland Cavaliers,Denver Nuggets,28,22,50,1202688000.0,2008
+Cleveland Cavaliers,Orlando Magic,Cleveland Cavaliers,29,22,51,1202774400.0,2008
+Cleveland Cavaliers,Cleveland Cavaliers,San Antonio Spurs,29,23,52,1202947200.0,2008
+Cleveland Cavaliers,Cleveland Cavaliers,Houston Rockets,29,24,53,1203465600.0,2008
+Cleveland Cavaliers,Indiana Pacers,Cleveland Cavaliers,30,24,54,1203552000.0,2008
+Cleveland Cavaliers,Cleveland Cavaliers,Washington Wizards,31,24,55,1203728400.0,2008
+Cleveland Cavaliers,Cleveland Cavaliers,Memphis Grizzlies,32,24,56,1203894000.0,2008
+Cleveland Cavaliers,Milwaukee Bucks,Cleveland Cavaliers,32,25,57,1204074000.0,2008
+Cleveland Cavaliers,Boston Celtics,Cleveland Cavaliers,32,26,58,1204158600.0,2008
+Cleveland Cavaliers,Cleveland Cavaliers,Minnesota Timberwolves,33,26,59,1204331400.0,2008
+Cleveland Cavaliers,Cleveland Cavaliers,Chicago Bulls,34,26,60,1204480800.0,2008
+Cleveland Cavaliers,New York Knicks,Cleveland Cavaliers,35,26,61,1204763400.0,2008
+Cleveland Cavaliers,Chicago Bulls,Cleveland Cavaliers,35,27,62,1204848000.0,2008
+Cleveland Cavaliers,Cleveland Cavaliers,Indiana Pacers,36,27,63,1204999200.0,2008
+Cleveland Cavaliers,Cleveland Cavaliers,Portland Trail Blazers,37,27,64,1205190000.0,2008
+Cleveland Cavaliers,New Jersey Nets,Cleveland Cavaliers,37,28,65,1205364600.0,2008
+Cleveland Cavaliers,Washington Wizards,Cleveland Cavaliers,37,29,66,1205452800.0,2008
+Cleveland Cavaliers,Cleveland Cavaliers,Charlotte Bobcats,38,29,67,1205704800.0,2008
+Cleveland Cavaliers,Orlando Magic,Cleveland Cavaliers,38,30,68,1205794800.0,2008
+Cleveland Cavaliers,Cleveland Cavaliers,Detroit Pistons,39,30,69,1205971200.0,2008
+Cleveland Cavaliers,Cleveland Cavaliers,Toronto Raptors,40,30,70,1206142200.0,2008
+Cleveland Cavaliers,Milwaukee Bucks,Cleveland Cavaliers,40,31,71,1206232200.0,2008
+Cleveland Cavaliers,Cleveland Cavaliers,New Orleans Hornets,40,32,72,1206572400.0,2008
+Cleveland Cavaliers,Detroit Pistons,Cleveland Cavaliers,40,33,73,1206833400.0,2008
+Cleveland Cavaliers,Cleveland Cavaliers,Philadelphia 76ers,41,33,74,1206914400.0,2008
+Cleveland Cavaliers,Charlotte Bobcats,Cleveland Cavaliers,42,33,75,1207177200.0,2008
+Cleveland Cavaliers,Cleveland Cavaliers,Chicago Bulls,42,34,76,1207267200.0,2008
+Cleveland Cavaliers,Cleveland Cavaliers,Orlando Magic,42,35,77,1207422000.0,2008
+Cleveland Cavaliers,Cleveland Cavaliers,New Jersey Nets,43,35,78,1207782000.0,2008
+Cleveland Cavaliers,Chicago Bulls,Cleveland Cavaliers,43,36,79,1207954800.0,2008
+Cleveland Cavaliers,Cleveland Cavaliers,Miami Heat,44,36,80,1208124000.0,2008
+Cleveland Cavaliers,Philadelphia 76ers,Cleveland Cavaliers,45,36,81,1208214000.0,2008
+Cleveland Cavaliers,Cleveland Cavaliers,Detroit Pistons,45,37,82,1208386800.0,2008
+Dallas Mavericks,Cleveland Cavaliers,Dallas Mavericks,1,0,1,1193875200.0,2008
+Dallas Mavericks,Atlanta Hawks,Dallas Mavericks,1,1,2,1194046200.0,2008
+Dallas Mavericks,Dallas Mavericks,Sacramento Kings,2,1,3,1194136200.0,2008
+Dallas Mavericks,Dallas Mavericks,Houston Rockets,3,1,4,1194312600.0,2008
+Dallas Mavericks,Golden State Warriors,Dallas Mavericks,4,1,5,1194579000.0,2008
+Dallas Mavericks,Portland Trail Blazers,Dallas Mavericks,4,2,6,1194750000.0,2008
+Dallas Mavericks,Dallas Mavericks,Philadelphia 76ers,5,2,7,1195003800.0,2008
+Dallas Mavericks,Dallas Mavericks,San Antonio Spurs,6,2,8,1195174800.0,2008
+Dallas Mavericks,Dallas Mavericks,Memphis Grizzlies,7,2,9,1195349400.0,2008
+Dallas Mavericks,Dallas Mavericks,Toronto Raptors,8,2,10,1195608600.0,2008
+Dallas Mavericks,Houston Rockets,Dallas Mavericks,9,2,11,1195691400.0,2008
+Dallas Mavericks,Indiana Pacers,Dallas Mavericks,9,3,12,1195866000.0,2008
+Dallas Mavericks,Milwaukee Bucks,Dallas Mavericks,9,4,13,1195956000.0,2008
+Dallas Mavericks,Dallas Mavericks,Washington Wizards,9,5,14,1196127000.0,2008
+Dallas Mavericks,Dallas Mavericks,Minnesota Timberwolves,10,5,15,1196299800.0,2008
+Dallas Mavericks,Dallas Mavericks,Portland Trail Blazers,11,5,16,1196472600.0,2008
+Dallas Mavericks,New Orleans Hornets,Dallas Mavericks,11,6,17,1196557200.0,2008
+Dallas Mavericks,Chicago Bulls,Dallas Mavericks,12,6,18,1196731800.0,2008
+Dallas Mavericks,San Antonio Spurs,Dallas Mavericks,12,7,19,1196904600.0,2008
+Dallas Mavericks,Dallas Mavericks,Denver Nuggets,12,8,20,1196989200.0,2008
+Dallas Mavericks,Dallas Mavericks,Utah Jazz,13,8,21,1197163800.0,2008
+Dallas Mavericks,New York Knicks,Dallas Mavericks,14,8,22,1197333000.0,2008
+Dallas Mavericks,Toronto Raptors,Dallas Mavericks,14,9,23,1197504000.0,2008
+Dallas Mavericks,Dallas Mavericks,New Orleans Hornets,15,9,24,1197682200.0,2008
+Dallas Mavericks,Houston Rockets,Dallas Mavericks,16,9,25,1197768600.0,2008
+Dallas Mavericks,Dallas Mavericks,Orlando Magic,17,9,26,1197941400.0,2008
+Dallas Mavericks,Dallas Mavericks,Phoenix Suns,18,9,27,1198117800.0,2008
+Dallas Mavericks,Dallas Mavericks,Los Angeles Clippers,19,9,28,1198290600.0,2008
+Dallas Mavericks,Utah Jazz,Dallas Mavericks,19,10,29,1198720800.0,2008
+Dallas Mavericks,Dallas Mavericks,Cleveland Cavaliers,19,11,30,1198803600.0,2008
+Dallas Mavericks,Dallas Mavericks,Atlanta Hawks,20,11,31,1198951200.0,2008
+Dallas Mavericks,Dallas Mavericks,Golden State Warriors,21,11,32,1199323800.0,2008
+Dallas Mavericks,Dallas Mavericks,Miami Heat,22,11,33,1199500200.0,2008
+Dallas Mavericks,Minnesota Timberwolves,Dallas Mavericks,23,11,34,1199651400.0,2008
+Dallas Mavericks,Dallas Mavericks,Detroit Pistons,24,11,35,1199930400.0,2008
+Dallas Mavericks,Seattle Supersonics,Dallas Mavericks,25,11,36,1200108600.0,2008
+Dallas Mavericks,Los Angeles Clippers,Dallas Mavericks,26,11,37,1200195000.0,2008
+Dallas Mavericks,Sacramento Kings,Dallas Mavericks,26,12,38,1200366000.0,2008
+Dallas Mavericks,Dallas Mavericks,Seattle Supersonics,27,12,39,1200794400.0,2008
+Dallas Mavericks,Washington Wizards,Dallas Mavericks,27,13,40,1200938400.0,2008
+Dallas Mavericks,Charlotte Bobcats,Dallas Mavericks,28,13,41,1201132800.0,2008
+Dallas Mavericks,Dallas Mavericks,Los Angeles Lakers,29,13,42,1201311000.0,2008
+Dallas Mavericks,Dallas Mavericks,Denver Nuggets,30,13,43,1201476600.0,2008
+Dallas Mavericks,Memphis Grizzlies,Dallas Mavericks,31,13,44,1201568400.0,2008
+Dallas Mavericks,Boston Celtics,Dallas Mavericks,31,14,45,1201827600.0,2008
+Dallas Mavericks,Detroit Pistons,Dallas Mavericks,31,15,46,1202067000.0,2008
+Dallas Mavericks,Orlando Magic,Dallas Mavericks,32,15,47,1202169600.0,2008
+Dallas Mavericks,Dallas Mavericks,Milwaukee Bucks,33,15,48,1202347800.0,2008
+Dallas Mavericks,Dallas Mavericks,Memphis Grizzlies,34,15,49,1202520600.0,2008
+Dallas Mavericks,New Jersey Nets,Dallas Mavericks,34,16,50,1202684400.0,2008
+Dallas Mavericks,Philadelphia 76ers,Dallas Mavericks,34,17,51,1202774400.0,2008
+Dallas Mavericks,Dallas Mavericks,Portland Trail Blazers,35,17,52,1202952600.0,2008
+Dallas Mavericks,Phoenix Suns,Dallas Mavericks,35,18,53,1203046200.0,2008
+Dallas Mavericks,New Orleans Hornets,Dallas Mavericks,35,19,54,1203555600.0,2008
+Dallas Mavericks,Memphis Grizzlies,Dallas Mavericks,36,19,55,1203728400.0,2008
+Dallas Mavericks,Minnesota Timberwolves,Dallas Mavericks,37,19,56,1203895800.0,2008
+Dallas Mavericks,Dallas Mavericks,Chicago Bulls,38,19,57,1203989400.0,2008
+Dallas Mavericks,San Antonio Spurs,Dallas Mavericks,38,20,58,1204246800.0,2008
+Dallas Mavericks,Dallas Mavericks,Sacramento Kings,39,20,59,1204335000.0,2008
+Dallas Mavericks,Los Angeles Lakers,Dallas Mavericks,39,21,60,1204489800.0,2008
+Dallas Mavericks,Utah Jazz,Dallas Mavericks,39,22,61,1204596000.0,2008
+Dallas Mavericks,Dallas Mavericks,Houston Rockets,39,23,62,1204857000.0,2008
+Dallas Mavericks,Dallas Mavericks,New Jersey Nets,40,23,63,1205026200.0,2008
+Dallas Mavericks,Dallas Mavericks,New York Knicks,41,23,64,1205195400.0,2008
+Dallas Mavericks,Dallas Mavericks,Charlotte Bobcats,42,23,65,1205368200.0,2008
+Dallas Mavericks,Dallas Mavericks,Indiana Pacers,43,23,66,1205541000.0,2008
+Dallas Mavericks,Miami Heat,Dallas Mavericks,44,23,67,1205704800.0,2008
+Dallas Mavericks,Dallas Mavericks,Los Angeles Lakers,44,24,68,1205886600.0,2008
+Dallas Mavericks,Dallas Mavericks,Boston Celtics,44,25,69,1206057600.0,2008
+Dallas Mavericks,Dallas Mavericks,San Antonio Spurs,44,26,70,1206291600.0,2008
+Dallas Mavericks,Dallas Mavericks,Los Angeles Clippers,45,26,71,1206491400.0,2008
+Dallas Mavericks,Denver Nuggets,Dallas Mavericks,45,27,72,1206662400.0,2008
+Dallas Mavericks,Golden State Warriors,Dallas Mavericks,45,28,73,1206925200.0,2008
+Dallas Mavericks,Los Angeles Clippers,Dallas Mavericks,46,28,74,1207017000.0,2008
+Dallas Mavericks,Dallas Mavericks,Golden State Warriors,47,28,75,1207186200.0,2008
+Dallas Mavericks,Los Angeles Lakers,Dallas Mavericks,47,29,76,1207362600.0,2008
+Dallas Mavericks,Phoenix Suns,Dallas Mavericks,48,29,77,1207510200.0,2008
+Dallas Mavericks,Dallas Mavericks,Seattle Supersonics,49,29,78,1207701000.0,2008
+Dallas Mavericks,Dallas Mavericks,Utah Jazz,50,29,79,1207873800.0,2008
+Dallas Mavericks,Portland Trail Blazers,Dallas Mavericks,50,30,80,1208052000.0,2008
+Dallas Mavericks,Seattle Supersonics,Dallas Mavericks,50,31,81,1208134800.0,2008
+Dallas Mavericks,Dallas Mavericks,New Orleans Hornets,51,31,82,1208392200.0,2008
+Denver Nuggets,Denver Nuggets,Seattle Supersonics,1,0,1,1193884200.0,2008
+Denver Nuggets,Minnesota Timberwolves,Denver Nuggets,2,0,2,1194048000.0,2008
+Denver Nuggets,Denver Nuggets,New Orleans Hornets,2,1,3,1194224400.0,2008
+Denver Nuggets,New York Knicks,Denver Nuggets,2,2,4,1194395400.0,2008
+Denver Nuggets,Boston Celtics,Denver Nuggets,2,3,5,1194481800.0,2008
+Denver Nuggets,Washington Wizards,Denver Nuggets,3,3,6,1194656400.0,2008
+Denver Nuggets,Indiana Pacers,Denver Nuggets,4,3,7,1194739200.0,2008
+Denver Nuggets,Denver Nuggets,Cleveland Cavaliers,5,3,8,1194919200.0,2008
+Denver Nuggets,Denver Nuggets,Portland Trail Blazers,6,3,9,1195092000.0,2008
+Denver Nuggets,Denver Nuggets,New York Knicks,7,3,10,1195351200.0,2008
+Denver Nuggets,Denver Nuggets,Chicago Bulls,8,3,11,1195610400.0,2008
+Denver Nuggets,Los Angeles Clippers,Denver Nuggets,8,4,12,1195702200.0,2008
+Denver Nuggets,Denver Nuggets,Minnesota Timberwolves,9,4,13,1195869600.0,2008
+Denver Nuggets,Houston Rockets,Denver Nuggets,9,5,14,1195954200.0,2008
+Denver Nuggets,Denver Nuggets,Indiana Pacers,9,6,15,1196215200.0,2008
+Denver Nuggets,Los Angeles Lakers,Denver Nuggets,9,7,16,1196393400.0,2008
+Denver Nuggets,Denver Nuggets,Los Angeles Clippers,10,7,17,1196479800.0,2008
+Denver Nuggets,Denver Nuggets,Miami Heat,11,7,18,1196643600.0,2008
+Denver Nuggets,Denver Nuggets,Los Angeles Lakers,11,8,19,1196906400.0,2008
+Denver Nuggets,Dallas Mavericks,Denver Nuggets,12,8,20,1196989200.0,2008
+Denver Nuggets,Denver Nuggets,Sacramento Kings,13,8,21,1197165600.0,2008
+Denver Nuggets,Denver Nuggets,New Orleans Hornets,14,8,22,1197511200.0,2008
+Denver Nuggets,San Antonio Spurs,Denver Nuggets,14,9,23,1197768600.0,2008
+Denver Nuggets,Denver Nuggets,Portland Trail Blazers,14,10,24,1197853200.0,2008
+Denver Nuggets,Denver Nuggets,Houston Rockets,15,10,25,1198207800.0,2008
+Denver Nuggets,Portland Trail Blazers,Denver Nuggets,15,11,26,1198292400.0,2008
+Denver Nuggets,Sacramento Kings,Denver Nuggets,16,11,27,1198461600.0,2008
+Denver Nuggets,Denver Nuggets,Milwaukee Bucks,17,11,28,1198720800.0,2008
+Denver Nuggets,Golden State Warriors,Denver Nuggets,18,11,29,1198899000.0,2008
+Denver Nuggets,Denver Nuggets,Golden State Warriors,18,12,30,1199062800.0,2008
+Denver Nuggets,Denver Nuggets,San Antonio Spurs,19,12,31,1199412000.0,2008
+Denver Nuggets,Minnesota Timberwolves,Denver Nuggets,20,12,32,1199494800.0,2008
+Denver Nuggets,Denver Nuggets,Philadelphia 76ers,21,12,33,1199667600.0,2008
+Denver Nuggets,Phoenix Suns,Denver Nuggets,21,13,34,1199757600.0,2008
+Denver Nuggets,Denver Nuggets,Orlando Magic,22,13,35,1200103200.0,2008
+Denver Nuggets,Charlotte Bobcats,Denver Nuggets,22,14,36,1200355200.0,2008
+Denver Nuggets,Atlanta Hawks,Denver Nuggets,22,15,37,1200441600.0,2008
+Denver Nuggets,Denver Nuggets,Utah Jazz,23,15,38,1200621600.0,2008
+Denver Nuggets,Denver Nuggets,Minnesota Timberwolves,24,15,39,1200794400.0,2008
+Denver Nuggets,Los Angeles Lakers,Denver Nuggets,24,16,40,1200972600.0,2008
+Denver Nuggets,Denver Nuggets,Atlanta Hawks,25,16,41,1201140000.0,2008
+Denver Nuggets,Denver Nuggets,New Jersey Nets,26,16,42,1201312800.0,2008
+Denver Nuggets,Dallas Mavericks,Denver Nuggets,26,17,43,1201476600.0,2008
+Denver Nuggets,New Orleans Hornets,Denver Nuggets,26,18,44,1201568400.0,2008
+Denver Nuggets,Memphis Grizzlies,Denver Nuggets,27,18,45,1201741200.0,2008
+Denver Nuggets,Denver Nuggets,Charlotte Bobcats,28,18,46,1202004000.0,2008
+Denver Nuggets,Portland Trail Blazers,Denver Nuggets,29,18,47,1202180400.0,2008
+Denver Nuggets,Denver Nuggets,Utah Jazz,29,19,48,1202349600.0,2008
+Denver Nuggets,Denver Nuggets,Washington Wizards,30,19,49,1202527800.0,2008
+Denver Nuggets,Cleveland Cavaliers,Denver Nuggets,31,19,50,1202688000.0,2008
+Denver Nuggets,Miami Heat,Denver Nuggets,32,19,51,1202862600.0,2008
+Denver Nuggets,Orlando Magic,Denver Nuggets,32,20,52,1202947200.0,2008
+Denver Nuggets,Denver Nuggets,Boston Celtics,33,20,53,1203472800.0,2008
+Denver Nuggets,Chicago Bulls,Denver Nuggets,33,21,54,1203728400.0,2008
+Denver Nuggets,Milwaukee Bucks,Denver Nuggets,33,22,55,1203816600.0,2008
+Denver Nuggets,Denver Nuggets,Detroit Pistons,33,23,56,1203991200.0,2008
+Denver Nuggets,Seattle Supersonics,Denver Nuggets,34,23,57,1204167600.0,2008
+Denver Nuggets,Denver Nuggets,Los Angeles Clippers,35,23,58,1204342200.0,2008
+Denver Nuggets,Houston Rockets,Denver Nuggets,35,24,59,1204506000.0,2008
+Denver Nuggets,Denver Nuggets,Phoenix Suns,36,24,60,1204768800.0,2008
+Denver Nuggets,Denver Nuggets,San Antonio Spurs,37,24,61,1204947000.0,2008
+Denver Nuggets,Utah Jazz,Denver Nuggets,37,25,62,1205028000.0,2008
+Denver Nuggets,San Antonio Spurs,Denver Nuggets,37,26,63,1205195400.0,2008
+Denver Nuggets,Denver Nuggets,Memphis Grizzlies,38,26,64,1205370000.0,2008
+Denver Nuggets,Denver Nuggets,Toronto Raptors,39,26,65,1205542800.0,2008
+Denver Nuggets,Denver Nuggets,Seattle Supersonics,40,26,66,1205715600.0,2008
+Denver Nuggets,Detroit Pistons,Denver Nuggets,40,27,67,1205883000.0,2008
+Denver Nuggets,Philadelphia 76ers,Denver Nuggets,40,28,68,1205967600.0,2008
+Denver Nuggets,New Jersey Nets,Denver Nuggets,41,28,69,1206142200.0,2008
+Denver Nuggets,Toronto Raptors,Denver Nuggets,42,28,70,1206300600.0,2008
+Denver Nuggets,Memphis Grizzlies,Denver Nuggets,43,28,71,1206403200.0,2008
+Denver Nuggets,Denver Nuggets,Dallas Mavericks,44,28,72,1206662400.0,2008
+Denver Nuggets,Denver Nuggets,Golden State Warriors,45,28,73,1206838800.0,2008
+Denver Nuggets,Phoenix Suns,Denver Nuggets,45,29,74,1207015200.0,2008
+Denver Nuggets,Denver Nuggets,Phoenix Suns,46,29,75,1207098000.0,2008
+Denver Nuggets,Denver Nuggets,Sacramento Kings,46,30,76,1207443600.0,2008
+Denver Nuggets,Seattle Supersonics,Denver Nuggets,46,31,77,1207530000.0,2008
+Denver Nuggets,Los Angeles Clippers,Denver Nuggets,47,31,78,1207708200.0,2008
+Denver Nuggets,Golden State Warriors,Denver Nuggets,48,31,79,1207872000.0,2008
+Denver Nuggets,Utah Jazz,Denver Nuggets,48,32,80,1208048400.0,2008
+Denver Nuggets,Denver Nuggets,Houston Rockets,49,32,81,1208134800.0,2008
+Denver Nuggets,Denver Nuggets,Memphis Grizzlies,50,32,82,1208394000.0,2008
+Detroit Pistons,Miami Heat,Detroit Pistons,1,0,1,1193961600.0,2008
+Detroit Pistons,Orlando Magic,Detroit Pistons,2,0,2,1194044400.0,2008
+Detroit Pistons,Detroit Pistons,Atlanta Hawks,3,0,3,1194222600.0,2008
+Detroit Pistons,Chicago Bulls,Detroit Pistons,3,1,4,1194570000.0,2008
+Detroit Pistons,Detroit Pistons,Los Angeles Clippers,4,1,5,1194656400.0,2008
+Detroit Pistons,Seattle Supersonics,Detroit Pistons,5,1,6,1194832800.0,2008
+Detroit Pistons,Portland Trail Blazers,Detroit Pistons,5,2,7,1195009200.0,2008
+Detroit Pistons,Golden State Warriors,Detroit Pistons,6,2,8,1195097400.0,2008
+Detroit Pistons,Los Angeles Lakers,Detroit Pistons,6,3,9,1195270200.0,2008
+Detroit Pistons,Sacramento Kings,Detroit Pistons,6,4,10,1195437600.0,2008
+Detroit Pistons,Detroit Pistons,New York Knicks,7,4,11,1195693200.0,2008
+Detroit Pistons,Detroit Pistons,Philadelphia 76ers,8,4,12,1195866000.0,2008
+Detroit Pistons,Detroit Pistons,Utah Jazz,8,5,13,1196013600.0,2008
+Detroit Pistons,Detroit Pistons,Cleveland Cavaliers,9,5,14,1196296200.0,2008
+Detroit Pistons,Milwaukee Bucks,Detroit Pistons,10,5,15,1196559000.0,2008
+Detroit Pistons,Detroit Pistons,New Jersey Nets,11,5,16,1196636400.0,2008
+Detroit Pistons,Atlanta Hawks,Detroit Pistons,12,5,17,1196812800.0,2008
+Detroit Pistons,New Orleans Hornets,Detroit Pistons,13,5,18,1196902800.0,2008
+Detroit Pistons,Detroit Pistons,Chicago Bulls,13,6,19,1197072000.0,2008
+Detroit Pistons,Detroit Pistons,Charlotte Bobcats,14,6,20,1197241200.0,2008
+Detroit Pistons,Memphis Grizzlies,Detroit Pistons,15,6,21,1197421200.0,2008
+Detroit Pistons,Houston Rockets,Detroit Pistons,15,7,22,1197507600.0,2008
+Detroit Pistons,Detroit Pistons,Atlanta Hawks,16,7,23,1197680400.0,2008
+Detroit Pistons,Detroit Pistons,Golden State Warriors,17,7,24,1197826200.0,2008
+Detroit Pistons,Boston Celtics,Detroit Pistons,18,7,25,1198108800.0,2008
+Detroit Pistons,Detroit Pistons,Memphis Grizzlies,19,7,26,1198285200.0,2008
+Detroit Pistons,Detroit Pistons,Houston Rockets,20,7,27,1198450800.0,2008
+Detroit Pistons,New Jersey Nets,Detroit Pistons,21,7,28,1198715400.0,2008
+Detroit Pistons,Detroit Pistons,Indiana Pacers,22,7,29,1198890000.0,2008
+Detroit Pistons,Indiana Pacers,Detroit Pistons,23,7,30,1198972800.0,2008
+Detroit Pistons,Detroit Pistons,Milwaukee Bucks,24,7,31,1199133000.0,2008
+Detroit Pistons,Washington Wizards,Detroit Pistons,25,7,32,1199318400.0,2008
+Detroit Pistons,Toronto Raptors,Detroit Pistons,26,7,33,1199491200.0,2008
+Detroit Pistons,Detroit Pistons,Boston Celtics,26,8,34,1199579400.0,2008
+Detroit Pistons,Dallas Mavericks,Detroit Pistons,26,9,35,1199930400.0,2008
+Detroit Pistons,San Antonio Spurs,Detroit Pistons,27,9,36,1200013200.0,2008
+Detroit Pistons,Charlotte Bobcats,Detroit Pistons,28,9,37,1200182400.0,2008
+Detroit Pistons,New York Knicks,Detroit Pistons,28,10,38,1200268800.0,2008
+Detroit Pistons,Detroit Pistons,Toronto Raptors,29,10,39,1200443400.0,2008
+Detroit Pistons,Detroit Pistons,Sacramento Kings,29,11,40,1200704400.0,2008
+Detroit Pistons,Chicago Bulls,Detroit Pistons,29,12,41,1200792600.0,2008
+Detroit Pistons,Orlando Magic,Detroit Pistons,29,13,42,1200960000.0,2008
+Detroit Pistons,Philadelphia 76ers,Detroit Pistons,30,13,43,1201132800.0,2008
+Detroit Pistons,Detroit Pistons,Orlando Magic,31,13,44,1201305600.0,2008
+Detroit Pistons,Indiana Pacers,Detroit Pistons,32,13,45,1201651200.0,2008
+Detroit Pistons,Detroit Pistons,Los Angeles Lakers,33,13,46,1201825800.0,2008
+Detroit Pistons,Detroit Pistons,Dallas Mavericks,34,13,47,1202067000.0,2008
+Detroit Pistons,Detroit Pistons,Miami Heat,35,13,48,1202344200.0,2008
+Detroit Pistons,Detroit Pistons,Portland Trail Blazers,36,13,49,1202518800.0,2008
+Detroit Pistons,Detroit Pistons,Charlotte Bobcats,37,13,50,1202684400.0,2008
+Detroit Pistons,Atlanta Hawks,Detroit Pistons,38,13,51,1202860800.0,2008
+Detroit Pistons,Detroit Pistons,Indiana Pacers,39,13,52,1202949000.0,2008
+Detroit Pistons,Detroit Pistons,Orlando Magic,39,14,53,1203467400.0,2008
+Detroit Pistons,Milwaukee Bucks,Detroit Pistons,39,15,54,1203555600.0,2008
+Detroit Pistons,Detroit Pistons,Milwaukee Bucks,40,15,55,1203728400.0,2008
+Detroit Pistons,Phoenix Suns,Detroit Pistons,41,15,56,1203881400.0,2008
+Detroit Pistons,Denver Nuggets,Detroit Pistons,42,15,57,1203991200.0,2008
+Detroit Pistons,Utah Jazz,Detroit Pistons,42,16,58,1204164000.0,2008
+Detroit Pistons,Los Angeles Clippers,Detroit Pistons,43,16,59,1204428600.0,2008
+Detroit Pistons,Detroit Pistons,Seattle Supersonics,44,16,60,1204677000.0,2008
+Detroit Pistons,Boston Celtics,Detroit Pistons,44,17,61,1204763400.0,2008
+Detroit Pistons,New York Knicks,Detroit Pistons,45,17,62,1204936200.0,2008
+Detroit Pistons,Detroit Pistons,Chicago Bulls,46,17,63,1205107200.0,2008
+Detroit Pistons,Detroit Pistons,Philadelphia 76ers,46,18,64,1205364600.0,2008
+Detroit Pistons,Detroit Pistons,San Antonio Spurs,47,18,65,1205539200.0,2008
+Detroit Pistons,Detroit Pistons,New Orleans Hornets,48,18,66,1205686800.0,2008
+Detroit Pistons,Detroit Pistons,Denver Nuggets,49,18,67,1205883000.0,2008
+Detroit Pistons,Cleveland Cavaliers,Detroit Pistons,49,19,68,1205971200.0,2008
+Detroit Pistons,Washington Wizards,Detroit Pistons,49,20,69,1206316800.0,2008
+Detroit Pistons,Detroit Pistons,Phoenix Suns,50,20,70,1206401400.0,2008
+Detroit Pistons,Toronto Raptors,Detroit Pistons,50,21,71,1206572400.0,2008
+Detroit Pistons,Detroit Pistons,Miami Heat,51,21,72,1206662400.0,2008
+Detroit Pistons,Detroit Pistons,Cleveland Cavaliers,52,21,73,1206833400.0,2008
+Detroit Pistons,Minnesota Timberwolves,Detroit Pistons,53,21,74,1207094400.0,2008
+Detroit Pistons,Detroit Pistons,New Jersey Nets,54,21,75,1207353600.0,2008
+Detroit Pistons,Miami Heat,Detroit Pistons,55,21,76,1207519200.0,2008
+Detroit Pistons,Detroit Pistons,New York Knicks,55,22,77,1207699200.0,2008
+Detroit Pistons,Philadelphia 76ers,Detroit Pistons,55,23,78,1207782000.0,2008
+Detroit Pistons,Detroit Pistons,Washington Wizards,56,23,79,1207958400.0,2008
+Detroit Pistons,Detroit Pistons,Toronto Raptors,57,23,80,1208106000.0,2008
+Detroit Pistons,Detroit Pistons,Minnesota Timberwolves,58,23,81,1208302200.0,2008
+Detroit Pistons,Cleveland Cavaliers,Detroit Pistons,59,23,82,1208386800.0,2008
+Golden State Warriors,Golden State Warriors,Utah Jazz,0,1,1,1193797800.0,2008
+Golden State Warriors,Los Angeles Clippers,Golden State Warriors,0,2,2,1194057000.0,2008
+Golden State Warriors,Utah Jazz,Golden State Warriors,0,3,3,1194138000.0,2008
+Golden State Warriors,Golden State Warriors,Cleveland Cavaliers,0,4,4,1194406200.0,2008
+Golden State Warriors,Golden State Warriors,Dallas Mavericks,0,5,5,1194579000.0,2008
+Golden State Warriors,Golden State Warriors,Detroit Pistons,0,6,6,1195097400.0,2008
+Golden State Warriors,Golden State Warriors,Los Angeles Clippers,1,6,7,1195270200.0,2008
+Golden State Warriors,Toronto Raptors,Golden State Warriors,2,6,8,1195408800.0,2008
+Golden State Warriors,New York Knicks,Golden State Warriors,3,6,9,1195605000.0,2008
+Golden State Warriors,Boston Celtics,Golden State Warriors,3,7,10,1195691400.0,2008
+Golden State Warriors,Washington Wizards,Golden State Warriors,4,7,11,1195862400.0,2008
+Golden State Warriors,Philadelphia 76ers,Golden State Warriors,5,7,12,1195948800.0,2008
+Golden State Warriors,Golden State Warriors,Phoenix Suns,6,7,13,1196134200.0,2008
+Golden State Warriors,Sacramento Kings,Golden State Warriors,7,7,14,1196305200.0,2008
+Golden State Warriors,Golden State Warriors,Houston Rockets,8,7,15,1196393400.0,2008
+Golden State Warriors,Seattle Supersonics,Golden State Warriors,9,7,16,1196647200.0,2008
+Golden State Warriors,Golden State Warriors,Orlando Magic,9,8,17,1196739000.0,2008
+Golden State Warriors,Golden State Warriors,Milwaukee Bucks,10,8,18,1196911800.0,2008
+Golden State Warriors,Golden State Warriors,Miami Heat,11,8,19,1197084600.0,2008
+Golden State Warriors,Los Angeles Lakers,Golden State Warriors,11,9,20,1197253800.0,2008
+Golden State Warriors,Golden State Warriors,San Antonio Spurs,12,9,21,1197430200.0,2008
+Golden State Warriors,Portland Trail Blazers,Golden State Warriors,12,10,22,1197514800.0,2008
+Golden State Warriors,Golden State Warriors,Los Angeles Lakers,13,10,23,1197689400.0,2008
+Golden State Warriors,Detroit Pistons,Golden State Warriors,13,11,24,1197826200.0,2008
+Golden State Warriors,Memphis Grizzlies,Golden State Warriors,14,11,25,1197939600.0,2008
+Golden State Warriors,Minnesota Timberwolves,Golden State Warriors,15,11,26,1198112400.0,2008
+Golden State Warriors,New Jersey Nets,Golden State Warriors,15,12,27,1198369800.0,2008
+Golden State Warriors,Cleveland Cavaliers,Golden State Warriors,16,12,28,1198450800.0,2008
+Golden State Warriors,Golden State Warriors,Minnesota Timberwolves,17,12,29,1198726200.0,2008
+Golden State Warriors,Golden State Warriors,Denver Nuggets,17,13,30,1198899000.0,2008
+Golden State Warriors,Denver Nuggets,Golden State Warriors,18,13,31,1199062800.0,2008
+Golden State Warriors,Houston Rockets,Golden State Warriors,19,13,32,1199145600.0,2008
+Golden State Warriors,Dallas Mavericks,Golden State Warriors,19,14,33,1199323800.0,2008
+Golden State Warriors,Golden State Warriors,New Orleans Hornets,19,15,34,1199503800.0,2008
+Golden State Warriors,Golden State Warriors,San Antonio Spurs,20,15,35,1199763000.0,2008
+Golden State Warriors,Portland Trail Blazers,Golden State Warriors,20,16,36,1199934000.0,2008
+Golden State Warriors,Golden State Warriors,Memphis Grizzlies,21,16,37,1200108600.0,2008
+Golden State Warriors,Golden State Warriors,Indiana Pacers,22,16,38,1200276000.0,2008
+Golden State Warriors,Minnesota Timberwolves,Golden State Warriors,23,16,39,1200445200.0,2008
+Golden State Warriors,Indiana Pacers,Golden State Warriors,23,17,40,1200528000.0,2008
+Golden State Warriors,Chicago Bulls,Golden State Warriors,24,17,41,1200709800.0,2008
+Golden State Warriors,Milwaukee Bucks,Golden State Warriors,25,17,42,1200792600.0,2008
+Golden State Warriors,Golden State Warriors,Minnesota Timberwolves,25,18,43,1200949200.0,2008
+Golden State Warriors,Golden State Warriors,New Jersey Nets,26,18,44,1201231800.0,2008
+Golden State Warriors,Golden State Warriors,New York Knicks,27,18,45,1201485600.0,2008
+Golden State Warriors,Houston Rockets,Golden State Warriors,27,19,46,1201656600.0,2008
+Golden State Warriors,New Orleans Hornets,Golden State Warriors,28,19,47,1201741200.0,2008
+Golden State Warriors,Golden State Warriors,Charlotte Bobcats,29,19,48,1201923000.0,2008
+Golden State Warriors,Golden State Warriors,Chicago Bulls,29,20,49,1202441400.0,2008
+Golden State Warriors,Golden State Warriors,Sacramento Kings,30,20,50,1202614200.0,2008
+Golden State Warriors,Golden State Warriors,Washington Wizards,31,20,51,1202787000.0,2008
+Golden State Warriors,Golden State Warriors,Phoenix Suns,32,20,52,1202954400.0,2008
+Golden State Warriors,Utah Jazz,Golden State Warriors,32,21,53,1203472800.0,2008
+Golden State Warriors,Golden State Warriors,Boston Celtics,33,21,54,1203564600.0,2008
+Golden State Warriors,Golden State Warriors,Atlanta Hawks,33,22,55,1203737400.0,2008
+Golden State Warriors,Golden State Warriors,Seattle Supersonics,34,22,56,1204083000.0,2008
+Golden State Warriors,Golden State Warriors,Philadelphia 76ers,35,22,57,1204342200.0,2008
+Golden State Warriors,Golden State Warriors,Portland Trail Blazers,36,22,58,1204509600.0,2008
+Golden State Warriors,Atlanta Hawks,Golden State Warriors,37,22,59,1204675200.0,2008
+Golden State Warriors,Charlotte Bobcats,Golden State Warriors,37,23,60,1204761600.0,2008
+Golden State Warriors,Miami Heat,Golden State Warriors,38,23,61,1204936200.0,2008
+Golden State Warriors,Orlando Magic,Golden State Warriors,39,23,62,1205020800.0,2008
+Golden State Warriors,Golden State Warriors,Toronto Raptors,40,23,63,1205375400.0,2008
+Golden State Warriors,Phoenix Suns,Golden State Warriors,40,24,64,1205461800.0,2008
+Golden State Warriors,Golden State Warriors,Memphis Grizzlies,41,24,65,1205634600.0,2008
+Golden State Warriors,Sacramento Kings,Golden State Warriors,41,25,66,1205892000.0,2008
+Golden State Warriors,Los Angeles Clippers,Golden State Warriors,42,25,67,1205980200.0,2008
+Golden State Warriors,Golden State Warriors,Houston Rockets,42,26,68,1206153000.0,2008
+Golden State Warriors,Los Angeles Lakers,Golden State Warriors,43,26,69,1206322200.0,2008
+Golden State Warriors,Golden State Warriors,Los Angeles Lakers,43,27,70,1206412200.0,2008
+Golden State Warriors,Golden State Warriors,Portland Trail Blazers,44,27,71,1206671400.0,2008
+Golden State Warriors,Denver Nuggets,Golden State Warriors,44,28,72,1206838800.0,2008
+Golden State Warriors,Golden State Warriors,Dallas Mavericks,45,28,73,1206925200.0,2008
+Golden State Warriors,San Antonio Spurs,Golden State Warriors,45,29,74,1207096200.0,2008
+Golden State Warriors,Dallas Mavericks,Golden State Warriors,45,30,75,1207186200.0,2008
+Golden State Warriors,Memphis Grizzlies,Golden State Warriors,46,30,76,1207353600.0,2008
+Golden State Warriors,New Orleans Hornets,Golden State Warriors,46,31,77,1207501200.0,2008
+Golden State Warriors,Golden State Warriors,Sacramento Kings,47,31,78,1207708200.0,2008
+Golden State Warriors,Golden State Warriors,Denver Nuggets,47,32,79,1207872000.0,2008
+Golden State Warriors,Golden State Warriors,Los Angeles Clippers,48,32,80,1208053800.0,2008
+Golden State Warriors,Phoenix Suns,Golden State Warriors,48,33,81,1208224800.0,2008
+Golden State Warriors,Golden State Warriors,Seattle Supersonics,48,34,82,1208399400.0,2008
+Houston Rockets,Los Angeles Lakers,Houston Rockets,1,0,1,1193797800.0,2008
+Houston Rockets,Utah Jazz,Houston Rockets,2,0,2,1193965200.0,2008
+Houston Rockets,Houston Rockets,Portland Trail Blazers,3,0,3,1194136200.0,2008
+Houston Rockets,Dallas Mavericks,Houston Rockets,3,1,4,1194312600.0,2008
+Houston Rockets,Houston Rockets,San Antonio Spurs,4,1,5,1194399000.0,2008
+Houston Rockets,Houston Rockets,Milwaukee Bucks,5,1,6,1194658200.0,2008
+Houston Rockets,Charlotte Bobcats,Houston Rockets,6,1,7,1194822000.0,2008
+Houston Rockets,Memphis Grizzlies,Houston Rockets,6,2,8,1195002000.0,2008
+Houston Rockets,Houston Rockets,Los Angeles Lakers,6,3,9,1195092000.0,2008
+Houston Rockets,San Antonio Spurs,Houston Rockets,6,4,10,1195261200.0,2008
+Houston Rockets,Houston Rockets,Phoenix Suns,6,5,11,1195349400.0,2008
+Houston Rockets,Houston Rockets,Dallas Mavericks,6,6,12,1195691400.0,2008
+Houston Rockets,Miami Heat,Houston Rockets,6,7,13,1195866000.0,2008
+Houston Rockets,Houston Rockets,Denver Nuggets,7,7,14,1195954200.0,2008
+Houston Rockets,Los Angeles Clippers,Houston Rockets,8,7,15,1196134200.0,2008
+Houston Rockets,Phoenix Suns,Houston Rockets,9,7,16,1196301600.0,2008
+Houston Rockets,Golden State Warriors,Houston Rockets,9,8,17,1196393400.0,2008
+Houston Rockets,Sacramento Kings,Houston Rockets,9,9,18,1196564400.0,2008
+Houston Rockets,Houston Rockets,Memphis Grizzlies,10,9,19,1196904600.0,2008
+Houston Rockets,New Jersey Nets,Houston Rockets,11,9,20,1197073800.0,2008
+Houston Rockets,Toronto Raptors,Houston Rockets,11,10,21,1197221400.0,2008
+Houston Rockets,Philadelphia 76ers,Houston Rockets,11,11,22,1197331200.0,2008
+Houston Rockets,Houston Rockets,Detroit Pistons,12,11,23,1197507600.0,2008
+Houston Rockets,Houston Rockets,Dallas Mavericks,12,12,24,1197768600.0,2008
+Houston Rockets,Houston Rockets,Orlando Magic,12,13,25,1198114200.0,2008
+Houston Rockets,Denver Nuggets,Houston Rockets,12,14,26,1198207800.0,2008
+Houston Rockets,Chicago Bulls,Houston Rockets,13,14,27,1198373400.0,2008
+Houston Rockets,Detroit Pistons,Houston Rockets,13,15,28,1198450800.0,2008
+Houston Rockets,Memphis Grizzlies,Houston Rockets,14,15,29,1198890000.0,2008
+Houston Rockets,Houston Rockets,Toronto Raptors,15,15,30,1198978200.0,2008
+Houston Rockets,Houston Rockets,Golden State Warriors,15,16,31,1199145600.0,2008
+Houston Rockets,Boston Celtics,Houston Rockets,15,17,32,1199320200.0,2008
+Houston Rockets,Orlando Magic,Houston Rockets,16,17,33,1199491200.0,2008
+Houston Rockets,Houston Rockets,New York Knicks,17,17,34,1199583000.0,2008
+Houston Rockets,Washington Wizards,Houston Rockets,18,17,35,1199836800.0,2008
+Houston Rockets,New York Knicks,Houston Rockets,19,17,36,1199925000.0,2008
+Houston Rockets,Houston Rockets,Minnesota Timberwolves,20,17,37,1200101400.0,2008
+Houston Rockets,Houston Rockets,New Orleans Hornets,20,18,38,1200252600.0,2008
+Houston Rockets,Houston Rockets,Philadelphia 76ers,20,19,39,1200447000.0,2008
+Houston Rockets,Houston Rockets,San Antonio Spurs,21,19,40,1200792600.0,2008
+Houston Rockets,Houston Rockets,Seattle Supersonics,22,19,41,1200943800.0,2008
+Houston Rockets,Seattle Supersonics,Houston Rockets,23,19,42,1201143600.0,2008
+Houston Rockets,Portland Trail Blazers,Houston Rockets,24,19,43,1201316400.0,2008
+Houston Rockets,Houston Rockets,Utah Jazz,24,20,44,1201478400.0,2008
+Houston Rockets,Houston Rockets,Golden State Warriors,25,20,45,1201656600.0,2008
+Houston Rockets,Indiana Pacers,Houston Rockets,26,20,46,1201910400.0,2008
+Houston Rockets,Milwaukee Bucks,Houston Rockets,27,20,47,1202002200.0,2008
+Houston Rockets,Minnesota Timberwolves,Houston Rockets,28,20,48,1202173200.0,2008
+Houston Rockets,Houston Rockets,Cleveland Cavaliers,29,20,49,1202432400.0,2008
+Houston Rockets,Houston Rockets,Atlanta Hawks,30,20,50,1202607000.0,2008
+Houston Rockets,Houston Rockets,Portland Trail Blazers,31,20,51,1202779800.0,2008
+Houston Rockets,Houston Rockets,Sacramento Kings,32,20,52,1202952600.0,2008
+Houston Rockets,Cleveland Cavaliers,Houston Rockets,33,20,53,1203465600.0,2008
+Houston Rockets,Houston Rockets,Miami Heat,34,20,54,1203642000.0,2008
+Houston Rockets,New Orleans Hornets,Houston Rockets,35,20,55,1203728400.0,2008
+Houston Rockets,Houston Rockets,Chicago Bulls,36,20,56,1203901200.0,2008
+Houston Rockets,Houston Rockets,Washington Wizards,37,20,57,1204075800.0,2008
+Houston Rockets,Houston Rockets,Memphis Grizzlies,38,20,58,1204335000.0,2008
+Houston Rockets,Houston Rockets,Denver Nuggets,39,20,59,1204506000.0,2008
+Houston Rockets,Houston Rockets,Indiana Pacers,40,20,60,1204767000.0,2008
+Houston Rockets,Dallas Mavericks,Houston Rockets,41,20,61,1204857000.0,2008
+Houston Rockets,Houston Rockets,New Orleans Hornets,42,20,62,1205026200.0,2008
+Houston Rockets,Houston Rockets,New Jersey Nets,43,20,63,1205195400.0,2008
+Houston Rockets,Atlanta Hawks,Houston Rockets,44,20,64,1205362800.0,2008
+Houston Rockets,Houston Rockets,Charlotte Bobcats,45,20,65,1205541000.0,2008
+Houston Rockets,Houston Rockets,Los Angeles Lakers,46,20,66,1205695800.0,2008
+Houston Rockets,Houston Rockets,Boston Celtics,46,21,67,1205890200.0,2008
+Houston Rockets,New Orleans Hornets,Houston Rockets,46,22,68,1205971200.0,2008
+Houston Rockets,Golden State Warriors,Houston Rockets,47,22,69,1206153000.0,2008
+Houston Rockets,Phoenix Suns,Houston Rockets,47,23,70,1206237600.0,2008
+Houston Rockets,Houston Rockets,Sacramento Kings,48,23,71,1206405000.0,2008
+Houston Rockets,Houston Rockets,Minnesota Timberwolves,49,23,72,1206577800.0,2008
+Houston Rockets,San Antonio Spurs,Houston Rockets,49,24,73,1206896400.0,2008
+Houston Rockets,Sacramento Kings,Houston Rockets,49,25,74,1207101600.0,2008
+Houston Rockets,Portland Trail Blazers,Houston Rockets,50,25,75,1207276200.0,2008
+Houston Rockets,Seattle Supersonics,Houston Rockets,51,25,76,1207362600.0,2008
+Houston Rockets,Los Angeles Clippers,Houston Rockets,52,25,77,1207531800.0,2008
+Houston Rockets,Houston Rockets,Seattle Supersonics,53,25,78,1207787400.0,2008
+Houston Rockets,Houston Rockets,Phoenix Suns,54,25,79,1207960200.0,2008
+Houston Rockets,Denver Nuggets,Houston Rockets,54,26,80,1208134800.0,2008
+Houston Rockets,Utah Jazz,Houston Rockets,54,27,81,1208221200.0,2008
+Houston Rockets,Houston Rockets,Los Angeles Clippers,55,27,82,1208392200.0,2008
+Indiana Pacers,Indiana Pacers,Washington Wizards,1,0,1,1193871600.0,2008
+Indiana Pacers,Indiana Pacers,Miami Heat,2,0,2,1194044400.0,2008
+Indiana Pacers,Memphis Grizzlies,Indiana Pacers,3,0,3,1194134400.0,2008
+Indiana Pacers,Indiana Pacers,Los Angeles Clippers,3,1,4,1194480000.0,2008
+Indiana Pacers,Charlotte Bobcats,Indiana Pacers,3,2,5,1194652800.0,2008
+Indiana Pacers,Indiana Pacers,Denver Nuggets,3,3,6,1194739200.0,2008
+Indiana Pacers,Indiana Pacers,Boston Celtics,3,4,7,1194998400.0,2008
+Indiana Pacers,Washington Wizards,Indiana Pacers,3,5,8,1195084800.0,2008
+Indiana Pacers,Toronto Raptors,Indiana Pacers,3,6,9,1195257600.0,2008
+Indiana Pacers,Indiana Pacers,Utah Jazz,4,6,10,1195344000.0,2008
+Indiana Pacers,Indiana Pacers,Los Angeles Lakers,4,7,11,1195603200.0,2008
+Indiana Pacers,New Orleans Hornets,Indiana Pacers,5,7,12,1195693200.0,2008
+Indiana Pacers,Indiana Pacers,Dallas Mavericks,6,7,13,1195866000.0,2008
+Indiana Pacers,Indiana Pacers,Cleveland Cavaliers,6,8,14,1196019000.0,2008
+Indiana Pacers,Denver Nuggets,Indiana Pacers,7,8,15,1196215200.0,2008
+Indiana Pacers,Portland Trail Blazers,Indiana Pacers,8,8,16,1196305200.0,2008
+Indiana Pacers,Seattle Supersonics,Indiana Pacers,8,9,17,1196479800.0,2008
+Indiana Pacers,Los Angeles Clippers,Indiana Pacers,9,9,18,1196627400.0,2008
+Indiana Pacers,Indiana Pacers,Phoenix Suns,9,10,19,1196812800.0,2008
+Indiana Pacers,Orlando Magic,Indiana Pacers,10,10,20,1197072000.0,2008
+Indiana Pacers,Cleveland Cavaliers,Indiana Pacers,10,11,21,1197417600.0,2008
+Indiana Pacers,Indiana Pacers,Chicago Bulls,11,11,22,1197504000.0,2008
+Indiana Pacers,Indiana Pacers,Toronto Raptors,11,12,23,1197676800.0,2008
+Indiana Pacers,Miami Heat,Indiana Pacers,12,12,24,1197765000.0,2008
+Indiana Pacers,New York Knicks,Indiana Pacers,13,12,25,1197937800.0,2008
+Indiana Pacers,Indiana Pacers,Philadelphia 76ers,14,12,26,1198108800.0,2008
+Indiana Pacers,Minnesota Timberwolves,Indiana Pacers,14,13,27,1198285200.0,2008
+Indiana Pacers,Indiana Pacers,Washington Wizards,15,13,28,1198368000.0,2008
+Indiana Pacers,Atlanta Hawks,Indiana Pacers,15,14,29,1198713600.0,2008
+Indiana Pacers,Detroit Pistons,Indiana Pacers,15,15,30,1198890000.0,2008
+Indiana Pacers,Indiana Pacers,Detroit Pistons,15,16,31,1198972800.0,2008
+Indiana Pacers,Charlotte Bobcats,Indiana Pacers,15,17,32,1199127600.0,2008
+Indiana Pacers,Indiana Pacers,Memphis Grizzlies,15,18,33,1199318400.0,2008
+Indiana Pacers,Indiana Pacers,Atlanta Hawks,16,18,34,1199491200.0,2008
+Indiana Pacers,Los Angeles Lakers,Indiana Pacers,16,19,35,1199673000.0,2008
+Indiana Pacers,Utah Jazz,Indiana Pacers,16,20,36,1199844000.0,2008
+Indiana Pacers,Phoenix Suns,Indiana Pacers,16,21,37,1199930400.0,2008
+Indiana Pacers,Sacramento Kings,Indiana Pacers,17,21,38,1200193200.0,2008
+Indiana Pacers,Golden State Warriors,Indiana Pacers,17,22,39,1200276000.0,2008
+Indiana Pacers,Indiana Pacers,Golden State Warriors,18,22,40,1200528000.0,2008
+Indiana Pacers,Indiana Pacers,Sacramento Kings,18,23,41,1200787200.0,2008
+Indiana Pacers,Philadelphia 76ers,Indiana Pacers,19,23,42,1200942000.0,2008
+Indiana Pacers,Chicago Bulls,Indiana Pacers,19,24,43,1201138200.0,2008
+Indiana Pacers,Milwaukee Bucks,Indiana Pacers,19,25,44,1201222800.0,2008
+Indiana Pacers,Miami Heat,Indiana Pacers,19,26,45,1201379400.0,2008
+Indiana Pacers,Indiana Pacers,Detroit Pistons,19,27,46,1201651200.0,2008
+Indiana Pacers,Indiana Pacers,Houston Rockets,19,28,47,1201910400.0,2008
+Indiana Pacers,Indiana Pacers,Orlando Magic,19,29,48,1201996800.0,2008
+Indiana Pacers,Indiana Pacers,San Antonio Spurs,19,30,49,1202256000.0,2008
+Indiana Pacers,New York Knicks,Indiana Pacers,20,30,50,1202344200.0,2008
+Indiana Pacers,Indiana Pacers,Portland Trail Blazers,21,30,51,1202601600.0,2008
+Indiana Pacers,Indiana Pacers,Boston Celtics,21,31,52,1202860800.0,2008
+Indiana Pacers,Detroit Pistons,Indiana Pacers,21,32,53,1202949000.0,2008
+Indiana Pacers,Indiana Pacers,Cleveland Cavaliers,21,33,54,1203552000.0,2008
+Indiana Pacers,Indiana Pacers,New Jersey Nets,22,33,55,1203724800.0,2008
+Indiana Pacers,New Jersey Nets,Indiana Pacers,22,34,56,1203813000.0,2008
+Indiana Pacers,Indiana Pacers,Toronto Raptors,22,35,57,1203984000.0,2008
+Indiana Pacers,Indiana Pacers,Chicago Bulls,22,36,58,1204156800.0,2008
+Indiana Pacers,Toronto Raptors,Indiana Pacers,23,36,59,1204329600.0,2008
+Indiana Pacers,Indiana Pacers,Milwaukee Bucks,24,36,60,1204498800.0,2008
+Indiana Pacers,Houston Rockets,Indiana Pacers,24,37,61,1204767000.0,2008
+Indiana Pacers,San Antonio Spurs,Indiana Pacers,24,38,62,1204851600.0,2008
+Indiana Pacers,Cleveland Cavaliers,Indiana Pacers,24,39,63,1204999200.0,2008
+Indiana Pacers,Indiana Pacers,Seattle Supersonics,25,39,64,1205276400.0,2008
+Indiana Pacers,Dallas Mavericks,Indiana Pacers,25,40,65,1205541000.0,2008
+Indiana Pacers,Orlando Magic,Indiana Pacers,25,41,66,1205622000.0,2008
+Indiana Pacers,Indiana Pacers,New York Knicks,26,41,67,1205794800.0,2008
+Indiana Pacers,Indiana Pacers,Charlotte Bobcats,27,41,68,1205967600.0,2008
+Indiana Pacers,Indiana Pacers,Minnesota Timberwolves,28,41,69,1206140400.0,2008
+Indiana Pacers,Chicago Bulls,Indiana Pacers,29,41,70,1206232200.0,2008
+Indiana Pacers,Indiana Pacers,New Orleans Hornets,29,42,71,1206486000.0,2008
+Indiana Pacers,New Jersey Nets,Indiana Pacers,29,43,72,1206574200.0,2008
+Indiana Pacers,Indiana Pacers,New Jersey Nets,30,43,73,1206745200.0,2008
+Indiana Pacers,Indiana Pacers,Miami Heat,31,43,74,1207004400.0,2008
+Indiana Pacers,Boston Celtics,Indiana Pacers,31,44,75,1207177200.0,2008
+Indiana Pacers,Milwaukee Bucks,Indiana Pacers,32,44,76,1207355400.0,2008
+Indiana Pacers,Indiana Pacers,Milwaukee Bucks,33,44,77,1207519200.0,2008
+Indiana Pacers,Indiana Pacers,Atlanta Hawks,34,44,78,1207695600.0,2008
+Indiana Pacers,Philadelphia 76ers,Indiana Pacers,35,44,79,1207954800.0,2008
+Indiana Pacers,Indiana Pacers,Charlotte Bobcats,35,45,80,1208041200.0,2008
+Indiana Pacers,Washington Wizards,Indiana Pacers,35,46,81,1208214000.0,2008
+Indiana Pacers,Indiana Pacers,New York Knicks,36,46,82,1208386800.0,2008
+Los Angeles Clippers,Los Angeles Clippers,Golden State Warriors,1,0,1,1194057000.0,2008
+Los Angeles Clippers,Los Angeles Clippers,Seattle Supersonics,2,0,2,1194208200.0,2008
+Los Angeles Clippers,Chicago Bulls,Los Angeles Clippers,3,0,3,1194399000.0,2008
+Los Angeles Clippers,Indiana Pacers,Los Angeles Clippers,4,0,4,1194480000.0,2008
+Los Angeles Clippers,Detroit Pistons,Los Angeles Clippers,4,1,5,1194656400.0,2008
+Los Angeles Clippers,Los Angeles Clippers,Cleveland Cavaliers,4,2,6,1194834600.0,2008
+Los Angeles Clippers,Los Angeles Clippers,New York Knicks,5,2,7,1195097400.0,2008
+Los Angeles Clippers,Golden State Warriors,Los Angeles Clippers,5,3,8,1195270200.0,2008
+Los Angeles Clippers,Los Angeles Clippers,Chicago Bulls,5,4,9,1195356600.0,2008
+Los Angeles Clippers,Los Angeles Clippers,Denver Nuggets,6,4,10,1195702200.0,2008
+Los Angeles Clippers,Phoenix Suns,Los Angeles Clippers,6,5,11,1195869600.0,2008
+Los Angeles Clippers,Los Angeles Clippers,New Orleans Hornets,6,6,12,1195961400.0,2008
+Los Angeles Clippers,Los Angeles Clippers,Houston Rockets,6,7,13,1196134200.0,2008
+Los Angeles Clippers,Denver Nuggets,Los Angeles Clippers,6,8,14,1196479800.0,2008
+Los Angeles Clippers,Los Angeles Clippers,Indiana Pacers,6,9,15,1196627400.0,2008
+Los Angeles Clippers,Los Angeles Clippers,Milwaukee Bucks,6,10,16,1196825400.0,2008
+Los Angeles Clippers,Seattle Supersonics,Los Angeles Clippers,6,11,17,1196911800.0,2008
+Los Angeles Clippers,Sacramento Kings,Los Angeles Clippers,7,11,18,1197082800.0,2008
+Los Angeles Clippers,Los Angeles Clippers,Miami Heat,7,12,19,1197232200.0,2008
+Los Angeles Clippers,New Jersey Nets,Los Angeles Clippers,8,12,20,1197419400.0,2008
+Los Angeles Clippers,Charlotte Bobcats,Los Angeles Clippers,8,13,21,1197504000.0,2008
+Los Angeles Clippers,Memphis Grizzlies,Los Angeles Clippers,9,13,22,1197680400.0,2008
+Los Angeles Clippers,Los Angeles Lakers,Los Angeles Clippers,9,14,23,1197858600.0,2008
+Los Angeles Clippers,Los Angeles Clippers,Toronto Raptors,9,15,24,1198035000.0,2008
+Los Angeles Clippers,Dallas Mavericks,Los Angeles Clippers,9,16,25,1198290600.0,2008
+Los Angeles Clippers,San Antonio Spurs,Los Angeles Clippers,9,17,26,1198373400.0,2008
+Los Angeles Clippers,Los Angeles Clippers,Phoenix Suns,9,18,27,1198812600.0,2008
+Los Angeles Clippers,Phoenix Suns,Los Angeles Clippers,9,19,28,1198893600.0,2008
+Los Angeles Clippers,Los Angeles Clippers,Minnesota Timberwolves,10,19,29,1199154600.0,2008
+Los Angeles Clippers,Los Angeles Clippers,New Orleans Hornets,10,20,30,1199331000.0,2008
+Los Angeles Clippers,Los Angeles Clippers,San Antonio Spurs,10,21,31,1199651400.0,2008
+Los Angeles Clippers,Los Angeles Clippers,Orlando Magic,10,22,32,1199935800.0,2008
+Los Angeles Clippers,Los Angeles Clippers,Dallas Mavericks,10,23,33,1200195000.0,2008
+Los Angeles Clippers,Los Angeles Clippers,Phoenix Suns,11,23,34,1200454200.0,2008
+Los Angeles Clippers,Utah Jazz,Los Angeles Clippers,11,24,35,1200708000.0,2008
+Los Angeles Clippers,Los Angeles Clippers,New Jersey Nets,12,24,36,1200799800.0,2008
+Los Angeles Clippers,Los Angeles Clippers,Utah Jazz,12,25,37,1200947400.0,2008
+Los Angeles Clippers,Los Angeles Clippers,Sacramento Kings,13,25,38,1201145400.0,2008
+Los Angeles Clippers,New Orleans Hornets,Los Angeles Clippers,13,26,39,1201309200.0,2008
+Los Angeles Clippers,Memphis Grizzlies,Los Angeles Clippers,13,27,40,1201395600.0,2008
+Los Angeles Clippers,Los Angeles Clippers,Charlotte Bobcats,13,28,41,1201577400.0,2008
+Los Angeles Clippers,Los Angeles Clippers,Atlanta Hawks,14,28,42,1201750200.0,2008
+Los Angeles Clippers,Minnesota Timberwolves,Los Angeles Clippers,14,29,43,1201914000.0,2008
+Los Angeles Clippers,Cleveland Cavaliers,Los Angeles Clippers,14,30,44,1201998600.0,2008
+Los Angeles Clippers,New York Knicks,Los Angeles Clippers,15,30,45,1202171400.0,2008
+Los Angeles Clippers,Boston Celtics,Los Angeles Clippers,15,31,46,1202344200.0,2008
+Los Angeles Clippers,Toronto Raptors,Los Angeles Clippers,16,31,47,1202515200.0,2008
+Los Angeles Clippers,Philadelphia 76ers,Los Angeles Clippers,16,32,48,1202603400.0,2008
+Los Angeles Clippers,Milwaukee Bucks,Los Angeles Clippers,17,32,49,1202778000.0,2008
+Los Angeles Clippers,Los Angeles Clippers,Washington Wizards,17,33,50,1202959800.0,2008
+Los Angeles Clippers,Los Angeles Clippers,Memphis Grizzlies,18,33,51,1203564600.0,2008
+Los Angeles Clippers,Los Angeles Clippers,Utah Jazz,19,33,52,1203737400.0,2008
+Los Angeles Clippers,Los Angeles Clippers,Los Angeles Lakers,19,34,53,1203823800.0,2008
+Los Angeles Clippers,Los Angeles Clippers,Boston Celtics,19,35,54,1203996600.0,2008
+Los Angeles Clippers,Los Angeles Clippers,Portland Trail Blazers,19,36,55,1204169400.0,2008
+Los Angeles Clippers,Denver Nuggets,Los Angeles Clippers,19,37,56,1204342200.0,2008
+Los Angeles Clippers,Los Angeles Clippers,Detroit Pistons,19,38,57,1204428600.0,2008
+Los Angeles Clippers,Los Angeles Clippers,Philadelphia 76ers,19,39,58,1204601400.0,2008
+Los Angeles Clippers,Los Angeles Clippers,Sacramento Kings,20,39,59,1204774200.0,2008
+Los Angeles Clippers,Los Angeles Lakers,Los Angeles Clippers,20,40,60,1204947000.0,2008
+Los Angeles Clippers,Los Angeles Clippers,Minnesota Timberwolves,20,41,61,1205033400.0,2008
+Los Angeles Clippers,Miami Heat,Los Angeles Clippers,21,41,62,1205191800.0,2008
+Los Angeles Clippers,Orlando Magic,Los Angeles Clippers,21,42,63,1205362800.0,2008
+Los Angeles Clippers,Atlanta Hawks,Los Angeles Clippers,21,43,64,1205537400.0,2008
+Los Angeles Clippers,Washington Wizards,Los Angeles Clippers,21,44,65,1205622000.0,2008
+Los Angeles Clippers,Minnesota Timberwolves,Los Angeles Clippers,21,45,66,1205798400.0,2008
+Los Angeles Clippers,Los Angeles Clippers,Golden State Warriors,21,46,67,1205980200.0,2008
+Los Angeles Clippers,Portland Trail Blazers,Los Angeles Clippers,21,47,68,1206151200.0,2008
+Los Angeles Clippers,Los Angeles Clippers,Portland Trail Blazers,21,48,69,1206239400.0,2008
+Los Angeles Clippers,Dallas Mavericks,Los Angeles Clippers,21,49,70,1206491400.0,2008
+Los Angeles Clippers,San Antonio Spurs,Los Angeles Clippers,21,50,71,1206577800.0,2008
+Los Angeles Clippers,Utah Jazz,Los Angeles Clippers,21,51,72,1206752400.0,2008
+Los Angeles Clippers,Los Angeles Clippers,Memphis Grizzlies,22,51,73,1206844200.0,2008
+Los Angeles Clippers,Los Angeles Clippers,Dallas Mavericks,22,52,74,1207017000.0,2008
+Los Angeles Clippers,Seattle Supersonics,Los Angeles Clippers,23,52,75,1207188000.0,2008
+Los Angeles Clippers,Sacramento Kings,Los Angeles Clippers,23,53,76,1207274400.0,2008
+Los Angeles Clippers,Los Angeles Clippers,Houston Rockets,23,54,77,1207531800.0,2008
+Los Angeles Clippers,Los Angeles Clippers,Denver Nuggets,23,55,78,1207708200.0,2008
+Los Angeles Clippers,Los Angeles Clippers,Los Angeles Lakers,23,56,79,1207881000.0,2008
+Los Angeles Clippers,Golden State Warriors,Los Angeles Clippers,23,57,80,1208053800.0,2008
+Los Angeles Clippers,New Orleans Hornets,Los Angeles Clippers,23,58,81,1208304000.0,2008
+Los Angeles Clippers,Houston Rockets,Los Angeles Clippers,23,59,82,1208392200.0,2008
+Los Angeles Lakers,Los Angeles Lakers,Houston Rockets,0,1,1,1193797800.0,2008
+Los Angeles Lakers,Phoenix Suns,Los Angeles Lakers,1,1,2,1194057000.0,2008
+Los Angeles Lakers,Los Angeles Lakers,Utah Jazz,2,1,3,1194229800.0,2008
+Los Angeles Lakers,Los Angeles Lakers,New Orleans Hornets,2,2,4,1194406200.0,2008
+Los Angeles Lakers,Los Angeles Lakers,Minnesota Timberwolves,3,2,5,1194665400.0,2008
+Los Angeles Lakers,San Antonio Spurs,Los Angeles Lakers,3,3,6,1195003800.0,2008
+Los Angeles Lakers,Houston Rockets,Los Angeles Lakers,4,3,7,1195092000.0,2008
+Los Angeles Lakers,Los Angeles Lakers,Detroit Pistons,5,3,8,1195270200.0,2008
+Los Angeles Lakers,Los Angeles Lakers,Chicago Bulls,6,3,9,1195439400.0,2008
+Los Angeles Lakers,Indiana Pacers,Los Angeles Lakers,7,3,10,1195603200.0,2008
+Los Angeles Lakers,Milwaukee Bucks,Los Angeles Lakers,7,4,11,1195693200.0,2008
+Los Angeles Lakers,Boston Celtics,Los Angeles Lakers,7,5,12,1195864200.0,2008
+Los Angeles Lakers,Los Angeles Lakers,New Jersey Nets,7,6,13,1196044200.0,2008
+Los Angeles Lakers,Los Angeles Lakers,Seattle Supersonics,8,6,14,1196220600.0,2008
+Los Angeles Lakers,Los Angeles Lakers,Denver Nuggets,9,6,15,1196393400.0,2008
+Los Angeles Lakers,Utah Jazz,Los Angeles Lakers,9,7,16,1196479800.0,2008
+Los Angeles Lakers,Los Angeles Lakers,Orlando Magic,9,8,17,1196649000.0,2008
+Los Angeles Lakers,Minnesota Timberwolves,Los Angeles Lakers,10,8,18,1196816400.0,2008
+Los Angeles Lakers,Denver Nuggets,Los Angeles Lakers,11,8,19,1196906400.0,2008
+Los Angeles Lakers,Los Angeles Lakers,Golden State Warriors,12,8,20,1197253800.0,2008
+Los Angeles Lakers,Los Angeles Lakers,San Antonio Spurs,13,8,21,1197603000.0,2008
+Los Angeles Lakers,Golden State Warriors,Los Angeles Lakers,13,9,22,1197689400.0,2008
+Los Angeles Lakers,Los Angeles Lakers,Los Angeles Clippers,14,9,23,1197858600.0,2008
+Los Angeles Lakers,Chicago Bulls,Los Angeles Lakers,15,9,24,1198027800.0,2008
+Los Angeles Lakers,Cleveland Cavaliers,Los Angeles Lakers,15,10,25,1198198800.0,2008
+Los Angeles Lakers,Philadelphia 76ers,Los Angeles Lakers,16,10,26,1198281600.0,2008
+Los Angeles Lakers,New York Knicks,Los Angeles Lakers,17,10,27,1198429200.0,2008
+Los Angeles Lakers,Los Angeles Lakers,Phoenix Suns,18,10,28,1198620000.0,2008
+Los Angeles Lakers,Los Angeles Lakers,Utah Jazz,19,10,29,1198899000.0,2008
+Los Angeles Lakers,Los Angeles Lakers,Boston Celtics,19,11,30,1199070000.0,2008
+Los Angeles Lakers,Los Angeles Lakers,Philadelphia 76ers,20,11,31,1199503800.0,2008
+Los Angeles Lakers,Los Angeles Lakers,Indiana Pacers,21,11,32,1199673000.0,2008
+Los Angeles Lakers,Memphis Grizzlies,Los Angeles Lakers,22,11,33,1199840400.0,2008
+Los Angeles Lakers,New Orleans Hornets,Los Angeles Lakers,23,11,34,1199926800.0,2008
+Los Angeles Lakers,Los Angeles Lakers,Milwaukee Bucks,24,11,35,1200108600.0,2008
+Los Angeles Lakers,Los Angeles Lakers,Memphis Grizzlies,25,11,36,1200277800.0,2008
+Los Angeles Lakers,Seattle Supersonics,Los Angeles Lakers,26,11,37,1200366000.0,2008
+Los Angeles Lakers,Los Angeles Lakers,Phoenix Suns,26,12,38,1200627000.0,2008
+Los Angeles Lakers,Los Angeles Lakers,Denver Nuggets,27,12,39,1200972600.0,2008
+Los Angeles Lakers,San Antonio Spurs,Los Angeles Lakers,27,13,40,1201140000.0,2008
+Los Angeles Lakers,Dallas Mavericks,Los Angeles Lakers,27,14,41,1201311000.0,2008
+Los Angeles Lakers,Los Angeles Lakers,Cleveland Cavaliers,27,15,42,1201465800.0,2008
+Los Angeles Lakers,Los Angeles Lakers,New York Knicks,28,15,43,1201663800.0,2008
+Los Angeles Lakers,Detroit Pistons,Los Angeles Lakers,28,16,44,1201825800.0,2008
+Los Angeles Lakers,Toronto Raptors,Los Angeles Lakers,29,16,45,1201910400.0,2008
+Los Angeles Lakers,Washington Wizards,Los Angeles Lakers,30,16,46,1202058000.0,2008
+Los Angeles Lakers,New Jersey Nets,Los Angeles Lakers,31,16,47,1202257800.0,2008
+Los Angeles Lakers,Atlanta Hawks,Los Angeles Lakers,31,17,48,1202342400.0,2008
+Los Angeles Lakers,Orlando Magic,Los Angeles Lakers,32,17,49,1202515200.0,2008
+Los Angeles Lakers,Miami Heat,Los Angeles Lakers,33,17,50,1202675400.0,2008
+Los Angeles Lakers,Charlotte Bobcats,Los Angeles Lakers,34,17,51,1202774400.0,2008
+Los Angeles Lakers,Minnesota Timberwolves,Los Angeles Lakers,35,17,52,1202950800.0,2008
+Los Angeles Lakers,Los Angeles Lakers,Atlanta Hawks,36,17,53,1203478200.0,2008
+Los Angeles Lakers,Phoenix Suns,Los Angeles Lakers,37,17,54,1203559200.0,2008
+Los Angeles Lakers,Los Angeles Clippers,Los Angeles Lakers,38,17,55,1203823800.0,2008
+Los Angeles Lakers,Seattle Supersonics,Los Angeles Lakers,39,17,56,1203904800.0,2008
+Los Angeles Lakers,Los Angeles Lakers,Portland Trail Blazers,40,17,57,1204083000.0,2008
+Los Angeles Lakers,Los Angeles Lakers,Miami Heat,41,17,58,1204255800.0,2008
+Los Angeles Lakers,Portland Trail Blazers,Los Angeles Lakers,41,18,59,1204342200.0,2008
+Los Angeles Lakers,Los Angeles Lakers,Dallas Mavericks,42,18,60,1204489800.0,2008
+Los Angeles Lakers,Sacramento Kings,Los Angeles Lakers,43,18,61,1204686000.0,2008
+Los Angeles Lakers,Los Angeles Lakers,Los Angeles Clippers,44,18,62,1204947000.0,2008
+Los Angeles Lakers,Los Angeles Lakers,Sacramento Kings,44,19,63,1205112600.0,2008
+Los Angeles Lakers,Los Angeles Lakers,Toronto Raptors,45,19,64,1205289000.0,2008
+Los Angeles Lakers,New Orleans Hornets,Los Angeles Lakers,45,20,65,1205539200.0,2008
+Los Angeles Lakers,Houston Rockets,Los Angeles Lakers,45,21,66,1205695800.0,2008
+Los Angeles Lakers,Dallas Mavericks,Los Angeles Lakers,46,21,67,1205886600.0,2008
+Los Angeles Lakers,Utah Jazz,Los Angeles Lakers,47,21,68,1206066600.0,2008
+Los Angeles Lakers,Los Angeles Lakers,Seattle Supersonics,48,21,69,1206153000.0,2008
+Los Angeles Lakers,Los Angeles Lakers,Golden State Warriors,48,22,70,1206322200.0,2008
+Los Angeles Lakers,Golden State Warriors,Los Angeles Lakers,49,22,71,1206412200.0,2008
+Los Angeles Lakers,Los Angeles Lakers,Charlotte Bobcats,49,23,72,1206585000.0,2008
+Los Angeles Lakers,Los Angeles Lakers,Memphis Grizzlies,49,24,73,1206757800.0,2008
+Los Angeles Lakers,Los Angeles Lakers,Washington Wizards,50,24,74,1206927000.0,2008
+Los Angeles Lakers,Los Angeles Lakers,Portland Trail Blazers,51,24,75,1207189800.0,2008
+Los Angeles Lakers,Los Angeles Lakers,Dallas Mavericks,52,24,76,1207362600.0,2008
+Los Angeles Lakers,Sacramento Kings,Los Angeles Lakers,53,24,77,1207530000.0,2008
+Los Angeles Lakers,Portland Trail Blazers,Los Angeles Lakers,53,25,78,1207706400.0,2008
+Los Angeles Lakers,Los Angeles Clippers,Los Angeles Lakers,54,25,79,1207881000.0,2008
+Los Angeles Lakers,Los Angeles Lakers,New Orleans Hornets,55,25,80,1207967400.0,2008
+Los Angeles Lakers,Los Angeles Lakers,San Antonio Spurs,56,25,81,1208115000.0,2008
+Los Angeles Lakers,Los Angeles Lakers,Sacramento Kings,57,25,82,1208313000.0,2008
+Memphis Grizzlies,Memphis Grizzlies,San Antonio Spurs,0,1,1,1193875200.0,2008
+Memphis Grizzlies,Memphis Grizzlies,Indiana Pacers,0,2,2,1194134400.0,2008
+Memphis Grizzlies,Seattle Supersonics,Memphis Grizzlies,1,2,3,1194490800.0,2008
+Memphis Grizzlies,Portland Trail Blazers,Memphis Grizzlies,1,3,4,1194663600.0,2008
+Memphis Grizzlies,Utah Jazz,Memphis Grizzlies,1,4,5,1194746400.0,2008
+Memphis Grizzlies,Memphis Grizzlies,Houston Rockets,2,4,6,1195002000.0,2008
+Memphis Grizzlies,Milwaukee Bucks,Memphis Grizzlies,2,5,7,1195088400.0,2008
+Memphis Grizzlies,Memphis Grizzlies,New Orleans Hornets,2,6,8,1195261200.0,2008
+Memphis Grizzlies,Dallas Mavericks,Memphis Grizzlies,2,7,9,1195349400.0,2008
+Memphis Grizzlies,Memphis Grizzlies,Seattle Supersonics,3,7,10,1195520400.0,2008
+Memphis Grizzlies,Memphis Grizzlies,Toronto Raptors,3,8,11,1195693200.0,2008
+Memphis Grizzlies,San Antonio Spurs,Memphis Grizzlies,3,9,12,1195867800.0,2008
+Memphis Grizzlies,Memphis Grizzlies,Washington Wizards,4,9,13,1195952400.0,2008
+Memphis Grizzlies,New Jersey Nets,Memphis Grizzlies,5,9,14,1196209800.0,2008
+Memphis Grizzlies,Toronto Raptors,Memphis Grizzlies,5,10,15,1196294400.0,2008
+Memphis Grizzlies,Memphis Grizzlies,Minnesota Timberwolves,6,10,16,1196557200.0,2008
+Memphis Grizzlies,Memphis Grizzlies,Portland Trail Blazers,6,11,17,1196730000.0,2008
+Memphis Grizzlies,Houston Rockets,Memphis Grizzlies,6,12,18,1196904600.0,2008
+Memphis Grizzlies,New Orleans Hornets,Memphis Grizzlies,6,13,19,1197075600.0,2008
+Memphis Grizzlies,Atlanta Hawks,Memphis Grizzlies,6,14,20,1197158400.0,2008
+Memphis Grizzlies,Memphis Grizzlies,Detroit Pistons,6,15,21,1197421200.0,2008
+Memphis Grizzlies,Memphis Grizzlies,Los Angeles Clippers,6,16,22,1197680400.0,2008
+Memphis Grizzlies,Orlando Magic,Memphis Grizzlies,7,16,23,1197763200.0,2008
+Memphis Grizzlies,Memphis Grizzlies,Golden State Warriors,7,17,24,1197939600.0,2008
+Memphis Grizzlies,Memphis Grizzlies,San Antonio Spurs,8,17,25,1198112400.0,2008
+Memphis Grizzlies,Detroit Pistons,Memphis Grizzlies,8,18,26,1198285200.0,2008
+Memphis Grizzlies,Memphis Grizzlies,Philadelphia 76ers,8,19,27,1198371600.0,2008
+Memphis Grizzlies,Memphis Grizzlies,New Orleans Hornets,8,20,28,1198717200.0,2008
+Memphis Grizzlies,Memphis Grizzlies,Houston Rockets,8,21,29,1198890000.0,2008
+Memphis Grizzlies,San Antonio Spurs,Memphis Grizzlies,8,22,30,1199064600.0,2008
+Memphis Grizzlies,Indiana Pacers,Memphis Grizzlies,9,22,31,1199318400.0,2008
+Memphis Grizzlies,Boston Celtics,Memphis Grizzlies,9,23,32,1199493000.0,2008
+Memphis Grizzlies,Memphis Grizzlies,Miami Heat,10,23,33,1199653200.0,2008
+Memphis Grizzlies,Memphis Grizzlies,Los Angeles Lakers,10,24,34,1199840400.0,2008
+Memphis Grizzlies,Sacramento Kings,Memphis Grizzlies,10,25,35,1200020400.0,2008
+Memphis Grizzlies,Golden State Warriors,Memphis Grizzlies,10,26,36,1200108600.0,2008
+Memphis Grizzlies,Los Angeles Lakers,Memphis Grizzlies,10,27,37,1200277800.0,2008
+Memphis Grizzlies,Memphis Grizzlies,Cleveland Cavaliers,10,28,38,1200445200.0,2008
+Memphis Grizzlies,Memphis Grizzlies,Seattle Supersonics,11,28,39,1200704400.0,2008
+Memphis Grizzlies,Charlotte Bobcats,Memphis Grizzlies,11,29,40,1200787200.0,2008
+Memphis Grizzlies,Memphis Grizzlies,Chicago Bulls,12,29,41,1200954600.0,2008
+Memphis Grizzlies,Memphis Grizzlies,Orlando Magic,12,30,42,1201136400.0,2008
+Memphis Grizzlies,Washington Wizards,Memphis Grizzlies,12,31,43,1201305600.0,2008
+Memphis Grizzlies,Memphis Grizzlies,Los Angeles Clippers,13,31,44,1201395600.0,2008
+Memphis Grizzlies,Memphis Grizzlies,Dallas Mavericks,13,32,45,1201568400.0,2008
+Memphis Grizzlies,Memphis Grizzlies,Denver Nuggets,13,33,46,1201741200.0,2008
+Memphis Grizzlies,Memphis Grizzlies,Utah Jazz,13,34,47,1202000400.0,2008
+Memphis Grizzlies,Memphis Grizzlies,Milwaukee Bucks,13,35,48,1202259600.0,2008
+Memphis Grizzlies,Dallas Mavericks,Memphis Grizzlies,13,36,49,1202520600.0,2008
+Memphis Grizzlies,New Orleans Hornets,Memphis Grizzlies,13,37,50,1202605200.0,2008
+Memphis Grizzlies,Memphis Grizzlies,Sacramento Kings,14,37,51,1202864400.0,2008
+Memphis Grizzlies,Philadelphia 76ers,Memphis Grizzlies,14,38,52,1202947200.0,2008
+Memphis Grizzlies,Seattle Supersonics,Memphis Grizzlies,14,39,53,1203476400.0,2008
+Memphis Grizzlies,Los Angeles Clippers,Memphis Grizzlies,14,40,54,1203564600.0,2008
+Memphis Grizzlies,Memphis Grizzlies,Dallas Mavericks,14,41,55,1203728400.0,2008
+Memphis Grizzlies,Cleveland Cavaliers,Memphis Grizzlies,14,42,56,1203894000.0,2008
+Memphis Grizzlies,Memphis Grizzlies,Phoenix Suns,14,43,57,1204074000.0,2008
+Memphis Grizzlies,Houston Rockets,Memphis Grizzlies,14,44,58,1204335000.0,2008
+Memphis Grizzlies,Memphis Grizzlies,Utah Jazz,14,45,59,1204419600.0,2008
+Memphis Grizzlies,Chicago Bulls,Memphis Grizzlies,14,46,60,1204680600.0,2008
+Memphis Grizzlies,Memphis Grizzlies,New Jersey Nets,15,46,61,1204765200.0,2008
+Memphis Grizzlies,Memphis Grizzlies,Boston Celtics,15,47,62,1205024400.0,2008
+Memphis Grizzlies,Phoenix Suns,Memphis Grizzlies,15,48,63,1205287200.0,2008
+Memphis Grizzlies,Denver Nuggets,Memphis Grizzlies,15,49,64,1205370000.0,2008
+Memphis Grizzlies,Golden State Warriors,Memphis Grizzlies,15,50,65,1205634600.0,2008
+Memphis Grizzlies,Memphis Grizzlies,Charlotte Bobcats,16,50,66,1205798400.0,2008
+Memphis Grizzlies,Minnesota Timberwolves,Memphis Grizzlies,16,51,67,1205971200.0,2008
+Memphis Grizzlies,New York Knicks,Memphis Grizzlies,17,51,68,1206142200.0,2008
+Memphis Grizzlies,Memphis Grizzlies,Sacramento Kings,18,51,69,1206230400.0,2008
+Memphis Grizzlies,Memphis Grizzlies,Denver Nuggets,18,52,70,1206403200.0,2008
+Memphis Grizzlies,Sacramento Kings,Memphis Grizzlies,18,53,71,1206583200.0,2008
+Memphis Grizzlies,Los Angeles Lakers,Memphis Grizzlies,19,53,72,1206757800.0,2008
+Memphis Grizzlies,Los Angeles Clippers,Memphis Grizzlies,19,54,73,1206844200.0,2008
+Memphis Grizzlies,Memphis Grizzlies,Atlanta Hawks,19,55,74,1207008000.0,2008
+Memphis Grizzlies,Memphis Grizzlies,New York Knicks,20,55,75,1207180800.0,2008
+Memphis Grizzlies,Memphis Grizzlies,Golden State Warriors,20,56,76,1207353600.0,2008
+Memphis Grizzlies,Minnesota Timberwolves,Memphis Grizzlies,21,56,77,1207521000.0,2008
+Memphis Grizzlies,Memphis Grizzlies,Phoenix Suns,21,57,78,1207699200.0,2008
+Memphis Grizzlies,Miami Heat,Memphis Grizzlies,22,57,79,1207956600.0,2008
+Memphis Grizzlies,Memphis Grizzlies,Minnesota Timberwolves,22,58,80,1208044800.0,2008
+Memphis Grizzlies,Portland Trail Blazers,Memphis Grizzlies,22,59,81,1208311200.0,2008
+Memphis Grizzlies,Denver Nuggets,Memphis Grizzlies,22,60,82,1208394000.0,2008
+Miami Heat,Miami Heat,Detroit Pistons,0,1,1,1193961600.0,2008
+Miami Heat,Indiana Pacers,Miami Heat,0,2,2,1194044400.0,2008
+Miami Heat,Miami Heat,Charlotte Bobcats,0,3,3,1194217200.0,2008
+Miami Heat,San Antonio Spurs,Miami Heat,0,4,4,1194483600.0,2008
+Miami Heat,Miami Heat,Phoenix Suns,0,5,5,1194654600.0,2008
+Miami Heat,New York Knicks,Miami Heat,1,5,6,1194822000.0,2008
+Miami Heat,Charlotte Bobcats,Miami Heat,1,6,7,1194998400.0,2008
+Miami Heat,Miami Heat,Seattle Supersonics,1,7,8,1195086600.0,2008
+Miami Heat,Boston Celtics,Miami Heat,1,8,9,1195259400.0,2008
+Miami Heat,New Jersey Nets,Miami Heat,2,8,10,1195345800.0,2008
+Miami Heat,Miami Heat,Atlanta Hawks,2,9,11,1195691400.0,2008
+Miami Heat,Miami Heat,Houston Rockets,3,9,12,1195866000.0,2008
+Miami Heat,Orlando Magic,Miami Heat,3,10,13,1195948800.0,2008
+Miami Heat,Miami Heat,Charlotte Bobcats,4,10,14,1196209800.0,2008
+Miami Heat,Miami Heat,Boston Celtics,4,11,15,1196470800.0,2008
+Miami Heat,Denver Nuggets,Miami Heat,4,12,16,1196643600.0,2008
+Miami Heat,Utah Jazz,Miami Heat,4,13,17,1196733600.0,2008
+Miami Heat,Portland Trail Blazers,Miami Heat,4,14,18,1196998200.0,2008
+Miami Heat,Golden State Warriors,Miami Heat,4,15,19,1197084600.0,2008
+Miami Heat,Los Angeles Clippers,Miami Heat,5,15,20,1197232200.0,2008
+Miami Heat,Phoenix Suns,Miami Heat,6,15,21,1197338400.0,2008
+Miami Heat,Miami Heat,Washington Wizards,6,16,22,1197594000.0,2008
+Miami Heat,Miami Heat,Indiana Pacers,6,17,23,1197765000.0,2008
+Miami Heat,Miami Heat,Minnesota Timberwolves,7,17,24,1197937800.0,2008
+Miami Heat,Atlanta Hawks,Miami Heat,7,18,25,1198108800.0,2008
+Miami Heat,Miami Heat,New Jersey Nets,7,19,26,1198197000.0,2008
+Miami Heat,Miami Heat,Utah Jazz,8,19,27,1198369800.0,2008
+Miami Heat,Cleveland Cavaliers,Miami Heat,8,20,28,1198611000.0,2008
+Miami Heat,Philadelphia 76ers,Miami Heat,8,21,29,1198710000.0,2008
+Miami Heat,Miami Heat,Orlando Magic,8,22,30,1198888200.0,2008
+Miami Heat,Washington Wizards,Miami Heat,8,23,31,1198972800.0,2008
+Miami Heat,Miami Heat,Milwaukee Bucks,8,24,32,1199320200.0,2008
+Miami Heat,Dallas Mavericks,Miami Heat,8,25,33,1199500200.0,2008
+Miami Heat,Memphis Grizzlies,Miami Heat,8,26,34,1199653200.0,2008
+Miami Heat,Minnesota Timberwolves,Miami Heat,8,27,35,1199840400.0,2008
+Miami Heat,Milwaukee Bucks,Miami Heat,8,28,36,1199926800.0,2008
+Miami Heat,New Orleans Hornets,Miami Heat,8,29,37,1200099600.0,2008
+Miami Heat,Miami Heat,Chicago Bulls,8,30,38,1200528000.0,2008
+Miami Heat,Miami Heat,Portland Trail Blazers,8,31,39,1200700800.0,2008
+Miami Heat,Miami Heat,New York Knicks,8,32,40,1200789000.0,2008
+Miami Heat,Miami Heat,Cleveland Cavaliers,8,33,41,1200963600.0,2008
+Miami Heat,Miami Heat,San Antonio Spurs,8,34,42,1201222800.0,2008
+Miami Heat,Miami Heat,Indiana Pacers,9,34,43,1201379400.0,2008
+Miami Heat,Miami Heat,Boston Celtics,9,35,44,1201653000.0,2008
+Miami Heat,Orlando Magic,Miami Heat,9,36,45,1201737600.0,2008
+Miami Heat,Miami Heat,New Jersey Nets,9,37,46,1201914000.0,2008
+Miami Heat,Miami Heat,Toronto Raptors,9,38,47,1202171400.0,2008
+Miami Heat,Detroit Pistons,Miami Heat,9,39,48,1202344200.0,2008
+Miami Heat,Philadelphia 76ers,Miami Heat,9,40,49,1202428800.0,2008
+Miami Heat,Miami Heat,Los Angeles Lakers,9,41,50,1202675400.0,2008
+Miami Heat,Miami Heat,Denver Nuggets,9,42,51,1202862600.0,2008
+Miami Heat,Chicago Bulls,Miami Heat,9,43,52,1203037200.0,2008
+Miami Heat,Houston Rockets,Miami Heat,9,44,53,1203642000.0,2008
+Miami Heat,Miami Heat,Philadelphia 76ers,9,45,54,1203813000.0,2008
+Miami Heat,Miami Heat,Sacramento Kings,10,45,55,1204072200.0,2008
+Miami Heat,Los Angeles Lakers,Miami Heat,10,46,56,1204255800.0,2008
+Miami Heat,Seattle Supersonics,Miami Heat,11,46,57,1204342200.0,2008
+Miami Heat,Sacramento Kings,Miami Heat,11,47,58,1204509600.0,2008
+Miami Heat,Miami Heat,Toronto Raptors,11,48,59,1204763400.0,2008
+Miami Heat,Miami Heat,Golden State Warriors,11,49,60,1204936200.0,2008
+Miami Heat,Atlanta Hawks,Miami Heat,11,50,61,1205020800.0,2008
+Miami Heat,Miami Heat,Los Angeles Clippers,11,51,62,1205191800.0,2008
+Miami Heat,Miami Heat,New York Knicks,11,52,63,1205364600.0,2008
+Miami Heat,Miami Heat,Orlando Magic,11,53,64,1205537400.0,2008
+Miami Heat,Miami Heat,Dallas Mavericks,11,54,65,1205704800.0,2008
+Miami Heat,Milwaukee Bucks,Miami Heat,12,54,66,1205884800.0,2008
+Miami Heat,Toronto Raptors,Miami Heat,12,55,67,1205967600.0,2008
+Miami Heat,Miami Heat,Washington Wizards,12,56,68,1206142200.0,2008
+Miami Heat,Charlotte Bobcats,Miami Heat,12,57,69,1206226800.0,2008
+Miami Heat,Miami Heat,Milwaukee Bucks,13,57,70,1206401400.0,2008
+Miami Heat,New York Knicks,Miami Heat,13,58,71,1206574200.0,2008
+Miami Heat,Detroit Pistons,Miami Heat,13,59,72,1206662400.0,2008
+Miami Heat,Boston Celtics,Miami Heat,13,60,73,1206914400.0,2008
+Miami Heat,Indiana Pacers,Miami Heat,13,61,74,1207004400.0,2008
+Miami Heat,Miami Heat,New Orleans Hornets,13,62,75,1207179000.0,2008
+Miami Heat,Washington Wizards,Miami Heat,13,63,76,1207353600.0,2008
+Miami Heat,Miami Heat,Detroit Pistons,13,64,77,1207519200.0,2008
+Miami Heat,Miami Heat,Chicago Bulls,14,64,78,1207697400.0,2008
+Miami Heat,Miami Heat,Memphis Grizzlies,14,65,79,1207956600.0,2008
+Miami Heat,Cleveland Cavaliers,Miami Heat,14,66,80,1208124000.0,2008
+Miami Heat,Toronto Raptors,Miami Heat,14,67,81,1208214000.0,2008
+Miami Heat,Miami Heat,Atlanta Hawks,15,67,82,1208388600.0,2008
+Milwaukee Bucks,Orlando Magic,Milwaukee Bucks,0,1,1,1193871600.0,2008
+Milwaukee Bucks,Charlotte Bobcats,Milwaukee Bucks,0,2,2,1194044400.0,2008
+Milwaukee Bucks,Milwaukee Bucks,Chicago Bulls,1,2,3,1194136200.0,2008
+Milwaukee Bucks,Milwaukee Bucks,Toronto Raptors,2,2,4,1194397200.0,2008
+Milwaukee Bucks,Houston Rockets,Milwaukee Bucks,2,3,5,1194658200.0,2008
+Milwaukee Bucks,San Antonio Spurs,Milwaukee Bucks,2,4,6,1194829200.0,2008
+Milwaukee Bucks,Milwaukee Bucks,Memphis Grizzlies,3,4,7,1195088400.0,2008
+Milwaukee Bucks,Milwaukee Bucks,Atlanta Hawks,4,4,8,1195349400.0,2008
+Milwaukee Bucks,Cleveland Cavaliers,Milwaukee Bucks,5,4,9,1195603200.0,2008
+Milwaukee Bucks,Milwaukee Bucks,Los Angeles Lakers,6,4,10,1195693200.0,2008
+Milwaukee Bucks,Milwaukee Bucks,Dallas Mavericks,7,4,11,1195956000.0,2008
+Milwaukee Bucks,Milwaukee Bucks,Philadelphia 76ers,7,5,12,1196211600.0,2008
+Milwaukee Bucks,Atlanta Hawks,Milwaukee Bucks,7,6,13,1196294400.0,2008
+Milwaukee Bucks,New York Knicks,Milwaukee Bucks,7,7,14,1196469000.0,2008
+Milwaukee Bucks,Milwaukee Bucks,Detroit Pistons,7,8,15,1196559000.0,2008
+Milwaukee Bucks,Los Angeles Clippers,Milwaukee Bucks,8,8,16,1196825400.0,2008
+Milwaukee Bucks,Golden State Warriors,Milwaukee Bucks,8,9,17,1196911800.0,2008
+Milwaukee Bucks,Seattle Supersonics,Milwaukee Bucks,8,10,18,1197084600.0,2008
+Milwaukee Bucks,Portland Trail Blazers,Milwaukee Bucks,8,11,19,1197241200.0,2008
+Milwaukee Bucks,Sacramento Kings,Milwaukee Bucks,8,12,20,1197342000.0,2008
+Milwaukee Bucks,Milwaukee Bucks,Orlando Magic,9,12,21,1197507600.0,2008
+Milwaukee Bucks,Boston Celtics,Milwaukee Bucks,9,13,22,1197678600.0,2008
+Milwaukee Bucks,Milwaukee Bucks,Minnesota Timberwolves,10,13,23,1197768600.0,2008
+Milwaukee Bucks,Cleveland Cavaliers,Milwaukee Bucks,10,14,24,1197936000.0,2008
+Milwaukee Bucks,Milwaukee Bucks,Sacramento Kings,10,15,25,1198112400.0,2008
+Milwaukee Bucks,Milwaukee Bucks,Charlotte Bobcats,11,15,26,1198373400.0,2008
+Milwaukee Bucks,Denver Nuggets,Milwaukee Bucks,11,16,27,1198720800.0,2008
+Milwaukee Bucks,Chicago Bulls,Milwaukee Bucks,11,17,28,1198891800.0,2008
+Milwaukee Bucks,Milwaukee Bucks,New Jersey Nets,11,18,29,1198978200.0,2008
+Milwaukee Bucks,Detroit Pistons,Milwaukee Bucks,11,19,30,1199133000.0,2008
+Milwaukee Bucks,Miami Heat,Milwaukee Bucks,12,19,31,1199320200.0,2008
+Milwaukee Bucks,Milwaukee Bucks,Washington Wizards,12,20,32,1199496600.0,2008
+Milwaukee Bucks,Charlotte Bobcats,Milwaukee Bucks,13,20,33,1199660400.0,2008
+Milwaukee Bucks,Philadelphia 76ers,Milwaukee Bucks,14,20,34,1199836800.0,2008
+Milwaukee Bucks,Milwaukee Bucks,Miami Heat,15,20,35,1199926800.0,2008
+Milwaukee Bucks,Los Angeles Lakers,Milwaukee Bucks,15,21,36,1200108600.0,2008
+Milwaukee Bucks,Phoenix Suns,Milwaukee Bucks,15,22,37,1200189600.0,2008
+Milwaukee Bucks,Utah Jazz,Milwaukee Bucks,15,23,38,1200362400.0,2008
+Milwaukee Bucks,Milwaukee Bucks,Atlanta Hawks,16,23,39,1200531600.0,2008
+Milwaukee Bucks,Milwaukee Bucks,Golden State Warriors,16,24,40,1200792600.0,2008
+Milwaukee Bucks,New Orleans Hornets,Milwaukee Bucks,16,25,41,1200947400.0,2008
+Milwaukee Bucks,Milwaukee Bucks,Phoenix Suns,16,26,42,1201050000.0,2008
+Milwaukee Bucks,Milwaukee Bucks,Indiana Pacers,17,26,43,1201222800.0,2008
+Milwaukee Bucks,Toronto Raptors,Milwaukee Bucks,17,27,44,1201305600.0,2008
+Milwaukee Bucks,Milwaukee Bucks,Washington Wizards,18,27,45,1201474800.0,2008
+Milwaukee Bucks,New Jersey Nets,Milwaukee Bucks,18,28,46,1201653000.0,2008
+Milwaukee Bucks,Philadelphia 76ers,Milwaukee Bucks,18,29,47,1201737600.0,2008
+Milwaukee Bucks,Milwaukee Bucks,Houston Rockets,18,30,48,1202002200.0,2008
+Milwaukee Bucks,Memphis Grizzlies,Milwaukee Bucks,19,30,49,1202259600.0,2008
+Milwaukee Bucks,Dallas Mavericks,Milwaukee Bucks,19,31,50,1202347800.0,2008
+Milwaukee Bucks,Milwaukee Bucks,New York Knicks,19,32,51,1202607000.0,2008
+Milwaukee Bucks,Milwaukee Bucks,Los Angeles Clippers,19,33,52,1202778000.0,2008
+Milwaukee Bucks,Milwaukee Bucks,New Orleans Hornets,19,34,53,1202950800.0,2008
+Milwaukee Bucks,Milwaukee Bucks,Detroit Pistons,20,34,54,1203555600.0,2008
+Milwaukee Bucks,Detroit Pistons,Milwaukee Bucks,20,35,55,1203728400.0,2008
+Milwaukee Bucks,Milwaukee Bucks,Denver Nuggets,21,35,56,1203816600.0,2008
+Milwaukee Bucks,Milwaukee Bucks,Cleveland Cavaliers,22,35,57,1204074000.0,2008
+Milwaukee Bucks,New Jersey Nets,Milwaukee Bucks,22,36,58,1204245000.0,2008
+Milwaukee Bucks,Milwaukee Bucks,San Antonio Spurs,22,37,59,1204421400.0,2008
+Milwaukee Bucks,Indiana Pacers,Milwaukee Bucks,22,38,60,1204498800.0,2008
+Milwaukee Bucks,Milwaukee Bucks,Seattle Supersonics,23,38,61,1204765200.0,2008
+Milwaukee Bucks,Milwaukee Bucks,Portland Trail Blazers,23,39,62,1204939800.0,2008
+Milwaukee Bucks,Milwaukee Bucks,Philadelphia 76ers,23,40,63,1205082000.0,2008
+Milwaukee Bucks,Washington Wizards,Milwaukee Bucks,23,41,64,1205276400.0,2008
+Milwaukee Bucks,Milwaukee Bucks,Utah Jazz,23,42,65,1205366400.0,2008
+Milwaukee Bucks,Milwaukee Bucks,Boston Celtics,23,43,66,1205627400.0,2008
+Milwaukee Bucks,Milwaukee Bucks,Miami Heat,23,44,67,1205884800.0,2008
+Milwaukee Bucks,Milwaukee Bucks,Cleveland Cavaliers,24,44,68,1206232200.0,2008
+Milwaukee Bucks,Miami Heat,Milwaukee Bucks,24,45,69,1206401400.0,2008
+Milwaukee Bucks,Atlanta Hawks,Milwaukee Bucks,24,46,70,1206572400.0,2008
+Milwaukee Bucks,Milwaukee Bucks,Orlando Magic,24,47,71,1206750600.0,2008
+Milwaukee Bucks,Chicago Bulls,Milwaukee Bucks,24,48,72,1206837000.0,2008
+Milwaukee Bucks,Milwaukee Bucks,New York Knicks,25,48,73,1207094400.0,2008
+Milwaukee Bucks,Washington Wizards,Milwaukee Bucks,26,48,74,1207177200.0,2008
+Milwaukee Bucks,Milwaukee Bucks,Indiana Pacers,26,49,75,1207355400.0,2008
+Milwaukee Bucks,Indiana Pacers,Milwaukee Bucks,26,50,76,1207519200.0,2008
+Milwaukee Bucks,Milwaukee Bucks,Boston Celtics,26,51,77,1207699200.0,2008
+Milwaukee Bucks,Toronto Raptors,Milwaukee Bucks,26,52,78,1207782000.0,2008
+Milwaukee Bucks,Boston Celtics,Milwaukee Bucks,26,53,79,1207956600.0,2008
+Milwaukee Bucks,Milwaukee Bucks,New Jersey Nets,26,54,80,1208046600.0,2008
+Milwaukee Bucks,Milwaukee Bucks,Chicago Bulls,26,55,81,1208217600.0,2008
+Milwaukee Bucks,Minnesota Timberwolves,Milwaukee Bucks,26,56,82,1208390400.0,2008
+Minnesota Timberwolves,Minnesota Timberwolves,Denver Nuggets,0,1,1,1194048000.0,2008
+Minnesota Timberwolves,New York Knicks,Minnesota Timberwolves,0,2,2,1194217200.0,2008
+Minnesota Timberwolves,Minnesota Timberwolves,Orlando Magic,0,3,3,1194397200.0,2008
+Minnesota Timberwolves,Los Angeles Lakers,Minnesota Timberwolves,0,4,4,1194665400.0,2008
+Minnesota Timberwolves,Sacramento Kings,Minnesota Timberwolves,0,5,5,1194750000.0,2008
+Minnesota Timberwolves,Minnesota Timberwolves,Sacramento Kings,1,5,6,1195088400.0,2008
+Minnesota Timberwolves,Minnesota Timberwolves,Washington Wizards,1,6,7,1195261200.0,2008
+Minnesota Timberwolves,Minnesota Timberwolves,New Orleans Hornets,1,7,8,1195347600.0,2008
+Minnesota Timberwolves,Minnesota Timberwolves,Cleveland Cavaliers,1,8,9,1195693200.0,2008
+Minnesota Timberwolves,Denver Nuggets,Minnesota Timberwolves,1,9,10,1195869600.0,2008
+Minnesota Timberwolves,Minnesota Timberwolves,Atlanta Hawks,1,10,11,1195952400.0,2008
+Minnesota Timberwolves,New Orleans Hornets,Minnesota Timberwolves,2,10,12,1196125200.0,2008
+Minnesota Timberwolves,Dallas Mavericks,Minnesota Timberwolves,2,11,13,1196299800.0,2008
+Minnesota Timberwolves,Minnesota Timberwolves,San Antonio Spurs,2,12,14,1196470800.0,2008
+Minnesota Timberwolves,Memphis Grizzlies,Minnesota Timberwolves,2,13,15,1196557200.0,2008
+Minnesota Timberwolves,Minnesota Timberwolves,Los Angeles Lakers,2,14,16,1196816400.0,2008
+Minnesota Timberwolves,Atlanta Hawks,Minnesota Timberwolves,2,15,17,1196985600.0,2008
+Minnesota Timberwolves,Minnesota Timberwolves,Phoenix Suns,3,15,18,1197162000.0,2008
+Minnesota Timberwolves,Washington Wizards,Minnesota Timberwolves,3,16,19,1197417600.0,2008
+Minnesota Timberwolves,Philadelphia 76ers,Minnesota Timberwolves,3,17,20,1197504000.0,2008
+Minnesota Timberwolves,Minnesota Timberwolves,Seattle Supersonics,3,18,21,1197680400.0,2008
+Minnesota Timberwolves,Milwaukee Bucks,Minnesota Timberwolves,3,19,22,1197768600.0,2008
+Minnesota Timberwolves,Miami Heat,Minnesota Timberwolves,3,20,23,1197937800.0,2008
+Minnesota Timberwolves,Minnesota Timberwolves,Golden State Warriors,3,21,24,1198112400.0,2008
+Minnesota Timberwolves,Minnesota Timberwolves,Indiana Pacers,4,21,25,1198285200.0,2008
+Minnesota Timberwolves,New Orleans Hornets,Minnesota Timberwolves,4,22,26,1198371600.0,2008
+Minnesota Timberwolves,Golden State Warriors,Minnesota Timberwolves,4,23,27,1198726200.0,2008
+Minnesota Timberwolves,Portland Trail Blazers,Minnesota Timberwolves,4,24,28,1198897200.0,2008
+Minnesota Timberwolves,Seattle Supersonics,Minnesota Timberwolves,4,25,29,1198983600.0,2008
+Minnesota Timberwolves,Los Angeles Clippers,Minnesota Timberwolves,4,26,30,1199154600.0,2008
+Minnesota Timberwolves,Minnesota Timberwolves,Portland Trail Blazers,4,27,31,1199322000.0,2008
+Minnesota Timberwolves,Minnesota Timberwolves,Denver Nuggets,4,28,32,1199494800.0,2008
+Minnesota Timberwolves,Minnesota Timberwolves,Dallas Mavericks,4,29,33,1199651400.0,2008
+Minnesota Timberwolves,Minnesota Timberwolves,Miami Heat,5,29,34,1199840400.0,2008
+Minnesota Timberwolves,Houston Rockets,Minnesota Timberwolves,5,30,35,1200101400.0,2008
+Minnesota Timberwolves,San Antonio Spurs,Minnesota Timberwolves,5,31,36,1200187800.0,2008
+Minnesota Timberwolves,Minnesota Timberwolves,Golden State Warriors,5,32,37,1200445200.0,2008
+Minnesota Timberwolves,Phoenix Suns,Minnesota Timberwolves,5,33,38,1200708000.0,2008
+Minnesota Timberwolves,Denver Nuggets,Minnesota Timberwolves,5,34,39,1200794400.0,2008
+Minnesota Timberwolves,Golden State Warriors,Minnesota Timberwolves,6,34,40,1200949200.0,2008
+Minnesota Timberwolves,Minnesota Timberwolves,Phoenix Suns,7,34,41,1201136400.0,2008
+Minnesota Timberwolves,Boston Celtics,Minnesota Timberwolves,7,35,42,1201307400.0,2008
+Minnesota Timberwolves,Minnesota Timberwolves,New Jersey Nets,8,35,43,1201476600.0,2008
+Minnesota Timberwolves,Chicago Bulls,Minnesota Timberwolves,8,36,44,1201656600.0,2008
+Minnesota Timberwolves,Minnesota Timberwolves,Chicago Bulls,9,36,45,1201741200.0,2008
+Minnesota Timberwolves,Minnesota Timberwolves,Los Angeles Clippers,10,36,46,1201914000.0,2008
+Minnesota Timberwolves,Minnesota Timberwolves,Houston Rockets,10,37,47,1202173200.0,2008
+Minnesota Timberwolves,Minnesota Timberwolves,Boston Celtics,10,38,48,1202518800.0,2008
+Minnesota Timberwolves,Minnesota Timberwolves,Toronto Raptors,10,39,49,1202686200.0,2008
+Minnesota Timberwolves,New Jersey Nets,Minnesota Timberwolves,10,40,50,1202862600.0,2008
+Minnesota Timberwolves,Minnesota Timberwolves,Los Angeles Lakers,10,41,51,1202950800.0,2008
+Minnesota Timberwolves,Minnesota Timberwolves,Philadelphia 76ers,11,41,52,1203469200.0,2008
+Minnesota Timberwolves,Minnesota Timberwolves,San Antonio Spurs,11,42,53,1203642000.0,2008
+Minnesota Timberwolves,Minnesota Timberwolves,Dallas Mavericks,11,43,54,1203895800.0,2008
+Minnesota Timberwolves,Minnesota Timberwolves,Utah Jazz,12,43,55,1204074000.0,2008
+Minnesota Timberwolves,Toronto Raptors,Minnesota Timberwolves,12,44,56,1204156800.0,2008
+Minnesota Timberwolves,Cleveland Cavaliers,Minnesota Timberwolves,12,45,57,1204331400.0,2008
+Minnesota Timberwolves,Minnesota Timberwolves,Seattle Supersonics,12,46,58,1204500600.0,2008
+Minnesota Timberwolves,Minnesota Timberwolves,Charlotte Bobcats,12,47,59,1204678800.0,2008
+Minnesota Timberwolves,Utah Jazz,Minnesota Timberwolves,12,48,60,1204768800.0,2008
+Minnesota Timberwolves,Sacramento Kings,Minnesota Timberwolves,13,48,61,1204945200.0,2008
+Minnesota Timberwolves,Los Angeles Clippers,Minnesota Timberwolves,14,48,62,1205033400.0,2008
+Minnesota Timberwolves,Minnesota Timberwolves,Portland Trail Blazers,14,49,63,1205280000.0,2008
+Minnesota Timberwolves,Seattle Supersonics,Minnesota Timberwolves,15,49,64,1205548200.0,2008
+Minnesota Timberwolves,Portland Trail Blazers,Minnesota Timberwolves,15,50,65,1205632800.0,2008
+Minnesota Timberwolves,Minnesota Timberwolves,Los Angeles Clippers,16,50,66,1205798400.0,2008
+Minnesota Timberwolves,Minnesota Timberwolves,Memphis Grizzlies,17,50,67,1205971200.0,2008
+Minnesota Timberwolves,Indiana Pacers,Minnesota Timberwolves,17,51,68,1206140400.0,2008
+Minnesota Timberwolves,Minnesota Timberwolves,New York Knicks,18,51,69,1206230400.0,2008
+Minnesota Timberwolves,Houston Rockets,Minnesota Timberwolves,18,52,70,1206577800.0,2008
+Minnesota Timberwolves,San Antonio Spurs,Minnesota Timberwolves,18,53,71,1206750600.0,2008
+Minnesota Timberwolves,Minnesota Timberwolves,Utah Jazz,19,53,72,1206905400.0,2008
+Minnesota Timberwolves,Minnesota Timberwolves,Detroit Pistons,19,54,73,1207094400.0,2008
+Minnesota Timberwolves,Utah Jazz,Minnesota Timberwolves,19,55,74,1207184400.0,2008
+Minnesota Timberwolves,Phoenix Suns,Minnesota Timberwolves,19,56,75,1207360800.0,2008
+Minnesota Timberwolves,Minnesota Timberwolves,Memphis Grizzlies,19,57,76,1207521000.0,2008
+Minnesota Timberwolves,Charlotte Bobcats,Minnesota Timberwolves,19,58,77,1207695600.0,2008
+Minnesota Timberwolves,Minnesota Timberwolves,New Orleans Hornets,19,59,78,1207785600.0,2008
+Minnesota Timberwolves,Orlando Magic,Minnesota Timberwolves,20,59,79,1207954800.0,2008
+Minnesota Timberwolves,Memphis Grizzlies,Minnesota Timberwolves,21,59,80,1208044800.0,2008
+Minnesota Timberwolves,Detroit Pistons,Minnesota Timberwolves,21,60,81,1208302200.0,2008
+Minnesota Timberwolves,Minnesota Timberwolves,Milwaukee Bucks,22,60,82,1208390400.0,2008
+New Jersey Nets,New Jersey Nets,Chicago Bulls,1,0,1,1193873400.0,2008
+New Jersey Nets,New Jersey Nets,Toronto Raptors,1,1,2,1194046200.0,2008
+New Jersey Nets,Philadelphia 76ers,New Jersey Nets,2,1,3,1194130800.0,2008
+New Jersey Nets,New Jersey Nets,Atlanta Hawks,3,1,4,1194395400.0,2008
+New Jersey Nets,New Jersey Nets,Washington Wizards,4,1,5,1194568200.0,2008
+New Jersey Nets,New Jersey Nets,Boston Celtics,4,2,6,1194741000.0,2008
+New Jersey Nets,New Jersey Nets,New Orleans Hornets,4,3,7,1194913800.0,2008
+New Jersey Nets,Boston Celtics,New Jersey Nets,4,4,8,1195086600.0,2008
+New Jersey Nets,New Jersey Nets,Orlando Magic,4,5,9,1195259400.0,2008
+New Jersey Nets,New Jersey Nets,Miami Heat,4,6,10,1195345800.0,2008
+New Jersey Nets,Utah Jazz,New Jersey Nets,4,7,11,1195524000.0,2008
+New Jersey Nets,Portland Trail Blazers,New Jersey Nets,5,7,12,1195700400.0,2008
+New Jersey Nets,Seattle Supersonics,New Jersey Nets,6,7,13,1195875000.0,2008
+New Jersey Nets,Los Angeles Lakers,New Jersey Nets,7,7,14,1196044200.0,2008
+New Jersey Nets,New Jersey Nets,Memphis Grizzlies,7,8,15,1196209800.0,2008
+New Jersey Nets,New Jersey Nets,Philadelphia 76ers,8,8,16,1196555400.0,2008
+New Jersey Nets,Detroit Pistons,New Jersey Nets,8,9,17,1196636400.0,2008
+New Jersey Nets,Cleveland Cavaliers,New Jersey Nets,9,9,18,1196812800.0,2008
+New Jersey Nets,New Jersey Nets,New York Knicks,9,10,19,1196901000.0,2008
+New Jersey Nets,New Jersey Nets,Houston Rockets,9,11,20,1197073800.0,2008
+New Jersey Nets,Washington Wizards,New Jersey Nets,9,12,21,1197244800.0,2008
+New Jersey Nets,New Jersey Nets,Los Angeles Clippers,9,13,22,1197419400.0,2008
+New Jersey Nets,New Jersey Nets,Cleveland Cavaliers,10,13,23,1197680400.0,2008
+New Jersey Nets,New York Knicks,New Jersey Nets,10,14,24,1197765000.0,2008
+New Jersey Nets,New Jersey Nets,Sacramento Kings,10,15,25,1198024200.0,2008
+New Jersey Nets,Miami Heat,New Jersey Nets,11,15,26,1198197000.0,2008
+New Jersey Nets,New Jersey Nets,Golden State Warriors,12,15,27,1198369800.0,2008
+New Jersey Nets,New Jersey Nets,Detroit Pistons,12,16,28,1198715400.0,2008
+New Jersey Nets,New Jersey Nets,Washington Wizards,13,16,29,1198888200.0,2008
+New Jersey Nets,Milwaukee Bucks,New Jersey Nets,14,16,30,1198978200.0,2008
+New Jersey Nets,Orlando Magic,New Jersey Nets,15,16,31,1199318400.0,2008
+New Jersey Nets,New Jersey Nets,Charlotte Bobcats,16,16,32,1199493000.0,2008
+New Jersey Nets,Atlanta Hawks,New Jersey Nets,17,16,33,1199577600.0,2008
+New Jersey Nets,Charlotte Bobcats,New Jersey Nets,17,17,34,1199836800.0,2008
+New Jersey Nets,New Jersey Nets,Seattle Supersonics,18,17,35,1199925000.0,2008
+New Jersey Nets,New Jersey Nets,Boston Celtics,18,18,36,1200097800.0,2008
+New Jersey Nets,New Jersey Nets,Portland Trail Blazers,18,19,37,1200357000.0,2008
+New Jersey Nets,New Jersey Nets,New York Knicks,18,20,38,1200529800.0,2008
+New Jersey Nets,Los Angeles Clippers,New Jersey Nets,18,21,39,1200799800.0,2008
+New Jersey Nets,Phoenix Suns,New Jersey Nets,18,22,40,1200877200.0,2008
+New Jersey Nets,Sacramento Kings,New Jersey Nets,18,23,41,1201057200.0,2008
+New Jersey Nets,Golden State Warriors,New Jersey Nets,18,24,42,1201231800.0,2008
+New Jersey Nets,Denver Nuggets,New Jersey Nets,18,25,43,1201312800.0,2008
+New Jersey Nets,Minnesota Timberwolves,New Jersey Nets,18,26,44,1201476600.0,2008
+New Jersey Nets,New Jersey Nets,Milwaukee Bucks,19,26,45,1201653000.0,2008
+New Jersey Nets,Miami Heat,New Jersey Nets,20,26,46,1201914000.0,2008
+New Jersey Nets,Atlanta Hawks,New Jersey Nets,20,27,47,1201996800.0,2008
+New Jersey Nets,New Jersey Nets,Los Angeles Lakers,20,28,48,1202257800.0,2008
+New Jersey Nets,Orlando Magic,New Jersey Nets,20,29,49,1202342400.0,2008
+New Jersey Nets,Charlotte Bobcats,New Jersey Nets,21,29,50,1202515200.0,2008
+New Jersey Nets,New Jersey Nets,Dallas Mavericks,22,29,51,1202684400.0,2008
+New Jersey Nets,New Jersey Nets,Minnesota Timberwolves,23,29,52,1202862600.0,2008
+New Jersey Nets,Toronto Raptors,New Jersey Nets,23,30,53,1202947200.0,2008
+New Jersey Nets,New Jersey Nets,Chicago Bulls,24,30,54,1203553800.0,2008
+New Jersey Nets,Indiana Pacers,New Jersey Nets,24,31,55,1203724800.0,2008
+New Jersey Nets,New Jersey Nets,Indiana Pacers,25,31,56,1203813000.0,2008
+New Jersey Nets,New Jersey Nets,Orlando Magic,25,32,57,1204072200.0,2008
+New Jersey Nets,New Jersey Nets,Milwaukee Bucks,26,32,58,1204245000.0,2008
+New Jersey Nets,New Jersey Nets,San Antonio Spurs,26,33,59,1204498800.0,2008
+New Jersey Nets,San Antonio Spurs,New Jersey Nets,26,34,60,1204680600.0,2008
+New Jersey Nets,Memphis Grizzlies,New Jersey Nets,26,35,61,1204765200.0,2008
+New Jersey Nets,New Orleans Hornets,New Jersey Nets,26,36,62,1204938000.0,2008
+New Jersey Nets,Dallas Mavericks,New Jersey Nets,26,37,63,1205026200.0,2008
+New Jersey Nets,Houston Rockets,New Jersey Nets,26,38,64,1205195400.0,2008
+New Jersey Nets,New Jersey Nets,Cleveland Cavaliers,27,38,65,1205364600.0,2008
+New Jersey Nets,New Jersey Nets,Utah Jazz,28,38,66,1205623800.0,2008
+New Jersey Nets,Chicago Bulls,New Jersey Nets,28,39,67,1205886600.0,2008
+New Jersey Nets,New Jersey Nets,Atlanta Hawks,29,39,68,1205969400.0,2008
+New Jersey Nets,New Jersey Nets,Denver Nuggets,29,40,69,1206142200.0,2008
+New Jersey Nets,Philadelphia 76ers,New Jersey Nets,29,41,70,1206226800.0,2008
+New Jersey Nets,New York Knicks,New Jersey Nets,30,41,71,1206401400.0,2008
+New Jersey Nets,New Jersey Nets,Indiana Pacers,31,41,72,1206574200.0,2008
+New Jersey Nets,Indiana Pacers,New Jersey Nets,31,42,73,1206745200.0,2008
+New Jersey Nets,New Jersey Nets,Phoenix Suns,31,43,74,1206833400.0,2008
+New Jersey Nets,New Jersey Nets,Philadelphia 76ers,31,44,75,1207092600.0,2008
+New Jersey Nets,Detroit Pistons,New Jersey Nets,31,45,76,1207353600.0,2008
+New Jersey Nets,New Jersey Nets,Toronto Raptors,32,45,77,1207438200.0,2008
+New Jersey Nets,Cleveland Cavaliers,New Jersey Nets,32,46,78,1207782000.0,2008
+New Jersey Nets,Toronto Raptors,New Jersey Nets,32,47,79,1207954800.0,2008
+New Jersey Nets,Milwaukee Bucks,New Jersey Nets,33,47,80,1208046600.0,2008
+New Jersey Nets,New Jersey Nets,Charlotte Bobcats,34,47,81,1208302200.0,2008
+New Jersey Nets,Boston Celtics,New Jersey Nets,34,48,82,1208388600.0,2008
+New Orleans Hornets,New Orleans Hornets,Sacramento Kings,1,0,1,1193875200.0,2008
+New Orleans Hornets,New Orleans Hornets,Portland Trail Blazers,2,0,2,1194048000.0,2008
+New Orleans Hornets,Denver Nuggets,New Orleans Hornets,3,0,3,1194224400.0,2008
+New Orleans Hornets,Los Angeles Lakers,New Orleans Hornets,4,0,4,1194406200.0,2008
+New Orleans Hornets,Portland Trail Blazers,New Orleans Hornets,4,1,5,1194492600.0,2008
+New Orleans Hornets,New Orleans Hornets,San Antonio Spurs,4,2,6,1194656400.0,2008
+New Orleans Hornets,Philadelphia 76ers,New Orleans Hornets,5,2,7,1194822000.0,2008
+New Orleans Hornets,New Jersey Nets,New Orleans Hornets,6,2,8,1194913800.0,2008
+New Orleans Hornets,New Orleans Hornets,Philadelphia 76ers,7,2,9,1195088400.0,2008
+New Orleans Hornets,Memphis Grizzlies,New Orleans Hornets,8,2,10,1195261200.0,2008
+New Orleans Hornets,Minnesota Timberwolves,New Orleans Hornets,9,2,11,1195347600.0,2008
+New Orleans Hornets,New Orleans Hornets,Orlando Magic,9,3,12,1195520400.0,2008
+New Orleans Hornets,New Orleans Hornets,Indiana Pacers,9,4,13,1195693200.0,2008
+New Orleans Hornets,Utah Jazz,New Orleans Hornets,9,5,14,1195869600.0,2008
+New Orleans Hornets,Los Angeles Clippers,New Orleans Hornets,10,5,15,1195961400.0,2008
+New Orleans Hornets,New Orleans Hornets,Minnesota Timberwolves,10,6,16,1196125200.0,2008
+New Orleans Hornets,Atlanta Hawks,New Orleans Hornets,11,6,17,1196469000.0,2008
+New Orleans Hornets,New Orleans Hornets,Dallas Mavericks,12,6,18,1196557200.0,2008
+New Orleans Hornets,New Orleans Hornets,Detroit Pistons,12,7,19,1196902800.0,2008
+New Orleans Hornets,New Orleans Hornets,Memphis Grizzlies,13,7,20,1197075600.0,2008
+New Orleans Hornets,New Orleans Hornets,Seattle Supersonics,14,7,21,1197244800.0,2008
+New Orleans Hornets,Denver Nuggets,New Orleans Hornets,14,8,22,1197511200.0,2008
+New Orleans Hornets,Dallas Mavericks,New Orleans Hornets,14,9,23,1197682200.0,2008
+New Orleans Hornets,New Orleans Hornets,Phoenix Suns,15,9,24,1197766800.0,2008
+New Orleans Hornets,Portland Trail Blazers,New Orleans Hornets,15,10,25,1197946800.0,2008
+New Orleans Hornets,Seattle Supersonics,New Orleans Hornets,16,10,26,1198119600.0,2008
+New Orleans Hornets,New Orleans Hornets,Minnesota Timberwolves,17,10,27,1198371600.0,2008
+New Orleans Hornets,Memphis Grizzlies,New Orleans Hornets,18,10,28,1198717200.0,2008
+New Orleans Hornets,Charlotte Bobcats,New Orleans Hornets,19,10,29,1198886400.0,2008
+New Orleans Hornets,New Orleans Hornets,Cleveland Cavaliers,20,10,30,1198976400.0,2008
+New Orleans Hornets,New Orleans Hornets,Toronto Raptors,20,11,31,1199149200.0,2008
+New Orleans Hornets,Los Angeles Clippers,New Orleans Hornets,21,11,32,1199331000.0,2008
+New Orleans Hornets,Golden State Warriors,New Orleans Hornets,22,11,33,1199503800.0,2008
+New Orleans Hornets,Phoenix Suns,New Orleans Hornets,23,11,34,1199584800.0,2008
+New Orleans Hornets,New Orleans Hornets,Los Angeles Lakers,23,12,35,1199926800.0,2008
+New Orleans Hornets,New Orleans Hornets,Miami Heat,24,12,36,1200099600.0,2008
+New Orleans Hornets,Houston Rockets,New Orleans Hornets,25,12,37,1200252600.0,2008
+New Orleans Hornets,New Orleans Hornets,Seattle Supersonics,26,12,38,1200531600.0,2008
+New Orleans Hornets,New Orleans Hornets,Charlotte Bobcats,27,12,39,1200704400.0,2008
+New Orleans Hornets,New Orleans Hornets,Milwaukee Bucks,28,12,40,1200947400.0,2008
+New Orleans Hornets,New Orleans Hornets,Portland Trail Blazers,29,12,41,1201136400.0,2008
+New Orleans Hornets,New Orleans Hornets,Los Angeles Clippers,30,12,42,1201309200.0,2008
+New Orleans Hornets,San Antonio Spurs,New Orleans Hornets,31,12,43,1201397400.0,2008
+New Orleans Hornets,New Orleans Hornets,Denver Nuggets,32,12,44,1201568400.0,2008
+New Orleans Hornets,New Orleans Hornets,Golden State Warriors,32,13,45,1201741200.0,2008
+New Orleans Hornets,Sacramento Kings,New Orleans Hornets,32,14,46,1201921200.0,2008
+New Orleans Hornets,Utah Jazz,New Orleans Hornets,32,15,47,1202176800.0,2008
+New Orleans Hornets,Phoenix Suns,New Orleans Hornets,33,15,48,1202349600.0,2008
+New Orleans Hornets,New Orleans Hornets,Memphis Grizzlies,34,15,49,1202605200.0,2008
+New Orleans Hornets,Chicago Bulls,New Orleans Hornets,35,15,50,1202866200.0,2008
+New Orleans Hornets,Milwaukee Bucks,New Orleans Hornets,36,15,51,1202950800.0,2008
+New Orleans Hornets,New Orleans Hornets,Dallas Mavericks,37,15,52,1203555600.0,2008
+New Orleans Hornets,New Orleans Hornets,Houston Rockets,37,16,53,1203728400.0,2008
+New Orleans Hornets,San Antonio Spurs,New Orleans Hornets,37,17,54,1203816600.0,2008
+New Orleans Hornets,New Orleans Hornets,Washington Wizards,37,18,55,1203987600.0,2008
+New Orleans Hornets,New Orleans Hornets,Phoenix Suns,38,18,56,1204160400.0,2008
+New Orleans Hornets,New Orleans Hornets,Utah Jazz,39,18,57,1204333200.0,2008
+New Orleans Hornets,Washington Wizards,New Orleans Hornets,39,19,58,1204498800.0,2008
+New Orleans Hornets,New York Knicks,New Orleans Hornets,40,19,59,1204590600.0,2008
+New Orleans Hornets,New Orleans Hornets,Atlanta Hawks,41,19,60,1204765200.0,2008
+New Orleans Hornets,New Orleans Hornets,New Jersey Nets,42,19,61,1204938000.0,2008
+New Orleans Hornets,Houston Rockets,New Orleans Hornets,42,20,62,1205026200.0,2008
+New Orleans Hornets,New Orleans Hornets,San Antonio Spurs,43,20,63,1205366400.0,2008
+New Orleans Hornets,New Orleans Hornets,Los Angeles Lakers,44,20,64,1205539200.0,2008
+New Orleans Hornets,Detroit Pistons,New Orleans Hornets,44,21,65,1205686800.0,2008
+New Orleans Hornets,New Orleans Hornets,Chicago Bulls,45,21,66,1205798400.0,2008
+New Orleans Hornets,New Orleans Hornets,Houston Rockets,46,21,67,1205971200.0,2008
+New Orleans Hornets,New Orleans Hornets,Boston Celtics,47,21,68,1206230400.0,2008
+New Orleans Hornets,Indiana Pacers,New Orleans Hornets,48,21,69,1206486000.0,2008
+New Orleans Hornets,Cleveland Cavaliers,New Orleans Hornets,49,21,70,1206572400.0,2008
+New Orleans Hornets,Boston Celtics,New Orleans Hornets,49,22,71,1206747000.0,2008
+New Orleans Hornets,Toronto Raptors,New Orleans Hornets,50,22,72,1206914400.0,2008
+New Orleans Hornets,Orlando Magic,New Orleans Hornets,51,22,73,1207090800.0,2008
+New Orleans Hornets,Miami Heat,New Orleans Hornets,52,22,74,1207179000.0,2008
+New Orleans Hornets,New Orleans Hornets,New York Knicks,53,22,75,1207353600.0,2008
+New Orleans Hornets,New Orleans Hornets,Golden State Warriors,54,22,76,1207501200.0,2008
+New Orleans Hornets,New Orleans Hornets,Utah Jazz,54,23,77,1207699200.0,2008
+New Orleans Hornets,Minnesota Timberwolves,New Orleans Hornets,55,23,78,1207785600.0,2008
+New Orleans Hornets,Los Angeles Lakers,New Orleans Hornets,55,24,79,1207967400.0,2008
+New Orleans Hornets,Sacramento Kings,New Orleans Hornets,55,25,80,1208052000.0,2008
+New Orleans Hornets,New Orleans Hornets,Los Angeles Clippers,56,25,81,1208304000.0,2008
+New Orleans Hornets,Dallas Mavericks,New Orleans Hornets,56,26,82,1208392200.0,2008
+New York Knicks,Cleveland Cavaliers,New York Knicks,0,1,1,1194046200.0,2008
+New York Knicks,New York Knicks,Minnesota Timberwolves,1,1,2,1194217200.0,2008
+New York Knicks,New York Knicks,Denver Nuggets,2,1,3,1194395400.0,2008
+New York Knicks,New York Knicks,Orlando Magic,2,2,4,1194654600.0,2008
+New York Knicks,New York Knicks,Miami Heat,2,3,5,1194822000.0,2008
+New York Knicks,Phoenix Suns,New York Knicks,2,4,6,1195005600.0,2008
+New York Knicks,Los Angeles Clippers,New York Knicks,2,5,7,1195097400.0,2008
+New York Knicks,Sacramento Kings,New York Knicks,2,6,8,1195268400.0,2008
+New York Knicks,Denver Nuggets,New York Knicks,2,7,9,1195351200.0,2008
+New York Knicks,New York Knicks,Golden State Warriors,2,8,10,1195605000.0,2008
+New York Knicks,Detroit Pistons,New York Knicks,2,9,11,1195693200.0,2008
+New York Knicks,New York Knicks,Chicago Bulls,3,9,12,1195927200.0,2008
+New York Knicks,New York Knicks,Utah Jazz,4,9,13,1196123400.0,2008
+New York Knicks,Boston Celtics,New York Knicks,4,10,14,1196384400.0,2008
+New York Knicks,New York Knicks,Milwaukee Bucks,5,10,15,1196469000.0,2008
+New York Knicks,New York Knicks,Phoenix Suns,5,11,16,1196640000.0,2008
+New York Knicks,New Jersey Nets,New York Knicks,6,11,17,1196901000.0,2008
+New York Knicks,Philadelphia 76ers,New York Knicks,6,12,18,1197072000.0,2008
+New York Knicks,New York Knicks,Philadelphia 76ers,6,13,19,1197160200.0,2008
+New York Knicks,New York Knicks,Dallas Mavericks,6,14,20,1197333000.0,2008
+New York Knicks,New York Knicks,Seattle Supersonics,6,15,21,1197505800.0,2008
+New York Knicks,Chicago Bulls,New York Knicks,6,16,22,1197682200.0,2008
+New York Knicks,New York Knicks,New Jersey Nets,7,16,23,1197765000.0,2008
+New York Knicks,New York Knicks,Indiana Pacers,7,17,24,1197937800.0,2008
+New York Knicks,New York Knicks,Cleveland Cavaliers,8,17,25,1198110600.0,2008
+New York Knicks,Charlotte Bobcats,New York Knicks,8,18,26,1198281600.0,2008
+New York Knicks,New York Knicks,Los Angeles Lakers,8,19,27,1198429200.0,2008
+New York Knicks,Orlando Magic,New York Knicks,8,20,28,1198713600.0,2008
+New York Knicks,New York Knicks,Chicago Bulls,8,21,29,1199034000.0,2008
+New York Knicks,New York Knicks,Sacramento Kings,8,22,30,1199320200.0,2008
+New York Knicks,San Antonio Spurs,New York Knicks,8,23,31,1199496600.0,2008
+New York Knicks,Houston Rockets,New York Knicks,8,24,32,1199583000.0,2008
+New York Knicks,Chicago Bulls,New York Knicks,9,24,33,1199842200.0,2008
+New York Knicks,New York Knicks,Houston Rockets,9,25,34,1199925000.0,2008
+New York Knicks,New York Knicks,Toronto Raptors,9,26,35,1200097800.0,2008
+New York Knicks,New York Knicks,Detroit Pistons,10,26,36,1200268800.0,2008
+New York Knicks,New York Knicks,Washington Wizards,11,26,37,1200443400.0,2008
+New York Knicks,New Jersey Nets,New York Knicks,12,26,38,1200529800.0,2008
+New York Knicks,Washington Wizards,New York Knicks,12,27,39,1200700800.0,2008
+New York Knicks,Miami Heat,New York Knicks,13,27,40,1200789000.0,2008
+New York Knicks,New York Knicks,Boston Celtics,13,28,41,1200938400.0,2008
+New York Knicks,New York Knicks,Philadelphia 76ers,14,28,42,1201307400.0,2008
+New York Knicks,Golden State Warriors,New York Knicks,14,29,43,1201485600.0,2008
+New York Knicks,Los Angeles Lakers,New York Knicks,14,30,44,1201663800.0,2008
+New York Knicks,Utah Jazz,New York Knicks,14,31,45,1201744800.0,2008
+New York Knicks,Portland Trail Blazers,New York Knicks,14,32,46,1201923000.0,2008
+New York Knicks,Seattle Supersonics,New York Knicks,14,33,47,1202007600.0,2008
+New York Knicks,New York Knicks,Los Angeles Clippers,14,34,48,1202171400.0,2008
+New York Knicks,New York Knicks,Indiana Pacers,14,35,49,1202344200.0,2008
+New York Knicks,New York Knicks,San Antonio Spurs,14,36,50,1202517000.0,2008
+New York Knicks,Milwaukee Bucks,New York Knicks,15,36,51,1202607000.0,2008
+New York Knicks,Boston Celtics,New York Knicks,15,37,52,1202949000.0,2008
+New York Knicks,Washington Wizards,New York Knicks,16,37,53,1203465600.0,2008
+New York Knicks,Philadelphia 76ers,New York Knicks,16,38,54,1203552000.0,2008
+New York Knicks,New York Knicks,Toronto Raptors,17,38,55,1203726600.0,2008
+New York Knicks,Toronto Raptors,New York Knicks,17,39,56,1203894000.0,2008
+New York Knicks,New York Knicks,Charlotte Bobcats,18,39,57,1204158600.0,2008
+New York Knicks,Atlanta Hawks,New York Knicks,18,40,58,1204331400.0,2008
+New York Knicks,Orlando Magic,New York Knicks,18,41,59,1204416000.0,2008
+New York Knicks,New York Knicks,New Orleans Hornets,18,42,60,1204590600.0,2008
+New York Knicks,New York Knicks,Cleveland Cavaliers,18,43,61,1204763400.0,2008
+New York Knicks,New York Knicks,Detroit Pistons,18,44,62,1204936200.0,2008
+New York Knicks,New York Knicks,Portland Trail Blazers,18,45,63,1205022600.0,2008
+New York Knicks,Dallas Mavericks,New York Knicks,18,46,64,1205195400.0,2008
+New York Knicks,Miami Heat,New York Knicks,19,46,65,1205364600.0,2008
+New York Knicks,New York Knicks,Atlanta Hawks,19,47,66,1205704800.0,2008
+New York Knicks,Indiana Pacers,New York Knicks,19,48,67,1205794800.0,2008
+New York Knicks,New York Knicks,Memphis Grizzlies,19,49,68,1206142200.0,2008
+New York Knicks,Minnesota Timberwolves,New York Knicks,19,50,69,1206230400.0,2008
+New York Knicks,New York Knicks,New Jersey Nets,19,51,70,1206401400.0,2008
+New York Knicks,New York Knicks,Miami Heat,20,51,71,1206574200.0,2008
+New York Knicks,Toronto Raptors,New York Knicks,20,52,72,1206745200.0,2008
+New York Knicks,Atlanta Hawks,New York Knicks,20,53,73,1206907200.0,2008
+New York Knicks,Milwaukee Bucks,New York Knicks,20,54,74,1207094400.0,2008
+New York Knicks,Memphis Grizzlies,New York Knicks,20,55,75,1207180800.0,2008
+New York Knicks,New Orleans Hornets,New York Knicks,20,56,76,1207353600.0,2008
+New York Knicks,New York Knicks,Orlando Magic,21,56,77,1207522800.0,2008
+New York Knicks,Detroit Pistons,New York Knicks,22,56,78,1207699200.0,2008
+New York Knicks,New York Knicks,Charlotte Bobcats,23,56,79,1207783800.0,2008
+New York Knicks,New York Knicks,Atlanta Hawks,23,57,80,1207956600.0,2008
+New York Knicks,New York Knicks,Boston Celtics,23,58,81,1208215800.0,2008
+New York Knicks,Indiana Pacers,New York Knicks,23,59,82,1208386800.0,2008
+Orlando Magic,Orlando Magic,Milwaukee Bucks,1,0,1,1193871600.0,2008
+Orlando Magic,Orlando Magic,Detroit Pistons,1,1,2,1194044400.0,2008
+Orlando Magic,Washington Wizards,Orlando Magic,2,1,3,1194130800.0,2008
+Orlando Magic,Minnesota Timberwolves,Orlando Magic,3,1,4,1194397200.0,2008
+Orlando Magic,Toronto Raptors,Orlando Magic,4,1,5,1194480000.0,2008
+Orlando Magic,New York Knicks,Orlando Magic,5,1,6,1194654600.0,2008
+Orlando Magic,Orlando Magic,Phoenix Suns,5,2,7,1194739200.0,2008
+Orlando Magic,Orlando Magic,Seattle Supersonics,6,2,8,1194998400.0,2008
+Orlando Magic,Cleveland Cavaliers,Orlando Magic,7,2,9,1195084800.0,2008
+Orlando Magic,New Jersey Nets,Orlando Magic,8,2,10,1195259400.0,2008
+Orlando Magic,Orlando Magic,Boston Celtics,9,2,11,1195426800.0,2008
+Orlando Magic,New Orleans Hornets,Orlando Magic,10,2,12,1195520400.0,2008
+Orlando Magic,San Antonio Spurs,Orlando Magic,10,3,13,1195695000.0,2008
+Orlando Magic,Orlando Magic,Charlotte Bobcats,11,3,14,1195862400.0,2008
+Orlando Magic,Orlando Magic,Miami Heat,12,3,15,1195948800.0,2008
+Orlando Magic,Portland Trail Blazers,Orlando Magic,13,3,16,1196132400.0,2008
+Orlando Magic,Seattle Supersonics,Orlando Magic,14,3,17,1196305200.0,2008
+Orlando Magic,Phoenix Suns,Orlando Magic,14,4,18,1196474400.0,2008
+Orlando Magic,Los Angeles Lakers,Orlando Magic,15,4,19,1196649000.0,2008
+Orlando Magic,Golden State Warriors,Orlando Magic,16,4,20,1196739000.0,2008
+Orlando Magic,Orlando Magic,Indiana Pacers,16,5,21,1197072000.0,2008
+Orlando Magic,Orlando Magic,Atlanta Hawks,16,6,22,1197331200.0,2008
+Orlando Magic,Milwaukee Bucks,Orlando Magic,16,7,23,1197507600.0,2008
+Orlando Magic,Charlotte Bobcats,Orlando Magic,17,7,24,1197680400.0,2008
+Orlando Magic,Orlando Magic,Memphis Grizzlies,17,8,25,1197763200.0,2008
+Orlando Magic,Dallas Mavericks,Orlando Magic,17,9,26,1197941400.0,2008
+Orlando Magic,Houston Rockets,Orlando Magic,18,9,27,1198114200.0,2008
+Orlando Magic,Orlando Magic,Utah Jazz,18,10,28,1198281600.0,2008
+Orlando Magic,Boston Celtics,Orlando Magic,18,11,29,1198452600.0,2008
+Orlando Magic,Orlando Magic,New York Knicks,19,11,30,1198713600.0,2008
+Orlando Magic,Miami Heat,Orlando Magic,20,11,31,1198888200.0,2008
+Orlando Magic,Orlando Magic,Charlotte Bobcats,21,11,32,1198972800.0,2008
+Orlando Magic,Chicago Bulls,Orlando Magic,22,11,33,1199127600.0,2008
+Orlando Magic,Orlando Magic,New Jersey Nets,22,12,34,1199318400.0,2008
+Orlando Magic,Orlando Magic,Houston Rockets,22,13,35,1199491200.0,2008
+Orlando Magic,Sacramento Kings,Orlando Magic,22,14,36,1199847600.0,2008
+Orlando Magic,Los Angeles Clippers,Orlando Magic,23,14,37,1199935800.0,2008
+Orlando Magic,Denver Nuggets,Orlando Magic,23,15,38,1200103200.0,2008
+Orlando Magic,Utah Jazz,Orlando Magic,23,16,39,1200189600.0,2008
+Orlando Magic,Orlando Magic,Chicago Bulls,24,16,40,1200441600.0,2008
+Orlando Magic,Charlotte Bobcats,Orlando Magic,24,17,41,1200528000.0,2008
+Orlando Magic,Orlando Magic,Portland Trail Blazers,25,17,42,1200787200.0,2008
+Orlando Magic,Orlando Magic,Detroit Pistons,26,17,43,1200960000.0,2008
+Orlando Magic,Memphis Grizzlies,Orlando Magic,27,17,44,1201136400.0,2008
+Orlando Magic,Detroit Pistons,Orlando Magic,27,18,45,1201305600.0,2008
+Orlando Magic,Orlando Magic,Boston Celtics,28,18,46,1201456800.0,2008
+Orlando Magic,Orlando Magic,Miami Heat,29,18,47,1201737600.0,2008
+Orlando Magic,Philadelphia 76ers,Orlando Magic,30,18,48,1201910400.0,2008
+Orlando Magic,Indiana Pacers,Orlando Magic,31,18,49,1201996800.0,2008
+Orlando Magic,Orlando Magic,Dallas Mavericks,31,19,50,1202169600.0,2008
+Orlando Magic,Orlando Magic,New Jersey Nets,32,19,51,1202342400.0,2008
+Orlando Magic,Orlando Magic,Los Angeles Lakers,32,20,52,1202515200.0,2008
+Orlando Magic,Orlando Magic,Cleveland Cavaliers,32,21,53,1202774400.0,2008
+Orlando Magic,Orlando Magic,Denver Nuggets,33,21,54,1202947200.0,2008
+Orlando Magic,Detroit Pistons,Orlando Magic,34,21,55,1203467400.0,2008
+Orlando Magic,Toronto Raptors,Orlando Magic,34,22,56,1203552000.0,2008
+Orlando Magic,Orlando Magic,Philadelphia 76ers,35,22,57,1203724800.0,2008
+Orlando Magic,Orlando Magic,Sacramento Kings,36,22,58,1203894000.0,2008
+Orlando Magic,New Jersey Nets,Orlando Magic,37,22,59,1204072200.0,2008
+Orlando Magic,Philadelphia 76ers,Orlando Magic,37,23,60,1204156800.0,2008
+Orlando Magic,Orlando Magic,New York Knicks,38,23,61,1204416000.0,2008
+Orlando Magic,Orlando Magic,Toronto Raptors,39,23,62,1204675200.0,2008
+Orlando Magic,Washington Wizards,Orlando Magic,40,23,63,1204761600.0,2008
+Orlando Magic,Orlando Magic,Golden State Warriors,40,24,64,1205020800.0,2008
+Orlando Magic,Orlando Magic,Atlanta Hawks,41,24,65,1205190000.0,2008
+Orlando Magic,Orlando Magic,Los Angeles Clippers,42,24,66,1205362800.0,2008
+Orlando Magic,Miami Heat,Orlando Magic,43,24,67,1205537400.0,2008
+Orlando Magic,Orlando Magic,Indiana Pacers,44,24,68,1205622000.0,2008
+Orlando Magic,Orlando Magic,Cleveland Cavaliers,45,24,69,1205794800.0,2008
+Orlando Magic,Orlando Magic,Washington Wizards,45,25,70,1205967600.0,2008
+Orlando Magic,Orlando Magic,Philadelphia 76ers,46,25,71,1206140400.0,2008
+Orlando Magic,Atlanta Hawks,Orlando Magic,46,26,72,1206226800.0,2008
+Orlando Magic,Orlando Magic,San Antonio Spurs,46,27,73,1206486000.0,2008
+Orlando Magic,Milwaukee Bucks,Orlando Magic,47,27,74,1206750600.0,2008
+Orlando Magic,Orlando Magic,New Orleans Hornets,47,28,75,1207090800.0,2008
+Orlando Magic,Cleveland Cavaliers,Orlando Magic,48,28,76,1207422000.0,2008
+Orlando Magic,New York Knicks,Orlando Magic,48,29,77,1207522800.0,2008
+Orlando Magic,Orlando Magic,Chicago Bulls,49,29,78,1207782000.0,2008
+Orlando Magic,Orlando Magic,Minnesota Timberwolves,49,30,79,1207954800.0,2008
+Orlando Magic,Chicago Bulls,Orlando Magic,50,30,80,1208127600.0,2008
+Orlando Magic,Atlanta Hawks,Orlando Magic,51,30,81,1208300400.0,2008
+Orlando Magic,Orlando Magic,Washington Wizards,52,30,82,1208386800.0,2008
+Philadelphia 76ers,Toronto Raptors,Philadelphia 76ers,0,1,1,1193871600.0,2008
+Philadelphia 76ers,Chicago Bulls,Philadelphia 76ers,1,1,2,1194049800.0,2008
+Philadelphia 76ers,Philadelphia 76ers,New Jersey Nets,1,2,3,1194130800.0,2008
+Philadelphia 76ers,Philadelphia 76ers,Charlotte Bobcats,2,2,4,1194480000.0,2008
+Philadelphia 76ers,Philadelphia 76ers,Toronto Raptors,2,3,5,1194652800.0,2008
+Philadelphia 76ers,Philadelphia 76ers,New Orleans Hornets,2,4,6,1194822000.0,2008
+Philadelphia 76ers,Dallas Mavericks,Philadelphia 76ers,2,5,7,1195003800.0,2008
+Philadelphia 76ers,New Orleans Hornets,Philadelphia 76ers,2,6,8,1195088400.0,2008
+Philadelphia 76ers,Philadelphia 76ers,Portland Trail Blazers,3,6,9,1195257600.0,2008
+Philadelphia 76ers,Washington Wizards,Philadelphia 76ers,3,7,10,1195603200.0,2008
+Philadelphia 76ers,Detroit Pistons,Philadelphia 76ers,3,8,11,1195866000.0,2008
+Philadelphia 76ers,Philadelphia 76ers,Golden State Warriors,3,9,12,1195948800.0,2008
+Philadelphia 76ers,Milwaukee Bucks,Philadelphia 76ers,4,9,13,1196211600.0,2008
+Philadelphia 76ers,Philadelphia 76ers,Utah Jazz,4,10,14,1196294400.0,2008
+Philadelphia 76ers,Philadelphia 76ers,Washington Wizards,5,10,15,1196467200.0,2008
+Philadelphia 76ers,New Jersey Nets,Philadelphia 76ers,5,11,16,1196555400.0,2008
+Philadelphia 76ers,Philadelphia 76ers,Atlanta Hawks,5,12,17,1196726400.0,2008
+Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,5,13,18,1196899200.0,2008
+Philadelphia 76ers,Philadelphia 76ers,New York Knicks,6,13,19,1197072000.0,2008
+Philadelphia 76ers,New York Knicks,Philadelphia 76ers,7,13,20,1197160200.0,2008
+Philadelphia 76ers,Philadelphia 76ers,Houston Rockets,8,13,21,1197331200.0,2008
+Philadelphia 76ers,Philadelphia 76ers,Minnesota Timberwolves,9,13,22,1197504000.0,2008
+Philadelphia 76ers,Philadelphia 76ers,Sacramento Kings,9,14,23,1197676800.0,2008
+Philadelphia 76ers,Cleveland Cavaliers,Philadelphia 76ers,10,14,24,1197765000.0,2008
+Philadelphia 76ers,Indiana Pacers,Philadelphia 76ers,10,15,25,1198108800.0,2008
+Philadelphia 76ers,Philadelphia 76ers,Los Angeles Lakers,10,16,26,1198281600.0,2008
+Philadelphia 76ers,Memphis Grizzlies,Philadelphia 76ers,11,16,27,1198371600.0,2008
+Philadelphia 76ers,Philadelphia 76ers,Miami Heat,12,16,28,1198710000.0,2008
+Philadelphia 76ers,Sacramento Kings,Philadelphia 76ers,13,16,29,1198897200.0,2008
+Philadelphia 76ers,Portland Trail Blazers,Philadelphia 76ers,13,17,30,1199055600.0,2008
+Philadelphia 76ers,Seattle Supersonics,Philadelphia 76ers,14,17,31,1199156400.0,2008
+Philadelphia 76ers,Utah Jazz,Philadelphia 76ers,14,18,32,1199325600.0,2008
+Philadelphia 76ers,Los Angeles Lakers,Philadelphia 76ers,14,19,33,1199503800.0,2008
+Philadelphia 76ers,Denver Nuggets,Philadelphia 76ers,14,20,34,1199667600.0,2008
+Philadelphia 76ers,Philadelphia 76ers,Milwaukee Bucks,14,21,35,1199836800.0,2008
+Philadelphia 76ers,Toronto Raptors,Philadelphia 76ers,14,22,36,1199923200.0,2008
+Philadelphia 76ers,Philadelphia 76ers,Chicago Bulls,14,23,37,1200096000.0,2008
+Philadelphia 76ers,San Antonio Spurs,Philadelphia 76ers,14,24,38,1200360600.0,2008
+Philadelphia 76ers,Houston Rockets,Philadelphia 76ers,15,24,39,1200447000.0,2008
+Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,15,25,40,1200702600.0,2008
+Philadelphia 76ers,Philadelphia 76ers,Toronto Raptors,16,25,41,1200787200.0,2008
+Philadelphia 76ers,Philadelphia 76ers,Indiana Pacers,16,26,42,1200942000.0,2008
+Philadelphia 76ers,Philadelphia 76ers,Detroit Pistons,16,27,43,1201132800.0,2008
+Philadelphia 76ers,New York Knicks,Philadelphia 76ers,16,28,44,1201307400.0,2008
+Philadelphia 76ers,Charlotte Bobcats,Philadelphia 76ers,17,28,45,1201392000.0,2008
+Philadelphia 76ers,Philadelphia 76ers,Milwaukee Bucks,18,28,46,1201737600.0,2008
+Philadelphia 76ers,Philadelphia 76ers,Orlando Magic,18,29,47,1201910400.0,2008
+Philadelphia 76ers,Atlanta Hawks,Philadelphia 76ers,18,30,48,1202169600.0,2008
+Philadelphia 76ers,Philadelphia 76ers,Washington Wizards,19,30,49,1202256000.0,2008
+Philadelphia 76ers,Philadelphia 76ers,Miami Heat,20,30,50,1202428800.0,2008
+Philadelphia 76ers,Philadelphia 76ers,Los Angeles Clippers,21,30,51,1202603400.0,2008
+Philadelphia 76ers,Philadelphia 76ers,Dallas Mavericks,22,30,52,1202774400.0,2008
+Philadelphia 76ers,Philadelphia 76ers,Memphis Grizzlies,23,30,53,1202947200.0,2008
+Philadelphia 76ers,Minnesota Timberwolves,Philadelphia 76ers,23,31,54,1203469200.0,2008
+Philadelphia 76ers,Philadelphia 76ers,New York Knicks,24,31,55,1203552000.0,2008
+Philadelphia 76ers,Orlando Magic,Philadelphia 76ers,24,32,56,1203724800.0,2008
+Philadelphia 76ers,Miami Heat,Philadelphia 76ers,25,32,57,1203813000.0,2008
+Philadelphia 76ers,Philadelphia 76ers,Orlando Magic,26,32,58,1204156800.0,2008
+Philadelphia 76ers,Golden State Warriors,Philadelphia 76ers,26,33,59,1204342200.0,2008
+Philadelphia 76ers,Phoenix Suns,Philadelphia 76ers,27,33,60,1204423200.0,2008
+Philadelphia 76ers,Los Angeles Clippers,Philadelphia 76ers,28,33,61,1204601400.0,2008
+Philadelphia 76ers,Philadelphia 76ers,Seattle Supersonics,29,33,62,1204934400.0,2008
+Philadelphia 76ers,Milwaukee Bucks,Philadelphia 76ers,30,33,63,1205082000.0,2008
+Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,30,34,64,1205190000.0,2008
+Philadelphia 76ers,Detroit Pistons,Philadelphia 76ers,31,34,65,1205364600.0,2008
+Philadelphia 76ers,Chicago Bulls,Philadelphia 76ers,32,34,66,1205541000.0,2008
+Philadelphia 76ers,Philadelphia 76ers,San Antonio Spurs,33,34,67,1205622000.0,2008
+Philadelphia 76ers,Philadelphia 76ers,Denver Nuggets,34,34,68,1205967600.0,2008
+Philadelphia 76ers,Orlando Magic,Philadelphia 76ers,34,35,69,1206140400.0,2008
+Philadelphia 76ers,Philadelphia 76ers,New Jersey Nets,35,35,70,1206226800.0,2008
+Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,36,35,71,1206401400.0,2008
+Philadelphia 76ers,Philadelphia 76ers,Chicago Bulls,37,35,72,1206572400.0,2008
+Philadelphia 76ers,Philadelphia 76ers,Phoenix Suns,37,36,73,1206745200.0,2008
+Philadelphia 76ers,Cleveland Cavaliers,Philadelphia 76ers,37,37,74,1206914400.0,2008
+Philadelphia 76ers,New Jersey Nets,Philadelphia 76ers,38,37,75,1207092600.0,2008
+Philadelphia 76ers,Atlanta Hawks,Philadelphia 76ers,39,37,76,1207351800.0,2008
+Philadelphia 76ers,Philadelphia 76ers,Atlanta Hawks,39,38,77,1207436400.0,2008
+Philadelphia 76ers,Philadelphia 76ers,Detroit Pistons,40,38,78,1207782000.0,2008
+Philadelphia 76ers,Philadelphia 76ers,Indiana Pacers,40,39,79,1207954800.0,2008
+Philadelphia 76ers,Washington Wizards,Philadelphia 76ers,40,40,80,1208041200.0,2008
+Philadelphia 76ers,Philadelphia 76ers,Cleveland Cavaliers,40,41,81,1208214000.0,2008
+Philadelphia 76ers,Charlotte Bobcats,Philadelphia 76ers,40,42,82,1208386800.0,2008
+Phoenix Suns,Seattle Supersonics,Phoenix Suns,1,0,1,1193970600.0,2008
+Phoenix Suns,Phoenix Suns,Los Angeles Lakers,1,1,2,1194057000.0,2008
+Phoenix Suns,Phoenix Suns,Cleveland Cavaliers,2,1,3,1194224400.0,2008
+Phoenix Suns,Charlotte Bobcats,Phoenix Suns,3,1,4,1194393600.0,2008
+Phoenix Suns,Atlanta Hawks,Phoenix Suns,3,2,5,1194480000.0,2008
+Phoenix Suns,Miami Heat,Phoenix Suns,4,2,6,1194654600.0,2008
+Phoenix Suns,Orlando Magic,Phoenix Suns,5,2,7,1194739200.0,2008
+Phoenix Suns,Phoenix Suns,New York Knicks,6,2,8,1195005600.0,2008
+Phoenix Suns,Phoenix Suns,Chicago Bulls,7,2,9,1195183800.0,2008
+Phoenix Suns,Houston Rockets,Phoenix Suns,8,2,10,1195349400.0,2008
+Phoenix Suns,Sacramento Kings,Phoenix Suns,9,2,11,1195614000.0,2008
+Phoenix Suns,Phoenix Suns,Sacramento Kings,10,2,12,1195696800.0,2008
+Phoenix Suns,Phoenix Suns,Los Angeles Clippers,11,2,13,1195869600.0,2008
+Phoenix Suns,Golden State Warriors,Phoenix Suns,11,3,14,1196134200.0,2008
+Phoenix Suns,Phoenix Suns,Houston Rockets,11,4,15,1196301600.0,2008
+Phoenix Suns,Phoenix Suns,Orlando Magic,12,4,16,1196474400.0,2008
+Phoenix Suns,New York Knicks,Phoenix Suns,13,4,17,1196640000.0,2008
+Phoenix Suns,Indiana Pacers,Phoenix Suns,14,4,18,1196812800.0,2008
+Phoenix Suns,Toronto Raptors,Phoenix Suns,15,4,19,1196899200.0,2008
+Phoenix Suns,Washington Wizards,Phoenix Suns,16,4,20,1197072000.0,2008
+Phoenix Suns,Minnesota Timberwolves,Phoenix Suns,16,5,21,1197162000.0,2008
+Phoenix Suns,Phoenix Suns,Miami Heat,16,6,22,1197338400.0,2008
+Phoenix Suns,Phoenix Suns,Utah Jazz,17,6,23,1197516600.0,2008
+Phoenix Suns,New Orleans Hornets,Phoenix Suns,17,7,24,1197766800.0,2008
+Phoenix Suns,San Antonio Spurs,Phoenix Suns,18,7,25,1197941400.0,2008
+Phoenix Suns,Dallas Mavericks,Phoenix Suns,18,8,26,1198117800.0,2008
+Phoenix Suns,Phoenix Suns,Toronto Raptors,19,8,27,1198375200.0,2008
+Phoenix Suns,Los Angeles Lakers,Phoenix Suns,19,9,28,1198620000.0,2008
+Phoenix Suns,Los Angeles Clippers,Phoenix Suns,20,9,29,1198812600.0,2008
+Phoenix Suns,Phoenix Suns,Los Angeles Clippers,21,9,30,1198893600.0,2008
+Phoenix Suns,Sacramento Kings,Phoenix Suns,22,9,31,1199066400.0,2008
+Phoenix Suns,Phoenix Suns,Seattle Supersonics,23,9,32,1199417400.0,2008
+Phoenix Suns,Phoenix Suns,New Orleans Hornets,23,10,33,1199584800.0,2008
+Phoenix Suns,Phoenix Suns,Denver Nuggets,24,10,34,1199757600.0,2008
+Phoenix Suns,Phoenix Suns,Indiana Pacers,25,10,35,1199930400.0,2008
+Phoenix Suns,Utah Jazz,Phoenix Suns,25,11,36,1200022200.0,2008
+Phoenix Suns,Phoenix Suns,Milwaukee Bucks,26,11,37,1200189600.0,2008
+Phoenix Suns,Los Angeles Clippers,Phoenix Suns,26,12,38,1200454200.0,2008
+Phoenix Suns,Los Angeles Lakers,Phoenix Suns,27,12,39,1200627000.0,2008
+Phoenix Suns,Phoenix Suns,Minnesota Timberwolves,28,12,40,1200708000.0,2008
+Phoenix Suns,Phoenix Suns,New Jersey Nets,29,12,41,1200877200.0,2008
+Phoenix Suns,Milwaukee Bucks,Phoenix Suns,30,12,42,1201050000.0,2008
+Phoenix Suns,Minnesota Timberwolves,Phoenix Suns,30,13,43,1201136400.0,2008
+Phoenix Suns,Cleveland Cavaliers,Phoenix Suns,31,13,44,1201305600.0,2008
+Phoenix Suns,Chicago Bulls,Phoenix Suns,32,13,45,1201456800.0,2008
+Phoenix Suns,Phoenix Suns,Atlanta Hawks,33,13,46,1201658400.0,2008
+Phoenix Suns,Phoenix Suns,San Antonio Spurs,33,14,47,1201836600.0,2008
+Phoenix Suns,Phoenix Suns,Charlotte Bobcats,34,14,48,1202176800.0,2008
+Phoenix Suns,Phoenix Suns,New Orleans Hornets,34,15,49,1202349600.0,2008
+Phoenix Suns,Phoenix Suns,Seattle Supersonics,35,15,50,1202522400.0,2008
+Phoenix Suns,Phoenix Suns,Washington Wizards,36,15,51,1202697000.0,2008
+Phoenix Suns,Golden State Warriors,Phoenix Suns,36,16,52,1202954400.0,2008
+Phoenix Suns,Phoenix Suns,Dallas Mavericks,37,16,53,1203046200.0,2008
+Phoenix Suns,Phoenix Suns,Los Angeles Lakers,37,17,54,1203559200.0,2008
+Phoenix Suns,Phoenix Suns,Boston Celtics,38,17,55,1203737400.0,2008
+Phoenix Suns,Phoenix Suns,Detroit Pistons,38,18,56,1203881400.0,2008
+Phoenix Suns,Memphis Grizzlies,Phoenix Suns,39,18,57,1204074000.0,2008
+Phoenix Suns,New Orleans Hornets,Phoenix Suns,39,19,58,1204160400.0,2008
+Phoenix Suns,Phoenix Suns,Philadelphia 76ers,39,20,59,1204423200.0,2008
+Phoenix Suns,Portland Trail Blazers,Phoenix Suns,40,20,60,1204686000.0,2008
+Phoenix Suns,Denver Nuggets,Phoenix Suns,40,21,61,1204768800.0,2008
+Phoenix Suns,Phoenix Suns,Utah Jazz,40,22,62,1204941600.0,2008
+Phoenix Suns,Phoenix Suns,San Antonio Spurs,41,22,63,1205087400.0,2008
+Phoenix Suns,Phoenix Suns,Memphis Grizzlies,42,22,64,1205287200.0,2008
+Phoenix Suns,Phoenix Suns,Golden State Warriors,43,22,65,1205461800.0,2008
+Phoenix Suns,Phoenix Suns,Sacramento Kings,44,22,66,1205632800.0,2008
+Phoenix Suns,Portland Trail Blazers,Phoenix Suns,45,22,67,1205893800.0,2008
+Phoenix Suns,Seattle Supersonics,Phoenix Suns,46,22,68,1205978400.0,2008
+Phoenix Suns,Phoenix Suns,Houston Rockets,47,22,69,1206237600.0,2008
+Phoenix Suns,Detroit Pistons,Phoenix Suns,47,23,70,1206401400.0,2008
+Phoenix Suns,Boston Celtics,Phoenix Suns,47,24,71,1206572400.0,2008
+Phoenix Suns,Philadelphia 76ers,Phoenix Suns,48,24,72,1206745200.0,2008
+Phoenix Suns,New Jersey Nets,Phoenix Suns,49,24,73,1206833400.0,2008
+Phoenix Suns,Phoenix Suns,Denver Nuggets,50,24,74,1207015200.0,2008
+Phoenix Suns,Denver Nuggets,Phoenix Suns,50,25,75,1207098000.0,2008
+Phoenix Suns,Phoenix Suns,Minnesota Timberwolves,51,25,76,1207360800.0,2008
+Phoenix Suns,Phoenix Suns,Dallas Mavericks,51,26,77,1207510200.0,2008
+Phoenix Suns,Memphis Grizzlies,Phoenix Suns,52,26,78,1207699200.0,2008
+Phoenix Suns,San Antonio Spurs,Phoenix Suns,53,26,79,1207791000.0,2008
+Phoenix Suns,Houston Rockets,Phoenix Suns,53,27,80,1207960200.0,2008
+Phoenix Suns,Phoenix Suns,Golden State Warriors,54,27,81,1208224800.0,2008
+Phoenix Suns,Phoenix Suns,Portland Trail Blazers,55,27,82,1208397600.0,2008
+Portland Trail Blazers,San Antonio Spurs,Portland Trail Blazers,0,1,1,1193788800.0,2008
+Portland Trail Blazers,New Orleans Hornets,Portland Trail Blazers,0,2,2,1194048000.0,2008
+Portland Trail Blazers,Houston Rockets,Portland Trail Blazers,0,3,3,1194136200.0,2008
+Portland Trail Blazers,Portland Trail Blazers,New Orleans Hornets,1,3,4,1194492600.0,2008
+Portland Trail Blazers,Portland Trail Blazers,Memphis Grizzlies,2,3,5,1194663600.0,2008
+Portland Trail Blazers,Portland Trail Blazers,Dallas Mavericks,3,3,6,1194750000.0,2008
+Portland Trail Blazers,Portland Trail Blazers,Detroit Pistons,4,3,7,1195009200.0,2008
+Portland Trail Blazers,Denver Nuggets,Portland Trail Blazers,4,4,8,1195092000.0,2008
+Portland Trail Blazers,Philadelphia 76ers,Portland Trail Blazers,4,5,9,1195257600.0,2008
+Portland Trail Blazers,Washington Wizards,Portland Trail Blazers,4,6,10,1195344000.0,2008
+Portland Trail Blazers,Charlotte Bobcats,Portland Trail Blazers,4,7,11,1195516800.0,2008
+Portland Trail Blazers,Portland Trail Blazers,New Jersey Nets,4,8,12,1195700400.0,2008
+Portland Trail Blazers,Portland Trail Blazers,Sacramento Kings,5,8,13,1195873200.0,2008
+Portland Trail Blazers,Portland Trail Blazers,Orlando Magic,5,9,14,1196132400.0,2008
+Portland Trail Blazers,Portland Trail Blazers,Indiana Pacers,5,10,15,1196305200.0,2008
+Portland Trail Blazers,Dallas Mavericks,Portland Trail Blazers,5,11,16,1196472600.0,2008
+Portland Trail Blazers,San Antonio Spurs,Portland Trail Blazers,5,12,17,1196627400.0,2008
+Portland Trail Blazers,Memphis Grizzlies,Portland Trail Blazers,6,12,18,1196730000.0,2008
+Portland Trail Blazers,Portland Trail Blazers,Miami Heat,7,12,19,1196998200.0,2008
+Portland Trail Blazers,Portland Trail Blazers,Milwaukee Bucks,8,12,20,1197241200.0,2008
+Portland Trail Blazers,Utah Jazz,Portland Trail Blazers,9,12,21,1197424800.0,2008
+Portland Trail Blazers,Portland Trail Blazers,Golden State Warriors,10,12,22,1197514800.0,2008
+Portland Trail Blazers,Portland Trail Blazers,Utah Jazz,11,12,23,1197687600.0,2008
+Portland Trail Blazers,Denver Nuggets,Portland Trail Blazers,12,12,24,1197853200.0,2008
+Portland Trail Blazers,Portland Trail Blazers,New Orleans Hornets,13,12,25,1197946800.0,2008
+Portland Trail Blazers,Portland Trail Blazers,Toronto Raptors,14,12,26,1198119600.0,2008
+Portland Trail Blazers,Portland Trail Blazers,Denver Nuggets,15,12,27,1198292400.0,2008
+Portland Trail Blazers,Portland Trail Blazers,Seattle Supersonics,16,12,28,1198630800.0,2008
+Portland Trail Blazers,Portland Trail Blazers,Minnesota Timberwolves,17,12,29,1198897200.0,2008
+Portland Trail Blazers,Portland Trail Blazers,Philadelphia 76ers,18,12,30,1199055600.0,2008
+Portland Trail Blazers,Utah Jazz,Portland Trail Blazers,18,13,31,1199149200.0,2008
+Portland Trail Blazers,Minnesota Timberwolves,Portland Trail Blazers,19,13,32,1199322000.0,2008
+Portland Trail Blazers,Chicago Bulls,Portland Trail Blazers,20,13,33,1199408400.0,2008
+Portland Trail Blazers,Portland Trail Blazers,Utah Jazz,21,13,34,1199588400.0,2008
+Portland Trail Blazers,Portland Trail Blazers,Golden State Warriors,22,13,35,1199934000.0,2008
+Portland Trail Blazers,Toronto Raptors,Portland Trail Blazers,22,14,36,1200245400.0,2008
+Portland Trail Blazers,New Jersey Nets,Portland Trail Blazers,23,14,37,1200357000.0,2008
+Portland Trail Blazers,Boston Celtics,Portland Trail Blazers,23,15,38,1200529800.0,2008
+Portland Trail Blazers,Miami Heat,Portland Trail Blazers,24,15,39,1200700800.0,2008
+Portland Trail Blazers,Orlando Magic,Portland Trail Blazers,24,16,40,1200787200.0,2008
+Portland Trail Blazers,Atlanta Hawks,Portland Trail Blazers,25,16,41,1200942000.0,2008
+Portland Trail Blazers,New Orleans Hornets,Portland Trail Blazers,25,17,42,1201136400.0,2008
+Portland Trail Blazers,Portland Trail Blazers,Houston Rockets,25,18,43,1201316400.0,2008
+Portland Trail Blazers,Portland Trail Blazers,Atlanta Hawks,26,18,44,1201474800.0,2008
+Portland Trail Blazers,Portland Trail Blazers,Cleveland Cavaliers,26,19,45,1201744800.0,2008
+Portland Trail Blazers,Portland Trail Blazers,New York Knicks,27,19,46,1201923000.0,2008
+Portland Trail Blazers,Portland Trail Blazers,Denver Nuggets,27,20,47,1202180400.0,2008
+Portland Trail Blazers,Portland Trail Blazers,Chicago Bulls,28,20,48,1202353200.0,2008
+Portland Trail Blazers,Detroit Pistons,Portland Trail Blazers,28,21,49,1202518800.0,2008
+Portland Trail Blazers,Indiana Pacers,Portland Trail Blazers,28,22,50,1202601600.0,2008
+Portland Trail Blazers,Houston Rockets,Portland Trail Blazers,28,23,51,1202779800.0,2008
+Portland Trail Blazers,Dallas Mavericks,Portland Trail Blazers,28,24,52,1202952600.0,2008
+Portland Trail Blazers,Portland Trail Blazers,Sacramento Kings,28,25,53,1203476400.0,2008
+Portland Trail Blazers,Portland Trail Blazers,Seattle Supersonics,29,25,54,1203651000.0,2008
+Portland Trail Blazers,Seattle Supersonics,Portland Trail Blazers,29,26,55,1203737400.0,2008
+Portland Trail Blazers,Portland Trail Blazers,Boston Celtics,29,27,56,1203894000.0,2008
+Portland Trail Blazers,Los Angeles Lakers,Portland Trail Blazers,29,28,57,1204083000.0,2008
+Portland Trail Blazers,Los Angeles Clippers,Portland Trail Blazers,30,28,58,1204169400.0,2008
+Portland Trail Blazers,Portland Trail Blazers,Los Angeles Lakers,31,28,59,1204342200.0,2008
+Portland Trail Blazers,Golden State Warriors,Portland Trail Blazers,31,29,60,1204509600.0,2008
+Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,31,30,61,1204686000.0,2008
+Portland Trail Blazers,Milwaukee Bucks,Portland Trail Blazers,32,30,62,1204939800.0,2008
+Portland Trail Blazers,New York Knicks,Portland Trail Blazers,33,30,63,1205022600.0,2008
+Portland Trail Blazers,Cleveland Cavaliers,Portland Trail Blazers,33,31,64,1205190000.0,2008
+Portland Trail Blazers,Minnesota Timberwolves,Portland Trail Blazers,34,31,65,1205280000.0,2008
+Portland Trail Blazers,Sacramento Kings,Portland Trail Blazers,34,32,66,1205460000.0,2008
+Portland Trail Blazers,Portland Trail Blazers,Minnesota Timberwolves,35,32,67,1205632800.0,2008
+Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,35,33,68,1205893800.0,2008
+Portland Trail Blazers,Portland Trail Blazers,Los Angeles Clippers,36,33,69,1206151200.0,2008
+Portland Trail Blazers,Los Angeles Clippers,Portland Trail Blazers,37,33,70,1206239400.0,2008
+Portland Trail Blazers,Seattle Supersonics,Portland Trail Blazers,37,34,71,1206410400.0,2008
+Portland Trail Blazers,Portland Trail Blazers,Washington Wizards,38,34,72,1206496800.0,2008
+Portland Trail Blazers,Golden State Warriors,Portland Trail Blazers,38,35,73,1206671400.0,2008
+Portland Trail Blazers,Portland Trail Blazers,Charlotte Bobcats,38,36,74,1206842400.0,2008
+Portland Trail Blazers,Los Angeles Lakers,Portland Trail Blazers,38,37,75,1207189800.0,2008
+Portland Trail Blazers,Portland Trail Blazers,Houston Rockets,38,38,76,1207276200.0,2008
+Portland Trail Blazers,Portland Trail Blazers,San Antonio Spurs,38,39,77,1207519200.0,2008
+Portland Trail Blazers,Portland Trail Blazers,Los Angeles Lakers,39,39,78,1207706400.0,2008
+Portland Trail Blazers,Sacramento Kings,Portland Trail Blazers,39,40,79,1207965600.0,2008
+Portland Trail Blazers,Portland Trail Blazers,Dallas Mavericks,40,40,80,1208052000.0,2008
+Portland Trail Blazers,Portland Trail Blazers,Memphis Grizzlies,41,40,81,1208311200.0,2008
+Portland Trail Blazers,Phoenix Suns,Portland Trail Blazers,41,41,82,1208397600.0,2008
+Sacramento Kings,New Orleans Hornets,Sacramento Kings,0,1,1,1193875200.0,2008
+Sacramento Kings,San Antonio Spurs,Sacramento Kings,0,2,2,1194049800.0,2008
+Sacramento Kings,Dallas Mavericks,Sacramento Kings,0,3,3,1194136200.0,2008
+Sacramento Kings,Sacramento Kings,Seattle Supersonics,1,3,4,1194404400.0,2008
+Sacramento Kings,Sacramento Kings,Cleveland Cavaliers,1,4,5,1194665400.0,2008
+Sacramento Kings,Sacramento Kings,Minnesota Timberwolves,2,4,6,1194750000.0,2008
+Sacramento Kings,Utah Jazz,Sacramento Kings,2,5,7,1194919200.0,2008
+Sacramento Kings,Minnesota Timberwolves,Sacramento Kings,2,6,8,1195088400.0,2008
+Sacramento Kings,Sacramento Kings,New York Knicks,3,6,9,1195268400.0,2008
+Sacramento Kings,Sacramento Kings,Detroit Pistons,4,6,10,1195437600.0,2008
+Sacramento Kings,Sacramento Kings,Phoenix Suns,4,7,11,1195614000.0,2008
+Sacramento Kings,Phoenix Suns,Sacramento Kings,4,8,12,1195696800.0,2008
+Sacramento Kings,Portland Trail Blazers,Sacramento Kings,4,9,13,1195873200.0,2008
+Sacramento Kings,Sacramento Kings,San Antonio Spurs,5,9,14,1196132400.0,2008
+Sacramento Kings,Sacramento Kings,Golden State Warriors,5,10,15,1196305200.0,2008
+Sacramento Kings,Sacramento Kings,Houston Rockets,6,10,16,1196564400.0,2008
+Sacramento Kings,Sacramento Kings,Utah Jazz,7,10,17,1196823600.0,2008
+Sacramento Kings,Sacramento Kings,Los Angeles Clippers,7,11,18,1197082800.0,2008
+Sacramento Kings,Denver Nuggets,Sacramento Kings,7,12,19,1197165600.0,2008
+Sacramento Kings,Sacramento Kings,Milwaukee Bucks,8,12,20,1197342000.0,2008
+Sacramento Kings,Boston Celtics,Sacramento Kings,8,13,21,1197505800.0,2008
+Sacramento Kings,Philadelphia 76ers,Sacramento Kings,9,13,22,1197676800.0,2008
+Sacramento Kings,Washington Wizards,Sacramento Kings,9,14,23,1197763200.0,2008
+Sacramento Kings,New Jersey Nets,Sacramento Kings,10,14,24,1198024200.0,2008
+Sacramento Kings,Milwaukee Bucks,Sacramento Kings,11,14,25,1198112400.0,2008
+Sacramento Kings,Sacramento Kings,Denver Nuggets,11,15,26,1198461600.0,2008
+Sacramento Kings,Sacramento Kings,Boston Celtics,11,16,27,1198724400.0,2008
+Sacramento Kings,Sacramento Kings,Philadelphia 76ers,11,17,28,1198897200.0,2008
+Sacramento Kings,Sacramento Kings,Phoenix Suns,11,18,29,1199066400.0,2008
+Sacramento Kings,New York Knicks,Sacramento Kings,12,18,30,1199320200.0,2008
+Sacramento Kings,Cleveland Cavaliers,Sacramento Kings,12,19,31,1199493000.0,2008
+Sacramento Kings,Chicago Bulls,Sacramento Kings,12,20,32,1199583000.0,2008
+Sacramento Kings,Sacramento Kings,Orlando Magic,13,20,33,1199847600.0,2008
+Sacramento Kings,Sacramento Kings,Memphis Grizzlies,14,20,34,1200020400.0,2008
+Sacramento Kings,Sacramento Kings,Indiana Pacers,14,21,35,1200193200.0,2008
+Sacramento Kings,Sacramento Kings,Dallas Mavericks,15,21,36,1200366000.0,2008
+Sacramento Kings,Toronto Raptors,Sacramento Kings,15,22,37,1200528000.0,2008
+Sacramento Kings,Detroit Pistons,Sacramento Kings,16,22,38,1200704400.0,2008
+Sacramento Kings,Indiana Pacers,Sacramento Kings,17,22,39,1200787200.0,2008
+Sacramento Kings,Sacramento Kings,New Jersey Nets,18,22,40,1201057200.0,2008
+Sacramento Kings,Los Angeles Clippers,Sacramento Kings,18,23,41,1201145400.0,2008
+Sacramento Kings,Utah Jazz,Sacramento Kings,18,24,42,1201312800.0,2008
+Sacramento Kings,Seattle Supersonics,Sacramento Kings,19,24,43,1201485600.0,2008
+Sacramento Kings,Sacramento Kings,Charlotte Bobcats,20,24,44,1201748400.0,2008
+Sacramento Kings,Sacramento Kings,New Orleans Hornets,21,24,45,1201921200.0,2008
+Sacramento Kings,Sacramento Kings,Chicago Bulls,22,24,46,1202007600.0,2008
+Sacramento Kings,Sacramento Kings,Seattle Supersonics,22,25,47,1202353200.0,2008
+Sacramento Kings,Sacramento Kings,Utah Jazz,23,25,48,1202526000.0,2008
+Sacramento Kings,Golden State Warriors,Sacramento Kings,23,26,49,1202614200.0,2008
+Sacramento Kings,Memphis Grizzlies,Sacramento Kings,23,27,50,1202864400.0,2008
+Sacramento Kings,Houston Rockets,Sacramento Kings,23,28,51,1202952600.0,2008
+Sacramento Kings,Portland Trail Blazers,Sacramento Kings,24,28,52,1203476400.0,2008
+Sacramento Kings,Sacramento Kings,Atlanta Hawks,25,28,53,1203562800.0,2008
+Sacramento Kings,Charlotte Bobcats,Sacramento Kings,26,28,54,1203724800.0,2008
+Sacramento Kings,Orlando Magic,Sacramento Kings,26,29,55,1203894000.0,2008
+Sacramento Kings,Miami Heat,Sacramento Kings,26,30,56,1204072200.0,2008
+Sacramento Kings,Atlanta Hawks,Sacramento Kings,26,31,57,1204156800.0,2008
+Sacramento Kings,Dallas Mavericks,Sacramento Kings,26,32,58,1204335000.0,2008
+Sacramento Kings,Sacramento Kings,Miami Heat,27,32,59,1204509600.0,2008
+Sacramento Kings,Sacramento Kings,Los Angeles Lakers,27,33,60,1204686000.0,2008
+Sacramento Kings,Los Angeles Clippers,Sacramento Kings,27,34,61,1204774200.0,2008
+Sacramento Kings,Sacramento Kings,Minnesota Timberwolves,27,35,62,1204945200.0,2008
+Sacramento Kings,Los Angeles Lakers,Sacramento Kings,28,35,63,1205112600.0,2008
+Sacramento Kings,Sacramento Kings,Portland Trail Blazers,29,35,64,1205460000.0,2008
+Sacramento Kings,Phoenix Suns,Sacramento Kings,29,36,65,1205632800.0,2008
+Sacramento Kings,Sacramento Kings,Toronto Raptors,30,36,66,1205715600.0,2008
+Sacramento Kings,Sacramento Kings,Golden State Warriors,31,36,67,1205892000.0,2008
+Sacramento Kings,San Antonio Spurs,Sacramento Kings,31,37,68,1206145800.0,2008
+Sacramento Kings,Memphis Grizzlies,Sacramento Kings,31,38,69,1206230400.0,2008
+Sacramento Kings,Houston Rockets,Sacramento Kings,31,39,70,1206405000.0,2008
+Sacramento Kings,Sacramento Kings,Memphis Grizzlies,32,39,71,1206583200.0,2008
+Sacramento Kings,Sacramento Kings,Washington Wizards,32,40,72,1206756000.0,2008
+Sacramento Kings,Seattle Supersonics,Sacramento Kings,33,40,73,1206925200.0,2008
+Sacramento Kings,Sacramento Kings,Houston Rockets,34,40,74,1207101600.0,2008
+Sacramento Kings,Sacramento Kings,Los Angeles Clippers,35,40,75,1207274400.0,2008
+Sacramento Kings,Denver Nuggets,Sacramento Kings,36,40,76,1207443600.0,2008
+Sacramento Kings,Sacramento Kings,Los Angeles Lakers,36,41,77,1207530000.0,2008
+Sacramento Kings,Golden State Warriors,Sacramento Kings,36,42,78,1207708200.0,2008
+Sacramento Kings,Sacramento Kings,Portland Trail Blazers,37,42,79,1207965600.0,2008
+Sacramento Kings,Sacramento Kings,New Orleans Hornets,38,42,80,1208052000.0,2008
+Sacramento Kings,Sacramento Kings,San Antonio Spurs,38,43,81,1208224800.0,2008
+Sacramento Kings,Los Angeles Lakers,Sacramento Kings,38,44,82,1208313000.0,2008
+San Antonio Spurs,San Antonio Spurs,Portland Trail Blazers,1,0,1,1193788800.0,2008
+San Antonio Spurs,Memphis Grizzlies,San Antonio Spurs,2,0,2,1193875200.0,2008
+San Antonio Spurs,San Antonio Spurs,Sacramento Kings,3,0,3,1194049800.0,2008
+San Antonio Spurs,Houston Rockets,San Antonio Spurs,3,1,4,1194399000.0,2008
+San Antonio Spurs,San Antonio Spurs,Miami Heat,4,1,5,1194483600.0,2008
+San Antonio Spurs,New Orleans Hornets,San Antonio Spurs,5,1,6,1194656400.0,2008
+San Antonio Spurs,San Antonio Spurs,Milwaukee Bucks,6,1,7,1194829200.0,2008
+San Antonio Spurs,San Antonio Spurs,Los Angeles Lakers,7,1,8,1195003800.0,2008
+San Antonio Spurs,Dallas Mavericks,San Antonio Spurs,7,2,9,1195174800.0,2008
+San Antonio Spurs,San Antonio Spurs,Houston Rockets,8,2,10,1195261200.0,2008
+San Antonio Spurs,Atlanta Hawks,San Antonio Spurs,9,2,11,1195603200.0,2008
+San Antonio Spurs,San Antonio Spurs,Orlando Magic,10,2,12,1195695000.0,2008
+San Antonio Spurs,San Antonio Spurs,Memphis Grizzlies,11,2,13,1195867800.0,2008
+San Antonio Spurs,Seattle Supersonics,San Antonio Spurs,12,2,14,1196042400.0,2008
+San Antonio Spurs,Sacramento Kings,San Antonio Spurs,12,3,15,1196132400.0,2008
+San Antonio Spurs,San Antonio Spurs,Washington Wizards,13,3,16,1196299800.0,2008
+San Antonio Spurs,Minnesota Timberwolves,San Antonio Spurs,14,3,17,1196470800.0,2008
+San Antonio Spurs,San Antonio Spurs,Portland Trail Blazers,15,3,18,1196627400.0,2008
+San Antonio Spurs,San Antonio Spurs,Dallas Mavericks,16,3,19,1196904600.0,2008
+San Antonio Spurs,San Antonio Spurs,Utah Jazz,17,3,20,1197081000.0,2008
+San Antonio Spurs,Golden State Warriors,San Antonio Spurs,17,4,21,1197430200.0,2008
+San Antonio Spurs,Los Angeles Lakers,San Antonio Spurs,17,5,22,1197603000.0,2008
+San Antonio Spurs,San Antonio Spurs,Denver Nuggets,18,5,23,1197768600.0,2008
+San Antonio Spurs,San Antonio Spurs,Phoenix Suns,18,6,24,1197941400.0,2008
+San Antonio Spurs,Memphis Grizzlies,San Antonio Spurs,18,7,25,1198112400.0,2008
+San Antonio Spurs,San Antonio Spurs,Los Angeles Clippers,19,7,26,1198373400.0,2008
+San Antonio Spurs,San Antonio Spurs,Chicago Bulls,20,7,27,1198719000.0,2008
+San Antonio Spurs,San Antonio Spurs,Toronto Raptors,20,8,28,1198891800.0,2008
+San Antonio Spurs,San Antonio Spurs,Memphis Grizzlies,21,8,29,1199064600.0,2008
+San Antonio Spurs,Denver Nuggets,San Antonio Spurs,21,9,30,1199412000.0,2008
+San Antonio Spurs,San Antonio Spurs,New York Knicks,22,9,31,1199496600.0,2008
+San Antonio Spurs,Los Angeles Clippers,San Antonio Spurs,23,9,32,1199651400.0,2008
+San Antonio Spurs,Golden State Warriors,San Antonio Spurs,23,10,33,1199763000.0,2008
+San Antonio Spurs,San Antonio Spurs,Detroit Pistons,23,11,34,1200013200.0,2008
+San Antonio Spurs,San Antonio Spurs,Minnesota Timberwolves,24,11,35,1200187800.0,2008
+San Antonio Spurs,San Antonio Spurs,Philadelphia 76ers,25,11,36,1200360600.0,2008
+San Antonio Spurs,San Antonio Spurs,Cleveland Cavaliers,25,12,37,1200618000.0,2008
+San Antonio Spurs,Houston Rockets,San Antonio Spurs,25,13,38,1200792600.0,2008
+San Antonio Spurs,Charlotte Bobcats,San Antonio Spurs,26,13,39,1200938400.0,2008
+San Antonio Spurs,San Antonio Spurs,Los Angeles Lakers,27,13,40,1201140000.0,2008
+San Antonio Spurs,Miami Heat,San Antonio Spurs,28,13,41,1201222800.0,2008
+San Antonio Spurs,San Antonio Spurs,New Orleans Hornets,28,14,42,1201397400.0,2008
+San Antonio Spurs,Utah Jazz,San Antonio Spurs,28,15,43,1201572000.0,2008
+San Antonio Spurs,Seattle Supersonics,San Antonio Spurs,28,16,44,1201662000.0,2008
+San Antonio Spurs,Phoenix Suns,San Antonio Spurs,29,16,45,1201836600.0,2008
+San Antonio Spurs,Indiana Pacers,San Antonio Spurs,30,16,46,1202256000.0,2008
+San Antonio Spurs,Washington Wizards,San Antonio Spurs,31,16,47,1202342400.0,2008
+San Antonio Spurs,New York Knicks,San Antonio Spurs,32,16,48,1202517000.0,2008
+San Antonio Spurs,Boston Celtics,San Antonio Spurs,32,17,49,1202666400.0,2008
+San Antonio Spurs,Toronto Raptors,San Antonio Spurs,33,17,50,1202774400.0,2008
+San Antonio Spurs,Cleveland Cavaliers,San Antonio Spurs,34,17,51,1202947200.0,2008
+San Antonio Spurs,San Antonio Spurs,Charlotte Bobcats,35,17,52,1203471000.0,2008
+San Antonio Spurs,Minnesota Timberwolves,San Antonio Spurs,36,17,53,1203642000.0,2008
+San Antonio Spurs,San Antonio Spurs,New Orleans Hornets,37,17,54,1203816600.0,2008
+San Antonio Spurs,San Antonio Spurs,Atlanta Hawks,38,17,55,1203989400.0,2008
+San Antonio Spurs,San Antonio Spurs,Dallas Mavericks,39,17,56,1204246800.0,2008
+San Antonio Spurs,Milwaukee Bucks,San Antonio Spurs,40,17,57,1204421400.0,2008
+San Antonio Spurs,New Jersey Nets,San Antonio Spurs,41,17,58,1204498800.0,2008
+San Antonio Spurs,San Antonio Spurs,New Jersey Nets,42,17,59,1204680600.0,2008
+San Antonio Spurs,San Antonio Spurs,Indiana Pacers,43,17,60,1204851600.0,2008
+San Antonio Spurs,Denver Nuggets,San Antonio Spurs,43,18,61,1204947000.0,2008
+San Antonio Spurs,Phoenix Suns,San Antonio Spurs,43,19,62,1205087400.0,2008
+San Antonio Spurs,San Antonio Spurs,Denver Nuggets,44,19,63,1205195400.0,2008
+San Antonio Spurs,New Orleans Hornets,San Antonio Spurs,44,20,64,1205366400.0,2008
+San Antonio Spurs,Detroit Pistons,San Antonio Spurs,44,21,65,1205539200.0,2008
+San Antonio Spurs,Philadelphia 76ers,San Antonio Spurs,44,22,66,1205622000.0,2008
+San Antonio Spurs,San Antonio Spurs,Boston Celtics,44,23,67,1205800200.0,2008
+San Antonio Spurs,Chicago Bulls,San Antonio Spurs,45,23,68,1206057600.0,2008
+San Antonio Spurs,San Antonio Spurs,Sacramento Kings,46,23,69,1206145800.0,2008
+San Antonio Spurs,Dallas Mavericks,San Antonio Spurs,47,23,70,1206291600.0,2008
+San Antonio Spurs,Orlando Magic,San Antonio Spurs,48,23,71,1206486000.0,2008
+San Antonio Spurs,San Antonio Spurs,Los Angeles Clippers,49,23,72,1206577800.0,2008
+San Antonio Spurs,San Antonio Spurs,Minnesota Timberwolves,50,23,73,1206750600.0,2008
+San Antonio Spurs,San Antonio Spurs,Houston Rockets,51,23,74,1206896400.0,2008
+San Antonio Spurs,San Antonio Spurs,Golden State Warriors,52,23,75,1207096200.0,2008
+San Antonio Spurs,Utah Jazz,San Antonio Spurs,52,24,76,1207353600.0,2008
+San Antonio Spurs,Portland Trail Blazers,San Antonio Spurs,53,24,77,1207519200.0,2008
+San Antonio Spurs,San Antonio Spurs,Phoenix Suns,53,25,78,1207791000.0,2008
+San Antonio Spurs,San Antonio Spurs,Seattle Supersonics,54,25,79,1207960200.0,2008
+San Antonio Spurs,Los Angeles Lakers,San Antonio Spurs,54,26,80,1208115000.0,2008
+San Antonio Spurs,Sacramento Kings,San Antonio Spurs,55,26,81,1208224800.0,2008
+San Antonio Spurs,San Antonio Spurs,Utah Jazz,56,26,82,1208395800.0,2008
+Seattle Supersonics,Denver Nuggets,Seattle Supersonics,0,1,1,1193884200.0,2008
+Seattle Supersonics,Seattle Supersonics,Phoenix Suns,0,2,2,1193970600.0,2008
+Seattle Supersonics,Los Angeles Clippers,Seattle Supersonics,0,3,3,1194208200.0,2008
+Seattle Supersonics,Sacramento Kings,Seattle Supersonics,0,4,4,1194404400.0,2008
+Seattle Supersonics,Seattle Supersonics,Memphis Grizzlies,0,5,5,1194490800.0,2008
+Seattle Supersonics,Seattle Supersonics,Utah Jazz,0,6,6,1194665400.0,2008
+Seattle Supersonics,Seattle Supersonics,Detroit Pistons,0,7,7,1194832800.0,2008
+Seattle Supersonics,Orlando Magic,Seattle Supersonics,0,8,8,1194998400.0,2008
+Seattle Supersonics,Miami Heat,Seattle Supersonics,1,8,9,1195086600.0,2008
+Seattle Supersonics,Atlanta Hawks,Seattle Supersonics,2,8,10,1195259400.0,2008
+Seattle Supersonics,Charlotte Bobcats,Seattle Supersonics,2,9,11,1195344000.0,2008
+Seattle Supersonics,Memphis Grizzlies,Seattle Supersonics,2,10,12,1195520400.0,2008
+Seattle Supersonics,Seattle Supersonics,New Jersey Nets,2,11,13,1195875000.0,2008
+Seattle Supersonics,Seattle Supersonics,San Antonio Spurs,2,12,14,1196042400.0,2008
+Seattle Supersonics,Los Angeles Lakers,Seattle Supersonics,2,13,15,1196220600.0,2008
+Seattle Supersonics,Seattle Supersonics,Orlando Magic,2,14,16,1196305200.0,2008
+Seattle Supersonics,Seattle Supersonics,Indiana Pacers,3,14,17,1196479800.0,2008
+Seattle Supersonics,Seattle Supersonics,Golden State Warriors,3,15,18,1196647200.0,2008
+Seattle Supersonics,Seattle Supersonics,Los Angeles Clippers,4,15,19,1196911800.0,2008
+Seattle Supersonics,Seattle Supersonics,Milwaukee Bucks,5,15,20,1197084600.0,2008
+Seattle Supersonics,New Orleans Hornets,Seattle Supersonics,5,16,21,1197244800.0,2008
+Seattle Supersonics,Chicago Bulls,Seattle Supersonics,5,17,22,1197423000.0,2008
+Seattle Supersonics,New York Knicks,Seattle Supersonics,6,17,23,1197505800.0,2008
+Seattle Supersonics,Minnesota Timberwolves,Seattle Supersonics,7,17,24,1197680400.0,2008
+Seattle Supersonics,Utah Jazz,Seattle Supersonics,7,18,25,1197770400.0,2008
+Seattle Supersonics,Seattle Supersonics,New Orleans Hornets,7,19,26,1198119600.0,2008
+Seattle Supersonics,Seattle Supersonics,Toronto Raptors,8,19,27,1198294200.0,2008
+Seattle Supersonics,Portland Trail Blazers,Seattle Supersonics,8,20,28,1198630800.0,2008
+Seattle Supersonics,Seattle Supersonics,Boston Celtics,8,21,29,1198812600.0,2008
+Seattle Supersonics,Seattle Supersonics,Minnesota Timberwolves,9,21,30,1198983600.0,2008
+Seattle Supersonics,Seattle Supersonics,Philadelphia 76ers,9,22,31,1199156400.0,2008
+Seattle Supersonics,Phoenix Suns,Seattle Supersonics,9,23,32,1199417400.0,2008
+Seattle Supersonics,Washington Wizards,Seattle Supersonics,9,24,33,1199642400.0,2008
+Seattle Supersonics,Cleveland Cavaliers,Seattle Supersonics,9,25,34,1199836800.0,2008
+Seattle Supersonics,New Jersey Nets,Seattle Supersonics,9,26,35,1199925000.0,2008
+Seattle Supersonics,Seattle Supersonics,Dallas Mavericks,9,27,36,1200108600.0,2008
+Seattle Supersonics,Seattle Supersonics,Los Angeles Lakers,9,28,37,1200366000.0,2008
+Seattle Supersonics,New Orleans Hornets,Seattle Supersonics,9,29,38,1200531600.0,2008
+Seattle Supersonics,Memphis Grizzlies,Seattle Supersonics,9,30,39,1200704400.0,2008
+Seattle Supersonics,Dallas Mavericks,Seattle Supersonics,9,31,40,1200794400.0,2008
+Seattle Supersonics,Houston Rockets,Seattle Supersonics,9,32,41,1200943800.0,2008
+Seattle Supersonics,Seattle Supersonics,Houston Rockets,9,33,42,1201143600.0,2008
+Seattle Supersonics,Seattle Supersonics,Atlanta Hawks,9,34,43,1201318200.0,2008
+Seattle Supersonics,Seattle Supersonics,Sacramento Kings,9,35,44,1201485600.0,2008
+Seattle Supersonics,Seattle Supersonics,San Antonio Spurs,10,35,45,1201662000.0,2008
+Seattle Supersonics,Seattle Supersonics,Cleveland Cavaliers,11,35,46,1201834800.0,2008
+Seattle Supersonics,Seattle Supersonics,New York Knicks,12,35,47,1202007600.0,2008
+Seattle Supersonics,Seattle Supersonics,Chicago Bulls,12,36,48,1202180400.0,2008
+Seattle Supersonics,Sacramento Kings,Seattle Supersonics,13,36,49,1202353200.0,2008
+Seattle Supersonics,Phoenix Suns,Seattle Supersonics,13,37,50,1202522400.0,2008
+Seattle Supersonics,Seattle Supersonics,Utah Jazz,13,38,51,1202958000.0,2008
+Seattle Supersonics,Seattle Supersonics,Memphis Grizzlies,14,38,52,1203476400.0,2008
+Seattle Supersonics,Portland Trail Blazers,Seattle Supersonics,14,39,53,1203651000.0,2008
+Seattle Supersonics,Seattle Supersonics,Portland Trail Blazers,15,39,54,1203737400.0,2008
+Seattle Supersonics,Seattle Supersonics,Los Angeles Lakers,15,40,55,1203904800.0,2008
+Seattle Supersonics,Golden State Warriors,Seattle Supersonics,15,41,56,1204083000.0,2008
+Seattle Supersonics,Seattle Supersonics,Denver Nuggets,15,42,57,1204167600.0,2008
+Seattle Supersonics,Seattle Supersonics,Miami Heat,15,43,58,1204342200.0,2008
+Seattle Supersonics,Minnesota Timberwolves,Seattle Supersonics,16,43,59,1204500600.0,2008
+Seattle Supersonics,Detroit Pistons,Seattle Supersonics,16,44,60,1204677000.0,2008
+Seattle Supersonics,Milwaukee Bucks,Seattle Supersonics,16,45,61,1204765200.0,2008
+Seattle Supersonics,Philadelphia 76ers,Seattle Supersonics,16,46,62,1204934400.0,2008
+Seattle Supersonics,Toronto Raptors,Seattle Supersonics,16,47,63,1205082000.0,2008
+Seattle Supersonics,Indiana Pacers,Seattle Supersonics,16,48,64,1205276400.0,2008
+Seattle Supersonics,Boston Celtics,Seattle Supersonics,16,49,65,1205364600.0,2008
+Seattle Supersonics,Seattle Supersonics,Minnesota Timberwolves,16,50,66,1205548200.0,2008
+Seattle Supersonics,Denver Nuggets,Seattle Supersonics,16,51,67,1205715600.0,2008
+Seattle Supersonics,Seattle Supersonics,Phoenix Suns,16,52,68,1205978400.0,2008
+Seattle Supersonics,Los Angeles Lakers,Seattle Supersonics,16,53,69,1206153000.0,2008
+Seattle Supersonics,Utah Jazz,Seattle Supersonics,16,54,70,1206234000.0,2008
+Seattle Supersonics,Seattle Supersonics,Portland Trail Blazers,17,54,71,1206410400.0,2008
+Seattle Supersonics,Seattle Supersonics,Washington Wizards,17,55,72,1206583200.0,2008
+Seattle Supersonics,Seattle Supersonics,Charlotte Bobcats,17,56,73,1206757800.0,2008
+Seattle Supersonics,Seattle Supersonics,Sacramento Kings,17,57,74,1206925200.0,2008
+Seattle Supersonics,Seattle Supersonics,Los Angeles Clippers,17,58,75,1207188000.0,2008
+Seattle Supersonics,Seattle Supersonics,Houston Rockets,17,59,76,1207362600.0,2008
+Seattle Supersonics,Seattle Supersonics,Denver Nuggets,18,59,77,1207530000.0,2008
+Seattle Supersonics,Dallas Mavericks,Seattle Supersonics,18,60,78,1207701000.0,2008
+Seattle Supersonics,Houston Rockets,Seattle Supersonics,18,61,79,1207787400.0,2008
+Seattle Supersonics,San Antonio Spurs,Seattle Supersonics,18,62,80,1207960200.0,2008
+Seattle Supersonics,Seattle Supersonics,Dallas Mavericks,19,62,81,1208134800.0,2008
+Seattle Supersonics,Golden State Warriors,Seattle Supersonics,20,62,82,1208399400.0,2008
+Toronto Raptors,Toronto Raptors,Philadelphia 76ers,1,0,1,1193871600.0,2008
+Toronto Raptors,New Jersey Nets,Toronto Raptors,2,0,2,1194046200.0,2008
+Toronto Raptors,Toronto Raptors,Boston Celtics,2,1,3,1194204600.0,2008
+Toronto Raptors,Milwaukee Bucks,Toronto Raptors,2,2,4,1194397200.0,2008
+Toronto Raptors,Toronto Raptors,Orlando Magic,2,3,5,1194480000.0,2008
+Toronto Raptors,Philadelphia 76ers,Toronto Raptors,3,3,6,1194652800.0,2008
+Toronto Raptors,Chicago Bulls,Toronto Raptors,4,3,7,1194744600.0,2008
+Toronto Raptors,Toronto Raptors,Utah Jazz,4,4,8,1195084800.0,2008
+Toronto Raptors,Toronto Raptors,Indiana Pacers,5,4,9,1195257600.0,2008
+Toronto Raptors,Toronto Raptors,Golden State Warriors,5,5,10,1195408800.0,2008
+Toronto Raptors,Dallas Mavericks,Toronto Raptors,5,6,11,1195608600.0,2008
+Toronto Raptors,Memphis Grizzlies,Toronto Raptors,6,6,12,1195693200.0,2008
+Toronto Raptors,Cleveland Cavaliers,Toronto Raptors,6,7,13,1195927200.0,2008
+Toronto Raptors,Toronto Raptors,Chicago Bulls,7,7,14,1196010000.0,2008
+Toronto Raptors,Toronto Raptors,Memphis Grizzlies,8,7,15,1196294400.0,2008
+Toronto Raptors,Toronto Raptors,Cleveland Cavaliers,9,7,16,1196467200.0,2008
+Toronto Raptors,Washington Wizards,Toronto Raptors,9,8,17,1196553600.0,2008
+Toronto Raptors,Toronto Raptors,Charlotte Bobcats,10,8,18,1196726400.0,2008
+Toronto Raptors,Toronto Raptors,Phoenix Suns,10,9,19,1196899200.0,2008
+Toronto Raptors,Boston Celtics,Toronto Raptors,10,10,20,1197073800.0,2008
+Toronto Raptors,Toronto Raptors,Houston Rockets,11,10,21,1197221400.0,2008
+Toronto Raptors,Atlanta Hawks,Toronto Raptors,12,10,22,1197417600.0,2008
+Toronto Raptors,Toronto Raptors,Dallas Mavericks,13,10,23,1197504000.0,2008
+Toronto Raptors,Indiana Pacers,Toronto Raptors,14,10,24,1197676800.0,2008
+Toronto Raptors,Toronto Raptors,Boston Celtics,14,11,25,1197828000.0,2008
+Toronto Raptors,Los Angeles Clippers,Toronto Raptors,15,11,26,1198035000.0,2008
+Toronto Raptors,Portland Trail Blazers,Toronto Raptors,15,12,27,1198119600.0,2008
+Toronto Raptors,Seattle Supersonics,Toronto Raptors,15,13,28,1198294200.0,2008
+Toronto Raptors,Phoenix Suns,Toronto Raptors,15,14,29,1198375200.0,2008
+Toronto Raptors,San Antonio Spurs,Toronto Raptors,16,14,30,1198891800.0,2008
+Toronto Raptors,Houston Rockets,Toronto Raptors,16,15,31,1198978200.0,2008
+Toronto Raptors,New Orleans Hornets,Toronto Raptors,17,15,32,1199149200.0,2008
+Toronto Raptors,Toronto Raptors,Detroit Pistons,17,16,33,1199491200.0,2008
+Toronto Raptors,Toronto Raptors,Cleveland Cavaliers,17,17,34,1199642400.0,2008
+Toronto Raptors,Toronto Raptors,Philadelphia 76ers,18,17,35,1199923200.0,2008
+Toronto Raptors,New York Knicks,Toronto Raptors,19,17,36,1200097800.0,2008
+Toronto Raptors,Toronto Raptors,Portland Trail Blazers,20,17,37,1200245400.0,2008
+Toronto Raptors,Detroit Pistons,Toronto Raptors,20,18,38,1200443400.0,2008
+Toronto Raptors,Toronto Raptors,Sacramento Kings,21,18,39,1200528000.0,2008
+Toronto Raptors,Toronto Raptors,Atlanta Hawks,22,18,40,1200700800.0,2008
+Toronto Raptors,Philadelphia 76ers,Toronto Raptors,22,19,41,1200787200.0,2008
+Toronto Raptors,Boston Celtics,Toronto Raptors,23,19,42,1201134600.0,2008
+Toronto Raptors,Toronto Raptors,Milwaukee Bucks,24,19,43,1201305600.0,2008
+Toronto Raptors,Washington Wizards,Toronto Raptors,24,20,44,1201651200.0,2008
+Toronto Raptors,Toronto Raptors,Washington Wizards,25,20,45,1201737600.0,2008
+Toronto Raptors,Toronto Raptors,Los Angeles Lakers,25,21,46,1201910400.0,2008
+Toronto Raptors,Miami Heat,Toronto Raptors,26,21,47,1202171400.0,2008
+Toronto Raptors,Toronto Raptors,Los Angeles Clippers,26,22,48,1202515200.0,2008
+Toronto Raptors,Minnesota Timberwolves,Toronto Raptors,27,22,49,1202686200.0,2008
+Toronto Raptors,Toronto Raptors,San Antonio Spurs,27,23,50,1202774400.0,2008
+Toronto Raptors,Toronto Raptors,New Jersey Nets,28,23,51,1202947200.0,2008
+Toronto Raptors,Toronto Raptors,Orlando Magic,29,23,52,1203552000.0,2008
+Toronto Raptors,New York Knicks,Toronto Raptors,29,24,53,1203726600.0,2008
+Toronto Raptors,Toronto Raptors,New York Knicks,30,24,54,1203894000.0,2008
+Toronto Raptors,Indiana Pacers,Toronto Raptors,31,24,55,1203984000.0,2008
+Toronto Raptors,Toronto Raptors,Minnesota Timberwolves,32,24,56,1204156800.0,2008
+Toronto Raptors,Toronto Raptors,Indiana Pacers,32,25,57,1204329600.0,2008
+Toronto Raptors,Charlotte Bobcats,Toronto Raptors,32,26,58,1204498800.0,2008
+Toronto Raptors,Orlando Magic,Toronto Raptors,32,27,59,1204675200.0,2008
+Toronto Raptors,Miami Heat,Toronto Raptors,33,27,60,1204763400.0,2008
+Toronto Raptors,Toronto Raptors,Washington Wizards,33,28,61,1204934400.0,2008
+Toronto Raptors,Toronto Raptors,Seattle Supersonics,34,28,62,1205082000.0,2008
+Toronto Raptors,Los Angeles Lakers,Toronto Raptors,34,29,63,1205289000.0,2008
+Toronto Raptors,Golden State Warriors,Toronto Raptors,34,30,64,1205375400.0,2008
+Toronto Raptors,Denver Nuggets,Toronto Raptors,34,31,65,1205542800.0,2008
+Toronto Raptors,Sacramento Kings,Toronto Raptors,34,32,66,1205715600.0,2008
+Toronto Raptors,Utah Jazz,Toronto Raptors,34,33,67,1205802000.0,2008
+Toronto Raptors,Toronto Raptors,Miami Heat,35,33,68,1205967600.0,2008
+Toronto Raptors,Cleveland Cavaliers,Toronto Raptors,35,34,69,1206142200.0,2008
+Toronto Raptors,Toronto Raptors,Denver Nuggets,35,35,70,1206300600.0,2008
+Toronto Raptors,Toronto Raptors,Detroit Pistons,36,35,71,1206572400.0,2008
+Toronto Raptors,Toronto Raptors,New York Knicks,37,35,72,1206745200.0,2008
+Toronto Raptors,Toronto Raptors,New Orleans Hornets,37,36,73,1206914400.0,2008
+Toronto Raptors,Charlotte Bobcats,Toronto Raptors,38,36,74,1207004400.0,2008
+Toronto Raptors,Atlanta Hawks,Toronto Raptors,38,37,75,1207177200.0,2008
+Toronto Raptors,Toronto Raptors,Charlotte Bobcats,38,38,76,1207350000.0,2008
+Toronto Raptors,New Jersey Nets,Toronto Raptors,38,39,77,1207438200.0,2008
+Toronto Raptors,Toronto Raptors,Milwaukee Bucks,39,39,78,1207782000.0,2008
+Toronto Raptors,Toronto Raptors,New Jersey Nets,40,39,79,1207954800.0,2008
+Toronto Raptors,Detroit Pistons,Toronto Raptors,40,40,80,1208106000.0,2008
+Toronto Raptors,Toronto Raptors,Miami Heat,41,40,81,1208214000.0,2008
+Toronto Raptors,Chicago Bulls,Toronto Raptors,41,41,82,1208392200.0,2008
+Utah Jazz,Golden State Warriors,Utah Jazz,1,0,1,1193797800.0,2008
+Utah Jazz,Utah Jazz,Houston Rockets,1,1,2,1193965200.0,2008
+Utah Jazz,Utah Jazz,Golden State Warriors,2,1,3,1194138000.0,2008
+Utah Jazz,Los Angeles Lakers,Utah Jazz,2,2,4,1194229800.0,2008
+Utah Jazz,Utah Jazz,Cleveland Cavaliers,3,2,5,1194492600.0,2008
+Utah Jazz,Seattle Supersonics,Utah Jazz,4,2,6,1194665400.0,2008
+Utah Jazz,Utah Jazz,Memphis Grizzlies,5,2,7,1194746400.0,2008
+Utah Jazz,Utah Jazz,Sacramento Kings,6,2,8,1194919200.0,2008
+Utah Jazz,Toronto Raptors,Utah Jazz,7,2,9,1195084800.0,2008
+Utah Jazz,Cleveland Cavaliers,Utah Jazz,7,3,10,1195259400.0,2008
+Utah Jazz,Indiana Pacers,Utah Jazz,7,4,11,1195344000.0,2008
+Utah Jazz,Utah Jazz,New Jersey Nets,8,4,12,1195524000.0,2008
+Utah Jazz,Utah Jazz,New Orleans Hornets,9,4,13,1195869600.0,2008
+Utah Jazz,Detroit Pistons,Utah Jazz,10,4,14,1196013600.0,2008
+Utah Jazz,New York Knicks,Utah Jazz,10,5,15,1196123400.0,2008
+Utah Jazz,Philadelphia 76ers,Utah Jazz,11,5,16,1196294400.0,2008
+Utah Jazz,Utah Jazz,Los Angeles Lakers,12,5,17,1196479800.0,2008
+Utah Jazz,Utah Jazz,Miami Heat,13,5,18,1196733600.0,2008
+Utah Jazz,Sacramento Kings,Utah Jazz,13,6,19,1196823600.0,2008
+Utah Jazz,San Antonio Spurs,Utah Jazz,13,7,20,1197081000.0,2008
+Utah Jazz,Dallas Mavericks,Utah Jazz,13,8,21,1197163800.0,2008
+Utah Jazz,Utah Jazz,Portland Trail Blazers,13,9,22,1197424800.0,2008
+Utah Jazz,Phoenix Suns,Utah Jazz,13,10,23,1197516600.0,2008
+Utah Jazz,Portland Trail Blazers,Utah Jazz,13,11,24,1197687600.0,2008
+Utah Jazz,Utah Jazz,Seattle Supersonics,14,11,25,1197770400.0,2008
+Utah Jazz,Atlanta Hawks,Utah Jazz,14,12,26,1197936000.0,2008
+Utah Jazz,Charlotte Bobcats,Utah Jazz,14,13,27,1198108800.0,2008
+Utah Jazz,Orlando Magic,Utah Jazz,15,13,28,1198281600.0,2008
+Utah Jazz,Miami Heat,Utah Jazz,15,14,29,1198369800.0,2008
+Utah Jazz,Utah Jazz,Dallas Mavericks,16,14,30,1198720800.0,2008
+Utah Jazz,Los Angeles Lakers,Utah Jazz,16,15,31,1198899000.0,2008
+Utah Jazz,Utah Jazz,Boston Celtics,16,16,32,1198980000.0,2008
+Utah Jazz,Utah Jazz,Portland Trail Blazers,17,16,33,1199149200.0,2008
+Utah Jazz,Utah Jazz,Philadelphia 76ers,18,16,34,1199325600.0,2008
+Utah Jazz,Portland Trail Blazers,Utah Jazz,18,17,35,1199588400.0,2008
+Utah Jazz,Utah Jazz,Indiana Pacers,19,17,36,1199844000.0,2008
+Utah Jazz,Utah Jazz,Phoenix Suns,20,17,37,1200022200.0,2008
+Utah Jazz,Utah Jazz,Orlando Magic,21,17,38,1200189600.0,2008
+Utah Jazz,Utah Jazz,Milwaukee Bucks,22,17,39,1200362400.0,2008
+Utah Jazz,Denver Nuggets,Utah Jazz,22,18,40,1200621600.0,2008
+Utah Jazz,Utah Jazz,Los Angeles Clippers,23,18,41,1200708000.0,2008
+Utah Jazz,Los Angeles Clippers,Utah Jazz,24,18,42,1200947400.0,2008
+Utah Jazz,Utah Jazz,Sacramento Kings,25,18,43,1201312800.0,2008
+Utah Jazz,Houston Rockets,Utah Jazz,26,18,44,1201478400.0,2008
+Utah Jazz,Utah Jazz,San Antonio Spurs,27,18,45,1201572000.0,2008
+Utah Jazz,Utah Jazz,New York Knicks,28,18,46,1201744800.0,2008
+Utah Jazz,Washington Wizards,Utah Jazz,29,18,47,1201914000.0,2008
+Utah Jazz,Memphis Grizzlies,Utah Jazz,30,18,48,1202000400.0,2008
+Utah Jazz,Utah Jazz,New Orleans Hornets,31,18,49,1202176800.0,2008
+Utah Jazz,Denver Nuggets,Utah Jazz,32,18,50,1202349600.0,2008
+Utah Jazz,Sacramento Kings,Utah Jazz,32,19,51,1202526000.0,2008
+Utah Jazz,Utah Jazz,Chicago Bulls,33,19,52,1202608800.0,2008
+Utah Jazz,Seattle Supersonics,Utah Jazz,34,19,53,1202958000.0,2008
+Utah Jazz,Utah Jazz,Golden State Warriors,35,19,54,1203472800.0,2008
+Utah Jazz,Los Angeles Clippers,Utah Jazz,35,20,55,1203737400.0,2008
+Utah Jazz,Utah Jazz,Atlanta Hawks,36,20,56,1203818400.0,2008
+Utah Jazz,Minnesota Timberwolves,Utah Jazz,36,21,57,1204074000.0,2008
+Utah Jazz,Utah Jazz,Detroit Pistons,37,21,58,1204164000.0,2008
+Utah Jazz,New Orleans Hornets,Utah Jazz,37,22,59,1204333200.0,2008
+Utah Jazz,Memphis Grizzlies,Utah Jazz,38,22,60,1204419600.0,2008
+Utah Jazz,Utah Jazz,Dallas Mavericks,39,22,61,1204596000.0,2008
+Utah Jazz,Utah Jazz,Minnesota Timberwolves,40,22,62,1204768800.0,2008
+Utah Jazz,Phoenix Suns,Utah Jazz,41,22,63,1204941600.0,2008
+Utah Jazz,Utah Jazz,Denver Nuggets,42,22,64,1205028000.0,2008
+Utah Jazz,Chicago Bulls,Utah Jazz,42,23,65,1205281800.0,2008
+Utah Jazz,Milwaukee Bucks,Utah Jazz,43,23,66,1205366400.0,2008
+Utah Jazz,Boston Celtics,Utah Jazz,44,23,67,1205537400.0,2008
+Utah Jazz,New Jersey Nets,Utah Jazz,44,24,68,1205623800.0,2008
+Utah Jazz,Utah Jazz,Toronto Raptors,45,24,69,1205802000.0,2008
+Utah Jazz,Utah Jazz,Los Angeles Lakers,45,25,70,1206066600.0,2008
+Utah Jazz,Utah Jazz,Seattle Supersonics,46,25,71,1206234000.0,2008
+Utah Jazz,Utah Jazz,Charlotte Bobcats,47,25,72,1206493200.0,2008
+Utah Jazz,Utah Jazz,Los Angeles Clippers,48,25,73,1206752400.0,2008
+Utah Jazz,Minnesota Timberwolves,Utah Jazz,48,26,74,1206905400.0,2008
+Utah Jazz,Utah Jazz,Washington Wizards,49,26,75,1207011600.0,2008
+Utah Jazz,Utah Jazz,Minnesota Timberwolves,50,26,76,1207184400.0,2008
+Utah Jazz,Utah Jazz,San Antonio Spurs,51,26,77,1207353600.0,2008
+Utah Jazz,New Orleans Hornets,Utah Jazz,52,26,78,1207699200.0,2008
+Utah Jazz,Dallas Mavericks,Utah Jazz,52,27,79,1207873800.0,2008
+Utah Jazz,Utah Jazz,Denver Nuggets,53,27,80,1208048400.0,2008
+Utah Jazz,Utah Jazz,Houston Rockets,54,27,81,1208221200.0,2008
+Utah Jazz,San Antonio Spurs,Utah Jazz,54,28,82,1208395800.0,2008
+Washington Wizards,Indiana Pacers,Washington Wizards,0,1,1,1193871600.0,2008
+Washington Wizards,Boston Celtics,Washington Wizards,0,2,2,1194048000.0,2008
+Washington Wizards,Washington Wizards,Orlando Magic,0,3,3,1194130800.0,2008
+Washington Wizards,New Jersey Nets,Washington Wizards,0,4,4,1194568200.0,2008
+Washington Wizards,Washington Wizards,Denver Nuggets,0,5,5,1194656400.0,2008
+Washington Wizards,Atlanta Hawks,Washington Wizards,1,5,6,1194807600.0,2008
+Washington Wizards,Washington Wizards,Indiana Pacers,2,5,7,1195084800.0,2008
+Washington Wizards,Minnesota Timberwolves,Washington Wizards,3,5,8,1195261200.0,2008
+Washington Wizards,Washington Wizards,Portland Trail Blazers,4,5,9,1195344000.0,2008
+Washington Wizards,Washington Wizards,Philadelphia 76ers,5,5,10,1195603200.0,2008
+Washington Wizards,Charlotte Bobcats,Washington Wizards,6,5,11,1195689600.0,2008
+Washington Wizards,Washington Wizards,Golden State Warriors,6,6,12,1195862400.0,2008
+Washington Wizards,Memphis Grizzlies,Washington Wizards,6,7,13,1195952400.0,2008
+Washington Wizards,Dallas Mavericks,Washington Wizards,7,7,14,1196127000.0,2008
+Washington Wizards,San Antonio Spurs,Washington Wizards,7,8,15,1196299800.0,2008
+Washington Wizards,Philadelphia 76ers,Washington Wizards,7,9,16,1196467200.0,2008
+Washington Wizards,Washington Wizards,Toronto Raptors,8,9,17,1196553600.0,2008
+Washington Wizards,Washington Wizards,Cleveland Cavaliers,9,9,18,1196899200.0,2008
+Washington Wizards,Washington Wizards,Phoenix Suns,9,10,19,1197072000.0,2008
+Washington Wizards,Washington Wizards,New Jersey Nets,10,10,20,1197244800.0,2008
+Washington Wizards,Washington Wizards,Minnesota Timberwolves,11,10,21,1197417600.0,2008
+Washington Wizards,Miami Heat,Washington Wizards,12,10,22,1197594000.0,2008
+Washington Wizards,Washington Wizards,Sacramento Kings,13,10,23,1197763200.0,2008
+Washington Wizards,Washington Wizards,Chicago Bulls,13,11,24,1198108800.0,2008
+Washington Wizards,Washington Wizards,Atlanta Hawks,13,12,25,1198281600.0,2008
+Washington Wizards,Indiana Pacers,Washington Wizards,13,13,26,1198368000.0,2008
+Washington Wizards,Charlotte Bobcats,Washington Wizards,14,13,27,1198713600.0,2008
+Washington Wizards,New Jersey Nets,Washington Wizards,14,14,28,1198888200.0,2008
+Washington Wizards,Washington Wizards,Miami Heat,15,14,29,1198972800.0,2008
+Washington Wizards,Washington Wizards,Detroit Pistons,15,15,30,1199318400.0,2008
+Washington Wizards,Milwaukee Bucks,Washington Wizards,16,15,31,1199496600.0,2008
+Washington Wizards,Washington Wizards,Seattle Supersonics,17,15,32,1199642400.0,2008
+Washington Wizards,Washington Wizards,Houston Rockets,17,16,33,1199836800.0,2008
+Washington Wizards,Atlanta Hawks,Washington Wizards,18,16,34,1200097800.0,2008
+Washington Wizards,Washington Wizards,Boston Celtics,19,16,35,1200184200.0,2008
+Washington Wizards,Boston Celtics,Washington Wizards,20,16,36,1200357000.0,2008
+Washington Wizards,New York Knicks,Washington Wizards,20,17,37,1200443400.0,2008
+Washington Wizards,Washington Wizards,New York Knicks,21,17,38,1200700800.0,2008
+Washington Wizards,Washington Wizards,Dallas Mavericks,22,17,39,1200938400.0,2008
+Washington Wizards,Cleveland Cavaliers,Washington Wizards,22,18,40,1201132800.0,2008
+Washington Wizards,Washington Wizards,Memphis Grizzlies,23,18,41,1201305600.0,2008
+Washington Wizards,Milwaukee Bucks,Washington Wizards,23,19,42,1201474800.0,2008
+Washington Wizards,Washington Wizards,Toronto Raptors,24,19,43,1201651200.0,2008
+Washington Wizards,Toronto Raptors,Washington Wizards,24,20,44,1201737600.0,2008
+Washington Wizards,Washington Wizards,Utah Jazz,24,21,45,1201914000.0,2008
+Washington Wizards,Washington Wizards,Los Angeles Lakers,24,22,46,1202058000.0,2008
+Washington Wizards,Philadelphia 76ers,Washington Wizards,24,23,47,1202256000.0,2008
+Washington Wizards,Washington Wizards,San Antonio Spurs,24,24,48,1202342400.0,2008
+Washington Wizards,Denver Nuggets,Washington Wizards,24,25,49,1202527800.0,2008
+Washington Wizards,Phoenix Suns,Washington Wizards,24,26,50,1202697000.0,2008
+Washington Wizards,Golden State Warriors,Washington Wizards,24,27,51,1202787000.0,2008
+Washington Wizards,Los Angeles Clippers,Washington Wizards,25,27,52,1202959800.0,2008
+Washington Wizards,Washington Wizards,New York Knicks,25,28,53,1203465600.0,2008
+Washington Wizards,Cleveland Cavaliers,Washington Wizards,25,29,54,1203728400.0,2008
+Washington Wizards,Washington Wizards,Charlotte Bobcats,26,29,55,1203811200.0,2008
+Washington Wizards,New Orleans Hornets,Washington Wizards,27,29,56,1203987600.0,2008
+Washington Wizards,Houston Rockets,Washington Wizards,27,30,57,1204075800.0,2008
+Washington Wizards,Chicago Bulls,Washington Wizards,28,30,58,1204333200.0,2008
+Washington Wizards,Washington Wizards,New Orleans Hornets,29,30,59,1204498800.0,2008
+Washington Wizards,Washington Wizards,Orlando Magic,29,31,60,1204761600.0,2008
+Washington Wizards,Toronto Raptors,Washington Wizards,30,31,61,1204934400.0,2008
+Washington Wizards,Washington Wizards,Charlotte Bobcats,30,32,62,1205020800.0,2008
+Washington Wizards,Washington Wizards,Milwaukee Bucks,31,32,63,1205276400.0,2008
+Washington Wizards,Washington Wizards,Cleveland Cavaliers,32,32,64,1205452800.0,2008
+Washington Wizards,Washington Wizards,Los Angeles Clippers,33,32,65,1205622000.0,2008
+Washington Wizards,Washington Wizards,Atlanta Hawks,33,33,66,1205794800.0,2008
+Washington Wizards,Orlando Magic,Washington Wizards,34,33,67,1205967600.0,2008
+Washington Wizards,Miami Heat,Washington Wizards,35,33,68,1206142200.0,2008
+Washington Wizards,Washington Wizards,Detroit Pistons,36,33,69,1206316800.0,2008
+Washington Wizards,Portland Trail Blazers,Washington Wizards,36,34,70,1206496800.0,2008
+Washington Wizards,Seattle Supersonics,Washington Wizards,37,34,71,1206583200.0,2008
+Washington Wizards,Sacramento Kings,Washington Wizards,38,34,72,1206756000.0,2008
+Washington Wizards,Los Angeles Lakers,Washington Wizards,38,35,73,1206927000.0,2008
+Washington Wizards,Utah Jazz,Washington Wizards,38,36,74,1207011600.0,2008
+Washington Wizards,Washington Wizards,Milwaukee Bucks,38,37,75,1207177200.0,2008
+Washington Wizards,Washington Wizards,Miami Heat,39,37,76,1207353600.0,2008
+Washington Wizards,Chicago Bulls,Washington Wizards,40,37,77,1207441800.0,2008
+Washington Wizards,Washington Wizards,Boston Celtics,41,37,78,1207782000.0,2008
+Washington Wizards,Detroit Pistons,Washington Wizards,41,38,79,1207958400.0,2008
+Washington Wizards,Washington Wizards,Philadelphia 76ers,42,38,80,1208041200.0,2008
+Washington Wizards,Washington Wizards,Indiana Pacers,43,38,81,1208214000.0,2008
+Washington Wizards,Orlando Magic,Washington Wizards,43,39,82,1208386800.0,2008

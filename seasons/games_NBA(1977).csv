@@ -1,0 +1,1805 @@
+id,home_team,away_team,win,loss,game_number,date,year
+Atlanta Hawks,Atlanta Hawks,Houston Rockets,0,1,1,214718400.0,1977
+Atlanta Hawks,Atlanta Hawks,Milwaukee Bucks,1,1,2,214977600.0,1977
+Atlanta Hawks,Atlanta Hawks,San Antonio Spurs,2,1,3,215150400.0,1977
+Atlanta Hawks,Los Angeles Lakers,Atlanta Hawks,2,2,4,215409600.0,1977
+Atlanta Hawks,Golden State Warriors,Atlanta Hawks,2,3,5,215496000.0,1977
+Atlanta Hawks,Seattle Supersonics,Atlanta Hawks,2,4,6,215582400.0,1977
+Atlanta Hawks,Portland Trail Blazers,Atlanta Hawks,2,5,7,215758800.0,1977
+Atlanta Hawks,Atlanta Hawks,Chicago Bulls,3,5,8,215931600.0,1977
+Atlanta Hawks,Atlanta Hawks,Detroit Pistons,3,6,9,216104400.0,1977
+Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,4,6,10,216190800.0,1977
+Atlanta Hawks,Atlanta Hawks,Portland Trail Blazers,5,6,11,216536400.0,1977
+Atlanta Hawks,Atlanta Hawks,New Orleans Jazz,5,7,12,216709200.0,1977
+Atlanta Hawks,New York Knicks,Atlanta Hawks,5,8,13,216968400.0,1977
+Atlanta Hawks,Boston Celtics,Atlanta Hawks,5,9,14,217054800.0,1977
+Atlanta Hawks,Atlanta Hawks,Philadelphia 76ers,5,10,15,217314000.0,1977
+Atlanta Hawks,Atlanta Hawks,Kansas City Kings,5,11,16,217400400.0,1977
+Atlanta Hawks,Indiana Pacers,Atlanta Hawks,5,12,17,217659600.0,1977
+Atlanta Hawks,New York Nets,Atlanta Hawks,6,12,18,217832400.0,1977
+Atlanta Hawks,Atlanta Hawks,Buffalo Braves,7,12,19,217918800.0,1977
+Atlanta Hawks,Atlanta Hawks,Golden State Warriors,7,13,20,218005200.0,1977
+Atlanta Hawks,Atlanta Hawks,Washington Bullets,7,14,21,218350800.0,1977
+Atlanta Hawks,New Orleans Jazz,Atlanta Hawks,7,15,22,218437200.0,1977
+Atlanta Hawks,Atlanta Hawks,New York Nets,7,16,23,218523600.0,1977
+Atlanta Hawks,San Antonio Spurs,Atlanta Hawks,8,16,24,218869200.0,1977
+Atlanta Hawks,Kansas City Kings,Atlanta Hawks,9,16,25,218955600.0,1977
+Atlanta Hawks,Cleveland Cavaliers,Atlanta Hawks,10,16,26,219128400.0,1977
+Atlanta Hawks,Atlanta Hawks,Phoenix Suns,10,17,27,219214800.0,1977
+Atlanta Hawks,Atlanta Hawks,Los Angeles Lakers,11,17,28,219387600.0,1977
+Atlanta Hawks,Houston Rockets,Atlanta Hawks,11,18,29,219560400.0,1977
+Atlanta Hawks,New Orleans Jazz,Atlanta Hawks,12,18,30,219646800.0,1977
+Atlanta Hawks,Atlanta Hawks,Boston Celtics,12,19,31,219733200.0,1977
+Atlanta Hawks,Milwaukee Bucks,Atlanta Hawks,12,20,32,219819600.0,1977
+Atlanta Hawks,Detroit Pistons,Atlanta Hawks,12,21,33,220078800.0,1977
+Atlanta Hawks,Chicago Bulls,Atlanta Hawks,12,22,34,220165200.0,1977
+Atlanta Hawks,Atlanta Hawks,New York Knicks,12,23,35,220424400.0,1977
+Atlanta Hawks,Atlanta Hawks,Seattle Supersonics,12,24,36,220597200.0,1977
+Atlanta Hawks,Washington Bullets,Atlanta Hawks,12,25,37,220683600.0,1977
+Atlanta Hawks,Atlanta Hawks,New Orleans Jazz,12,26,38,221029200.0,1977
+Atlanta Hawks,Atlanta Hawks,Denver Nuggets,13,26,39,221202000.0,1977
+Atlanta Hawks,Atlanta Hawks,Indiana Pacers,13,27,40,221374800.0,1977
+Atlanta Hawks,Atlanta Hawks,Phoenix Suns,13,28,41,221720400.0,1977
+Atlanta Hawks,Buffalo Braves,Atlanta Hawks,14,28,42,221893200.0,1977
+Atlanta Hawks,New York Nets,Atlanta Hawks,15,28,43,222066000.0,1977
+Atlanta Hawks,Atlanta Hawks,Kansas City Kings,15,29,44,222152400.0,1977
+Atlanta Hawks,Atlanta Hawks,Portland Trail Blazers,16,29,45,222238800.0,1977
+Atlanta Hawks,Philadelphia 76ers,Atlanta Hawks,16,30,46,222498000.0,1977
+Atlanta Hawks,Atlanta Hawks,Milwaukee Bucks,17,30,47,222670800.0,1977
+Atlanta Hawks,Atlanta Hawks,Golden State Warriors,17,31,48,222843600.0,1977
+Atlanta Hawks,Houston Rockets,Atlanta Hawks,17,32,49,223275600.0,1977
+Atlanta Hawks,Atlanta Hawks,Houston Rockets,18,32,50,223362000.0,1977
+Atlanta Hawks,Atlanta Hawks,Detroit Pistons,18,33,51,223621200.0,1977
+Atlanta Hawks,Atlanta Hawks,Buffalo Braves,19,33,52,223794000.0,1977
+Atlanta Hawks,Atlanta Hawks,Chicago Bulls,20,33,53,223966800.0,1977
+Atlanta Hawks,Phoenix Suns,Atlanta Hawks,20,34,54,224226000.0,1977
+Atlanta Hawks,Seattle Supersonics,Atlanta Hawks,21,34,55,224312400.0,1977
+Atlanta Hawks,Portland Trail Blazers,Atlanta Hawks,22,34,56,224485200.0,1977
+Atlanta Hawks,Golden State Warriors,Atlanta Hawks,22,35,57,224830800.0,1977
+Atlanta Hawks,Los Angeles Lakers,Atlanta Hawks,23,35,58,225090000.0,1977
+Atlanta Hawks,Denver Nuggets,Atlanta Hawks,23,36,59,225262800.0,1977
+Atlanta Hawks,Atlanta Hawks,New York Knicks,24,36,60,225608400.0,1977
+Atlanta Hawks,Chicago Bulls,Atlanta Hawks,24,37,61,225694800.0,1977
+Atlanta Hawks,Atlanta Hawks,San Antonio Spurs,25,37,62,225781200.0,1977
+Atlanta Hawks,Atlanta Hawks,Los Angeles Lakers,25,38,63,226040400.0,1977
+Atlanta Hawks,Atlanta Hawks,Washington Bullets,26,38,64,226299600.0,1977
+Atlanta Hawks,Detroit Pistons,Atlanta Hawks,26,39,65,226472400.0,1977
+Atlanta Hawks,Atlanta Hawks,Philadelphia 76ers,27,39,66,226645200.0,1977
+Atlanta Hawks,Atlanta Hawks,Denver Nuggets,28,39,67,226904400.0,1977
+Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,28,40,68,227077200.0,1977
+Atlanta Hawks,Philadelphia 76ers,Atlanta Hawks,28,41,69,227336400.0,1977
+Atlanta Hawks,Boston Celtics,Atlanta Hawks,28,42,70,227509200.0,1977
+Atlanta Hawks,New York Knicks,Atlanta Hawks,28,43,71,227595600.0,1977
+Atlanta Hawks,Buffalo Braves,Atlanta Hawks,29,43,72,227854800.0,1977
+Atlanta Hawks,Atlanta Hawks,Boston Celtics,29,44,73,227941200.0,1977
+Atlanta Hawks,Indiana Pacers,Atlanta Hawks,29,45,74,228114000.0,1977
+Atlanta Hawks,Cleveland Cavaliers,Atlanta Hawks,29,46,75,228200400.0,1977
+Atlanta Hawks,Washington Bullets,Atlanta Hawks,29,47,76,228546000.0,1977
+Atlanta Hawks,Atlanta Hawks,New York Nets,30,47,77,228632400.0,1977
+Atlanta Hawks,Atlanta Hawks,Indiana Pacers,30,48,78,228805200.0,1977
+Atlanta Hawks,San Antonio Spurs,Atlanta Hawks,31,48,79,228891600.0,1977
+Atlanta Hawks,Phoenix Suns,Atlanta Hawks,31,49,80,229064400.0,1977
+Atlanta Hawks,Denver Nuggets,Atlanta Hawks,31,50,81,229150800.0,1977
+Atlanta Hawks,Milwaukee Bucks,Atlanta Hawks,31,51,82,229323600.0,1977
+Boston Celtics,Indiana Pacers,Boston Celtics,1,0,1,214718400.0,1977
+Boston Celtics,Milwaukee Bucks,Boston Celtics,2,0,2,214891200.0,1977
+Boston Celtics,Boston Celtics,Buffalo Braves,3,0,3,215323200.0,1977
+Boston Celtics,San Antonio Spurs,Boston Celtics,4,0,4,215496000.0,1977
+Boston Celtics,New Orleans Jazz,Boston Celtics,4,1,5,215758800.0,1977
+Boston Celtics,Houston Rockets,Boston Celtics,4,2,6,215845200.0,1977
+Boston Celtics,Boston Celtics,Washington Bullets,4,3,7,216018000.0,1977
+Boston Celtics,Washington Bullets,Boston Celtics,4,4,8,216104400.0,1977
+Boston Celtics,Boston Celtics,Los Angeles Lakers,5,4,9,216450000.0,1977
+Boston Celtics,Boston Celtics,New Orleans Jazz,6,4,10,216622800.0,1977
+Boston Celtics,Buffalo Braves,Boston Celtics,6,5,11,216709200.0,1977
+Boston Celtics,Boston Celtics,Atlanta Hawks,7,5,12,217054800.0,1977
+Boston Celtics,Boston Celtics,Denver Nuggets,8,5,13,217227600.0,1977
+Boston Celtics,Detroit Pistons,Boston Celtics,8,6,14,217314000.0,1977
+Boston Celtics,Philadelphia 76ers,Boston Celtics,8,7,15,217573200.0,1977
+Boston Celtics,Boston Celtics,Kansas City Kings,9,7,16,217659600.0,1977
+Boston Celtics,Boston Celtics,Cleveland Cavaliers,9,8,17,217832400.0,1977
+Boston Celtics,New York Knicks,Boston Celtics,10,8,18,217918800.0,1977
+Boston Celtics,Boston Celtics,Seattle Supersonics,11,8,19,218264400.0,1977
+Boston Celtics,Boston Celtics,Chicago Bulls,12,8,20,218437200.0,1977
+Boston Celtics,Kansas City Kings,Boston Celtics,12,9,21,218610000.0,1977
+Boston Celtics,Boston Celtics,Portland Trail Blazers,13,9,22,218869200.0,1977
+Boston Celtics,Boston Celtics,Phoenix Suns,13,10,23,219042000.0,1977
+Boston Celtics,Chicago Bulls,Boston Celtics,13,11,24,219128400.0,1977
+Boston Celtics,Boston Celtics,Milwaukee Bucks,14,11,25,219474000.0,1977
+Boston Celtics,Boston Celtics,New York Knicks,14,12,26,219646800.0,1977
+Boston Celtics,Atlanta Hawks,Boston Celtics,15,12,27,219733200.0,1977
+Boston Celtics,New York Nets,Boston Celtics,16,12,28,219819600.0,1977
+Boston Celtics,Cleveland Cavaliers,Boston Celtics,16,13,29,219992400.0,1977
+Boston Celtics,Denver Nuggets,Boston Celtics,17,13,30,220424400.0,1977
+Boston Celtics,Los Angeles Lakers,Boston Celtics,17,14,31,220597200.0,1977
+Boston Celtics,Phoenix Suns,Boston Celtics,17,15,32,220683600.0,1977
+Boston Celtics,Golden State Warriors,Boston Celtics,17,16,33,221029200.0,1977
+Boston Celtics,Portland Trail Blazers,Boston Celtics,17,17,34,221202000.0,1977
+Boston Celtics,Seattle Supersonics,Boston Celtics,17,18,35,221288400.0,1977
+Boston Celtics,Buffalo Braves,Boston Celtics,18,18,36,221547600.0,1977
+Boston Celtics,Boston Celtics,Houston Rockets,19,18,37,221806800.0,1977
+Boston Celtics,Boston Celtics,Indiana Pacers,19,19,38,221893200.0,1977
+Boston Celtics,Boston Celtics,Portland Trail Blazers,19,20,39,222066000.0,1977
+Boston Celtics,Boston Celtics,New York Nets,20,20,40,222238800.0,1977
+Boston Celtics,New Orleans Jazz,Boston Celtics,20,21,41,222411600.0,1977
+Boston Celtics,Houston Rockets,Boston Celtics,21,21,42,222498000.0,1977
+Boston Celtics,Boston Celtics,San Antonio Spurs,22,21,43,222670800.0,1977
+Boston Celtics,Philadelphia 76ers,Boston Celtics,22,22,44,222757200.0,1977
+Boston Celtics,Boston Celtics,Philadelphia 76ers,22,23,45,222843600.0,1977
+Boston Celtics,Boston Celtics,Detroit Pistons,22,24,46,223016400.0,1977
+Boston Celtics,Indiana Pacers,Boston Celtics,22,25,47,223102800.0,1977
+Boston Celtics,Boston Celtics,Milwaukee Bucks,23,25,48,223275600.0,1977
+Boston Celtics,Boston Celtics,Golden State Warriors,23,26,49,223448400.0,1977
+Boston Celtics,New York Nets,Boston Celtics,23,27,50,223707600.0,1977
+Boston Celtics,Boston Celtics,Los Angeles Lakers,24,27,51,223880400.0,1977
+Boston Celtics,Boston Celtics,Buffalo Braves,25,27,52,224053200.0,1977
+Boston Celtics,Boston Celtics,New York Knicks,26,27,53,224485200.0,1977
+Boston Celtics,Boston Celtics,Detroit Pistons,27,27,54,224830800.0,1977
+Boston Celtics,Washington Bullets,Boston Celtics,27,28,55,224917200.0,1977
+Boston Celtics,Kansas City Kings,Boston Celtics,28,28,56,225003600.0,1977
+Boston Celtics,Golden State Warriors,Boston Celtics,29,28,57,225262800.0,1977
+Boston Celtics,Portland Trail Blazers,Boston Celtics,29,29,58,225435600.0,1977
+Boston Celtics,Seattle Supersonics,Boston Celtics,30,29,59,225694800.0,1977
+Boston Celtics,Phoenix Suns,Boston Celtics,31,29,60,225781200.0,1977
+Boston Celtics,Denver Nuggets,Boston Celtics,31,30,61,225867600.0,1977
+Boston Celtics,Boston Celtics,Golden State Warriors,31,31,62,226040400.0,1977
+Boston Celtics,Detroit Pistons,Boston Celtics,32,31,63,226299600.0,1977
+Boston Celtics,Boston Celtics,Denver Nuggets,33,31,64,226472400.0,1977
+Boston Celtics,Boston Celtics,Seattle Supersonics,33,32,65,226731600.0,1977
+Boston Celtics,Boston Celtics,Phoenix Suns,34,32,66,227077200.0,1977
+Boston Celtics,Chicago Bulls,Boston Celtics,34,33,67,227250000.0,1977
+Boston Celtics,Milwaukee Bucks,Boston Celtics,34,34,68,227422800.0,1977
+Boston Celtics,Boston Celtics,Atlanta Hawks,35,34,69,227509200.0,1977
+Boston Celtics,Boston Celtics,Kansas City Kings,36,34,70,227682000.0,1977
+Boston Celtics,San Antonio Spurs,Boston Celtics,37,34,71,227854800.0,1977
+Boston Celtics,Atlanta Hawks,Boston Celtics,38,34,72,227941200.0,1977
+Boston Celtics,Boston Celtics,Washington Bullets,38,35,73,228114000.0,1977
+Boston Celtics,Boston Celtics,New York Nets,39,35,74,228286800.0,1977
+Boston Celtics,Cleveland Cavaliers,Boston Celtics,39,36,75,228459600.0,1977
+Boston Celtics,Boston Celtics,Chicago Bulls,40,36,76,228546000.0,1977
+Boston Celtics,Boston Celtics,Philadelphia 76ers,41,36,77,228891600.0,1977
+Boston Celtics,New York Knicks,Boston Celtics,41,37,78,229064400.0,1977
+Boston Celtics,Boston Celtics,Houston Rockets,41,38,79,229150800.0,1977
+Boston Celtics,Boston Celtics,New Orleans Jazz,42,38,80,229323600.0,1977
+Boston Celtics,Boston Celtics,San Antonio Spurs,43,38,81,229410000.0,1977
+Boston Celtics,Boston Celtics,Cleveland Cavaliers,44,38,82,229496400.0,1977
+Buffalo Braves,Milwaukee Bucks,Buffalo Braves,1,0,1,214718400.0,1977
+Buffalo Braves,Buffalo Braves,Philadelphia 76ers,2,0,2,214891200.0,1977
+Buffalo Braves,New York Knicks,Buffalo Braves,2,1,3,215150400.0,1977
+Buffalo Braves,Boston Celtics,Buffalo Braves,2,2,4,215323200.0,1977
+Buffalo Braves,Buffalo Braves,Cleveland Cavaliers,2,3,5,215496000.0,1977
+Buffalo Braves,New York Nets,Buffalo Braves,2,4,6,215845200.0,1977
+Buffalo Braves,Detroit Pistons,Buffalo Braves,3,4,7,216018000.0,1977
+Buffalo Braves,Buffalo Braves,Houston Rockets,4,4,8,216104400.0,1977
+Buffalo Braves,Buffalo Braves,Los Angeles Lakers,5,4,9,216363600.0,1977
+Buffalo Braves,Buffalo Braves,Denver Nuggets,6,4,10,216536400.0,1977
+Buffalo Braves,Buffalo Braves,Boston Celtics,7,4,11,216709200.0,1977
+Buffalo Braves,San Antonio Spurs,Buffalo Braves,7,5,12,216968400.0,1977
+Buffalo Braves,Houston Rockets,Buffalo Braves,7,6,13,217054800.0,1977
+Buffalo Braves,Seattle Supersonics,Buffalo Braves,7,7,14,217227600.0,1977
+Buffalo Braves,Golden State Warriors,Buffalo Braves,7,8,15,217314000.0,1977
+Buffalo Braves,Portland Trail Blazers,Buffalo Braves,7,9,16,217400400.0,1977
+Buffalo Braves,Buffalo Braves,San Antonio Spurs,7,10,17,217573200.0,1977
+Buffalo Braves,Buffalo Braves,Detroit Pistons,8,10,18,217832400.0,1977
+Buffalo Braves,Atlanta Hawks,Buffalo Braves,8,11,19,217918800.0,1977
+Buffalo Braves,New Orleans Jazz,Buffalo Braves,8,12,20,218005200.0,1977
+Buffalo Braves,Buffalo Braves,Seattle Supersonics,9,12,21,218178000.0,1977
+Buffalo Braves,Buffalo Braves,New York Knicks,10,12,22,218437200.0,1977
+Buffalo Braves,Buffalo Braves,Indiana Pacers,10,13,23,218782800.0,1977
+Buffalo Braves,Philadelphia 76ers,Buffalo Braves,10,14,24,218869200.0,1977
+Buffalo Braves,Buffalo Braves,Portland Trail Blazers,10,15,25,219042000.0,1977
+Buffalo Braves,Indiana Pacers,Buffalo Braves,10,16,26,219128400.0,1977
+Buffalo Braves,Buffalo Braves,Phoenix Suns,11,16,27,219387600.0,1977
+Buffalo Braves,Buffalo Braves,Washington Bullets,11,17,28,219646800.0,1977
+Buffalo Braves,Seattle Supersonics,Buffalo Braves,12,17,29,219819600.0,1977
+Buffalo Braves,Los Angeles Lakers,Buffalo Braves,12,18,30,219992400.0,1977
+Buffalo Braves,Phoenix Suns,Buffalo Braves,12,19,31,220165200.0,1977
+Buffalo Braves,Buffalo Braves,Detroit Pistons,13,19,32,220338000.0,1977
+Buffalo Braves,Cleveland Cavaliers,Buffalo Braves,14,19,33,220424400.0,1977
+Buffalo Braves,Buffalo Braves,Kansas City Kings,14,20,34,220683600.0,1977
+Buffalo Braves,Buffalo Braves,New York Nets,15,20,35,220942800.0,1977
+Buffalo Braves,San Antonio Spurs,Buffalo Braves,15,21,36,221115600.0,1977
+Buffalo Braves,Buffalo Braves,Golden State Warriors,15,22,37,221288400.0,1977
+Buffalo Braves,Milwaukee Bucks,Buffalo Braves,15,23,38,221374800.0,1977
+Buffalo Braves,Buffalo Braves,Boston Celtics,15,24,39,221547600.0,1977
+Buffalo Braves,Buffalo Braves,Atlanta Hawks,15,25,40,221893200.0,1977
+Buffalo Braves,Buffalo Braves,New Orleans Jazz,16,25,41,222066000.0,1977
+Buffalo Braves,Detroit Pistons,Buffalo Braves,16,26,42,222152400.0,1977
+Buffalo Braves,Washington Bullets,Buffalo Braves,16,27,43,222498000.0,1977
+Buffalo Braves,Chicago Bulls,Buffalo Braves,16,28,44,222670800.0,1977
+Buffalo Braves,Kansas City Kings,Buffalo Braves,16,29,45,222757200.0,1977
+Buffalo Braves,Denver Nuggets,Buffalo Braves,16,30,46,222930000.0,1977
+Buffalo Braves,Buffalo Braves,Milwaukee Bucks,17,30,47,223102800.0,1977
+Buffalo Braves,Atlanta Hawks,Buffalo Braves,17,31,48,223794000.0,1977
+Buffalo Braves,Boston Celtics,Buffalo Braves,17,32,49,224053200.0,1977
+Buffalo Braves,Buffalo Braves,Philadelphia 76ers,18,32,50,224226000.0,1977
+Buffalo Braves,Buffalo Braves,Los Angeles Lakers,18,33,51,224312400.0,1977
+Buffalo Braves,New York Nets,Buffalo Braves,19,33,52,224485200.0,1977
+Buffalo Braves,Buffalo Braves,Washington Bullets,19,34,53,224830800.0,1977
+Buffalo Braves,Philadelphia 76ers,Buffalo Braves,19,35,54,224917200.0,1977
+Buffalo Braves,Buffalo Braves,Cleveland Cavaliers,20,35,55,225003600.0,1977
+Buffalo Braves,Buffalo Braves,Seattle Supersonics,21,35,56,225176400.0,1977
+Buffalo Braves,Buffalo Braves,Indiana Pacers,22,35,57,225349200.0,1977
+Buffalo Braves,Buffalo Braves,Phoenix Suns,23,35,58,225435600.0,1977
+Buffalo Braves,Buffalo Braves,Golden State Warriors,23,36,59,225694800.0,1977
+Buffalo Braves,Washington Bullets,Buffalo Braves,23,37,60,225867600.0,1977
+Buffalo Braves,Buffalo Braves,New York Nets,23,38,61,226040400.0,1977
+Buffalo Braves,Indiana Pacers,Buffalo Braves,23,39,62,226126800.0,1977
+Buffalo Braves,New Orleans Jazz,Buffalo Braves,24,39,63,226299600.0,1977
+Buffalo Braves,Buffalo Braves,San Antonio Spurs,24,40,64,226386000.0,1977
+Buffalo Braves,Buffalo Braves,Houston Rockets,24,41,65,226558800.0,1977
+Buffalo Braves,Buffalo Braves,Portland Trail Blazers,25,41,66,226645200.0,1977
+Buffalo Braves,Buffalo Braves,Chicago Bulls,26,41,67,226904400.0,1977
+Buffalo Braves,Buffalo Braves,Denver Nuggets,27,41,68,227077200.0,1977
+Buffalo Braves,Kansas City Kings,Buffalo Braves,27,42,69,227422800.0,1977
+Buffalo Braves,Houston Rockets,Buffalo Braves,27,43,70,227595600.0,1977
+Buffalo Braves,Cleveland Cavaliers,Buffalo Braves,27,44,71,227682000.0,1977
+Buffalo Braves,Buffalo Braves,Atlanta Hawks,27,45,72,227854800.0,1977
+Buffalo Braves,Phoenix Suns,Buffalo Braves,28,45,73,228027600.0,1977
+Buffalo Braves,Los Angeles Lakers,Buffalo Braves,28,46,74,228286800.0,1977
+Buffalo Braves,Portland Trail Blazers,Buffalo Braves,28,47,75,228459600.0,1977
+Buffalo Braves,Denver Nuggets,Buffalo Braves,28,48,76,228632400.0,1977
+Buffalo Braves,Buffalo Braves,Milwaukee Bucks,29,48,77,228805200.0,1977
+Buffalo Braves,New York Knicks,Buffalo Braves,29,49,78,228891600.0,1977
+Buffalo Braves,Chicago Bulls,Buffalo Braves,29,50,79,229064400.0,1977
+Buffalo Braves,Buffalo Braves,New Orleans Jazz,30,50,80,229150800.0,1977
+Buffalo Braves,Buffalo Braves,New York Knicks,30,51,81,229323600.0,1977
+Buffalo Braves,Buffalo Braves,Chicago Bulls,30,52,82,229496400.0,1977
+Chicago Bulls,Cleveland Cavaliers,Chicago Bulls,0,1,1,214804800.0,1977
+Chicago Bulls,Chicago Bulls,Indiana Pacers,1,1,2,214891200.0,1977
+Chicago Bulls,Chicago Bulls,Milwaukee Bucks,2,1,3,215150400.0,1977
+Chicago Bulls,Chicago Bulls,Phoenix Suns,2,2,4,215409600.0,1977
+Chicago Bulls,Milwaukee Bucks,Chicago Bulls,2,3,5,215496000.0,1977
+Chicago Bulls,Atlanta Hawks,Chicago Bulls,2,4,6,215931600.0,1977
+Chicago Bulls,Chicago Bulls,Denver Nuggets,2,5,7,216018000.0,1977
+Chicago Bulls,Chicago Bulls,Houston Rockets,2,6,8,216363600.0,1977
+Chicago Bulls,Philadelphia 76ers,Chicago Bulls,2,7,9,216450000.0,1977
+Chicago Bulls,Chicago Bulls,Detroit Pistons,2,8,10,216709200.0,1977
+Chicago Bulls,Phoenix Suns,Chicago Bulls,2,9,11,217400400.0,1977
+Chicago Bulls,Portland Trail Blazers,Chicago Bulls,2,10,12,217659600.0,1977
+Chicago Bulls,Seattle Supersonics,Chicago Bulls,2,11,13,217832400.0,1977
+Chicago Bulls,Los Angeles Lakers,Chicago Bulls,2,12,14,218005200.0,1977
+Chicago Bulls,Chicago Bulls,Golden State Warriors,2,13,15,218178000.0,1977
+Chicago Bulls,Boston Celtics,Chicago Bulls,2,14,16,218437200.0,1977
+Chicago Bulls,Chicago Bulls,New Orleans Jazz,3,14,17,218523600.0,1977
+Chicago Bulls,Chicago Bulls,Los Angeles Lakers,4,14,18,218782800.0,1977
+Chicago Bulls,Detroit Pistons,Chicago Bulls,4,15,19,218869200.0,1977
+Chicago Bulls,New Orleans Jazz,Chicago Bulls,5,15,20,219042000.0,1977
+Chicago Bulls,Chicago Bulls,Boston Celtics,6,15,21,219128400.0,1977
+Chicago Bulls,Chicago Bulls,Philadelphia 76ers,7,15,22,219387600.0,1977
+Chicago Bulls,Chicago Bulls,San Antonio Spurs,8,15,23,219646800.0,1977
+Chicago Bulls,Denver Nuggets,Chicago Bulls,8,16,24,219733200.0,1977
+Chicago Bulls,Chicago Bulls,Seattle Supersonics,9,16,25,219992400.0,1977
+Chicago Bulls,Chicago Bulls,Atlanta Hawks,10,16,26,220165200.0,1977
+Chicago Bulls,Kansas City Kings,Chicago Bulls,11,16,27,220338000.0,1977
+Chicago Bulls,Chicago Bulls,Portland Trail Blazers,11,17,28,220597200.0,1977
+Chicago Bulls,Golden State Warriors,Chicago Bulls,11,18,29,220770000.0,1977
+Chicago Bulls,Portland Trail Blazers,Chicago Bulls,11,19,30,220942800.0,1977
+Chicago Bulls,Seattle Supersonics,Chicago Bulls,11,20,31,221029200.0,1977
+Chicago Bulls,Chicago Bulls,New York Nets,12,20,32,221202000.0,1977
+Chicago Bulls,Indiana Pacers,Chicago Bulls,12,21,33,221288400.0,1977
+Chicago Bulls,Chicago Bulls,New York Knicks,13,21,34,221461200.0,1977
+Chicago Bulls,Denver Nuggets,Chicago Bulls,13,22,35,221547600.0,1977
+Chicago Bulls,Chicago Bulls,Phoenix Suns,14,22,36,221806800.0,1977
+Chicago Bulls,Washington Bullets,Chicago Bulls,15,22,37,221893200.0,1977
+Chicago Bulls,Chicago Bulls,Washington Bullets,15,23,38,222066000.0,1977
+Chicago Bulls,Chicago Bulls,Milwaukee Bucks,16,23,39,222152400.0,1977
+Chicago Bulls,Milwaukee Bucks,Chicago Bulls,17,23,40,222238800.0,1977
+Chicago Bulls,Houston Rockets,Chicago Bulls,17,24,41,222411600.0,1977
+Chicago Bulls,San Antonio Spurs,Chicago Bulls,17,25,42,222498000.0,1977
+Chicago Bulls,Chicago Bulls,Buffalo Braves,18,25,43,222670800.0,1977
+Chicago Bulls,New York Nets,Chicago Bulls,18,26,44,222843600.0,1977
+Chicago Bulls,New York Knicks,Chicago Bulls,18,27,45,223016400.0,1977
+Chicago Bulls,Chicago Bulls,Cleveland Cavaliers,19,27,46,223102800.0,1977
+Chicago Bulls,Kansas City Kings,Chicago Bulls,19,28,47,223275600.0,1977
+Chicago Bulls,Chicago Bulls,Detroit Pistons,20,28,48,223362000.0,1977
+Chicago Bulls,Chicago Bulls,Kansas City Kings,20,29,49,223621200.0,1977
+Chicago Bulls,San Antonio Spurs,Chicago Bulls,21,29,50,223794000.0,1977
+Chicago Bulls,Atlanta Hawks,Chicago Bulls,21,30,51,223966800.0,1977
+Chicago Bulls,Indiana Pacers,Chicago Bulls,21,31,52,224053200.0,1977
+Chicago Bulls,Chicago Bulls,San Antonio Spurs,22,31,53,224226000.0,1977
+Chicago Bulls,Houston Rockets,Chicago Bulls,22,32,54,224312400.0,1977
+Chicago Bulls,Chicago Bulls,New Orleans Jazz,23,32,55,224485200.0,1977
+Chicago Bulls,Chicago Bulls,New York Nets,24,32,56,224830800.0,1977
+Chicago Bulls,New York Knicks,Chicago Bulls,24,33,57,224917200.0,1977
+Chicago Bulls,Chicago Bulls,Portland Trail Blazers,24,34,58,225090000.0,1977
+Chicago Bulls,Chicago Bulls,Golden State Warriors,25,34,59,225435600.0,1977
+Chicago Bulls,Chicago Bulls,Atlanta Hawks,26,34,60,225694800.0,1977
+Chicago Bulls,Cleveland Cavaliers,Chicago Bulls,27,34,61,225781200.0,1977
+Chicago Bulls,Chicago Bulls,Indiana Pacers,28,34,62,226040400.0,1977
+Chicago Bulls,Phoenix Suns,Chicago Bulls,29,34,63,226126800.0,1977
+Chicago Bulls,Los Angeles Lakers,Chicago Bulls,30,34,64,226299600.0,1977
+Chicago Bulls,Golden State Warriors,Chicago Bulls,31,34,65,226472400.0,1977
+Chicago Bulls,Buffalo Braves,Chicago Bulls,31,35,66,226904400.0,1977
+Chicago Bulls,Philadelphia 76ers,Chicago Bulls,32,35,67,227077200.0,1977
+Chicago Bulls,Chicago Bulls,Boston Celtics,33,35,68,227250000.0,1977
+Chicago Bulls,Detroit Pistons,Chicago Bulls,34,35,69,227336400.0,1977
+Chicago Bulls,Chicago Bulls,Kansas City Kings,35,35,70,227509200.0,1977
+Chicago Bulls,Chicago Bulls,Seattle Supersonics,36,35,71,227595600.0,1977
+Chicago Bulls,Chicago Bulls,Los Angeles Lakers,37,35,72,227854800.0,1977
+Chicago Bulls,Chicago Bulls,New York Knicks,38,35,73,228114000.0,1977
+Chicago Bulls,Chicago Bulls,Cleveland Cavaliers,39,35,74,228286800.0,1977
+Chicago Bulls,Chicago Bulls,Philadelphia 76ers,39,36,75,228459600.0,1977
+Chicago Bulls,Boston Celtics,Chicago Bulls,39,37,76,228546000.0,1977
+Chicago Bulls,Chicago Bulls,Denver Nuggets,40,37,77,228718800.0,1977
+Chicago Bulls,New Orleans Jazz,Chicago Bulls,41,37,78,228891600.0,1977
+Chicago Bulls,Chicago Bulls,Buffalo Braves,42,37,79,229064400.0,1977
+Chicago Bulls,Washington Bullets,Chicago Bulls,42,38,80,229150800.0,1977
+Chicago Bulls,Chicago Bulls,Houston Rockets,43,38,81,229323600.0,1977
+Chicago Bulls,Buffalo Braves,Chicago Bulls,44,38,82,229496400.0,1977
+Cleveland Cavaliers,Cleveland Cavaliers,Chicago Bulls,1,0,1,214804800.0,1977
+Cleveland Cavaliers,Cleveland Cavaliers,Los Angeles Lakers,2,0,2,214977600.0,1977
+Cleveland Cavaliers,Cleveland Cavaliers,New York Knicks,3,0,3,215323200.0,1977
+Cleveland Cavaliers,Buffalo Braves,Cleveland Cavaliers,4,0,4,215496000.0,1977
+Cleveland Cavaliers,Cleveland Cavaliers,New Orleans Jazz,5,0,5,215582400.0,1977
+Cleveland Cavaliers,New York Nets,Cleveland Cavaliers,6,0,6,215672400.0,1977
+Cleveland Cavaliers,Cleveland Cavaliers,Milwaukee Bucks,7,0,7,215931600.0,1977
+Cleveland Cavaliers,Cleveland Cavaliers,New York Nets,8,0,8,216104400.0,1977
+Cleveland Cavaliers,Atlanta Hawks,Cleveland Cavaliers,8,1,9,216190800.0,1977
+Cleveland Cavaliers,Milwaukee Bucks,Cleveland Cavaliers,9,1,10,216363600.0,1977
+Cleveland Cavaliers,Detroit Pistons,Cleveland Cavaliers,9,2,11,216450000.0,1977
+Cleveland Cavaliers,Phoenix Suns,Cleveland Cavaliers,10,2,12,216709200.0,1977
+Cleveland Cavaliers,Los Angeles Lakers,Cleveland Cavaliers,11,2,13,216795600.0,1977
+Cleveland Cavaliers,Seattle Supersonics,Cleveland Cavaliers,11,3,14,217054800.0,1977
+Cleveland Cavaliers,New Orleans Jazz,Cleveland Cavaliers,11,4,15,217400400.0,1977
+Cleveland Cavaliers,Cleveland Cavaliers,Detroit Pistons,12,4,16,217746000.0,1977
+Cleveland Cavaliers,Boston Celtics,Cleveland Cavaliers,13,4,17,217832400.0,1977
+Cleveland Cavaliers,Cleveland Cavaliers,Philadelphia 76ers,14,4,18,217918800.0,1977
+Cleveland Cavaliers,Cleveland Cavaliers,Denver Nuggets,15,4,19,218178000.0,1977
+Cleveland Cavaliers,Kansas City Kings,Cleveland Cavaliers,16,4,20,218264400.0,1977
+Cleveland Cavaliers,Indiana Pacers,Cleveland Cavaliers,16,5,21,218437200.0,1977
+Cleveland Cavaliers,Portland Trail Blazers,Cleveland Cavaliers,16,6,22,218610000.0,1977
+Cleveland Cavaliers,Golden State Warriors,Cleveland Cavaliers,16,7,23,218782800.0,1977
+Cleveland Cavaliers,Denver Nuggets,Cleveland Cavaliers,16,8,24,218955600.0,1977
+Cleveland Cavaliers,Cleveland Cavaliers,Atlanta Hawks,16,9,25,219128400.0,1977
+Cleveland Cavaliers,Cleveland Cavaliers,Indiana Pacers,17,9,26,219560400.0,1977
+Cleveland Cavaliers,New York Knicks,Cleveland Cavaliers,17,10,27,219733200.0,1977
+Cleveland Cavaliers,Cleveland Cavaliers,San Antonio Spurs,18,10,28,219819600.0,1977
+Cleveland Cavaliers,Cleveland Cavaliers,Boston Celtics,19,10,29,219992400.0,1977
+Cleveland Cavaliers,Washington Bullets,Cleveland Cavaliers,19,11,30,220338000.0,1977
+Cleveland Cavaliers,Cleveland Cavaliers,Buffalo Braves,19,12,31,220424400.0,1977
+Cleveland Cavaliers,Cleveland Cavaliers,Kansas City Kings,19,13,32,220597200.0,1977
+Cleveland Cavaliers,Cleveland Cavaliers,Seattle Supersonics,20,13,33,220770000.0,1977
+Cleveland Cavaliers,New York Knicks,Cleveland Cavaliers,20,14,34,220942800.0,1977
+Cleveland Cavaliers,Cleveland Cavaliers,Houston Rockets,21,14,35,221029200.0,1977
+Cleveland Cavaliers,Cleveland Cavaliers,Golden State Warriors,22,14,36,221374800.0,1977
+Cleveland Cavaliers,Philadelphia 76ers,Cleveland Cavaliers,22,15,37,221461200.0,1977
+Cleveland Cavaliers,Cleveland Cavaliers,Washington Bullets,23,15,38,221547600.0,1977
+Cleveland Cavaliers,Cleveland Cavaliers,Los Angeles Lakers,23,16,39,221806800.0,1977
+Cleveland Cavaliers,Denver Nuggets,Cleveland Cavaliers,23,17,40,222066000.0,1977
+Cleveland Cavaliers,Phoenix Suns,Cleveland Cavaliers,23,18,41,222152400.0,1977
+Cleveland Cavaliers,Milwaukee Bucks,Cleveland Cavaliers,24,18,42,222411600.0,1977
+Cleveland Cavaliers,Cleveland Cavaliers,Portland Trail Blazers,24,19,43,222584400.0,1977
+Cleveland Cavaliers,Cleveland Cavaliers,Milwaukee Bucks,25,19,44,222757200.0,1977
+Cleveland Cavaliers,Chicago Bulls,Cleveland Cavaliers,25,20,45,223102800.0,1977
+Cleveland Cavaliers,Cleveland Cavaliers,New York Knicks,26,20,46,223189200.0,1977
+Cleveland Cavaliers,San Antonio Spurs,Cleveland Cavaliers,26,21,47,223621200.0,1977
+Cleveland Cavaliers,Kansas City Kings,Cleveland Cavaliers,27,21,48,223880400.0,1977
+Cleveland Cavaliers,Cleveland Cavaliers,New York Nets,27,22,49,224053200.0,1977
+Cleveland Cavaliers,Houston Rockets,Cleveland Cavaliers,27,23,50,224226000.0,1977
+Cleveland Cavaliers,Cleveland Cavaliers,Indiana Pacers,28,23,51,224398800.0,1977
+Cleveland Cavaliers,Detroit Pistons,Cleveland Cavaliers,28,24,52,224485200.0,1977
+Cleveland Cavaliers,Cleveland Cavaliers,Portland Trail Blazers,29,24,53,224830800.0,1977
+Cleveland Cavaliers,Buffalo Braves,Cleveland Cavaliers,29,25,54,225003600.0,1977
+Cleveland Cavaliers,Cleveland Cavaliers,Phoenix Suns,30,25,55,225176400.0,1977
+Cleveland Cavaliers,Philadelphia 76ers,Cleveland Cavaliers,30,26,56,225262800.0,1977
+Cleveland Cavaliers,Cleveland Cavaliers,Golden State Warriors,31,26,57,225608400.0,1977
+Cleveland Cavaliers,Cleveland Cavaliers,Chicago Bulls,31,27,58,225781200.0,1977
+Cleveland Cavaliers,Seattle Supersonics,Cleveland Cavaliers,32,27,59,226126800.0,1977
+Cleveland Cavaliers,Portland Trail Blazers,Cleveland Cavaliers,33,27,60,226299600.0,1977
+Cleveland Cavaliers,Los Angeles Lakers,Cleveland Cavaliers,33,28,61,226472400.0,1977
+Cleveland Cavaliers,Golden State Warriors,Cleveland Cavaliers,33,29,62,226645200.0,1977
+Cleveland Cavaliers,San Antonio Spurs,Cleveland Cavaliers,33,30,63,226818000.0,1977
+Cleveland Cavaliers,Atlanta Hawks,Cleveland Cavaliers,34,30,64,227077200.0,1977
+Cleveland Cavaliers,Cleveland Cavaliers,Philadelphia 76ers,34,31,65,227250000.0,1977
+Cleveland Cavaliers,Cleveland Cavaliers,Houston Rockets,34,32,66,227422800.0,1977
+Cleveland Cavaliers,New York Nets,Cleveland Cavaliers,35,32,67,227509200.0,1977
+Cleveland Cavaliers,Cleveland Cavaliers,San Antonio Spurs,36,32,68,227595600.0,1977
+Cleveland Cavaliers,Cleveland Cavaliers,Buffalo Braves,37,32,69,227682000.0,1977
+Cleveland Cavaliers,Cleveland Cavaliers,Seattle Supersonics,38,32,70,227854800.0,1977
+Cleveland Cavaliers,Washington Bullets,Cleveland Cavaliers,38,33,71,227941200.0,1977
+Cleveland Cavaliers,Cleveland Cavaliers,New Orleans Jazz,38,34,72,228027600.0,1977
+Cleveland Cavaliers,Cleveland Cavaliers,Atlanta Hawks,39,34,73,228200400.0,1977
+Cleveland Cavaliers,Chicago Bulls,Cleveland Cavaliers,39,35,74,228286800.0,1977
+Cleveland Cavaliers,Cleveland Cavaliers,Boston Celtics,40,35,75,228459600.0,1977
+Cleveland Cavaliers,New Orleans Jazz,Cleveland Cavaliers,41,35,76,228718800.0,1977
+Cleveland Cavaliers,Houston Rockets,Cleveland Cavaliers,41,36,77,228805200.0,1977
+Cleveland Cavaliers,Cleveland Cavaliers,Kansas City Kings,42,36,78,228891600.0,1977
+Cleveland Cavaliers,Cleveland Cavaliers,Washington Bullets,42,37,79,229064400.0,1977
+Cleveland Cavaliers,Cleveland Cavaliers,Denver Nuggets,43,37,80,229237200.0,1977
+Cleveland Cavaliers,Cleveland Cavaliers,Detroit Pistons,43,38,81,229410000.0,1977
+Cleveland Cavaliers,Boston Celtics,Cleveland Cavaliers,43,39,82,229496400.0,1977
+Denver Nuggets,Indiana Pacers,Denver Nuggets,1,0,1,214804800.0,1977
+Denver Nuggets,Denver Nuggets,Kansas City Kings,2,0,2,214891200.0,1977
+Denver Nuggets,Denver Nuggets,Milwaukee Bucks,3,0,3,215323200.0,1977
+Denver Nuggets,Denver Nuggets,Phoenix Suns,4,0,4,215496000.0,1977
+Denver Nuggets,Denver Nuggets,New York Knicks,5,0,5,215845200.0,1977
+Denver Nuggets,Chicago Bulls,Denver Nuggets,6,0,6,216018000.0,1977
+Denver Nuggets,Milwaukee Bucks,Denver Nuggets,7,0,7,216104400.0,1977
+Denver Nuggets,Denver Nuggets,Golden State Warriors,8,0,8,216363600.0,1977
+Denver Nuggets,Buffalo Braves,Denver Nuggets,8,1,9,216536400.0,1977
+Denver Nuggets,Denver Nuggets,Kansas City Kings,9,1,10,216709200.0,1977
+Denver Nuggets,Denver Nuggets,New York Nets,10,1,11,217054800.0,1977
+Denver Nuggets,Boston Celtics,Denver Nuggets,10,2,12,217227600.0,1977
+Denver Nuggets,New York Knicks,Denver Nuggets,10,3,13,217314000.0,1977
+Denver Nuggets,Denver Nuggets,Washington Bullets,11,3,14,217573200.0,1977
+Denver Nuggets,Denver Nuggets,Los Angeles Lakers,12,3,15,217659600.0,1977
+Denver Nuggets,Kansas City Kings,Denver Nuggets,12,4,16,217832400.0,1977
+Denver Nuggets,Denver Nuggets,Indiana Pacers,13,4,17,217918800.0,1977
+Denver Nuggets,Cleveland Cavaliers,Denver Nuggets,13,5,18,218178000.0,1977
+Denver Nuggets,Philadelphia 76ers,Denver Nuggets,13,6,19,218264400.0,1977
+Denver Nuggets,New York Nets,Denver Nuggets,14,6,20,218437200.0,1977
+Denver Nuggets,Washington Bullets,Denver Nuggets,14,7,21,218523600.0,1977
+Denver Nuggets,New Orleans Jazz,Denver Nuggets,15,7,22,218610000.0,1977
+Denver Nuggets,Denver Nuggets,Milwaukee Bucks,16,7,23,218782800.0,1977
+Denver Nuggets,Denver Nuggets,Cleveland Cavaliers,17,7,24,218955600.0,1977
+Denver Nuggets,Los Angeles Lakers,Denver Nuggets,17,8,25,219214800.0,1977
+Denver Nuggets,Seattle Supersonics,Denver Nuggets,18,8,26,219474000.0,1977
+Denver Nuggets,Portland Trail Blazers,Denver Nuggets,18,9,27,219646800.0,1977
+Denver Nuggets,Denver Nuggets,Chicago Bulls,19,9,28,219733200.0,1977
+Denver Nuggets,Denver Nuggets,Philadelphia 76ers,20,9,29,219992400.0,1977
+Denver Nuggets,Denver Nuggets,Seattle Supersonics,21,9,30,220165200.0,1977
+Denver Nuggets,Denver Nuggets,Boston Celtics,21,10,31,220424400.0,1977
+Denver Nuggets,Denver Nuggets,Phoenix Suns,22,10,32,220597200.0,1977
+Denver Nuggets,Denver Nuggets,Detroit Pistons,23,10,33,220770000.0,1977
+Denver Nuggets,Denver Nuggets,San Antonio Spurs,24,10,34,221029200.0,1977
+Denver Nuggets,Atlanta Hawks,Denver Nuggets,24,11,35,221202000.0,1977
+Denver Nuggets,San Antonio Spurs,Denver Nuggets,24,12,36,221288400.0,1977
+Denver Nuggets,Houston Rockets,Denver Nuggets,25,12,37,221461200.0,1977
+Denver Nuggets,Denver Nuggets,Chicago Bulls,26,12,38,221547600.0,1977
+Denver Nuggets,Denver Nuggets,New Orleans Jazz,27,12,39,221893200.0,1977
+Denver Nuggets,Denver Nuggets,Cleveland Cavaliers,28,12,40,222066000.0,1977
+Denver Nuggets,Seattle Supersonics,Denver Nuggets,29,12,41,222238800.0,1977
+Denver Nuggets,Golden State Warriors,Denver Nuggets,29,13,42,222411600.0,1977
+Denver Nuggets,Denver Nuggets,Seattle Supersonics,30,13,43,222670800.0,1977
+Denver Nuggets,Denver Nuggets,Buffalo Braves,31,13,44,222930000.0,1977
+Denver Nuggets,Denver Nuggets,Portland Trail Blazers,31,14,45,223102800.0,1977
+Denver Nuggets,Denver Nuggets,New Orleans Jazz,32,14,46,223275600.0,1977
+Denver Nuggets,Denver Nuggets,Philadelphia 76ers,32,15,47,223448400.0,1977
+Denver Nuggets,Denver Nuggets,Washington Bullets,33,15,48,223707600.0,1977
+Denver Nuggets,Detroit Pistons,Denver Nuggets,33,16,49,223880400.0,1977
+Denver Nuggets,Phoenix Suns,Denver Nuggets,33,17,50,224053200.0,1977
+Denver Nuggets,Portland Trail Blazers,Denver Nuggets,34,17,51,224226000.0,1977
+Denver Nuggets,Golden State Warriors,Denver Nuggets,34,18,52,224398800.0,1977
+Denver Nuggets,Los Angeles Lakers,Denver Nuggets,34,19,53,224485200.0,1977
+Denver Nuggets,Denver Nuggets,New York Nets,35,19,54,224917200.0,1977
+Denver Nuggets,Denver Nuggets,Portland Trail Blazers,36,19,55,225176400.0,1977
+Denver Nuggets,Denver Nuggets,Atlanta Hawks,37,19,56,225262800.0,1977
+Denver Nuggets,Denver Nuggets,Houston Rockets,38,19,57,225435600.0,1977
+Denver Nuggets,New York Nets,Denver Nuggets,38,20,58,225522000.0,1977
+Denver Nuggets,Kansas City Kings,Denver Nuggets,39,20,59,225694800.0,1977
+Denver Nuggets,Denver Nuggets,Boston Celtics,40,20,60,225867600.0,1977
+Denver Nuggets,Detroit Pistons,Denver Nuggets,41,20,61,226040400.0,1977
+Denver Nuggets,Washington Bullets,Denver Nuggets,41,21,62,226126800.0,1977
+Denver Nuggets,Boston Celtics,Denver Nuggets,41,22,63,226472400.0,1977
+Denver Nuggets,New York Knicks,Denver Nuggets,42,22,64,226645200.0,1977
+Denver Nuggets,Philadelphia 76ers,Denver Nuggets,42,23,65,226731600.0,1977
+Denver Nuggets,Atlanta Hawks,Denver Nuggets,42,24,66,226904400.0,1977
+Denver Nuggets,Buffalo Braves,Denver Nuggets,42,25,67,227077200.0,1977
+Denver Nuggets,Denver Nuggets,Los Angeles Lakers,43,25,68,227250000.0,1977
+Denver Nuggets,Indiana Pacers,Denver Nuggets,43,26,69,227336400.0,1977
+Denver Nuggets,Denver Nuggets,New York Knicks,43,27,70,227422800.0,1977
+Denver Nuggets,Denver Nuggets,Detroit Pistons,44,27,71,227682000.0,1977
+Denver Nuggets,Denver Nuggets,San Antonio Spurs,44,28,72,227941200.0,1977
+Denver Nuggets,Milwaukee Bucks,Denver Nuggets,44,29,73,228114000.0,1977
+Denver Nuggets,Denver Nuggets,Golden State Warriors,45,29,74,228286800.0,1977
+Denver Nuggets,Denver Nuggets,Indiana Pacers,46,29,75,228459600.0,1977
+Denver Nuggets,Denver Nuggets,Buffalo Braves,47,29,76,228632400.0,1977
+Denver Nuggets,Chicago Bulls,Denver Nuggets,47,30,77,228718800.0,1977
+Denver Nuggets,Phoenix Suns,Denver Nuggets,48,30,78,228891600.0,1977
+Denver Nuggets,Denver Nuggets,Atlanta Hawks,49,30,79,229150800.0,1977
+Denver Nuggets,Cleveland Cavaliers,Denver Nuggets,49,31,80,229237200.0,1977
+Denver Nuggets,Houston Rockets,Denver Nuggets,50,31,81,229410000.0,1977
+Denver Nuggets,New Orleans Jazz,Denver Nuggets,50,32,82,229496400.0,1977
+Detroit Pistons,Kansas City Kings,Detroit Pistons,1,0,1,214804800.0,1977
+Detroit Pistons,Detroit Pistons,Washington Bullets,1,1,2,214891200.0,1977
+Detroit Pistons,Detroit Pistons,Seattle Supersonics,2,1,3,215236800.0,1977
+Detroit Pistons,Seattle Supersonics,Detroit Pistons,2,2,4,215409600.0,1977
+Detroit Pistons,Portland Trail Blazers,Detroit Pistons,2,3,5,215496000.0,1977
+Detroit Pistons,Los Angeles Lakers,Detroit Pistons,2,4,6,215582400.0,1977
+Detroit Pistons,Golden State Warriors,Detroit Pistons,2,5,7,215758800.0,1977
+Detroit Pistons,Detroit Pistons,Buffalo Braves,2,6,8,216018000.0,1977
+Detroit Pistons,Atlanta Hawks,Detroit Pistons,3,6,9,216104400.0,1977
+Detroit Pistons,New Orleans Jazz,Detroit Pistons,4,6,10,216190800.0,1977
+Detroit Pistons,Detroit Pistons,Cleveland Cavaliers,5,6,11,216450000.0,1977
+Detroit Pistons,Detroit Pistons,New York Knicks,6,6,12,216622800.0,1977
+Detroit Pistons,Chicago Bulls,Detroit Pistons,7,6,13,216709200.0,1977
+Detroit Pistons,Milwaukee Bucks,Detroit Pistons,8,6,14,216795600.0,1977
+Detroit Pistons,Detroit Pistons,New Orleans Jazz,9,6,15,217054800.0,1977
+Detroit Pistons,Indiana Pacers,Detroit Pistons,9,7,16,217141200.0,1977
+Detroit Pistons,Detroit Pistons,Boston Celtics,10,7,17,217314000.0,1977
+Detroit Pistons,Detroit Pistons,Philadelphia 76ers,11,7,18,217659600.0,1977
+Detroit Pistons,Cleveland Cavaliers,Detroit Pistons,11,8,19,217746000.0,1977
+Detroit Pistons,Buffalo Braves,Detroit Pistons,11,9,20,217832400.0,1977
+Detroit Pistons,San Antonio Spurs,Detroit Pistons,11,10,21,218178000.0,1977
+Detroit Pistons,Houston Rockets,Detroit Pistons,11,11,22,218264400.0,1977
+Detroit Pistons,Detroit Pistons,Kansas City Kings,12,11,23,218437200.0,1977
+Detroit Pistons,Detroit Pistons,Chicago Bulls,13,11,24,218869200.0,1977
+Detroit Pistons,New York Nets,Detroit Pistons,14,11,25,219042000.0,1977
+Detroit Pistons,Detroit Pistons,New York Nets,14,12,26,219128400.0,1977
+Detroit Pistons,Kansas City Kings,Detroit Pistons,15,12,27,219214800.0,1977
+Detroit Pistons,Detroit Pistons,Golden State Warriors,16,12,28,219474000.0,1977
+Detroit Pistons,Detroit Pistons,Indiana Pacers,17,12,29,219646800.0,1977
+Detroit Pistons,New Orleans Jazz,Detroit Pistons,18,12,30,219819600.0,1977
+Detroit Pistons,New York Knicks,Detroit Pistons,18,13,31,219992400.0,1977
+Detroit Pistons,Detroit Pistons,Atlanta Hawks,19,13,32,220078800.0,1977
+Detroit Pistons,Buffalo Braves,Detroit Pistons,19,14,33,220338000.0,1977
+Detroit Pistons,Detroit Pistons,Portland Trail Blazers,20,14,34,220683600.0,1977
+Detroit Pistons,Denver Nuggets,Detroit Pistons,20,15,35,220770000.0,1977
+Detroit Pistons,Detroit Pistons,Phoenix Suns,21,15,36,221288400.0,1977
+Detroit Pistons,Detroit Pistons,Milwaukee Bucks,22,15,37,221461200.0,1977
+Detroit Pistons,Detroit Pistons,Los Angeles Lakers,22,16,38,221634000.0,1977
+Detroit Pistons,Golden State Warriors,Detroit Pistons,23,16,39,221806800.0,1977
+Detroit Pistons,Seattle Supersonics,Detroit Pistons,23,17,40,221893200.0,1977
+Detroit Pistons,Phoenix Suns,Detroit Pistons,23,18,41,221979600.0,1977
+Detroit Pistons,Detroit Pistons,Buffalo Braves,24,18,42,222152400.0,1977
+Detroit Pistons,Detroit Pistons,Houston Rockets,25,18,43,222670800.0,1977
+Detroit Pistons,Washington Bullets,Detroit Pistons,25,19,44,222843600.0,1977
+Detroit Pistons,Boston Celtics,Detroit Pistons,26,19,45,223016400.0,1977
+Detroit Pistons,Detroit Pistons,New York Nets,27,19,46,223102800.0,1977
+Detroit Pistons,Houston Rockets,Detroit Pistons,27,20,47,223189200.0,1977
+Detroit Pistons,Chicago Bulls,Detroit Pistons,27,21,48,223362000.0,1977
+Detroit Pistons,Detroit Pistons,Indiana Pacers,28,21,49,223448400.0,1977
+Detroit Pistons,Atlanta Hawks,Detroit Pistons,29,21,50,223621200.0,1977
+Detroit Pistons,Philadelphia 76ers,Detroit Pistons,29,22,51,223707600.0,1977
+Detroit Pistons,Detroit Pistons,Denver Nuggets,30,22,52,223880400.0,1977
+Detroit Pistons,Detroit Pistons,Kansas City Kings,31,22,53,224053200.0,1977
+Detroit Pistons,Detroit Pistons,San Antonio Spurs,31,23,54,224312400.0,1977
+Detroit Pistons,Detroit Pistons,Cleveland Cavaliers,32,23,55,224485200.0,1977
+Detroit Pistons,Boston Celtics,Detroit Pistons,32,24,56,224830800.0,1977
+Detroit Pistons,Detroit Pistons,Portland Trail Blazers,33,24,57,224917200.0,1977
+Detroit Pistons,Detroit Pistons,Washington Bullets,34,24,58,225090000.0,1977
+Detroit Pistons,Washington Bullets,Detroit Pistons,34,25,59,225176400.0,1977
+Detroit Pistons,Detroit Pistons,Phoenix Suns,35,25,60,225262800.0,1977
+Detroit Pistons,Detroit Pistons,Los Angeles Lakers,36,25,61,225522000.0,1977
+Detroit Pistons,New York Nets,Detroit Pistons,37,25,62,225694800.0,1977
+Detroit Pistons,Detroit Pistons,Denver Nuggets,37,26,63,226040400.0,1977
+Detroit Pistons,Detroit Pistons,Boston Celtics,37,27,64,226299600.0,1977
+Detroit Pistons,Indiana Pacers,Detroit Pistons,37,28,65,226386000.0,1977
+Detroit Pistons,Detroit Pistons,Atlanta Hawks,38,28,66,226472400.0,1977
+Detroit Pistons,Detroit Pistons,Milwaukee Bucks,39,28,67,226645200.0,1977
+Detroit Pistons,San Antonio Spurs,Detroit Pistons,40,28,68,227077200.0,1977
+Detroit Pistons,Detroit Pistons,Chicago Bulls,40,29,69,227336400.0,1977
+Detroit Pistons,Detroit Pistons,Seattle Supersonics,40,30,70,227509200.0,1977
+Detroit Pistons,Denver Nuggets,Detroit Pistons,40,31,71,227682000.0,1977
+Detroit Pistons,Detroit Pistons,New Orleans Jazz,40,32,72,227941200.0,1977
+Detroit Pistons,Detroit Pistons,Golden State Warriors,41,32,73,228114000.0,1977
+Detroit Pistons,Milwaukee Bucks,Detroit Pistons,41,33,74,228200400.0,1977
+Detroit Pistons,Detroit Pistons,Houston Rockets,42,33,75,228286800.0,1977
+Detroit Pistons,Philadelphia 76ers,Detroit Pistons,42,34,76,228546000.0,1977
+Detroit Pistons,Phoenix Suns,Detroit Pistons,42,35,77,228718800.0,1977
+Detroit Pistons,Los Angeles Lakers,Detroit Pistons,42,36,78,228891600.0,1977
+Detroit Pistons,Portland Trail Blazers,Detroit Pistons,42,37,79,229064400.0,1977
+Detroit Pistons,Detroit Pistons,Philadelphia 76ers,43,37,80,229323600.0,1977
+Detroit Pistons,Cleveland Cavaliers,Detroit Pistons,44,37,81,229410000.0,1977
+Detroit Pistons,Detroit Pistons,New York Knicks,44,38,82,229496400.0,1977
+Golden State Warriors,Golden State Warriors,New York Nets,0,1,1,214804800.0,1977
+Golden State Warriors,Portland Trail Blazers,Golden State Warriors,0,2,2,215150400.0,1977
+Golden State Warriors,Golden State Warriors,Portland Trail Blazers,1,2,3,215323200.0,1977
+Golden State Warriors,Golden State Warriors,Atlanta Hawks,2,2,4,215496000.0,1977
+Golden State Warriors,Golden State Warriors,Detroit Pistons,3,2,5,215758800.0,1977
+Golden State Warriors,Golden State Warriors,Philadelphia 76ers,3,3,6,215931600.0,1977
+Golden State Warriors,Golden State Warriors,New York Knicks,3,4,7,216104400.0,1977
+Golden State Warriors,Denver Nuggets,Golden State Warriors,3,5,8,216363600.0,1977
+Golden State Warriors,Golden State Warriors,Kansas City Kings,3,6,9,216536400.0,1977
+Golden State Warriors,Golden State Warriors,Indiana Pacers,4,6,10,216709200.0,1977
+Golden State Warriors,Golden State Warriors,Seattle Supersonics,5,6,11,216968400.0,1977
+Golden State Warriors,Golden State Warriors,Phoenix Suns,6,6,12,217141200.0,1977
+Golden State Warriors,Los Angeles Lakers,Golden State Warriors,6,7,13,217227600.0,1977
+Golden State Warriors,Golden State Warriors,Buffalo Braves,7,7,14,217314000.0,1977
+Golden State Warriors,New Orleans Jazz,Golden State Warriors,7,8,15,217573200.0,1977
+Golden State Warriors,Houston Rockets,Golden State Warriors,7,9,16,217659600.0,1977
+Golden State Warriors,San Antonio Spurs,Golden State Warriors,7,10,17,217832400.0,1977
+Golden State Warriors,Atlanta Hawks,Golden State Warriors,8,10,18,218005200.0,1977
+Golden State Warriors,Chicago Bulls,Golden State Warriors,9,10,19,218178000.0,1977
+Golden State Warriors,Golden State Warriors,San Antonio Spurs,10,10,20,218350800.0,1977
+Golden State Warriors,Golden State Warriors,Los Angeles Lakers,11,10,21,218523600.0,1977
+Golden State Warriors,Golden State Warriors,Cleveland Cavaliers,12,10,22,218782800.0,1977
+Golden State Warriors,Seattle Supersonics,Golden State Warriors,12,11,23,219042000.0,1977
+Golden State Warriors,Golden State Warriors,Houston Rockets,13,11,24,219128400.0,1977
+Golden State Warriors,Detroit Pistons,Golden State Warriors,13,12,25,219474000.0,1977
+Golden State Warriors,Philadelphia 76ers,Golden State Warriors,14,12,26,219646800.0,1977
+Golden State Warriors,Washington Bullets,Golden State Warriors,15,12,27,219733200.0,1977
+Golden State Warriors,San Antonio Spurs,Golden State Warriors,15,13,28,219992400.0,1977
+Golden State Warriors,Milwaukee Bucks,Golden State Warriors,15,14,29,220165200.0,1977
+Golden State Warriors,Golden State Warriors,Milwaukee Bucks,15,15,30,220597200.0,1977
+Golden State Warriors,Golden State Warriors,Chicago Bulls,16,15,31,220770000.0,1977
+Golden State Warriors,Golden State Warriors,Boston Celtics,17,15,32,221029200.0,1977
+Golden State Warriors,New York Knicks,Golden State Warriors,18,15,33,221202000.0,1977
+Golden State Warriors,Buffalo Braves,Golden State Warriors,19,15,34,221288400.0,1977
+Golden State Warriors,Cleveland Cavaliers,Golden State Warriors,19,16,35,221374800.0,1977
+Golden State Warriors,Golden State Warriors,New Orleans Jazz,20,16,36,221547600.0,1977
+Golden State Warriors,Golden State Warriors,Detroit Pistons,20,17,37,221806800.0,1977
+Golden State Warriors,Kansas City Kings,Golden State Warriors,20,18,38,221979600.0,1977
+Golden State Warriors,Indiana Pacers,Golden State Warriors,21,18,39,222066000.0,1977
+Golden State Warriors,Golden State Warriors,New York Knicks,21,19,40,222238800.0,1977
+Golden State Warriors,Golden State Warriors,Denver Nuggets,22,19,41,222411600.0,1977
+Golden State Warriors,Golden State Warriors,Phoenix Suns,23,19,42,222584400.0,1977
+Golden State Warriors,New Orleans Jazz,Golden State Warriors,23,20,43,222757200.0,1977
+Golden State Warriors,Atlanta Hawks,Golden State Warriors,24,20,44,222843600.0,1977
+Golden State Warriors,Washington Bullets,Golden State Warriors,24,21,45,223102800.0,1977
+Golden State Warriors,New York Nets,Golden State Warriors,25,21,46,223275600.0,1977
+Golden State Warriors,Boston Celtics,Golden State Warriors,26,21,47,223448400.0,1977
+Golden State Warriors,New York Knicks,Golden State Warriors,26,22,48,223621200.0,1977
+Golden State Warriors,Golden State Warriors,New Orleans Jazz,26,23,49,223794000.0,1977
+Golden State Warriors,Phoenix Suns,Golden State Warriors,27,23,50,223880400.0,1977
+Golden State Warriors,Golden State Warriors,Milwaukee Bucks,28,23,51,223966800.0,1977
+Golden State Warriors,Golden State Warriors,Washington Bullets,29,23,52,224226000.0,1977
+Golden State Warriors,Golden State Warriors,Denver Nuggets,30,23,53,224398800.0,1977
+Golden State Warriors,Seattle Supersonics,Golden State Warriors,30,24,54,224485200.0,1977
+Golden State Warriors,Golden State Warriors,Atlanta Hawks,31,24,55,224830800.0,1977
+Golden State Warriors,Milwaukee Bucks,Golden State Warriors,31,25,56,225003600.0,1977
+Golden State Warriors,Indiana Pacers,Golden State Warriors,32,25,57,225090000.0,1977
+Golden State Warriors,Golden State Warriors,Boston Celtics,32,26,58,225262800.0,1977
+Golden State Warriors,Chicago Bulls,Golden State Warriors,32,27,59,225435600.0,1977
+Golden State Warriors,Cleveland Cavaliers,Golden State Warriors,32,28,60,225608400.0,1977
+Golden State Warriors,Buffalo Braves,Golden State Warriors,33,28,61,225694800.0,1977
+Golden State Warriors,New York Nets,Golden State Warriors,34,28,62,225867600.0,1977
+Golden State Warriors,Boston Celtics,Golden State Warriors,35,28,63,226040400.0,1977
+Golden State Warriors,Golden State Warriors,Philadelphia 76ers,36,28,64,226213200.0,1977
+Golden State Warriors,Phoenix Suns,Golden State Warriors,37,28,65,226299600.0,1977
+Golden State Warriors,Golden State Warriors,Chicago Bulls,37,29,66,226472400.0,1977
+Golden State Warriors,Golden State Warriors,Cleveland Cavaliers,38,29,67,226645200.0,1977
+Golden State Warriors,Golden State Warriors,Washington Bullets,39,29,68,227077200.0,1977
+Golden State Warriors,Golden State Warriors,Portland Trail Blazers,39,30,69,227422800.0,1977
+Golden State Warriors,Los Angeles Lakers,Golden State Warriors,39,31,70,227509200.0,1977
+Golden State Warriors,Golden State Warriors,Indiana Pacers,40,31,71,227595600.0,1977
+Golden State Warriors,Kansas City Kings,Golden State Warriors,40,32,72,227854800.0,1977
+Golden State Warriors,Philadelphia 76ers,Golden State Warriors,41,32,73,227941200.0,1977
+Golden State Warriors,Detroit Pistons,Golden State Warriors,41,33,74,228114000.0,1977
+Golden State Warriors,Denver Nuggets,Golden State Warriors,41,34,75,228286800.0,1977
+Golden State Warriors,Golden State Warriors,Houston Rockets,42,34,76,228459600.0,1977
+Golden State Warriors,Golden State Warriors,San Antonio Spurs,43,34,77,228632400.0,1977
+Golden State Warriors,Portland Trail Blazers,Golden State Warriors,43,35,78,228718800.0,1977
+Golden State Warriors,Golden State Warriors,Seattle Supersonics,43,36,79,228805200.0,1977
+Golden State Warriors,Golden State Warriors,Los Angeles Lakers,44,36,80,229064400.0,1977
+Golden State Warriors,Golden State Warriors,New York Nets,45,36,81,229237200.0,1977
+Golden State Warriors,Golden State Warriors,Kansas City Kings,46,36,82,229410000.0,1977
+Houston Rockets,Atlanta Hawks,Houston Rockets,1,0,1,214718400.0,1977
+Houston Rockets,Houston Rockets,Phoenix Suns,2,0,2,214891200.0,1977
+Houston Rockets,Houston Rockets,Philadelphia 76ers,2,1,3,215236800.0,1977
+Houston Rockets,Houston Rockets,Washington Bullets,3,1,4,215496000.0,1977
+Houston Rockets,Houston Rockets,Boston Celtics,4,1,5,215845200.0,1977
+Houston Rockets,New York Nets,Houston Rockets,4,2,6,216018000.0,1977
+Houston Rockets,Buffalo Braves,Houston Rockets,4,3,7,216104400.0,1977
+Houston Rockets,Chicago Bulls,Houston Rockets,5,3,8,216363600.0,1977
+Houston Rockets,Houston Rockets,Seattle Supersonics,6,3,9,216450000.0,1977
+Houston Rockets,Milwaukee Bucks,Houston Rockets,6,4,10,216622800.0,1977
+Houston Rockets,Houston Rockets,New York Nets,6,5,11,216709200.0,1977
+Houston Rockets,Houston Rockets,Buffalo Braves,7,5,12,217054800.0,1977
+Houston Rockets,Houston Rockets,Kansas City Kings,8,5,13,217314000.0,1977
+Houston Rockets,Houston Rockets,Golden State Warriors,9,5,14,217659600.0,1977
+Houston Rockets,New Orleans Jazz,Houston Rockets,10,5,15,217746000.0,1977
+Houston Rockets,Houston Rockets,San Antonio Spurs,11,5,16,217918800.0,1977
+Houston Rockets,Houston Rockets,Detroit Pistons,12,5,17,218264400.0,1977
+Houston Rockets,Houston Rockets,Milwaukee Bucks,13,5,18,218350800.0,1977
+Houston Rockets,Houston Rockets,Indiana Pacers,14,5,19,218523600.0,1977
+Houston Rockets,Phoenix Suns,Houston Rockets,14,6,20,218869200.0,1977
+Houston Rockets,Los Angeles Lakers,Houston Rockets,14,7,21,219042000.0,1977
+Houston Rockets,Golden State Warriors,Houston Rockets,14,8,22,219128400.0,1977
+Houston Rockets,Seattle Supersonics,Houston Rockets,15,8,23,219214800.0,1977
+Houston Rockets,Portland Trail Blazers,Houston Rockets,15,9,24,219387600.0,1977
+Houston Rockets,Houston Rockets,Atlanta Hawks,16,9,25,219560400.0,1977
+Houston Rockets,Houston Rockets,New Orleans Jazz,16,10,26,219733200.0,1977
+Houston Rockets,Houston Rockets,Washington Bullets,17,10,27,220078800.0,1977
+Houston Rockets,Indiana Pacers,Houston Rockets,18,10,28,220424400.0,1977
+Houston Rockets,New York Knicks,Houston Rockets,18,11,29,220597200.0,1977
+Houston Rockets,Houston Rockets,Philadelphia 76ers,19,11,30,220683600.0,1977
+Houston Rockets,Washington Bullets,Houston Rockets,19,12,31,220942800.0,1977
+Houston Rockets,Cleveland Cavaliers,Houston Rockets,19,13,32,221029200.0,1977
+Houston Rockets,Houston Rockets,New York Knicks,20,13,33,221288400.0,1977
+Houston Rockets,Houston Rockets,Denver Nuggets,20,14,34,221461200.0,1977
+Houston Rockets,Kansas City Kings,Houston Rockets,20,15,35,221547600.0,1977
+Houston Rockets,Boston Celtics,Houston Rockets,20,16,36,221806800.0,1977
+Houston Rockets,Philadelphia 76ers,Houston Rockets,20,17,37,221893200.0,1977
+Houston Rockets,Milwaukee Bucks,Houston Rockets,21,17,38,222066000.0,1977
+Houston Rockets,Houston Rockets,Los Angeles Lakers,22,17,39,222152400.0,1977
+Houston Rockets,Houston Rockets,Chicago Bulls,23,17,40,222411600.0,1977
+Houston Rockets,Houston Rockets,Boston Celtics,23,18,41,222498000.0,1977
+Houston Rockets,Detroit Pistons,Houston Rockets,23,19,42,222670800.0,1977
+Houston Rockets,Houston Rockets,Portland Trail Blazers,24,19,43,222757200.0,1977
+Houston Rockets,Houston Rockets,Detroit Pistons,25,19,44,223189200.0,1977
+Houston Rockets,Houston Rockets,Atlanta Hawks,26,19,45,223275600.0,1977
+Houston Rockets,Atlanta Hawks,Houston Rockets,26,20,46,223362000.0,1977
+Houston Rockets,New York Knicks,Houston Rockets,26,21,47,223794000.0,1977
+Houston Rockets,Houston Rockets,New York Knicks,27,21,48,223966800.0,1977
+Houston Rockets,New Orleans Jazz,Houston Rockets,27,22,49,224053200.0,1977
+Houston Rockets,Houston Rockets,Cleveland Cavaliers,28,22,50,224226000.0,1977
+Houston Rockets,Houston Rockets,Chicago Bulls,29,22,51,224312400.0,1977
+Houston Rockets,Houston Rockets,San Antonio Spurs,29,23,52,224485200.0,1977
+Houston Rockets,Houston Rockets,Seattle Supersonics,30,23,53,224917200.0,1977
+Houston Rockets,San Antonio Spurs,Houston Rockets,31,23,54,225003600.0,1977
+Houston Rockets,Kansas City Kings,Houston Rockets,31,24,55,225176400.0,1977
+Houston Rockets,Denver Nuggets,Houston Rockets,31,25,56,225435600.0,1977
+Houston Rockets,Phoenix Suns,Houston Rockets,32,25,57,225608400.0,1977
+Houston Rockets,Portland Trail Blazers,Houston Rockets,33,25,58,225694800.0,1977
+Houston Rockets,Los Angeles Lakers,Houston Rockets,33,26,59,225867600.0,1977
+Houston Rockets,Houston Rockets,Los Angeles Lakers,34,26,60,226126800.0,1977
+Houston Rockets,Houston Rockets,Milwaukee Bucks,35,26,61,226386000.0,1977
+Houston Rockets,New York Nets,Houston Rockets,36,26,62,226472400.0,1977
+Houston Rockets,Buffalo Braves,Houston Rockets,37,26,63,226558800.0,1977
+Houston Rockets,Houston Rockets,Phoenix Suns,38,26,64,226731600.0,1977
+Houston Rockets,Indiana Pacers,Houston Rockets,39,26,65,226904400.0,1977
+Houston Rockets,Houston Rockets,New Orleans Jazz,40,26,66,226990800.0,1977
+Houston Rockets,Houston Rockets,New York Nets,41,26,67,227336400.0,1977
+Houston Rockets,Cleveland Cavaliers,Houston Rockets,42,26,68,227422800.0,1977
+Houston Rockets,Philadelphia 76ers,Houston Rockets,42,27,69,227509200.0,1977
+Houston Rockets,Houston Rockets,Buffalo Braves,43,27,70,227595600.0,1977
+Houston Rockets,Houston Rockets,Indiana Pacers,44,27,71,227854800.0,1977
+Houston Rockets,Houston Rockets,Portland Trail Blazers,45,27,72,227941200.0,1977
+Houston Rockets,San Antonio Spurs,Houston Rockets,45,28,73,228027600.0,1977
+Houston Rockets,Houston Rockets,Kansas City Kings,46,28,74,228200400.0,1977
+Houston Rockets,Detroit Pistons,Houston Rockets,46,29,75,228286800.0,1977
+Houston Rockets,Golden State Warriors,Houston Rockets,46,30,76,228459600.0,1977
+Houston Rockets,Seattle Supersonics,Houston Rockets,46,31,77,228546000.0,1977
+Houston Rockets,Washington Bullets,Houston Rockets,47,31,78,228718800.0,1977
+Houston Rockets,Houston Rockets,Cleveland Cavaliers,48,31,79,228805200.0,1977
+Houston Rockets,Boston Celtics,Houston Rockets,49,31,80,229150800.0,1977
+Houston Rockets,Chicago Bulls,Houston Rockets,49,32,81,229323600.0,1977
+Houston Rockets,Houston Rockets,Denver Nuggets,49,33,82,229410000.0,1977
+Indiana Pacers,Indiana Pacers,Boston Celtics,0,1,1,214718400.0,1977
+Indiana Pacers,Indiana Pacers,Denver Nuggets,0,2,2,214804800.0,1977
+Indiana Pacers,Chicago Bulls,Indiana Pacers,0,3,3,214891200.0,1977
+Indiana Pacers,Indiana Pacers,Seattle Supersonics,1,3,4,215150400.0,1977
+Indiana Pacers,New York Nets,Indiana Pacers,2,3,5,215409600.0,1977
+Indiana Pacers,Indiana Pacers,Kansas City Kings,3,3,6,215496000.0,1977
+Indiana Pacers,Indiana Pacers,San Antonio Spurs,4,3,7,215845200.0,1977
+Indiana Pacers,Kansas City Kings,Indiana Pacers,4,4,8,216018000.0,1977
+Indiana Pacers,San Antonio Spurs,Indiana Pacers,4,5,9,216104400.0,1977
+Indiana Pacers,Phoenix Suns,Indiana Pacers,4,6,10,216536400.0,1977
+Indiana Pacers,Los Angeles Lakers,Indiana Pacers,4,7,11,216622800.0,1977
+Indiana Pacers,Golden State Warriors,Indiana Pacers,4,8,12,216709200.0,1977
+Indiana Pacers,Seattle Supersonics,Indiana Pacers,4,9,13,216795600.0,1977
+Indiana Pacers,Philadelphia 76ers,Indiana Pacers,5,9,14,217054800.0,1977
+Indiana Pacers,Indiana Pacers,Detroit Pistons,6,9,15,217141200.0,1977
+Indiana Pacers,Indiana Pacers,Atlanta Hawks,7,9,16,217659600.0,1977
+Indiana Pacers,Indiana Pacers,Milwaukee Bucks,8,9,17,217832400.0,1977
+Indiana Pacers,Denver Nuggets,Indiana Pacers,8,10,18,217918800.0,1977
+Indiana Pacers,Portland Trail Blazers,Indiana Pacers,8,11,19,218005200.0,1977
+Indiana Pacers,Indiana Pacers,Phoenix Suns,9,11,20,218178000.0,1977
+Indiana Pacers,Indiana Pacers,Portland Trail Blazers,9,12,21,218264400.0,1977
+Indiana Pacers,Indiana Pacers,Cleveland Cavaliers,10,12,22,218437200.0,1977
+Indiana Pacers,Houston Rockets,Indiana Pacers,10,13,23,218523600.0,1977
+Indiana Pacers,Buffalo Braves,Indiana Pacers,11,13,24,218782800.0,1977
+Indiana Pacers,Indiana Pacers,Los Angeles Lakers,12,13,25,218869200.0,1977
+Indiana Pacers,Washington Bullets,Indiana Pacers,12,14,26,219042000.0,1977
+Indiana Pacers,Indiana Pacers,Buffalo Braves,13,14,27,219128400.0,1977
+Indiana Pacers,Indiana Pacers,San Antonio Spurs,14,14,28,219474000.0,1977
+Indiana Pacers,Cleveland Cavaliers,Indiana Pacers,14,15,29,219560400.0,1977
+Indiana Pacers,Detroit Pistons,Indiana Pacers,14,16,30,219646800.0,1977
+Indiana Pacers,Indiana Pacers,Philadelphia 76ers,14,17,31,219733200.0,1977
+Indiana Pacers,New Orleans Jazz,Indiana Pacers,14,18,32,219992400.0,1977
+Indiana Pacers,Indiana Pacers,New York Nets,15,18,33,220165200.0,1977
+Indiana Pacers,Indiana Pacers,Houston Rockets,15,19,34,220424400.0,1977
+Indiana Pacers,Indiana Pacers,Washington Bullets,15,20,35,220597200.0,1977
+Indiana Pacers,Indiana Pacers,New Orleans Jazz,16,20,36,220770000.0,1977
+Indiana Pacers,Milwaukee Bucks,Indiana Pacers,17,20,37,221029200.0,1977
+Indiana Pacers,Indiana Pacers,Chicago Bulls,18,20,38,221288400.0,1977
+Indiana Pacers,Atlanta Hawks,Indiana Pacers,19,20,39,221374800.0,1977
+Indiana Pacers,Indiana Pacers,New York Nets,20,20,40,221547600.0,1977
+Indiana Pacers,Boston Celtics,Indiana Pacers,21,20,41,221893200.0,1977
+Indiana Pacers,Indiana Pacers,Golden State Warriors,21,21,42,222066000.0,1977
+Indiana Pacers,San Antonio Spurs,Indiana Pacers,21,22,43,222238800.0,1977
+Indiana Pacers,Seattle Supersonics,Indiana Pacers,21,23,44,222498000.0,1977
+Indiana Pacers,Phoenix Suns,Indiana Pacers,21,24,45,222670800.0,1977
+Indiana Pacers,Los Angeles Lakers,Indiana Pacers,21,25,46,222843600.0,1977
+Indiana Pacers,Indiana Pacers,Boston Celtics,22,25,47,223102800.0,1977
+Indiana Pacers,Indiana Pacers,Washington Bullets,22,26,48,223362000.0,1977
+Indiana Pacers,Detroit Pistons,Indiana Pacers,22,27,49,223448400.0,1977
+Indiana Pacers,Indiana Pacers,Philadelphia 76ers,23,27,50,223621200.0,1977
+Indiana Pacers,Indiana Pacers,Portland Trail Blazers,23,28,51,223794000.0,1977
+Indiana Pacers,Indiana Pacers,Chicago Bulls,24,28,52,224053200.0,1977
+Indiana Pacers,Indiana Pacers,New York Knicks,25,28,53,224312400.0,1977
+Indiana Pacers,Cleveland Cavaliers,Indiana Pacers,25,29,54,224398800.0,1977
+Indiana Pacers,Philadelphia 76ers,Indiana Pacers,25,30,55,224485200.0,1977
+Indiana Pacers,Indiana Pacers,Phoenix Suns,26,30,56,224917200.0,1977
+Indiana Pacers,Indiana Pacers,Golden State Warriors,26,31,57,225090000.0,1977
+Indiana Pacers,Indiana Pacers,Seattle Supersonics,27,31,58,225262800.0,1977
+Indiana Pacers,Buffalo Braves,Indiana Pacers,27,32,59,225349200.0,1977
+Indiana Pacers,Washington Bullets,Indiana Pacers,27,33,60,225522000.0,1977
+Indiana Pacers,New York Knicks,Indiana Pacers,27,34,61,225781200.0,1977
+Indiana Pacers,Chicago Bulls,Indiana Pacers,27,35,62,226040400.0,1977
+Indiana Pacers,Indiana Pacers,Buffalo Braves,28,35,63,226126800.0,1977
+Indiana Pacers,Indiana Pacers,Detroit Pistons,29,35,64,226386000.0,1977
+Indiana Pacers,New Orleans Jazz,Indiana Pacers,30,35,65,226472400.0,1977
+Indiana Pacers,Indiana Pacers,Houston Rockets,30,36,66,226904400.0,1977
+Indiana Pacers,Milwaukee Bucks,Indiana Pacers,30,37,67,226990800.0,1977
+Indiana Pacers,Indiana Pacers,Kansas City Kings,30,38,68,227077200.0,1977
+Indiana Pacers,Indiana Pacers,Denver Nuggets,31,38,69,227336400.0,1977
+Indiana Pacers,Portland Trail Blazers,Indiana Pacers,31,39,70,227509200.0,1977
+Indiana Pacers,Golden State Warriors,Indiana Pacers,31,40,71,227595600.0,1977
+Indiana Pacers,Houston Rockets,Indiana Pacers,31,41,72,227854800.0,1977
+Indiana Pacers,Indiana Pacers,Los Angeles Lakers,31,42,73,227941200.0,1977
+Indiana Pacers,Indiana Pacers,Atlanta Hawks,32,42,74,228114000.0,1977
+Indiana Pacers,Indiana Pacers,New Orleans Jazz,32,43,75,228286800.0,1977
+Indiana Pacers,Denver Nuggets,Indiana Pacers,32,44,76,228459600.0,1977
+Indiana Pacers,Indiana Pacers,New York Knicks,32,45,77,228632400.0,1977
+Indiana Pacers,New York Nets,Indiana Pacers,33,45,78,228718800.0,1977
+Indiana Pacers,Atlanta Hawks,Indiana Pacers,34,45,79,228805200.0,1977
+Indiana Pacers,Indiana Pacers,Milwaukee Bucks,34,46,80,228891600.0,1977
+Indiana Pacers,Kansas City Kings,Indiana Pacers,35,46,81,229064400.0,1977
+Indiana Pacers,New York Knicks,Indiana Pacers,36,46,82,229237200.0,1977
+Kansas City Kings,Kansas City Kings,Detroit Pistons,0,1,1,214804800.0,1977
+Kansas City Kings,Denver Nuggets,Kansas City Kings,0,2,2,214891200.0,1977
+Kansas City Kings,Kansas City Kings,Los Angeles Lakers,1,2,3,215150400.0,1977
+Kansas City Kings,Kansas City Kings,San Antonio Spurs,2,2,4,215409600.0,1977
+Kansas City Kings,Indiana Pacers,Kansas City Kings,2,3,5,215496000.0,1977
+Kansas City Kings,Kansas City Kings,New York Knicks,3,3,6,215672400.0,1977
+Kansas City Kings,Kansas City Kings,Seattle Supersonics,4,3,7,215845200.0,1977
+Kansas City Kings,Kansas City Kings,Indiana Pacers,5,3,8,216018000.0,1977
+Kansas City Kings,Los Angeles Lakers,Kansas City Kings,5,4,9,216190800.0,1977
+Kansas City Kings,Portland Trail Blazers,Kansas City Kings,5,5,10,216363600.0,1977
+Kansas City Kings,Golden State Warriors,Kansas City Kings,6,5,11,216536400.0,1977
+Kansas City Kings,Seattle Supersonics,Kansas City Kings,6,6,12,216622800.0,1977
+Kansas City Kings,Denver Nuggets,Kansas City Kings,6,7,13,216709200.0,1977
+Kansas City Kings,Kansas City Kings,Milwaukee Bucks,7,7,14,216968400.0,1977
+Kansas City Kings,San Antonio Spurs,Kansas City Kings,7,8,15,217141200.0,1977
+Kansas City Kings,Houston Rockets,Kansas City Kings,7,9,16,217314000.0,1977
+Kansas City Kings,Atlanta Hawks,Kansas City Kings,8,9,17,217400400.0,1977
+Kansas City Kings,New York Knicks,Kansas City Kings,9,9,18,217573200.0,1977
+Kansas City Kings,Boston Celtics,Kansas City Kings,9,10,19,217659600.0,1977
+Kansas City Kings,Kansas City Kings,Denver Nuggets,10,10,20,217832400.0,1977
+Kansas City Kings,Kansas City Kings,Philadelphia 76ers,11,10,21,218005200.0,1977
+Kansas City Kings,Kansas City Kings,Cleveland Cavaliers,11,11,22,218264400.0,1977
+Kansas City Kings,Detroit Pistons,Kansas City Kings,11,12,23,218437200.0,1977
+Kansas City Kings,Kansas City Kings,Boston Celtics,12,12,24,218610000.0,1977
+Kansas City Kings,Kansas City Kings,Atlanta Hawks,12,13,25,218955600.0,1977
+Kansas City Kings,Kansas City Kings,Detroit Pistons,12,14,26,219214800.0,1977
+Kansas City Kings,New Orleans Jazz,Kansas City Kings,12,15,27,219387600.0,1977
+Kansas City Kings,Washington Bullets,Kansas City Kings,12,16,28,219474000.0,1977
+Kansas City Kings,Kansas City Kings,New York Nets,13,16,29,219560400.0,1977
+Kansas City Kings,Phoenix Suns,Kansas City Kings,14,16,30,219733200.0,1977
+Kansas City Kings,Los Angeles Lakers,Kansas City Kings,14,17,31,219819600.0,1977
+Kansas City Kings,Portland Trail Blazers,Kansas City Kings,14,18,32,219992400.0,1977
+Kansas City Kings,Kansas City Kings,Chicago Bulls,14,19,33,220338000.0,1977
+Kansas City Kings,Kansas City Kings,San Antonio Spurs,14,20,34,220424400.0,1977
+Kansas City Kings,Cleveland Cavaliers,Kansas City Kings,15,20,35,220597200.0,1977
+Kansas City Kings,Buffalo Braves,Kansas City Kings,16,20,36,220683600.0,1977
+Kansas City Kings,Kansas City Kings,Phoenix Suns,17,20,37,221029200.0,1977
+Kansas City Kings,Kansas City Kings,Houston Rockets,18,20,38,221547600.0,1977
+Kansas City Kings,Kansas City Kings,Philadelphia 76ers,18,21,39,221806800.0,1977
+Kansas City Kings,Kansas City Kings,Golden State Warriors,19,21,40,221979600.0,1977
+Kansas City Kings,Philadelphia 76ers,Kansas City Kings,19,22,41,222066000.0,1977
+Kansas City Kings,Atlanta Hawks,Kansas City Kings,20,22,42,222152400.0,1977
+Kansas City Kings,Kansas City Kings,Los Angeles Lakers,20,23,43,222411600.0,1977
+Kansas City Kings,Kansas City Kings,New York Nets,21,23,44,222584400.0,1977
+Kansas City Kings,Kansas City Kings,Buffalo Braves,22,23,45,222757200.0,1977
+Kansas City Kings,Milwaukee Bucks,Kansas City Kings,22,24,46,222843600.0,1977
+Kansas City Kings,Kansas City Kings,New Orleans Jazz,23,24,47,223102800.0,1977
+Kansas City Kings,Kansas City Kings,Chicago Bulls,24,24,48,223275600.0,1977
+Kansas City Kings,New York Knicks,Kansas City Kings,25,24,49,223362000.0,1977
+Kansas City Kings,Washington Bullets,Kansas City Kings,25,25,50,223448400.0,1977
+Kansas City Kings,Chicago Bulls,Kansas City Kings,26,25,51,223621200.0,1977
+Kansas City Kings,Kansas City Kings,Portland Trail Blazers,27,25,52,223707600.0,1977
+Kansas City Kings,Kansas City Kings,Cleveland Cavaliers,27,26,53,223880400.0,1977
+Kansas City Kings,Detroit Pistons,Kansas City Kings,27,27,54,224053200.0,1977
+Kansas City Kings,Milwaukee Bucks,Kansas City Kings,27,28,55,224398800.0,1977
+Kansas City Kings,Kansas City Kings,Washington Bullets,28,28,56,224485200.0,1977
+Kansas City Kings,Kansas City Kings,Phoenix Suns,29,28,57,224830800.0,1977
+Kansas City Kings,Kansas City Kings,Boston Celtics,29,29,58,225003600.0,1977
+Kansas City Kings,Kansas City Kings,Houston Rockets,30,29,59,225176400.0,1977
+Kansas City Kings,Kansas City Kings,Seattle Supersonics,30,30,60,225522000.0,1977
+Kansas City Kings,Kansas City Kings,Denver Nuggets,30,31,61,225694800.0,1977
+Kansas City Kings,Kansas City Kings,New Orleans Jazz,31,31,62,226040400.0,1977
+Kansas City Kings,New York Nets,Kansas City Kings,32,31,63,226126800.0,1977
+Kansas City Kings,Kansas City Kings,Milwaukee Bucks,33,31,64,226472400.0,1977
+Kansas City Kings,Kansas City Kings,Portland Trail Blazers,34,31,65,226904400.0,1977
+Kansas City Kings,Indiana Pacers,Kansas City Kings,35,31,66,227077200.0,1977
+Kansas City Kings,Kansas City Kings,Washington Bullets,36,31,67,227250000.0,1977
+Kansas City Kings,Kansas City Kings,Buffalo Braves,37,31,68,227422800.0,1977
+Kansas City Kings,Chicago Bulls,Kansas City Kings,37,32,69,227509200.0,1977
+Kansas City Kings,Boston Celtics,Kansas City Kings,37,33,70,227682000.0,1977
+Kansas City Kings,Kansas City Kings,Golden State Warriors,38,33,71,227854800.0,1977
+Kansas City Kings,New York Nets,Kansas City Kings,39,33,72,227941200.0,1977
+Kansas City Kings,New Orleans Jazz,Kansas City Kings,39,34,73,228114000.0,1977
+Kansas City Kings,Houston Rockets,Kansas City Kings,39,35,74,228200400.0,1977
+Kansas City Kings,San Antonio Spurs,Kansas City Kings,39,36,75,228286800.0,1977
+Kansas City Kings,Kansas City Kings,New York Knicks,40,36,76,228459600.0,1977
+Kansas City Kings,Philadelphia 76ers,Kansas City Kings,40,37,77,228718800.0,1977
+Kansas City Kings,Cleveland Cavaliers,Kansas City Kings,40,38,78,228891600.0,1977
+Kansas City Kings,Kansas City Kings,Indiana Pacers,40,39,79,229064400.0,1977
+Kansas City Kings,Phoenix Suns,Kansas City Kings,40,40,80,229237200.0,1977
+Kansas City Kings,Seattle Supersonics,Kansas City Kings,40,41,81,229323600.0,1977
+Kansas City Kings,Golden State Warriors,Kansas City Kings,40,42,82,229410000.0,1977
+Los Angeles Lakers,New York Knicks,Los Angeles Lakers,0,1,1,214718400.0,1977
+Los Angeles Lakers,Washington Bullets,Los Angeles Lakers,1,1,2,214804800.0,1977
+Los Angeles Lakers,Cleveland Cavaliers,Los Angeles Lakers,1,2,3,214977600.0,1977
+Los Angeles Lakers,Kansas City Kings,Los Angeles Lakers,1,3,4,215150400.0,1977
+Los Angeles Lakers,Los Angeles Lakers,Atlanta Hawks,2,3,5,215409600.0,1977
+Los Angeles Lakers,Los Angeles Lakers,Detroit Pistons,3,3,6,215582400.0,1977
+Los Angeles Lakers,Los Angeles Lakers,New York Knicks,3,4,7,216018000.0,1977
+Los Angeles Lakers,Los Angeles Lakers,Kansas City Kings,4,4,8,216190800.0,1977
+Los Angeles Lakers,Buffalo Braves,Los Angeles Lakers,4,5,9,216363600.0,1977
+Los Angeles Lakers,Boston Celtics,Los Angeles Lakers,4,6,10,216450000.0,1977
+Los Angeles Lakers,Los Angeles Lakers,Indiana Pacers,5,6,11,216622800.0,1977
+Los Angeles Lakers,Los Angeles Lakers,Cleveland Cavaliers,5,7,12,216795600.0,1977
+Los Angeles Lakers,Los Angeles Lakers,Golden State Warriors,6,7,13,217227600.0,1977
+Los Angeles Lakers,Los Angeles Lakers,New York Nets,7,7,14,217400400.0,1977
+Los Angeles Lakers,Milwaukee Bucks,Los Angeles Lakers,8,7,15,217573200.0,1977
+Los Angeles Lakers,Denver Nuggets,Los Angeles Lakers,8,8,16,217659600.0,1977
+Los Angeles Lakers,Los Angeles Lakers,Portland Trail Blazers,9,8,17,217832400.0,1977
+Los Angeles Lakers,Los Angeles Lakers,Chicago Bulls,10,8,18,218005200.0,1977
+Los Angeles Lakers,Los Angeles Lakers,Washington Bullets,11,8,19,218178000.0,1977
+Los Angeles Lakers,Los Angeles Lakers,San Antonio Spurs,12,8,20,218437200.0,1977
+Los Angeles Lakers,Golden State Warriors,Los Angeles Lakers,12,9,21,218523600.0,1977
+Los Angeles Lakers,Chicago Bulls,Los Angeles Lakers,12,10,22,218782800.0,1977
+Los Angeles Lakers,Indiana Pacers,Los Angeles Lakers,12,11,23,218869200.0,1977
+Los Angeles Lakers,Los Angeles Lakers,Houston Rockets,13,11,24,219042000.0,1977
+Los Angeles Lakers,Los Angeles Lakers,Denver Nuggets,14,11,25,219214800.0,1977
+Los Angeles Lakers,Atlanta Hawks,Los Angeles Lakers,14,12,26,219387600.0,1977
+Los Angeles Lakers,New Orleans Jazz,Los Angeles Lakers,15,12,27,219474000.0,1977
+Los Angeles Lakers,Los Angeles Lakers,Phoenix Suns,16,12,28,219646800.0,1977
+Los Angeles Lakers,Portland Trail Blazers,Los Angeles Lakers,17,12,29,219733200.0,1977
+Los Angeles Lakers,Los Angeles Lakers,Kansas City Kings,18,12,30,219819600.0,1977
+Los Angeles Lakers,Los Angeles Lakers,Buffalo Braves,19,12,31,219992400.0,1977
+Los Angeles Lakers,Phoenix Suns,Los Angeles Lakers,19,13,32,220338000.0,1977
+Los Angeles Lakers,Los Angeles Lakers,Milwaukee Bucks,20,13,33,220424400.0,1977
+Los Angeles Lakers,Los Angeles Lakers,Boston Celtics,21,13,34,220597200.0,1977
+Los Angeles Lakers,Los Angeles Lakers,Portland Trail Blazers,22,13,35,221029200.0,1977
+Los Angeles Lakers,Philadelphia 76ers,Los Angeles Lakers,22,14,36,221288400.0,1977
+Los Angeles Lakers,New York Nets,Los Angeles Lakers,23,14,37,221461200.0,1977
+Los Angeles Lakers,Detroit Pistons,Los Angeles Lakers,24,14,38,221634000.0,1977
+Los Angeles Lakers,Cleveland Cavaliers,Los Angeles Lakers,25,14,39,221806800.0,1977
+Los Angeles Lakers,San Antonio Spurs,Los Angeles Lakers,26,14,40,222066000.0,1977
+Los Angeles Lakers,Houston Rockets,Los Angeles Lakers,26,15,41,222152400.0,1977
+Los Angeles Lakers,Kansas City Kings,Los Angeles Lakers,27,15,42,222411600.0,1977
+Los Angeles Lakers,Los Angeles Lakers,New York Knicks,28,15,43,222670800.0,1977
+Los Angeles Lakers,Los Angeles Lakers,Indiana Pacers,29,15,44,222843600.0,1977
+Los Angeles Lakers,Los Angeles Lakers,Seattle Supersonics,30,15,45,223016400.0,1977
+Los Angeles Lakers,Seattle Supersonics,Los Angeles Lakers,30,16,46,223102800.0,1977
+Los Angeles Lakers,Los Angeles Lakers,Philadelphia 76ers,31,16,47,223275600.0,1977
+Los Angeles Lakers,Los Angeles Lakers,New Orleans Jazz,32,16,48,223448400.0,1977
+Los Angeles Lakers,Los Angeles Lakers,Milwaukee Bucks,33,16,49,223621200.0,1977
+Los Angeles Lakers,Boston Celtics,Los Angeles Lakers,33,17,50,223880400.0,1977
+Los Angeles Lakers,Philadelphia 76ers,Los Angeles Lakers,33,18,51,224053200.0,1977
+Los Angeles Lakers,New York Knicks,Los Angeles Lakers,33,19,52,224226000.0,1977
+Los Angeles Lakers,Buffalo Braves,Los Angeles Lakers,34,19,53,224312400.0,1977
+Los Angeles Lakers,Los Angeles Lakers,Denver Nuggets,35,19,54,224485200.0,1977
+Los Angeles Lakers,Los Angeles Lakers,Atlanta Hawks,35,20,55,225090000.0,1977
+Los Angeles Lakers,Washington Bullets,Los Angeles Lakers,36,20,56,225262800.0,1977
+Los Angeles Lakers,San Antonio Spurs,Los Angeles Lakers,36,21,57,225435600.0,1977
+Los Angeles Lakers,Detroit Pistons,Los Angeles Lakers,36,22,58,225522000.0,1977
+Los Angeles Lakers,Los Angeles Lakers,Philadelphia 76ers,37,22,59,225694800.0,1977
+Los Angeles Lakers,Los Angeles Lakers,Houston Rockets,38,22,60,225867600.0,1977
+Los Angeles Lakers,Atlanta Hawks,Los Angeles Lakers,39,22,61,226040400.0,1977
+Los Angeles Lakers,Houston Rockets,Los Angeles Lakers,39,23,62,226126800.0,1977
+Los Angeles Lakers,Los Angeles Lakers,Chicago Bulls,39,24,63,226299600.0,1977
+Los Angeles Lakers,Los Angeles Lakers,Cleveland Cavaliers,40,24,64,226472400.0,1977
+Los Angeles Lakers,Los Angeles Lakers,Washington Bullets,41,24,65,226904400.0,1977
+Los Angeles Lakers,New York Nets,Los Angeles Lakers,42,24,66,227077200.0,1977
+Los Angeles Lakers,Milwaukee Bucks,Los Angeles Lakers,42,25,67,227163600.0,1977
+Los Angeles Lakers,Denver Nuggets,Los Angeles Lakers,42,26,68,227250000.0,1977
+Los Angeles Lakers,Los Angeles Lakers,Golden State Warriors,43,26,69,227509200.0,1977
+Los Angeles Lakers,Los Angeles Lakers,New Orleans Jazz,44,26,70,227682000.0,1977
+Los Angeles Lakers,Chicago Bulls,Los Angeles Lakers,44,27,71,227854800.0,1977
+Los Angeles Lakers,Indiana Pacers,Los Angeles Lakers,45,27,72,227941200.0,1977
+Los Angeles Lakers,Los Angeles Lakers,Phoenix Suns,46,27,73,228114000.0,1977
+Los Angeles Lakers,Phoenix Suns,Los Angeles Lakers,47,27,74,228200400.0,1977
+Los Angeles Lakers,Los Angeles Lakers,Buffalo Braves,48,27,75,228286800.0,1977
+Los Angeles Lakers,Los Angeles Lakers,Seattle Supersonics,49,27,76,228459600.0,1977
+Los Angeles Lakers,Los Angeles Lakers,San Antonio Spurs,50,27,77,228718800.0,1977
+Los Angeles Lakers,Los Angeles Lakers,Detroit Pistons,51,27,78,228891600.0,1977
+Los Angeles Lakers,Golden State Warriors,Los Angeles Lakers,51,28,79,229064400.0,1977
+Los Angeles Lakers,Los Angeles Lakers,New York Nets,52,28,80,229323600.0,1977
+Los Angeles Lakers,Portland Trail Blazers,Los Angeles Lakers,52,29,81,229410000.0,1977
+Los Angeles Lakers,Seattle Supersonics,Los Angeles Lakers,53,29,82,229496400.0,1977
+Milwaukee Bucks,Milwaukee Bucks,Buffalo Braves,0,1,1,214718400.0,1977
+Milwaukee Bucks,Milwaukee Bucks,Boston Celtics,0,2,2,214891200.0,1977
+Milwaukee Bucks,Atlanta Hawks,Milwaukee Bucks,0,3,3,214977600.0,1977
+Milwaukee Bucks,Chicago Bulls,Milwaukee Bucks,0,4,4,215150400.0,1977
+Milwaukee Bucks,Denver Nuggets,Milwaukee Bucks,0,5,5,215323200.0,1977
+Milwaukee Bucks,Milwaukee Bucks,Chicago Bulls,1,5,6,215496000.0,1977
+Milwaukee Bucks,Milwaukee Bucks,Seattle Supersonics,2,5,7,215758800.0,1977
+Milwaukee Bucks,Washington Bullets,Milwaukee Bucks,2,6,8,215845200.0,1977
+Milwaukee Bucks,Cleveland Cavaliers,Milwaukee Bucks,2,7,9,215931600.0,1977
+Milwaukee Bucks,Milwaukee Bucks,Denver Nuggets,2,8,10,216104400.0,1977
+Milwaukee Bucks,Milwaukee Bucks,Cleveland Cavaliers,2,9,11,216363600.0,1977
+Milwaukee Bucks,Milwaukee Bucks,Houston Rockets,3,9,12,216622800.0,1977
+Milwaukee Bucks,New York Knicks,Milwaukee Bucks,3,10,13,216709200.0,1977
+Milwaukee Bucks,Milwaukee Bucks,Detroit Pistons,3,11,14,216795600.0,1977
+Milwaukee Bucks,Kansas City Kings,Milwaukee Bucks,3,12,15,216968400.0,1977
+Milwaukee Bucks,Phoenix Suns,Milwaukee Bucks,3,13,16,217054800.0,1977
+Milwaukee Bucks,Portland Trail Blazers,Milwaukee Bucks,3,14,17,217227600.0,1977
+Milwaukee Bucks,Seattle Supersonics,Milwaukee Bucks,3,15,18,217400400.0,1977
+Milwaukee Bucks,Milwaukee Bucks,Los Angeles Lakers,3,16,19,217573200.0,1977
+Milwaukee Bucks,Indiana Pacers,Milwaukee Bucks,3,17,20,217832400.0,1977
+Milwaukee Bucks,Milwaukee Bucks,New York Nets,3,18,21,217918800.0,1977
+Milwaukee Bucks,Milwaukee Bucks,Portland Trail Blazers,4,18,22,218178000.0,1977
+Milwaukee Bucks,New Orleans Jazz,Milwaukee Bucks,4,19,23,218264400.0,1977
+Milwaukee Bucks,Houston Rockets,Milwaukee Bucks,4,20,24,218350800.0,1977
+Milwaukee Bucks,Portland Trail Blazers,Milwaukee Bucks,4,21,25,218523600.0,1977
+Milwaukee Bucks,Denver Nuggets,Milwaukee Bucks,4,22,26,218782800.0,1977
+Milwaukee Bucks,Milwaukee Bucks,San Antonio Spurs,4,23,27,219042000.0,1977
+Milwaukee Bucks,Milwaukee Bucks,Philadelphia 76ers,4,24,28,219214800.0,1977
+Milwaukee Bucks,Boston Celtics,Milwaukee Bucks,4,25,29,219474000.0,1977
+Milwaukee Bucks,New York Nets,Milwaukee Bucks,5,25,30,219646800.0,1977
+Milwaukee Bucks,Milwaukee Bucks,Atlanta Hawks,6,25,31,219819600.0,1977
+Milwaukee Bucks,Milwaukee Bucks,Golden State Warriors,7,25,32,220165200.0,1977
+Milwaukee Bucks,Los Angeles Lakers,Milwaukee Bucks,7,26,33,220424400.0,1977
+Milwaukee Bucks,Golden State Warriors,Milwaukee Bucks,8,26,34,220597200.0,1977
+Milwaukee Bucks,Milwaukee Bucks,Portland Trail Blazers,9,26,35,220770000.0,1977
+Milwaukee Bucks,Milwaukee Bucks,Indiana Pacers,9,27,36,221029200.0,1977
+Milwaukee Bucks,Milwaukee Bucks,Phoenix Suns,10,27,37,221202000.0,1977
+Milwaukee Bucks,Milwaukee Bucks,Buffalo Braves,11,27,38,221374800.0,1977
+Milwaukee Bucks,Detroit Pistons,Milwaukee Bucks,11,28,39,221461200.0,1977
+Milwaukee Bucks,Milwaukee Bucks,Philadelphia 76ers,12,28,40,221547600.0,1977
+Milwaukee Bucks,Milwaukee Bucks,Washington Bullets,12,29,41,221806800.0,1977
+Milwaukee Bucks,San Antonio Spurs,Milwaukee Bucks,13,29,42,221893200.0,1977
+Milwaukee Bucks,Milwaukee Bucks,Houston Rockets,13,30,43,222066000.0,1977
+Milwaukee Bucks,Chicago Bulls,Milwaukee Bucks,13,31,44,222152400.0,1977
+Milwaukee Bucks,Milwaukee Bucks,Chicago Bulls,13,32,45,222238800.0,1977
+Milwaukee Bucks,Milwaukee Bucks,Cleveland Cavaliers,13,33,46,222411600.0,1977
+Milwaukee Bucks,Atlanta Hawks,Milwaukee Bucks,13,34,47,222670800.0,1977
+Milwaukee Bucks,Cleveland Cavaliers,Milwaukee Bucks,13,35,48,222757200.0,1977
+Milwaukee Bucks,Milwaukee Bucks,Kansas City Kings,14,35,49,222843600.0,1977
+Milwaukee Bucks,Buffalo Braves,Milwaukee Bucks,14,36,50,223102800.0,1977
+Milwaukee Bucks,Boston Celtics,Milwaukee Bucks,14,37,51,223275600.0,1977
+Milwaukee Bucks,New York Nets,Milwaukee Bucks,15,37,52,223448400.0,1977
+Milwaukee Bucks,Los Angeles Lakers,Milwaukee Bucks,15,38,53,223621200.0,1977
+Milwaukee Bucks,Phoenix Suns,Milwaukee Bucks,15,39,54,223707600.0,1977
+Milwaukee Bucks,Golden State Warriors,Milwaukee Bucks,15,40,55,223966800.0,1977
+Milwaukee Bucks,Seattle Supersonics,Milwaukee Bucks,15,41,56,224053200.0,1977
+Milwaukee Bucks,Milwaukee Bucks,New York Nets,16,41,57,224226000.0,1977
+Milwaukee Bucks,Philadelphia 76ers,Milwaukee Bucks,16,42,58,224312400.0,1977
+Milwaukee Bucks,Milwaukee Bucks,Kansas City Kings,17,42,59,224398800.0,1977
+Milwaukee Bucks,Milwaukee Bucks,New Orleans Jazz,18,42,60,224830800.0,1977
+Milwaukee Bucks,Milwaukee Bucks,Golden State Warriors,19,42,61,225003600.0,1977
+Milwaukee Bucks,Milwaukee Bucks,New York Knicks,20,42,62,225090000.0,1977
+Milwaukee Bucks,New Orleans Jazz,Milwaukee Bucks,20,43,63,225522000.0,1977
+Milwaukee Bucks,San Antonio Spurs,Milwaukee Bucks,21,43,64,225608400.0,1977
+Milwaukee Bucks,Washington Bullets,Milwaukee Bucks,21,44,65,225781200.0,1977
+Milwaukee Bucks,Houston Rockets,Milwaukee Bucks,21,45,66,226386000.0,1977
+Milwaukee Bucks,Kansas City Kings,Milwaukee Bucks,21,46,67,226472400.0,1977
+Milwaukee Bucks,Detroit Pistons,Milwaukee Bucks,21,47,68,226645200.0,1977
+Milwaukee Bucks,Milwaukee Bucks,Washington Bullets,22,47,69,226731600.0,1977
+Milwaukee Bucks,Milwaukee Bucks,Indiana Pacers,23,47,70,226990800.0,1977
+Milwaukee Bucks,Milwaukee Bucks,Los Angeles Lakers,24,47,71,227163600.0,1977
+Milwaukee Bucks,Milwaukee Bucks,Boston Celtics,25,47,72,227422800.0,1977
+Milwaukee Bucks,Milwaukee Bucks,Seattle Supersonics,25,48,73,227682000.0,1977
+Milwaukee Bucks,New York Knicks,Milwaukee Bucks,25,49,74,227854800.0,1977
+Milwaukee Bucks,Milwaukee Bucks,Denver Nuggets,26,49,75,228114000.0,1977
+Milwaukee Bucks,Milwaukee Bucks,Detroit Pistons,27,49,76,228200400.0,1977
+Milwaukee Bucks,Milwaukee Bucks,Phoenix Suns,27,50,77,228459600.0,1977
+Milwaukee Bucks,Milwaukee Bucks,New York Knicks,27,51,78,228718800.0,1977
+Milwaukee Bucks,Buffalo Braves,Milwaukee Bucks,27,52,79,228805200.0,1977
+Milwaukee Bucks,Indiana Pacers,Milwaukee Bucks,28,52,80,228891600.0,1977
+Milwaukee Bucks,Milwaukee Bucks,Atlanta Hawks,29,52,81,229323600.0,1977
+Milwaukee Bucks,Milwaukee Bucks,San Antonio Spurs,30,52,82,229496400.0,1977
+New Orleans Jazz,New Orleans Jazz,Phoenix Suns,1,0,1,214804800.0,1977
+New Orleans Jazz,New Orleans Jazz,Philadelphia 76ers,1,1,2,215150400.0,1977
+New Orleans Jazz,New Orleans Jazz,Washington Bullets,2,1,3,215409600.0,1977
+New Orleans Jazz,New York Knicks,New Orleans Jazz,3,1,4,215496000.0,1977
+New Orleans Jazz,Cleveland Cavaliers,New Orleans Jazz,3,2,5,215582400.0,1977
+New Orleans Jazz,New Orleans Jazz,Boston Celtics,4,2,6,215758800.0,1977
+New Orleans Jazz,New Orleans Jazz,San Antonio Spurs,5,2,7,216018000.0,1977
+New Orleans Jazz,New Orleans Jazz,Detroit Pistons,5,3,8,216190800.0,1977
+New Orleans Jazz,New Orleans Jazz,New York Nets,6,3,9,216363600.0,1977
+New Orleans Jazz,Washington Bullets,New Orleans Jazz,6,4,10,216450000.0,1977
+New Orleans Jazz,Boston Celtics,New Orleans Jazz,6,5,11,216622800.0,1977
+New Orleans Jazz,Atlanta Hawks,New Orleans Jazz,7,5,12,216709200.0,1977
+New Orleans Jazz,New Orleans Jazz,Portland Trail Blazers,8,5,13,216968400.0,1977
+New Orleans Jazz,Detroit Pistons,New Orleans Jazz,8,6,14,217054800.0,1977
+New Orleans Jazz,Philadelphia 76ers,New Orleans Jazz,8,7,15,217227600.0,1977
+New Orleans Jazz,New Orleans Jazz,Cleveland Cavaliers,9,7,16,217400400.0,1977
+New Orleans Jazz,New Orleans Jazz,Golden State Warriors,10,7,17,217573200.0,1977
+New Orleans Jazz,New Orleans Jazz,Houston Rockets,10,8,18,217746000.0,1977
+New Orleans Jazz,New Orleans Jazz,Buffalo Braves,11,8,19,218005200.0,1977
+New Orleans Jazz,New Orleans Jazz,Milwaukee Bucks,12,8,20,218264400.0,1977
+New Orleans Jazz,New Orleans Jazz,Atlanta Hawks,13,8,21,218437200.0,1977
+New Orleans Jazz,Chicago Bulls,New Orleans Jazz,13,9,22,218523600.0,1977
+New Orleans Jazz,New Orleans Jazz,Denver Nuggets,13,10,23,218610000.0,1977
+New Orleans Jazz,New Orleans Jazz,Seattle Supersonics,14,10,24,218782800.0,1977
+New Orleans Jazz,New Orleans Jazz,Chicago Bulls,14,11,25,219042000.0,1977
+New Orleans Jazz,San Antonio Spurs,New Orleans Jazz,14,12,26,219128400.0,1977
+New Orleans Jazz,New Orleans Jazz,Kansas City Kings,15,12,27,219387600.0,1977
+New Orleans Jazz,New Orleans Jazz,Los Angeles Lakers,15,13,28,219474000.0,1977
+New Orleans Jazz,New Orleans Jazz,Atlanta Hawks,15,14,29,219646800.0,1977
+New Orleans Jazz,Houston Rockets,New Orleans Jazz,16,14,30,219733200.0,1977
+New Orleans Jazz,New Orleans Jazz,Detroit Pistons,16,15,31,219819600.0,1977
+New Orleans Jazz,New Orleans Jazz,Indiana Pacers,17,15,32,219992400.0,1977
+New Orleans Jazz,New York Nets,New Orleans Jazz,17,16,33,220078800.0,1977
+New Orleans Jazz,New Orleans Jazz,Washington Bullets,18,16,34,220424400.0,1977
+New Orleans Jazz,Indiana Pacers,New Orleans Jazz,18,17,35,220770000.0,1977
+New Orleans Jazz,Atlanta Hawks,New Orleans Jazz,19,17,36,221029200.0,1977
+New Orleans Jazz,Portland Trail Blazers,New Orleans Jazz,19,18,37,221461200.0,1977
+New Orleans Jazz,Golden State Warriors,New Orleans Jazz,19,19,38,221547600.0,1977
+New Orleans Jazz,Seattle Supersonics,New Orleans Jazz,19,20,39,221634000.0,1977
+New Orleans Jazz,Denver Nuggets,New Orleans Jazz,19,21,40,221893200.0,1977
+New Orleans Jazz,Buffalo Braves,New Orleans Jazz,19,22,41,222066000.0,1977
+New Orleans Jazz,Philadelphia 76ers,New Orleans Jazz,19,23,42,222238800.0,1977
+New Orleans Jazz,New Orleans Jazz,Boston Celtics,20,23,43,222411600.0,1977
+New Orleans Jazz,New Orleans Jazz,Golden State Warriors,21,23,44,222757200.0,1977
+New Orleans Jazz,New Orleans Jazz,New York Knicks,22,23,45,222843600.0,1977
+New Orleans Jazz,Kansas City Kings,New Orleans Jazz,22,24,46,223102800.0,1977
+New Orleans Jazz,Denver Nuggets,New Orleans Jazz,22,25,47,223275600.0,1977
+New Orleans Jazz,Phoenix Suns,New Orleans Jazz,22,26,48,223362000.0,1977
+New Orleans Jazz,Los Angeles Lakers,New Orleans Jazz,22,27,49,223448400.0,1977
+New Orleans Jazz,Seattle Supersonics,New Orleans Jazz,22,28,50,223707600.0,1977
+New Orleans Jazz,Golden State Warriors,New Orleans Jazz,23,28,51,223794000.0,1977
+New Orleans Jazz,New Orleans Jazz,Houston Rockets,24,28,52,224053200.0,1977
+New Orleans Jazz,New York Nets,New Orleans Jazz,24,29,53,224312400.0,1977
+New Orleans Jazz,Chicago Bulls,New Orleans Jazz,24,30,54,224485200.0,1977
+New Orleans Jazz,Milwaukee Bucks,New Orleans Jazz,24,31,55,224830800.0,1977
+New Orleans Jazz,San Antonio Spurs,New Orleans Jazz,24,32,56,225262800.0,1977
+New Orleans Jazz,New York Knicks,New Orleans Jazz,24,33,57,225435600.0,1977
+New Orleans Jazz,New Orleans Jazz,Milwaukee Bucks,25,33,58,225522000.0,1977
+New Orleans Jazz,New Orleans Jazz,New York Knicks,26,33,59,225694800.0,1977
+New Orleans Jazz,New Orleans Jazz,San Antonio Spurs,26,34,60,225867600.0,1977
+New Orleans Jazz,Kansas City Kings,New Orleans Jazz,26,35,61,226040400.0,1977
+New Orleans Jazz,New Orleans Jazz,Buffalo Braves,26,36,62,226299600.0,1977
+New Orleans Jazz,Washington Bullets,New Orleans Jazz,26,37,63,226386000.0,1977
+New Orleans Jazz,New Orleans Jazz,Indiana Pacers,26,38,64,226472400.0,1977
+New Orleans Jazz,New Orleans Jazz,Seattle Supersonics,26,39,65,226645200.0,1977
+New Orleans Jazz,Houston Rockets,New Orleans Jazz,26,40,66,226990800.0,1977
+New Orleans Jazz,Portland Trail Blazers,New Orleans Jazz,26,41,67,227250000.0,1977
+New Orleans Jazz,Phoenix Suns,New Orleans Jazz,27,41,68,227509200.0,1977
+New Orleans Jazz,Los Angeles Lakers,New Orleans Jazz,27,42,69,227682000.0,1977
+New Orleans Jazz,New Orleans Jazz,Portland Trail Blazers,28,42,70,227854800.0,1977
+New Orleans Jazz,Detroit Pistons,New Orleans Jazz,29,42,71,227941200.0,1977
+New Orleans Jazz,Cleveland Cavaliers,New Orleans Jazz,30,42,72,228027600.0,1977
+New Orleans Jazz,New Orleans Jazz,Kansas City Kings,31,42,73,228114000.0,1977
+New Orleans Jazz,Indiana Pacers,New Orleans Jazz,32,42,74,228286800.0,1977
+New Orleans Jazz,New Orleans Jazz,New York Nets,33,42,75,228459600.0,1977
+New Orleans Jazz,New Orleans Jazz,Phoenix Suns,34,42,76,228546000.0,1977
+New Orleans Jazz,New Orleans Jazz,Cleveland Cavaliers,34,43,77,228718800.0,1977
+New Orleans Jazz,New Orleans Jazz,Chicago Bulls,34,44,78,228891600.0,1977
+New Orleans Jazz,New Orleans Jazz,Philadelphia 76ers,34,45,79,229064400.0,1977
+New Orleans Jazz,Buffalo Braves,New Orleans Jazz,34,46,80,229150800.0,1977
+New Orleans Jazz,Boston Celtics,New Orleans Jazz,34,47,81,229323600.0,1977
+New Orleans Jazz,New Orleans Jazz,Denver Nuggets,35,47,82,229496400.0,1977
+New York Knicks,New York Knicks,Los Angeles Lakers,1,0,1,214718400.0,1977
+New York Knicks,New York Knicks,San Antonio Spurs,2,0,2,214891200.0,1977
+New York Knicks,New York Knicks,Buffalo Braves,3,0,3,215150400.0,1977
+New York Knicks,Cleveland Cavaliers,New York Knicks,3,1,4,215323200.0,1977
+New York Knicks,New York Knicks,New Orleans Jazz,3,2,5,215496000.0,1977
+New York Knicks,Kansas City Kings,New York Knicks,3,3,6,215672400.0,1977
+New York Knicks,Denver Nuggets,New York Knicks,3,4,7,215845200.0,1977
+New York Knicks,Los Angeles Lakers,New York Knicks,4,4,8,216018000.0,1977
+New York Knicks,Golden State Warriors,New York Knicks,5,4,9,216104400.0,1977
+New York Knicks,Portland Trail Blazers,New York Knicks,5,5,10,216190800.0,1977
+New York Knicks,New York Knicks,Washington Bullets,6,5,11,216363600.0,1977
+New York Knicks,Detroit Pistons,New York Knicks,6,6,12,216622800.0,1977
+New York Knicks,New York Knicks,Milwaukee Bucks,7,6,13,216709200.0,1977
+New York Knicks,New York Knicks,Atlanta Hawks,8,6,14,216968400.0,1977
+New York Knicks,Washington Bullets,New York Knicks,8,7,15,217054800.0,1977
+New York Knicks,New York Knicks,Denver Nuggets,9,7,16,217314000.0,1977
+New York Knicks,New York Knicks,Kansas City Kings,9,8,17,217573200.0,1977
+New York Knicks,Philadelphia 76ers,New York Knicks,9,9,18,217832400.0,1977
+New York Knicks,New York Knicks,Boston Celtics,9,10,19,217918800.0,1977
+New York Knicks,New York Knicks,New York Nets,9,11,20,218178000.0,1977
+New York Knicks,Buffalo Braves,New York Knicks,9,12,21,218437200.0,1977
+New York Knicks,New York Knicks,Seattle Supersonics,10,12,22,218523600.0,1977
+New York Knicks,New York Knicks,Portland Trail Blazers,10,13,23,218782800.0,1977
+New York Knicks,New York Nets,New York Knicks,11,13,24,218869200.0,1977
+New York Knicks,New York Knicks,Phoenix Suns,12,13,25,219128400.0,1977
+New York Knicks,San Antonio Spurs,New York Knicks,12,14,26,219387600.0,1977
+New York Knicks,Boston Celtics,New York Knicks,13,14,27,219646800.0,1977
+New York Knicks,New York Knicks,Cleveland Cavaliers,14,14,28,219733200.0,1977
+New York Knicks,New York Knicks,Detroit Pistons,15,14,29,219992400.0,1977
+New York Knicks,New York Knicks,Philadelphia 76ers,15,15,30,220338000.0,1977
+New York Knicks,Atlanta Hawks,New York Knicks,16,15,31,220424400.0,1977
+New York Knicks,New York Knicks,Houston Rockets,17,15,32,220597200.0,1977
+New York Knicks,New York Knicks,Cleveland Cavaliers,18,15,33,220942800.0,1977
+New York Knicks,New York Knicks,Golden State Warriors,18,16,34,221202000.0,1977
+New York Knicks,Houston Rockets,New York Knicks,18,17,35,221288400.0,1977
+New York Knicks,Chicago Bulls,New York Knicks,18,18,36,221461200.0,1977
+New York Knicks,New York Knicks,Phoenix Suns,19,18,37,221547600.0,1977
+New York Knicks,Portland Trail Blazers,New York Knicks,19,19,38,221806800.0,1977
+New York Knicks,Seattle Supersonics,New York Knicks,19,20,39,222066000.0,1977
+New York Knicks,Golden State Warriors,New York Knicks,20,20,40,222238800.0,1977
+New York Knicks,Phoenix Suns,New York Knicks,20,21,41,222498000.0,1977
+New York Knicks,Los Angeles Lakers,New York Knicks,20,22,42,222670800.0,1977
+New York Knicks,New Orleans Jazz,New York Knicks,20,23,43,222843600.0,1977
+New York Knicks,New York Knicks,Chicago Bulls,21,23,44,223016400.0,1977
+New York Knicks,Cleveland Cavaliers,New York Knicks,21,24,45,223189200.0,1977
+New York Knicks,New York Knicks,Kansas City Kings,21,25,46,223362000.0,1977
+New York Knicks,New York Knicks,Golden State Warriors,22,25,47,223621200.0,1977
+New York Knicks,New York Knicks,Houston Rockets,23,25,48,223794000.0,1977
+New York Knicks,Houston Rockets,New York Knicks,23,26,49,223966800.0,1977
+New York Knicks,San Antonio Spurs,New York Knicks,23,27,50,224053200.0,1977
+New York Knicks,New York Knicks,Los Angeles Lakers,24,27,51,224226000.0,1977
+New York Knicks,Indiana Pacers,New York Knicks,24,28,52,224312400.0,1977
+New York Knicks,Boston Celtics,New York Knicks,24,29,53,224485200.0,1977
+New York Knicks,New York Knicks,Chicago Bulls,25,29,54,224917200.0,1977
+New York Knicks,Milwaukee Bucks,New York Knicks,25,30,55,225090000.0,1977
+New York Knicks,New York Knicks,New York Nets,25,31,56,225176400.0,1977
+New York Knicks,New York Nets,New York Knicks,26,31,57,225262800.0,1977
+New York Knicks,New York Knicks,New Orleans Jazz,27,31,58,225435600.0,1977
+New York Knicks,Atlanta Hawks,New York Knicks,27,32,59,225608400.0,1977
+New York Knicks,New Orleans Jazz,New York Knicks,27,33,60,225694800.0,1977
+New York Knicks,New York Knicks,Indiana Pacers,28,33,61,225781200.0,1977
+New York Knicks,New York Knicks,San Antonio Spurs,28,34,62,226040400.0,1977
+New York Knicks,New York Knicks,Philadelphia 76ers,28,35,63,226386000.0,1977
+New York Knicks,Philadelphia 76ers,New York Knicks,29,35,64,226472400.0,1977
+New York Knicks,New York Knicks,Denver Nuggets,29,36,65,226645200.0,1977
+New York Knicks,New York Knicks,Portland Trail Blazers,30,36,66,226818000.0,1977
+New York Knicks,New York Knicks,Seattle Supersonics,30,37,67,226990800.0,1977
+New York Knicks,Phoenix Suns,New York Knicks,30,38,68,227336400.0,1977
+New York Knicks,Denver Nuggets,New York Knicks,31,38,69,227422800.0,1977
+New York Knicks,New York Knicks,Atlanta Hawks,32,38,70,227595600.0,1977
+New York Knicks,New York Knicks,Milwaukee Bucks,33,38,71,227854800.0,1977
+New York Knicks,Chicago Bulls,New York Knicks,33,39,72,228114000.0,1977
+New York Knicks,New York Knicks,Washington Bullets,33,40,73,228200400.0,1977
+New York Knicks,Washington Bullets,New York Knicks,34,40,74,228286800.0,1977
+New York Knicks,Kansas City Kings,New York Knicks,34,41,75,228459600.0,1977
+New York Knicks,Indiana Pacers,New York Knicks,35,41,76,228632400.0,1977
+New York Knicks,Milwaukee Bucks,New York Knicks,36,41,77,228718800.0,1977
+New York Knicks,New York Knicks,Buffalo Braves,37,41,78,228891600.0,1977
+New York Knicks,New York Knicks,Boston Celtics,38,41,79,229064400.0,1977
+New York Knicks,New York Knicks,Indiana Pacers,38,42,80,229237200.0,1977
+New York Knicks,Buffalo Braves,New York Knicks,39,42,81,229323600.0,1977
+New York Knicks,Detroit Pistons,New York Knicks,40,42,82,229496400.0,1977
+New York Nets,Golden State Warriors,New York Nets,1,0,1,214804800.0,1977
+New York Nets,Portland Trail Blazers,New York Nets,1,1,2,214891200.0,1977
+New York Nets,Seattle Supersonics,New York Nets,1,2,3,214977600.0,1977
+New York Nets,New York Nets,Washington Bullets,2,2,4,215236800.0,1977
+New York Nets,New York Nets,Indiana Pacers,2,3,5,215409600.0,1977
+New York Nets,Philadelphia 76ers,New York Nets,2,4,6,215496000.0,1977
+New York Nets,New York Nets,Cleveland Cavaliers,2,5,7,215672400.0,1977
+New York Nets,New York Nets,Buffalo Braves,3,5,8,215845200.0,1977
+New York Nets,New York Nets,Houston Rockets,4,5,9,216018000.0,1977
+New York Nets,Cleveland Cavaliers,New York Nets,4,6,10,216104400.0,1977
+New York Nets,New Orleans Jazz,New York Nets,4,7,11,216363600.0,1977
+New York Nets,San Antonio Spurs,New York Nets,4,8,12,216536400.0,1977
+New York Nets,Houston Rockets,New York Nets,5,8,13,216709200.0,1977
+New York Nets,Denver Nuggets,New York Nets,5,9,14,217054800.0,1977
+New York Nets,Phoenix Suns,New York Nets,6,9,15,217227600.0,1977
+New York Nets,Los Angeles Lakers,New York Nets,6,10,16,217400400.0,1977
+New York Nets,New York Nets,San Antonio Spurs,7,10,17,217659600.0,1977
+New York Nets,New York Nets,Atlanta Hawks,7,11,18,217832400.0,1977
+New York Nets,Milwaukee Bucks,New York Nets,8,11,19,217918800.0,1977
+New York Nets,New York Knicks,New York Nets,9,11,20,218178000.0,1977
+New York Nets,New York Nets,Phoenix Suns,9,12,21,218264400.0,1977
+New York Nets,New York Nets,Denver Nuggets,9,13,22,218437200.0,1977
+New York Nets,Atlanta Hawks,New York Nets,10,13,23,218523600.0,1977
+New York Nets,New York Nets,New York Knicks,10,14,24,218869200.0,1977
+New York Nets,New York Nets,Detroit Pistons,10,15,25,219042000.0,1977
+New York Nets,Detroit Pistons,New York Nets,11,15,26,219128400.0,1977
+New York Nets,Kansas City Kings,New York Nets,11,16,27,219560400.0,1977
+New York Nets,New York Nets,Milwaukee Bucks,11,17,28,219646800.0,1977
+New York Nets,New York Nets,Boston Celtics,11,18,29,219819600.0,1977
+New York Nets,New York Nets,New Orleans Jazz,12,18,30,220078800.0,1977
+New York Nets,Indiana Pacers,New York Nets,12,19,31,220165200.0,1977
+New York Nets,New York Nets,Seattle Supersonics,12,20,32,220683600.0,1977
+New York Nets,Buffalo Braves,New York Nets,12,21,33,220942800.0,1977
+New York Nets,New York Nets,Philadelphia 76ers,12,22,34,221029200.0,1977
+New York Nets,Chicago Bulls,New York Nets,12,23,35,221202000.0,1977
+New York Nets,Washington Bullets,New York Nets,12,24,36,221288400.0,1977
+New York Nets,New York Nets,Los Angeles Lakers,12,25,37,221461200.0,1977
+New York Nets,Indiana Pacers,New York Nets,12,26,38,221547600.0,1977
+New York Nets,New York Nets,Atlanta Hawks,12,27,39,222066000.0,1977
+New York Nets,Boston Celtics,New York Nets,12,28,40,222238800.0,1977
+New York Nets,New York Nets,Portland Trail Blazers,12,29,41,222498000.0,1977
+New York Nets,Kansas City Kings,New York Nets,12,30,42,222584400.0,1977
+New York Nets,New York Nets,Washington Bullets,12,31,43,222670800.0,1977
+New York Nets,New York Nets,Chicago Bulls,13,31,44,222843600.0,1977
+New York Nets,Detroit Pistons,New York Nets,13,32,45,223102800.0,1977
+New York Nets,New York Nets,Golden State Warriors,13,33,46,223275600.0,1977
+New York Nets,New York Nets,Milwaukee Bucks,13,34,47,223448400.0,1977
+New York Nets,New York Nets,Boston Celtics,14,34,48,223707600.0,1977
+New York Nets,Philadelphia 76ers,New York Nets,15,34,49,223880400.0,1977
+New York Nets,Cleveland Cavaliers,New York Nets,16,34,50,224053200.0,1977
+New York Nets,Milwaukee Bucks,New York Nets,16,35,51,224226000.0,1977
+New York Nets,New York Nets,New Orleans Jazz,17,35,52,224312400.0,1977
+New York Nets,New York Nets,Buffalo Braves,17,36,53,224485200.0,1977
+New York Nets,Chicago Bulls,New York Nets,17,37,54,224830800.0,1977
+New York Nets,Denver Nuggets,New York Nets,17,38,55,224917200.0,1977
+New York Nets,New York Nets,Seattle Supersonics,17,39,56,225090000.0,1977
+New York Nets,New York Knicks,New York Nets,18,39,57,225176400.0,1977
+New York Nets,New York Nets,New York Knicks,18,40,58,225262800.0,1977
+New York Nets,New York Nets,Denver Nuggets,19,40,59,225522000.0,1977
+New York Nets,New York Nets,Detroit Pistons,19,41,60,225694800.0,1977
+New York Nets,New York Nets,Golden State Warriors,19,42,61,225867600.0,1977
+New York Nets,Buffalo Braves,New York Nets,20,42,62,226040400.0,1977
+New York Nets,New York Nets,Kansas City Kings,20,43,63,226126800.0,1977
+New York Nets,New York Nets,San Antonio Spurs,20,44,64,226299600.0,1977
+New York Nets,New York Nets,Houston Rockets,20,45,65,226472400.0,1977
+New York Nets,New York Nets,Phoenix Suns,21,45,66,226904400.0,1977
+New York Nets,New York Nets,Los Angeles Lakers,21,46,67,227077200.0,1977
+New York Nets,San Antonio Spurs,New York Nets,21,47,68,227250000.0,1977
+New York Nets,Houston Rockets,New York Nets,21,48,69,227336400.0,1977
+New York Nets,New York Nets,Cleveland Cavaliers,21,49,70,227509200.0,1977
+New York Nets,New York Nets,Philadelphia 76ers,21,50,71,227682000.0,1977
+New York Nets,New York Nets,Kansas City Kings,21,51,72,227941200.0,1977
+New York Nets,New York Nets,Portland Trail Blazers,21,52,73,228114000.0,1977
+New York Nets,Boston Celtics,New York Nets,21,53,74,228286800.0,1977
+New York Nets,New Orleans Jazz,New York Nets,21,54,75,228459600.0,1977
+New York Nets,Atlanta Hawks,New York Nets,21,55,76,228632400.0,1977
+New York Nets,New York Nets,Indiana Pacers,21,56,77,228718800.0,1977
+New York Nets,Washington Bullets,New York Nets,21,57,78,228891600.0,1977
+New York Nets,Seattle Supersonics,New York Nets,22,57,79,229064400.0,1977
+New York Nets,Golden State Warriors,New York Nets,22,58,80,229237200.0,1977
+New York Nets,Los Angeles Lakers,New York Nets,22,59,81,229323600.0,1977
+New York Nets,Phoenix Suns,New York Nets,22,60,82,229496400.0,1977
+Philadelphia 76ers,Philadelphia 76ers,San Antonio Spurs,0,1,1,214804800.0,1977
+Philadelphia 76ers,Buffalo Braves,Philadelphia 76ers,0,2,2,214891200.0,1977
+Philadelphia 76ers,New Orleans Jazz,Philadelphia 76ers,1,2,3,215150400.0,1977
+Philadelphia 76ers,Houston Rockets,Philadelphia 76ers,2,2,4,215236800.0,1977
+Philadelphia 76ers,Philadelphia 76ers,New York Nets,3,2,5,215496000.0,1977
+Philadelphia 76ers,Golden State Warriors,Philadelphia 76ers,4,2,6,215931600.0,1977
+Philadelphia 76ers,Portland Trail Blazers,Philadelphia 76ers,4,3,7,216018000.0,1977
+Philadelphia 76ers,Seattle Supersonics,Philadelphia 76ers,4,4,8,216190800.0,1977
+Philadelphia 76ers,Philadelphia 76ers,Chicago Bulls,5,4,9,216450000.0,1977
+Philadelphia 76ers,Philadelphia 76ers,Washington Bullets,6,4,10,216622800.0,1977
+Philadelphia 76ers,Washington Bullets,Philadelphia 76ers,7,4,11,216709200.0,1977
+Philadelphia 76ers,Philadelphia 76ers,Indiana Pacers,7,5,12,217054800.0,1977
+Philadelphia 76ers,Philadelphia 76ers,New Orleans Jazz,8,5,13,217227600.0,1977
+Philadelphia 76ers,Atlanta Hawks,Philadelphia 76ers,9,5,14,217314000.0,1977
+Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,10,5,15,217573200.0,1977
+Philadelphia 76ers,Detroit Pistons,Philadelphia 76ers,10,6,16,217659600.0,1977
+Philadelphia 76ers,Philadelphia 76ers,New York Knicks,11,6,17,217832400.0,1977
+Philadelphia 76ers,Cleveland Cavaliers,Philadelphia 76ers,11,7,18,217918800.0,1977
+Philadelphia 76ers,Kansas City Kings,Philadelphia 76ers,11,8,19,218005200.0,1977
+Philadelphia 76ers,Philadelphia 76ers,Denver Nuggets,12,8,20,218264400.0,1977
+Philadelphia 76ers,Philadelphia 76ers,Seattle Supersonics,12,9,21,218437200.0,1977
+Philadelphia 76ers,Philadelphia 76ers,Buffalo Braves,13,9,22,218869200.0,1977
+Philadelphia 76ers,Philadelphia 76ers,Portland Trail Blazers,14,9,23,219128400.0,1977
+Philadelphia 76ers,Milwaukee Bucks,Philadelphia 76ers,15,9,24,219214800.0,1977
+Philadelphia 76ers,Chicago Bulls,Philadelphia 76ers,15,10,25,219387600.0,1977
+Philadelphia 76ers,Philadelphia 76ers,Phoenix Suns,16,10,26,219474000.0,1977
+Philadelphia 76ers,Philadelphia 76ers,Golden State Warriors,16,11,27,219646800.0,1977
+Philadelphia 76ers,Indiana Pacers,Philadelphia 76ers,17,11,28,219733200.0,1977
+Philadelphia 76ers,Denver Nuggets,Philadelphia 76ers,17,12,29,219992400.0,1977
+Philadelphia 76ers,New York Knicks,Philadelphia 76ers,18,12,30,220338000.0,1977
+Philadelphia 76ers,San Antonio Spurs,Philadelphia 76ers,18,13,31,220597200.0,1977
+Philadelphia 76ers,Houston Rockets,Philadelphia 76ers,18,14,32,220683600.0,1977
+Philadelphia 76ers,New York Nets,Philadelphia 76ers,19,14,33,221029200.0,1977
+Philadelphia 76ers,Philadelphia 76ers,Los Angeles Lakers,20,14,34,221288400.0,1977
+Philadelphia 76ers,Philadelphia 76ers,Cleveland Cavaliers,21,14,35,221461200.0,1977
+Philadelphia 76ers,Milwaukee Bucks,Philadelphia 76ers,21,15,36,221547600.0,1977
+Philadelphia 76ers,Kansas City Kings,Philadelphia 76ers,22,15,37,221806800.0,1977
+Philadelphia 76ers,Philadelphia 76ers,Houston Rockets,23,15,38,221893200.0,1977
+Philadelphia 76ers,Philadelphia 76ers,Kansas City Kings,24,15,39,222066000.0,1977
+Philadelphia 76ers,Philadelphia 76ers,New Orleans Jazz,25,15,40,222238800.0,1977
+Philadelphia 76ers,Philadelphia 76ers,Atlanta Hawks,26,15,41,222498000.0,1977
+Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,27,15,42,222757200.0,1977
+Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,28,15,43,222843600.0,1977
+Philadelphia 76ers,Phoenix Suns,Philadelphia 76ers,28,16,44,223189200.0,1977
+Philadelphia 76ers,Los Angeles Lakers,Philadelphia 76ers,28,17,45,223275600.0,1977
+Philadelphia 76ers,Denver Nuggets,Philadelphia 76ers,29,17,46,223448400.0,1977
+Philadelphia 76ers,Indiana Pacers,Philadelphia 76ers,29,18,47,223621200.0,1977
+Philadelphia 76ers,Philadelphia 76ers,Detroit Pistons,30,18,48,223707600.0,1977
+Philadelphia 76ers,Philadelphia 76ers,New York Nets,30,19,49,223880400.0,1977
+Philadelphia 76ers,Philadelphia 76ers,Los Angeles Lakers,31,19,50,224053200.0,1977
+Philadelphia 76ers,Buffalo Braves,Philadelphia 76ers,31,20,51,224226000.0,1977
+Philadelphia 76ers,Philadelphia 76ers,Milwaukee Bucks,32,20,52,224312400.0,1977
+Philadelphia 76ers,Philadelphia 76ers,Indiana Pacers,33,20,53,224485200.0,1977
+Philadelphia 76ers,Philadelphia 76ers,Buffalo Braves,34,20,54,224917200.0,1977
+Philadelphia 76ers,Philadelphia 76ers,Phoenix Suns,34,21,55,225090000.0,1977
+Philadelphia 76ers,Philadelphia 76ers,Cleveland Cavaliers,35,21,56,225262800.0,1977
+Philadelphia 76ers,Los Angeles Lakers,Philadelphia 76ers,35,22,57,225694800.0,1977
+Philadelphia 76ers,Seattle Supersonics,Philadelphia 76ers,36,22,58,225867600.0,1977
+Philadelphia 76ers,Portland Trail Blazers,Philadelphia 76ers,36,23,59,226040400.0,1977
+Philadelphia 76ers,Golden State Warriors,Philadelphia 76ers,36,24,60,226213200.0,1977
+Philadelphia 76ers,New York Knicks,Philadelphia 76ers,37,24,61,226386000.0,1977
+Philadelphia 76ers,Philadelphia 76ers,New York Knicks,37,25,62,226472400.0,1977
+Philadelphia 76ers,Atlanta Hawks,Philadelphia 76ers,37,26,63,226645200.0,1977
+Philadelphia 76ers,Philadelphia 76ers,Denver Nuggets,38,26,64,226731600.0,1977
+Philadelphia 76ers,Philadelphia 76ers,Seattle Supersonics,39,26,65,226904400.0,1977
+Philadelphia 76ers,Philadelphia 76ers,Chicago Bulls,39,27,66,227077200.0,1977
+Philadelphia 76ers,Cleveland Cavaliers,Philadelphia 76ers,40,27,67,227250000.0,1977
+Philadelphia 76ers,Philadelphia 76ers,Atlanta Hawks,41,27,68,227336400.0,1977
+Philadelphia 76ers,Philadelphia 76ers,Houston Rockets,42,27,69,227509200.0,1977
+Philadelphia 76ers,New York Nets,Philadelphia 76ers,43,27,70,227682000.0,1977
+Philadelphia 76ers,Philadelphia 76ers,Golden State Warriors,43,28,71,227941200.0,1977
+Philadelphia 76ers,Philadelphia 76ers,San Antonio Spurs,44,28,72,228114000.0,1977
+Philadelphia 76ers,Philadelphia 76ers,Portland Trail Blazers,45,28,73,228286800.0,1977
+Philadelphia 76ers,Chicago Bulls,Philadelphia 76ers,46,28,74,228459600.0,1977
+Philadelphia 76ers,Philadelphia 76ers,Detroit Pistons,47,28,75,228546000.0,1977
+Philadelphia 76ers,Philadelphia 76ers,Kansas City Kings,48,28,76,228718800.0,1977
+Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,48,29,77,228891600.0,1977
+Philadelphia 76ers,New Orleans Jazz,Philadelphia 76ers,49,29,78,229064400.0,1977
+Philadelphia 76ers,San Antonio Spurs,Philadelphia 76ers,49,30,79,229150800.0,1977
+Philadelphia 76ers,Detroit Pistons,Philadelphia 76ers,49,31,80,229323600.0,1977
+Philadelphia 76ers,Philadelphia 76ers,Washington Bullets,50,31,81,229410000.0,1977
+Philadelphia 76ers,Washington Bullets,Philadelphia 76ers,50,32,82,229496400.0,1977
+Phoenix Suns,New Orleans Jazz,Phoenix Suns,0,1,1,214804800.0,1977
+Phoenix Suns,Houston Rockets,Phoenix Suns,0,2,2,214891200.0,1977
+Phoenix Suns,San Antonio Spurs,Phoenix Suns,0,3,3,215236800.0,1977
+Phoenix Suns,Chicago Bulls,Phoenix Suns,1,3,4,215409600.0,1977
+Phoenix Suns,Denver Nuggets,Phoenix Suns,1,4,5,215496000.0,1977
+Phoenix Suns,Seattle Supersonics,Phoenix Suns,1,5,6,216018000.0,1977
+Phoenix Suns,Phoenix Suns,Indiana Pacers,2,5,7,216536400.0,1977
+Phoenix Suns,Phoenix Suns,Cleveland Cavaliers,2,6,8,216709200.0,1977
+Phoenix Suns,Phoenix Suns,Milwaukee Bucks,3,6,9,217054800.0,1977
+Phoenix Suns,Golden State Warriors,Phoenix Suns,3,7,10,217141200.0,1977
+Phoenix Suns,Phoenix Suns,New York Nets,3,8,11,217227600.0,1977
+Phoenix Suns,Phoenix Suns,Chicago Bulls,4,8,12,217400400.0,1977
+Phoenix Suns,Phoenix Suns,Washington Bullets,5,8,13,217746000.0,1977
+Phoenix Suns,Phoenix Suns,Seattle Supersonics,6,8,14,217918800.0,1977
+Phoenix Suns,Indiana Pacers,Phoenix Suns,6,9,15,218178000.0,1977
+Phoenix Suns,New York Nets,Phoenix Suns,7,9,16,218264400.0,1977
+Phoenix Suns,Phoenix Suns,Portland Trail Blazers,7,10,17,218437200.0,1977
+Phoenix Suns,Phoenix Suns,San Antonio Spurs,8,10,18,218610000.0,1977
+Phoenix Suns,Phoenix Suns,Houston Rockets,9,10,19,218869200.0,1977
+Phoenix Suns,Boston Celtics,Phoenix Suns,10,10,20,219042000.0,1977
+Phoenix Suns,New York Knicks,Phoenix Suns,10,11,21,219128400.0,1977
+Phoenix Suns,Atlanta Hawks,Phoenix Suns,11,11,22,219214800.0,1977
+Phoenix Suns,Buffalo Braves,Phoenix Suns,11,12,23,219387600.0,1977
+Phoenix Suns,Philadelphia 76ers,Phoenix Suns,11,13,24,219474000.0,1977
+Phoenix Suns,Los Angeles Lakers,Phoenix Suns,11,14,25,219646800.0,1977
+Phoenix Suns,Phoenix Suns,Kansas City Kings,11,15,26,219733200.0,1977
+Phoenix Suns,Phoenix Suns,Buffalo Braves,12,15,27,220165200.0,1977
+Phoenix Suns,Phoenix Suns,Los Angeles Lakers,13,15,28,220338000.0,1977
+Phoenix Suns,Denver Nuggets,Phoenix Suns,13,16,29,220597200.0,1977
+Phoenix Suns,Phoenix Suns,Boston Celtics,14,16,30,220683600.0,1977
+Phoenix Suns,Kansas City Kings,Phoenix Suns,14,17,31,221029200.0,1977
+Phoenix Suns,Milwaukee Bucks,Phoenix Suns,14,18,32,221202000.0,1977
+Phoenix Suns,Detroit Pistons,Phoenix Suns,14,19,33,221288400.0,1977
+Phoenix Suns,Washington Bullets,Phoenix Suns,14,20,34,221461200.0,1977
+Phoenix Suns,New York Knicks,Phoenix Suns,14,21,35,221547600.0,1977
+Phoenix Suns,Atlanta Hawks,Phoenix Suns,15,21,36,221720400.0,1977
+Phoenix Suns,Chicago Bulls,Phoenix Suns,15,22,37,221806800.0,1977
+Phoenix Suns,Phoenix Suns,Detroit Pistons,16,22,38,221979600.0,1977
+Phoenix Suns,Phoenix Suns,Cleveland Cavaliers,17,22,39,222152400.0,1977
+Phoenix Suns,Phoenix Suns,New York Knicks,18,22,40,222498000.0,1977
+Phoenix Suns,Golden State Warriors,Phoenix Suns,18,23,41,222584400.0,1977
+Phoenix Suns,Phoenix Suns,Indiana Pacers,19,23,42,222670800.0,1977
+Phoenix Suns,Phoenix Suns,Seattle Supersonics,20,23,43,222843600.0,1977
+Phoenix Suns,Phoenix Suns,San Antonio Spurs,20,24,44,223016400.0,1977
+Phoenix Suns,Phoenix Suns,Philadelphia 76ers,21,24,45,223189200.0,1977
+Phoenix Suns,Phoenix Suns,New Orleans Jazz,22,24,46,223362000.0,1977
+Phoenix Suns,Portland Trail Blazers,Phoenix Suns,22,25,47,223448400.0,1977
+Phoenix Suns,Phoenix Suns,Milwaukee Bucks,23,25,48,223707600.0,1977
+Phoenix Suns,Phoenix Suns,Golden State Warriors,23,26,49,223880400.0,1977
+Phoenix Suns,Phoenix Suns,Denver Nuggets,24,26,50,224053200.0,1977
+Phoenix Suns,Phoenix Suns,Atlanta Hawks,25,26,51,224226000.0,1977
+Phoenix Suns,Phoenix Suns,Washington Bullets,25,27,52,224398800.0,1977
+Phoenix Suns,Kansas City Kings,Phoenix Suns,25,28,53,224830800.0,1977
+Phoenix Suns,Indiana Pacers,Phoenix Suns,25,29,54,224917200.0,1977
+Phoenix Suns,Philadelphia 76ers,Phoenix Suns,26,29,55,225090000.0,1977
+Phoenix Suns,Cleveland Cavaliers,Phoenix Suns,26,30,56,225176400.0,1977
+Phoenix Suns,Detroit Pistons,Phoenix Suns,26,31,57,225262800.0,1977
+Phoenix Suns,Buffalo Braves,Phoenix Suns,26,32,58,225435600.0,1977
+Phoenix Suns,Phoenix Suns,Houston Rockets,26,33,59,225608400.0,1977
+Phoenix Suns,Phoenix Suns,Boston Celtics,26,34,60,225781200.0,1977
+Phoenix Suns,Phoenix Suns,Chicago Bulls,26,35,61,226126800.0,1977
+Phoenix Suns,Phoenix Suns,Golden State Warriors,26,36,62,226299600.0,1977
+Phoenix Suns,Washington Bullets,Phoenix Suns,26,37,63,226472400.0,1977
+Phoenix Suns,San Antonio Spurs,Phoenix Suns,26,38,64,226645200.0,1977
+Phoenix Suns,Houston Rockets,Phoenix Suns,26,39,65,226731600.0,1977
+Phoenix Suns,New York Nets,Phoenix Suns,26,40,66,226904400.0,1977
+Phoenix Suns,Boston Celtics,Phoenix Suns,26,41,67,227077200.0,1977
+Phoenix Suns,Phoenix Suns,New York Knicks,27,41,68,227336400.0,1977
+Phoenix Suns,Phoenix Suns,New Orleans Jazz,27,42,69,227509200.0,1977
+Phoenix Suns,Phoenix Suns,Portland Trail Blazers,28,42,70,227682000.0,1977
+Phoenix Suns,Phoenix Suns,Buffalo Braves,28,43,71,228027600.0,1977
+Phoenix Suns,Los Angeles Lakers,Phoenix Suns,28,44,72,228114000.0,1977
+Phoenix Suns,Phoenix Suns,Los Angeles Lakers,28,45,73,228200400.0,1977
+Phoenix Suns,Seattle Supersonics,Phoenix Suns,29,45,74,228286800.0,1977
+Phoenix Suns,Milwaukee Bucks,Phoenix Suns,30,45,75,228459600.0,1977
+Phoenix Suns,New Orleans Jazz,Phoenix Suns,30,46,76,228546000.0,1977
+Phoenix Suns,Phoenix Suns,Detroit Pistons,31,46,77,228718800.0,1977
+Phoenix Suns,Phoenix Suns,Denver Nuggets,31,47,78,228891600.0,1977
+Phoenix Suns,Phoenix Suns,Atlanta Hawks,32,47,79,229064400.0,1977
+Phoenix Suns,Phoenix Suns,Kansas City Kings,33,47,80,229237200.0,1977
+Phoenix Suns,Portland Trail Blazers,Phoenix Suns,33,48,81,229323600.0,1977
+Phoenix Suns,Phoenix Suns,New York Nets,34,48,82,229496400.0,1977
+Portland Trail Blazers,Portland Trail Blazers,New York Nets,1,0,1,214891200.0,1977
+Portland Trail Blazers,Portland Trail Blazers,Golden State Warriors,2,0,2,215150400.0,1977
+Portland Trail Blazers,Golden State Warriors,Portland Trail Blazers,2,1,3,215323200.0,1977
+Portland Trail Blazers,Portland Trail Blazers,Detroit Pistons,3,1,4,215496000.0,1977
+Portland Trail Blazers,Portland Trail Blazers,Atlanta Hawks,4,1,5,215758800.0,1977
+Portland Trail Blazers,Portland Trail Blazers,Philadelphia 76ers,5,1,6,216018000.0,1977
+Portland Trail Blazers,Portland Trail Blazers,New York Knicks,6,1,7,216190800.0,1977
+Portland Trail Blazers,Portland Trail Blazers,Kansas City Kings,7,1,8,216363600.0,1977
+Portland Trail Blazers,Atlanta Hawks,Portland Trail Blazers,7,2,9,216536400.0,1977
+Portland Trail Blazers,San Antonio Spurs,Portland Trail Blazers,7,3,10,216709200.0,1977
+Portland Trail Blazers,New Orleans Jazz,Portland Trail Blazers,7,4,11,216968400.0,1977
+Portland Trail Blazers,Portland Trail Blazers,Milwaukee Bucks,8,4,12,217227600.0,1977
+Portland Trail Blazers,Portland Trail Blazers,Buffalo Braves,9,4,13,217400400.0,1977
+Portland Trail Blazers,Portland Trail Blazers,Chicago Bulls,10,4,14,217659600.0,1977
+Portland Trail Blazers,Los Angeles Lakers,Portland Trail Blazers,10,5,15,217832400.0,1977
+Portland Trail Blazers,Portland Trail Blazers,Washington Bullets,11,5,16,217918800.0,1977
+Portland Trail Blazers,Portland Trail Blazers,Indiana Pacers,12,5,17,218005200.0,1977
+Portland Trail Blazers,Milwaukee Bucks,Portland Trail Blazers,12,6,18,218178000.0,1977
+Portland Trail Blazers,Indiana Pacers,Portland Trail Blazers,13,6,19,218264400.0,1977
+Portland Trail Blazers,Phoenix Suns,Portland Trail Blazers,14,6,20,218437200.0,1977
+Portland Trail Blazers,Portland Trail Blazers,Milwaukee Bucks,15,6,21,218523600.0,1977
+Portland Trail Blazers,Portland Trail Blazers,Cleveland Cavaliers,16,6,22,218610000.0,1977
+Portland Trail Blazers,New York Knicks,Portland Trail Blazers,17,6,23,218782800.0,1977
+Portland Trail Blazers,Boston Celtics,Portland Trail Blazers,17,7,24,218869200.0,1977
+Portland Trail Blazers,Buffalo Braves,Portland Trail Blazers,18,7,25,219042000.0,1977
+Portland Trail Blazers,Philadelphia 76ers,Portland Trail Blazers,18,8,26,219128400.0,1977
+Portland Trail Blazers,Portland Trail Blazers,Houston Rockets,19,8,27,219387600.0,1977
+Portland Trail Blazers,Portland Trail Blazers,Denver Nuggets,20,8,28,219646800.0,1977
+Portland Trail Blazers,Portland Trail Blazers,Los Angeles Lakers,20,9,29,219733200.0,1977
+Portland Trail Blazers,Portland Trail Blazers,Kansas City Kings,21,9,30,219992400.0,1977
+Portland Trail Blazers,Portland Trail Blazers,Seattle Supersonics,22,9,31,220338000.0,1977
+Portland Trail Blazers,Seattle Supersonics,Portland Trail Blazers,22,10,32,220424400.0,1977
+Portland Trail Blazers,Chicago Bulls,Portland Trail Blazers,23,10,33,220597200.0,1977
+Portland Trail Blazers,Detroit Pistons,Portland Trail Blazers,23,11,34,220683600.0,1977
+Portland Trail Blazers,Milwaukee Bucks,Portland Trail Blazers,23,12,35,220770000.0,1977
+Portland Trail Blazers,Portland Trail Blazers,Chicago Bulls,24,12,36,220942800.0,1977
+Portland Trail Blazers,Los Angeles Lakers,Portland Trail Blazers,24,13,37,221029200.0,1977
+Portland Trail Blazers,Portland Trail Blazers,Boston Celtics,25,13,38,221202000.0,1977
+Portland Trail Blazers,Portland Trail Blazers,New Orleans Jazz,26,13,39,221461200.0,1977
+Portland Trail Blazers,Portland Trail Blazers,San Antonio Spurs,27,13,40,221634000.0,1977
+Portland Trail Blazers,Portland Trail Blazers,New York Knicks,28,13,41,221806800.0,1977
+Portland Trail Blazers,Boston Celtics,Portland Trail Blazers,29,13,42,222066000.0,1977
+Portland Trail Blazers,Washington Bullets,Portland Trail Blazers,29,14,43,222152400.0,1977
+Portland Trail Blazers,Atlanta Hawks,Portland Trail Blazers,29,15,44,222238800.0,1977
+Portland Trail Blazers,New York Nets,Portland Trail Blazers,30,15,45,222498000.0,1977
+Portland Trail Blazers,Cleveland Cavaliers,Portland Trail Blazers,31,15,46,222584400.0,1977
+Portland Trail Blazers,Houston Rockets,Portland Trail Blazers,31,16,47,222757200.0,1977
+Portland Trail Blazers,San Antonio Spurs,Portland Trail Blazers,31,17,48,222843600.0,1977
+Portland Trail Blazers,Denver Nuggets,Portland Trail Blazers,32,17,49,223102800.0,1977
+Portland Trail Blazers,Portland Trail Blazers,San Antonio Spurs,33,17,50,223189200.0,1977
+Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,34,17,51,223448400.0,1977
+Portland Trail Blazers,Kansas City Kings,Portland Trail Blazers,34,18,52,223707600.0,1977
+Portland Trail Blazers,Indiana Pacers,Portland Trail Blazers,35,18,53,223794000.0,1977
+Portland Trail Blazers,Portland Trail Blazers,Washington Bullets,35,19,54,223966800.0,1977
+Portland Trail Blazers,Portland Trail Blazers,Denver Nuggets,35,20,55,224226000.0,1977
+Portland Trail Blazers,Portland Trail Blazers,Atlanta Hawks,35,21,56,224485200.0,1977
+Portland Trail Blazers,Cleveland Cavaliers,Portland Trail Blazers,35,22,57,224830800.0,1977
+Portland Trail Blazers,Detroit Pistons,Portland Trail Blazers,35,23,58,224917200.0,1977
+Portland Trail Blazers,Chicago Bulls,Portland Trail Blazers,36,23,59,225090000.0,1977
+Portland Trail Blazers,Denver Nuggets,Portland Trail Blazers,36,24,60,225176400.0,1977
+Portland Trail Blazers,Portland Trail Blazers,Boston Celtics,37,24,61,225435600.0,1977
+Portland Trail Blazers,Portland Trail Blazers,Houston Rockets,37,25,62,225694800.0,1977
+Portland Trail Blazers,Portland Trail Blazers,Philadelphia 76ers,38,25,63,226040400.0,1977
+Portland Trail Blazers,Portland Trail Blazers,Cleveland Cavaliers,38,26,64,226299600.0,1977
+Portland Trail Blazers,Portland Trail Blazers,Seattle Supersonics,39,26,65,226386000.0,1977
+Portland Trail Blazers,Buffalo Braves,Portland Trail Blazers,39,27,66,226645200.0,1977
+Portland Trail Blazers,New York Knicks,Portland Trail Blazers,39,28,67,226818000.0,1977
+Portland Trail Blazers,Kansas City Kings,Portland Trail Blazers,39,29,68,226904400.0,1977
+Portland Trail Blazers,Portland Trail Blazers,New Orleans Jazz,40,29,69,227250000.0,1977
+Portland Trail Blazers,Golden State Warriors,Portland Trail Blazers,41,29,70,227422800.0,1977
+Portland Trail Blazers,Portland Trail Blazers,Indiana Pacers,42,29,71,227509200.0,1977
+Portland Trail Blazers,Phoenix Suns,Portland Trail Blazers,42,30,72,227682000.0,1977
+Portland Trail Blazers,New Orleans Jazz,Portland Trail Blazers,42,31,73,227854800.0,1977
+Portland Trail Blazers,Houston Rockets,Portland Trail Blazers,42,32,74,227941200.0,1977
+Portland Trail Blazers,New York Nets,Portland Trail Blazers,43,32,75,228114000.0,1977
+Portland Trail Blazers,Philadelphia 76ers,Portland Trail Blazers,43,33,76,228286800.0,1977
+Portland Trail Blazers,Portland Trail Blazers,Buffalo Braves,44,33,77,228459600.0,1977
+Portland Trail Blazers,Portland Trail Blazers,Golden State Warriors,45,33,78,228718800.0,1977
+Portland Trail Blazers,Seattle Supersonics,Portland Trail Blazers,46,33,79,228891600.0,1977
+Portland Trail Blazers,Portland Trail Blazers,Detroit Pistons,47,33,80,229064400.0,1977
+Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,48,33,81,229323600.0,1977
+Portland Trail Blazers,Portland Trail Blazers,Los Angeles Lakers,49,33,82,229410000.0,1977
+San Antonio Spurs,Philadelphia 76ers,San Antonio Spurs,1,0,1,214804800.0,1977
+San Antonio Spurs,New York Knicks,San Antonio Spurs,1,1,2,214891200.0,1977
+San Antonio Spurs,Atlanta Hawks,San Antonio Spurs,1,2,3,215150400.0,1977
+San Antonio Spurs,San Antonio Spurs,Phoenix Suns,2,2,4,215236800.0,1977
+San Antonio Spurs,Kansas City Kings,San Antonio Spurs,2,3,5,215409600.0,1977
+San Antonio Spurs,San Antonio Spurs,Boston Celtics,2,4,6,215496000.0,1977
+San Antonio Spurs,Indiana Pacers,San Antonio Spurs,2,5,7,215845200.0,1977
+San Antonio Spurs,New Orleans Jazz,San Antonio Spurs,2,6,8,216018000.0,1977
+San Antonio Spurs,San Antonio Spurs,Indiana Pacers,3,6,9,216104400.0,1977
+San Antonio Spurs,San Antonio Spurs,Seattle Supersonics,4,6,10,216363600.0,1977
+San Antonio Spurs,San Antonio Spurs,New York Nets,5,6,11,216536400.0,1977
+San Antonio Spurs,San Antonio Spurs,Portland Trail Blazers,6,6,12,216709200.0,1977
+San Antonio Spurs,San Antonio Spurs,Buffalo Braves,7,6,13,216968400.0,1977
+San Antonio Spurs,San Antonio Spurs,Kansas City Kings,8,6,14,217141200.0,1977
+San Antonio Spurs,Washington Bullets,San Antonio Spurs,8,7,15,217314000.0,1977
+San Antonio Spurs,Buffalo Braves,San Antonio Spurs,9,7,16,217573200.0,1977
+San Antonio Spurs,New York Nets,San Antonio Spurs,9,8,17,217659600.0,1977
+San Antonio Spurs,San Antonio Spurs,Golden State Warriors,10,8,18,217832400.0,1977
+San Antonio Spurs,Houston Rockets,San Antonio Spurs,10,9,19,217918800.0,1977
+San Antonio Spurs,San Antonio Spurs,Detroit Pistons,11,9,20,218178000.0,1977
+San Antonio Spurs,Golden State Warriors,San Antonio Spurs,11,10,21,218350800.0,1977
+San Antonio Spurs,Los Angeles Lakers,San Antonio Spurs,11,11,22,218437200.0,1977
+San Antonio Spurs,Phoenix Suns,San Antonio Spurs,11,12,23,218610000.0,1977
+San Antonio Spurs,San Antonio Spurs,Atlanta Hawks,11,13,24,218869200.0,1977
+San Antonio Spurs,Milwaukee Bucks,San Antonio Spurs,12,13,25,219042000.0,1977
+San Antonio Spurs,San Antonio Spurs,New Orleans Jazz,13,13,26,219128400.0,1977
+San Antonio Spurs,San Antonio Spurs,New York Knicks,14,13,27,219387600.0,1977
+San Antonio Spurs,Indiana Pacers,San Antonio Spurs,14,14,28,219474000.0,1977
+San Antonio Spurs,Chicago Bulls,San Antonio Spurs,14,15,29,219646800.0,1977
+San Antonio Spurs,Cleveland Cavaliers,San Antonio Spurs,14,16,30,219819600.0,1977
+San Antonio Spurs,San Antonio Spurs,Golden State Warriors,15,16,31,219992400.0,1977
+San Antonio Spurs,San Antonio Spurs,Washington Bullets,16,16,32,220165200.0,1977
+San Antonio Spurs,Kansas City Kings,San Antonio Spurs,17,16,33,220424400.0,1977
+San Antonio Spurs,San Antonio Spurs,Philadelphia 76ers,18,16,34,220597200.0,1977
+San Antonio Spurs,Denver Nuggets,San Antonio Spurs,18,17,35,221029200.0,1977
+San Antonio Spurs,San Antonio Spurs,Buffalo Braves,19,17,36,221115600.0,1977
+San Antonio Spurs,San Antonio Spurs,Denver Nuggets,20,17,37,221288400.0,1977
+San Antonio Spurs,Seattle Supersonics,San Antonio Spurs,20,18,38,221461200.0,1977
+San Antonio Spurs,Portland Trail Blazers,San Antonio Spurs,20,19,39,221634000.0,1977
+San Antonio Spurs,San Antonio Spurs,Milwaukee Bucks,20,20,40,221893200.0,1977
+San Antonio Spurs,San Antonio Spurs,Los Angeles Lakers,20,21,41,222066000.0,1977
+San Antonio Spurs,San Antonio Spurs,Indiana Pacers,21,21,42,222238800.0,1977
+San Antonio Spurs,San Antonio Spurs,Chicago Bulls,22,21,43,222498000.0,1977
+San Antonio Spurs,Boston Celtics,San Antonio Spurs,22,22,44,222670800.0,1977
+San Antonio Spurs,San Antonio Spurs,Portland Trail Blazers,23,22,45,222843600.0,1977
+San Antonio Spurs,Phoenix Suns,San Antonio Spurs,24,22,46,223016400.0,1977
+San Antonio Spurs,Portland Trail Blazers,San Antonio Spurs,24,23,47,223189200.0,1977
+San Antonio Spurs,Seattle Supersonics,San Antonio Spurs,25,23,48,223448400.0,1977
+San Antonio Spurs,San Antonio Spurs,Cleveland Cavaliers,26,23,49,223621200.0,1977
+San Antonio Spurs,San Antonio Spurs,Chicago Bulls,26,24,50,223794000.0,1977
+San Antonio Spurs,San Antonio Spurs,New York Knicks,27,24,51,224053200.0,1977
+San Antonio Spurs,Chicago Bulls,San Antonio Spurs,27,25,52,224226000.0,1977
+San Antonio Spurs,Detroit Pistons,San Antonio Spurs,28,25,53,224312400.0,1977
+San Antonio Spurs,Houston Rockets,San Antonio Spurs,29,25,54,224485200.0,1977
+San Antonio Spurs,San Antonio Spurs,Seattle Supersonics,30,25,55,224830800.0,1977
+San Antonio Spurs,San Antonio Spurs,Houston Rockets,30,26,56,225003600.0,1977
+San Antonio Spurs,San Antonio Spurs,New Orleans Jazz,31,26,57,225262800.0,1977
+San Antonio Spurs,San Antonio Spurs,Los Angeles Lakers,32,26,58,225435600.0,1977
+San Antonio Spurs,San Antonio Spurs,Milwaukee Bucks,32,27,59,225608400.0,1977
+San Antonio Spurs,Atlanta Hawks,San Antonio Spurs,32,28,60,225781200.0,1977
+San Antonio Spurs,New Orleans Jazz,San Antonio Spurs,33,28,61,225867600.0,1977
+San Antonio Spurs,New York Knicks,San Antonio Spurs,34,28,62,226040400.0,1977
+San Antonio Spurs,New York Nets,San Antonio Spurs,35,28,63,226299600.0,1977
+San Antonio Spurs,Buffalo Braves,San Antonio Spurs,36,28,64,226386000.0,1977
+San Antonio Spurs,San Antonio Spurs,Phoenix Suns,37,28,65,226645200.0,1977
+San Antonio Spurs,San Antonio Spurs,Cleveland Cavaliers,38,28,66,226818000.0,1977
+San Antonio Spurs,San Antonio Spurs,Detroit Pistons,38,29,67,227077200.0,1977
+San Antonio Spurs,San Antonio Spurs,New York Nets,39,29,68,227250000.0,1977
+San Antonio Spurs,Cleveland Cavaliers,San Antonio Spurs,39,30,69,227595600.0,1977
+San Antonio Spurs,Washington Bullets,San Antonio Spurs,39,31,70,227682000.0,1977
+San Antonio Spurs,San Antonio Spurs,Boston Celtics,39,32,71,227854800.0,1977
+San Antonio Spurs,Denver Nuggets,San Antonio Spurs,40,32,72,227941200.0,1977
+San Antonio Spurs,San Antonio Spurs,Houston Rockets,41,32,73,228027600.0,1977
+San Antonio Spurs,Philadelphia 76ers,San Antonio Spurs,41,33,74,228114000.0,1977
+San Antonio Spurs,San Antonio Spurs,Kansas City Kings,42,33,75,228286800.0,1977
+San Antonio Spurs,San Antonio Spurs,Washington Bullets,43,33,76,228459600.0,1977
+San Antonio Spurs,Golden State Warriors,San Antonio Spurs,43,34,77,228632400.0,1977
+San Antonio Spurs,Los Angeles Lakers,San Antonio Spurs,43,35,78,228718800.0,1977
+San Antonio Spurs,San Antonio Spurs,Atlanta Hawks,43,36,79,228891600.0,1977
+San Antonio Spurs,San Antonio Spurs,Philadelphia 76ers,44,36,80,229150800.0,1977
+San Antonio Spurs,Boston Celtics,San Antonio Spurs,44,37,81,229410000.0,1977
+San Antonio Spurs,Milwaukee Bucks,San Antonio Spurs,44,38,82,229496400.0,1977
+Seattle Supersonics,Seattle Supersonics,New York Nets,1,0,1,214977600.0,1977
+Seattle Supersonics,Indiana Pacers,Seattle Supersonics,1,1,2,215150400.0,1977
+Seattle Supersonics,Detroit Pistons,Seattle Supersonics,1,2,3,215236800.0,1977
+Seattle Supersonics,Seattle Supersonics,Detroit Pistons,2,2,4,215409600.0,1977
+Seattle Supersonics,Seattle Supersonics,Atlanta Hawks,3,2,5,215582400.0,1977
+Seattle Supersonics,Milwaukee Bucks,Seattle Supersonics,3,3,6,215758800.0,1977
+Seattle Supersonics,Kansas City Kings,Seattle Supersonics,3,4,7,215845200.0,1977
+Seattle Supersonics,Seattle Supersonics,Phoenix Suns,4,4,8,216018000.0,1977
+Seattle Supersonics,Seattle Supersonics,Philadelphia 76ers,5,4,9,216190800.0,1977
+Seattle Supersonics,San Antonio Spurs,Seattle Supersonics,5,5,10,216363600.0,1977
+Seattle Supersonics,Houston Rockets,Seattle Supersonics,5,6,11,216450000.0,1977
+Seattle Supersonics,Seattle Supersonics,Kansas City Kings,6,6,12,216622800.0,1977
+Seattle Supersonics,Seattle Supersonics,Indiana Pacers,7,6,13,216795600.0,1977
+Seattle Supersonics,Golden State Warriors,Seattle Supersonics,7,7,14,216968400.0,1977
+Seattle Supersonics,Seattle Supersonics,Cleveland Cavaliers,8,7,15,217054800.0,1977
+Seattle Supersonics,Seattle Supersonics,Buffalo Braves,9,7,16,217227600.0,1977
+Seattle Supersonics,Seattle Supersonics,Milwaukee Bucks,10,7,17,217400400.0,1977
+Seattle Supersonics,Seattle Supersonics,Chicago Bulls,11,7,18,217832400.0,1977
+Seattle Supersonics,Phoenix Suns,Seattle Supersonics,11,8,19,217918800.0,1977
+Seattle Supersonics,Seattle Supersonics,Washington Bullets,12,8,20,218005200.0,1977
+Seattle Supersonics,Buffalo Braves,Seattle Supersonics,12,9,21,218178000.0,1977
+Seattle Supersonics,Boston Celtics,Seattle Supersonics,12,10,22,218264400.0,1977
+Seattle Supersonics,Philadelphia 76ers,Seattle Supersonics,13,10,23,218437200.0,1977
+Seattle Supersonics,New York Knicks,Seattle Supersonics,13,11,24,218523600.0,1977
+Seattle Supersonics,New Orleans Jazz,Seattle Supersonics,13,12,25,218782800.0,1977
+Seattle Supersonics,Washington Bullets,Seattle Supersonics,14,12,26,218869200.0,1977
+Seattle Supersonics,Seattle Supersonics,Golden State Warriors,15,12,27,219042000.0,1977
+Seattle Supersonics,Seattle Supersonics,Houston Rockets,15,13,28,219214800.0,1977
+Seattle Supersonics,Seattle Supersonics,Denver Nuggets,15,14,29,219474000.0,1977
+Seattle Supersonics,Seattle Supersonics,Buffalo Braves,15,15,30,219819600.0,1977
+Seattle Supersonics,Chicago Bulls,Seattle Supersonics,15,16,31,219992400.0,1977
+Seattle Supersonics,Denver Nuggets,Seattle Supersonics,15,17,32,220165200.0,1977
+Seattle Supersonics,Portland Trail Blazers,Seattle Supersonics,15,18,33,220338000.0,1977
+Seattle Supersonics,Seattle Supersonics,Portland Trail Blazers,16,18,34,220424400.0,1977
+Seattle Supersonics,Atlanta Hawks,Seattle Supersonics,17,18,35,220597200.0,1977
+Seattle Supersonics,New York Nets,Seattle Supersonics,18,18,36,220683600.0,1977
+Seattle Supersonics,Cleveland Cavaliers,Seattle Supersonics,18,19,37,220770000.0,1977
+Seattle Supersonics,Seattle Supersonics,Chicago Bulls,19,19,38,221029200.0,1977
+Seattle Supersonics,Seattle Supersonics,Boston Celtics,20,19,39,221288400.0,1977
+Seattle Supersonics,Seattle Supersonics,San Antonio Spurs,21,19,40,221461200.0,1977
+Seattle Supersonics,Seattle Supersonics,New Orleans Jazz,22,19,41,221634000.0,1977
+Seattle Supersonics,Seattle Supersonics,Detroit Pistons,23,19,42,221893200.0,1977
+Seattle Supersonics,Seattle Supersonics,New York Knicks,24,19,43,222066000.0,1977
+Seattle Supersonics,Seattle Supersonics,Denver Nuggets,24,20,44,222238800.0,1977
+Seattle Supersonics,Seattle Supersonics,Indiana Pacers,25,20,45,222498000.0,1977
+Seattle Supersonics,Denver Nuggets,Seattle Supersonics,25,21,46,222670800.0,1977
+Seattle Supersonics,Phoenix Suns,Seattle Supersonics,25,22,47,222843600.0,1977
+Seattle Supersonics,Los Angeles Lakers,Seattle Supersonics,25,23,48,223016400.0,1977
+Seattle Supersonics,Seattle Supersonics,Los Angeles Lakers,26,23,49,223102800.0,1977
+Seattle Supersonics,Seattle Supersonics,San Antonio Spurs,26,24,50,223448400.0,1977
+Seattle Supersonics,Seattle Supersonics,New Orleans Jazz,27,24,51,223707600.0,1977
+Seattle Supersonics,Seattle Supersonics,Washington Bullets,27,25,52,223880400.0,1977
+Seattle Supersonics,Seattle Supersonics,Milwaukee Bucks,28,25,53,224053200.0,1977
+Seattle Supersonics,Seattle Supersonics,Atlanta Hawks,28,26,54,224312400.0,1977
+Seattle Supersonics,Seattle Supersonics,Golden State Warriors,29,26,55,224485200.0,1977
+Seattle Supersonics,San Antonio Spurs,Seattle Supersonics,29,27,56,224830800.0,1977
+Seattle Supersonics,Houston Rockets,Seattle Supersonics,29,28,57,224917200.0,1977
+Seattle Supersonics,New York Nets,Seattle Supersonics,30,28,58,225090000.0,1977
+Seattle Supersonics,Buffalo Braves,Seattle Supersonics,30,29,59,225176400.0,1977
+Seattle Supersonics,Indiana Pacers,Seattle Supersonics,30,30,60,225262800.0,1977
+Seattle Supersonics,Kansas City Kings,Seattle Supersonics,31,30,61,225522000.0,1977
+Seattle Supersonics,Seattle Supersonics,Boston Celtics,31,31,62,225694800.0,1977
+Seattle Supersonics,Seattle Supersonics,Philadelphia 76ers,31,32,63,225867600.0,1977
+Seattle Supersonics,Seattle Supersonics,Cleveland Cavaliers,31,33,64,226126800.0,1977
+Seattle Supersonics,Portland Trail Blazers,Seattle Supersonics,31,34,65,226386000.0,1977
+Seattle Supersonics,New Orleans Jazz,Seattle Supersonics,32,34,66,226645200.0,1977
+Seattle Supersonics,Boston Celtics,Seattle Supersonics,33,34,67,226731600.0,1977
+Seattle Supersonics,Philadelphia 76ers,Seattle Supersonics,33,35,68,226904400.0,1977
+Seattle Supersonics,New York Knicks,Seattle Supersonics,34,35,69,226990800.0,1977
+Seattle Supersonics,Washington Bullets,Seattle Supersonics,35,35,70,227336400.0,1977
+Seattle Supersonics,Detroit Pistons,Seattle Supersonics,36,35,71,227509200.0,1977
+Seattle Supersonics,Chicago Bulls,Seattle Supersonics,36,36,72,227595600.0,1977
+Seattle Supersonics,Milwaukee Bucks,Seattle Supersonics,37,36,73,227682000.0,1977
+Seattle Supersonics,Cleveland Cavaliers,Seattle Supersonics,37,37,74,227854800.0,1977
+Seattle Supersonics,Seattle Supersonics,Phoenix Suns,37,38,75,228286800.0,1977
+Seattle Supersonics,Los Angeles Lakers,Seattle Supersonics,37,39,76,228459600.0,1977
+Seattle Supersonics,Seattle Supersonics,Houston Rockets,38,39,77,228546000.0,1977
+Seattle Supersonics,Golden State Warriors,Seattle Supersonics,39,39,78,228805200.0,1977
+Seattle Supersonics,Seattle Supersonics,Portland Trail Blazers,39,40,79,228891600.0,1977
+Seattle Supersonics,Seattle Supersonics,New York Nets,39,41,80,229064400.0,1977
+Seattle Supersonics,Seattle Supersonics,Kansas City Kings,40,41,81,229323600.0,1977
+Seattle Supersonics,Seattle Supersonics,Los Angeles Lakers,40,42,82,229496400.0,1977
+Washington Bullets,Washington Bullets,Los Angeles Lakers,0,1,1,214804800.0,1977
+Washington Bullets,Detroit Pistons,Washington Bullets,1,1,2,214891200.0,1977
+Washington Bullets,New York Nets,Washington Bullets,1,2,3,215236800.0,1977
+Washington Bullets,New Orleans Jazz,Washington Bullets,1,3,4,215409600.0,1977
+Washington Bullets,Houston Rockets,Washington Bullets,1,4,5,215496000.0,1977
+Washington Bullets,Washington Bullets,Milwaukee Bucks,2,4,6,215845200.0,1977
+Washington Bullets,Boston Celtics,Washington Bullets,3,4,7,216018000.0,1977
+Washington Bullets,Washington Bullets,Boston Celtics,4,4,8,216104400.0,1977
+Washington Bullets,New York Knicks,Washington Bullets,4,5,9,216363600.0,1977
+Washington Bullets,Washington Bullets,New Orleans Jazz,5,5,10,216450000.0,1977
+Washington Bullets,Philadelphia 76ers,Washington Bullets,5,6,11,216622800.0,1977
+Washington Bullets,Washington Bullets,Philadelphia 76ers,5,7,12,216709200.0,1977
+Washington Bullets,Washington Bullets,New York Knicks,6,7,13,217054800.0,1977
+Washington Bullets,Washington Bullets,San Antonio Spurs,7,7,14,217314000.0,1977
+Washington Bullets,Denver Nuggets,Washington Bullets,7,8,15,217573200.0,1977
+Washington Bullets,Phoenix Suns,Washington Bullets,7,9,16,217746000.0,1977
+Washington Bullets,Portland Trail Blazers,Washington Bullets,7,10,17,217918800.0,1977
+Washington Bullets,Seattle Supersonics,Washington Bullets,7,11,18,218005200.0,1977
+Washington Bullets,Los Angeles Lakers,Washington Bullets,7,12,19,218178000.0,1977
+Washington Bullets,Atlanta Hawks,Washington Bullets,8,12,20,218350800.0,1977
+Washington Bullets,Washington Bullets,Denver Nuggets,9,12,21,218523600.0,1977
+Washington Bullets,Washington Bullets,Seattle Supersonics,9,13,22,218869200.0,1977
+Washington Bullets,Washington Bullets,Indiana Pacers,10,13,23,219042000.0,1977
+Washington Bullets,Washington Bullets,Kansas City Kings,11,13,24,219474000.0,1977
+Washington Bullets,Buffalo Braves,Washington Bullets,12,13,25,219646800.0,1977
+Washington Bullets,Washington Bullets,Golden State Warriors,12,14,26,219733200.0,1977
+Washington Bullets,Houston Rockets,Washington Bullets,12,15,27,220078800.0,1977
+Washington Bullets,San Antonio Spurs,Washington Bullets,12,16,28,220165200.0,1977
+Washington Bullets,Washington Bullets,Cleveland Cavaliers,13,16,29,220338000.0,1977
+Washington Bullets,New Orleans Jazz,Washington Bullets,13,17,30,220424400.0,1977
+Washington Bullets,Indiana Pacers,Washington Bullets,14,17,31,220597200.0,1977
+Washington Bullets,Washington Bullets,Atlanta Hawks,15,17,32,220683600.0,1977
+Washington Bullets,Washington Bullets,Houston Rockets,16,17,33,220942800.0,1977
+Washington Bullets,Washington Bullets,New York Nets,17,17,34,221288400.0,1977
+Washington Bullets,Washington Bullets,Phoenix Suns,18,17,35,221461200.0,1977
+Washington Bullets,Cleveland Cavaliers,Washington Bullets,18,18,36,221547600.0,1977
+Washington Bullets,Milwaukee Bucks,Washington Bullets,19,18,37,221806800.0,1977
+Washington Bullets,Washington Bullets,Chicago Bulls,19,19,38,221893200.0,1977
+Washington Bullets,Chicago Bulls,Washington Bullets,20,19,39,222066000.0,1977
+Washington Bullets,Washington Bullets,Portland Trail Blazers,21,19,40,222152400.0,1977
+Washington Bullets,Washington Bullets,Buffalo Braves,22,19,41,222498000.0,1977
+Washington Bullets,New York Nets,Washington Bullets,23,19,42,222670800.0,1977
+Washington Bullets,Washington Bullets,Detroit Pistons,24,19,43,222843600.0,1977
+Washington Bullets,Washington Bullets,Golden State Warriors,25,19,44,223102800.0,1977
+Washington Bullets,Indiana Pacers,Washington Bullets,26,19,45,223362000.0,1977
+Washington Bullets,Washington Bullets,Kansas City Kings,27,19,46,223448400.0,1977
+Washington Bullets,Denver Nuggets,Washington Bullets,27,20,47,223707600.0,1977
+Washington Bullets,Seattle Supersonics,Washington Bullets,28,20,48,223880400.0,1977
+Washington Bullets,Portland Trail Blazers,Washington Bullets,29,20,49,223966800.0,1977
+Washington Bullets,Golden State Warriors,Washington Bullets,29,21,50,224226000.0,1977
+Washington Bullets,Phoenix Suns,Washington Bullets,30,21,51,224398800.0,1977
+Washington Bullets,Kansas City Kings,Washington Bullets,30,22,52,224485200.0,1977
+Washington Bullets,Buffalo Braves,Washington Bullets,31,22,53,224830800.0,1977
+Washington Bullets,Washington Bullets,Boston Celtics,32,22,54,224917200.0,1977
+Washington Bullets,Detroit Pistons,Washington Bullets,32,23,55,225090000.0,1977
+Washington Bullets,Washington Bullets,Detroit Pistons,33,23,56,225176400.0,1977
+Washington Bullets,Washington Bullets,Los Angeles Lakers,33,24,57,225262800.0,1977
+Washington Bullets,Washington Bullets,Indiana Pacers,34,24,58,225522000.0,1977
+Washington Bullets,Washington Bullets,Milwaukee Bucks,35,24,59,225781200.0,1977
+Washington Bullets,Washington Bullets,Buffalo Braves,36,24,60,225867600.0,1977
+Washington Bullets,Washington Bullets,Denver Nuggets,37,24,61,226126800.0,1977
+Washington Bullets,Atlanta Hawks,Washington Bullets,37,25,62,226299600.0,1977
+Washington Bullets,Washington Bullets,New Orleans Jazz,38,25,63,226386000.0,1977
+Washington Bullets,Washington Bullets,Phoenix Suns,39,25,64,226472400.0,1977
+Washington Bullets,Milwaukee Bucks,Washington Bullets,39,26,65,226731600.0,1977
+Washington Bullets,Los Angeles Lakers,Washington Bullets,39,27,66,226904400.0,1977
+Washington Bullets,Golden State Warriors,Washington Bullets,39,28,67,227077200.0,1977
+Washington Bullets,Kansas City Kings,Washington Bullets,39,29,68,227250000.0,1977
+Washington Bullets,Washington Bullets,Seattle Supersonics,39,30,69,227336400.0,1977
+Washington Bullets,Washington Bullets,San Antonio Spurs,40,30,70,227682000.0,1977
+Washington Bullets,Washington Bullets,Cleveland Cavaliers,41,30,71,227941200.0,1977
+Washington Bullets,Boston Celtics,Washington Bullets,42,30,72,228114000.0,1977
+Washington Bullets,New York Knicks,Washington Bullets,43,30,73,228200400.0,1977
+Washington Bullets,Washington Bullets,New York Knicks,43,31,74,228286800.0,1977
+Washington Bullets,San Antonio Spurs,Washington Bullets,43,32,75,228459600.0,1977
+Washington Bullets,Washington Bullets,Atlanta Hawks,44,32,76,228546000.0,1977
+Washington Bullets,Washington Bullets,Houston Rockets,44,33,77,228718800.0,1977
+Washington Bullets,Washington Bullets,New York Nets,45,33,78,228891600.0,1977
+Washington Bullets,Cleveland Cavaliers,Washington Bullets,46,33,79,229064400.0,1977
+Washington Bullets,Washington Bullets,Chicago Bulls,47,33,80,229150800.0,1977
+Washington Bullets,Philadelphia 76ers,Washington Bullets,47,34,81,229410000.0,1977
+Washington Bullets,Washington Bullets,Philadelphia 76ers,48,34,82,229496400.0,1977

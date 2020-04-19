@@ -1,0 +1,2461 @@
+id,home_team,away_team,win,loss,game_number,date,year
+Atlanta Hawks,Atlanta Hawks,Houston Rockets,0,1,1,1351899000.0,2013
+Atlanta Hawks,Oklahoma City Thunder,Atlanta Hawks,1,1,2,1352073600.0,2013
+Atlanta Hawks,Atlanta Hawks,Indiana Pacers,2,1,3,1352334600.0,2013
+Atlanta Hawks,Atlanta Hawks,Miami Heat,2,2,4,1352507400.0,2013
+Atlanta Hawks,Los Angeles Clippers,Atlanta Hawks,2,3,5,1352665800.0,2013
+Atlanta Hawks,Portland Trail Blazers,Atlanta Hawks,3,3,6,1352775600.0,2013
+Atlanta Hawks,Golden State Warriors,Atlanta Hawks,3,4,7,1352950200.0,2013
+Atlanta Hawks,Sacramento Kings,Atlanta Hawks,4,4,8,1353121200.0,2013
+Atlanta Hawks,Atlanta Hawks,Orlando Magic,5,4,9,1353371400.0,2013
+Atlanta Hawks,Atlanta Hawks,Washington Wizards,6,4,10,1353544200.0,2013
+Atlanta Hawks,Charlotte Bobcats,Atlanta Hawks,7,4,11,1353715200.0,2013
+Atlanta Hawks,Atlanta Hawks,Los Angeles Clippers,8,4,12,1353801600.0,2013
+Atlanta Hawks,Atlanta Hawks,Charlotte Bobcats,9,4,13,1354149000.0,2013
+Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,9,5,14,1354321800.0,2013
+Atlanta Hawks,Atlanta Hawks,Denver Nuggets,10,5,15,1354755600.0,2013
+Atlanta Hawks,Atlanta Hawks,Washington Wizards,11,5,16,1354926600.0,2013
+Atlanta Hawks,Memphis Grizzlies,Atlanta Hawks,12,5,17,1355014800.0,2013
+Atlanta Hawks,Miami Heat,Atlanta Hawks,12,6,18,1355185800.0,2013
+Atlanta Hawks,Orlando Magic,Atlanta Hawks,13,6,19,1355356800.0,2013
+Atlanta Hawks,Atlanta Hawks,Charlotte Bobcats,14,6,20,1355445000.0,2013
+Atlanta Hawks,Atlanta Hawks,Golden State Warriors,14,7,21,1355616000.0,2013
+Atlanta Hawks,Washington Wizards,Atlanta Hawks,15,7,22,1355875200.0,2013
+Atlanta Hawks,Atlanta Hawks,Oklahoma City Thunder,15,8,23,1355963400.0,2013
+Atlanta Hawks,Philadelphia 76ers,Atlanta Hawks,15,9,24,1356134400.0,2013
+Atlanta Hawks,Atlanta Hawks,Chicago Bulls,16,9,25,1356220800.0,2013
+Atlanta Hawks,Atlanta Hawks,Detroit Pistons,17,9,26,1356568200.0,2013
+Atlanta Hawks,Cleveland Cavaliers,Atlanta Hawks,18,9,27,1356741000.0,2013
+Atlanta Hawks,Atlanta Hawks,Indiana Pacers,19,9,28,1356825600.0,2013
+Atlanta Hawks,Houston Rockets,Atlanta Hawks,19,10,29,1356998400.0,2013
+Atlanta Hawks,New Orleans Hornets,Atlanta Hawks,20,10,30,1357088400.0,2013
+Atlanta Hawks,Detroit Pistons,Atlanta Hawks,20,11,31,1357345800.0,2013
+Atlanta Hawks,Atlanta Hawks,Boston Celtics,20,12,32,1357430400.0,2013
+Atlanta Hawks,Minnesota Timberwolves,Atlanta Hawks,20,13,33,1357693200.0,2013
+Atlanta Hawks,Cleveland Cavaliers,Atlanta Hawks,20,14,34,1357776000.0,2013
+Atlanta Hawks,Atlanta Hawks,Utah Jazz,21,14,35,1357950600.0,2013
+Atlanta Hawks,Washington Wizards,Atlanta Hawks,21,15,36,1358035200.0,2013
+Atlanta Hawks,Chicago Bulls,Atlanta Hawks,21,16,37,1358211600.0,2013
+Atlanta Hawks,Atlanta Hawks,Brooklyn Nets,22,16,38,1358382600.0,2013
+Atlanta Hawks,Brooklyn Nets,Atlanta Hawks,22,17,39,1358555400.0,2013
+Atlanta Hawks,Atlanta Hawks,San Antonio Spurs,22,18,40,1358640000.0,2013
+Atlanta Hawks,Atlanta Hawks,Minnesota Timberwolves,23,18,41,1358794800.0,2013
+Atlanta Hawks,Charlotte Bobcats,Atlanta Hawks,24,18,42,1358985600.0,2013
+Atlanta Hawks,Atlanta Hawks,Boston Celtics,25,18,43,1359160200.0,2013
+Atlanta Hawks,New York Knicks,Atlanta Hawks,25,19,44,1359329400.0,2013
+Atlanta Hawks,Atlanta Hawks,Toronto Raptors,26,19,45,1359592200.0,2013
+Atlanta Hawks,Atlanta Hawks,Chicago Bulls,26,20,46,1359849600.0,2013
+Atlanta Hawks,Indiana Pacers,Atlanta Hawks,26,21,47,1360108800.0,2013
+Atlanta Hawks,Atlanta Hawks,Memphis Grizzlies,27,21,48,1360197000.0,2013
+Atlanta Hawks,Atlanta Hawks,New Orleans Hornets,27,22,49,1360369800.0,2013
+Atlanta Hawks,Dallas Mavericks,Atlanta Hawks,28,22,50,1360632600.0,2013
+Atlanta Hawks,Orlando Magic,Atlanta Hawks,29,22,51,1360800000.0,2013
+Atlanta Hawks,Atlanta Hawks,Miami Heat,29,23,52,1361408400.0,2013
+Atlanta Hawks,Atlanta Hawks,Sacramento Kings,30,23,53,1361579400.0,2013
+Atlanta Hawks,Milwaukee Bucks,Atlanta Hawks,31,23,54,1361669400.0,2013
+Atlanta Hawks,Detroit Pistons,Atlanta Hawks,32,23,55,1361838600.0,2013
+Atlanta Hawks,Utah Jazz,Atlanta Hawks,33,23,56,1362016800.0,2013
+Atlanta Hawks,Phoenix Suns,Atlanta Hawks,33,24,57,1362189600.0,2013
+Atlanta Hawks,Los Angeles Lakers,Atlanta Hawks,33,25,58,1362364200.0,2013
+Atlanta Hawks,Denver Nuggets,Atlanta Hawks,33,26,59,1362448800.0,2013
+Atlanta Hawks,Atlanta Hawks,Philadelphia 76ers,34,26,60,1362616200.0,2013
+Atlanta Hawks,Boston Celtics,Atlanta Hawks,34,27,61,1362790800.0,2013
+Atlanta Hawks,Atlanta Hawks,Brooklyn Nets,34,28,62,1362873600.0,2013
+Atlanta Hawks,Miami Heat,Atlanta Hawks,34,29,63,1363131000.0,2013
+Atlanta Hawks,Atlanta Hawks,Los Angeles Lakers,35,29,64,1363217400.0,2013
+Atlanta Hawks,Atlanta Hawks,Phoenix Suns,36,29,65,1363390200.0,2013
+Atlanta Hawks,Brooklyn Nets,Atlanta Hawks,37,29,66,1363564800.0,2013
+Atlanta Hawks,Atlanta Hawks,Dallas Mavericks,37,30,67,1363649400.0,2013
+Atlanta Hawks,Atlanta Hawks,Milwaukee Bucks,38,30,68,1363822200.0,2013
+Atlanta Hawks,Atlanta Hawks,Portland Trail Blazers,38,31,69,1363995000.0,2013
+Atlanta Hawks,Milwaukee Bucks,Atlanta Hawks,39,31,70,1364151600.0,2013
+Atlanta Hawks,Indiana Pacers,Atlanta Hawks,39,32,71,1364252400.0,2013
+Atlanta Hawks,Toronto Raptors,Atlanta Hawks,40,32,72,1364425200.0,2013
+Atlanta Hawks,Boston Celtics,Atlanta Hawks,40,33,73,1364599800.0,2013
+Atlanta Hawks,Atlanta Hawks,Orlando Magic,41,33,74,1364684400.0,2013
+Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,42,33,75,1364859000.0,2013
+Atlanta Hawks,Atlanta Hawks,New York Knicks,42,34,76,1365030000.0,2013
+Atlanta Hawks,Atlanta Hawks,Philadelphia 76ers,42,35,77,1365204600.0,2013
+Atlanta Hawks,San Antonio Spurs,Atlanta Hawks,42,36,78,1365294600.0,2013
+Atlanta Hawks,Philadelphia 76ers,Atlanta Hawks,43,36,79,1365634800.0,2013
+Atlanta Hawks,Atlanta Hawks,Milwaukee Bucks,44,36,80,1365809400.0,2013
+Atlanta Hawks,Atlanta Hawks,Toronto Raptors,44,37,81,1366156800.0,2013
+Atlanta Hawks,New York Knicks,Atlanta Hawks,44,38,82,1366243200.0,2013
+Boston Celtics,Miami Heat,Boston Celtics,0,1,1,1351641600.0,2013
+Boston Celtics,Boston Celtics,Milwaukee Bucks,0,2,2,1351899000.0,2013
+Boston Celtics,Washington Wizards,Boston Celtics,1,2,3,1351983600.0,2013
+Boston Celtics,Boston Celtics,Washington Wizards,2,2,4,1352334600.0,2013
+Boston Celtics,Boston Celtics,Philadelphia 76ers,2,3,5,1352507400.0,2013
+Boston Celtics,Milwaukee Bucks,Boston Celtics,3,3,6,1352597400.0,2013
+Boston Celtics,Chicago Bulls,Boston Celtics,4,3,7,1352768400.0,2013
+Boston Celtics,Boston Celtics,Utah Jazz,5,3,8,1352939400.0,2013
+Boston Celtics,Brooklyn Nets,Boston Celtics,5,4,9,1353027600.0,2013
+Boston Celtics,Boston Celtics,Toronto Raptors,6,4,10,1353173400.0,2013
+Boston Celtics,Detroit Pistons,Boston Celtics,6,5,11,1353285000.0,2013
+Boston Celtics,Boston Celtics,San Antonio Spurs,6,6,12,1353544200.0,2013
+Boston Celtics,Boston Celtics,Oklahoma City Thunder,7,6,13,1353717000.0,2013
+Boston Celtics,Orlando Magic,Boston Celtics,8,6,14,1353884400.0,2013
+Boston Celtics,Boston Celtics,Brooklyn Nets,8,7,15,1354149000.0,2013
+Boston Celtics,Boston Celtics,Portland Trail Blazers,9,7,16,1354321800.0,2013
+Boston Celtics,Milwaukee Bucks,Boston Celtics,9,8,17,1354411800.0,2013
+Boston Celtics,Boston Celtics,Minnesota Timberwolves,10,8,18,1354753800.0,2013
+Boston Celtics,Philadelphia 76ers,Boston Celtics,10,9,19,1354924800.0,2013
+Boston Celtics,Boston Celtics,Philadelphia 76ers,11,9,20,1355013000.0,2013
+Boston Celtics,Boston Celtics,Dallas Mavericks,12,9,21,1355360400.0,2013
+Boston Celtics,Houston Rockets,Boston Celtics,12,10,22,1355533200.0,2013
+Boston Celtics,San Antonio Spurs,Boston Celtics,12,11,23,1355621400.0,2013
+Boston Celtics,Chicago Bulls,Boston Celtics,12,12,24,1355878800.0,2013
+Boston Celtics,Boston Celtics,Cleveland Cavaliers,13,12,25,1355963400.0,2013
+Boston Celtics,Boston Celtics,Milwaukee Bucks,13,13,26,1356136200.0,2013
+Boston Celtics,Brooklyn Nets,Boston Celtics,14,13,27,1356454800.0,2013
+Boston Celtics,Los Angeles Clippers,Boston Celtics,14,14,28,1356665400.0,2013
+Boston Celtics,Golden State Warriors,Boston Celtics,14,15,29,1356838200.0,2013
+Boston Celtics,Sacramento Kings,Boston Celtics,14,16,30,1356919200.0,2013
+Boston Celtics,Boston Celtics,Memphis Grizzlies,14,17,31,1357173000.0,2013
+Boston Celtics,Boston Celtics,Indiana Pacers,15,17,32,1357347600.0,2013
+Boston Celtics,Atlanta Hawks,Boston Celtics,16,17,33,1357430400.0,2013
+Boston Celtics,New York Knicks,Boston Celtics,17,17,34,1357605000.0,2013
+Boston Celtics,Boston Celtics,Phoenix Suns,18,17,35,1357777800.0,2013
+Boston Celtics,Boston Celtics,Houston Rockets,19,17,36,1357950600.0,2013
+Boston Celtics,Boston Celtics,Charlotte Bobcats,20,17,37,1358209800.0,2013
+Boston Celtics,Boston Celtics,New Orleans Hornets,20,18,38,1358384400.0,2013
+Boston Celtics,Boston Celtics,Chicago Bulls,20,19,39,1358553600.0,2013
+Boston Celtics,Detroit Pistons,Boston Celtics,20,20,40,1358728200.0,2013
+Boston Celtics,Cleveland Cavaliers,Boston Celtics,20,21,41,1358899200.0,2013
+Boston Celtics,Boston Celtics,New York Knicks,20,22,42,1359075600.0,2013
+Boston Celtics,Atlanta Hawks,Boston Celtics,20,23,43,1359160200.0,2013
+Boston Celtics,Boston Celtics,Miami Heat,21,23,44,1359309600.0,2013
+Boston Celtics,Boston Celtics,Sacramento Kings,22,23,45,1359592200.0,2013
+Boston Celtics,Boston Celtics,Orlando Magic,23,23,46,1359765000.0,2013
+Boston Celtics,Boston Celtics,Los Angeles Clippers,24,23,47,1359914400.0,2013
+Boston Celtics,Toronto Raptors,Boston Celtics,25,23,48,1360195200.0,2013
+Boston Celtics,Boston Celtics,Los Angeles Lakers,26,23,49,1360285200.0,2013
+Boston Celtics,Boston Celtics,Denver Nuggets,27,23,50,1360537200.0,2013
+Boston Celtics,Charlotte Bobcats,Boston Celtics,27,24,51,1360627200.0,2013
+Boston Celtics,Boston Celtics,Chicago Bulls,28,24,52,1360801800.0,2013
+Boston Celtics,Denver Nuggets,Boston Celtics,28,25,53,1361325600.0,2013
+Boston Celtics,Los Angeles Lakers,Boston Celtics,28,26,54,1361417400.0,2013
+Boston Celtics,Phoenix Suns,Boston Celtics,29,26,55,1361584800.0,2013
+Boston Celtics,Portland Trail Blazers,Boston Celtics,29,27,56,1361757600.0,2013
+Boston Celtics,Utah Jazz,Boston Celtics,30,27,57,1361844000.0,2013
+Boston Celtics,Boston Celtics,Golden State Warriors,31,27,58,1362184200.0,2013
+Boston Celtics,Philadelphia 76ers,Boston Celtics,32,27,59,1362528000.0,2013
+Boston Celtics,Indiana Pacers,Boston Celtics,33,27,60,1362614400.0,2013
+Boston Celtics,Boston Celtics,Atlanta Hawks,34,27,61,1362790800.0,2013
+Boston Celtics,Oklahoma City Thunder,Boston Celtics,34,28,62,1362934800.0,2013
+Boston Celtics,Charlotte Bobcats,Boston Celtics,34,29,63,1363129200.0,2013
+Boston Celtics,Boston Celtics,Toronto Raptors,35,29,64,1363217400.0,2013
+Boston Celtics,Boston Celtics,Charlotte Bobcats,36,29,65,1363476600.0,2013
+Boston Celtics,Boston Celtics,Miami Heat,36,30,66,1363651200.0,2013
+Boston Celtics,New Orleans Hornets,Boston Celtics,36,31,67,1363824000.0,2013
+Boston Celtics,Dallas Mavericks,Boston Celtics,36,32,68,1363998600.0,2013
+Boston Celtics,Memphis Grizzlies,Boston Celtics,36,33,69,1364083200.0,2013
+Boston Celtics,Boston Celtics,New York Knicks,36,34,70,1364338800.0,2013
+Boston Celtics,Cleveland Cavaliers,Boston Celtics,37,34,71,1364425200.0,2013
+Boston Celtics,Boston Celtics,Atlanta Hawks,38,34,72,1364599800.0,2013
+Boston Celtics,New York Knicks,Boston Celtics,38,35,73,1364772600.0,2013
+Boston Celtics,Minnesota Timberwolves,Boston Celtics,38,36,74,1364860800.0,2013
+Boston Celtics,Boston Celtics,Detroit Pistons,39,36,75,1365031800.0,2013
+Boston Celtics,Boston Celtics,Cleveland Cavaliers,39,37,76,1365204600.0,2013
+Boston Celtics,Boston Celtics,Washington Wizards,40,37,77,1365372000.0,2013
+Boston Celtics,Boston Celtics,Brooklyn Nets,40,38,78,1365638400.0,2013
+Boston Celtics,Miami Heat,Boston Celtics,40,39,79,1365809400.0,2013
+Boston Celtics,Orlando Magic,Boston Celtics,41,39,80,1365894000.0,2013
+Boston Celtics,Toronto Raptors,Boston Celtics,41,40,81,1366243200.0,2013
+Brooklyn Nets,Brooklyn Nets,Toronto Raptors,1,0,1,1351985400.0,2013
+Brooklyn Nets,Brooklyn Nets,Minnesota Timberwolves,1,1,2,1352161800.0,2013
+Brooklyn Nets,Miami Heat,Brooklyn Nets,1,2,3,1352334600.0,2013
+Brooklyn Nets,Orlando Magic,Brooklyn Nets,2,2,4,1352505600.0,2013
+Brooklyn Nets,Brooklyn Nets,Orlando Magic,3,2,5,1352664000.0,2013
+Brooklyn Nets,Brooklyn Nets,Cleveland Cavaliers,4,2,6,1352853000.0,2013
+Brooklyn Nets,Brooklyn Nets,Boston Celtics,5,2,7,1353027600.0,2013
+Brooklyn Nets,Sacramento Kings,Brooklyn Nets,6,2,8,1353279600.0,2013
+Brooklyn Nets,Los Angeles Lakers,Brooklyn Nets,6,3,9,1353468600.0,2013
+Brooklyn Nets,Golden State Warriors,Brooklyn Nets,6,4,10,1353555000.0,2013
+Brooklyn Nets,Brooklyn Nets,Los Angeles Clippers,7,4,11,1353717000.0,2013
+Brooklyn Nets,Brooklyn Nets,Portland Trail Blazers,8,4,12,1353873600.0,2013
+Brooklyn Nets,Brooklyn Nets,New York Knicks,9,4,13,1353974400.0,2013
+Brooklyn Nets,Boston Celtics,Brooklyn Nets,10,4,14,1354149000.0,2013
+Brooklyn Nets,Orlando Magic,Brooklyn Nets,11,4,15,1354320000.0,2013
+Brooklyn Nets,Miami Heat,Brooklyn Nets,11,5,16,1354408200.0,2013
+Brooklyn Nets,Brooklyn Nets,Oklahoma City Thunder,11,6,17,1354667400.0,2013
+Brooklyn Nets,Brooklyn Nets,Golden State Warriors,11,7,18,1354926600.0,2013
+Brooklyn Nets,Brooklyn Nets,Milwaukee Bucks,11,8,19,1355094000.0,2013
+Brooklyn Nets,Brooklyn Nets,New York Knicks,11,9,20,1355270400.0,2013
+Brooklyn Nets,Toronto Raptors,Brooklyn Nets,12,9,21,1355356800.0,2013
+Brooklyn Nets,Brooklyn Nets,Detroit Pistons,13,9,22,1355531400.0,2013
+Brooklyn Nets,Chicago Bulls,Brooklyn Nets,13,10,23,1355619600.0,2013
+Brooklyn Nets,Brooklyn Nets,Utah Jazz,13,11,24,1355877000.0,2013
+Brooklyn Nets,New York Knicks,Brooklyn Nets,13,12,25,1355961600.0,2013
+Brooklyn Nets,Brooklyn Nets,Philadelphia 76ers,14,12,26,1356292800.0,2013
+Brooklyn Nets,Brooklyn Nets,Boston Celtics,14,13,27,1356454800.0,2013
+Brooklyn Nets,Milwaukee Bucks,Brooklyn Nets,14,14,28,1356570000.0,2013
+Brooklyn Nets,Brooklyn Nets,Charlotte Bobcats,15,14,29,1356741000.0,2013
+Brooklyn Nets,Brooklyn Nets,Cleveland Cavaliers,16,14,30,1356827400.0,2013
+Brooklyn Nets,San Antonio Spurs,Brooklyn Nets,16,15,31,1356998400.0,2013
+Brooklyn Nets,Oklahoma City Thunder,Brooklyn Nets,17,15,32,1357174800.0,2013
+Brooklyn Nets,Washington Wizards,Brooklyn Nets,18,15,33,1357344000.0,2013
+Brooklyn Nets,Brooklyn Nets,Sacramento Kings,19,15,34,1357432200.0,2013
+Brooklyn Nets,Philadelphia 76ers,Brooklyn Nets,20,15,35,1357689600.0,2013
+Brooklyn Nets,Brooklyn Nets,Phoenix Suns,21,15,36,1357950600.0,2013
+Brooklyn Nets,Brooklyn Nets,Indiana Pacers,22,15,37,1358118000.0,2013
+Brooklyn Nets,Brooklyn Nets,Toronto Raptors,23,15,38,1358296200.0,2013
+Brooklyn Nets,Atlanta Hawks,Brooklyn Nets,23,16,39,1358382600.0,2013
+Brooklyn Nets,Brooklyn Nets,Atlanta Hawks,24,16,40,1358555400.0,2013
+Brooklyn Nets,New York Knicks,Brooklyn Nets,25,16,41,1358800200.0,2013
+Brooklyn Nets,Minnesota Timberwolves,Brooklyn Nets,26,16,42,1358989200.0,2013
+Brooklyn Nets,Memphis Grizzlies,Brooklyn Nets,26,17,43,1359162000.0,2013
+Brooklyn Nets,Houston Rockets,Brooklyn Nets,26,18,44,1359248400.0,2013
+Brooklyn Nets,Brooklyn Nets,Orlando Magic,27,18,45,1359419400.0,2013
+Brooklyn Nets,Brooklyn Nets,Miami Heat,27,19,46,1359594000.0,2013
+Brooklyn Nets,Brooklyn Nets,Chicago Bulls,28,19,47,1359765000.0,2013
+Brooklyn Nets,Brooklyn Nets,Los Angeles Lakers,28,20,48,1360110600.0,2013
+Brooklyn Nets,Detroit Pistons,Brooklyn Nets,29,20,49,1360197000.0,2013
+Brooklyn Nets,Washington Wizards,Brooklyn Nets,29,21,50,1360368000.0,2013
+Brooklyn Nets,Brooklyn Nets,San Antonio Spurs,29,22,51,1360544400.0,2013
+Brooklyn Nets,Indiana Pacers,Brooklyn Nets,30,22,52,1360627200.0,2013
+Brooklyn Nets,Brooklyn Nets,Denver Nuggets,31,22,53,1360801800.0,2013
+Brooklyn Nets,Brooklyn Nets,Milwaukee Bucks,32,22,54,1361320200.0,2013
+Brooklyn Nets,Milwaukee Bucks,Brooklyn Nets,33,22,55,1361408400.0,2013
+Brooklyn Nets,Brooklyn Nets,Houston Rockets,33,23,56,1361579400.0,2013
+Brooklyn Nets,Brooklyn Nets,Memphis Grizzlies,33,24,57,1361750400.0,2013
+Brooklyn Nets,New Orleans Hornets,Brooklyn Nets,34,24,58,1361926800.0,2013
+Brooklyn Nets,Brooklyn Nets,Dallas Mavericks,34,25,59,1362186000.0,2013
+Brooklyn Nets,Chicago Bulls,Brooklyn Nets,34,26,60,1362272400.0,2013
+Brooklyn Nets,Charlotte Bobcats,Brooklyn Nets,35,26,61,1362614400.0,2013
+Brooklyn Nets,Brooklyn Nets,Washington Wizards,36,26,62,1362789000.0,2013
+Brooklyn Nets,Atlanta Hawks,Brooklyn Nets,37,26,63,1362873600.0,2013
+Brooklyn Nets,Philadelphia 76ers,Brooklyn Nets,37,27,64,1363042800.0,2013
+Brooklyn Nets,Brooklyn Nets,New Orleans Hornets,38,27,65,1363131000.0,2013
+Brooklyn Nets,Brooklyn Nets,Atlanta Hawks,38,28,66,1363564800.0,2013
+Brooklyn Nets,Detroit Pistons,Brooklyn Nets,39,28,67,1363649400.0,2013
+Brooklyn Nets,Dallas Mavericks,Brooklyn Nets,40,28,68,1363824000.0,2013
+Brooklyn Nets,Los Angeles Clippers,Brooklyn Nets,40,29,69,1364092200.0,2013
+Brooklyn Nets,Phoenix Suns,Brooklyn Nets,41,29,70,1364173200.0,2013
+Brooklyn Nets,Portland Trail Blazers,Brooklyn Nets,42,29,71,1364437800.0,2013
+Brooklyn Nets,Denver Nuggets,Brooklyn Nets,42,30,72,1364605200.0,2013
+Brooklyn Nets,Utah Jazz,Brooklyn Nets,42,31,73,1364691600.0,2013
+Brooklyn Nets,Cleveland Cavaliers,Brooklyn Nets,43,31,74,1365030000.0,2013
+Brooklyn Nets,Brooklyn Nets,Chicago Bulls,43,32,75,1365116400.0,2013
+Brooklyn Nets,Brooklyn Nets,Charlotte Bobcats,44,32,76,1365291000.0,2013
+Brooklyn Nets,Brooklyn Nets,Philadelphia 76ers,45,32,77,1365550200.0,2013
+Brooklyn Nets,Boston Celtics,Brooklyn Nets,46,32,78,1365638400.0,2013
+Brooklyn Nets,Indiana Pacers,Brooklyn Nets,47,32,79,1365807600.0,2013
+Brooklyn Nets,Toronto Raptors,Brooklyn Nets,47,33,80,1365967800.0,2013
+Brooklyn Nets,Brooklyn Nets,Washington Wizards,48,33,81,1366068600.0,2013
+Brooklyn Nets,Brooklyn Nets,Detroit Pistons,49,33,82,1366243200.0,2013
+Charlotte Bobcats,Charlotte Bobcats,Indiana Pacers,1,0,1,1351897200.0,2013
+Charlotte Bobcats,Dallas Mavericks,Charlotte Bobcats,1,1,2,1351989000.0,2013
+Charlotte Bobcats,Charlotte Bobcats,Phoenix Suns,1,2,3,1352332800.0,2013
+Charlotte Bobcats,New Orleans Hornets,Charlotte Bobcats,1,3,4,1352509200.0,2013
+Charlotte Bobcats,Charlotte Bobcats,Dallas Mavericks,2,3,5,1352593800.0,2013
+Charlotte Bobcats,Charlotte Bobcats,Washington Wizards,3,3,6,1352851200.0,2013
+Charlotte Bobcats,Minnesota Timberwolves,Charlotte Bobcats,4,3,7,1352941200.0,2013
+Charlotte Bobcats,Charlotte Bobcats,Memphis Grizzlies,4,4,8,1353198600.0,2013
+Charlotte Bobcats,Charlotte Bobcats,Milwaukee Bucks,5,4,9,1353369600.0,2013
+Charlotte Bobcats,Charlotte Bobcats,Toronto Raptors,6,4,10,1353542400.0,2013
+Charlotte Bobcats,Charlotte Bobcats,Atlanta Hawks,6,5,11,1353715200.0,2013
+Charlotte Bobcats,Washington Wizards,Charlotte Bobcats,7,5,12,1353801600.0,2013
+Charlotte Bobcats,Oklahoma City Thunder,Charlotte Bobcats,7,6,13,1353978000.0,2013
+Charlotte Bobcats,Atlanta Hawks,Charlotte Bobcats,7,7,14,1354149000.0,2013
+Charlotte Bobcats,Charlotte Bobcats,Philadelphia 76ers,7,8,15,1354320000.0,2013
+Charlotte Bobcats,Charlotte Bobcats,Portland Trail Blazers,7,9,16,1354579200.0,2013
+Charlotte Bobcats,Charlotte Bobcats,New York Knicks,7,10,17,1354752000.0,2013
+Charlotte Bobcats,Milwaukee Bucks,Charlotte Bobcats,7,11,18,1354930200.0,2013
+Charlotte Bobcats,Charlotte Bobcats,San Antonio Spurs,7,12,19,1355011200.0,2013
+Charlotte Bobcats,Charlotte Bobcats,Golden State Warriors,7,13,20,1355184000.0,2013
+Charlotte Bobcats,Charlotte Bobcats,Los Angeles Clippers,7,14,21,1355358600.0,2013
+Charlotte Bobcats,Atlanta Hawks,Charlotte Bobcats,7,15,22,1355445000.0,2013
+Charlotte Bobcats,Charlotte Bobcats,Orlando Magic,7,16,23,1355617800.0,2013
+Charlotte Bobcats,Los Angeles Lakers,Charlotte Bobcats,7,17,24,1355887800.0,2013
+Charlotte Bobcats,Phoenix Suns,Charlotte Bobcats,7,18,25,1355968800.0,2013
+Charlotte Bobcats,Golden State Warriors,Charlotte Bobcats,7,19,26,1356147000.0,2013
+Charlotte Bobcats,Denver Nuggets,Charlotte Bobcats,7,20,27,1356228000.0,2013
+Charlotte Bobcats,Charlotte Bobcats,Miami Heat,7,21,28,1356566400.0,2013
+Charlotte Bobcats,Brooklyn Nets,Charlotte Bobcats,7,22,29,1356741000.0,2013
+Charlotte Bobcats,Charlotte Bobcats,New Orleans Hornets,7,23,30,1356825600.0,2013
+Charlotte Bobcats,Chicago Bulls,Charlotte Bobcats,8,23,31,1356984000.0,2013
+Charlotte Bobcats,Charlotte Bobcats,Cleveland Cavaliers,8,24,32,1357344000.0,2013
+Charlotte Bobcats,Detroit Pistons,Charlotte Bobcats,9,24,33,1357518600.0,2013
+Charlotte Bobcats,Charlotte Bobcats,Utah Jazz,9,25,34,1357776000.0,2013
+Charlotte Bobcats,Toronto Raptors,Charlotte Bobcats,9,26,35,1357948800.0,2013
+Charlotte Bobcats,Indiana Pacers,Charlotte Bobcats,9,27,36,1358035200.0,2013
+Charlotte Bobcats,Boston Celtics,Charlotte Bobcats,9,28,37,1358209800.0,2013
+Charlotte Bobcats,Charlotte Bobcats,Indiana Pacers,9,29,38,1358294400.0,2013
+Charlotte Bobcats,Orlando Magic,Charlotte Bobcats,10,29,39,1358553600.0,2013
+Charlotte Bobcats,Charlotte Bobcats,Sacramento Kings,10,30,40,1358640000.0,2013
+Charlotte Bobcats,Charlotte Bobcats,Houston Rockets,10,31,41,1358794800.0,2013
+Charlotte Bobcats,Charlotte Bobcats,Atlanta Hawks,10,32,42,1358985600.0,2013
+Charlotte Bobcats,Charlotte Bobcats,Minnesota Timberwolves,11,32,43,1359246600.0,2013
+Charlotte Bobcats,Chicago Bulls,Charlotte Bobcats,11,33,44,1359421200.0,2013
+Charlotte Bobcats,San Antonio Spurs,Charlotte Bobcats,11,34,45,1359595800.0,2013
+Charlotte Bobcats,Houston Rockets,Charlotte Bobcats,11,35,46,1359853200.0,2013
+Charlotte Bobcats,Miami Heat,Charlotte Bobcats,11,36,47,1360024200.0,2013
+Charlotte Bobcats,Cleveland Cavaliers,Charlotte Bobcats,11,37,48,1360195200.0,2013
+Charlotte Bobcats,Charlotte Bobcats,Los Angeles Lakers,11,38,49,1360368000.0,2013
+Charlotte Bobcats,Philadelphia 76ers,Charlotte Bobcats,11,39,50,1360458000.0,2013
+Charlotte Bobcats,Charlotte Bobcats,Boston Celtics,12,39,51,1360627200.0,2013
+Charlotte Bobcats,Indiana Pacers,Charlotte Bobcats,12,40,52,1360800000.0,2013
+Charlotte Bobcats,Orlando Magic,Charlotte Bobcats,13,40,53,1361318400.0,2013
+Charlotte Bobcats,Charlotte Bobcats,Detroit Pistons,13,41,54,1361404800.0,2013
+Charlotte Bobcats,Charlotte Bobcats,Chicago Bulls,13,42,55,1361577600.0,2013
+Charlotte Bobcats,Charlotte Bobcats,Denver Nuggets,13,43,56,1361664000.0,2013
+Charlotte Bobcats,Los Angeles Clippers,Charlotte Bobcats,13,44,57,1361935800.0,2013
+Charlotte Bobcats,Utah Jazz,Charlotte Bobcats,13,45,58,1362189600.0,2013
+Charlotte Bobcats,Sacramento Kings,Charlotte Bobcats,13,46,59,1362351600.0,2013
+Charlotte Bobcats,Portland Trail Blazers,Charlotte Bobcats,13,47,60,1362452400.0,2013
+Charlotte Bobcats,Charlotte Bobcats,Brooklyn Nets,13,48,61,1362614400.0,2013
+Charlotte Bobcats,Charlotte Bobcats,Oklahoma City Thunder,13,49,62,1362787200.0,2013
+Charlotte Bobcats,Washington Wizards,Charlotte Bobcats,13,50,63,1362877200.0,2013
+Charlotte Bobcats,Charlotte Bobcats,Boston Celtics,14,50,64,1363129200.0,2013
+Charlotte Bobcats,Toronto Raptors,Charlotte Bobcats,14,51,65,1363388400.0,2013
+Charlotte Bobcats,Boston Celtics,Charlotte Bobcats,14,52,66,1363476600.0,2013
+Charlotte Bobcats,Charlotte Bobcats,Washington Wizards,15,52,67,1363647600.0,2013
+Charlotte Bobcats,Charlotte Bobcats,Toronto Raptors,16,52,68,1363820400.0,2013
+Charlotte Bobcats,Charlotte Bobcats,Detroit Pistons,16,53,69,1364079600.0,2013
+Charlotte Bobcats,Miami Heat,Charlotte Bobcats,16,54,70,1364162400.0,2013
+Charlotte Bobcats,Charlotte Bobcats,Orlando Magic,17,54,71,1364425200.0,2013
+Charlotte Bobcats,New York Knicks,Charlotte Bobcats,17,55,72,1364599800.0,2013
+Charlotte Bobcats,Philadelphia 76ers,Charlotte Bobcats,17,56,73,1364688000.0,2013
+Charlotte Bobcats,Milwaukee Bucks,Charlotte Bobcats,17,57,74,1364860800.0,2013
+Charlotte Bobcats,Charlotte Bobcats,Philadelphia 76ers,18,57,75,1365030000.0,2013
+Charlotte Bobcats,Charlotte Bobcats,Miami Heat,18,58,76,1365206400.0,2013
+Charlotte Bobcats,Brooklyn Nets,Charlotte Bobcats,18,59,77,1365291000.0,2013
+Charlotte Bobcats,Memphis Grizzlies,Charlotte Bobcats,18,60,78,1365552000.0,2013
+Charlotte Bobcats,Detroit Pistons,Charlotte Bobcats,18,61,79,1365809400.0,2013
+Charlotte Bobcats,Charlotte Bobcats,Milwaukee Bucks,19,61,80,1365894000.0,2013
+Charlotte Bobcats,Charlotte Bobcats,New York Knicks,20,61,81,1366066800.0,2013
+Charlotte Bobcats,Charlotte Bobcats,Cleveland Cavaliers,21,61,82,1366243200.0,2013
+Chicago Bulls,Chicago Bulls,Sacramento Kings,1,0,1,1351728000.0,2013
+Chicago Bulls,Cleveland Cavaliers,Chicago Bulls,2,0,2,1351899000.0,2013
+Chicago Bulls,Chicago Bulls,New Orleans Hornets,2,1,3,1351987200.0,2013
+Chicago Bulls,Chicago Bulls,Orlando Magic,3,1,4,1352250000.0,2013
+Chicago Bulls,Chicago Bulls,Oklahoma City Thunder,3,2,5,1352422800.0,2013
+Chicago Bulls,Chicago Bulls,Minnesota Timberwolves,4,2,6,1352595600.0,2013
+Chicago Bulls,Chicago Bulls,Boston Celtics,4,3,7,1352768400.0,2013
+Chicago Bulls,Phoenix Suns,Chicago Bulls,5,3,8,1352944800.0,2013
+Chicago Bulls,Los Angeles Clippers,Chicago Bulls,5,4,9,1353204000.0,2013
+Chicago Bulls,Portland Trail Blazers,Chicago Bulls,5,5,10,1353290400.0,2013
+Chicago Bulls,Houston Rockets,Chicago Bulls,5,6,11,1353546000.0,2013
+Chicago Bulls,Milwaukee Bucks,Chicago Bulls,6,6,12,1353808800.0,2013
+Chicago Bulls,Chicago Bulls,Milwaukee Bucks,6,7,13,1353978000.0,2013
+Chicago Bulls,Chicago Bulls,Dallas Mavericks,7,7,14,1354150800.0,2013
+Chicago Bulls,Chicago Bulls,Philadelphia 76ers,8,7,15,1354410000.0,2013
+Chicago Bulls,Chicago Bulls,Indiana Pacers,8,8,16,1354669200.0,2013
+Chicago Bulls,Cleveland Cavaliers,Chicago Bulls,9,8,17,1354755600.0,2013
+Chicago Bulls,Detroit Pistons,Chicago Bulls,10,8,18,1354926600.0,2013
+Chicago Bulls,Chicago Bulls,New York Knicks,11,8,19,1355014800.0,2013
+Chicago Bulls,Chicago Bulls,Los Angeles Clippers,11,9,20,1355279400.0,2013
+Chicago Bulls,Philadelphia 76ers,Chicago Bulls,12,9,21,1355358600.0,2013
+Chicago Bulls,Chicago Bulls,Brooklyn Nets,13,9,22,1355619600.0,2013
+Chicago Bulls,Memphis Grizzlies,Chicago Bulls,13,10,23,1355792400.0,2013
+Chicago Bulls,Chicago Bulls,Boston Celtics,14,10,24,1355878800.0,2013
+Chicago Bulls,New York Knicks,Chicago Bulls,15,10,25,1356136200.0,2013
+Chicago Bulls,Atlanta Hawks,Chicago Bulls,15,11,26,1356220800.0,2013
+Chicago Bulls,Chicago Bulls,Houston Rockets,15,12,27,1356483600.0,2013
+Chicago Bulls,Chicago Bulls,Washington Wizards,16,12,28,1356829200.0,2013
+Chicago Bulls,Chicago Bulls,Charlotte Bobcats,16,13,29,1356984000.0,2013
+Chicago Bulls,Orlando Magic,Chicago Bulls,17,13,30,1357171200.0,2013
+Chicago Bulls,Miami Heat,Chicago Bulls,18,13,31,1357347600.0,2013
+Chicago Bulls,Chicago Bulls,Cleveland Cavaliers,19,13,32,1357606800.0,2013
+Chicago Bulls,Chicago Bulls,Milwaukee Bucks,19,14,33,1357779600.0,2013
+Chicago Bulls,New York Knicks,Chicago Bulls,20,14,34,1357952400.0,2013
+Chicago Bulls,Chicago Bulls,Phoenix Suns,20,15,35,1358038800.0,2013
+Chicago Bulls,Chicago Bulls,Atlanta Hawks,21,15,36,1358211600.0,2013
+Chicago Bulls,Toronto Raptors,Chicago Bulls,22,15,37,1358380800.0,2013
+Chicago Bulls,Boston Celtics,Chicago Bulls,23,15,38,1358553600.0,2013
+Chicago Bulls,Chicago Bulls,Memphis Grizzlies,23,16,39,1358643600.0,2013
+Chicago Bulls,Chicago Bulls,Los Angeles Lakers,24,16,40,1358821800.0,2013
+Chicago Bulls,Chicago Bulls,Detroit Pistons,25,16,41,1358989200.0,2013
+Chicago Bulls,Chicago Bulls,Golden State Warriors,26,16,42,1359162000.0,2013
+Chicago Bulls,Washington Wizards,Chicago Bulls,26,17,43,1359244800.0,2013
+Chicago Bulls,Chicago Bulls,Charlotte Bobcats,27,17,44,1359421200.0,2013
+Chicago Bulls,Milwaukee Bucks,Chicago Bulls,28,17,45,1359594000.0,2013
+Chicago Bulls,Brooklyn Nets,Chicago Bulls,28,18,46,1359765000.0,2013
+Chicago Bulls,Atlanta Hawks,Chicago Bulls,29,18,47,1359849600.0,2013
+Chicago Bulls,Indiana Pacers,Chicago Bulls,29,19,48,1360022400.0,2013
+Chicago Bulls,Denver Nuggets,Chicago Bulls,29,20,49,1360294200.0,2013
+Chicago Bulls,Utah Jazz,Chicago Bulls,30,20,50,1360380600.0,2013
+Chicago Bulls,Chicago Bulls,San Antonio Spurs,30,21,51,1360630800.0,2013
+Chicago Bulls,Boston Celtics,Chicago Bulls,30,22,52,1360801800.0,2013
+Chicago Bulls,New Orleans Hornets,Chicago Bulls,31,22,53,1361322000.0,2013
+Chicago Bulls,Chicago Bulls,Miami Heat,31,23,54,1361494800.0,2013
+Chicago Bulls,Charlotte Bobcats,Chicago Bulls,32,23,55,1361577600.0,2013
+Chicago Bulls,Oklahoma City Thunder,Chicago Bulls,32,24,56,1361759400.0,2013
+Chicago Bulls,Chicago Bulls,Cleveland Cavaliers,32,25,57,1361926800.0,2013
+Chicago Bulls,Chicago Bulls,Philadelphia 76ers,33,25,58,1362099600.0,2013
+Chicago Bulls,Chicago Bulls,Brooklyn Nets,34,25,59,1362272400.0,2013
+Chicago Bulls,Indiana Pacers,Chicago Bulls,34,26,60,1362358800.0,2013
+Chicago Bulls,San Antonio Spurs,Chicago Bulls,34,27,61,1362621600.0,2013
+Chicago Bulls,Chicago Bulls,Utah Jazz,35,27,62,1362790800.0,2013
+Chicago Bulls,Los Angeles Lakers,Chicago Bulls,35,28,63,1362943800.0,2013
+Chicago Bulls,Sacramento Kings,Chicago Bulls,35,29,64,1363226400.0,2013
+Chicago Bulls,Golden State Warriors,Chicago Bulls,36,29,65,1363401000.0,2013
+Chicago Bulls,Chicago Bulls,Denver Nuggets,36,30,66,1363651200.0,2013
+Chicago Bulls,Chicago Bulls,Portland Trail Blazers,36,31,67,1363910400.0,2013
+Chicago Bulls,Chicago Bulls,Indiana Pacers,37,31,68,1364083200.0,2013
+Chicago Bulls,Minnesota Timberwolves,Chicago Bulls,38,31,69,1364166000.0,2013
+Chicago Bulls,Chicago Bulls,Miami Heat,39,31,70,1364428800.0,2013
+Chicago Bulls,Dallas Mavericks,Chicago Bulls,39,32,71,1364666400.0,2013
+Chicago Bulls,Chicago Bulls,Detroit Pistons,40,32,72,1364770800.0,2013
+Chicago Bulls,Washington Wizards,Chicago Bulls,40,33,73,1364943600.0,2013
+Chicago Bulls,Brooklyn Nets,Chicago Bulls,41,33,74,1365116400.0,2013
+Chicago Bulls,Chicago Bulls,Orlando Magic,42,33,75,1365206400.0,2013
+Chicago Bulls,Detroit Pistons,Chicago Bulls,42,34,76,1365377400.0,2013
+Chicago Bulls,Chicago Bulls,Toronto Raptors,42,35,77,1365552000.0,2013
+Chicago Bulls,Chicago Bulls,New York Knicks,43,35,78,1365724800.0,2013
+Chicago Bulls,Toronto Raptors,Chicago Bulls,43,36,79,1365807600.0,2013
+Chicago Bulls,Miami Heat,Chicago Bulls,43,37,80,1365958800.0,2013
+Chicago Bulls,Orlando Magic,Chicago Bulls,44,37,81,1366066800.0,2013
+Chicago Bulls,Chicago Bulls,Washington Wizards,45,37,82,1366243200.0,2013
+Cleveland Cavaliers,Cleveland Cavaliers,Washington Wizards,1,0,1,1351638000.0,2013
+Cleveland Cavaliers,Cleveland Cavaliers,Chicago Bulls,1,1,2,1351899000.0,2013
+Cleveland Cavaliers,Milwaukee Bucks,Cleveland Cavaliers,1,2,3,1351989000.0,2013
+Cleveland Cavaliers,Los Angeles Clippers,Cleveland Cavaliers,2,2,4,1352172600.0,2013
+Cleveland Cavaliers,Golden State Warriors,Cleveland Cavaliers,2,3,5,1352345400.0,2013
+Cleveland Cavaliers,Phoenix Suns,Cleveland Cavaliers,2,4,6,1352512800.0,2013
+Cleveland Cavaliers,Oklahoma City Thunder,Cleveland Cavaliers,2,5,7,1352678400.0,2013
+Cleveland Cavaliers,Brooklyn Nets,Cleveland Cavaliers,2,6,8,1352853000.0,2013
+Cleveland Cavaliers,Cleveland Cavaliers,Dallas Mavericks,2,7,9,1353198600.0,2013
+Cleveland Cavaliers,Philadelphia 76ers,Cleveland Cavaliers,2,8,10,1353279600.0,2013
+Cleveland Cavaliers,Cleveland Cavaliers,Philadelphia 76ers,3,8,11,1353542400.0,2013
+Cleveland Cavaliers,Orlando Magic,Cleveland Cavaliers,3,9,12,1353715200.0,2013
+Cleveland Cavaliers,Miami Heat,Cleveland Cavaliers,3,10,13,1353803400.0,2013
+Cleveland Cavaliers,Memphis Grizzlies,Cleveland Cavaliers,3,11,14,1353978000.0,2013
+Cleveland Cavaliers,Cleveland Cavaliers,Phoenix Suns,3,12,15,1354060800.0,2013
+Cleveland Cavaliers,Atlanta Hawks,Cleveland Cavaliers,4,12,16,1354321800.0,2013
+Cleveland Cavaliers,Cleveland Cavaliers,Portland Trail Blazers,4,13,17,1354408200.0,2013
+Cleveland Cavaliers,Detroit Pistons,Cleveland Cavaliers,4,14,18,1354581000.0,2013
+Cleveland Cavaliers,Cleveland Cavaliers,Chicago Bulls,4,15,19,1354755600.0,2013
+Cleveland Cavaliers,Minnesota Timberwolves,Cleveland Cavaliers,4,16,20,1354928400.0,2013
+Cleveland Cavaliers,Cleveland Cavaliers,Detroit Pistons,4,17,21,1355013000.0,2013
+Cleveland Cavaliers,Cleveland Cavaliers,Los Angeles Lakers,5,17,22,1355270400.0,2013
+Cleveland Cavaliers,Indiana Pacers,Cleveland Cavaliers,5,18,23,1355356800.0,2013
+Cleveland Cavaliers,Cleveland Cavaliers,Milwaukee Bucks,5,19,24,1355531400.0,2013
+Cleveland Cavaliers,New York Knicks,Cleveland Cavaliers,5,20,25,1355617800.0,2013
+Cleveland Cavaliers,Cleveland Cavaliers,Toronto Raptors,5,21,26,1355875200.0,2013
+Cleveland Cavaliers,Boston Celtics,Cleveland Cavaliers,5,22,27,1355963400.0,2013
+Cleveland Cavaliers,Cleveland Cavaliers,Indiana Pacers,5,23,28,1356136200.0,2013
+Cleveland Cavaliers,Milwaukee Bucks,Cleveland Cavaliers,6,23,29,1356226200.0,2013
+Cleveland Cavaliers,Washington Wizards,Cleveland Cavaliers,7,23,30,1356566400.0,2013
+Cleveland Cavaliers,Cleveland Cavaliers,Atlanta Hawks,7,24,31,1356741000.0,2013
+Cleveland Cavaliers,Brooklyn Nets,Cleveland Cavaliers,7,25,32,1356827400.0,2013
+Cleveland Cavaliers,Cleveland Cavaliers,Sacramento Kings,7,26,33,1357171200.0,2013
+Cleveland Cavaliers,Charlotte Bobcats,Cleveland Cavaliers,8,26,34,1357344000.0,2013
+Cleveland Cavaliers,Cleveland Cavaliers,Houston Rockets,8,27,35,1357432200.0,2013
+Cleveland Cavaliers,Chicago Bulls,Cleveland Cavaliers,8,28,36,1357606800.0,2013
+Cleveland Cavaliers,Cleveland Cavaliers,Atlanta Hawks,9,28,37,1357776000.0,2013
+Cleveland Cavaliers,Denver Nuggets,Cleveland Cavaliers,9,29,38,1357956000.0,2013
+Cleveland Cavaliers,Los Angeles Lakers,Cleveland Cavaliers,9,30,39,1358130600.0,2013
+Cleveland Cavaliers,Sacramento Kings,Cleveland Cavaliers,9,31,40,1358218800.0,2013
+Cleveland Cavaliers,Portland Trail Blazers,Cleveland Cavaliers,10,31,41,1358391600.0,2013
+Cleveland Cavaliers,Utah Jazz,Cleveland Cavaliers,10,32,42,1358647200.0,2013
+Cleveland Cavaliers,Cleveland Cavaliers,Boston Celtics,11,32,43,1358899200.0,2013
+Cleveland Cavaliers,Cleveland Cavaliers,Milwaukee Bucks,12,32,44,1359160200.0,2013
+Cleveland Cavaliers,Toronto Raptors,Cleveland Cavaliers,13,32,45,1359244800.0,2013
+Cleveland Cavaliers,Cleveland Cavaliers,Golden State Warriors,13,33,46,1359504000.0,2013
+Cleveland Cavaliers,Detroit Pistons,Cleveland Cavaliers,13,34,47,1359765000.0,2013
+Cleveland Cavaliers,Cleveland Cavaliers,Oklahoma City Thunder,14,34,48,1359851400.0,2013
+Cleveland Cavaliers,Cleveland Cavaliers,Charlotte Bobcats,15,34,49,1360195200.0,2013
+Cleveland Cavaliers,Cleveland Cavaliers,Orlando Magic,16,34,50,1360369800.0,2013
+Cleveland Cavaliers,Cleveland Cavaliers,Denver Nuggets,16,35,51,1360456200.0,2013
+Cleveland Cavaliers,Cleveland Cavaliers,Minnesota Timberwolves,16,36,52,1360627200.0,2013
+Cleveland Cavaliers,Cleveland Cavaliers,San Antonio Spurs,16,37,53,1360800000.0,2013
+Cleveland Cavaliers,Cleveland Cavaliers,New Orleans Hornets,17,37,54,1361408400.0,2013
+Cleveland Cavaliers,Orlando Magic,Cleveland Cavaliers,18,37,55,1361664000.0,2013
+Cleveland Cavaliers,Miami Heat,Cleveland Cavaliers,18,38,56,1361746800.0,2013
+Cleveland Cavaliers,Chicago Bulls,Cleveland Cavaliers,19,38,57,1361926800.0,2013
+Cleveland Cavaliers,Cleveland Cavaliers,Toronto Raptors,20,38,58,1362009600.0,2013
+Cleveland Cavaliers,Cleveland Cavaliers,Los Angeles Clippers,20,39,59,1362184200.0,2013
+Cleveland Cavaliers,Cleveland Cavaliers,New York Knicks,20,40,60,1362441600.0,2013
+Cleveland Cavaliers,Cleveland Cavaliers,Utah Jazz,21,40,61,1362614400.0,2013
+Cleveland Cavaliers,Cleveland Cavaliers,Memphis Grizzlies,21,41,62,1362789000.0,2013
+Cleveland Cavaliers,Toronto Raptors,Cleveland Cavaliers,21,42,63,1362952800.0,2013
+Cleveland Cavaliers,Cleveland Cavaliers,Washington Wizards,22,42,64,1363129200.0,2013
+Cleveland Cavaliers,Dallas Mavericks,Cleveland Cavaliers,22,43,65,1363393800.0,2013
+Cleveland Cavaliers,San Antonio Spurs,Cleveland Cavaliers,22,44,66,1363480200.0,2013
+Cleveland Cavaliers,Cleveland Cavaliers,Indiana Pacers,22,45,67,1363647600.0,2013
+Cleveland Cavaliers,Cleveland Cavaliers,Miami Heat,22,46,68,1363820400.0,2013
+Cleveland Cavaliers,Houston Rockets,Cleveland Cavaliers,22,47,69,1363996800.0,2013
+Cleveland Cavaliers,Cleveland Cavaliers,Boston Celtics,22,48,70,1364425200.0,2013
+Cleveland Cavaliers,Cleveland Cavaliers,Philadelphia 76ers,22,49,71,1364599800.0,2013
+Cleveland Cavaliers,New Orleans Hornets,Cleveland Cavaliers,22,50,72,1364767200.0,2013
+Cleveland Cavaliers,Atlanta Hawks,Cleveland Cavaliers,22,51,73,1364859000.0,2013
+Cleveland Cavaliers,Cleveland Cavaliers,Brooklyn Nets,22,52,74,1365030000.0,2013
+Cleveland Cavaliers,Boston Celtics,Cleveland Cavaliers,23,52,75,1365204600.0,2013
+Cleveland Cavaliers,Cleveland Cavaliers,Orlando Magic,24,52,76,1365372000.0,2013
+Cleveland Cavaliers,Indiana Pacers,Cleveland Cavaliers,24,53,77,1365548400.0,2013
+Cleveland Cavaliers,Cleveland Cavaliers,Detroit Pistons,24,54,78,1365634800.0,2013
+Cleveland Cavaliers,Cleveland Cavaliers,New York Knicks,24,55,79,1365809400.0,2013
+Cleveland Cavaliers,Philadelphia 76ers,Cleveland Cavaliers,24,56,80,1365967800.0,2013
+Cleveland Cavaliers,Cleveland Cavaliers,Miami Heat,24,57,81,1366066800.0,2013
+Cleveland Cavaliers,Charlotte Bobcats,Cleveland Cavaliers,24,58,82,1366243200.0,2013
+Dallas Mavericks,Los Angeles Lakers,Dallas Mavericks,1,0,1,1351650600.0,2013
+Dallas Mavericks,Utah Jazz,Dallas Mavericks,1,1,2,1351731600.0,2013
+Dallas Mavericks,Dallas Mavericks,Charlotte Bobcats,2,1,3,1351989000.0,2013
+Dallas Mavericks,Dallas Mavericks,Portland Trail Blazers,3,1,4,1352165400.0,2013
+Dallas Mavericks,Dallas Mavericks,Toronto Raptors,4,1,5,1352338200.0,2013
+Dallas Mavericks,New York Knicks,Dallas Mavericks,4,2,6,1352507400.0,2013
+Dallas Mavericks,Charlotte Bobcats,Dallas Mavericks,4,3,7,1352593800.0,2013
+Dallas Mavericks,Dallas Mavericks,Minnesota Timberwolves,4,4,8,1352770200.0,2013
+Dallas Mavericks,Dallas Mavericks,Washington Wizards,5,4,9,1352943000.0,2013
+Dallas Mavericks,Indiana Pacers,Dallas Mavericks,5,5,10,1353110400.0,2013
+Dallas Mavericks,Cleveland Cavaliers,Dallas Mavericks,6,5,11,1353198600.0,2013
+Dallas Mavericks,Dallas Mavericks,Golden State Warriors,6,6,12,1353375000.0,2013
+Dallas Mavericks,Dallas Mavericks,New York Knicks,7,6,13,1353547800.0,2013
+Dallas Mavericks,Dallas Mavericks,Los Angeles Lakers,7,7,14,1353807000.0,2013
+Dallas Mavericks,Philadelphia 76ers,Dallas Mavericks,7,8,15,1354060800.0,2013
+Dallas Mavericks,Chicago Bulls,Dallas Mavericks,7,9,16,1354150800.0,2013
+Dallas Mavericks,Dallas Mavericks,Detroit Pistons,8,9,17,1354413600.0,2013
+Dallas Mavericks,Los Angeles Clippers,Dallas Mavericks,8,10,18,1354764600.0,2013
+Dallas Mavericks,Phoenix Suns,Dallas Mavericks,9,10,19,1354851000.0,2013
+Dallas Mavericks,Houston Rockets,Dallas Mavericks,10,10,20,1355014800.0,2013
+Dallas Mavericks,Dallas Mavericks,Sacramento Kings,11,10,21,1355189400.0,2013
+Dallas Mavericks,Boston Celtics,Dallas Mavericks,11,11,22,1355360400.0,2013
+Dallas Mavericks,Toronto Raptors,Dallas Mavericks,11,12,23,1355529600.0,2013
+Dallas Mavericks,Minnesota Timberwolves,Dallas Mavericks,11,13,24,1355619600.0,2013
+Dallas Mavericks,Dallas Mavericks,Philadelphia 76ers,12,13,25,1355880600.0,2013
+Dallas Mavericks,Dallas Mavericks,Miami Heat,12,14,26,1356057000.0,2013
+Dallas Mavericks,Memphis Grizzlies,Dallas Mavericks,12,15,27,1356138000.0,2013
+Dallas Mavericks,San Antonio Spurs,Dallas Mavericks,12,16,28,1356307200.0,2013
+Dallas Mavericks,Oklahoma City Thunder,Dallas Mavericks,12,17,29,1356656400.0,2013
+Dallas Mavericks,Dallas Mavericks,Denver Nuggets,12,18,30,1356744600.0,2013
+Dallas Mavericks,Dallas Mavericks,San Antonio Spurs,12,19,31,1356913800.0,2013
+Dallas Mavericks,Washington Wizards,Dallas Mavericks,13,19,32,1357081200.0,2013
+Dallas Mavericks,Miami Heat,Dallas Mavericks,13,20,33,1357173000.0,2013
+Dallas Mavericks,Dallas Mavericks,New Orleans Hornets,13,21,34,1357435800.0,2013
+Dallas Mavericks,Utah Jazz,Dallas Mavericks,13,22,35,1357610400.0,2013
+Dallas Mavericks,Los Angeles Clippers,Dallas Mavericks,13,23,36,1357788600.0,2013
+Dallas Mavericks,Sacramento Kings,Dallas Mavericks,14,23,37,1357873200.0,2013
+Dallas Mavericks,Dallas Mavericks,Memphis Grizzlies,15,23,38,1358042400.0,2013
+Dallas Mavericks,Dallas Mavericks,Minnesota Timberwolves,16,23,39,1358213400.0,2013
+Dallas Mavericks,Dallas Mavericks,Houston Rockets,17,23,40,1358384400.0,2013
+Dallas Mavericks,Dallas Mavericks,Oklahoma City Thunder,17,24,41,1358562600.0,2013
+Dallas Mavericks,Orlando Magic,Dallas Mavericks,18,24,42,1358722800.0,2013
+Dallas Mavericks,Dallas Mavericks,San Antonio Spurs,18,25,43,1359162000.0,2013
+Dallas Mavericks,Dallas Mavericks,Phoenix Suns,19,25,44,1359333000.0,2013
+Dallas Mavericks,Portland Trail Blazers,Dallas Mavericks,19,26,45,1359514800.0,2013
+Dallas Mavericks,Golden State Warriors,Dallas Mavericks,19,27,46,1359689400.0,2013
+Dallas Mavericks,Phoenix Suns,Dallas Mavericks,20,27,47,1359770400.0,2013
+Dallas Mavericks,Oklahoma City Thunder,Dallas Mavericks,20,28,48,1360026000.0,2013
+Dallas Mavericks,Dallas Mavericks,Portland Trail Blazers,21,28,49,1360200600.0,2013
+Dallas Mavericks,Dallas Mavericks,Golden State Warriors,22,28,50,1360459800.0,2013
+Dallas Mavericks,Dallas Mavericks,Atlanta Hawks,22,29,51,1360632600.0,2013
+Dallas Mavericks,Dallas Mavericks,Sacramento Kings,23,29,52,1360805400.0,2013
+Dallas Mavericks,Dallas Mavericks,Orlando Magic,24,29,53,1361410200.0,2013
+Dallas Mavericks,New Orleans Hornets,Dallas Mavericks,25,29,54,1361581200.0,2013
+Dallas Mavericks,Dallas Mavericks,Los Angeles Lakers,25,30,55,1361728800.0,2013
+Dallas Mavericks,Dallas Mavericks,Milwaukee Bucks,25,31,56,1361928600.0,2013
+Dallas Mavericks,Memphis Grizzlies,Dallas Mavericks,25,32,57,1362013200.0,2013
+Dallas Mavericks,Brooklyn Nets,Dallas Mavericks,26,32,58,1362186000.0,2013
+Dallas Mavericks,Houston Rockets,Dallas Mavericks,26,33,59,1362355200.0,2013
+Dallas Mavericks,Dallas Mavericks,Houston Rockets,27,33,60,1362619800.0,2013
+Dallas Mavericks,Detroit Pistons,Dallas Mavericks,28,33,61,1362789000.0,2013
+Dallas Mavericks,Minnesota Timberwolves,Dallas Mavericks,29,33,62,1362956400.0,2013
+Dallas Mavericks,Milwaukee Bucks,Dallas Mavericks,30,33,63,1363132800.0,2013
+Dallas Mavericks,San Antonio Spurs,Dallas Mavericks,30,34,64,1363305600.0,2013
+Dallas Mavericks,Dallas Mavericks,Cleveland Cavaliers,31,34,65,1363393800.0,2013
+Dallas Mavericks,Dallas Mavericks,Oklahoma City Thunder,31,35,66,1363563000.0,2013
+Dallas Mavericks,Atlanta Hawks,Dallas Mavericks,32,35,67,1363649400.0,2013
+Dallas Mavericks,Dallas Mavericks,Brooklyn Nets,32,36,68,1363824000.0,2013
+Dallas Mavericks,Dallas Mavericks,Boston Celtics,33,36,69,1363998600.0,2013
+Dallas Mavericks,Dallas Mavericks,Utah Jazz,34,36,70,1364167800.0,2013
+Dallas Mavericks,Dallas Mavericks,Los Angeles Clippers,35,36,71,1364347800.0,2013
+Dallas Mavericks,Dallas Mavericks,Indiana Pacers,35,37,72,1364517000.0,2013
+Dallas Mavericks,Dallas Mavericks,Chicago Bulls,36,37,73,1364666400.0,2013
+Dallas Mavericks,Los Angeles Lakers,Dallas Mavericks,36,38,74,1364956200.0,2013
+Dallas Mavericks,Denver Nuggets,Dallas Mavericks,36,39,75,1365123600.0,2013
+Dallas Mavericks,Sacramento Kings,Dallas Mavericks,37,39,76,1365213600.0,2013
+Dallas Mavericks,Portland Trail Blazers,Dallas Mavericks,38,39,77,1365382800.0,2013
+Dallas Mavericks,Dallas Mavericks,Phoenix Suns,38,40,78,1365640200.0,2013
+Dallas Mavericks,Dallas Mavericks,Denver Nuggets,39,40,79,1365813000.0,2013
+Dallas Mavericks,New Orleans Hornets,Dallas Mavericks,40,40,80,1365976800.0,2013
+Dallas Mavericks,Dallas Mavericks,Memphis Grizzlies,40,41,81,1366070400.0,2013
+Dallas Mavericks,Dallas Mavericks,New Orleans Hornets,41,41,82,1366243200.0,2013
+Denver Nuggets,Philadelphia 76ers,Denver Nuggets,0,1,1,1351724400.0,2013
+Denver Nuggets,Orlando Magic,Denver Nuggets,0,2,2,1351897200.0,2013
+Denver Nuggets,Miami Heat,Denver Nuggets,0,3,3,1351985400.0,2013
+Denver Nuggets,Denver Nuggets,Detroit Pistons,1,3,4,1352253600.0,2013
+Denver Nuggets,Houston Rockets,Denver Nuggets,2,3,5,1352336400.0,2013
+Denver Nuggets,Denver Nuggets,Utah Jazz,3,3,6,1352518200.0,2013
+Denver Nuggets,Golden State Warriors,Denver Nuggets,4,3,7,1352604600.0,2013
+Denver Nuggets,Phoenix Suns,Denver Nuggets,4,4,8,1352772000.0,2013
+Denver Nuggets,Denver Nuggets,Miami Heat,4,5,9,1353036600.0,2013
+Denver Nuggets,San Antonio Spurs,Denver Nuggets,4,6,10,1353202200.0,2013
+Denver Nuggets,Memphis Grizzlies,Denver Nuggets,5,6,11,1353373200.0,2013
+Denver Nuggets,Minnesota Timberwolves,Denver Nuggets,6,6,12,1353546000.0,2013
+Denver Nuggets,Denver Nuggets,Golden State Warriors,7,6,13,1353722400.0,2013
+Denver Nuggets,Denver Nuggets,New Orleans Hornets,8,6,14,1353891600.0,2013
+Denver Nuggets,Utah Jazz,Denver Nuggets,8,7,15,1353981600.0,2013
+Denver Nuggets,Golden State Warriors,Denver Nuggets,8,8,16,1354246200.0,2013
+Denver Nuggets,Los Angeles Lakers,Denver Nuggets,8,9,17,1354332600.0,2013
+Denver Nuggets,Denver Nuggets,Toronto Raptors,9,9,18,1354586400.0,2013
+Denver Nuggets,Atlanta Hawks,Denver Nuggets,9,10,19,1354755600.0,2013
+Denver Nuggets,Indiana Pacers,Denver Nuggets,10,10,20,1354924800.0,2013
+Denver Nuggets,New York Knicks,Denver Nuggets,10,11,21,1355099400.0,2013
+Denver Nuggets,Detroit Pistons,Denver Nuggets,11,11,22,1355272200.0,2013
+Denver Nuggets,Minnesota Timberwolves,Denver Nuggets,11,12,23,1355360400.0,2013
+Denver Nuggets,Denver Nuggets,Memphis Grizzlies,12,12,24,1355542200.0,2013
+Denver Nuggets,Sacramento Kings,Denver Nuggets,13,12,25,1355698800.0,2013
+Denver Nuggets,Denver Nuggets,San Antonio Spurs,14,12,26,1355882400.0,2013
+Denver Nuggets,Portland Trail Blazers,Denver Nuggets,14,13,27,1356058800.0,2013
+Denver Nuggets,Denver Nuggets,Charlotte Bobcats,15,13,28,1356228000.0,2013
+Denver Nuggets,Los Angeles Clippers,Denver Nuggets,15,14,29,1356492600.0,2013
+Denver Nuggets,Denver Nuggets,Los Angeles Lakers,16,14,30,1356573600.0,2013
+Denver Nuggets,Dallas Mavericks,Denver Nuggets,17,14,31,1356744600.0,2013
+Denver Nuggets,Memphis Grizzlies,Denver Nuggets,17,15,32,1356829200.0,2013
+Denver Nuggets,Denver Nuggets,Los Angeles Clippers,18,15,33,1357092000.0,2013
+Denver Nuggets,Denver Nuggets,Minnesota Timberwolves,18,16,34,1357264800.0,2013
+Denver Nuggets,Denver Nuggets,Utah Jazz,19,16,35,1357437600.0,2013
+Denver Nuggets,Los Angeles Lakers,Denver Nuggets,20,16,36,1357525800.0,2013
+Denver Nuggets,Denver Nuggets,Orlando Magic,21,16,37,1357783200.0,2013
+Denver Nuggets,Denver Nuggets,Cleveland Cavaliers,22,16,38,1357956000.0,2013
+Denver Nuggets,Denver Nuggets,Golden State Warriors,23,16,39,1358125200.0,2013
+Denver Nuggets,Denver Nuggets,Portland Trail Blazers,24,16,40,1358301600.0,2013
+Denver Nuggets,Oklahoma City Thunder,Denver Nuggets,24,17,41,1358384400.0,2013
+Denver Nuggets,Denver Nuggets,Washington Wizards,24,18,42,1358560800.0,2013
+Denver Nuggets,Denver Nuggets,Oklahoma City Thunder,25,18,43,1358730000.0,2013
+Denver Nuggets,Houston Rockets,Denver Nuggets,26,18,44,1358989200.0,2013
+Denver Nuggets,Denver Nuggets,Sacramento Kings,27,18,45,1359252000.0,2013
+Denver Nuggets,Denver Nuggets,Indiana Pacers,28,18,46,1359424800.0,2013
+Denver Nuggets,Denver Nuggets,Houston Rockets,29,18,47,1359597600.0,2013
+Denver Nuggets,Denver Nuggets,New Orleans Hornets,30,18,48,1359770400.0,2013
+Denver Nuggets,Denver Nuggets,Milwaukee Bucks,31,18,49,1360116000.0,2013
+Denver Nuggets,Denver Nuggets,Chicago Bulls,32,18,50,1360294200.0,2013
+Denver Nuggets,Cleveland Cavaliers,Denver Nuggets,33,18,51,1360456200.0,2013
+Denver Nuggets,Boston Celtics,Denver Nuggets,33,19,52,1360537200.0,2013
+Denver Nuggets,Toronto Raptors,Denver Nuggets,33,20,53,1360713600.0,2013
+Denver Nuggets,Brooklyn Nets,Denver Nuggets,33,21,54,1360801800.0,2013
+Denver Nuggets,Denver Nuggets,Boston Celtics,34,21,55,1361325600.0,2013
+Denver Nuggets,Washington Wizards,Denver Nuggets,34,22,56,1361577600.0,2013
+Denver Nuggets,Charlotte Bobcats,Denver Nuggets,35,22,57,1361664000.0,2013
+Denver Nuggets,Denver Nuggets,Los Angeles Lakers,36,22,58,1361844000.0,2013
+Denver Nuggets,Portland Trail Blazers,Denver Nuggets,37,22,59,1362022200.0,2013
+Denver Nuggets,Denver Nuggets,Oklahoma City Thunder,38,22,60,1362195000.0,2013
+Denver Nuggets,Denver Nuggets,Atlanta Hawks,39,22,61,1362448800.0,2013
+Denver Nuggets,Sacramento Kings,Denver Nuggets,40,22,62,1362538800.0,2013
+Denver Nuggets,Denver Nuggets,Los Angeles Clippers,41,22,63,1362713400.0,2013
+Denver Nuggets,Denver Nuggets,Minnesota Timberwolves,42,22,64,1362880800.0,2013
+Denver Nuggets,Phoenix Suns,Denver Nuggets,43,22,65,1363053600.0,2013
+Denver Nuggets,Denver Nuggets,New York Knicks,44,22,66,1363228200.0,2013
+Denver Nuggets,Denver Nuggets,Memphis Grizzlies,45,22,67,1363395600.0,2013
+Denver Nuggets,Chicago Bulls,Denver Nuggets,46,22,68,1363651200.0,2013
+Denver Nuggets,Oklahoma City Thunder,Denver Nuggets,47,22,69,1363737600.0,2013
+Denver Nuggets,Denver Nuggets,Philadelphia 76ers,48,22,70,1363914000.0,2013
+Denver Nuggets,Denver Nuggets,Sacramento Kings,49,22,71,1364086800.0,2013
+Denver Nuggets,New Orleans Hornets,Denver Nuggets,49,23,72,1364256000.0,2013
+Denver Nuggets,San Antonio Spurs,Denver Nuggets,49,24,73,1364430600.0,2013
+Denver Nuggets,Denver Nuggets,Brooklyn Nets,50,24,74,1364605200.0,2013
+Denver Nuggets,Utah Jazz,Denver Nuggets,51,24,75,1365037200.0,2013
+Denver Nuggets,Denver Nuggets,Dallas Mavericks,52,24,76,1365123600.0,2013
+Denver Nuggets,Denver Nuggets,Houston Rockets,53,24,77,1365296400.0,2013
+Denver Nuggets,Denver Nuggets,San Antonio Spurs,54,24,78,1365647400.0,2013
+Denver Nuggets,Dallas Mavericks,Denver Nuggets,54,25,79,1365813000.0,2013
+Denver Nuggets,Denver Nuggets,Portland Trail Blazers,55,25,80,1365973200.0,2013
+Denver Nuggets,Milwaukee Bucks,Denver Nuggets,56,25,81,1366070400.0,2013
+Denver Nuggets,Denver Nuggets,Phoenix Suns,57,25,82,1366243200.0,2013
+Detroit Pistons,Detroit Pistons,Houston Rockets,0,1,1,1351726200.0,2013
+Detroit Pistons,Phoenix Suns,Detroit Pistons,0,2,2,1351908000.0,2013
+Detroit Pistons,Los Angeles Lakers,Detroit Pistons,0,3,3,1352082600.0,2013
+Detroit Pistons,Denver Nuggets,Detroit Pistons,0,4,4,1352253600.0,2013
+Detroit Pistons,Sacramento Kings,Detroit Pistons,0,5,5,1352343600.0,2013
+Detroit Pistons,Oklahoma City Thunder,Detroit Pistons,0,6,6,1352509200.0,2013
+Detroit Pistons,Houston Rockets,Detroit Pistons,0,7,7,1352595600.0,2013
+Detroit Pistons,Detroit Pistons,Oklahoma City Thunder,0,8,8,1352766600.0,2013
+Detroit Pistons,Philadelphia 76ers,Detroit Pistons,1,8,9,1352937600.0,2013
+Detroit Pistons,Detroit Pistons,Orlando Magic,1,9,10,1353112200.0,2013
+Detroit Pistons,Detroit Pistons,Boston Celtics,2,9,11,1353285000.0,2013
+Detroit Pistons,Orlando Magic,Detroit Pistons,2,10,12,1353542400.0,2013
+Detroit Pistons,Detroit Pistons,Toronto Raptors,3,10,13,1353717000.0,2013
+Detroit Pistons,New York Knicks,Detroit Pistons,3,11,14,1353866400.0,2013
+Detroit Pistons,Detroit Pistons,Portland Trail Blazers,4,11,15,1353976200.0,2013
+Detroit Pistons,Detroit Pistons,Phoenix Suns,5,11,16,1354149000.0,2013
+Detroit Pistons,Memphis Grizzlies,Detroit Pistons,5,12,17,1354323600.0,2013
+Detroit Pistons,Dallas Mavericks,Detroit Pistons,5,13,18,1354413600.0,2013
+Detroit Pistons,Detroit Pistons,Cleveland Cavaliers,6,13,19,1354581000.0,2013
+Detroit Pistons,Detroit Pistons,Golden State Warriors,6,14,20,1354753800.0,2013
+Detroit Pistons,Detroit Pistons,Chicago Bulls,6,15,21,1354926600.0,2013
+Detroit Pistons,Cleveland Cavaliers,Detroit Pistons,7,15,22,1355013000.0,2013
+Detroit Pistons,Philadelphia 76ers,Detroit Pistons,7,16,23,1355184000.0,2013
+Detroit Pistons,Detroit Pistons,Denver Nuggets,7,17,24,1355272200.0,2013
+Detroit Pistons,Brooklyn Nets,Detroit Pistons,7,18,25,1355531400.0,2013
+Detroit Pistons,Detroit Pistons,Indiana Pacers,7,19,26,1355617800.0,2013
+Detroit Pistons,Detroit Pistons,Los Angeles Clippers,7,20,27,1355790600.0,2013
+Detroit Pistons,Toronto Raptors,Detroit Pistons,7,21,28,1355961600.0,2013
+Detroit Pistons,Detroit Pistons,Washington Wizards,8,21,29,1356136200.0,2013
+Detroit Pistons,Washington Wizards,Detroit Pistons,9,21,30,1356220800.0,2013
+Detroit Pistons,Atlanta Hawks,Detroit Pistons,9,22,31,1356568200.0,2013
+Detroit Pistons,Detroit Pistons,Miami Heat,10,22,32,1356741000.0,2013
+Detroit Pistons,Detroit Pistons,Milwaukee Bucks,11,22,33,1356913800.0,2013
+Detroit Pistons,Detroit Pistons,Sacramento Kings,12,22,34,1357086600.0,2013
+Detroit Pistons,Detroit Pistons,Atlanta Hawks,13,22,35,1357345800.0,2013
+Detroit Pistons,Detroit Pistons,Charlotte Bobcats,13,23,36,1357518600.0,2013
+Detroit Pistons,Milwaukee Bucks,Detroit Pistons,14,23,37,1357954200.0,2013
+Detroit Pistons,Detroit Pistons,Utah Jazz,14,24,38,1358037000.0,2013
+Detroit Pistons,Detroit Pistons,New York Knicks,14,25,39,1358452800.0,2013
+Detroit Pistons,Detroit Pistons,Boston Celtics,15,25,40,1358728200.0,2013
+Detroit Pistons,Detroit Pistons,Orlando Magic,16,25,41,1358901000.0,2013
+Detroit Pistons,Chicago Bulls,Detroit Pistons,16,26,42,1358989200.0,2013
+Detroit Pistons,Miami Heat,Detroit Pistons,16,27,43,1359160200.0,2013
+Detroit Pistons,Orlando Magic,Detroit Pistons,17,27,44,1359327600.0,2013
+Detroit Pistons,Detroit Pistons,Milwaukee Bucks,17,28,45,1359505800.0,2013
+Detroit Pistons,Indiana Pacers,Detroit Pistons,17,29,46,1359590400.0,2013
+Detroit Pistons,Detroit Pistons,Cleveland Cavaliers,18,29,47,1359765000.0,2013
+Detroit Pistons,Detroit Pistons,Los Angeles Lakers,18,30,48,1359914400.0,2013
+Detroit Pistons,New York Knicks,Detroit Pistons,18,31,49,1360024200.0,2013
+Detroit Pistons,Detroit Pistons,Brooklyn Nets,18,32,50,1360197000.0,2013
+Detroit Pistons,Detroit Pistons,San Antonio Spurs,19,32,51,1360369800.0,2013
+Detroit Pistons,Milwaukee Bucks,Detroit Pistons,20,32,52,1360459800.0,2013
+Detroit Pistons,Detroit Pistons,New Orleans Hornets,20,33,53,1360629000.0,2013
+Detroit Pistons,Detroit Pistons,Washington Wizards,21,33,54,1360801800.0,2013
+Detroit Pistons,Detroit Pistons,Memphis Grizzlies,21,34,55,1361320200.0,2013
+Detroit Pistons,Charlotte Bobcats,Detroit Pistons,22,34,56,1361404800.0,2013
+Detroit Pistons,Indiana Pacers,Detroit Pistons,22,35,57,1361577600.0,2013
+Detroit Pistons,Detroit Pistons,Indiana Pacers,22,36,58,1361665800.0,2013
+Detroit Pistons,Detroit Pistons,Atlanta Hawks,22,37,59,1361838600.0,2013
+Detroit Pistons,Washington Wizards,Detroit Pistons,23,37,60,1362009600.0,2013
+Detroit Pistons,New Orleans Hornets,Detroit Pistons,23,38,61,1362186000.0,2013
+Detroit Pistons,San Antonio Spurs,Detroit Pistons,23,39,62,1362355200.0,2013
+Detroit Pistons,Detroit Pistons,New York Knicks,23,40,63,1362616200.0,2013
+Detroit Pistons,Detroit Pistons,Dallas Mavericks,23,41,64,1362789000.0,2013
+Detroit Pistons,Los Angeles Clippers,Detroit Pistons,23,42,65,1362965400.0,2013
+Detroit Pistons,Utah Jazz,Detroit Pistons,23,43,66,1363050000.0,2013
+Detroit Pistons,Golden State Warriors,Detroit Pistons,23,44,67,1363228200.0,2013
+Detroit Pistons,Portland Trail Blazers,Detroit Pistons,23,45,68,1363485600.0,2013
+Detroit Pistons,Detroit Pistons,Brooklyn Nets,23,46,69,1363649400.0,2013
+Detroit Pistons,Miami Heat,Detroit Pistons,23,47,70,1363995000.0,2013
+Detroit Pistons,Charlotte Bobcats,Detroit Pistons,24,47,71,1364079600.0,2013
+Detroit Pistons,Detroit Pistons,Minnesota Timberwolves,24,48,72,1364340600.0,2013
+Detroit Pistons,Detroit Pistons,Toronto Raptors,24,49,73,1364599800.0,2013
+Detroit Pistons,Chicago Bulls,Detroit Pistons,24,50,74,1364770800.0,2013
+Detroit Pistons,Toronto Raptors,Detroit Pistons,25,50,75,1364857200.0,2013
+Detroit Pistons,Boston Celtics,Detroit Pistons,25,51,76,1365031800.0,2013
+Detroit Pistons,Minnesota Timberwolves,Detroit Pistons,25,52,77,1365292800.0,2013
+Detroit Pistons,Detroit Pistons,Chicago Bulls,26,52,78,1365377400.0,2013
+Detroit Pistons,Cleveland Cavaliers,Detroit Pistons,27,52,79,1365634800.0,2013
+Detroit Pistons,Detroit Pistons,Charlotte Bobcats,28,52,80,1365809400.0,2013
+Detroit Pistons,Detroit Pistons,Philadelphia 76ers,29,52,81,1366068600.0,2013
+Detroit Pistons,Brooklyn Nets,Detroit Pistons,29,53,82,1366243200.0,2013
+Golden State Warriors,Phoenix Suns,Golden State Warriors,1,0,1,1351735200.0,2013
+Golden State Warriors,Golden State Warriors,Memphis Grizzlies,1,1,2,1351909800.0,2013
+Golden State Warriors,Los Angeles Clippers,Golden State Warriors,2,1,3,1351996200.0,2013
+Golden State Warriors,Sacramento Kings,Golden State Warriors,2,2,4,1352170800.0,2013
+Golden State Warriors,Golden State Warriors,Cleveland Cavaliers,3,2,5,1352345400.0,2013
+Golden State Warriors,Los Angeles Lakers,Golden State Warriors,3,3,6,1352518200.0,2013
+Golden State Warriors,Golden State Warriors,Denver Nuggets,3,4,7,1352604600.0,2013
+Golden State Warriors,Golden State Warriors,Atlanta Hawks,4,4,8,1352950200.0,2013
+Golden State Warriors,Minnesota Timberwolves,Golden State Warriors,5,4,9,1353114000.0,2013
+Golden State Warriors,Oklahoma City Thunder,Golden State Warriors,5,5,10,1353283200.0,2013
+Golden State Warriors,Dallas Mavericks,Golden State Warriors,6,5,11,1353375000.0,2013
+Golden State Warriors,Golden State Warriors,Brooklyn Nets,7,5,12,1353555000.0,2013
+Golden State Warriors,Denver Nuggets,Golden State Warriors,7,6,13,1353722400.0,2013
+Golden State Warriors,Golden State Warriors,Minnesota Timberwolves,8,6,14,1353814200.0,2013
+Golden State Warriors,Golden State Warriors,Denver Nuggets,9,6,15,1354246200.0,2013
+Golden State Warriors,Golden State Warriors,Indiana Pacers,10,6,16,1354419000.0,2013
+Golden State Warriors,Golden State Warriors,Orlando Magic,10,7,17,1354591800.0,2013
+Golden State Warriors,Detroit Pistons,Golden State Warriors,11,7,18,1354753800.0,2013
+Golden State Warriors,Brooklyn Nets,Golden State Warriors,12,7,19,1354926600.0,2013
+Golden State Warriors,Washington Wizards,Golden State Warriors,13,7,20,1355011200.0,2013
+Golden State Warriors,Charlotte Bobcats,Golden State Warriors,14,7,21,1355184000.0,2013
+Golden State Warriors,Miami Heat,Golden State Warriors,15,7,22,1355358600.0,2013
+Golden State Warriors,Orlando Magic,Golden State Warriors,15,8,23,1355529600.0,2013
+Golden State Warriors,Atlanta Hawks,Golden State Warriors,16,8,24,1355616000.0,2013
+Golden State Warriors,Golden State Warriors,New Orleans Hornets,17,8,25,1355887800.0,2013
+Golden State Warriors,Sacramento Kings,Golden State Warriors,17,9,26,1355972400.0,2013
+Golden State Warriors,Golden State Warriors,Charlotte Bobcats,18,9,27,1356147000.0,2013
+Golden State Warriors,Golden State Warriors,Los Angeles Lakers,18,10,28,1356233400.0,2013
+Golden State Warriors,Utah Jazz,Golden State Warriors,19,10,29,1356573600.0,2013
+Golden State Warriors,Golden State Warriors,Philadelphia 76ers,20,10,30,1356751800.0,2013
+Golden State Warriors,Golden State Warriors,Boston Celtics,21,10,31,1356838200.0,2013
+Golden State Warriors,Golden State Warriors,Los Angeles Clippers,22,10,32,1357183800.0,2013
+Golden State Warriors,Los Angeles Clippers,Golden State Warriors,22,11,33,1357443000.0,2013
+Golden State Warriors,Golden State Warriors,Memphis Grizzlies,22,12,34,1357788600.0,2013
+Golden State Warriors,Golden State Warriors,Portland Trail Blazers,23,12,35,1357961400.0,2013
+Golden State Warriors,Denver Nuggets,Golden State Warriors,23,13,36,1358125200.0,2013
+Golden State Warriors,Golden State Warriors,Miami Heat,23,14,37,1358393400.0,2013
+Golden State Warriors,San Antonio Spurs,Golden State Warriors,23,15,38,1358559000.0,2013
+Golden State Warriors,New Orleans Hornets,Golden State Warriors,24,15,39,1358643600.0,2013
+Golden State Warriors,Golden State Warriors,Los Angeles Clippers,25,15,40,1358802000.0,2013
+Golden State Warriors,Golden State Warriors,Oklahoma City Thunder,26,15,41,1358998200.0,2013
+Golden State Warriors,Chicago Bulls,Golden State Warriors,26,16,42,1359162000.0,2013
+Golden State Warriors,Milwaukee Bucks,Golden State Warriors,26,17,43,1359250200.0,2013
+Golden State Warriors,Toronto Raptors,Golden State Warriors,27,17,44,1359417600.0,2013
+Golden State Warriors,Cleveland Cavaliers,Golden State Warriors,28,17,45,1359504000.0,2013
+Golden State Warriors,Golden State Warriors,Dallas Mavericks,29,17,46,1359689400.0,2013
+Golden State Warriors,Golden State Warriors,Phoenix Suns,30,17,47,1359862200.0,2013
+Golden State Warriors,Houston Rockets,Golden State Warriors,30,18,48,1360112400.0,2013
+Golden State Warriors,Oklahoma City Thunder,Golden State Warriors,30,19,49,1360198800.0,2013
+Golden State Warriors,Memphis Grizzlies,Golden State Warriors,30,20,50,1360371600.0,2013
+Golden State Warriors,Dallas Mavericks,Golden State Warriors,30,21,51,1360459800.0,2013
+Golden State Warriors,Golden State Warriors,Houston Rockets,30,22,52,1360726200.0,2013
+Golden State Warriors,Utah Jazz,Golden State Warriors,30,23,53,1361325600.0,2013
+Golden State Warriors,Golden State Warriors,Phoenix Suns,31,23,54,1361417400.0,2013
+Golden State Warriors,Golden State Warriors,San Antonio Spurs,32,23,55,1361590200.0,2013
+Golden State Warriors,Minnesota Timberwolves,Golden State Warriors,33,23,56,1361737800.0,2013
+Golden State Warriors,Indiana Pacers,Golden State Warriors,33,24,57,1361923200.0,2013
+Golden State Warriors,New York Knicks,Golden State Warriors,33,25,58,1362013200.0,2013
+Golden State Warriors,Boston Celtics,Golden State Warriors,33,26,59,1362184200.0,2013
+Golden State Warriors,Philadelphia 76ers,Golden State Warriors,33,27,60,1362268800.0,2013
+Golden State Warriors,Golden State Warriors,Toronto Raptors,34,27,61,1362454200.0,2013
+Golden State Warriors,Golden State Warriors,Sacramento Kings,35,27,62,1362627000.0,2013
+Golden State Warriors,Golden State Warriors,Houston Rockets,35,28,63,1362799800.0,2013
+Golden State Warriors,Golden State Warriors,Milwaukee Bucks,35,29,64,1362886200.0,2013
+Golden State Warriors,Golden State Warriors,New York Knicks,36,29,65,1363055400.0,2013
+Golden State Warriors,Golden State Warriors,Detroit Pistons,37,29,66,1363228200.0,2013
+Golden State Warriors,Golden State Warriors,Chicago Bulls,37,30,67,1363401000.0,2013
+Golden State Warriors,Houston Rockets,Golden State Warriors,38,30,68,1363561200.0,2013
+Golden State Warriors,New Orleans Hornets,Golden State Warriors,39,30,69,1363651200.0,2013
+Golden State Warriors,San Antonio Spurs,Golden State Warriors,39,31,70,1363825800.0,2013
+Golden State Warriors,Golden State Warriors,Washington Wizards,40,31,71,1364092200.0,2013
+Golden State Warriors,Golden State Warriors,Los Angeles Lakers,41,31,72,1364265000.0,2013
+Golden State Warriors,Golden State Warriors,Sacramento Kings,41,32,73,1364437800.0,2013
+Golden State Warriors,Golden State Warriors,Portland Trail Blazers,42,32,74,1364697000.0,2013
+Golden State Warriors,Golden State Warriors,New Orleans Hornets,43,32,75,1365042600.0,2013
+Golden State Warriors,Phoenix Suns,Golden State Warriors,44,32,76,1365213600.0,2013
+Golden State Warriors,Golden State Warriors,Utah Jazz,44,33,77,1365379200.0,2013
+Golden State Warriors,Golden State Warriors,Minnesota Timberwolves,45,33,78,1365561000.0,2013
+Golden State Warriors,Golden State Warriors,Oklahoma City Thunder,45,34,79,1365733800.0,2013
+Golden State Warriors,Los Angeles Lakers,Golden State Warriors,45,35,80,1365820200.0,2013
+Golden State Warriors,Golden State Warriors,San Antonio Spurs,46,35,81,1366079400.0,2013
+Golden State Warriors,Portland Trail Blazers,Golden State Warriors,47,35,82,1366252200.0,2013
+Houston Rockets,Detroit Pistons,Houston Rockets,1,0,1,1351726200.0,2013
+Houston Rockets,Atlanta Hawks,Houston Rockets,2,0,2,1351899000.0,2013
+Houston Rockets,Houston Rockets,Portland Trail Blazers,2,1,3,1351987200.0,2013
+Houston Rockets,Houston Rockets,Denver Nuggets,2,2,4,1352336400.0,2013
+Houston Rockets,Memphis Grizzlies,Houston Rockets,2,3,5,1352509200.0,2013
+Houston Rockets,Houston Rockets,Detroit Pistons,3,3,6,1352595600.0,2013
+Houston Rockets,Houston Rockets,Miami Heat,3,4,7,1352768400.0,2013
+Houston Rockets,Houston Rockets,New Orleans Hornets,4,4,8,1352941200.0,2013
+Houston Rockets,Portland Trail Blazers,Houston Rockets,4,5,9,1353121200.0,2013
+Houston Rockets,Los Angeles Lakers,Houston Rockets,4,6,10,1353292200.0,2013
+Houston Rockets,Utah Jazz,Houston Rockets,4,7,11,1353376800.0,2013
+Houston Rockets,Houston Rockets,Chicago Bulls,5,7,12,1353546000.0,2013
+Houston Rockets,Houston Rockets,New York Knicks,6,7,13,1353718800.0,2013
+Houston Rockets,Houston Rockets,Toronto Raptors,7,7,14,1354064400.0,2013
+Houston Rockets,Oklahoma City Thunder,Houston Rockets,7,8,15,1354150800.0,2013
+Houston Rockets,Houston Rockets,Utah Jazz,8,8,16,1354410000.0,2013
+Houston Rockets,Houston Rockets,Los Angeles Lakers,9,8,17,1354669200.0,2013
+Houston Rockets,San Antonio Spurs,Houston Rockets,9,9,18,1354930200.0,2013
+Houston Rockets,Houston Rockets,Dallas Mavericks,9,10,19,1355014800.0,2013
+Houston Rockets,Houston Rockets,San Antonio Spurs,9,11,20,1355187600.0,2013
+Houston Rockets,Houston Rockets,Washington Wizards,10,11,21,1355360400.0,2013
+Houston Rockets,Houston Rockets,Boston Celtics,11,11,22,1355533200.0,2013
+Houston Rockets,Toronto Raptors,Houston Rockets,11,12,23,1355680800.0,2013
+Houston Rockets,New York Knicks,Houston Rockets,12,12,24,1355790600.0,2013
+Houston Rockets,Houston Rockets,Philadelphia 76ers,13,12,25,1355965200.0,2013
+Houston Rockets,Houston Rockets,Memphis Grizzlies,14,12,26,1356224400.0,2013
+Houston Rockets,Chicago Bulls,Houston Rockets,15,12,27,1356483600.0,2013
+Houston Rockets,Minnesota Timberwolves,Houston Rockets,16,12,28,1356570000.0,2013
+Houston Rockets,San Antonio Spurs,Houston Rockets,16,13,29,1356744600.0,2013
+Houston Rockets,Houston Rockets,Oklahoma City Thunder,16,14,30,1356829200.0,2013
+Houston Rockets,Houston Rockets,Atlanta Hawks,17,14,31,1356998400.0,2013
+Houston Rockets,Houston Rockets,New Orleans Hornets,18,14,32,1357174800.0,2013
+Houston Rockets,Milwaukee Bucks,Houston Rockets,19,14,33,1357349400.0,2013
+Houston Rockets,Cleveland Cavaliers,Houston Rockets,20,14,34,1357432200.0,2013
+Houston Rockets,Houston Rockets,Los Angeles Lakers,21,14,35,1357693200.0,2013
+Houston Rockets,New Orleans Hornets,Houston Rockets,21,15,36,1357779600.0,2013
+Houston Rockets,Boston Celtics,Houston Rockets,21,16,37,1357950600.0,2013
+Houston Rockets,Philadelphia 76ers,Houston Rockets,21,17,38,1358037000.0,2013
+Houston Rockets,Houston Rockets,Los Angeles Clippers,21,18,39,1358298000.0,2013
+Houston Rockets,Dallas Mavericks,Houston Rockets,21,19,40,1358384400.0,2013
+Houston Rockets,Indiana Pacers,Houston Rockets,21,20,41,1358553600.0,2013
+Houston Rockets,Minnesota Timberwolves,Houston Rockets,21,21,42,1358643600.0,2013
+Houston Rockets,Charlotte Bobcats,Houston Rockets,22,21,43,1358794800.0,2013
+Houston Rockets,Houston Rockets,Denver Nuggets,22,22,44,1358989200.0,2013
+Houston Rockets,New Orleans Hornets,Houston Rockets,23,22,45,1359162000.0,2013
+Houston Rockets,Houston Rockets,Brooklyn Nets,24,22,46,1359248400.0,2013
+Houston Rockets,Utah Jazz,Houston Rockets,25,22,47,1359424800.0,2013
+Houston Rockets,Denver Nuggets,Houston Rockets,25,23,48,1359597600.0,2013
+Houston Rockets,Houston Rockets,Charlotte Bobcats,26,23,49,1359853200.0,2013
+Houston Rockets,Houston Rockets,Golden State Warriors,27,23,50,1360112400.0,2013
+Houston Rockets,Miami Heat,Houston Rockets,27,24,51,1360197000.0,2013
+Houston Rockets,Houston Rockets,Portland Trail Blazers,28,24,52,1360371600.0,2013
+Houston Rockets,Sacramento Kings,Houston Rockets,28,25,53,1360548000.0,2013
+Houston Rockets,Golden State Warriors,Houston Rockets,29,25,54,1360726200.0,2013
+Houston Rockets,Los Angeles Clippers,Houston Rockets,29,26,55,1360812600.0,2013
+Houston Rockets,Houston Rockets,Oklahoma City Thunder,30,26,56,1361408400.0,2013
+Houston Rockets,Brooklyn Nets,Houston Rockets,31,26,57,1361579400.0,2013
+Houston Rockets,Washington Wizards,Houston Rockets,31,27,58,1361664000.0,2013
+Houston Rockets,Houston Rockets,Milwaukee Bucks,31,28,59,1362013200.0,2013
+Houston Rockets,Orlando Magic,Houston Rockets,32,28,60,1362182400.0,2013
+Houston Rockets,Houston Rockets,Dallas Mavericks,33,28,61,1362355200.0,2013
+Houston Rockets,Dallas Mavericks,Houston Rockets,33,29,62,1362619800.0,2013
+Houston Rockets,Golden State Warriors,Houston Rockets,34,29,63,1362799800.0,2013
+Houston Rockets,Phoenix Suns,Houston Rockets,34,30,64,1362880800.0,2013
+Houston Rockets,Houston Rockets,Phoenix Suns,35,30,65,1363219200.0,2013
+Houston Rockets,Houston Rockets,Minnesota Timberwolves,36,30,66,1363392000.0,2013
+Houston Rockets,Houston Rockets,Golden State Warriors,36,31,67,1363561200.0,2013
+Houston Rockets,Houston Rockets,Utah Jazz,37,31,68,1363824000.0,2013
+Houston Rockets,Houston Rockets,Cleveland Cavaliers,38,31,69,1363996800.0,2013
+Houston Rockets,Houston Rockets,San Antonio Spurs,39,31,70,1364166000.0,2013
+Houston Rockets,Houston Rockets,Indiana Pacers,39,32,71,1364428800.0,2013
+Houston Rockets,Memphis Grizzlies,Houston Rockets,39,33,72,1364601600.0,2013
+Houston Rockets,Houston Rockets,Los Angeles Clippers,40,33,73,1364688000.0,2013
+Houston Rockets,Houston Rockets,Orlando Magic,41,33,74,1364860800.0,2013
+Houston Rockets,Sacramento Kings,Houston Rockets,42,33,75,1365040800.0,2013
+Houston Rockets,Portland Trail Blazers,Houston Rockets,43,33,76,1365215400.0,2013
+Houston Rockets,Denver Nuggets,Houston Rockets,43,34,77,1365296400.0,2013
+Houston Rockets,Houston Rockets,Phoenix Suns,44,34,78,1365552000.0,2013
+Houston Rockets,Houston Rockets,Memphis Grizzlies,44,35,79,1365811200.0,2013
+Houston Rockets,Houston Rockets,Sacramento Kings,45,35,80,1365980400.0,2013
+Houston Rockets,Phoenix Suns,Houston Rockets,45,36,81,1366077600.0,2013
+Houston Rockets,Los Angeles Lakers,Houston Rockets,45,37,82,1366252200.0,2013
+Indiana Pacers,Toronto Raptors,Indiana Pacers,1,0,1,1351724400.0,2013
+Indiana Pacers,Charlotte Bobcats,Indiana Pacers,1,1,2,1351897200.0,2013
+Indiana Pacers,Indiana Pacers,Sacramento Kings,2,1,3,1351983600.0,2013
+Indiana Pacers,San Antonio Spurs,Indiana Pacers,2,2,4,1352165400.0,2013
+Indiana Pacers,Atlanta Hawks,Indiana Pacers,2,3,5,1352334600.0,2013
+Indiana Pacers,Minnesota Timberwolves,Indiana Pacers,2,4,6,1352509200.0,2013
+Indiana Pacers,Indiana Pacers,Washington Wizards,3,4,7,1352592000.0,2013
+Indiana Pacers,Indiana Pacers,Toronto Raptors,3,5,8,1352851200.0,2013
+Indiana Pacers,Milwaukee Bucks,Indiana Pacers,3,6,9,1352941200.0,2013
+Indiana Pacers,Indiana Pacers,Dallas Mavericks,4,6,10,1353110400.0,2013
+Indiana Pacers,New York Knicks,Indiana Pacers,4,7,11,1353258000.0,2013
+Indiana Pacers,Washington Wizards,Indiana Pacers,5,7,12,1353369600.0,2013
+Indiana Pacers,Indiana Pacers,New Orleans Hornets,6,7,13,1353542400.0,2013
+Indiana Pacers,Indiana Pacers,San Antonio Spurs,6,8,14,1353718800.0,2013
+Indiana Pacers,Los Angeles Lakers,Indiana Pacers,7,8,15,1354073400.0,2013
+Indiana Pacers,Sacramento Kings,Indiana Pacers,8,8,16,1354330800.0,2013
+Indiana Pacers,Golden State Warriors,Indiana Pacers,8,9,17,1354419000.0,2013
+Indiana Pacers,Chicago Bulls,Indiana Pacers,9,9,18,1354669200.0,2013
+Indiana Pacers,Indiana Pacers,Portland Trail Blazers,10,9,19,1354752000.0,2013
+Indiana Pacers,Indiana Pacers,Denver Nuggets,10,10,20,1354924800.0,2013
+Indiana Pacers,Oklahoma City Thunder,Indiana Pacers,10,11,21,1355097600.0,2013
+Indiana Pacers,Indiana Pacers,Cleveland Cavaliers,11,11,22,1355356800.0,2013
+Indiana Pacers,Indiana Pacers,Philadelphia 76ers,12,11,23,1355529600.0,2013
+Indiana Pacers,Detroit Pistons,Indiana Pacers,13,11,24,1355617800.0,2013
+Indiana Pacers,Milwaukee Bucks,Indiana Pacers,13,12,25,1355878800.0,2013
+Indiana Pacers,Indiana Pacers,Utah Jazz,14,12,26,1355961600.0,2013
+Indiana Pacers,Cleveland Cavaliers,Indiana Pacers,15,12,27,1356136200.0,2013
+Indiana Pacers,New Orleans Hornets,Indiana Pacers,16,12,28,1356224400.0,2013
+Indiana Pacers,Indiana Pacers,Phoenix Suns,17,12,29,1356739200.0,2013
+Indiana Pacers,Atlanta Hawks,Indiana Pacers,17,13,30,1356825600.0,2013
+Indiana Pacers,Indiana Pacers,Memphis Grizzlies,18,13,31,1356984000.0,2013
+Indiana Pacers,Indiana Pacers,Washington Wizards,19,13,32,1357171200.0,2013
+Indiana Pacers,Boston Celtics,Indiana Pacers,19,14,33,1357347600.0,2013
+Indiana Pacers,Indiana Pacers,Milwaukee Bucks,20,14,34,1357430400.0,2013
+Indiana Pacers,Indiana Pacers,Miami Heat,21,14,35,1357689600.0,2013
+Indiana Pacers,Indiana Pacers,New York Knicks,22,14,36,1357866000.0,2013
+Indiana Pacers,Indiana Pacers,Charlotte Bobcats,23,14,37,1358035200.0,2013
+Indiana Pacers,Brooklyn Nets,Indiana Pacers,23,15,38,1358118000.0,2013
+Indiana Pacers,Charlotte Bobcats,Indiana Pacers,24,15,39,1358294400.0,2013
+Indiana Pacers,Orlando Magic,Indiana Pacers,24,16,40,1358380800.0,2013
+Indiana Pacers,Indiana Pacers,Houston Rockets,25,16,41,1358553600.0,2013
+Indiana Pacers,Memphis Grizzlies,Indiana Pacers,26,16,42,1358791200.0,2013
+Indiana Pacers,Portland Trail Blazers,Indiana Pacers,26,17,43,1358996400.0,2013
+Indiana Pacers,Utah Jazz,Indiana Pacers,26,18,44,1359253800.0,2013
+Indiana Pacers,Denver Nuggets,Indiana Pacers,26,19,45,1359424800.0,2013
+Indiana Pacers,Indiana Pacers,Detroit Pistons,27,19,46,1359590400.0,2013
+Indiana Pacers,Indiana Pacers,Miami Heat,28,19,47,1359763200.0,2013
+Indiana Pacers,Indiana Pacers,Chicago Bulls,29,19,48,1360022400.0,2013
+Indiana Pacers,Indiana Pacers,Atlanta Hawks,30,19,49,1360108800.0,2013
+Indiana Pacers,Philadelphia 76ers,Indiana Pacers,31,19,50,1360195200.0,2013
+Indiana Pacers,Indiana Pacers,Toronto Raptors,31,20,51,1360368000.0,2013
+Indiana Pacers,Indiana Pacers,Brooklyn Nets,31,21,52,1360627200.0,2013
+Indiana Pacers,Indiana Pacers,Charlotte Bobcats,32,21,53,1360800000.0,2013
+Indiana Pacers,Indiana Pacers,New York Knicks,33,21,54,1361404800.0,2013
+Indiana Pacers,Indiana Pacers,Detroit Pistons,34,21,55,1361577600.0,2013
+Indiana Pacers,Detroit Pistons,Indiana Pacers,35,21,56,1361665800.0,2013
+Indiana Pacers,Indiana Pacers,Golden State Warriors,36,21,57,1361923200.0,2013
+Indiana Pacers,Indiana Pacers,Los Angeles Clippers,36,22,58,1362096000.0,2013
+Indiana Pacers,Toronto Raptors,Indiana Pacers,37,22,59,1362182400.0,2013
+Indiana Pacers,Indiana Pacers,Chicago Bulls,38,22,60,1362358800.0,2013
+Indiana Pacers,Indiana Pacers,Boston Celtics,38,23,61,1362614400.0,2013
+Indiana Pacers,Orlando Magic,Indiana Pacers,39,23,62,1362787200.0,2013
+Indiana Pacers,Miami Heat,Indiana Pacers,39,24,63,1362952800.0,2013
+Indiana Pacers,Indiana Pacers,Minnesota Timberwolves,40,24,64,1363215600.0,2013
+Indiana Pacers,Indiana Pacers,Los Angeles Lakers,40,25,65,1363388400.0,2013
+Indiana Pacers,Philadelphia 76ers,Indiana Pacers,40,26,66,1363476600.0,2013
+Indiana Pacers,Cleveland Cavaliers,Indiana Pacers,41,26,67,1363647600.0,2013
+Indiana Pacers,Indiana Pacers,Orlando Magic,42,26,68,1363734000.0,2013
+Indiana Pacers,Indiana Pacers,Milwaukee Bucks,43,26,69,1363993200.0,2013
+Indiana Pacers,Chicago Bulls,Indiana Pacers,43,27,70,1364083200.0,2013
+Indiana Pacers,Indiana Pacers,Atlanta Hawks,44,27,71,1364252400.0,2013
+Indiana Pacers,Houston Rockets,Indiana Pacers,45,27,72,1364428800.0,2013
+Indiana Pacers,Dallas Mavericks,Indiana Pacers,46,27,73,1364517000.0,2013
+Indiana Pacers,Phoenix Suns,Indiana Pacers,47,27,74,1364695200.0,2013
+Indiana Pacers,Los Angeles Clippers,Indiana Pacers,48,27,75,1364869800.0,2013
+Indiana Pacers,Indiana Pacers,Oklahoma City Thunder,48,28,76,1365206400.0,2013
+Indiana Pacers,Washington Wizards,Indiana Pacers,48,29,77,1365289200.0,2013
+Indiana Pacers,Indiana Pacers,Cleveland Cavaliers,49,29,78,1365548400.0,2013
+Indiana Pacers,Indiana Pacers,Brooklyn Nets,49,30,79,1365807600.0,2013
+Indiana Pacers,New York Knicks,Indiana Pacers,49,31,80,1365967800.0,2013
+Indiana Pacers,Indiana Pacers,Philadelphia 76ers,49,32,81,1366243200.0,2013
+Los Angeles Clippers,Los Angeles Clippers,Memphis Grizzlies,1,0,1,1351737000.0,2013
+Los Angeles Clippers,Los Angeles Lakers,Los Angeles Clippers,2,0,2,1351909800.0,2013
+Los Angeles Clippers,Los Angeles Clippers,Golden State Warriors,2,1,3,1351996200.0,2013
+Los Angeles Clippers,Los Angeles Clippers,Cleveland Cavaliers,2,2,4,1352172600.0,2013
+Los Angeles Clippers,Los Angeles Clippers,San Antonio Spurs,3,2,5,1352345400.0,2013
+Los Angeles Clippers,Portland Trail Blazers,Los Angeles Clippers,4,2,6,1352431800.0,2013
+Los Angeles Clippers,Los Angeles Clippers,Atlanta Hawks,5,2,7,1352665800.0,2013
+Los Angeles Clippers,Los Angeles Clippers,Miami Heat,6,2,8,1352950200.0,2013
+Los Angeles Clippers,Los Angeles Clippers,Chicago Bulls,7,2,9,1353204000.0,2013
+Los Angeles Clippers,San Antonio Spurs,Los Angeles Clippers,8,2,10,1353375000.0,2013
+Los Angeles Clippers,Oklahoma City Thunder,Los Angeles Clippers,8,3,11,1353544200.0,2013
+Los Angeles Clippers,Brooklyn Nets,Los Angeles Clippers,8,4,12,1353717000.0,2013
+Los Angeles Clippers,Atlanta Hawks,Los Angeles Clippers,8,5,13,1353801600.0,2013
+Los Angeles Clippers,Los Angeles Clippers,New Orleans Hornets,8,6,14,1353987000.0,2013
+Los Angeles Clippers,Los Angeles Clippers,Minnesota Timberwolves,9,6,15,1354159800.0,2013
+Los Angeles Clippers,Los Angeles Clippers,Sacramento Kings,10,6,16,1354419000.0,2013
+Los Angeles Clippers,Utah Jazz,Los Angeles Clippers,11,6,17,1354586400.0,2013
+Los Angeles Clippers,Los Angeles Clippers,Dallas Mavericks,12,6,18,1354764600.0,2013
+Los Angeles Clippers,Los Angeles Clippers,Phoenix Suns,13,6,19,1354998600.0,2013
+Los Angeles Clippers,Los Angeles Clippers,Toronto Raptors,14,6,20,1355085000.0,2013
+Los Angeles Clippers,Chicago Bulls,Los Angeles Clippers,15,6,21,1355279400.0,2013
+Los Angeles Clippers,Charlotte Bobcats,Los Angeles Clippers,16,6,22,1355358600.0,2013
+Los Angeles Clippers,Milwaukee Bucks,Los Angeles Clippers,17,6,23,1355621400.0,2013
+Los Angeles Clippers,Detroit Pistons,Los Angeles Clippers,18,6,24,1355790600.0,2013
+Los Angeles Clippers,Los Angeles Clippers,New Orleans Hornets,19,6,25,1355974200.0,2013
+Los Angeles Clippers,Los Angeles Clippers,Sacramento Kings,20,6,26,1356147000.0,2013
+Los Angeles Clippers,Phoenix Suns,Los Angeles Clippers,21,6,27,1356310800.0,2013
+Los Angeles Clippers,Los Angeles Clippers,Denver Nuggets,22,6,28,1356492600.0,2013
+Los Angeles Clippers,Los Angeles Clippers,Boston Celtics,23,6,29,1356665400.0,2013
+Los Angeles Clippers,Utah Jazz,Los Angeles Clippers,24,6,30,1356746400.0,2013
+Los Angeles Clippers,Los Angeles Clippers,Utah Jazz,25,6,31,1356921000.0,2013
+Los Angeles Clippers,Denver Nuggets,Los Angeles Clippers,25,7,32,1357092000.0,2013
+Los Angeles Clippers,Golden State Warriors,Los Angeles Clippers,25,8,33,1357183800.0,2013
+Los Angeles Clippers,Los Angeles Clippers,Los Angeles Lakers,26,8,34,1357356600.0,2013
+Los Angeles Clippers,Los Angeles Clippers,Golden State Warriors,27,8,35,1357443000.0,2013
+Los Angeles Clippers,Los Angeles Clippers,Dallas Mavericks,28,8,36,1357788600.0,2013
+Los Angeles Clippers,Los Angeles Clippers,Orlando Magic,28,9,37,1358022600.0,2013
+Los Angeles Clippers,Memphis Grizzlies,Los Angeles Clippers,29,9,38,1358211600.0,2013
+Los Angeles Clippers,Houston Rockets,Los Angeles Clippers,30,9,39,1358298000.0,2013
+Los Angeles Clippers,Minnesota Timberwolves,Los Angeles Clippers,31,9,40,1358470800.0,2013
+Los Angeles Clippers,Los Angeles Clippers,Washington Wizards,32,9,41,1358652600.0,2013
+Los Angeles Clippers,Golden State Warriors,Los Angeles Clippers,32,10,42,1358802000.0,2013
+Los Angeles Clippers,Los Angeles Clippers,Oklahoma City Thunder,32,11,43,1358911800.0,2013
+Los Angeles Clippers,Phoenix Suns,Los Angeles Clippers,32,12,44,1359084600.0,2013
+Los Angeles Clippers,Portland Trail Blazers,Los Angeles Clippers,32,13,45,1359255600.0,2013
+Los Angeles Clippers,Los Angeles Clippers,Portland Trail Blazers,33,13,46,1359340200.0,2013
+Los Angeles Clippers,Minnesota Timberwolves,Los Angeles Clippers,34,13,47,1359594000.0,2013
+Los Angeles Clippers,Toronto Raptors,Los Angeles Clippers,34,14,48,1359763200.0,2013
+Los Angeles Clippers,Boston Celtics,Los Angeles Clippers,34,15,49,1359914400.0,2013
+Los Angeles Clippers,Washington Wizards,Los Angeles Clippers,34,16,50,1360022400.0,2013
+Los Angeles Clippers,Orlando Magic,Los Angeles Clippers,35,16,51,1360195200.0,2013
+Los Angeles Clippers,Miami Heat,Los Angeles Clippers,35,17,52,1360371600.0,2013
+Los Angeles Clippers,New York Knicks,Los Angeles Clippers,36,17,53,1360519200.0,2013
+Los Angeles Clippers,Philadelphia 76ers,Los Angeles Clippers,37,17,54,1360627200.0,2013
+Los Angeles Clippers,Los Angeles Clippers,Houston Rockets,38,17,55,1360812600.0,2013
+Los Angeles Clippers,Los Angeles Lakers,Los Angeles Clippers,39,17,56,1360899000.0,2013
+Los Angeles Clippers,Los Angeles Clippers,San Antonio Spurs,39,18,57,1361503800.0,2013
+Los Angeles Clippers,Los Angeles Clippers,Utah Jazz,40,18,58,1361676600.0,2013
+Los Angeles Clippers,Los Angeles Clippers,Charlotte Bobcats,41,18,59,1361935800.0,2013
+Los Angeles Clippers,Indiana Pacers,Los Angeles Clippers,42,18,60,1362096000.0,2013
+Los Angeles Clippers,Cleveland Cavaliers,Los Angeles Clippers,43,18,61,1362184200.0,2013
+Los Angeles Clippers,Los Angeles Clippers,Oklahoma City Thunder,43,19,62,1362342600.0,2013
+Los Angeles Clippers,Los Angeles Clippers,Milwaukee Bucks,44,19,63,1362627000.0,2013
+Los Angeles Clippers,Denver Nuggets,Los Angeles Clippers,44,20,64,1362713400.0,2013
+Los Angeles Clippers,Los Angeles Clippers,Detroit Pistons,45,20,65,1362965400.0,2013
+Los Angeles Clippers,Los Angeles Clippers,Memphis Grizzlies,45,21,66,1363228200.0,2013
+Los Angeles Clippers,Los Angeles Clippers,New York Knicks,46,21,67,1363548600.0,2013
+Los Angeles Clippers,Sacramento Kings,Los Angeles Clippers,46,22,68,1363744800.0,2013
+Los Angeles Clippers,Los Angeles Clippers,Philadelphia 76ers,47,22,69,1363833000.0,2013
+Los Angeles Clippers,Los Angeles Clippers,Brooklyn Nets,48,22,70,1364092200.0,2013
+Los Angeles Clippers,Dallas Mavericks,Los Angeles Clippers,48,23,71,1364347800.0,2013
+Los Angeles Clippers,New Orleans Hornets,Los Angeles Clippers,49,23,72,1364428800.0,2013
+Los Angeles Clippers,San Antonio Spurs,Los Angeles Clippers,49,24,73,1364603400.0,2013
+Los Angeles Clippers,Houston Rockets,Los Angeles Clippers,49,25,74,1364688000.0,2013
+Los Angeles Clippers,Los Angeles Clippers,Indiana Pacers,49,26,75,1364869800.0,2013
+Los Angeles Clippers,Los Angeles Clippers,Phoenix Suns,50,26,76,1365042600.0,2013
+Los Angeles Clippers,Los Angeles Clippers,Los Angeles Lakers,51,26,77,1365363000.0,2013
+Los Angeles Clippers,Los Angeles Clippers,Minnesota Timberwolves,52,26,78,1365647400.0,2013
+Los Angeles Clippers,New Orleans Hornets,Los Angeles Clippers,53,26,79,1365811200.0,2013
+Los Angeles Clippers,Memphis Grizzlies,Los Angeles Clippers,54,26,80,1365897600.0,2013
+Los Angeles Clippers,Los Angeles Clippers,Portland Trail Blazers,55,26,81,1366165800.0,2013
+Los Angeles Clippers,Sacramento Kings,Los Angeles Clippers,56,26,82,1366252200.0,2013
+Los Angeles Lakers,Los Angeles Lakers,Dallas Mavericks,0,1,1,1351650600.0,2013
+Los Angeles Lakers,Portland Trail Blazers,Los Angeles Lakers,0,2,2,1351737000.0,2013
+Los Angeles Lakers,Los Angeles Lakers,Los Angeles Clippers,0,3,3,1351909800.0,2013
+Los Angeles Lakers,Los Angeles Lakers,Detroit Pistons,1,3,4,1352082600.0,2013
+Los Angeles Lakers,Utah Jazz,Los Angeles Lakers,1,4,5,1352340000.0,2013
+Los Angeles Lakers,Los Angeles Lakers,Golden State Warriors,2,4,6,1352518200.0,2013
+Los Angeles Lakers,Los Angeles Lakers,Sacramento Kings,3,4,7,1352687400.0,2013
+Los Angeles Lakers,Los Angeles Lakers,San Antonio Spurs,3,5,8,1352863800.0,2013
+Los Angeles Lakers,Los Angeles Lakers,Phoenix Suns,4,5,9,1353123000.0,2013
+Los Angeles Lakers,Los Angeles Lakers,Houston Rockets,5,5,10,1353292200.0,2013
+Los Angeles Lakers,Los Angeles Lakers,Brooklyn Nets,6,5,11,1353468600.0,2013
+Los Angeles Lakers,Sacramento Kings,Los Angeles Lakers,6,6,12,1353553200.0,2013
+Los Angeles Lakers,Memphis Grizzlies,Los Angeles Lakers,6,7,13,1353718800.0,2013
+Los Angeles Lakers,Dallas Mavericks,Los Angeles Lakers,7,7,14,1353807000.0,2013
+Los Angeles Lakers,Los Angeles Lakers,Indiana Pacers,7,8,15,1354073400.0,2013
+Los Angeles Lakers,Los Angeles Lakers,Denver Nuggets,8,8,16,1354332600.0,2013
+Los Angeles Lakers,Los Angeles Lakers,Orlando Magic,8,9,17,1354501800.0,2013
+Los Angeles Lakers,Houston Rockets,Los Angeles Lakers,8,10,18,1354669200.0,2013
+Los Angeles Lakers,New Orleans Hornets,Los Angeles Lakers,9,10,19,1354755600.0,2013
+Los Angeles Lakers,Oklahoma City Thunder,Los Angeles Lakers,9,11,20,1354933800.0,2013
+Los Angeles Lakers,Los Angeles Lakers,Utah Jazz,9,12,21,1355106600.0,2013
+Los Angeles Lakers,Cleveland Cavaliers,Los Angeles Lakers,9,13,22,1355270400.0,2013
+Los Angeles Lakers,New York Knicks,Los Angeles Lakers,9,14,23,1355446800.0,2013
+Los Angeles Lakers,Washington Wizards,Los Angeles Lakers,10,14,24,1355529600.0,2013
+Los Angeles Lakers,Philadelphia 76ers,Los Angeles Lakers,11,14,25,1355698800.0,2013
+Los Angeles Lakers,Los Angeles Lakers,Charlotte Bobcats,12,14,26,1355887800.0,2013
+Los Angeles Lakers,Golden State Warriors,Los Angeles Lakers,13,14,27,1356233400.0,2013
+Los Angeles Lakers,Los Angeles Lakers,New York Knicks,14,14,28,1356465600.0,2013
+Los Angeles Lakers,Denver Nuggets,Los Angeles Lakers,14,15,29,1356573600.0,2013
+Los Angeles Lakers,Los Angeles Lakers,Portland Trail Blazers,15,15,30,1356751800.0,2013
+Los Angeles Lakers,Los Angeles Lakers,Philadelphia 76ers,15,16,31,1357097400.0,2013
+Los Angeles Lakers,Los Angeles Clippers,Los Angeles Lakers,15,17,32,1357356600.0,2013
+Los Angeles Lakers,Los Angeles Lakers,Denver Nuggets,15,18,33,1357525800.0,2013
+Los Angeles Lakers,Houston Rockets,Los Angeles Lakers,15,19,34,1357693200.0,2013
+Los Angeles Lakers,San Antonio Spurs,Los Angeles Lakers,15,20,35,1357779600.0,2013
+Los Angeles Lakers,Los Angeles Lakers,Oklahoma City Thunder,15,21,36,1357961400.0,2013
+Los Angeles Lakers,Los Angeles Lakers,Cleveland Cavaliers,16,21,37,1358130600.0,2013
+Los Angeles Lakers,Los Angeles Lakers,Milwaukee Bucks,17,21,38,1358307000.0,2013
+Los Angeles Lakers,Los Angeles Lakers,Miami Heat,17,22,39,1358479800.0,2013
+Los Angeles Lakers,Toronto Raptors,Los Angeles Lakers,17,23,40,1358704800.0,2013
+Los Angeles Lakers,Chicago Bulls,Los Angeles Lakers,17,24,41,1358821800.0,2013
+Los Angeles Lakers,Memphis Grizzlies,Los Angeles Lakers,17,25,42,1358989200.0,2013
+Los Angeles Lakers,Los Angeles Lakers,Utah Jazz,18,25,43,1359171000.0,2013
+Los Angeles Lakers,Los Angeles Lakers,Oklahoma City Thunder,19,25,44,1359318600.0,2013
+Los Angeles Lakers,Los Angeles Lakers,New Orleans Hornets,20,25,45,1359516600.0,2013
+Los Angeles Lakers,Phoenix Suns,Los Angeles Lakers,20,26,46,1359603000.0,2013
+Los Angeles Lakers,Minnesota Timberwolves,Los Angeles Lakers,21,26,47,1359772200.0,2013
+Los Angeles Lakers,Detroit Pistons,Los Angeles Lakers,22,26,48,1359914400.0,2013
+Los Angeles Lakers,Brooklyn Nets,Los Angeles Lakers,23,26,49,1360110600.0,2013
+Los Angeles Lakers,Boston Celtics,Los Angeles Lakers,23,27,50,1360285200.0,2013
+Los Angeles Lakers,Charlotte Bobcats,Los Angeles Lakers,24,27,51,1360368000.0,2013
+Los Angeles Lakers,Miami Heat,Los Angeles Lakers,24,28,52,1360528200.0,2013
+Los Angeles Lakers,Los Angeles Lakers,Phoenix Suns,25,28,53,1360726200.0,2013
+Los Angeles Lakers,Los Angeles Lakers,Los Angeles Clippers,25,29,54,1360899000.0,2013
+Los Angeles Lakers,Los Angeles Lakers,Boston Celtics,26,29,55,1361417400.0,2013
+Los Angeles Lakers,Los Angeles Lakers,Portland Trail Blazers,27,29,56,1361590200.0,2013
+Los Angeles Lakers,Dallas Mavericks,Los Angeles Lakers,28,29,57,1361728800.0,2013
+Los Angeles Lakers,Denver Nuggets,Los Angeles Lakers,28,30,58,1361844000.0,2013
+Los Angeles Lakers,Los Angeles Lakers,Minnesota Timberwolves,29,30,59,1362108600.0,2013
+Los Angeles Lakers,Los Angeles Lakers,Atlanta Hawks,30,30,60,1362364200.0,2013
+Los Angeles Lakers,Oklahoma City Thunder,Los Angeles Lakers,30,31,61,1362537000.0,2013
+Los Angeles Lakers,New Orleans Hornets,Los Angeles Lakers,31,31,62,1362618000.0,2013
+Los Angeles Lakers,Los Angeles Lakers,Toronto Raptors,32,31,63,1362799800.0,2013
+Los Angeles Lakers,Los Angeles Lakers,Chicago Bulls,33,31,64,1362943800.0,2013
+Los Angeles Lakers,Orlando Magic,Los Angeles Lakers,34,31,65,1363129200.0,2013
+Los Angeles Lakers,Atlanta Hawks,Los Angeles Lakers,34,32,66,1363217400.0,2013
+Los Angeles Lakers,Indiana Pacers,Los Angeles Lakers,35,32,67,1363388400.0,2013
+Los Angeles Lakers,Los Angeles Lakers,Sacramento Kings,36,32,68,1363570200.0,2013
+Los Angeles Lakers,Phoenix Suns,Los Angeles Lakers,36,33,69,1363658400.0,2013
+Los Angeles Lakers,Los Angeles Lakers,Washington Wizards,36,34,70,1364005800.0,2013
+Los Angeles Lakers,Golden State Warriors,Los Angeles Lakers,36,35,71,1364265000.0,2013
+Los Angeles Lakers,Minnesota Timberwolves,Los Angeles Lakers,37,35,72,1364428800.0,2013
+Los Angeles Lakers,Milwaukee Bucks,Los Angeles Lakers,37,36,73,1364515200.0,2013
+Los Angeles Lakers,Sacramento Kings,Los Angeles Lakers,38,36,74,1364695200.0,2013
+Los Angeles Lakers,Los Angeles Lakers,Dallas Mavericks,39,36,75,1364956200.0,2013
+Los Angeles Lakers,Los Angeles Lakers,Memphis Grizzlies,40,36,76,1365215400.0,2013
+Los Angeles Lakers,Los Angeles Clippers,Los Angeles Lakers,40,37,77,1365363000.0,2013
+Los Angeles Lakers,Los Angeles Lakers,New Orleans Hornets,41,37,78,1365561000.0,2013
+Los Angeles Lakers,Portland Trail Blazers,Los Angeles Lakers,42,37,79,1365645600.0,2013
+Los Angeles Lakers,Los Angeles Lakers,Golden State Warriors,43,37,80,1365820200.0,2013
+Los Angeles Lakers,Los Angeles Lakers,San Antonio Spurs,44,37,81,1365989400.0,2013
+Los Angeles Lakers,Los Angeles Lakers,Houston Rockets,45,37,82,1366252200.0,2013
+Memphis Grizzlies,Los Angeles Clippers,Memphis Grizzlies,0,1,1,1351737000.0,2013
+Memphis Grizzlies,Golden State Warriors,Memphis Grizzlies,1,1,2,1351909800.0,2013
+Memphis Grizzlies,Memphis Grizzlies,Utah Jazz,2,1,3,1352163600.0,2013
+Memphis Grizzlies,Milwaukee Bucks,Memphis Grizzlies,3,1,4,1352336400.0,2013
+Memphis Grizzlies,Memphis Grizzlies,Houston Rockets,4,1,5,1352509200.0,2013
+Memphis Grizzlies,Memphis Grizzlies,Miami Heat,5,1,6,1352674800.0,2013
+Memphis Grizzlies,Oklahoma City Thunder,Memphis Grizzlies,6,1,7,1352941200.0,2013
+Memphis Grizzlies,Memphis Grizzlies,New York Knicks,7,1,8,1353119400.0,2013
+Memphis Grizzlies,Charlotte Bobcats,Memphis Grizzlies,8,1,9,1353198600.0,2013
+Memphis Grizzlies,Memphis Grizzlies,Denver Nuggets,8,2,10,1353373200.0,2013
+Memphis Grizzlies,Memphis Grizzlies,Los Angeles Lakers,9,2,11,1353718800.0,2013
+Memphis Grizzlies,Memphis Grizzlies,Cleveland Cavaliers,10,2,12,1353978000.0,2013
+Memphis Grizzlies,Memphis Grizzlies,Toronto Raptors,11,2,13,1354150800.0,2013
+Memphis Grizzlies,Memphis Grizzlies,Detroit Pistons,12,2,14,1354323600.0,2013
+Memphis Grizzlies,San Antonio Spurs,Memphis Grizzlies,12,3,15,1354411800.0,2013
+Memphis Grizzlies,Memphis Grizzlies,Phoenix Suns,13,3,16,1354669200.0,2013
+Memphis Grizzlies,New Orleans Hornets,Memphis Grizzlies,14,3,17,1354928400.0,2013
+Memphis Grizzlies,Memphis Grizzlies,Atlanta Hawks,14,4,18,1355014800.0,2013
+Memphis Grizzlies,Phoenix Suns,Memphis Grizzlies,14,5,19,1355364000.0,2013
+Memphis Grizzlies,Denver Nuggets,Memphis Grizzlies,14,6,20,1355542200.0,2013
+Memphis Grizzlies,Utah Jazz,Memphis Grizzlies,15,6,21,1355623200.0,2013
+Memphis Grizzlies,Memphis Grizzlies,Chicago Bulls,16,6,22,1355792400.0,2013
+Memphis Grizzlies,Memphis Grizzlies,Milwaukee Bucks,17,6,23,1355970600.0,2013
+Memphis Grizzlies,Memphis Grizzlies,Dallas Mavericks,18,6,24,1356138000.0,2013
+Memphis Grizzlies,Houston Rockets,Memphis Grizzlies,18,7,25,1356224400.0,2013
+Memphis Grizzlies,Memphis Grizzlies,Philadelphia 76ers,18,8,26,1356570000.0,2013
+Memphis Grizzlies,Memphis Grizzlies,Denver Nuggets,19,8,27,1356829200.0,2013
+Memphis Grizzlies,Indiana Pacers,Memphis Grizzlies,19,9,28,1356984000.0,2013
+Memphis Grizzlies,Boston Celtics,Memphis Grizzlies,20,9,29,1357173000.0,2013
+Memphis Grizzlies,Memphis Grizzlies,Portland Trail Blazers,20,10,30,1357347600.0,2013
+Memphis Grizzlies,Phoenix Suns,Memphis Grizzlies,21,10,31,1357520400.0,2013
+Memphis Grizzlies,Sacramento Kings,Memphis Grizzlies,22,10,32,1357614000.0,2013
+Memphis Grizzlies,Golden State Warriors,Memphis Grizzlies,23,10,33,1357788600.0,2013
+Memphis Grizzlies,Memphis Grizzlies,San Antonio Spurs,24,10,34,1357952400.0,2013
+Memphis Grizzlies,Dallas Mavericks,Memphis Grizzlies,24,11,35,1358042400.0,2013
+Memphis Grizzlies,Memphis Grizzlies,Los Angeles Clippers,24,12,36,1358211600.0,2013
+Memphis Grizzlies,San Antonio Spurs,Memphis Grizzlies,24,13,37,1358386200.0,2013
+Memphis Grizzlies,Memphis Grizzlies,Sacramento Kings,25,13,38,1358557200.0,2013
+Memphis Grizzlies,Chicago Bulls,Memphis Grizzlies,26,13,39,1358643600.0,2013
+Memphis Grizzlies,Memphis Grizzlies,Indiana Pacers,26,14,40,1358791200.0,2013
+Memphis Grizzlies,Memphis Grizzlies,Los Angeles Lakers,27,14,41,1358989200.0,2013
+Memphis Grizzlies,Memphis Grizzlies,Brooklyn Nets,28,14,42,1359162000.0,2013
+Memphis Grizzlies,Memphis Grizzlies,New Orleans Hornets,28,15,43,1359327600.0,2013
+Memphis Grizzlies,Philadelphia 76ers,Memphis Grizzlies,29,15,44,1359417600.0,2013
+Memphis Grizzlies,Oklahoma City Thunder,Memphis Grizzlies,29,16,45,1359680400.0,2013
+Memphis Grizzlies,Memphis Grizzlies,Washington Wizards,30,16,46,1359766800.0,2013
+Memphis Grizzlies,Memphis Grizzlies,Phoenix Suns,30,17,47,1360112400.0,2013
+Memphis Grizzlies,Atlanta Hawks,Memphis Grizzlies,30,18,48,1360197000.0,2013
+Memphis Grizzlies,Memphis Grizzlies,Golden State Warriors,31,18,49,1360371600.0,2013
+Memphis Grizzlies,Memphis Grizzlies,Minnesota Timberwolves,32,18,50,1360537200.0,2013
+Memphis Grizzlies,Memphis Grizzlies,Sacramento Kings,33,18,51,1360717200.0,2013
+Memphis Grizzlies,Detroit Pistons,Memphis Grizzlies,34,18,52,1361320200.0,2013
+Memphis Grizzlies,Toronto Raptors,Memphis Grizzlies,35,18,53,1361404800.0,2013
+Memphis Grizzlies,Memphis Grizzlies,Orlando Magic,36,18,54,1361581200.0,2013
+Memphis Grizzlies,Brooklyn Nets,Memphis Grizzlies,37,18,55,1361750400.0,2013
+Memphis Grizzlies,Memphis Grizzlies,Dallas Mavericks,38,18,56,1362013200.0,2013
+Memphis Grizzlies,Miami Heat,Memphis Grizzlies,38,19,57,1362186000.0,2013
+Memphis Grizzlies,Orlando Magic,Memphis Grizzlies,39,19,58,1362351600.0,2013
+Memphis Grizzlies,Memphis Grizzlies,Portland Trail Blazers,40,19,59,1362618000.0,2013
+Memphis Grizzlies,Cleveland Cavaliers,Memphis Grizzlies,41,19,60,1362789000.0,2013
+Memphis Grizzlies,Memphis Grizzlies,New Orleans Hornets,42,19,61,1362877200.0,2013
+Memphis Grizzlies,Portland Trail Blazers,Memphis Grizzlies,43,19,62,1363140000.0,2013
+Memphis Grizzlies,Los Angeles Clippers,Memphis Grizzlies,44,19,63,1363228200.0,2013
+Memphis Grizzlies,Denver Nuggets,Memphis Grizzlies,44,20,64,1363395600.0,2013
+Memphis Grizzlies,Utah Jazz,Memphis Grizzlies,44,21,65,1363485600.0,2013
+Memphis Grizzlies,Memphis Grizzlies,Minnesota Timberwolves,45,21,66,1363651200.0,2013
+Memphis Grizzlies,Memphis Grizzlies,Oklahoma City Thunder,46,21,67,1363824000.0,2013
+Memphis Grizzlies,New Orleans Hornets,Memphis Grizzlies,46,22,68,1363996800.0,2013
+Memphis Grizzlies,Memphis Grizzlies,Boston Celtics,47,22,69,1364083200.0,2013
+Memphis Grizzlies,Washington Wizards,Memphis Grizzlies,47,23,70,1364252400.0,2013
+Memphis Grizzlies,New York Knicks,Memphis Grizzlies,47,24,71,1364427000.0,2013
+Memphis Grizzlies,Memphis Grizzlies,Houston Rockets,48,24,72,1364601600.0,2013
+Memphis Grizzlies,Minnesota Timberwolves,Memphis Grizzlies,49,24,73,1364688000.0,2013
+Memphis Grizzlies,Memphis Grizzlies,San Antonio Spurs,50,24,74,1364860800.0,2013
+Memphis Grizzlies,Portland Trail Blazers,Memphis Grizzlies,51,24,75,1365040800.0,2013
+Memphis Grizzlies,Los Angeles Lakers,Memphis Grizzlies,51,25,76,1365215400.0,2013
+Memphis Grizzlies,Sacramento Kings,Memphis Grizzlies,52,25,77,1365372000.0,2013
+Memphis Grizzlies,Memphis Grizzlies,Charlotte Bobcats,53,25,78,1365552000.0,2013
+Memphis Grizzlies,Houston Rockets,Memphis Grizzlies,54,25,79,1365811200.0,2013
+Memphis Grizzlies,Memphis Grizzlies,Los Angeles Clippers,54,26,80,1365897600.0,2013
+Memphis Grizzlies,Dallas Mavericks,Memphis Grizzlies,55,26,81,1366070400.0,2013
+Memphis Grizzlies,Memphis Grizzlies,Utah Jazz,56,26,82,1366243200.0,2013
+Miami Heat,Miami Heat,Boston Celtics,1,0,1,1351641600.0,2013
+Miami Heat,New York Knicks,Miami Heat,1,1,2,1351900800.0,2013
+Miami Heat,Miami Heat,Denver Nuggets,2,1,3,1351985400.0,2013
+Miami Heat,Miami Heat,Phoenix Suns,3,1,4,1352161800.0,2013
+Miami Heat,Miami Heat,Brooklyn Nets,4,1,5,1352334600.0,2013
+Miami Heat,Atlanta Hawks,Miami Heat,5,1,6,1352507400.0,2013
+Miami Heat,Memphis Grizzlies,Miami Heat,5,2,7,1352674800.0,2013
+Miami Heat,Houston Rockets,Miami Heat,6,2,8,1352768400.0,2013
+Miami Heat,Los Angeles Clippers,Miami Heat,6,3,9,1352950200.0,2013
+Miami Heat,Denver Nuggets,Miami Heat,7,3,10,1353036600.0,2013
+Miami Heat,Phoenix Suns,Miami Heat,8,3,11,1353204000.0,2013
+Miami Heat,Miami Heat,Milwaukee Bucks,9,3,12,1353544200.0,2013
+Miami Heat,Miami Heat,Cleveland Cavaliers,10,3,13,1353803400.0,2013
+Miami Heat,Miami Heat,San Antonio Spurs,11,3,14,1354237200.0,2013
+Miami Heat,Miami Heat,Brooklyn Nets,12,3,15,1354408200.0,2013
+Miami Heat,Washington Wizards,Miami Heat,12,4,16,1354665600.0,2013
+Miami Heat,Miami Heat,New York Knicks,12,5,17,1354842000.0,2013
+Miami Heat,Miami Heat,New Orleans Hornets,13,5,18,1355013000.0,2013
+Miami Heat,Miami Heat,Atlanta Hawks,14,5,19,1355185800.0,2013
+Miami Heat,Miami Heat,Golden State Warriors,14,6,20,1355358600.0,2013
+Miami Heat,Miami Heat,Washington Wizards,15,6,21,1355617800.0,2013
+Miami Heat,Miami Heat,Minnesota Timberwolves,16,6,22,1355877000.0,2013
+Miami Heat,Dallas Mavericks,Miami Heat,17,6,23,1356057000.0,2013
+Miami Heat,Miami Heat,Utah Jazz,18,6,24,1356222600.0,2013
+Miami Heat,Miami Heat,Oklahoma City Thunder,19,6,25,1356474600.0,2013
+Miami Heat,Charlotte Bobcats,Miami Heat,20,6,26,1356566400.0,2013
+Miami Heat,Detroit Pistons,Miami Heat,20,7,27,1356741000.0,2013
+Miami Heat,Milwaukee Bucks,Miami Heat,20,8,28,1356831000.0,2013
+Miami Heat,Orlando Magic,Miami Heat,21,8,29,1356991200.0,2013
+Miami Heat,Miami Heat,Dallas Mavericks,22,8,30,1357173000.0,2013
+Miami Heat,Miami Heat,Chicago Bulls,22,9,31,1357347600.0,2013
+Miami Heat,Miami Heat,Washington Wizards,23,9,32,1357513200.0,2013
+Miami Heat,Indiana Pacers,Miami Heat,23,10,33,1357689600.0,2013
+Miami Heat,Portland Trail Blazers,Miami Heat,23,11,34,1357875000.0,2013
+Miami Heat,Sacramento Kings,Miami Heat,24,11,35,1358046000.0,2013
+Miami Heat,Utah Jazz,Miami Heat,24,12,36,1358215200.0,2013
+Miami Heat,Golden State Warriors,Miami Heat,25,12,37,1358393400.0,2013
+Miami Heat,Los Angeles Lakers,Miami Heat,26,12,38,1358479800.0,2013
+Miami Heat,Miami Heat,Toronto Raptors,27,12,39,1358987400.0,2013
+Miami Heat,Miami Heat,Detroit Pistons,28,12,40,1359160200.0,2013
+Miami Heat,Boston Celtics,Miami Heat,28,13,41,1359309600.0,2013
+Miami Heat,Brooklyn Nets,Miami Heat,29,13,42,1359594000.0,2013
+Miami Heat,Indiana Pacers,Miami Heat,29,14,43,1359763200.0,2013
+Miami Heat,Toronto Raptors,Miami Heat,30,14,44,1359918000.0,2013
+Miami Heat,Miami Heat,Charlotte Bobcats,31,14,45,1360024200.0,2013
+Miami Heat,Miami Heat,Houston Rockets,32,14,46,1360197000.0,2013
+Miami Heat,Miami Heat,Los Angeles Clippers,33,14,47,1360371600.0,2013
+Miami Heat,Miami Heat,Los Angeles Lakers,34,14,48,1360528200.0,2013
+Miami Heat,Miami Heat,Portland Trail Blazers,35,14,49,1360715400.0,2013
+Miami Heat,Oklahoma City Thunder,Miami Heat,36,14,50,1360890000.0,2013
+Miami Heat,Atlanta Hawks,Miami Heat,37,14,51,1361408400.0,2013
+Miami Heat,Chicago Bulls,Miami Heat,38,14,52,1361494800.0,2013
+Miami Heat,Philadelphia 76ers,Miami Heat,39,14,53,1361665800.0,2013
+Miami Heat,Miami Heat,Cleveland Cavaliers,40,14,54,1361746800.0,2013
+Miami Heat,Miami Heat,Sacramento Kings,41,14,55,1361925000.0,2013
+Miami Heat,Miami Heat,Memphis Grizzlies,42,14,56,1362186000.0,2013
+Miami Heat,New York Knicks,Miami Heat,43,14,57,1362333600.0,2013
+Miami Heat,Minnesota Timberwolves,Miami Heat,44,14,58,1362445200.0,2013
+Miami Heat,Miami Heat,Orlando Magic,45,14,59,1362616200.0,2013
+Miami Heat,Miami Heat,Philadelphia 76ers,46,14,60,1362790800.0,2013
+Miami Heat,Miami Heat,Indiana Pacers,47,14,61,1362952800.0,2013
+Miami Heat,Miami Heat,Atlanta Hawks,48,14,62,1363131000.0,2013
+Miami Heat,Philadelphia 76ers,Miami Heat,49,14,63,1363215600.0,2013
+Miami Heat,Milwaukee Bucks,Miami Heat,50,14,64,1363393800.0,2013
+Miami Heat,Toronto Raptors,Miami Heat,51,14,65,1363539600.0,2013
+Miami Heat,Boston Celtics,Miami Heat,52,14,66,1363651200.0,2013
+Miami Heat,Cleveland Cavaliers,Miami Heat,53,14,67,1363820400.0,2013
+Miami Heat,Miami Heat,Detroit Pistons,54,14,68,1363995000.0,2013
+Miami Heat,Miami Heat,Charlotte Bobcats,55,14,69,1364162400.0,2013
+Miami Heat,Orlando Magic,Miami Heat,56,14,70,1364252400.0,2013
+Miami Heat,Chicago Bulls,Miami Heat,56,15,71,1364428800.0,2013
+Miami Heat,New Orleans Hornets,Miami Heat,57,15,72,1364601600.0,2013
+Miami Heat,San Antonio Spurs,Miami Heat,58,15,73,1364770800.0,2013
+Miami Heat,Miami Heat,New York Knicks,58,16,74,1364947200.0,2013
+Miami Heat,Charlotte Bobcats,Miami Heat,59,16,75,1365206400.0,2013
+Miami Heat,Miami Heat,Philadelphia 76ers,60,16,76,1365291000.0,2013
+Miami Heat,Miami Heat,Milwaukee Bucks,61,16,77,1365550200.0,2013
+Miami Heat,Washington Wizards,Miami Heat,62,16,78,1365634800.0,2013
+Miami Heat,Miami Heat,Boston Celtics,63,16,79,1365809400.0,2013
+Miami Heat,Miami Heat,Chicago Bulls,64,16,80,1365958800.0,2013
+Miami Heat,Cleveland Cavaliers,Miami Heat,65,16,81,1366066800.0,2013
+Miami Heat,Miami Heat,Orlando Magic,66,16,82,1366243200.0,2013
+Milwaukee Bucks,Boston Celtics,Milwaukee Bucks,1,0,1,1351899000.0,2013
+Milwaukee Bucks,Milwaukee Bucks,Cleveland Cavaliers,2,0,2,1351989000.0,2013
+Milwaukee Bucks,Milwaukee Bucks,Memphis Grizzlies,2,1,3,1352336400.0,2013
+Milwaukee Bucks,Washington Wizards,Milwaukee Bucks,3,1,4,1352505600.0,2013
+Milwaukee Bucks,Milwaukee Bucks,Boston Celtics,3,2,5,1352597400.0,2013
+Milwaukee Bucks,Philadelphia 76ers,Milwaukee Bucks,4,2,6,1352764800.0,2013
+Milwaukee Bucks,Milwaukee Bucks,Indiana Pacers,5,2,7,1352941200.0,2013
+Milwaukee Bucks,Milwaukee Bucks,New Orleans Hornets,6,2,8,1353202200.0,2013
+Milwaukee Bucks,Charlotte Bobcats,Milwaukee Bucks,6,3,9,1353369600.0,2013
+Milwaukee Bucks,Miami Heat,Milwaukee Bucks,6,4,10,1353544200.0,2013
+Milwaukee Bucks,Milwaukee Bucks,Chicago Bulls,6,5,11,1353808800.0,2013
+Milwaukee Bucks,Chicago Bulls,Milwaukee Bucks,7,5,12,1353978000.0,2013
+Milwaukee Bucks,Milwaukee Bucks,New York Knicks,7,6,13,1354150800.0,2013
+Milwaukee Bucks,Minnesota Timberwolves,Milwaukee Bucks,7,7,14,1354323600.0,2013
+Milwaukee Bucks,Milwaukee Bucks,Boston Celtics,8,7,15,1354411800.0,2013
+Milwaukee Bucks,New Orleans Hornets,Milwaukee Bucks,8,8,16,1354582800.0,2013
+Milwaukee Bucks,San Antonio Spurs,Milwaukee Bucks,8,9,17,1354757400.0,2013
+Milwaukee Bucks,Milwaukee Bucks,Charlotte Bobcats,9,9,18,1354930200.0,2013
+Milwaukee Bucks,Brooklyn Nets,Milwaukee Bucks,10,9,19,1355094000.0,2013
+Milwaukee Bucks,Milwaukee Bucks,Sacramento Kings,11,9,20,1355360400.0,2013
+Milwaukee Bucks,Cleveland Cavaliers,Milwaukee Bucks,12,9,21,1355531400.0,2013
+Milwaukee Bucks,Milwaukee Bucks,Los Angeles Clippers,12,10,22,1355621400.0,2013
+Milwaukee Bucks,Milwaukee Bucks,Indiana Pacers,13,10,23,1355878800.0,2013
+Milwaukee Bucks,Memphis Grizzlies,Milwaukee Bucks,13,11,24,1355970600.0,2013
+Milwaukee Bucks,Boston Celtics,Milwaukee Bucks,14,11,25,1356136200.0,2013
+Milwaukee Bucks,Milwaukee Bucks,Cleveland Cavaliers,14,12,26,1356226200.0,2013
+Milwaukee Bucks,Milwaukee Bucks,Brooklyn Nets,15,12,27,1356570000.0,2013
+Milwaukee Bucks,Milwaukee Bucks,Miami Heat,16,12,28,1356831000.0,2013
+Milwaukee Bucks,Detroit Pistons,Milwaukee Bucks,16,13,29,1356913800.0,2013
+Milwaukee Bucks,Milwaukee Bucks,San Antonio Spurs,16,14,30,1357174800.0,2013
+Milwaukee Bucks,Milwaukee Bucks,Houston Rockets,16,15,31,1357349400.0,2013
+Milwaukee Bucks,Indiana Pacers,Milwaukee Bucks,16,16,32,1357430400.0,2013
+Milwaukee Bucks,Milwaukee Bucks,Phoenix Suns,17,16,33,1357693200.0,2013
+Milwaukee Bucks,Chicago Bulls,Milwaukee Bucks,18,16,34,1357779600.0,2013
+Milwaukee Bucks,Milwaukee Bucks,Detroit Pistons,18,17,35,1357954200.0,2013
+Milwaukee Bucks,Toronto Raptors,Milwaukee Bucks,19,17,36,1358100000.0,2013
+Milwaukee Bucks,Los Angeles Lakers,Milwaukee Bucks,19,18,37,1358307000.0,2013
+Milwaukee Bucks,Phoenix Suns,Milwaukee Bucks,20,18,38,1358474400.0,2013
+Milwaukee Bucks,Portland Trail Blazers,Milwaukee Bucks,21,18,39,1358650800.0,2013
+Milwaukee Bucks,Milwaukee Bucks,Philadelphia 76ers,22,18,40,1358902800.0,2013
+Milwaukee Bucks,Cleveland Cavaliers,Milwaukee Bucks,22,19,41,1359160200.0,2013
+Milwaukee Bucks,Milwaukee Bucks,Golden State Warriors,23,19,42,1359250200.0,2013
+Milwaukee Bucks,Detroit Pistons,Milwaukee Bucks,24,19,43,1359505800.0,2013
+Milwaukee Bucks,Milwaukee Bucks,Chicago Bulls,24,20,44,1359594000.0,2013
+Milwaukee Bucks,New York Knicks,Milwaukee Bucks,24,21,45,1359765000.0,2013
+Milwaukee Bucks,Milwaukee Bucks,Orlando Magic,25,21,46,1359855000.0,2013
+Milwaukee Bucks,Denver Nuggets,Milwaukee Bucks,25,22,47,1360116000.0,2013
+Milwaukee Bucks,Utah Jazz,Milwaukee Bucks,25,23,48,1360202400.0,2013
+Milwaukee Bucks,Milwaukee Bucks,Detroit Pistons,25,24,49,1360459800.0,2013
+Milwaukee Bucks,Milwaukee Bucks,Washington Wizards,25,25,50,1360630800.0,2013
+Milwaukee Bucks,Milwaukee Bucks,Philadelphia 76ers,26,25,51,1360803600.0,2013
+Milwaukee Bucks,Brooklyn Nets,Milwaukee Bucks,26,26,52,1361320200.0,2013
+Milwaukee Bucks,Milwaukee Bucks,Brooklyn Nets,26,27,53,1361408400.0,2013
+Milwaukee Bucks,Milwaukee Bucks,Atlanta Hawks,26,28,54,1361669400.0,2013
+Milwaukee Bucks,Dallas Mavericks,Milwaukee Bucks,27,28,55,1361928600.0,2013
+Milwaukee Bucks,Houston Rockets,Milwaukee Bucks,28,28,56,1362013200.0,2013
+Milwaukee Bucks,Milwaukee Bucks,Toronto Raptors,29,28,57,1362274200.0,2013
+Milwaukee Bucks,Milwaukee Bucks,Utah Jazz,30,28,58,1362445200.0,2013
+Milwaukee Bucks,Los Angeles Clippers,Milwaukee Bucks,30,29,59,1362627000.0,2013
+Milwaukee Bucks,Golden State Warriors,Milwaukee Bucks,31,29,60,1362886200.0,2013
+Milwaukee Bucks,Sacramento Kings,Milwaukee Bucks,32,29,61,1362963600.0,2013
+Milwaukee Bucks,Milwaukee Bucks,Dallas Mavericks,32,30,62,1363132800.0,2013
+Milwaukee Bucks,Washington Wizards,Milwaukee Bucks,32,31,63,1363215600.0,2013
+Milwaukee Bucks,Milwaukee Bucks,Miami Heat,32,32,64,1363393800.0,2013
+Milwaukee Bucks,Milwaukee Bucks,Orlando Magic,33,32,65,1363539600.0,2013
+Milwaukee Bucks,Milwaukee Bucks,Portland Trail Blazers,34,32,66,1363737600.0,2013
+Milwaukee Bucks,Atlanta Hawks,Milwaukee Bucks,34,33,67,1363822200.0,2013
+Milwaukee Bucks,Indiana Pacers,Milwaukee Bucks,34,34,68,1363993200.0,2013
+Milwaukee Bucks,Milwaukee Bucks,Atlanta Hawks,34,35,69,1364151600.0,2013
+Milwaukee Bucks,Philadelphia 76ers,Milwaukee Bucks,34,36,70,1364425200.0,2013
+Milwaukee Bucks,Milwaukee Bucks,Los Angeles Lakers,35,36,71,1364515200.0,2013
+Milwaukee Bucks,Milwaukee Bucks,Oklahoma City Thunder,35,37,72,1364689800.0,2013
+Milwaukee Bucks,Milwaukee Bucks,Charlotte Bobcats,36,37,73,1364860800.0,2013
+Milwaukee Bucks,Milwaukee Bucks,Minnesota Timberwolves,36,38,74,1365033600.0,2013
+Milwaukee Bucks,New York Knicks,Milwaukee Bucks,36,39,75,1365204600.0,2013
+Milwaukee Bucks,Milwaukee Bucks,Toronto Raptors,37,39,76,1365294600.0,2013
+Milwaukee Bucks,Miami Heat,Milwaukee Bucks,37,40,77,1365550200.0,2013
+Milwaukee Bucks,Orlando Magic,Milwaukee Bucks,37,41,78,1365634800.0,2013
+Milwaukee Bucks,Atlanta Hawks,Milwaukee Bucks,37,42,79,1365809400.0,2013
+Milwaukee Bucks,Charlotte Bobcats,Milwaukee Bucks,37,43,80,1365894000.0,2013
+Milwaukee Bucks,Milwaukee Bucks,Denver Nuggets,37,44,81,1366070400.0,2013
+Milwaukee Bucks,Oklahoma City Thunder,Milwaukee Bucks,38,44,82,1366243200.0,2013
+Minnesota Timberwolves,Minnesota Timberwolves,Sacramento Kings,1,0,1,1351900800.0,2013
+Minnesota Timberwolves,Toronto Raptors,Minnesota Timberwolves,1,1,2,1352070000.0,2013
+Minnesota Timberwolves,Brooklyn Nets,Minnesota Timberwolves,2,1,3,1352161800.0,2013
+Minnesota Timberwolves,Minnesota Timberwolves,Orlando Magic,3,1,4,1352336400.0,2013
+Minnesota Timberwolves,Minnesota Timberwolves,Indiana Pacers,4,1,5,1352509200.0,2013
+Minnesota Timberwolves,Chicago Bulls,Minnesota Timberwolves,4,2,6,1352595600.0,2013
+Minnesota Timberwolves,Dallas Mavericks,Minnesota Timberwolves,5,2,7,1352770200.0,2013
+Minnesota Timberwolves,Minnesota Timberwolves,Charlotte Bobcats,5,3,8,1352941200.0,2013
+Minnesota Timberwolves,Minnesota Timberwolves,Golden State Warriors,5,4,9,1353114000.0,2013
+Minnesota Timberwolves,Minnesota Timberwolves,Denver Nuggets,5,5,10,1353546000.0,2013
+Minnesota Timberwolves,Portland Trail Blazers,Minnesota Timberwolves,5,6,11,1353726000.0,2013
+Minnesota Timberwolves,Golden State Warriors,Minnesota Timberwolves,5,7,12,1353814200.0,2013
+Minnesota Timberwolves,Sacramento Kings,Minnesota Timberwolves,6,7,13,1354071600.0,2013
+Minnesota Timberwolves,Los Angeles Clippers,Minnesota Timberwolves,6,8,14,1354159800.0,2013
+Minnesota Timberwolves,Minnesota Timberwolves,Milwaukee Bucks,7,8,15,1354323600.0,2013
+Minnesota Timberwolves,Philadelphia 76ers,Minnesota Timberwolves,8,8,16,1354665600.0,2013
+Minnesota Timberwolves,Boston Celtics,Minnesota Timberwolves,8,9,17,1354753800.0,2013
+Minnesota Timberwolves,Minnesota Timberwolves,Cleveland Cavaliers,9,9,18,1354928400.0,2013
+Minnesota Timberwolves,Minnesota Timberwolves,Denver Nuggets,10,9,19,1355360400.0,2013
+Minnesota Timberwolves,New Orleans Hornets,Minnesota Timberwolves,11,9,20,1355533200.0,2013
+Minnesota Timberwolves,Minnesota Timberwolves,Dallas Mavericks,12,9,21,1355619600.0,2013
+Minnesota Timberwolves,Orlando Magic,Minnesota Timberwolves,12,10,22,1355788800.0,2013
+Minnesota Timberwolves,Miami Heat,Minnesota Timberwolves,12,11,23,1355877000.0,2013
+Minnesota Timberwolves,Minnesota Timberwolves,Oklahoma City Thunder,13,11,24,1356048000.0,2013
+Minnesota Timberwolves,New York Knicks,Minnesota Timberwolves,13,12,25,1356300000.0,2013
+Minnesota Timberwolves,Minnesota Timberwolves,Houston Rockets,13,13,26,1356570000.0,2013
+Minnesota Timberwolves,Minnesota Timberwolves,Phoenix Suns,14,13,27,1356829200.0,2013
+Minnesota Timberwolves,Utah Jazz,Minnesota Timberwolves,14,14,28,1357178400.0,2013
+Minnesota Timberwolves,Denver Nuggets,Minnesota Timberwolves,15,14,29,1357264800.0,2013
+Minnesota Timberwolves,Minnesota Timberwolves,Portland Trail Blazers,15,15,30,1357434000.0,2013
+Minnesota Timberwolves,Minnesota Timberwolves,Atlanta Hawks,16,15,31,1357693200.0,2013
+Minnesota Timberwolves,Oklahoma City Thunder,Minnesota Timberwolves,16,16,32,1357779600.0,2013
+Minnesota Timberwolves,New Orleans Hornets,Minnesota Timberwolves,16,17,33,1357952400.0,2013
+Minnesota Timberwolves,San Antonio Spurs,Minnesota Timberwolves,16,18,34,1358121600.0,2013
+Minnesota Timberwolves,Dallas Mavericks,Minnesota Timberwolves,16,19,35,1358213400.0,2013
+Minnesota Timberwolves,Minnesota Timberwolves,Los Angeles Clippers,16,20,36,1358470800.0,2013
+Minnesota Timberwolves,Minnesota Timberwolves,Houston Rockets,17,20,37,1358643600.0,2013
+Minnesota Timberwolves,Atlanta Hawks,Minnesota Timberwolves,17,21,38,1358794800.0,2013
+Minnesota Timberwolves,Minnesota Timberwolves,Brooklyn Nets,17,22,39,1358989200.0,2013
+Minnesota Timberwolves,Washington Wizards,Minnesota Timberwolves,17,23,40,1359158400.0,2013
+Minnesota Timberwolves,Charlotte Bobcats,Minnesota Timberwolves,17,24,41,1359246600.0,2013
+Minnesota Timberwolves,Minnesota Timberwolves,Los Angeles Clippers,17,25,42,1359594000.0,2013
+Minnesota Timberwolves,Minnesota Timberwolves,Los Angeles Lakers,17,26,43,1359772200.0,2013
+Minnesota Timberwolves,Minnesota Timberwolves,New Orleans Hornets,18,26,44,1359853200.0,2013
+Minnesota Timberwolves,Minnesota Timberwolves,Portland Trail Blazers,18,27,45,1360026000.0,2013
+Minnesota Timberwolves,Minnesota Timberwolves,San Antonio Spurs,18,28,46,1360202400.0,2013
+Minnesota Timberwolves,Minnesota Timberwolves,New York Knicks,18,29,47,1360371600.0,2013
+Minnesota Timberwolves,Memphis Grizzlies,Minnesota Timberwolves,18,30,48,1360537200.0,2013
+Minnesota Timberwolves,Cleveland Cavaliers,Minnesota Timberwolves,19,30,49,1360627200.0,2013
+Minnesota Timberwolves,Minnesota Timberwolves,Utah Jazz,19,31,50,1360803600.0,2013
+Minnesota Timberwolves,Minnesota Timberwolves,Philadelphia 76ers,20,31,51,1361408400.0,2013
+Minnesota Timberwolves,Oklahoma City Thunder,Minnesota Timberwolves,20,32,52,1361581200.0,2013
+Minnesota Timberwolves,Minnesota Timberwolves,Golden State Warriors,20,33,53,1361737800.0,2013
+Minnesota Timberwolves,Phoenix Suns,Minnesota Timberwolves,20,34,54,1361930400.0,2013
+Minnesota Timberwolves,Los Angeles Lakers,Minnesota Timberwolves,20,35,55,1362108600.0,2013
+Minnesota Timberwolves,Portland Trail Blazers,Minnesota Timberwolves,20,36,56,1362279600.0,2013
+Minnesota Timberwolves,Minnesota Timberwolves,Miami Heat,20,37,57,1362445200.0,2013
+Minnesota Timberwolves,Minnesota Timberwolves,Washington Wizards,21,37,58,1362618000.0,2013
+Minnesota Timberwolves,Denver Nuggets,Minnesota Timberwolves,21,38,59,1362880800.0,2013
+Minnesota Timberwolves,Minnesota Timberwolves,Dallas Mavericks,21,39,60,1362956400.0,2013
+Minnesota Timberwolves,Minnesota Timberwolves,San Antonio Spurs,22,39,61,1363132800.0,2013
+Minnesota Timberwolves,Indiana Pacers,Minnesota Timberwolves,22,40,62,1363215600.0,2013
+Minnesota Timberwolves,Houston Rockets,Minnesota Timberwolves,22,41,63,1363392000.0,2013
+Minnesota Timberwolves,Minnesota Timberwolves,New Orleans Hornets,23,41,64,1363561200.0,2013
+Minnesota Timberwolves,Memphis Grizzlies,Minnesota Timberwolves,23,42,65,1363651200.0,2013
+Minnesota Timberwolves,Sacramento Kings,Minnesota Timberwolves,23,43,66,1363917600.0,2013
+Minnesota Timberwolves,Phoenix Suns,Minnesota Timberwolves,24,43,67,1364004000.0,2013
+Minnesota Timberwolves,Minnesota Timberwolves,Chicago Bulls,24,44,68,1364166000.0,2013
+Minnesota Timberwolves,Detroit Pistons,Minnesota Timberwolves,25,44,69,1364340600.0,2013
+Minnesota Timberwolves,Minnesota Timberwolves,Los Angeles Lakers,25,45,70,1364428800.0,2013
+Minnesota Timberwolves,Minnesota Timberwolves,Oklahoma City Thunder,26,45,71,1364601600.0,2013
+Minnesota Timberwolves,Minnesota Timberwolves,Memphis Grizzlies,26,46,72,1364688000.0,2013
+Minnesota Timberwolves,Minnesota Timberwolves,Boston Celtics,27,46,73,1364860800.0,2013
+Minnesota Timberwolves,Milwaukee Bucks,Minnesota Timberwolves,28,46,74,1365033600.0,2013
+Minnesota Timberwolves,Minnesota Timberwolves,Toronto Raptors,28,47,75,1365206400.0,2013
+Minnesota Timberwolves,Minnesota Timberwolves,Detroit Pistons,29,47,76,1365292800.0,2013
+Minnesota Timberwolves,Golden State Warriors,Minnesota Timberwolves,29,48,77,1365561000.0,2013
+Minnesota Timberwolves,Los Angeles Clippers,Minnesota Timberwolves,29,49,78,1365647400.0,2013
+Minnesota Timberwolves,Utah Jazz,Minnesota Timberwolves,29,50,79,1365814800.0,2013
+Minnesota Timberwolves,Minnesota Timberwolves,Phoenix Suns,30,50,80,1365897600.0,2013
+Minnesota Timberwolves,Minnesota Timberwolves,Utah Jazz,30,51,81,1366070400.0,2013
+Minnesota Timberwolves,San Antonio Spurs,Minnesota Timberwolves,31,51,82,1366243200.0,2013
+New Orleans Hornets,New Orleans Hornets,San Antonio Spurs,0,1,1,1351728000.0,2013
+New Orleans Hornets,New Orleans Hornets,Utah Jazz,1,1,2,1351900800.0,2013
+New Orleans Hornets,Chicago Bulls,New Orleans Hornets,2,1,3,1351987200.0,2013
+New Orleans Hornets,New Orleans Hornets,Philadelphia 76ers,2,2,4,1352336400.0,2013
+New Orleans Hornets,New Orleans Hornets,Charlotte Bobcats,3,2,5,1352509200.0,2013
+New Orleans Hornets,Houston Rockets,New Orleans Hornets,3,3,6,1352941200.0,2013
+New Orleans Hornets,New Orleans Hornets,Oklahoma City Thunder,3,4,7,1353114000.0,2013
+New Orleans Hornets,Milwaukee Bucks,New Orleans Hornets,3,5,8,1353202200.0,2013
+New Orleans Hornets,New Orleans Hornets,New York Knicks,3,6,9,1353459600.0,2013
+New Orleans Hornets,Indiana Pacers,New Orleans Hornets,3,7,10,1353542400.0,2013
+New Orleans Hornets,Phoenix Suns,New Orleans Hornets,3,8,11,1353722400.0,2013
+New Orleans Hornets,Denver Nuggets,New Orleans Hornets,3,9,12,1353891600.0,2013
+New Orleans Hornets,Los Angeles Clippers,New Orleans Hornets,4,9,13,1353987000.0,2013
+New Orleans Hornets,New Orleans Hornets,Utah Jazz,4,10,14,1354150800.0,2013
+New Orleans Hornets,New Orleans Hornets,Oklahoma City Thunder,4,11,15,1354410000.0,2013
+New Orleans Hornets,New Orleans Hornets,Milwaukee Bucks,5,11,16,1354582800.0,2013
+New Orleans Hornets,New Orleans Hornets,Los Angeles Lakers,5,12,17,1354755600.0,2013
+New Orleans Hornets,New Orleans Hornets,Memphis Grizzlies,5,13,18,1354928400.0,2013
+New Orleans Hornets,Miami Heat,New Orleans Hornets,5,14,19,1355013000.0,2013
+New Orleans Hornets,New Orleans Hornets,Washington Wizards,5,15,20,1355274000.0,2013
+New Orleans Hornets,Oklahoma City Thunder,New Orleans Hornets,5,16,21,1355360400.0,2013
+New Orleans Hornets,New Orleans Hornets,Minnesota Timberwolves,5,17,22,1355533200.0,2013
+New Orleans Hornets,Portland Trail Blazers,New Orleans Hornets,5,18,23,1355709600.0,2013
+New Orleans Hornets,Golden State Warriors,New Orleans Hornets,5,19,24,1355887800.0,2013
+New Orleans Hornets,Los Angeles Clippers,New Orleans Hornets,5,20,25,1355974200.0,2013
+New Orleans Hornets,San Antonio Spurs,New Orleans Hornets,5,21,26,1356139800.0,2013
+New Orleans Hornets,New Orleans Hornets,Indiana Pacers,5,22,27,1356224400.0,2013
+New Orleans Hornets,Orlando Magic,New Orleans Hornets,6,22,28,1356566400.0,2013
+New Orleans Hornets,New Orleans Hornets,Toronto Raptors,6,23,29,1356742800.0,2013
+New Orleans Hornets,Charlotte Bobcats,New Orleans Hornets,7,23,30,1356825600.0,2013
+New Orleans Hornets,New Orleans Hornets,Atlanta Hawks,7,24,31,1357088400.0,2013
+New Orleans Hornets,Houston Rockets,New Orleans Hornets,7,25,32,1357174800.0,2013
+New Orleans Hornets,Dallas Mavericks,New Orleans Hornets,8,25,33,1357435800.0,2013
+New Orleans Hornets,New Orleans Hornets,San Antonio Spurs,9,25,34,1357606800.0,2013
+New Orleans Hornets,New Orleans Hornets,Houston Rockets,10,25,35,1357779600.0,2013
+New Orleans Hornets,New Orleans Hornets,Minnesota Timberwolves,11,25,36,1357952400.0,2013
+New Orleans Hornets,New York Knicks,New Orleans Hornets,11,26,37,1358096400.0,2013
+New Orleans Hornets,Philadelphia 76ers,New Orleans Hornets,12,26,38,1358294400.0,2013
+New Orleans Hornets,Boston Celtics,New Orleans Hornets,13,26,39,1358384400.0,2013
+New Orleans Hornets,New Orleans Hornets,Golden State Warriors,13,27,40,1358643600.0,2013
+New Orleans Hornets,New Orleans Hornets,Sacramento Kings,14,27,41,1358791200.0,2013
+New Orleans Hornets,San Antonio Spurs,New Orleans Hornets,14,28,42,1358991000.0,2013
+New Orleans Hornets,New Orleans Hornets,Houston Rockets,14,29,43,1359162000.0,2013
+New Orleans Hornets,Memphis Grizzlies,New Orleans Hornets,15,29,44,1359327600.0,2013
+New Orleans Hornets,Los Angeles Lakers,New Orleans Hornets,15,30,45,1359516600.0,2013
+New Orleans Hornets,Utah Jazz,New Orleans Hornets,15,31,46,1359597600.0,2013
+New Orleans Hornets,Denver Nuggets,New Orleans Hornets,15,32,47,1359770400.0,2013
+New Orleans Hornets,Minnesota Timberwolves,New Orleans Hornets,15,33,48,1359853200.0,2013
+New Orleans Hornets,New Orleans Hornets,Phoenix Suns,16,33,49,1360198800.0,2013
+New Orleans Hornets,Atlanta Hawks,New Orleans Hornets,17,33,50,1360369800.0,2013
+New Orleans Hornets,Toronto Raptors,New Orleans Hornets,17,34,51,1360537200.0,2013
+New Orleans Hornets,Detroit Pistons,New Orleans Hornets,18,34,52,1360629000.0,2013
+New Orleans Hornets,New Orleans Hornets,Portland Trail Blazers,19,34,53,1360803600.0,2013
+New Orleans Hornets,New Orleans Hornets,Chicago Bulls,19,35,54,1361322000.0,2013
+New Orleans Hornets,Cleveland Cavaliers,New Orleans Hornets,19,36,55,1361408400.0,2013
+New Orleans Hornets,New Orleans Hornets,Dallas Mavericks,19,37,56,1361581200.0,2013
+New Orleans Hornets,New Orleans Hornets,Sacramento Kings,20,37,57,1361746800.0,2013
+New Orleans Hornets,New Orleans Hornets,Brooklyn Nets,20,38,58,1361926800.0,2013
+New Orleans Hornets,Oklahoma City Thunder,New Orleans Hornets,20,39,59,1362013200.0,2013
+New Orleans Hornets,New Orleans Hornets,Detroit Pistons,21,39,60,1362186000.0,2013
+New Orleans Hornets,New Orleans Hornets,Orlando Magic,21,40,61,1362445200.0,2013
+New Orleans Hornets,New Orleans Hornets,Los Angeles Lakers,21,41,62,1362618000.0,2013
+New Orleans Hornets,Memphis Grizzlies,New Orleans Hornets,21,42,63,1362877200.0,2013
+New Orleans Hornets,New Orleans Hornets,Portland Trail Blazers,22,42,64,1362956400.0,2013
+New Orleans Hornets,Brooklyn Nets,New Orleans Hornets,22,43,65,1363131000.0,2013
+New Orleans Hornets,Washington Wizards,New Orleans Hornets,22,44,66,1363388400.0,2013
+New Orleans Hornets,Minnesota Timberwolves,New Orleans Hornets,22,45,67,1363561200.0,2013
+New Orleans Hornets,New Orleans Hornets,Golden State Warriors,22,46,68,1363651200.0,2013
+New Orleans Hornets,New Orleans Hornets,Boston Celtics,23,46,69,1363824000.0,2013
+New Orleans Hornets,New Orleans Hornets,Memphis Grizzlies,24,46,70,1363996800.0,2013
+New Orleans Hornets,New Orleans Hornets,Denver Nuggets,25,46,71,1364256000.0,2013
+New Orleans Hornets,New Orleans Hornets,Los Angeles Clippers,25,47,72,1364428800.0,2013
+New Orleans Hornets,New Orleans Hornets,Miami Heat,25,48,73,1364601600.0,2013
+New Orleans Hornets,New Orleans Hornets,Cleveland Cavaliers,26,48,74,1364767200.0,2013
+New Orleans Hornets,Golden State Warriors,New Orleans Hornets,26,49,75,1365042600.0,2013
+New Orleans Hornets,Utah Jazz,New Orleans Hornets,26,50,76,1365210000.0,2013
+New Orleans Hornets,Phoenix Suns,New Orleans Hornets,27,50,77,1365382800.0,2013
+New Orleans Hornets,Los Angeles Lakers,New Orleans Hornets,27,51,78,1365561000.0,2013
+New Orleans Hornets,Sacramento Kings,New Orleans Hornets,27,52,79,1365645600.0,2013
+New Orleans Hornets,New Orleans Hornets,Los Angeles Clippers,27,53,80,1365811200.0,2013
+New Orleans Hornets,New Orleans Hornets,Dallas Mavericks,27,54,81,1365976800.0,2013
+New Orleans Hornets,Dallas Mavericks,New Orleans Hornets,27,55,82,1366243200.0,2013
+New York Knicks,New York Knicks,Miami Heat,1,0,1,1351900800.0,2013
+New York Knicks,New York Knicks,Philadelphia 76ers,2,0,2,1352048400.0,2013
+New York Knicks,Philadelphia 76ers,New York Knicks,3,0,3,1352160000.0,2013
+New York Knicks,New York Knicks,Dallas Mavericks,4,0,4,1352507400.0,2013
+New York Knicks,Orlando Magic,New York Knicks,5,0,5,1352851200.0,2013
+New York Knicks,San Antonio Spurs,New York Knicks,6,0,6,1353029400.0,2013
+New York Knicks,Memphis Grizzlies,New York Knicks,6,1,7,1353119400.0,2013
+New York Knicks,New York Knicks,Indiana Pacers,7,1,8,1353258000.0,2013
+New York Knicks,New Orleans Hornets,New York Knicks,8,1,9,1353459600.0,2013
+New York Knicks,Dallas Mavericks,New York Knicks,8,2,10,1353547800.0,2013
+New York Knicks,Houston Rockets,New York Knicks,8,3,11,1353718800.0,2013
+New York Knicks,New York Knicks,Detroit Pistons,9,3,12,1353866400.0,2013
+New York Knicks,Brooklyn Nets,New York Knicks,9,4,13,1353974400.0,2013
+New York Knicks,Milwaukee Bucks,New York Knicks,10,4,14,1354150800.0,2013
+New York Knicks,New York Knicks,Washington Wizards,11,4,15,1354321800.0,2013
+New York Knicks,New York Knicks,Phoenix Suns,12,4,16,1354467600.0,2013
+New York Knicks,Charlotte Bobcats,New York Knicks,13,4,17,1354752000.0,2013
+New York Knicks,Miami Heat,New York Knicks,14,4,18,1354842000.0,2013
+New York Knicks,Chicago Bulls,New York Knicks,14,5,19,1355014800.0,2013
+New York Knicks,New York Knicks,Denver Nuggets,15,5,20,1355099400.0,2013
+New York Knicks,Brooklyn Nets,New York Knicks,16,5,21,1355270400.0,2013
+New York Knicks,New York Knicks,Los Angeles Lakers,17,5,22,1355446800.0,2013
+New York Knicks,New York Knicks,Cleveland Cavaliers,18,5,23,1355617800.0,2013
+New York Knicks,New York Knicks,Houston Rockets,18,6,24,1355790600.0,2013
+New York Knicks,New York Knicks,Brooklyn Nets,19,6,25,1355961600.0,2013
+New York Knicks,New York Knicks,Chicago Bulls,19,7,26,1356136200.0,2013
+New York Knicks,New York Knicks,Minnesota Timberwolves,20,7,27,1356300000.0,2013
+New York Knicks,Los Angeles Lakers,New York Knicks,20,8,28,1356465600.0,2013
+New York Knicks,Phoenix Suns,New York Knicks,21,8,29,1356573600.0,2013
+New York Knicks,Sacramento Kings,New York Knicks,21,9,30,1356750000.0,2013
+New York Knicks,New York Knicks,Portland Trail Blazers,21,10,31,1357086600.0,2013
+New York Knicks,New York Knicks,San Antonio Spurs,22,10,32,1357259400.0,2013
+New York Knicks,Orlando Magic,New York Knicks,23,10,33,1357430400.0,2013
+New York Knicks,New York Knicks,Boston Celtics,23,11,34,1357605000.0,2013
+New York Knicks,Indiana Pacers,New York Knicks,23,12,35,1357866000.0,2013
+New York Knicks,New York Knicks,Chicago Bulls,23,13,36,1357952400.0,2013
+New York Knicks,New York Knicks,New Orleans Hornets,24,13,37,1358096400.0,2013
+New York Knicks,Detroit Pistons,New York Knicks,25,13,38,1358452800.0,2013
+New York Knicks,New York Knicks,Brooklyn Nets,25,14,39,1358800200.0,2013
+New York Knicks,Boston Celtics,New York Knicks,26,14,40,1359075600.0,2013
+New York Knicks,Philadelphia 76ers,New York Knicks,26,15,41,1359244800.0,2013
+New York Knicks,New York Knicks,Atlanta Hawks,27,15,42,1359329400.0,2013
+New York Knicks,New York Knicks,Orlando Magic,28,15,43,1359592200.0,2013
+New York Knicks,New York Knicks,Milwaukee Bucks,29,15,44,1359765000.0,2013
+New York Knicks,New York Knicks,Sacramento Kings,30,15,45,1359851400.0,2013
+New York Knicks,New York Knicks,Detroit Pistons,31,15,46,1360024200.0,2013
+New York Knicks,Washington Wizards,New York Knicks,31,16,47,1360195200.0,2013
+New York Knicks,Minnesota Timberwolves,New York Knicks,32,16,48,1360371600.0,2013
+New York Knicks,New York Knicks,Los Angeles Clippers,32,17,49,1360519200.0,2013
+New York Knicks,New York Knicks,Toronto Raptors,32,18,50,1360801800.0,2013
+New York Knicks,Indiana Pacers,New York Knicks,32,19,51,1361404800.0,2013
+New York Knicks,Toronto Raptors,New York Knicks,32,20,52,1361577600.0,2013
+New York Knicks,New York Knicks,Philadelphia 76ers,33,20,53,1361750400.0,2013
+New York Knicks,New York Knicks,Golden State Warriors,34,20,54,1362013200.0,2013
+New York Knicks,Washington Wizards,New York Knicks,35,20,55,1362182400.0,2013
+New York Knicks,New York Knicks,Miami Heat,35,21,56,1362333600.0,2013
+New York Knicks,Cleveland Cavaliers,New York Knicks,36,21,57,1362441600.0,2013
+New York Knicks,Detroit Pistons,New York Knicks,37,21,58,1362616200.0,2013
+New York Knicks,New York Knicks,Oklahoma City Thunder,37,22,59,1362704400.0,2013
+New York Knicks,New York Knicks,Utah Jazz,38,22,60,1362875400.0,2013
+New York Knicks,Golden State Warriors,New York Knicks,38,23,61,1363055400.0,2013
+New York Knicks,Denver Nuggets,New York Knicks,38,24,62,1363228200.0,2013
+New York Knicks,Portland Trail Blazers,New York Knicks,38,25,63,1363314600.0,2013
+New York Knicks,Los Angeles Clippers,New York Knicks,38,26,64,1363548600.0,2013
+New York Knicks,Utah Jazz,New York Knicks,39,26,65,1363660200.0,2013
+New York Knicks,New York Knicks,Orlando Magic,40,26,66,1363822200.0,2013
+New York Knicks,Toronto Raptors,New York Knicks,41,26,67,1363993200.0,2013
+New York Knicks,New York Knicks,Toronto Raptors,42,26,68,1364081400.0,2013
+New York Knicks,Boston Celtics,New York Knicks,43,26,69,1364338800.0,2013
+New York Knicks,New York Knicks,Memphis Grizzlies,44,26,70,1364427000.0,2013
+New York Knicks,New York Knicks,Charlotte Bobcats,45,26,71,1364599800.0,2013
+New York Knicks,New York Knicks,Boston Celtics,46,26,72,1364772600.0,2013
+New York Knicks,Miami Heat,New York Knicks,47,26,73,1364947200.0,2013
+New York Knicks,Atlanta Hawks,New York Knicks,48,26,74,1365030000.0,2013
+New York Knicks,New York Knicks,Milwaukee Bucks,49,26,75,1365204600.0,2013
+New York Knicks,Oklahoma City Thunder,New York Knicks,50,26,76,1365354000.0,2013
+New York Knicks,New York Knicks,Washington Wizards,51,26,77,1365550200.0,2013
+New York Knicks,Chicago Bulls,New York Knicks,51,27,78,1365724800.0,2013
+New York Knicks,Cleveland Cavaliers,New York Knicks,52,27,79,1365809400.0,2013
+New York Knicks,New York Knicks,Indiana Pacers,53,27,80,1365967800.0,2013
+New York Knicks,Charlotte Bobcats,New York Knicks,53,28,81,1366066800.0,2013
+New York Knicks,New York Knicks,Atlanta Hawks,54,28,82,1366243200.0,2013
+Oklahoma City Thunder,San Antonio Spurs,Oklahoma City Thunder,0,1,1,1351819800.0,2013
+Oklahoma City Thunder,Oklahoma City Thunder,Portland Trail Blazers,1,1,2,1351900800.0,2013
+Oklahoma City Thunder,Oklahoma City Thunder,Atlanta Hawks,1,2,3,1352073600.0,2013
+Oklahoma City Thunder,Oklahoma City Thunder,Toronto Raptors,2,2,4,1352250000.0,2013
+Oklahoma City Thunder,Chicago Bulls,Oklahoma City Thunder,3,2,5,1352422800.0,2013
+Oklahoma City Thunder,Oklahoma City Thunder,Detroit Pistons,4,2,6,1352509200.0,2013
+Oklahoma City Thunder,Oklahoma City Thunder,Cleveland Cavaliers,5,2,7,1352678400.0,2013
+Oklahoma City Thunder,Detroit Pistons,Oklahoma City Thunder,6,2,8,1352766600.0,2013
+Oklahoma City Thunder,Oklahoma City Thunder,Memphis Grizzlies,6,3,9,1352941200.0,2013
+Oklahoma City Thunder,New Orleans Hornets,Oklahoma City Thunder,7,3,10,1353114000.0,2013
+Oklahoma City Thunder,Oklahoma City Thunder,Golden State Warriors,8,3,11,1353283200.0,2013
+Oklahoma City Thunder,Oklahoma City Thunder,Los Angeles Clippers,9,3,12,1353544200.0,2013
+Oklahoma City Thunder,Boston Celtics,Oklahoma City Thunder,9,4,13,1353717000.0,2013
+Oklahoma City Thunder,Philadelphia 76ers,Oklahoma City Thunder,10,4,14,1353801600.0,2013
+Oklahoma City Thunder,Oklahoma City Thunder,Charlotte Bobcats,11,4,15,1353978000.0,2013
+Oklahoma City Thunder,Oklahoma City Thunder,Houston Rockets,12,4,16,1354150800.0,2013
+Oklahoma City Thunder,Oklahoma City Thunder,Utah Jazz,13,4,17,1354323600.0,2013
+Oklahoma City Thunder,New Orleans Hornets,Oklahoma City Thunder,14,4,18,1354410000.0,2013
+Oklahoma City Thunder,Brooklyn Nets,Oklahoma City Thunder,15,4,19,1354667400.0,2013
+Oklahoma City Thunder,Oklahoma City Thunder,Los Angeles Lakers,16,4,20,1354933800.0,2013
+Oklahoma City Thunder,Oklahoma City Thunder,Indiana Pacers,17,4,21,1355097600.0,2013
+Oklahoma City Thunder,Oklahoma City Thunder,New Orleans Hornets,18,4,22,1355360400.0,2013
+Oklahoma City Thunder,Oklahoma City Thunder,Sacramento Kings,19,4,23,1355533200.0,2013
+Oklahoma City Thunder,Oklahoma City Thunder,San Antonio Spurs,20,4,24,1355792400.0,2013
+Oklahoma City Thunder,Atlanta Hawks,Oklahoma City Thunder,21,4,25,1355963400.0,2013
+Oklahoma City Thunder,Minnesota Timberwolves,Oklahoma City Thunder,21,5,26,1356048000.0,2013
+Oklahoma City Thunder,Miami Heat,Oklahoma City Thunder,21,6,27,1356474600.0,2013
+Oklahoma City Thunder,Oklahoma City Thunder,Dallas Mavericks,22,6,28,1356656400.0,2013
+Oklahoma City Thunder,Houston Rockets,Oklahoma City Thunder,23,6,29,1356829200.0,2013
+Oklahoma City Thunder,Oklahoma City Thunder,Phoenix Suns,24,6,30,1357002000.0,2013
+Oklahoma City Thunder,Oklahoma City Thunder,Brooklyn Nets,24,7,31,1357174800.0,2013
+Oklahoma City Thunder,Oklahoma City Thunder,Philadelphia 76ers,25,7,32,1357347600.0,2013
+Oklahoma City Thunder,Toronto Raptors,Oklahoma City Thunder,26,7,33,1357495200.0,2013
+Oklahoma City Thunder,Washington Wizards,Oklahoma City Thunder,26,8,34,1357603200.0,2013
+Oklahoma City Thunder,Oklahoma City Thunder,Minnesota Timberwolves,27,8,35,1357779600.0,2013
+Oklahoma City Thunder,Los Angeles Lakers,Oklahoma City Thunder,28,8,36,1357961400.0,2013
+Oklahoma City Thunder,Portland Trail Blazers,Oklahoma City Thunder,29,8,37,1358128800.0,2013
+Oklahoma City Thunder,Phoenix Suns,Oklahoma City Thunder,30,8,38,1358215200.0,2013
+Oklahoma City Thunder,Oklahoma City Thunder,Denver Nuggets,31,8,39,1358384400.0,2013
+Oklahoma City Thunder,Dallas Mavericks,Oklahoma City Thunder,32,8,40,1358562600.0,2013
+Oklahoma City Thunder,Denver Nuggets,Oklahoma City Thunder,32,9,41,1358730000.0,2013
+Oklahoma City Thunder,Los Angeles Clippers,Oklahoma City Thunder,33,9,42,1358911800.0,2013
+Oklahoma City Thunder,Golden State Warriors,Oklahoma City Thunder,33,10,43,1358998200.0,2013
+Oklahoma City Thunder,Sacramento Kings,Oklahoma City Thunder,34,10,44,1359169200.0,2013
+Oklahoma City Thunder,Los Angeles Lakers,Oklahoma City Thunder,34,11,45,1359318600.0,2013
+Oklahoma City Thunder,Oklahoma City Thunder,Memphis Grizzlies,35,11,46,1359680400.0,2013
+Oklahoma City Thunder,Cleveland Cavaliers,Oklahoma City Thunder,35,12,47,1359851400.0,2013
+Oklahoma City Thunder,Oklahoma City Thunder,Dallas Mavericks,36,12,48,1360026000.0,2013
+Oklahoma City Thunder,Oklahoma City Thunder,Golden State Warriors,37,12,49,1360198800.0,2013
+Oklahoma City Thunder,Oklahoma City Thunder,Phoenix Suns,38,12,50,1360371600.0,2013
+Oklahoma City Thunder,Phoenix Suns,Oklahoma City Thunder,39,12,51,1360544400.0,2013
+Oklahoma City Thunder,Utah Jazz,Oklahoma City Thunder,39,13,52,1360720800.0,2013
+Oklahoma City Thunder,Oklahoma City Thunder,Miami Heat,39,14,53,1360890000.0,2013
+Oklahoma City Thunder,Houston Rockets,Oklahoma City Thunder,39,15,54,1361408400.0,2013
+Oklahoma City Thunder,Oklahoma City Thunder,Minnesota Timberwolves,40,15,55,1361581200.0,2013
+Oklahoma City Thunder,Oklahoma City Thunder,Chicago Bulls,41,15,56,1361759400.0,2013
+Oklahoma City Thunder,Oklahoma City Thunder,New Orleans Hornets,42,15,57,1362013200.0,2013
+Oklahoma City Thunder,Denver Nuggets,Oklahoma City Thunder,42,16,58,1362195000.0,2013
+Oklahoma City Thunder,Los Angeles Clippers,Oklahoma City Thunder,43,16,59,1362342600.0,2013
+Oklahoma City Thunder,Oklahoma City Thunder,Los Angeles Lakers,44,16,60,1362537000.0,2013
+Oklahoma City Thunder,New York Knicks,Oklahoma City Thunder,45,16,61,1362704400.0,2013
+Oklahoma City Thunder,Charlotte Bobcats,Oklahoma City Thunder,46,16,62,1362787200.0,2013
+Oklahoma City Thunder,Oklahoma City Thunder,Boston Celtics,47,16,63,1362934800.0,2013
+Oklahoma City Thunder,San Antonio Spurs,Oklahoma City Thunder,47,17,64,1363048200.0,2013
+Oklahoma City Thunder,Oklahoma City Thunder,Utah Jazz,48,17,65,1363219200.0,2013
+Oklahoma City Thunder,Oklahoma City Thunder,Orlando Magic,49,17,66,1363392000.0,2013
+Oklahoma City Thunder,Dallas Mavericks,Oklahoma City Thunder,50,17,67,1363563000.0,2013
+Oklahoma City Thunder,Oklahoma City Thunder,Denver Nuggets,50,18,68,1363737600.0,2013
+Oklahoma City Thunder,Memphis Grizzlies,Oklahoma City Thunder,50,19,69,1363824000.0,2013
+Oklahoma City Thunder,Orlando Magic,Oklahoma City Thunder,51,19,70,1363993200.0,2013
+Oklahoma City Thunder,Oklahoma City Thunder,Portland Trail Blazers,52,19,71,1364166000.0,2013
+Oklahoma City Thunder,Oklahoma City Thunder,Washington Wizards,53,19,72,1364428800.0,2013
+Oklahoma City Thunder,Minnesota Timberwolves,Oklahoma City Thunder,53,20,73,1364601600.0,2013
+Oklahoma City Thunder,Milwaukee Bucks,Oklahoma City Thunder,54,20,74,1364689800.0,2013
+Oklahoma City Thunder,Oklahoma City Thunder,San Antonio Spurs,55,20,75,1365125400.0,2013
+Oklahoma City Thunder,Indiana Pacers,Oklahoma City Thunder,56,20,76,1365206400.0,2013
+Oklahoma City Thunder,Oklahoma City Thunder,New York Knicks,56,21,77,1365354000.0,2013
+Oklahoma City Thunder,Utah Jazz,Oklahoma City Thunder,57,21,78,1365555600.0,2013
+Oklahoma City Thunder,Golden State Warriors,Oklahoma City Thunder,58,21,79,1365733800.0,2013
+Oklahoma City Thunder,Portland Trail Blazers,Oklahoma City Thunder,59,21,80,1365818400.0,2013
+Oklahoma City Thunder,Oklahoma City Thunder,Sacramento Kings,60,21,81,1366070400.0,2013
+Oklahoma City Thunder,Oklahoma City Thunder,Milwaukee Bucks,60,22,82,1366243200.0,2013
+Orlando Magic,Orlando Magic,Denver Nuggets,1,0,1,1351897200.0,2013
+Orlando Magic,Orlando Magic,Phoenix Suns,2,0,2,1352070000.0,2013
+Orlando Magic,Chicago Bulls,Orlando Magic,2,1,3,1352250000.0,2013
+Orlando Magic,Minnesota Timberwolves,Orlando Magic,2,2,4,1352336400.0,2013
+Orlando Magic,Orlando Magic,Brooklyn Nets,2,3,5,1352505600.0,2013
+Orlando Magic,Brooklyn Nets,Orlando Magic,2,4,6,1352664000.0,2013
+Orlando Magic,Orlando Magic,New York Knicks,2,5,7,1352851200.0,2013
+Orlando Magic,Detroit Pistons,Orlando Magic,3,5,8,1353112200.0,2013
+Orlando Magic,Toronto Raptors,Orlando Magic,3,6,9,1353261600.0,2013
+Orlando Magic,Atlanta Hawks,Orlando Magic,3,7,10,1353371400.0,2013
+Orlando Magic,Orlando Magic,Detroit Pistons,4,7,11,1353542400.0,2013
+Orlando Magic,Orlando Magic,Cleveland Cavaliers,5,7,12,1353715200.0,2013
+Orlando Magic,Orlando Magic,Boston Celtics,5,8,13,1353884400.0,2013
+Orlando Magic,Orlando Magic,San Antonio Spurs,5,9,14,1354147200.0,2013
+Orlando Magic,Orlando Magic,Brooklyn Nets,5,10,15,1354320000.0,2013
+Orlando Magic,Los Angeles Lakers,Orlando Magic,6,10,16,1354501800.0,2013
+Orlando Magic,Golden State Warriors,Orlando Magic,7,10,17,1354591800.0,2013
+Orlando Magic,Utah Jazz,Orlando Magic,7,11,18,1354759200.0,2013
+Orlando Magic,Sacramento Kings,Orlando Magic,7,12,19,1354935600.0,2013
+Orlando Magic,Phoenix Suns,Orlando Magic,8,12,20,1355101200.0,2013
+Orlando Magic,Orlando Magic,Atlanta Hawks,8,13,21,1355356800.0,2013
+Orlando Magic,Orlando Magic,Golden State Warriors,9,13,22,1355529600.0,2013
+Orlando Magic,Charlotte Bobcats,Orlando Magic,10,13,23,1355617800.0,2013
+Orlando Magic,Orlando Magic,Minnesota Timberwolves,11,13,24,1355788800.0,2013
+Orlando Magic,Orlando Magic,Washington Wizards,12,13,25,1355961600.0,2013
+Orlando Magic,Toronto Raptors,Orlando Magic,12,14,26,1356134400.0,2013
+Orlando Magic,Orlando Magic,Utah Jazz,12,15,27,1356303600.0,2013
+Orlando Magic,Orlando Magic,New Orleans Hornets,12,16,28,1356566400.0,2013
+Orlando Magic,Washington Wizards,Orlando Magic,12,17,29,1356739200.0,2013
+Orlando Magic,Orlando Magic,Toronto Raptors,12,18,30,1356825600.0,2013
+Orlando Magic,Orlando Magic,Miami Heat,12,19,31,1356991200.0,2013
+Orlando Magic,Orlando Magic,Chicago Bulls,12,20,32,1357171200.0,2013
+Orlando Magic,Orlando Magic,New York Knicks,12,21,33,1357430400.0,2013
+Orlando Magic,Portland Trail Blazers,Orlando Magic,12,22,34,1357614000.0,2013
+Orlando Magic,Denver Nuggets,Orlando Magic,12,23,35,1357783200.0,2013
+Orlando Magic,Los Angeles Clippers,Orlando Magic,13,23,36,1358022600.0,2013
+Orlando Magic,Washington Wizards,Orlando Magic,13,24,37,1358208000.0,2013
+Orlando Magic,Orlando Magic,Indiana Pacers,14,24,38,1358380800.0,2013
+Orlando Magic,Orlando Magic,Charlotte Bobcats,14,25,39,1358553600.0,2013
+Orlando Magic,Orlando Magic,Dallas Mavericks,14,26,40,1358722800.0,2013
+Orlando Magic,Detroit Pistons,Orlando Magic,14,27,41,1358901000.0,2013
+Orlando Magic,Orlando Magic,Toronto Raptors,14,28,42,1359072000.0,2013
+Orlando Magic,Orlando Magic,Detroit Pistons,14,29,43,1359327600.0,2013
+Orlando Magic,Brooklyn Nets,Orlando Magic,14,30,44,1359419400.0,2013
+Orlando Magic,New York Knicks,Orlando Magic,14,31,45,1359592200.0,2013
+Orlando Magic,Boston Celtics,Orlando Magic,14,32,46,1359765000.0,2013
+Orlando Magic,Milwaukee Bucks,Orlando Magic,14,33,47,1359855000.0,2013
+Orlando Magic,Philadelphia 76ers,Orlando Magic,14,34,48,1360022400.0,2013
+Orlando Magic,Orlando Magic,Los Angeles Clippers,14,35,49,1360195200.0,2013
+Orlando Magic,Cleveland Cavaliers,Orlando Magic,14,36,50,1360369800.0,2013
+Orlando Magic,Orlando Magic,Portland Trail Blazers,15,36,51,1360537200.0,2013
+Orlando Magic,Orlando Magic,Atlanta Hawks,15,37,52,1360800000.0,2013
+Orlando Magic,Orlando Magic,Charlotte Bobcats,15,38,53,1361318400.0,2013
+Orlando Magic,Dallas Mavericks,Orlando Magic,15,39,54,1361410200.0,2013
+Orlando Magic,Memphis Grizzlies,Orlando Magic,15,40,55,1361581200.0,2013
+Orlando Magic,Orlando Magic,Cleveland Cavaliers,15,41,56,1361664000.0,2013
+Orlando Magic,Philadelphia 76ers,Orlando Magic,16,41,57,1361923200.0,2013
+Orlando Magic,Orlando Magic,Sacramento Kings,16,42,58,1362009600.0,2013
+Orlando Magic,Orlando Magic,Houston Rockets,16,43,59,1362182400.0,2013
+Orlando Magic,Orlando Magic,Memphis Grizzlies,16,44,60,1362351600.0,2013
+Orlando Magic,New Orleans Hornets,Orlando Magic,17,44,61,1362445200.0,2013
+Orlando Magic,Miami Heat,Orlando Magic,17,45,62,1362616200.0,2013
+Orlando Magic,Orlando Magic,Indiana Pacers,17,46,63,1362787200.0,2013
+Orlando Magic,Orlando Magic,Philadelphia 76ers,18,46,64,1362952800.0,2013
+Orlando Magic,Orlando Magic,Los Angeles Lakers,18,47,65,1363129200.0,2013
+Orlando Magic,Oklahoma City Thunder,Orlando Magic,18,48,66,1363392000.0,2013
+Orlando Magic,Milwaukee Bucks,Orlando Magic,18,49,67,1363539600.0,2013
+Orlando Magic,Indiana Pacers,Orlando Magic,18,50,68,1363734000.0,2013
+Orlando Magic,New York Knicks,Orlando Magic,18,51,69,1363822200.0,2013
+Orlando Magic,Orlando Magic,Oklahoma City Thunder,18,52,70,1363993200.0,2013
+Orlando Magic,Orlando Magic,Miami Heat,18,53,71,1364252400.0,2013
+Orlando Magic,Charlotte Bobcats,Orlando Magic,18,54,72,1364425200.0,2013
+Orlando Magic,Orlando Magic,Washington Wizards,19,54,73,1364598000.0,2013
+Orlando Magic,Atlanta Hawks,Orlando Magic,19,55,74,1364684400.0,2013
+Orlando Magic,Houston Rockets,Orlando Magic,19,56,75,1364860800.0,2013
+Orlando Magic,San Antonio Spurs,Orlando Magic,19,57,76,1365035400.0,2013
+Orlando Magic,Chicago Bulls,Orlando Magic,19,58,77,1365206400.0,2013
+Orlando Magic,Cleveland Cavaliers,Orlando Magic,19,59,78,1365372000.0,2013
+Orlando Magic,Orlando Magic,Milwaukee Bucks,20,59,79,1365634800.0,2013
+Orlando Magic,Orlando Magic,Boston Celtics,20,60,80,1365894000.0,2013
+Orlando Magic,Orlando Magic,Chicago Bulls,20,61,81,1366066800.0,2013
+Orlando Magic,Miami Heat,Orlando Magic,20,62,82,1366243200.0,2013
+Philadelphia 76ers,Philadelphia 76ers,Denver Nuggets,1,0,1,1351724400.0,2013
+Philadelphia 76ers,New York Knicks,Philadelphia 76ers,1,1,2,1352048400.0,2013
+Philadelphia 76ers,Philadelphia 76ers,New York Knicks,1,2,3,1352160000.0,2013
+Philadelphia 76ers,New Orleans Hornets,Philadelphia 76ers,2,2,4,1352336400.0,2013
+Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,3,2,5,1352507400.0,2013
+Philadelphia 76ers,Toronto Raptors,Philadelphia 76ers,4,2,6,1352592000.0,2013
+Philadelphia 76ers,Philadelphia 76ers,Milwaukee Bucks,4,3,7,1352764800.0,2013
+Philadelphia 76ers,Philadelphia 76ers,Detroit Pistons,4,4,8,1352937600.0,2013
+Philadelphia 76ers,Philadelphia 76ers,Utah Jazz,5,4,9,1353110400.0,2013
+Philadelphia 76ers,Philadelphia 76ers,Cleveland Cavaliers,6,4,10,1353279600.0,2013
+Philadelphia 76ers,Philadelphia 76ers,Toronto Raptors,7,4,11,1353456000.0,2013
+Philadelphia 76ers,Cleveland Cavaliers,Philadelphia 76ers,7,5,12,1353542400.0,2013
+Philadelphia 76ers,Philadelphia 76ers,Oklahoma City Thunder,7,6,13,1353801600.0,2013
+Philadelphia 76ers,Philadelphia 76ers,Phoenix Suns,8,6,14,1353884400.0,2013
+Philadelphia 76ers,Philadelphia 76ers,Dallas Mavericks,9,6,15,1354060800.0,2013
+Philadelphia 76ers,Charlotte Bobcats,Philadelphia 76ers,10,6,16,1354320000.0,2013
+Philadelphia 76ers,Chicago Bulls,Philadelphia 76ers,10,7,17,1354410000.0,2013
+Philadelphia 76ers,Philadelphia 76ers,Minnesota Timberwolves,10,8,18,1354665600.0,2013
+Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,11,8,19,1354924800.0,2013
+Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,11,9,20,1355013000.0,2013
+Philadelphia 76ers,Philadelphia 76ers,Detroit Pistons,12,9,21,1355184000.0,2013
+Philadelphia 76ers,Philadelphia 76ers,Chicago Bulls,12,10,22,1355358600.0,2013
+Philadelphia 76ers,Indiana Pacers,Philadelphia 76ers,12,11,23,1355529600.0,2013
+Philadelphia 76ers,Philadelphia 76ers,Los Angeles Lakers,12,12,24,1355698800.0,2013
+Philadelphia 76ers,Dallas Mavericks,Philadelphia 76ers,12,13,25,1355880600.0,2013
+Philadelphia 76ers,Houston Rockets,Philadelphia 76ers,12,14,26,1355965200.0,2013
+Philadelphia 76ers,Philadelphia 76ers,Atlanta Hawks,13,14,27,1356134400.0,2013
+Philadelphia 76ers,Brooklyn Nets,Philadelphia 76ers,13,15,28,1356292800.0,2013
+Philadelphia 76ers,Memphis Grizzlies,Philadelphia 76ers,14,15,29,1356570000.0,2013
+Philadelphia 76ers,Golden State Warriors,Philadelphia 76ers,14,16,30,1356751800.0,2013
+Philadelphia 76ers,Portland Trail Blazers,Philadelphia 76ers,14,17,31,1356836400.0,2013
+Philadelphia 76ers,Los Angeles Lakers,Philadelphia 76ers,15,17,32,1357097400.0,2013
+Philadelphia 76ers,Phoenix Suns,Philadelphia 76ers,15,18,33,1357178400.0,2013
+Philadelphia 76ers,Oklahoma City Thunder,Philadelphia 76ers,15,19,34,1357347600.0,2013
+Philadelphia 76ers,San Antonio Spurs,Philadelphia 76ers,15,20,35,1357435800.0,2013
+Philadelphia 76ers,Philadelphia 76ers,Brooklyn Nets,15,21,36,1357689600.0,2013
+Philadelphia 76ers,Toronto Raptors,Philadelphia 76ers,15,22,37,1357776000.0,2013
+Philadelphia 76ers,Philadelphia 76ers,Houston Rockets,16,22,38,1358037000.0,2013
+Philadelphia 76ers,Philadelphia 76ers,New Orleans Hornets,16,23,39,1358294400.0,2013
+Philadelphia 76ers,Philadelphia 76ers,Toronto Raptors,17,23,40,1358553600.0,2013
+Philadelphia 76ers,Philadelphia 76ers,San Antonio Spurs,17,24,41,1358812800.0,2013
+Philadelphia 76ers,Milwaukee Bucks,Philadelphia 76ers,17,25,42,1358902800.0,2013
+Philadelphia 76ers,Philadelphia 76ers,New York Knicks,18,25,43,1359244800.0,2013
+Philadelphia 76ers,Philadelphia 76ers,Memphis Grizzlies,18,26,44,1359417600.0,2013
+Philadelphia 76ers,Philadelphia 76ers,Washington Wizards,19,26,45,1359590400.0,2013
+Philadelphia 76ers,Philadelphia 76ers,Sacramento Kings,20,26,46,1359765000.0,2013
+Philadelphia 76ers,Philadelphia 76ers,Orlando Magic,21,26,47,1360022400.0,2013
+Philadelphia 76ers,Philadelphia 76ers,Indiana Pacers,21,27,48,1360195200.0,2013
+Philadelphia 76ers,Philadelphia 76ers,Charlotte Bobcats,22,27,49,1360458000.0,2013
+Philadelphia 76ers,Philadelphia 76ers,Los Angeles Clippers,22,28,50,1360627200.0,2013
+Philadelphia 76ers,Milwaukee Bucks,Philadelphia 76ers,22,29,51,1360803600.0,2013
+Philadelphia 76ers,Minnesota Timberwolves,Philadelphia 76ers,22,30,52,1361408400.0,2013
+Philadelphia 76ers,Philadelphia 76ers,Miami Heat,22,31,53,1361665800.0,2013
+Philadelphia 76ers,New York Knicks,Philadelphia 76ers,22,32,54,1361750400.0,2013
+Philadelphia 76ers,Philadelphia 76ers,Orlando Magic,22,33,55,1361923200.0,2013
+Philadelphia 76ers,Chicago Bulls,Philadelphia 76ers,22,34,56,1362099600.0,2013
+Philadelphia 76ers,Philadelphia 76ers,Golden State Warriors,23,34,57,1362268800.0,2013
+Philadelphia 76ers,Washington Wizards,Philadelphia 76ers,23,35,58,1362351600.0,2013
+Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,23,36,59,1362528000.0,2013
+Philadelphia 76ers,Atlanta Hawks,Philadelphia 76ers,23,37,60,1362616200.0,2013
+Philadelphia 76ers,Miami Heat,Philadelphia 76ers,23,38,61,1362790800.0,2013
+Philadelphia 76ers,Orlando Magic,Philadelphia 76ers,23,39,62,1362952800.0,2013
+Philadelphia 76ers,Philadelphia 76ers,Brooklyn Nets,24,39,63,1363042800.0,2013
+Philadelphia 76ers,Philadelphia 76ers,Miami Heat,24,40,64,1363215600.0,2013
+Philadelphia 76ers,Philadelphia 76ers,Indiana Pacers,25,40,65,1363476600.0,2013
+Philadelphia 76ers,Philadelphia 76ers,Portland Trail Blazers,26,40,66,1363647600.0,2013
+Philadelphia 76ers,Los Angeles Clippers,Philadelphia 76ers,26,41,67,1363833000.0,2013
+Philadelphia 76ers,Denver Nuggets,Philadelphia 76ers,26,42,68,1363914000.0,2013
+Philadelphia 76ers,Sacramento Kings,Philadelphia 76ers,27,42,69,1364173200.0,2013
+Philadelphia 76ers,Utah Jazz,Philadelphia 76ers,27,43,70,1364259600.0,2013
+Philadelphia 76ers,Philadelphia 76ers,Milwaukee Bucks,28,43,71,1364425200.0,2013
+Philadelphia 76ers,Cleveland Cavaliers,Philadelphia 76ers,29,43,72,1364599800.0,2013
+Philadelphia 76ers,Philadelphia 76ers,Charlotte Bobcats,30,43,73,1364688000.0,2013
+Philadelphia 76ers,Charlotte Bobcats,Philadelphia 76ers,30,44,74,1365030000.0,2013
+Philadelphia 76ers,Atlanta Hawks,Philadelphia 76ers,31,44,75,1365204600.0,2013
+Philadelphia 76ers,Miami Heat,Philadelphia 76ers,31,45,76,1365291000.0,2013
+Philadelphia 76ers,Brooklyn Nets,Philadelphia 76ers,31,46,77,1365550200.0,2013
+Philadelphia 76ers,Philadelphia 76ers,Atlanta Hawks,31,47,78,1365634800.0,2013
+Philadelphia 76ers,Washington Wizards,Philadelphia 76ers,32,47,79,1365807600.0,2013
+Philadelphia 76ers,Philadelphia 76ers,Cleveland Cavaliers,33,47,80,1365967800.0,2013
+Philadelphia 76ers,Detroit Pistons,Philadelphia 76ers,33,48,81,1366068600.0,2013
+Philadelphia 76ers,Indiana Pacers,Philadelphia 76ers,34,48,82,1366243200.0,2013
+Phoenix Suns,Phoenix Suns,Golden State Warriors,0,1,1,1351735200.0,2013
+Phoenix Suns,Phoenix Suns,Detroit Pistons,1,1,2,1351908000.0,2013
+Phoenix Suns,Orlando Magic,Phoenix Suns,1,2,3,1352070000.0,2013
+Phoenix Suns,Miami Heat,Phoenix Suns,1,3,4,1352161800.0,2013
+Phoenix Suns,Charlotte Bobcats,Phoenix Suns,2,3,5,1352332800.0,2013
+Phoenix Suns,Phoenix Suns,Cleveland Cavaliers,3,3,6,1352512800.0,2013
+Phoenix Suns,Utah Jazz,Phoenix Suns,3,4,7,1352599200.0,2013
+Phoenix Suns,Phoenix Suns,Denver Nuggets,4,4,8,1352772000.0,2013
+Phoenix Suns,Phoenix Suns,Chicago Bulls,4,5,9,1352944800.0,2013
+Phoenix Suns,Los Angeles Lakers,Phoenix Suns,4,6,10,1353123000.0,2013
+Phoenix Suns,Phoenix Suns,Miami Heat,4,7,11,1353204000.0,2013
+Phoenix Suns,Phoenix Suns,Portland Trail Blazers,5,7,12,1353549600.0,2013
+Phoenix Suns,Phoenix Suns,New Orleans Hornets,6,7,13,1353722400.0,2013
+Phoenix Suns,Philadelphia 76ers,Phoenix Suns,6,8,14,1353884400.0,2013
+Phoenix Suns,Cleveland Cavaliers,Phoenix Suns,7,8,15,1354060800.0,2013
+Phoenix Suns,Detroit Pistons,Phoenix Suns,7,9,16,1354149000.0,2013
+Phoenix Suns,Toronto Raptors,Phoenix Suns,7,10,17,1354320000.0,2013
+Phoenix Suns,New York Knicks,Phoenix Suns,7,11,18,1354467600.0,2013
+Phoenix Suns,Memphis Grizzlies,Phoenix Suns,7,12,19,1354669200.0,2013
+Phoenix Suns,Phoenix Suns,Dallas Mavericks,7,13,20,1354851000.0,2013
+Phoenix Suns,Los Angeles Clippers,Phoenix Suns,7,14,21,1354998600.0,2013
+Phoenix Suns,Phoenix Suns,Orlando Magic,7,15,22,1355101200.0,2013
+Phoenix Suns,Phoenix Suns,Memphis Grizzlies,8,15,23,1355364000.0,2013
+Phoenix Suns,Phoenix Suns,Utah Jazz,9,15,24,1355536800.0,2013
+Phoenix Suns,Phoenix Suns,Sacramento Kings,10,15,25,1355796000.0,2013
+Phoenix Suns,Phoenix Suns,Charlotte Bobcats,11,15,26,1355968800.0,2013
+Phoenix Suns,Portland Trail Blazers,Phoenix Suns,11,16,27,1356231600.0,2013
+Phoenix Suns,Phoenix Suns,Los Angeles Clippers,11,17,28,1356310800.0,2013
+Phoenix Suns,Phoenix Suns,New York Knicks,11,18,29,1356573600.0,2013
+Phoenix Suns,Indiana Pacers,Phoenix Suns,11,19,30,1356739200.0,2013
+Phoenix Suns,Minnesota Timberwolves,Phoenix Suns,11,20,31,1356829200.0,2013
+Phoenix Suns,Oklahoma City Thunder,Phoenix Suns,11,21,32,1357002000.0,2013
+Phoenix Suns,Phoenix Suns,Philadelphia 76ers,12,21,33,1357178400.0,2013
+Phoenix Suns,Phoenix Suns,Utah Jazz,12,22,34,1357351200.0,2013
+Phoenix Suns,Phoenix Suns,Memphis Grizzlies,12,23,35,1357520400.0,2013
+Phoenix Suns,Milwaukee Bucks,Phoenix Suns,12,24,36,1357693200.0,2013
+Phoenix Suns,Boston Celtics,Phoenix Suns,12,25,37,1357777800.0,2013
+Phoenix Suns,Brooklyn Nets,Phoenix Suns,12,26,38,1357950600.0,2013
+Phoenix Suns,Chicago Bulls,Phoenix Suns,13,26,39,1358038800.0,2013
+Phoenix Suns,Phoenix Suns,Oklahoma City Thunder,13,27,40,1358215200.0,2013
+Phoenix Suns,Phoenix Suns,Milwaukee Bucks,13,28,41,1358474400.0,2013
+Phoenix Suns,Sacramento Kings,Phoenix Suns,14,28,42,1358996400.0,2013
+Phoenix Suns,Phoenix Suns,Los Angeles Clippers,15,28,43,1359084600.0,2013
+Phoenix Suns,San Antonio Spurs,Phoenix Suns,15,29,44,1359250200.0,2013
+Phoenix Suns,Dallas Mavericks,Phoenix Suns,15,30,45,1359333000.0,2013
+Phoenix Suns,Phoenix Suns,Los Angeles Lakers,16,30,46,1359603000.0,2013
+Phoenix Suns,Phoenix Suns,Dallas Mavericks,16,31,47,1359770400.0,2013
+Phoenix Suns,Golden State Warriors,Phoenix Suns,16,32,48,1359862200.0,2013
+Phoenix Suns,Memphis Grizzlies,Phoenix Suns,17,32,49,1360112400.0,2013
+Phoenix Suns,New Orleans Hornets,Phoenix Suns,17,33,50,1360198800.0,2013
+Phoenix Suns,Oklahoma City Thunder,Phoenix Suns,17,34,51,1360371600.0,2013
+Phoenix Suns,Phoenix Suns,Oklahoma City Thunder,17,35,52,1360544400.0,2013
+Phoenix Suns,Los Angeles Lakers,Phoenix Suns,17,36,53,1360726200.0,2013
+Phoenix Suns,Portland Trail Blazers,Phoenix Suns,18,36,54,1361329200.0,2013
+Phoenix Suns,Golden State Warriors,Phoenix Suns,18,37,55,1361417400.0,2013
+Phoenix Suns,Phoenix Suns,Boston Celtics,18,38,56,1361584800.0,2013
+Phoenix Suns,Phoenix Suns,San Antonio Spurs,18,39,57,1361754000.0,2013
+Phoenix Suns,Phoenix Suns,Minnesota Timberwolves,19,39,58,1361930400.0,2013
+Phoenix Suns,San Antonio Spurs,Phoenix Suns,20,39,59,1362015000.0,2013
+Phoenix Suns,Phoenix Suns,Atlanta Hawks,21,39,60,1362189600.0,2013
+Phoenix Suns,Phoenix Suns,Toronto Raptors,21,40,61,1362621600.0,2013
+Phoenix Suns,Sacramento Kings,Phoenix Suns,21,41,62,1362798000.0,2013
+Phoenix Suns,Phoenix Suns,Houston Rockets,22,41,63,1362880800.0,2013
+Phoenix Suns,Phoenix Suns,Denver Nuggets,22,42,64,1363053600.0,2013
+Phoenix Suns,Houston Rockets,Phoenix Suns,22,43,65,1363219200.0,2013
+Phoenix Suns,Atlanta Hawks,Phoenix Suns,22,44,66,1363390200.0,2013
+Phoenix Suns,Washington Wizards,Phoenix Suns,22,45,67,1363474800.0,2013
+Phoenix Suns,Phoenix Suns,Los Angeles Lakers,23,45,68,1363658400.0,2013
+Phoenix Suns,Phoenix Suns,Washington Wizards,23,46,69,1363831200.0,2013
+Phoenix Suns,Phoenix Suns,Minnesota Timberwolves,23,47,70,1364004000.0,2013
+Phoenix Suns,Phoenix Suns,Brooklyn Nets,23,48,71,1364173200.0,2013
+Phoenix Suns,Utah Jazz,Phoenix Suns,23,49,72,1364432400.0,2013
+Phoenix Suns,Phoenix Suns,Sacramento Kings,23,50,73,1364522400.0,2013
+Phoenix Suns,Phoenix Suns,Indiana Pacers,23,51,74,1364695200.0,2013
+Phoenix Suns,Los Angeles Clippers,Phoenix Suns,23,52,75,1365042600.0,2013
+Phoenix Suns,Phoenix Suns,Golden State Warriors,23,53,76,1365213600.0,2013
+Phoenix Suns,Phoenix Suns,New Orleans Hornets,23,54,77,1365382800.0,2013
+Phoenix Suns,Houston Rockets,Phoenix Suns,23,55,78,1365552000.0,2013
+Phoenix Suns,Dallas Mavericks,Phoenix Suns,24,55,79,1365640200.0,2013
+Phoenix Suns,Minnesota Timberwolves,Phoenix Suns,24,56,80,1365897600.0,2013
+Phoenix Suns,Phoenix Suns,Houston Rockets,25,56,81,1366077600.0,2013
+Phoenix Suns,Denver Nuggets,Phoenix Suns,25,57,82,1366243200.0,2013
+Portland Trail Blazers,Portland Trail Blazers,Los Angeles Lakers,1,0,1,1351737000.0,2013
+Portland Trail Blazers,Oklahoma City Thunder,Portland Trail Blazers,1,1,2,1351900800.0,2013
+Portland Trail Blazers,Houston Rockets,Portland Trail Blazers,2,1,3,1351987200.0,2013
+Portland Trail Blazers,Dallas Mavericks,Portland Trail Blazers,2,2,4,1352165400.0,2013
+Portland Trail Blazers,Portland Trail Blazers,Los Angeles Clippers,2,3,5,1352431800.0,2013
+Portland Trail Blazers,Portland Trail Blazers,San Antonio Spurs,2,4,6,1352602800.0,2013
+Portland Trail Blazers,Portland Trail Blazers,Atlanta Hawks,2,5,7,1352775600.0,2013
+Portland Trail Blazers,Sacramento Kings,Portland Trail Blazers,3,5,8,1352862000.0,2013
+Portland Trail Blazers,Portland Trail Blazers,Houston Rockets,4,5,9,1353121200.0,2013
+Portland Trail Blazers,Portland Trail Blazers,Chicago Bulls,5,5,10,1353290400.0,2013
+Portland Trail Blazers,Phoenix Suns,Portland Trail Blazers,5,6,11,1353549600.0,2013
+Portland Trail Blazers,Portland Trail Blazers,Minnesota Timberwolves,6,6,12,1353726000.0,2013
+Portland Trail Blazers,Brooklyn Nets,Portland Trail Blazers,6,7,13,1353873600.0,2013
+Portland Trail Blazers,Detroit Pistons,Portland Trail Blazers,6,8,14,1353976200.0,2013
+Portland Trail Blazers,Washington Wizards,Portland Trail Blazers,6,9,15,1354147200.0,2013
+Portland Trail Blazers,Boston Celtics,Portland Trail Blazers,6,10,16,1354321800.0,2013
+Portland Trail Blazers,Cleveland Cavaliers,Portland Trail Blazers,7,10,17,1354408200.0,2013
+Portland Trail Blazers,Charlotte Bobcats,Portland Trail Blazers,8,10,18,1354579200.0,2013
+Portland Trail Blazers,Indiana Pacers,Portland Trail Blazers,8,11,19,1354752000.0,2013
+Portland Trail Blazers,Portland Trail Blazers,Sacramento Kings,8,12,20,1355022000.0,2013
+Portland Trail Blazers,Portland Trail Blazers,Toronto Raptors,9,12,21,1355194800.0,2013
+Portland Trail Blazers,Portland Trail Blazers,San Antonio Spurs,10,12,22,1355455800.0,2013
+Portland Trail Blazers,Portland Trail Blazers,New Orleans Hornets,11,12,23,1355709600.0,2013
+Portland Trail Blazers,Portland Trail Blazers,Denver Nuggets,12,12,24,1356058800.0,2013
+Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,13,12,25,1356231600.0,2013
+Portland Trail Blazers,Sacramento Kings,Portland Trail Blazers,13,13,26,1356314400.0,2013
+Portland Trail Blazers,Portland Trail Blazers,Sacramento Kings,14,13,27,1356577200.0,2013
+Portland Trail Blazers,Los Angeles Lakers,Portland Trail Blazers,14,14,28,1356751800.0,2013
+Portland Trail Blazers,Portland Trail Blazers,Philadelphia 76ers,15,14,29,1356836400.0,2013
+Portland Trail Blazers,New York Knicks,Portland Trail Blazers,16,14,30,1357086600.0,2013
+Portland Trail Blazers,Toronto Raptors,Portland Trail Blazers,16,15,31,1357171200.0,2013
+Portland Trail Blazers,Memphis Grizzlies,Portland Trail Blazers,17,15,32,1357347600.0,2013
+Portland Trail Blazers,Minnesota Timberwolves,Portland Trail Blazers,18,15,33,1357434000.0,2013
+Portland Trail Blazers,Portland Trail Blazers,Orlando Magic,19,15,34,1357614000.0,2013
+Portland Trail Blazers,Portland Trail Blazers,Miami Heat,20,15,35,1357875000.0,2013
+Portland Trail Blazers,Golden State Warriors,Portland Trail Blazers,20,16,36,1357961400.0,2013
+Portland Trail Blazers,Portland Trail Blazers,Oklahoma City Thunder,20,17,37,1358128800.0,2013
+Portland Trail Blazers,Denver Nuggets,Portland Trail Blazers,20,18,38,1358301600.0,2013
+Portland Trail Blazers,Portland Trail Blazers,Cleveland Cavaliers,20,19,39,1358391600.0,2013
+Portland Trail Blazers,Portland Trail Blazers,Milwaukee Bucks,20,20,40,1358650800.0,2013
+Portland Trail Blazers,Portland Trail Blazers,Washington Wizards,20,21,41,1358823600.0,2013
+Portland Trail Blazers,Portland Trail Blazers,Indiana Pacers,21,21,42,1358996400.0,2013
+Portland Trail Blazers,Portland Trail Blazers,Los Angeles Clippers,22,21,43,1359255600.0,2013
+Portland Trail Blazers,Los Angeles Clippers,Portland Trail Blazers,22,22,44,1359340200.0,2013
+Portland Trail Blazers,Portland Trail Blazers,Dallas Mavericks,23,22,45,1359514800.0,2013
+Portland Trail Blazers,Utah Jazz,Portland Trail Blazers,23,23,46,1359770400.0,2013
+Portland Trail Blazers,Portland Trail Blazers,Utah Jazz,24,23,47,1359860400.0,2013
+Portland Trail Blazers,Minnesota Timberwolves,Portland Trail Blazers,25,23,48,1360026000.0,2013
+Portland Trail Blazers,Dallas Mavericks,Portland Trail Blazers,25,24,49,1360200600.0,2013
+Portland Trail Blazers,Houston Rockets,Portland Trail Blazers,25,25,50,1360371600.0,2013
+Portland Trail Blazers,Orlando Magic,Portland Trail Blazers,25,26,51,1360537200.0,2013
+Portland Trail Blazers,Miami Heat,Portland Trail Blazers,25,27,52,1360715400.0,2013
+Portland Trail Blazers,New Orleans Hornets,Portland Trail Blazers,25,28,53,1360803600.0,2013
+Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,25,29,54,1361329200.0,2013
+Portland Trail Blazers,Los Angeles Lakers,Portland Trail Blazers,25,30,55,1361590200.0,2013
+Portland Trail Blazers,Portland Trail Blazers,Boston Celtics,26,30,56,1361757600.0,2013
+Portland Trail Blazers,Portland Trail Blazers,Denver Nuggets,26,31,57,1362022200.0,2013
+Portland Trail Blazers,Portland Trail Blazers,Minnesota Timberwolves,27,31,58,1362279600.0,2013
+Portland Trail Blazers,Portland Trail Blazers,Charlotte Bobcats,28,31,59,1362452400.0,2013
+Portland Trail Blazers,Memphis Grizzlies,Portland Trail Blazers,28,32,60,1362618000.0,2013
+Portland Trail Blazers,San Antonio Spurs,Portland Trail Blazers,29,32,61,1362792600.0,2013
+Portland Trail Blazers,New Orleans Hornets,Portland Trail Blazers,29,33,62,1362956400.0,2013
+Portland Trail Blazers,Portland Trail Blazers,Memphis Grizzlies,29,34,63,1363140000.0,2013
+Portland Trail Blazers,Portland Trail Blazers,New York Knicks,30,34,64,1363314600.0,2013
+Portland Trail Blazers,Portland Trail Blazers,Detroit Pistons,31,34,65,1363485600.0,2013
+Portland Trail Blazers,Philadelphia 76ers,Portland Trail Blazers,31,35,66,1363647600.0,2013
+Portland Trail Blazers,Milwaukee Bucks,Portland Trail Blazers,31,36,67,1363737600.0,2013
+Portland Trail Blazers,Chicago Bulls,Portland Trail Blazers,32,36,68,1363910400.0,2013
+Portland Trail Blazers,Atlanta Hawks,Portland Trail Blazers,33,36,69,1363995000.0,2013
+Portland Trail Blazers,Oklahoma City Thunder,Portland Trail Blazers,33,37,70,1364166000.0,2013
+Portland Trail Blazers,Portland Trail Blazers,Brooklyn Nets,33,38,71,1364437800.0,2013
+Portland Trail Blazers,Portland Trail Blazers,Utah Jazz,33,39,72,1364608800.0,2013
+Portland Trail Blazers,Golden State Warriors,Portland Trail Blazers,33,40,73,1364697000.0,2013
+Portland Trail Blazers,Utah Jazz,Portland Trail Blazers,33,41,74,1364864400.0,2013
+Portland Trail Blazers,Portland Trail Blazers,Memphis Grizzlies,33,42,75,1365040800.0,2013
+Portland Trail Blazers,Portland Trail Blazers,Houston Rockets,33,43,76,1365215400.0,2013
+Portland Trail Blazers,Portland Trail Blazers,Dallas Mavericks,33,44,77,1365382800.0,2013
+Portland Trail Blazers,Portland Trail Blazers,Los Angeles Lakers,33,45,78,1365645600.0,2013
+Portland Trail Blazers,Portland Trail Blazers,Oklahoma City Thunder,33,46,79,1365818400.0,2013
+Portland Trail Blazers,Denver Nuggets,Portland Trail Blazers,33,47,80,1365973200.0,2013
+Portland Trail Blazers,Los Angeles Clippers,Portland Trail Blazers,33,48,81,1366165800.0,2013
+Portland Trail Blazers,Portland Trail Blazers,Golden State Warriors,33,49,82,1366252200.0,2013
+Sacramento Kings,Chicago Bulls,Sacramento Kings,0,1,1,1351728000.0,2013
+Sacramento Kings,Minnesota Timberwolves,Sacramento Kings,0,2,2,1351900800.0,2013
+Sacramento Kings,Indiana Pacers,Sacramento Kings,0,3,3,1351983600.0,2013
+Sacramento Kings,Sacramento Kings,Golden State Warriors,1,3,4,1352170800.0,2013
+Sacramento Kings,Sacramento Kings,Detroit Pistons,2,3,5,1352343600.0,2013
+Sacramento Kings,Sacramento Kings,San Antonio Spurs,2,4,6,1352516400.0,2013
+Sacramento Kings,Los Angeles Lakers,Sacramento Kings,2,5,7,1352687400.0,2013
+Sacramento Kings,Sacramento Kings,Portland Trail Blazers,2,6,8,1352862000.0,2013
+Sacramento Kings,Sacramento Kings,Atlanta Hawks,2,7,9,1353121200.0,2013
+Sacramento Kings,Sacramento Kings,Brooklyn Nets,2,8,10,1353279600.0,2013
+Sacramento Kings,Sacramento Kings,Los Angeles Lakers,3,8,11,1353553200.0,2013
+Sacramento Kings,Utah Jazz,Sacramento Kings,3,9,12,1353722400.0,2013
+Sacramento Kings,Sacramento Kings,Utah Jazz,4,9,13,1353812400.0,2013
+Sacramento Kings,Sacramento Kings,Minnesota Timberwolves,4,10,14,1354071600.0,2013
+Sacramento Kings,Sacramento Kings,Indiana Pacers,4,11,15,1354330800.0,2013
+Sacramento Kings,Los Angeles Clippers,Sacramento Kings,4,12,16,1354419000.0,2013
+Sacramento Kings,Sacramento Kings,Toronto Raptors,5,12,17,1354762800.0,2013
+Sacramento Kings,Sacramento Kings,Orlando Magic,6,12,18,1354935600.0,2013
+Sacramento Kings,Portland Trail Blazers,Sacramento Kings,7,12,19,1355022000.0,2013
+Sacramento Kings,Dallas Mavericks,Sacramento Kings,7,13,20,1355189400.0,2013
+Sacramento Kings,Milwaukee Bucks,Sacramento Kings,7,14,21,1355360400.0,2013
+Sacramento Kings,Oklahoma City Thunder,Sacramento Kings,7,15,22,1355533200.0,2013
+Sacramento Kings,Sacramento Kings,Denver Nuggets,7,16,23,1355698800.0,2013
+Sacramento Kings,Phoenix Suns,Sacramento Kings,7,17,24,1355796000.0,2013
+Sacramento Kings,Sacramento Kings,Golden State Warriors,8,17,25,1355972400.0,2013
+Sacramento Kings,Los Angeles Clippers,Sacramento Kings,8,18,26,1356147000.0,2013
+Sacramento Kings,Sacramento Kings,Portland Trail Blazers,9,18,27,1356314400.0,2013
+Sacramento Kings,Portland Trail Blazers,Sacramento Kings,9,19,28,1356577200.0,2013
+Sacramento Kings,Sacramento Kings,New York Knicks,10,19,29,1356750000.0,2013
+Sacramento Kings,Sacramento Kings,Boston Celtics,11,19,30,1356919200.0,2013
+Sacramento Kings,Detroit Pistons,Sacramento Kings,11,20,31,1357086600.0,2013
+Sacramento Kings,Cleveland Cavaliers,Sacramento Kings,12,20,32,1357171200.0,2013
+Sacramento Kings,Toronto Raptors,Sacramento Kings,13,20,33,1357344000.0,2013
+Sacramento Kings,Brooklyn Nets,Sacramento Kings,13,21,34,1357432200.0,2013
+Sacramento Kings,Sacramento Kings,Memphis Grizzlies,13,22,35,1357614000.0,2013
+Sacramento Kings,Sacramento Kings,Dallas Mavericks,13,23,36,1357873200.0,2013
+Sacramento Kings,Sacramento Kings,Miami Heat,13,24,37,1358046000.0,2013
+Sacramento Kings,Sacramento Kings,Cleveland Cavaliers,14,24,38,1358218800.0,2013
+Sacramento Kings,Sacramento Kings,Washington Wizards,15,24,39,1358391600.0,2013
+Sacramento Kings,Memphis Grizzlies,Sacramento Kings,15,25,40,1358557200.0,2013
+Sacramento Kings,Charlotte Bobcats,Sacramento Kings,16,25,41,1358640000.0,2013
+Sacramento Kings,New Orleans Hornets,Sacramento Kings,16,26,42,1358791200.0,2013
+Sacramento Kings,Sacramento Kings,Phoenix Suns,16,27,43,1358996400.0,2013
+Sacramento Kings,Sacramento Kings,Oklahoma City Thunder,16,28,44,1359169200.0,2013
+Sacramento Kings,Denver Nuggets,Sacramento Kings,16,29,45,1359252000.0,2013
+Sacramento Kings,Washington Wizards,Sacramento Kings,17,29,46,1359417600.0,2013
+Sacramento Kings,Boston Celtics,Sacramento Kings,17,30,47,1359592200.0,2013
+Sacramento Kings,Philadelphia 76ers,Sacramento Kings,17,31,48,1359765000.0,2013
+Sacramento Kings,New York Knicks,Sacramento Kings,17,32,49,1359851400.0,2013
+Sacramento Kings,Utah Jazz,Sacramento Kings,17,33,50,1360029600.0,2013
+Sacramento Kings,Sacramento Kings,Utah Jazz,18,33,51,1360465200.0,2013
+Sacramento Kings,Sacramento Kings,Houston Rockets,19,33,52,1360548000.0,2013
+Sacramento Kings,Memphis Grizzlies,Sacramento Kings,19,34,53,1360717200.0,2013
+Sacramento Kings,Dallas Mavericks,Sacramento Kings,19,35,54,1360805400.0,2013
+Sacramento Kings,Sacramento Kings,San Antonio Spurs,19,36,55,1361329200.0,2013
+Sacramento Kings,Atlanta Hawks,Sacramento Kings,19,37,56,1361579400.0,2013
+Sacramento Kings,New Orleans Hornets,Sacramento Kings,19,38,57,1361746800.0,2013
+Sacramento Kings,Miami Heat,Sacramento Kings,19,39,58,1361925000.0,2013
+Sacramento Kings,Orlando Magic,Sacramento Kings,20,39,59,1362009600.0,2013
+Sacramento Kings,San Antonio Spurs,Sacramento Kings,20,40,60,1362187800.0,2013
+Sacramento Kings,Sacramento Kings,Charlotte Bobcats,21,40,61,1362351600.0,2013
+Sacramento Kings,Sacramento Kings,Denver Nuggets,21,41,62,1362538800.0,2013
+Sacramento Kings,Golden State Warriors,Sacramento Kings,21,42,63,1362627000.0,2013
+Sacramento Kings,Sacramento Kings,Phoenix Suns,22,42,64,1362798000.0,2013
+Sacramento Kings,Sacramento Kings,Milwaukee Bucks,22,43,65,1362963600.0,2013
+Sacramento Kings,Sacramento Kings,Chicago Bulls,23,43,66,1363226400.0,2013
+Sacramento Kings,Los Angeles Lakers,Sacramento Kings,23,44,67,1363570200.0,2013
+Sacramento Kings,Sacramento Kings,Los Angeles Clippers,24,44,68,1363744800.0,2013
+Sacramento Kings,Sacramento Kings,Minnesota Timberwolves,25,44,69,1363917600.0,2013
+Sacramento Kings,Denver Nuggets,Sacramento Kings,25,45,70,1364086800.0,2013
+Sacramento Kings,Sacramento Kings,Philadelphia 76ers,25,46,71,1364173200.0,2013
+Sacramento Kings,Golden State Warriors,Sacramento Kings,26,46,72,1364437800.0,2013
+Sacramento Kings,Phoenix Suns,Sacramento Kings,27,46,73,1364522400.0,2013
+Sacramento Kings,Sacramento Kings,Los Angeles Lakers,27,47,74,1364695200.0,2013
+Sacramento Kings,Sacramento Kings,Houston Rockets,27,48,75,1365040800.0,2013
+Sacramento Kings,Sacramento Kings,Dallas Mavericks,27,49,76,1365213600.0,2013
+Sacramento Kings,Sacramento Kings,Memphis Grizzlies,27,50,77,1365372000.0,2013
+Sacramento Kings,Sacramento Kings,New Orleans Hornets,28,50,78,1365645600.0,2013
+Sacramento Kings,San Antonio Spurs,Sacramento Kings,28,51,79,1365813000.0,2013
+Sacramento Kings,Houston Rockets,Sacramento Kings,28,52,80,1365980400.0,2013
+Sacramento Kings,Oklahoma City Thunder,Sacramento Kings,28,53,81,1366070400.0,2013
+Sacramento Kings,Sacramento Kings,Los Angeles Clippers,28,54,82,1366252200.0,2013
+San Antonio Spurs,New Orleans Hornets,San Antonio Spurs,1,0,1,1351728000.0,2013
+San Antonio Spurs,San Antonio Spurs,Oklahoma City Thunder,2,0,2,1351819800.0,2013
+San Antonio Spurs,San Antonio Spurs,Utah Jazz,3,0,3,1351989000.0,2013
+San Antonio Spurs,San Antonio Spurs,Indiana Pacers,4,0,4,1352165400.0,2013
+San Antonio Spurs,Los Angeles Clippers,San Antonio Spurs,4,1,5,1352345400.0,2013
+San Antonio Spurs,Sacramento Kings,San Antonio Spurs,5,1,6,1352516400.0,2013
+San Antonio Spurs,Portland Trail Blazers,San Antonio Spurs,6,1,7,1352602800.0,2013
+San Antonio Spurs,Los Angeles Lakers,San Antonio Spurs,7,1,8,1352863800.0,2013
+San Antonio Spurs,San Antonio Spurs,New York Knicks,7,2,9,1353029400.0,2013
+San Antonio Spurs,San Antonio Spurs,Denver Nuggets,8,2,10,1353202200.0,2013
+San Antonio Spurs,San Antonio Spurs,Los Angeles Clippers,8,3,11,1353375000.0,2013
+San Antonio Spurs,Boston Celtics,San Antonio Spurs,9,3,12,1353544200.0,2013
+San Antonio Spurs,Indiana Pacers,San Antonio Spurs,10,3,13,1353718800.0,2013
+San Antonio Spurs,Toronto Raptors,San Antonio Spurs,11,3,14,1353866400.0,2013
+San Antonio Spurs,Washington Wizards,San Antonio Spurs,12,3,15,1353974400.0,2013
+San Antonio Spurs,Orlando Magic,San Antonio Spurs,13,3,16,1354147200.0,2013
+San Antonio Spurs,Miami Heat,San Antonio Spurs,13,4,17,1354237200.0,2013
+San Antonio Spurs,San Antonio Spurs,Memphis Grizzlies,14,4,18,1354411800.0,2013
+San Antonio Spurs,San Antonio Spurs,Milwaukee Bucks,15,4,19,1354757400.0,2013
+San Antonio Spurs,San Antonio Spurs,Houston Rockets,16,4,20,1354930200.0,2013
+San Antonio Spurs,Charlotte Bobcats,San Antonio Spurs,17,4,21,1355011200.0,2013
+San Antonio Spurs,Houston Rockets,San Antonio Spurs,18,4,22,1355187600.0,2013
+San Antonio Spurs,Utah Jazz,San Antonio Spurs,18,5,23,1355369400.0,2013
+San Antonio Spurs,Portland Trail Blazers,San Antonio Spurs,18,6,24,1355455800.0,2013
+San Antonio Spurs,San Antonio Spurs,Boston Celtics,19,6,25,1355621400.0,2013
+San Antonio Spurs,Oklahoma City Thunder,San Antonio Spurs,19,7,26,1355792400.0,2013
+San Antonio Spurs,Denver Nuggets,San Antonio Spurs,19,8,27,1355882400.0,2013
+San Antonio Spurs,San Antonio Spurs,New Orleans Hornets,20,8,28,1356139800.0,2013
+San Antonio Spurs,San Antonio Spurs,Dallas Mavericks,21,8,29,1356307200.0,2013
+San Antonio Spurs,San Antonio Spurs,Toronto Raptors,22,8,30,1356571800.0,2013
+San Antonio Spurs,San Antonio Spurs,Houston Rockets,23,8,31,1356744600.0,2013
+San Antonio Spurs,Dallas Mavericks,San Antonio Spurs,24,8,32,1356913800.0,2013
+San Antonio Spurs,San Antonio Spurs,Brooklyn Nets,25,8,33,1356998400.0,2013
+San Antonio Spurs,Milwaukee Bucks,San Antonio Spurs,26,8,34,1357174800.0,2013
+San Antonio Spurs,New York Knicks,San Antonio Spurs,26,9,35,1357259400.0,2013
+San Antonio Spurs,San Antonio Spurs,Philadelphia 76ers,27,9,36,1357435800.0,2013
+San Antonio Spurs,New Orleans Hornets,San Antonio Spurs,27,10,37,1357606800.0,2013
+San Antonio Spurs,San Antonio Spurs,Los Angeles Lakers,28,10,38,1357779600.0,2013
+San Antonio Spurs,Memphis Grizzlies,San Antonio Spurs,28,11,39,1357952400.0,2013
+San Antonio Spurs,San Antonio Spurs,Minnesota Timberwolves,29,11,40,1358121600.0,2013
+San Antonio Spurs,San Antonio Spurs,Memphis Grizzlies,30,11,41,1358386200.0,2013
+San Antonio Spurs,San Antonio Spurs,Golden State Warriors,31,11,42,1358559000.0,2013
+San Antonio Spurs,Atlanta Hawks,San Antonio Spurs,32,11,43,1358640000.0,2013
+San Antonio Spurs,Philadelphia 76ers,San Antonio Spurs,33,11,44,1358812800.0,2013
+San Antonio Spurs,San Antonio Spurs,New Orleans Hornets,34,11,45,1358991000.0,2013
+San Antonio Spurs,Dallas Mavericks,San Antonio Spurs,35,11,46,1359162000.0,2013
+San Antonio Spurs,San Antonio Spurs,Phoenix Suns,36,11,47,1359250200.0,2013
+San Antonio Spurs,San Antonio Spurs,Charlotte Bobcats,37,11,48,1359595800.0,2013
+San Antonio Spurs,San Antonio Spurs,Washington Wizards,38,11,49,1359855000.0,2013
+San Antonio Spurs,Minnesota Timberwolves,San Antonio Spurs,39,11,50,1360202400.0,2013
+San Antonio Spurs,Detroit Pistons,San Antonio Spurs,39,12,51,1360369800.0,2013
+San Antonio Spurs,Brooklyn Nets,San Antonio Spurs,40,12,52,1360544400.0,2013
+San Antonio Spurs,Chicago Bulls,San Antonio Spurs,41,12,53,1360630800.0,2013
+San Antonio Spurs,Cleveland Cavaliers,San Antonio Spurs,42,12,54,1360800000.0,2013
+San Antonio Spurs,Sacramento Kings,San Antonio Spurs,43,12,55,1361329200.0,2013
+San Antonio Spurs,Los Angeles Clippers,San Antonio Spurs,44,12,56,1361503800.0,2013
+San Antonio Spurs,Golden State Warriors,San Antonio Spurs,44,13,57,1361590200.0,2013
+San Antonio Spurs,Phoenix Suns,San Antonio Spurs,45,13,58,1361754000.0,2013
+San Antonio Spurs,San Antonio Spurs,Phoenix Suns,45,14,59,1362015000.0,2013
+San Antonio Spurs,San Antonio Spurs,Sacramento Kings,46,14,60,1362187800.0,2013
+San Antonio Spurs,San Antonio Spurs,Detroit Pistons,47,14,61,1362355200.0,2013
+San Antonio Spurs,San Antonio Spurs,Chicago Bulls,48,14,62,1362621600.0,2013
+San Antonio Spurs,San Antonio Spurs,Portland Trail Blazers,48,15,63,1362792600.0,2013
+San Antonio Spurs,San Antonio Spurs,Oklahoma City Thunder,49,15,64,1363048200.0,2013
+San Antonio Spurs,Minnesota Timberwolves,San Antonio Spurs,49,16,65,1363132800.0,2013
+San Antonio Spurs,San Antonio Spurs,Dallas Mavericks,50,16,66,1363305600.0,2013
+San Antonio Spurs,San Antonio Spurs,Cleveland Cavaliers,51,16,67,1363480200.0,2013
+San Antonio Spurs,San Antonio Spurs,Golden State Warriors,52,16,68,1363825800.0,2013
+San Antonio Spurs,San Antonio Spurs,Utah Jazz,53,16,69,1363998600.0,2013
+San Antonio Spurs,Houston Rockets,San Antonio Spurs,53,17,70,1364166000.0,2013
+San Antonio Spurs,San Antonio Spurs,Denver Nuggets,54,17,71,1364430600.0,2013
+San Antonio Spurs,San Antonio Spurs,Los Angeles Clippers,55,17,72,1364603400.0,2013
+San Antonio Spurs,San Antonio Spurs,Miami Heat,55,18,73,1364770800.0,2013
+San Antonio Spurs,Memphis Grizzlies,San Antonio Spurs,55,19,74,1364860800.0,2013
+San Antonio Spurs,San Antonio Spurs,Orlando Magic,56,19,75,1365035400.0,2013
+San Antonio Spurs,Oklahoma City Thunder,San Antonio Spurs,56,20,76,1365125400.0,2013
+San Antonio Spurs,San Antonio Spurs,Atlanta Hawks,57,20,77,1365294600.0,2013
+San Antonio Spurs,Denver Nuggets,San Antonio Spurs,57,21,78,1365647400.0,2013
+San Antonio Spurs,San Antonio Spurs,Sacramento Kings,58,21,79,1365813000.0,2013
+San Antonio Spurs,Los Angeles Lakers,San Antonio Spurs,58,22,80,1365989400.0,2013
+San Antonio Spurs,Golden State Warriors,San Antonio Spurs,58,23,81,1366079400.0,2013
+San Antonio Spurs,San Antonio Spurs,Minnesota Timberwolves,58,24,82,1366243200.0,2013
+Toronto Raptors,Toronto Raptors,Indiana Pacers,0,1,1,1351724400.0,2013
+Toronto Raptors,Brooklyn Nets,Toronto Raptors,0,2,2,1351985400.0,2013
+Toronto Raptors,Toronto Raptors,Minnesota Timberwolves,1,2,3,1352070000.0,2013
+Toronto Raptors,Oklahoma City Thunder,Toronto Raptors,1,3,4,1352250000.0,2013
+Toronto Raptors,Dallas Mavericks,Toronto Raptors,1,4,5,1352338200.0,2013
+Toronto Raptors,Toronto Raptors,Philadelphia 76ers,1,5,6,1352592000.0,2013
+Toronto Raptors,Toronto Raptors,Utah Jazz,1,6,7,1352764800.0,2013
+Toronto Raptors,Indiana Pacers,Toronto Raptors,2,6,8,1352851200.0,2013
+Toronto Raptors,Boston Celtics,Toronto Raptors,2,7,9,1353173400.0,2013
+Toronto Raptors,Toronto Raptors,Orlando Magic,3,7,10,1353261600.0,2013
+Toronto Raptors,Philadelphia 76ers,Toronto Raptors,3,8,11,1353456000.0,2013
+Toronto Raptors,Charlotte Bobcats,Toronto Raptors,3,9,12,1353542400.0,2013
+Toronto Raptors,Detroit Pistons,Toronto Raptors,3,10,13,1353717000.0,2013
+Toronto Raptors,Toronto Raptors,San Antonio Spurs,3,11,14,1353866400.0,2013
+Toronto Raptors,Houston Rockets,Toronto Raptors,3,12,15,1354064400.0,2013
+Toronto Raptors,Memphis Grizzlies,Toronto Raptors,3,13,16,1354150800.0,2013
+Toronto Raptors,Toronto Raptors,Phoenix Suns,4,13,17,1354320000.0,2013
+Toronto Raptors,Denver Nuggets,Toronto Raptors,4,14,18,1354586400.0,2013
+Toronto Raptors,Sacramento Kings,Toronto Raptors,4,15,19,1354762800.0,2013
+Toronto Raptors,Utah Jazz,Toronto Raptors,4,16,20,1354932000.0,2013
+Toronto Raptors,Los Angeles Clippers,Toronto Raptors,4,17,21,1355085000.0,2013
+Toronto Raptors,Portland Trail Blazers,Toronto Raptors,4,18,22,1355194800.0,2013
+Toronto Raptors,Toronto Raptors,Brooklyn Nets,4,19,23,1355356800.0,2013
+Toronto Raptors,Toronto Raptors,Dallas Mavericks,5,19,24,1355529600.0,2013
+Toronto Raptors,Toronto Raptors,Houston Rockets,6,19,25,1355680800.0,2013
+Toronto Raptors,Cleveland Cavaliers,Toronto Raptors,7,19,26,1355875200.0,2013
+Toronto Raptors,Toronto Raptors,Detroit Pistons,8,19,27,1355961600.0,2013
+Toronto Raptors,Toronto Raptors,Orlando Magic,9,19,28,1356134400.0,2013
+Toronto Raptors,San Antonio Spurs,Toronto Raptors,9,20,29,1356571800.0,2013
+Toronto Raptors,New Orleans Hornets,Toronto Raptors,10,20,30,1356742800.0,2013
+Toronto Raptors,Orlando Magic,Toronto Raptors,11,20,31,1356825600.0,2013
+Toronto Raptors,Toronto Raptors,Portland Trail Blazers,12,20,32,1357171200.0,2013
+Toronto Raptors,Toronto Raptors,Sacramento Kings,12,21,33,1357344000.0,2013
+Toronto Raptors,Toronto Raptors,Oklahoma City Thunder,12,22,34,1357495200.0,2013
+Toronto Raptors,Toronto Raptors,Philadelphia 76ers,13,22,35,1357776000.0,2013
+Toronto Raptors,Toronto Raptors,Charlotte Bobcats,14,22,36,1357948800.0,2013
+Toronto Raptors,Toronto Raptors,Milwaukee Bucks,14,23,37,1358100000.0,2013
+Toronto Raptors,Brooklyn Nets,Toronto Raptors,14,24,38,1358296200.0,2013
+Toronto Raptors,Toronto Raptors,Chicago Bulls,14,25,39,1358380800.0,2013
+Toronto Raptors,Philadelphia 76ers,Toronto Raptors,14,26,40,1358553600.0,2013
+Toronto Raptors,Toronto Raptors,Los Angeles Lakers,15,26,41,1358704800.0,2013
+Toronto Raptors,Miami Heat,Toronto Raptors,15,27,42,1358987400.0,2013
+Toronto Raptors,Orlando Magic,Toronto Raptors,16,27,43,1359072000.0,2013
+Toronto Raptors,Toronto Raptors,Cleveland Cavaliers,16,28,44,1359244800.0,2013
+Toronto Raptors,Toronto Raptors,Golden State Warriors,16,29,45,1359417600.0,2013
+Toronto Raptors,Atlanta Hawks,Toronto Raptors,16,30,46,1359592200.0,2013
+Toronto Raptors,Toronto Raptors,Los Angeles Clippers,17,30,47,1359763200.0,2013
+Toronto Raptors,Toronto Raptors,Miami Heat,17,31,48,1359918000.0,2013
+Toronto Raptors,Toronto Raptors,Boston Celtics,17,32,49,1360195200.0,2013
+Toronto Raptors,Indiana Pacers,Toronto Raptors,18,32,50,1360368000.0,2013
+Toronto Raptors,Toronto Raptors,New Orleans Hornets,19,32,51,1360537200.0,2013
+Toronto Raptors,Toronto Raptors,Denver Nuggets,20,32,52,1360713600.0,2013
+Toronto Raptors,New York Knicks,Toronto Raptors,21,32,53,1360801800.0,2013
+Toronto Raptors,Washington Wizards,Toronto Raptors,22,32,54,1361318400.0,2013
+Toronto Raptors,Toronto Raptors,Memphis Grizzlies,22,33,55,1361404800.0,2013
+Toronto Raptors,Toronto Raptors,New York Knicks,23,33,56,1361577600.0,2013
+Toronto Raptors,Toronto Raptors,Washington Wizards,23,34,57,1361836800.0,2013
+Toronto Raptors,Cleveland Cavaliers,Toronto Raptors,23,35,58,1362009600.0,2013
+Toronto Raptors,Toronto Raptors,Indiana Pacers,23,36,59,1362182400.0,2013
+Toronto Raptors,Milwaukee Bucks,Toronto Raptors,23,37,60,1362274200.0,2013
+Toronto Raptors,Golden State Warriors,Toronto Raptors,23,38,61,1362454200.0,2013
+Toronto Raptors,Phoenix Suns,Toronto Raptors,24,38,62,1362621600.0,2013
+Toronto Raptors,Los Angeles Lakers,Toronto Raptors,24,39,63,1362799800.0,2013
+Toronto Raptors,Toronto Raptors,Cleveland Cavaliers,25,39,64,1362952800.0,2013
+Toronto Raptors,Boston Celtics,Toronto Raptors,25,40,65,1363217400.0,2013
+Toronto Raptors,Toronto Raptors,Charlotte Bobcats,26,40,66,1363388400.0,2013
+Toronto Raptors,Toronto Raptors,Miami Heat,26,41,67,1363539600.0,2013
+Toronto Raptors,Charlotte Bobcats,Toronto Raptors,26,42,68,1363820400.0,2013
+Toronto Raptors,Toronto Raptors,New York Knicks,26,43,69,1363993200.0,2013
+Toronto Raptors,New York Knicks,Toronto Raptors,26,44,70,1364081400.0,2013
+Toronto Raptors,Toronto Raptors,Atlanta Hawks,26,45,71,1364425200.0,2013
+Toronto Raptors,Detroit Pistons,Toronto Raptors,27,45,72,1364599800.0,2013
+Toronto Raptors,Washington Wizards,Toronto Raptors,27,46,73,1364767200.0,2013
+Toronto Raptors,Toronto Raptors,Detroit Pistons,27,47,74,1364857200.0,2013
+Toronto Raptors,Toronto Raptors,Washington Wizards,28,47,75,1365030000.0,2013
+Toronto Raptors,Minnesota Timberwolves,Toronto Raptors,29,47,76,1365206400.0,2013
+Toronto Raptors,Milwaukee Bucks,Toronto Raptors,29,48,77,1365294600.0,2013
+Toronto Raptors,Chicago Bulls,Toronto Raptors,30,48,78,1365552000.0,2013
+Toronto Raptors,Toronto Raptors,Chicago Bulls,31,48,79,1365807600.0,2013
+Toronto Raptors,Toronto Raptors,Brooklyn Nets,32,48,80,1365967800.0,2013
+Toronto Raptors,Atlanta Hawks,Toronto Raptors,33,48,81,1366156800.0,2013
+Toronto Raptors,Toronto Raptors,Boston Celtics,34,48,82,1366243200.0,2013
+Utah Jazz,Utah Jazz,Dallas Mavericks,1,0,1,1351731600.0,2013
+Utah Jazz,New Orleans Hornets,Utah Jazz,1,1,2,1351900800.0,2013
+Utah Jazz,San Antonio Spurs,Utah Jazz,1,2,3,1351989000.0,2013
+Utah Jazz,Memphis Grizzlies,Utah Jazz,1,3,4,1352163600.0,2013
+Utah Jazz,Utah Jazz,Los Angeles Lakers,2,3,5,1352340000.0,2013
+Utah Jazz,Denver Nuggets,Utah Jazz,2,4,6,1352518200.0,2013
+Utah Jazz,Utah Jazz,Phoenix Suns,3,4,7,1352599200.0,2013
+Utah Jazz,Toronto Raptors,Utah Jazz,4,4,8,1352764800.0,2013
+Utah Jazz,Boston Celtics,Utah Jazz,4,5,9,1352939400.0,2013
+Utah Jazz,Philadelphia 76ers,Utah Jazz,4,6,10,1353110400.0,2013
+Utah Jazz,Washington Wizards,Utah Jazz,5,6,11,1353196800.0,2013
+Utah Jazz,Utah Jazz,Houston Rockets,6,6,12,1353376800.0,2013
+Utah Jazz,Utah Jazz,Sacramento Kings,7,6,13,1353722400.0,2013
+Utah Jazz,Sacramento Kings,Utah Jazz,7,7,14,1353812400.0,2013
+Utah Jazz,Utah Jazz,Denver Nuggets,8,7,15,1353981600.0,2013
+Utah Jazz,New Orleans Hornets,Utah Jazz,9,7,16,1354150800.0,2013
+Utah Jazz,Oklahoma City Thunder,Utah Jazz,9,8,17,1354323600.0,2013
+Utah Jazz,Houston Rockets,Utah Jazz,9,9,18,1354410000.0,2013
+Utah Jazz,Utah Jazz,Los Angeles Clippers,9,10,19,1354586400.0,2013
+Utah Jazz,Utah Jazz,Orlando Magic,10,10,20,1354759200.0,2013
+Utah Jazz,Utah Jazz,Toronto Raptors,11,10,21,1354932000.0,2013
+Utah Jazz,Los Angeles Lakers,Utah Jazz,12,10,22,1355106600.0,2013
+Utah Jazz,Utah Jazz,San Antonio Spurs,13,10,23,1355369400.0,2013
+Utah Jazz,Phoenix Suns,Utah Jazz,13,11,24,1355536800.0,2013
+Utah Jazz,Utah Jazz,Memphis Grizzlies,13,12,25,1355623200.0,2013
+Utah Jazz,Brooklyn Nets,Utah Jazz,14,12,26,1355877000.0,2013
+Utah Jazz,Indiana Pacers,Utah Jazz,14,13,27,1355961600.0,2013
+Utah Jazz,Miami Heat,Utah Jazz,14,14,28,1356222600.0,2013
+Utah Jazz,Orlando Magic,Utah Jazz,15,14,29,1356303600.0,2013
+Utah Jazz,Utah Jazz,Golden State Warriors,15,15,30,1356573600.0,2013
+Utah Jazz,Utah Jazz,Los Angeles Clippers,15,16,31,1356746400.0,2013
+Utah Jazz,Los Angeles Clippers,Utah Jazz,15,17,32,1356921000.0,2013
+Utah Jazz,Utah Jazz,Minnesota Timberwolves,16,17,33,1357178400.0,2013
+Utah Jazz,Phoenix Suns,Utah Jazz,17,17,34,1357351200.0,2013
+Utah Jazz,Denver Nuggets,Utah Jazz,17,18,35,1357437600.0,2013
+Utah Jazz,Utah Jazz,Dallas Mavericks,18,18,36,1357610400.0,2013
+Utah Jazz,Charlotte Bobcats,Utah Jazz,19,18,37,1357776000.0,2013
+Utah Jazz,Atlanta Hawks,Utah Jazz,19,19,38,1357950600.0,2013
+Utah Jazz,Detroit Pistons,Utah Jazz,20,19,39,1358037000.0,2013
+Utah Jazz,Utah Jazz,Miami Heat,21,19,40,1358215200.0,2013
+Utah Jazz,Utah Jazz,Cleveland Cavaliers,22,19,41,1358647200.0,2013
+Utah Jazz,Utah Jazz,Washington Wizards,23,19,42,1358992800.0,2013
+Utah Jazz,Los Angeles Lakers,Utah Jazz,23,20,43,1359171000.0,2013
+Utah Jazz,Utah Jazz,Indiana Pacers,24,20,44,1359253800.0,2013
+Utah Jazz,Utah Jazz,Houston Rockets,24,21,45,1359424800.0,2013
+Utah Jazz,Utah Jazz,New Orleans Hornets,25,21,46,1359597600.0,2013
+Utah Jazz,Utah Jazz,Portland Trail Blazers,26,21,47,1359770400.0,2013
+Utah Jazz,Portland Trail Blazers,Utah Jazz,26,22,48,1359860400.0,2013
+Utah Jazz,Utah Jazz,Sacramento Kings,27,22,49,1360029600.0,2013
+Utah Jazz,Utah Jazz,Milwaukee Bucks,28,22,50,1360202400.0,2013
+Utah Jazz,Utah Jazz,Chicago Bulls,28,23,51,1360380600.0,2013
+Utah Jazz,Sacramento Kings,Utah Jazz,28,24,52,1360465200.0,2013
+Utah Jazz,Utah Jazz,Oklahoma City Thunder,29,24,53,1360720800.0,2013
+Utah Jazz,Minnesota Timberwolves,Utah Jazz,30,24,54,1360803600.0,2013
+Utah Jazz,Utah Jazz,Golden State Warriors,31,24,55,1361325600.0,2013
+Utah Jazz,Los Angeles Clippers,Utah Jazz,31,25,56,1361676600.0,2013
+Utah Jazz,Utah Jazz,Boston Celtics,31,26,57,1361844000.0,2013
+Utah Jazz,Utah Jazz,Atlanta Hawks,31,27,58,1362016800.0,2013
+Utah Jazz,Utah Jazz,Charlotte Bobcats,32,27,59,1362189600.0,2013
+Utah Jazz,Milwaukee Bucks,Utah Jazz,32,28,60,1362445200.0,2013
+Utah Jazz,Cleveland Cavaliers,Utah Jazz,32,29,61,1362614400.0,2013
+Utah Jazz,Chicago Bulls,Utah Jazz,32,30,62,1362790800.0,2013
+Utah Jazz,New York Knicks,Utah Jazz,32,31,63,1362875400.0,2013
+Utah Jazz,Utah Jazz,Detroit Pistons,33,31,64,1363050000.0,2013
+Utah Jazz,Oklahoma City Thunder,Utah Jazz,33,32,65,1363219200.0,2013
+Utah Jazz,Utah Jazz,Memphis Grizzlies,34,32,66,1363485600.0,2013
+Utah Jazz,Utah Jazz,New York Knicks,34,33,67,1363660200.0,2013
+Utah Jazz,Houston Rockets,Utah Jazz,34,34,68,1363824000.0,2013
+Utah Jazz,San Antonio Spurs,Utah Jazz,34,35,69,1363998600.0,2013
+Utah Jazz,Dallas Mavericks,Utah Jazz,34,36,70,1364167800.0,2013
+Utah Jazz,Utah Jazz,Philadelphia 76ers,35,36,71,1364259600.0,2013
+Utah Jazz,Utah Jazz,Phoenix Suns,36,36,72,1364432400.0,2013
+Utah Jazz,Portland Trail Blazers,Utah Jazz,37,36,73,1364608800.0,2013
+Utah Jazz,Utah Jazz,Brooklyn Nets,38,36,74,1364691600.0,2013
+Utah Jazz,Utah Jazz,Portland Trail Blazers,39,36,75,1364864400.0,2013
+Utah Jazz,Utah Jazz,Denver Nuggets,39,37,76,1365037200.0,2013
+Utah Jazz,Utah Jazz,New Orleans Hornets,40,37,77,1365210000.0,2013
+Utah Jazz,Golden State Warriors,Utah Jazz,41,37,78,1365379200.0,2013
+Utah Jazz,Utah Jazz,Oklahoma City Thunder,41,38,79,1365555600.0,2013
+Utah Jazz,Utah Jazz,Minnesota Timberwolves,42,38,80,1365814800.0,2013
+Utah Jazz,Minnesota Timberwolves,Utah Jazz,43,38,81,1366070400.0,2013
+Utah Jazz,Memphis Grizzlies,Utah Jazz,43,39,82,1366243200.0,2013
+Washington Wizards,Cleveland Cavaliers,Washington Wizards,0,1,1,1351638000.0,2013
+Washington Wizards,Washington Wizards,Boston Celtics,0,2,2,1351983600.0,2013
+Washington Wizards,Boston Celtics,Washington Wizards,0,3,3,1352334600.0,2013
+Washington Wizards,Washington Wizards,Milwaukee Bucks,0,4,4,1352505600.0,2013
+Washington Wizards,Indiana Pacers,Washington Wizards,0,5,5,1352592000.0,2013
+Washington Wizards,Charlotte Bobcats,Washington Wizards,0,6,6,1352851200.0,2013
+Washington Wizards,Dallas Mavericks,Washington Wizards,0,7,7,1352943000.0,2013
+Washington Wizards,Washington Wizards,Utah Jazz,0,8,8,1353196800.0,2013
+Washington Wizards,Washington Wizards,Indiana Pacers,0,9,9,1353369600.0,2013
+Washington Wizards,Atlanta Hawks,Washington Wizards,0,10,10,1353544200.0,2013
+Washington Wizards,Washington Wizards,Charlotte Bobcats,0,11,11,1353801600.0,2013
+Washington Wizards,Washington Wizards,San Antonio Spurs,0,12,12,1353974400.0,2013
+Washington Wizards,Washington Wizards,Portland Trail Blazers,1,12,13,1354147200.0,2013
+Washington Wizards,New York Knicks,Washington Wizards,1,13,14,1354321800.0,2013
+Washington Wizards,Washington Wizards,Miami Heat,2,13,15,1354665600.0,2013
+Washington Wizards,Atlanta Hawks,Washington Wizards,2,14,16,1354926600.0,2013
+Washington Wizards,Washington Wizards,Golden State Warriors,2,15,17,1355011200.0,2013
+Washington Wizards,New Orleans Hornets,Washington Wizards,3,15,18,1355274000.0,2013
+Washington Wizards,Houston Rockets,Washington Wizards,3,16,19,1355360400.0,2013
+Washington Wizards,Washington Wizards,Los Angeles Lakers,3,17,20,1355529600.0,2013
+Washington Wizards,Miami Heat,Washington Wizards,3,18,21,1355617800.0,2013
+Washington Wizards,Washington Wizards,Atlanta Hawks,3,19,22,1355875200.0,2013
+Washington Wizards,Orlando Magic,Washington Wizards,3,20,23,1355961600.0,2013
+Washington Wizards,Detroit Pistons,Washington Wizards,3,21,24,1356136200.0,2013
+Washington Wizards,Washington Wizards,Detroit Pistons,3,22,25,1356220800.0,2013
+Washington Wizards,Washington Wizards,Cleveland Cavaliers,3,23,26,1356566400.0,2013
+Washington Wizards,Washington Wizards,Orlando Magic,4,23,27,1356739200.0,2013
+Washington Wizards,Chicago Bulls,Washington Wizards,4,24,28,1356829200.0,2013
+Washington Wizards,Washington Wizards,Dallas Mavericks,4,25,29,1357081200.0,2013
+Washington Wizards,Indiana Pacers,Washington Wizards,4,26,30,1357171200.0,2013
+Washington Wizards,Washington Wizards,Brooklyn Nets,4,27,31,1357344000.0,2013
+Washington Wizards,Miami Heat,Washington Wizards,4,28,32,1357513200.0,2013
+Washington Wizards,Washington Wizards,Oklahoma City Thunder,5,28,33,1357603200.0,2013
+Washington Wizards,Washington Wizards,Atlanta Hawks,6,28,34,1358035200.0,2013
+Washington Wizards,Washington Wizards,Orlando Magic,7,28,35,1358208000.0,2013
+Washington Wizards,Sacramento Kings,Washington Wizards,7,29,36,1358391600.0,2013
+Washington Wizards,Denver Nuggets,Washington Wizards,8,29,37,1358560800.0,2013
+Washington Wizards,Los Angeles Clippers,Washington Wizards,8,30,38,1358652600.0,2013
+Washington Wizards,Portland Trail Blazers,Washington Wizards,9,30,39,1358823600.0,2013
+Washington Wizards,Utah Jazz,Washington Wizards,9,31,40,1358992800.0,2013
+Washington Wizards,Washington Wizards,Minnesota Timberwolves,10,31,41,1359158400.0,2013
+Washington Wizards,Washington Wizards,Chicago Bulls,11,31,42,1359244800.0,2013
+Washington Wizards,Washington Wizards,Sacramento Kings,11,32,43,1359417600.0,2013
+Washington Wizards,Philadelphia 76ers,Washington Wizards,11,33,44,1359590400.0,2013
+Washington Wizards,Memphis Grizzlies,Washington Wizards,11,34,45,1359766800.0,2013
+Washington Wizards,San Antonio Spurs,Washington Wizards,11,35,46,1359855000.0,2013
+Washington Wizards,Washington Wizards,Los Angeles Clippers,12,35,47,1360022400.0,2013
+Washington Wizards,Washington Wizards,New York Knicks,13,35,48,1360195200.0,2013
+Washington Wizards,Washington Wizards,Brooklyn Nets,14,35,49,1360368000.0,2013
+Washington Wizards,Milwaukee Bucks,Washington Wizards,15,35,50,1360630800.0,2013
+Washington Wizards,Detroit Pistons,Washington Wizards,15,36,51,1360801800.0,2013
+Washington Wizards,Washington Wizards,Toronto Raptors,15,37,52,1361318400.0,2013
+Washington Wizards,Washington Wizards,Denver Nuggets,16,37,53,1361577600.0,2013
+Washington Wizards,Washington Wizards,Houston Rockets,17,37,54,1361664000.0,2013
+Washington Wizards,Toronto Raptors,Washington Wizards,18,37,55,1361836800.0,2013
+Washington Wizards,Washington Wizards,Detroit Pistons,18,38,56,1362009600.0,2013
+Washington Wizards,Washington Wizards,New York Knicks,18,39,57,1362182400.0,2013
+Washington Wizards,Washington Wizards,Philadelphia 76ers,19,39,58,1362351600.0,2013
+Washington Wizards,Minnesota Timberwolves,Washington Wizards,19,40,59,1362618000.0,2013
+Washington Wizards,Brooklyn Nets,Washington Wizards,19,41,60,1362789000.0,2013
+Washington Wizards,Washington Wizards,Charlotte Bobcats,20,41,61,1362877200.0,2013
+Washington Wizards,Cleveland Cavaliers,Washington Wizards,20,42,62,1363129200.0,2013
+Washington Wizards,Washington Wizards,Milwaukee Bucks,21,42,63,1363215600.0,2013
+Washington Wizards,Washington Wizards,New Orleans Hornets,22,42,64,1363388400.0,2013
+Washington Wizards,Washington Wizards,Phoenix Suns,23,42,65,1363474800.0,2013
+Washington Wizards,Charlotte Bobcats,Washington Wizards,23,43,66,1363647600.0,2013
+Washington Wizards,Phoenix Suns,Washington Wizards,24,43,67,1363831200.0,2013
+Washington Wizards,Los Angeles Lakers,Washington Wizards,25,43,68,1364005800.0,2013
+Washington Wizards,Golden State Warriors,Washington Wizards,25,44,69,1364092200.0,2013
+Washington Wizards,Washington Wizards,Memphis Grizzlies,26,44,70,1364252400.0,2013
+Washington Wizards,Oklahoma City Thunder,Washington Wizards,26,45,71,1364428800.0,2013
+Washington Wizards,Orlando Magic,Washington Wizards,26,46,72,1364598000.0,2013
+Washington Wizards,Washington Wizards,Toronto Raptors,27,46,73,1364767200.0,2013
+Washington Wizards,Washington Wizards,Chicago Bulls,28,46,74,1364943600.0,2013
+Washington Wizards,Toronto Raptors,Washington Wizards,28,47,75,1365030000.0,2013
+Washington Wizards,Washington Wizards,Indiana Pacers,29,47,76,1365289200.0,2013
+Washington Wizards,Boston Celtics,Washington Wizards,29,48,77,1365372000.0,2013
+Washington Wizards,New York Knicks,Washington Wizards,29,49,78,1365550200.0,2013
+Washington Wizards,Washington Wizards,Miami Heat,29,50,79,1365634800.0,2013
+Washington Wizards,Washington Wizards,Philadelphia 76ers,29,51,80,1365807600.0,2013
+Washington Wizards,Brooklyn Nets,Washington Wizards,29,52,81,1366068600.0,2013
+Washington Wizards,Chicago Bulls,Washington Wizards,29,53,82,1366243200.0,2013
+,,,,,,,
+,,,,,,,

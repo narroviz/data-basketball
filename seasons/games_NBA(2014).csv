@@ -1,0 +1,2461 @@
+id,home_team,away_team,win,loss,game_number,date,year
+Atlanta Hawks,Dallas Mavericks,Atlanta Hawks,0,1,1,1383179400.0,2014
+Atlanta Hawks,Atlanta Hawks,Toronto Raptors,1,1,2,1383348600.0,2014
+Atlanta Hawks,Los Angeles Lakers,Atlanta Hawks,1,2,3,1383532200.0,2014
+Atlanta Hawks,Sacramento Kings,Atlanta Hawks,2,2,4,1383706800.0,2014
+Atlanta Hawks,Denver Nuggets,Atlanta Hawks,2,3,5,1383876000.0,2014
+Atlanta Hawks,Atlanta Hawks,Orlando Magic,3,3,6,1384043400.0,2014
+Atlanta Hawks,Charlotte Bobcats,Atlanta Hawks,4,3,7,1384214400.0,2014
+Atlanta Hawks,Atlanta Hawks,New York Knicks,4,4,8,1384390800.0,2014
+Atlanta Hawks,Atlanta Hawks,Philadelphia 76ers,5,4,9,1384561800.0,2014
+Atlanta Hawks,New York Knicks,Atlanta Hawks,6,4,10,1384648200.0,2014
+Atlanta Hawks,Miami Heat,Atlanta Hawks,6,5,11,1384907400.0,2014
+Atlanta Hawks,Atlanta Hawks,Detroit Pistons,7,5,12,1384993800.0,2014
+Atlanta Hawks,Detroit Pistons,Atlanta Hawks,8,5,13,1385166600.0,2014
+Atlanta Hawks,Atlanta Hawks,Boston Celtics,8,6,14,1385253000.0,2014
+Atlanta Hawks,Atlanta Hawks,Orlando Magic,8,7,15,1385512200.0,2014
+Atlanta Hawks,Houston Rockets,Atlanta Hawks,8,8,16,1385600400.0,2014
+Atlanta Hawks,Atlanta Hawks,Dallas Mavericks,9,8,17,1385771400.0,2014
+Atlanta Hawks,Washington Wizards,Atlanta Hawks,9,9,18,1385856000.0,2014
+Atlanta Hawks,San Antonio Spurs,Atlanta Hawks,9,10,19,1386034200.0,2014
+Atlanta Hawks,Atlanta Hawks,Los Angeles Clippers,10,10,20,1386203400.0,2014
+Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,11,10,21,1386376200.0,2014
+Atlanta Hawks,Atlanta Hawks,Oklahoma City Thunder,11,11,22,1386721800.0,2014
+Atlanta Hawks,Atlanta Hawks,Washington Wizards,12,11,23,1386981000.0,2014
+Atlanta Hawks,New York Knicks,Atlanta Hawks,12,12,24,1387067400.0,2014
+Atlanta Hawks,Atlanta Hawks,Los Angeles Lakers,13,12,25,1387240200.0,2014
+Atlanta Hawks,Atlanta Hawks,Sacramento Kings,14,12,26,1387413000.0,2014
+Atlanta Hawks,Atlanta Hawks,Utah Jazz,15,12,27,1387585800.0,2014
+Atlanta Hawks,Miami Heat,Atlanta Hawks,15,13,28,1387845000.0,2014
+Atlanta Hawks,Cleveland Cavaliers,Atlanta Hawks,16,13,29,1388102400.0,2014
+Atlanta Hawks,Atlanta Hawks,Charlotte Bobcats,17,13,30,1388277000.0,2014
+Atlanta Hawks,Orlando Magic,Atlanta Hawks,17,14,31,1388358000.0,2014
+Atlanta Hawks,Boston Celtics,Atlanta Hawks,18,14,32,1388512800.0,2014
+Atlanta Hawks,Atlanta Hawks,Golden State Warriors,18,15,33,1388795400.0,2014
+Atlanta Hawks,Chicago Bulls,Atlanta Hawks,18,16,34,1388883600.0,2014
+Atlanta Hawks,Brooklyn Nets,Atlanta Hawks,18,17,35,1389054600.0,2014
+Atlanta Hawks,Atlanta Hawks,Indiana Pacers,19,17,36,1389227400.0,2014
+Atlanta Hawks,Atlanta Hawks,Houston Rockets,20,17,37,1389400200.0,2014
+Atlanta Hawks,Memphis Grizzlies,Atlanta Hawks,20,18,38,1389567600.0,2014
+Atlanta Hawks,Atlanta Hawks,Brooklyn Nets,20,19,39,1389902400.0,2014
+Atlanta Hawks,Atlanta Hawks,Miami Heat,21,19,40,1390257000.0,2014
+Atlanta Hawks,Orlando Magic,Atlanta Hawks,22,19,41,1390435200.0,2014
+Atlanta Hawks,Atlanta Hawks,San Antonio Spurs,22,20,42,1390609800.0,2014
+Atlanta Hawks,Milwaukee Bucks,Atlanta Hawks,23,20,43,1390699800.0,2014
+Atlanta Hawks,Oklahoma City Thunder,Atlanta Hawks,23,21,44,1390870800.0,2014
+Atlanta Hawks,Philadelphia 76ers,Atlanta Hawks,24,21,45,1391214600.0,2014
+Atlanta Hawks,Atlanta Hawks,Minnesota Timberwolves,25,21,46,1391301000.0,2014
+Atlanta Hawks,Atlanta Hawks,Indiana Pacers,25,22,47,1391560200.0,2014
+Atlanta Hawks,New Orleans Pelicans,Atlanta Hawks,25,23,48,1391648400.0,2014
+Atlanta Hawks,Atlanta Hawks,Memphis Grizzlies,25,24,49,1391905800.0,2014
+Atlanta Hawks,Chicago Bulls,Atlanta Hawks,25,25,50,1392166800.0,2014
+Atlanta Hawks,Toronto Raptors,Atlanta Hawks,25,26,51,1392249600.0,2014
+Atlanta Hawks,Indiana Pacers,Atlanta Hawks,25,27,52,1392768000.0,2014
+Atlanta Hawks,Atlanta Hawks,Washington Wizards,25,28,53,1392856200.0,2014
+Atlanta Hawks,Detroit Pistons,Atlanta Hawks,25,29,54,1393029000.0,2014
+Atlanta Hawks,Atlanta Hawks,New York Knicks,26,29,55,1393115400.0,2014
+Atlanta Hawks,Atlanta Hawks,Chicago Bulls,26,30,56,1393374600.0,2014
+Atlanta Hawks,Boston Celtics,Atlanta Hawks,26,31,57,1393461000.0,2014
+Atlanta Hawks,Phoenix Suns,Atlanta Hawks,26,32,58,1393808400.0,2014
+Atlanta Hawks,Portland Trail Blazers,Atlanta Hawks,26,33,59,1394076600.0,2014
+Atlanta Hawks,Golden State Warriors,Atlanta Hawks,26,34,60,1394249400.0,2014
+Atlanta Hawks,Los Angeles Clippers,Atlanta Hawks,26,35,61,1394335800.0,2014
+Atlanta Hawks,Utah Jazz,Atlanta Hawks,27,35,62,1394499600.0,2014
+Atlanta Hawks,Atlanta Hawks,Milwaukee Bucks,28,35,63,1394753400.0,2014
+Atlanta Hawks,Atlanta Hawks,Denver Nuggets,29,35,64,1394926200.0,2014
+Atlanta Hawks,Charlotte Bobcats,Atlanta Hawks,30,35,65,1395097200.0,2014
+Atlanta Hawks,Atlanta Hawks,Toronto Raptors,31,35,66,1395185400.0,2014
+Atlanta Hawks,Atlanta Hawks,New Orleans Pelicans,31,36,67,1395444600.0,2014
+Atlanta Hawks,Toronto Raptors,Atlanta Hawks,31,37,68,1395594000.0,2014
+Atlanta Hawks,Atlanta Hawks,Phoenix Suns,31,38,69,1395703800.0,2014
+Atlanta Hawks,Minnesota Timberwolves,Atlanta Hawks,31,39,70,1395878400.0,2014
+Atlanta Hawks,Atlanta Hawks,Portland Trail Blazers,31,40,71,1395963000.0,2014
+Atlanta Hawks,Washington Wizards,Atlanta Hawks,31,41,72,1396137600.0,2014
+Atlanta Hawks,Atlanta Hawks,Philadelphia 76ers,32,41,73,1396308600.0,2014
+Atlanta Hawks,Atlanta Hawks,Chicago Bulls,32,42,74,1396481400.0,2014
+Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,33,42,75,1396654200.0,2014
+Atlanta Hawks,Indiana Pacers,Atlanta Hawks,34,42,76,1396821600.0,2014
+Atlanta Hawks,Atlanta Hawks,Detroit Pistons,34,43,77,1396999800.0,2014
+Atlanta Hawks,Atlanta Hawks,Boston Celtics,35,43,78,1397086200.0,2014
+Atlanta Hawks,Brooklyn Nets,Atlanta Hawks,36,43,79,1397259000.0,2014
+Atlanta Hawks,Atlanta Hawks,Miami Heat,37,43,80,1397345400.0,2014
+Atlanta Hawks,Atlanta Hawks,Charlotte Bobcats,37,44,81,1397518200.0,2014
+Atlanta Hawks,Milwaukee Bucks,Atlanta Hawks,38,44,82,1397692800.0,2014
+Boston Celtics,Toronto Raptors,Boston Celtics,0,1,1,1383174000.0,2014
+Boston Celtics,Boston Celtics,Milwaukee Bucks,0,2,2,1383348600.0,2014
+Boston Celtics,Detroit Pistons,Boston Celtics,0,3,3,1383519600.0,2014
+Boston Celtics,Memphis Grizzlies,Boston Celtics,0,4,4,1383613200.0,2014
+Boston Celtics,Boston Celtics,Utah Jazz,1,4,5,1383784200.0,2014
+Boston Celtics,Orlando Magic,Boston Celtics,2,4,6,1383955200.0,2014
+Boston Celtics,Miami Heat,Boston Celtics,3,4,7,1384043400.0,2014
+Boston Celtics,Boston Celtics,Orlando Magic,4,4,8,1384216200.0,2014
+Boston Celtics,Boston Celtics,Charlotte Bobcats,4,5,9,1384389000.0,2014
+Boston Celtics,Boston Celtics,Portland Trail Blazers,4,6,10,1384561800.0,2014
+Boston Celtics,Minnesota Timberwolves,Boston Celtics,4,7,11,1384650000.0,2014
+Boston Celtics,Houston Rockets,Boston Celtics,4,8,12,1384909200.0,2014
+Boston Celtics,San Antonio Spurs,Boston Celtics,4,9,13,1384997400.0,2014
+Boston Celtics,Boston Celtics,Indiana Pacers,4,10,14,1385166600.0,2014
+Boston Celtics,Atlanta Hawks,Boston Celtics,5,10,15,1385253000.0,2014
+Boston Celtics,Charlotte Bobcats,Boston Celtics,6,10,16,1385424000.0,2014
+Boston Celtics,Boston Celtics,Memphis Grizzlies,6,11,17,1385598600.0,2014
+Boston Celtics,Boston Celtics,Cleveland Cavaliers,7,11,18,1385771400.0,2014
+Boston Celtics,Milwaukee Bucks,Boston Celtics,7,12,19,1385863200.0,2014
+Boston Celtics,Boston Celtics,Milwaukee Bucks,8,12,20,1386117000.0,2014
+Boston Celtics,Boston Celtics,Denver Nuggets,9,12,21,1386376200.0,2014
+Boston Celtics,New York Knicks,Boston Celtics,10,12,22,1386478800.0,2014
+Boston Celtics,Brooklyn Nets,Boston Celtics,10,13,23,1386721800.0,2014
+Boston Celtics,Boston Celtics,Los Angeles Clippers,10,14,24,1386808200.0,2014
+Boston Celtics,Boston Celtics,New York Knicks,11,14,25,1386981000.0,2014
+Boston Celtics,Boston Celtics,Minnesota Timberwolves,12,14,26,1387240200.0,2014
+Boston Celtics,Boston Celtics,Detroit Pistons,12,15,27,1387413000.0,2014
+Boston Celtics,Boston Celtics,Washington Wizards,12,16,28,1387648800.0,2014
+Boston Celtics,Indiana Pacers,Boston Celtics,12,17,29,1387753200.0,2014
+Boston Celtics,Boston Celtics,Cleveland Cavaliers,13,17,30,1388253600.0,2014
+Boston Celtics,Boston Celtics,Atlanta Hawks,13,18,31,1388512800.0,2014
+Boston Celtics,Chicago Bulls,Boston Celtics,13,19,32,1388710800.0,2014
+Boston Celtics,Boston Celtics,New Orleans Pelicans,13,20,33,1388795400.0,2014
+Boston Celtics,Oklahoma City Thunder,Boston Celtics,13,21,34,1388966400.0,2014
+Boston Celtics,Denver Nuggets,Boston Celtics,13,22,35,1389146400.0,2014
+Boston Celtics,Los Angeles Clippers,Boston Celtics,13,23,36,1389238200.0,2014
+Boston Celtics,Golden State Warriors,Boston Celtics,13,24,37,1389411000.0,2014
+Boston Celtics,Portland Trail Blazers,Boston Celtics,13,25,38,1389495600.0,2014
+Boston Celtics,Boston Celtics,Houston Rockets,13,26,39,1389659400.0,2014
+Boston Celtics,Boston Celtics,Toronto Raptors,14,26,40,1389832200.0,2014
+Boston Celtics,Boston Celtics,Los Angeles Lakers,14,27,41,1390005000.0,2014
+Boston Celtics,Orlando Magic,Boston Celtics,14,28,42,1390172400.0,2014
+Boston Celtics,Miami Heat,Boston Celtics,14,29,43,1390350600.0,2014
+Boston Celtics,Washington Wizards,Boston Celtics,15,29,44,1390435200.0,2014
+Boston Celtics,Boston Celtics,Oklahoma City Thunder,15,30,45,1390609800.0,2014
+Boston Celtics,Boston Celtics,Brooklyn Nets,15,31,46,1390779000.0,2014
+Boston Celtics,New York Knicks,Boston Celtics,15,32,47,1390955400.0,2014
+Boston Celtics,Boston Celtics,Philadelphia 76ers,15,33,48,1391041800.0,2014
+Boston Celtics,Boston Celtics,Orlando Magic,16,33,49,1391364000.0,2014
+Boston Celtics,Philadelphia 76ers,Boston Celtics,17,33,50,1391644800.0,2014
+Boston Celtics,Boston Celtics,Sacramento Kings,18,33,51,1391819400.0,2014
+Boston Celtics,Boston Celtics,Dallas Mavericks,18,34,52,1391986800.0,2014
+Boston Celtics,Milwaukee Bucks,Boston Celtics,19,34,53,1392080400.0,2014
+Boston Celtics,Boston Celtics,San Antonio Spurs,19,35,54,1392251400.0,2014
+Boston Celtics,Phoenix Suns,Boston Celtics,19,36,55,1392861600.0,2014
+Boston Celtics,Los Angeles Lakers,Boston Celtics,19,37,56,1393039800.0,2014
+Boston Celtics,Sacramento Kings,Boston Celtics,19,38,57,1393124400.0,2014
+Boston Celtics,Utah Jazz,Boston Celtics,19,39,58,1393293600.0,2014
+Boston Celtics,Boston Celtics,Atlanta Hawks,20,39,59,1393461000.0,2014
+Boston Celtics,Boston Celtics,Indiana Pacers,20,40,60,1393722000.0,2014
+Boston Celtics,Boston Celtics,Golden State Warriors,20,41,61,1394065800.0,2014
+Boston Celtics,Boston Celtics,Brooklyn Nets,21,41,62,1394238600.0,2014
+Boston Celtics,Boston Celtics,Detroit Pistons,22,41,63,1394402400.0,2014
+Boston Celtics,Indiana Pacers,Boston Celtics,22,42,64,1394578800.0,2014
+Boston Celtics,Boston Celtics,New York Knicks,22,43,65,1394667000.0,2014
+Boston Celtics,Boston Celtics,Phoenix Suns,22,44,66,1394839800.0,2014
+Boston Celtics,New Orleans Pelicans,Boston Celtics,22,45,67,1395007200.0,2014
+Boston Celtics,Dallas Mavericks,Boston Celtics,22,46,68,1395102600.0,2014
+Boston Celtics,Boston Celtics,Miami Heat,23,46,69,1395271800.0,2014
+Boston Celtics,Brooklyn Nets,Boston Celtics,23,47,70,1395444600.0,2014
+Boston Celtics,Boston Celtics,Toronto Raptors,23,48,71,1395876600.0,2014
+Boston Celtics,Toronto Raptors,Boston Celtics,23,49,72,1396047600.0,2014
+Boston Celtics,Boston Celtics,Chicago Bulls,23,50,73,1396220400.0,2014
+Boston Celtics,Chicago Bulls,Boston Celtics,23,51,74,1396310400.0,2014
+Boston Celtics,Washington Wizards,Boston Celtics,23,52,75,1396479600.0,2014
+Boston Celtics,Boston Celtics,Philadelphia 76ers,23,53,76,1396654200.0,2014
+Boston Celtics,Detroit Pistons,Boston Celtics,23,54,77,1396740600.0,2014
+Boston Celtics,Atlanta Hawks,Boston Celtics,23,55,78,1397086200.0,2014
+Boston Celtics,Boston Celtics,Charlotte Bobcats,24,55,79,1397259000.0,2014
+Boston Celtics,Cleveland Cavaliers,Boston Celtics,25,55,80,1397345400.0,2014
+Boston Celtics,Philadelphia 76ers,Boston Celtics,25,56,81,1397516400.0,2014
+Boston Celtics,Boston Celtics,Washington Wizards,25,57,82,1397692800.0,2014
+Brooklyn Nets,Cleveland Cavaliers,Brooklyn Nets,0,1,1,1383174000.0,2014
+Brooklyn Nets,Brooklyn Nets,Miami Heat,1,1,2,1383350400.0,2014
+Brooklyn Nets,Orlando Magic,Brooklyn Nets,1,2,3,1383519600.0,2014
+Brooklyn Nets,Brooklyn Nets,Utah Jazz,2,2,4,1383697800.0,2014
+Brooklyn Nets,Washington Wizards,Brooklyn Nets,2,3,5,1383955200.0,2014
+Brooklyn Nets,Brooklyn Nets,Indiana Pacers,2,4,6,1384043400.0,2014
+Brooklyn Nets,Sacramento Kings,Brooklyn Nets,2,5,7,1384398000.0,2014
+Brooklyn Nets,Phoenix Suns,Brooklyn Nets,3,5,8,1384567200.0,2014
+Brooklyn Nets,Los Angeles Clippers,Brooklyn Nets,3,6,9,1384659000.0,2014
+Brooklyn Nets,Brooklyn Nets,Portland Trail Blazers,3,7,10,1384821000.0,2014
+Brooklyn Nets,Charlotte Bobcats,Brooklyn Nets,3,8,11,1384992000.0,2014
+Brooklyn Nets,Minnesota Timberwolves,Brooklyn Nets,3,9,12,1385168400.0,2014
+Brooklyn Nets,Brooklyn Nets,Detroit Pistons,3,10,13,1385319600.0,2014
+Brooklyn Nets,Toronto Raptors,Brooklyn Nets,4,10,14,1385510400.0,2014
+Brooklyn Nets,Brooklyn Nets,Los Angeles Lakers,4,11,15,1385598600.0,2014
+Brooklyn Nets,Houston Rockets,Brooklyn Nets,4,12,16,1385773200.0,2014
+Brooklyn Nets,Memphis Grizzlies,Brooklyn Nets,5,12,17,1385859600.0,2014
+Brooklyn Nets,Brooklyn Nets,Denver Nuggets,5,13,18,1386117000.0,2014
+Brooklyn Nets,Brooklyn Nets,New York Knicks,5,14,19,1386288000.0,2014
+Brooklyn Nets,Milwaukee Bucks,Brooklyn Nets,6,14,20,1386466200.0,2014
+Brooklyn Nets,Brooklyn Nets,Boston Celtics,7,14,21,1386721800.0,2014
+Brooklyn Nets,Brooklyn Nets,Los Angeles Clippers,8,14,22,1386896400.0,2014
+Brooklyn Nets,Detroit Pistons,Brooklyn Nets,8,15,23,1386981000.0,2014
+Brooklyn Nets,Brooklyn Nets,Philadelphia 76ers,9,15,24,1387240200.0,2014
+Brooklyn Nets,Brooklyn Nets,Washington Wizards,9,16,25,1387413000.0,2014
+Brooklyn Nets,Philadelphia 76ers,Brooklyn Nets,9,17,26,1387584000.0,2014
+Brooklyn Nets,Brooklyn Nets,Indiana Pacers,9,18,27,1387845000.0,2014
+Brooklyn Nets,Brooklyn Nets,Chicago Bulls,9,19,28,1387947600.0,2014
+Brooklyn Nets,Brooklyn Nets,Milwaukee Bucks,10,19,29,1388190600.0,2014
+Brooklyn Nets,Indiana Pacers,Brooklyn Nets,10,20,30,1388275200.0,2014
+Brooklyn Nets,San Antonio Spurs,Brooklyn Nets,10,21,31,1388534400.0,2014
+Brooklyn Nets,Oklahoma City Thunder,Brooklyn Nets,11,21,32,1388710800.0,2014
+Brooklyn Nets,Brooklyn Nets,Cleveland Cavaliers,12,21,33,1388881800.0,2014
+Brooklyn Nets,Brooklyn Nets,Atlanta Hawks,13,21,34,1389054600.0,2014
+Brooklyn Nets,Brooklyn Nets,Golden State Warriors,14,21,35,1389227400.0,2014
+Brooklyn Nets,Brooklyn Nets,Miami Heat,15,21,36,1389402000.0,2014
+Brooklyn Nets,Toronto Raptors,Brooklyn Nets,15,22,37,1389484800.0,2014
+Brooklyn Nets,Atlanta Hawks,Brooklyn Nets,16,22,38,1389902400.0,2014
+Brooklyn Nets,New York Knicks,Brooklyn Nets,17,22,39,1390246200.0,2014
+Brooklyn Nets,Brooklyn Nets,Orlando Magic,18,22,40,1390350600.0,2014
+Brooklyn Nets,Brooklyn Nets,Dallas Mavericks,19,22,41,1390609800.0,2014
+Brooklyn Nets,Boston Celtics,Brooklyn Nets,20,22,42,1390779000.0,2014
+Brooklyn Nets,Brooklyn Nets,Toronto Raptors,20,23,43,1390869000.0,2014
+Brooklyn Nets,Brooklyn Nets,Oklahoma City Thunder,20,24,44,1391216400.0,2014
+Brooklyn Nets,Indiana Pacers,Brooklyn Nets,20,25,45,1391299200.0,2014
+Brooklyn Nets,Brooklyn Nets,Philadelphia 76ers,21,25,46,1391473800.0,2014
+Brooklyn Nets,Brooklyn Nets,San Antonio Spurs,22,25,47,1391734800.0,2014
+Brooklyn Nets,Detroit Pistons,Brooklyn Nets,22,26,48,1391819400.0,2014
+Brooklyn Nets,Brooklyn Nets,New Orleans Pelicans,23,26,49,1391986800.0,2014
+Brooklyn Nets,Brooklyn Nets,Charlotte Bobcats,24,26,50,1392251400.0,2014
+Brooklyn Nets,Chicago Bulls,Brooklyn Nets,24,27,51,1392339600.0,2014
+Brooklyn Nets,Utah Jazz,Brooklyn Nets,25,27,52,1392861600.0,2014
+Brooklyn Nets,Golden State Warriors,Brooklyn Nets,25,28,53,1393126200.0,2014
+Brooklyn Nets,Los Angeles Lakers,Brooklyn Nets,26,28,54,1393207200.0,2014
+Brooklyn Nets,Portland Trail Blazers,Brooklyn Nets,26,29,55,1393470000.0,2014
+Brooklyn Nets,Denver Nuggets,Brooklyn Nets,27,29,56,1393558200.0,2014
+Brooklyn Nets,Milwaukee Bucks,Brooklyn Nets,28,29,57,1393723800.0,2014
+Brooklyn Nets,Brooklyn Nets,Chicago Bulls,29,29,58,1393893000.0,2014
+Brooklyn Nets,Brooklyn Nets,Memphis Grizzlies,30,29,59,1394065800.0,2014
+Brooklyn Nets,Boston Celtics,Brooklyn Nets,30,30,60,1394238600.0,2014
+Brooklyn Nets,Brooklyn Nets,Sacramento Kings,31,30,61,1394402400.0,2014
+Brooklyn Nets,Brooklyn Nets,Toronto Raptors,32,30,62,1394494200.0,2014
+Brooklyn Nets,Miami Heat,Brooklyn Nets,33,30,63,1394665200.0,2014
+Brooklyn Nets,Washington Wizards,Brooklyn Nets,33,31,64,1394924400.0,2014
+Brooklyn Nets,Brooklyn Nets,Phoenix Suns,34,31,65,1395099000.0,2014
+Brooklyn Nets,Brooklyn Nets,Charlotte Bobcats,35,31,66,1395271800.0,2014
+Brooklyn Nets,Brooklyn Nets,Boston Celtics,36,31,67,1395444600.0,2014
+Brooklyn Nets,Dallas Mavericks,Brooklyn Nets,37,31,68,1395617400.0,2014
+Brooklyn Nets,New Orleans Pelicans,Brooklyn Nets,37,32,69,1395705600.0,2014
+Brooklyn Nets,Charlotte Bobcats,Brooklyn Nets,37,33,70,1395874800.0,2014
+Brooklyn Nets,Brooklyn Nets,Cleveland Cavaliers,38,33,71,1396049400.0,2014
+Brooklyn Nets,Brooklyn Nets,Minnesota Timberwolves,39,33,72,1396216800.0,2014
+Brooklyn Nets,Brooklyn Nets,Houston Rockets,40,33,73,1396396800.0,2014
+Brooklyn Nets,New York Knicks,Brooklyn Nets,40,34,74,1396479600.0,2014
+Brooklyn Nets,Brooklyn Nets,Detroit Pistons,41,34,75,1396654200.0,2014
+Brooklyn Nets,Philadelphia 76ers,Brooklyn Nets,42,34,76,1396740600.0,2014
+Brooklyn Nets,Miami Heat,Brooklyn Nets,43,34,77,1397001600.0,2014
+Brooklyn Nets,Orlando Magic,Brooklyn Nets,43,35,78,1397084400.0,2014
+Brooklyn Nets,Brooklyn Nets,Atlanta Hawks,43,36,79,1397259000.0,2014
+Brooklyn Nets,Brooklyn Nets,Orlando Magic,44,36,80,1397426400.0,2014
+Brooklyn Nets,Brooklyn Nets,New York Knicks,44,37,81,1397606400.0,2014
+Brooklyn Nets,Cleveland Cavaliers,Brooklyn Nets,44,38,82,1397692800.0,2014
+Charlotte Bobcats,Houston Rockets,Charlotte Bobcats,0,1,1,1383177600.0,2014
+Charlotte Bobcats,Charlotte Bobcats,Cleveland Cavaliers,1,1,2,1383346800.0,2014
+Charlotte Bobcats,New Orleans Pelicans,Charlotte Bobcats,1,2,3,1383436800.0,2014
+Charlotte Bobcats,New York Knicks,Charlotte Bobcats,2,2,4,1383697800.0,2014
+Charlotte Bobcats,Charlotte Bobcats,Toronto Raptors,3,2,5,1383782400.0,2014
+Charlotte Bobcats,Charlotte Bobcats,New York Knicks,3,3,6,1383955200.0,2014
+Charlotte Bobcats,Charlotte Bobcats,Atlanta Hawks,3,4,7,1384214400.0,2014
+Charlotte Bobcats,Boston Celtics,Charlotte Bobcats,4,4,8,1384389000.0,2014
+Charlotte Bobcats,Cleveland Cavaliers,Charlotte Bobcats,5,4,9,1384561800.0,2014
+Charlotte Bobcats,Charlotte Bobcats,Miami Heat,5,5,10,1384646400.0,2014
+Charlotte Bobcats,Chicago Bulls,Charlotte Bobcats,5,6,11,1384822800.0,2014
+Charlotte Bobcats,Charlotte Bobcats,Brooklyn Nets,6,6,12,1384992000.0,2014
+Charlotte Bobcats,Charlotte Bobcats,Phoenix Suns,6,7,13,1385164800.0,2014
+Charlotte Bobcats,Milwaukee Bucks,Charlotte Bobcats,7,7,14,1385256600.0,2014
+Charlotte Bobcats,Charlotte Bobcats,Boston Celtics,7,8,15,1385424000.0,2014
+Charlotte Bobcats,Charlotte Bobcats,Indiana Pacers,7,9,16,1385596800.0,2014
+Charlotte Bobcats,Charlotte Bobcats,Milwaukee Bucks,8,9,17,1385769600.0,2014
+Charlotte Bobcats,Miami Heat,Charlotte Bobcats,8,10,18,1385938800.0,2014
+Charlotte Bobcats,Dallas Mavericks,Charlotte Bobcats,8,11,19,1386120600.0,2014
+Charlotte Bobcats,Charlotte Bobcats,Philadelphia 76ers,9,11,20,1386374400.0,2014
+Charlotte Bobcats,Charlotte Bobcats,Golden State Warriors,10,11,21,1386633600.0,2014
+Charlotte Bobcats,Charlotte Bobcats,Orlando Magic,10,12,22,1386806400.0,2014
+Charlotte Bobcats,Indiana Pacers,Charlotte Bobcats,10,13,23,1386979200.0,2014
+Charlotte Bobcats,Charlotte Bobcats,Los Angeles Lakers,10,14,24,1387065600.0,2014
+Charlotte Bobcats,Charlotte Bobcats,Sacramento Kings,11,14,25,1387324800.0,2014
+Charlotte Bobcats,Toronto Raptors,Charlotte Bobcats,12,14,26,1387411200.0,2014
+Charlotte Bobcats,Detroit Pistons,Charlotte Bobcats,13,14,27,1387585800.0,2014
+Charlotte Bobcats,Charlotte Bobcats,Utah Jazz,13,15,28,1387672200.0,2014
+Charlotte Bobcats,Charlotte Bobcats,Milwaukee Bucks,14,15,29,1387843200.0,2014
+Charlotte Bobcats,Charlotte Bobcats,Oklahoma City Thunder,14,16,30,1388188800.0,2014
+Charlotte Bobcats,Atlanta Hawks,Charlotte Bobcats,14,17,31,1388277000.0,2014
+Charlotte Bobcats,Utah Jazz,Charlotte Bobcats,14,18,32,1388455200.0,2014
+Charlotte Bobcats,Los Angeles Clippers,Charlotte Bobcats,14,19,33,1388629800.0,2014
+Charlotte Bobcats,Portland Trail Blazers,Charlotte Bobcats,14,20,34,1388718000.0,2014
+Charlotte Bobcats,Sacramento Kings,Charlotte Bobcats,15,20,35,1388890800.0,2014
+Charlotte Bobcats,Charlotte Bobcats,Washington Wizards,15,21,36,1389139200.0,2014
+Charlotte Bobcats,Minnesota Timberwolves,Charlotte Bobcats,15,22,37,1389402000.0,2014
+Charlotte Bobcats,Chicago Bulls,Charlotte Bobcats,15,23,38,1389488400.0,2014
+Charlotte Bobcats,Charlotte Bobcats,New York Knicks,16,23,39,1389744000.0,2014
+Charlotte Bobcats,Philadelphia 76ers,Charlotte Bobcats,16,24,40,1389830400.0,2014
+Charlotte Bobcats,Orlando Magic,Charlotte Bobcats,17,24,41,1390003200.0,2014
+Charlotte Bobcats,Charlotte Bobcats,Miami Heat,17,25,42,1390091400.0,2014
+Charlotte Bobcats,Charlotte Bobcats,Toronto Raptors,18,25,43,1390244400.0,2014
+Charlotte Bobcats,Charlotte Bobcats,Los Angeles Clippers,19,25,44,1390435200.0,2014
+Charlotte Bobcats,New York Knicks,Charlotte Bobcats,19,26,45,1390609800.0,2014
+Charlotte Bobcats,Charlotte Bobcats,Chicago Bulls,19,27,46,1390694400.0,2014
+Charlotte Bobcats,Denver Nuggets,Charlotte Bobcats,20,27,47,1391047200.0,2014
+Charlotte Bobcats,Los Angeles Lakers,Charlotte Bobcats,21,27,48,1391225400.0,2014
+Charlotte Bobcats,Phoenix Suns,Charlotte Bobcats,21,28,49,1391306400.0,2014
+Charlotte Bobcats,Golden State Warriors,Charlotte Bobcats,22,28,50,1391571000.0,2014
+Charlotte Bobcats,Charlotte Bobcats,San Antonio Spurs,22,29,51,1391904000.0,2014
+Charlotte Bobcats,Charlotte Bobcats,Dallas Mavericks,23,29,52,1392163200.0,2014
+Charlotte Bobcats,Brooklyn Nets,Charlotte Bobcats,23,30,53,1392251400.0,2014
+Charlotte Bobcats,Detroit Pistons,Charlotte Bobcats,24,30,54,1392769800.0,2014
+Charlotte Bobcats,Charlotte Bobcats,Detroit Pistons,25,30,55,1392854400.0,2014
+Charlotte Bobcats,Charlotte Bobcats,New Orleans Pelicans,26,30,56,1393027200.0,2014
+Charlotte Bobcats,Charlotte Bobcats,Memphis Grizzlies,27,30,57,1393113600.0,2014
+Charlotte Bobcats,San Antonio Spurs,Charlotte Bobcats,27,31,58,1393637400.0,2014
+Charlotte Bobcats,Oklahoma City Thunder,Charlotte Bobcats,27,32,59,1393804800.0,2014
+Charlotte Bobcats,Miami Heat,Charlotte Bobcats,27,33,60,1393893000.0,2014
+Charlotte Bobcats,Charlotte Bobcats,Indiana Pacers,28,33,61,1394064000.0,2014
+Charlotte Bobcats,Charlotte Bobcats,Cleveland Cavaliers,29,33,62,1394236800.0,2014
+Charlotte Bobcats,Memphis Grizzlies,Charlotte Bobcats,29,34,63,1394326800.0,2014
+Charlotte Bobcats,Charlotte Bobcats,Denver Nuggets,30,34,64,1394492400.0,2014
+Charlotte Bobcats,Washington Wizards,Charlotte Bobcats,31,34,65,1394665200.0,2014
+Charlotte Bobcats,Charlotte Bobcats,Minnesota Timberwolves,32,34,66,1394838000.0,2014
+Charlotte Bobcats,Milwaukee Bucks,Charlotte Bobcats,33,34,67,1394989200.0,2014
+Charlotte Bobcats,Charlotte Bobcats,Atlanta Hawks,33,35,68,1395097200.0,2014
+Charlotte Bobcats,Brooklyn Nets,Charlotte Bobcats,33,36,69,1395271800.0,2014
+Charlotte Bobcats,Charlotte Bobcats,Portland Trail Blazers,34,36,70,1395529200.0,2014
+Charlotte Bobcats,Charlotte Bobcats,Houston Rockets,34,37,71,1395702000.0,2014
+Charlotte Bobcats,Charlotte Bobcats,Brooklyn Nets,35,37,72,1395874800.0,2014
+Charlotte Bobcats,Orlando Magic,Charlotte Bobcats,35,38,73,1396047600.0,2014
+Charlotte Bobcats,Charlotte Bobcats,Washington Wizards,36,38,74,1396306800.0,2014
+Charlotte Bobcats,Philadelphia 76ers,Charlotte Bobcats,37,38,75,1396479600.0,2014
+Charlotte Bobcats,Charlotte Bobcats,Orlando Magic,38,38,76,1396652400.0,2014
+Charlotte Bobcats,Cleveland Cavaliers,Charlotte Bobcats,39,38,77,1396740600.0,2014
+Charlotte Bobcats,Washington Wizards,Charlotte Bobcats,40,38,78,1397084400.0,2014
+Charlotte Bobcats,Boston Celtics,Charlotte Bobcats,40,39,79,1397259000.0,2014
+Charlotte Bobcats,Charlotte Bobcats,Philadelphia 76ers,41,39,80,1397343600.0,2014
+Charlotte Bobcats,Atlanta Hawks,Charlotte Bobcats,42,39,81,1397518200.0,2014
+Charlotte Bobcats,Charlotte Bobcats,Chicago Bulls,43,39,82,1397689200.0,2014
+Chicago Bulls,Miami Heat,Chicago Bulls,0,1,1,1383091200.0,2014
+Chicago Bulls,Chicago Bulls,New York Knicks,1,1,2,1383264000.0,2014
+Chicago Bulls,Philadelphia 76ers,Chicago Bulls,1,2,3,1383435000.0,2014
+Chicago Bulls,Indiana Pacers,Chicago Bulls,1,3,4,1383782400.0,2014
+Chicago Bulls,Chicago Bulls,Utah Jazz,2,3,5,1383958800.0,2014
+Chicago Bulls,Chicago Bulls,Cleveland Cavaliers,3,3,6,1384218000.0,2014
+Chicago Bulls,Toronto Raptors,Chicago Bulls,4,3,7,1384560000.0,2014
+Chicago Bulls,Chicago Bulls,Indiana Pacers,5,3,8,1384650000.0,2014
+Chicago Bulls,Chicago Bulls,Charlotte Bobcats,6,3,9,1384822800.0,2014
+Chicago Bulls,Denver Nuggets,Chicago Bulls,6,4,10,1385091000.0,2014
+Chicago Bulls,Portland Trail Blazers,Chicago Bulls,6,5,11,1385175600.0,2014
+Chicago Bulls,Los Angeles Clippers,Chicago Bulls,6,6,12,1385325000.0,2014
+Chicago Bulls,Utah Jazz,Chicago Bulls,6,7,13,1385431200.0,2014
+Chicago Bulls,Detroit Pistons,Chicago Bulls,7,7,14,1385598600.0,2014
+Chicago Bulls,Cleveland Cavaliers,Chicago Bulls,7,8,15,1385857800.0,2014
+Chicago Bulls,Chicago Bulls,New Orleans Pelicans,7,9,16,1386032400.0,2014
+Chicago Bulls,Chicago Bulls,Miami Heat,8,9,17,1386297000.0,2014
+Chicago Bulls,Chicago Bulls,Detroit Pistons,8,10,18,1386464400.0,2014
+Chicago Bulls,Chicago Bulls,Milwaukee Bucks,8,11,19,1386723600.0,2014
+Chicago Bulls,New York Knicks,Chicago Bulls,8,12,20,1386810000.0,2014
+Chicago Bulls,Milwaukee Bucks,Chicago Bulls,9,12,21,1386984600.0,2014
+Chicago Bulls,Chicago Bulls,Toronto Raptors,9,13,22,1387069200.0,2014
+Chicago Bulls,Chicago Bulls,Orlando Magic,9,14,23,1387242000.0,2014
+Chicago Bulls,Houston Rockets,Chicago Bulls,9,15,24,1387420200.0,2014
+Chicago Bulls,Oklahoma City Thunder,Chicago Bulls,9,16,25,1387501200.0,2014
+Chicago Bulls,Chicago Bulls,Cleveland Cavaliers,10,16,26,1387674000.0,2014
+Chicago Bulls,Brooklyn Nets,Chicago Bulls,11,16,27,1387947600.0,2014
+Chicago Bulls,Chicago Bulls,Dallas Mavericks,11,17,28,1388278800.0,2014
+Chicago Bulls,Memphis Grizzlies,Chicago Bulls,12,17,29,1388451600.0,2014
+Chicago Bulls,Chicago Bulls,Toronto Raptors,12,18,30,1388538000.0,2014
+Chicago Bulls,Chicago Bulls,Boston Celtics,13,18,31,1388710800.0,2014
+Chicago Bulls,Chicago Bulls,Atlanta Hawks,14,18,32,1388883600.0,2014
+Chicago Bulls,Chicago Bulls,Phoenix Suns,15,18,33,1389142800.0,2014
+Chicago Bulls,Milwaukee Bucks,Chicago Bulls,16,18,34,1389403800.0,2014
+Chicago Bulls,Chicago Bulls,Charlotte Bobcats,17,18,35,1389488400.0,2014
+Chicago Bulls,Chicago Bulls,Washington Wizards,17,19,36,1389661200.0,2014
+Chicago Bulls,Orlando Magic,Chicago Bulls,18,19,37,1389830400.0,2014
+Chicago Bulls,Washington Wizards,Chicago Bulls,18,20,38,1390003200.0,2014
+Chicago Bulls,Chicago Bulls,Philadelphia 76ers,19,20,39,1390093200.0,2014
+Chicago Bulls,Chicago Bulls,Los Angeles Lakers,20,20,40,1390266000.0,2014
+Chicago Bulls,Cleveland Cavaliers,Chicago Bulls,21,20,41,1390435200.0,2014
+Chicago Bulls,Chicago Bulls,Los Angeles Clippers,21,21,42,1390611600.0,2014
+Chicago Bulls,Charlotte Bobcats,Chicago Bulls,22,21,43,1390694400.0,2014
+Chicago Bulls,Chicago Bulls,Minnesota Timberwolves,22,22,44,1390870800.0,2014
+Chicago Bulls,San Antonio Spurs,Chicago Bulls,23,22,45,1391049000.0,2014
+Chicago Bulls,New Orleans Pelicans,Chicago Bulls,23,23,46,1391302800.0,2014
+Chicago Bulls,Sacramento Kings,Chicago Bulls,23,24,47,1391482800.0,2014
+Chicago Bulls,Phoenix Suns,Chicago Bulls,24,24,48,1391565600.0,2014
+Chicago Bulls,Golden State Warriors,Chicago Bulls,24,25,49,1391743800.0,2014
+Chicago Bulls,Los Angeles Lakers,Chicago Bulls,25,25,50,1391977800.0,2014
+Chicago Bulls,Chicago Bulls,Atlanta Hawks,26,25,51,1392166800.0,2014
+Chicago Bulls,Chicago Bulls,Brooklyn Nets,27,25,52,1392339600.0,2014
+Chicago Bulls,Toronto Raptors,Chicago Bulls,28,25,53,1392854400.0,2014
+Chicago Bulls,Chicago Bulls,Denver Nuggets,29,25,54,1393030800.0,2014
+Chicago Bulls,Miami Heat,Chicago Bulls,29,26,55,1393187400.0,2014
+Chicago Bulls,Atlanta Hawks,Chicago Bulls,30,26,56,1393374600.0,2014
+Chicago Bulls,Chicago Bulls,Golden State Warriors,31,26,57,1393462800.0,2014
+Chicago Bulls,Dallas Mavericks,Chicago Bulls,32,26,58,1393637400.0,2014
+Chicago Bulls,Chicago Bulls,New York Knicks,33,26,59,1393783200.0,2014
+Chicago Bulls,Brooklyn Nets,Chicago Bulls,33,27,60,1393893000.0,2014
+Chicago Bulls,Detroit Pistons,Chicago Bulls,34,27,61,1394065800.0,2014
+Chicago Bulls,Chicago Bulls,Memphis Grizzlies,34,28,62,1394236800.0,2014
+Chicago Bulls,Chicago Bulls,Miami Heat,35,28,63,1394384400.0,2014
+Chicago Bulls,Chicago Bulls,San Antonio Spurs,35,29,64,1394582400.0,2014
+Chicago Bulls,Chicago Bulls,Houston Rockets,36,29,65,1394751600.0,2014
+Chicago Bulls,Chicago Bulls,Sacramento Kings,37,29,66,1394928000.0,2014
+Chicago Bulls,Chicago Bulls,Oklahoma City Thunder,37,30,67,1395100800.0,2014
+Chicago Bulls,Philadelphia 76ers,Chicago Bulls,38,30,68,1395270000.0,2014
+Chicago Bulls,Indiana Pacers,Chicago Bulls,38,31,69,1395442800.0,2014
+Chicago Bulls,Chicago Bulls,Philadelphia 76ers,39,31,70,1395532800.0,2014
+Chicago Bulls,Chicago Bulls,Indiana Pacers,40,31,71,1395705600.0,2014
+Chicago Bulls,Chicago Bulls,Portland Trail Blazers,40,32,72,1396051200.0,2014
+Chicago Bulls,Boston Celtics,Chicago Bulls,41,32,73,1396220400.0,2014
+Chicago Bulls,Chicago Bulls,Boston Celtics,42,32,74,1396310400.0,2014
+Chicago Bulls,Atlanta Hawks,Chicago Bulls,43,32,75,1396481400.0,2014
+Chicago Bulls,Chicago Bulls,Milwaukee Bucks,44,32,76,1396656000.0,2014
+Chicago Bulls,Washington Wizards,Chicago Bulls,45,32,77,1396738800.0,2014
+Chicago Bulls,Minnesota Timberwolves,Chicago Bulls,46,32,78,1397088000.0,2014
+Chicago Bulls,Chicago Bulls,Detroit Pistons,47,32,79,1397260800.0,2014
+Chicago Bulls,New York Knicks,Chicago Bulls,47,33,80,1397431800.0,2014
+Chicago Bulls,Chicago Bulls,Orlando Magic,48,33,81,1397520000.0,2014
+Chicago Bulls,Charlotte Bobcats,Chicago Bulls,48,34,82,1397689200.0,2014
+Cleveland Cavaliers,Cleveland Cavaliers,Brooklyn Nets,1,0,1,1383174000.0,2014
+Cleveland Cavaliers,Charlotte Bobcats,Cleveland Cavaliers,1,1,2,1383346800.0,2014
+Cleveland Cavaliers,Indiana Pacers,Cleveland Cavaliers,1,2,3,1383433200.0,2014
+Cleveland Cavaliers,Cleveland Cavaliers,Minnesota Timberwolves,2,2,4,1383609600.0,2014
+Cleveland Cavaliers,Milwaukee Bucks,Cleveland Cavaliers,2,3,5,1383786000.0,2014
+Cleveland Cavaliers,Philadelphia 76ers,Cleveland Cavaliers,2,4,6,1383955200.0,2014
+Cleveland Cavaliers,Cleveland Cavaliers,Philadelphia 76ers,3,4,7,1384043400.0,2014
+Cleveland Cavaliers,Chicago Bulls,Cleveland Cavaliers,3,5,8,1384218000.0,2014
+Cleveland Cavaliers,Minnesota Timberwolves,Cleveland Cavaliers,3,6,9,1384390800.0,2014
+Cleveland Cavaliers,Cleveland Cavaliers,Charlotte Bobcats,3,7,10,1384561800.0,2014
+Cleveland Cavaliers,Washington Wizards,Cleveland Cavaliers,4,7,11,1384646400.0,2014
+Cleveland Cavaliers,Cleveland Cavaliers,Washington Wizards,4,8,12,1384992000.0,2014
+Cleveland Cavaliers,New Orleans Pelicans,Cleveland Cavaliers,4,9,13,1385168400.0,2014
+Cleveland Cavaliers,San Antonio Spurs,Cleveland Cavaliers,4,10,14,1385256600.0,2014
+Cleveland Cavaliers,Cleveland Cavaliers,Miami Heat,4,11,15,1385598600.0,2014
+Cleveland Cavaliers,Boston Celtics,Cleveland Cavaliers,4,12,16,1385771400.0,2014
+Cleveland Cavaliers,Cleveland Cavaliers,Chicago Bulls,5,12,17,1385857800.0,2014
+Cleveland Cavaliers,Cleveland Cavaliers,Denver Nuggets,6,12,18,1386201600.0,2014
+Cleveland Cavaliers,Atlanta Hawks,Cleveland Cavaliers,6,13,19,1386376200.0,2014
+Cleveland Cavaliers,Cleveland Cavaliers,Los Angeles Clippers,7,13,20,1386462600.0,2014
+Cleveland Cavaliers,Cleveland Cavaliers,New York Knicks,8,13,21,1386720000.0,2014
+Cleveland Cavaliers,Orlando Magic,Cleveland Cavaliers,9,13,22,1386979200.0,2014
+Cleveland Cavaliers,Miami Heat,Cleveland Cavaliers,9,14,23,1387067400.0,2014
+Cleveland Cavaliers,Cleveland Cavaliers,Portland Trail Blazers,9,15,24,1387324800.0,2014
+Cleveland Cavaliers,Cleveland Cavaliers,Milwaukee Bucks,10,15,25,1387585800.0,2014
+Cleveland Cavaliers,Chicago Bulls,Cleveland Cavaliers,10,16,26,1387674000.0,2014
+Cleveland Cavaliers,Cleveland Cavaliers,Detroit Pistons,10,17,27,1387843200.0,2014
+Cleveland Cavaliers,Cleveland Cavaliers,Atlanta Hawks,10,18,28,1388102400.0,2014
+Cleveland Cavaliers,Boston Celtics,Cleveland Cavaliers,10,19,29,1388253600.0,2014
+Cleveland Cavaliers,Cleveland Cavaliers,Golden State Warriors,10,20,30,1388358000.0,2014
+Cleveland Cavaliers,Indiana Pacers,Cleveland Cavaliers,10,21,31,1388520000.0,2014
+Cleveland Cavaliers,Cleveland Cavaliers,Orlando Magic,11,21,32,1388707200.0,2014
+Cleveland Cavaliers,Brooklyn Nets,Cleveland Cavaliers,11,22,33,1388881800.0,2014
+Cleveland Cavaliers,Cleveland Cavaliers,Indiana Pacers,11,23,34,1388962800.0,2014
+Cleveland Cavaliers,Cleveland Cavaliers,Philadelphia 76ers,12,23,35,1389139200.0,2014
+Cleveland Cavaliers,Utah Jazz,Cleveland Cavaliers,13,23,36,1389405600.0,2014
+Cleveland Cavaliers,Sacramento Kings,Cleveland Cavaliers,13,24,37,1389567600.0,2014
+Cleveland Cavaliers,Los Angeles Lakers,Cleveland Cavaliers,14,24,38,1389756600.0,2014
+Cleveland Cavaliers,Portland Trail Blazers,Cleveland Cavaliers,14,25,39,1389841200.0,2014
+Cleveland Cavaliers,Denver Nuggets,Cleveland Cavaliers,15,25,40,1390010400.0,2014
+Cleveland Cavaliers,Cleveland Cavaliers,Dallas Mavericks,15,26,41,1390240800.0,2014
+Cleveland Cavaliers,Cleveland Cavaliers,Chicago Bulls,15,27,42,1390435200.0,2014
+Cleveland Cavaliers,Cleveland Cavaliers,Milwaukee Bucks,16,27,43,1390609800.0,2014
+Cleveland Cavaliers,Cleveland Cavaliers,Phoenix Suns,16,28,44,1390777200.0,2014
+Cleveland Cavaliers,Cleveland Cavaliers,New Orleans Pelicans,16,29,45,1390953600.0,2014
+Cleveland Cavaliers,New York Knicks,Cleveland Cavaliers,16,30,46,1391130000.0,2014
+Cleveland Cavaliers,Houston Rockets,Cleveland Cavaliers,16,31,47,1391302800.0,2014
+Cleveland Cavaliers,Dallas Mavericks,Cleveland Cavaliers,16,32,48,1391477400.0,2014
+Cleveland Cavaliers,Cleveland Cavaliers,Los Angeles Lakers,16,33,49,1391644800.0,2014
+Cleveland Cavaliers,Washington Wizards,Cleveland Cavaliers,17,33,50,1391817600.0,2014
+Cleveland Cavaliers,Cleveland Cavaliers,Memphis Grizzlies,18,33,51,1391986800.0,2014
+Cleveland Cavaliers,Cleveland Cavaliers,Sacramento Kings,19,33,52,1392163200.0,2014
+Cleveland Cavaliers,Detroit Pistons,Cleveland Cavaliers,20,33,53,1392251400.0,2014
+Cleveland Cavaliers,Philadelphia 76ers,Cleveland Cavaliers,21,33,54,1392768000.0,2014
+Cleveland Cavaliers,Cleveland Cavaliers,Orlando Magic,22,33,55,1392854400.0,2014
+Cleveland Cavaliers,Toronto Raptors,Cleveland Cavaliers,22,34,56,1393027200.0,2014
+Cleveland Cavaliers,Cleveland Cavaliers,Washington Wizards,22,35,57,1393196400.0,2014
+Cleveland Cavaliers,Cleveland Cavaliers,Toronto Raptors,22,36,58,1393372800.0,2014
+Cleveland Cavaliers,Oklahoma City Thunder,Cleveland Cavaliers,23,36,59,1393462800.0,2014
+Cleveland Cavaliers,Cleveland Cavaliers,Utah Jazz,24,36,60,1393633800.0,2014
+Cleveland Cavaliers,Memphis Grizzlies,Cleveland Cavaliers,24,37,61,1393725600.0,2014
+Cleveland Cavaliers,Cleveland Cavaliers,San Antonio Spurs,24,38,62,1393977600.0,2014
+Cleveland Cavaliers,Charlotte Bobcats,Cleveland Cavaliers,24,39,63,1394236800.0,2014
+Cleveland Cavaliers,Cleveland Cavaliers,New York Knicks,24,40,64,1394325000.0,2014
+Cleveland Cavaliers,Phoenix Suns,Cleveland Cavaliers,25,40,65,1394676000.0,2014
+Cleveland Cavaliers,Golden State Warriors,Cleveland Cavaliers,26,40,66,1394850600.0,2014
+Cleveland Cavaliers,Los Angeles Clippers,Cleveland Cavaliers,26,41,67,1395019800.0,2014
+Cleveland Cavaliers,Cleveland Cavaliers,Miami Heat,26,42,68,1395183600.0,2014
+Cleveland Cavaliers,Cleveland Cavaliers,Oklahoma City Thunder,26,43,69,1395356400.0,2014
+Cleveland Cavaliers,Cleveland Cavaliers,Houston Rockets,26,44,70,1395531000.0,2014
+Cleveland Cavaliers,New York Knicks,Cleveland Cavaliers,27,44,71,1395617400.0,2014
+Cleveland Cavaliers,Cleveland Cavaliers,Toronto Raptors,28,44,72,1395788400.0,2014
+Cleveland Cavaliers,Detroit Pistons,Cleveland Cavaliers,29,44,73,1395876600.0,2014
+Cleveland Cavaliers,Brooklyn Nets,Cleveland Cavaliers,29,45,74,1396049400.0,2014
+Cleveland Cavaliers,Cleveland Cavaliers,Indiana Pacers,30,45,75,1396206000.0,2014
+Cleveland Cavaliers,Orlando Magic,Cleveland Cavaliers,31,45,76,1396479600.0,2014
+Cleveland Cavaliers,Atlanta Hawks,Cleveland Cavaliers,31,46,77,1396654200.0,2014
+Cleveland Cavaliers,Cleveland Cavaliers,Charlotte Bobcats,31,47,78,1396740600.0,2014
+Cleveland Cavaliers,Cleveland Cavaliers,Detroit Pistons,32,47,79,1397084400.0,2014
+Cleveland Cavaliers,Milwaukee Bucks,Cleveland Cavaliers,32,48,80,1397262600.0,2014
+Cleveland Cavaliers,Cleveland Cavaliers,Boston Celtics,32,49,81,1397345400.0,2014
+Cleveland Cavaliers,Cleveland Cavaliers,Brooklyn Nets,33,49,82,1397692800.0,2014
+Dallas Mavericks,Dallas Mavericks,Atlanta Hawks,1,0,1,1383179400.0,2014
+Dallas Mavericks,Houston Rockets,Dallas Mavericks,1,1,2,1383350400.0,2014
+Dallas Mavericks,Dallas Mavericks,Memphis Grizzlies,2,1,3,1383438600.0,2014
+Dallas Mavericks,Dallas Mavericks,Los Angeles Lakers,3,1,4,1383701400.0,2014
+Dallas Mavericks,Oklahoma City Thunder,Dallas Mavericks,3,2,5,1383791400.0,2014
+Dallas Mavericks,Minnesota Timberwolves,Dallas Mavericks,3,3,6,1383958800.0,2014
+Dallas Mavericks,Milwaukee Bucks,Dallas Mavericks,4,3,7,1384047000.0,2014
+Dallas Mavericks,Dallas Mavericks,Washington Wizards,5,3,8,1384306200.0,2014
+Dallas Mavericks,Miami Heat,Dallas Mavericks,5,4,9,1384561800.0,2014
+Dallas Mavericks,Orlando Magic,Dallas Mavericks,6,4,10,1384646400.0,2014
+Dallas Mavericks,Dallas Mavericks,Philadelphia 76ers,7,4,11,1384824600.0,2014
+Dallas Mavericks,Dallas Mavericks,Houston Rockets,8,4,12,1385001000.0,2014
+Dallas Mavericks,Dallas Mavericks,Utah Jazz,9,4,13,1385170200.0,2014
+Dallas Mavericks,Denver Nuggets,Dallas Mavericks,9,5,14,1385258400.0,2014
+Dallas Mavericks,Dallas Mavericks,Denver Nuggets,9,6,15,1385429400.0,2014
+Dallas Mavericks,Dallas Mavericks,Golden State Warriors,10,6,16,1385602200.0,2014
+Dallas Mavericks,Atlanta Hawks,Dallas Mavericks,10,7,17,1385771400.0,2014
+Dallas Mavericks,Dallas Mavericks,Minnesota Timberwolves,10,8,18,1385861400.0,2014
+Dallas Mavericks,Dallas Mavericks,Charlotte Bobcats,11,8,19,1386120600.0,2014
+Dallas Mavericks,New Orleans Pelicans,Dallas Mavericks,12,8,20,1386205200.0,2014
+Dallas Mavericks,Portland Trail Blazers,Dallas Mavericks,13,8,21,1386471600.0,2014
+Dallas Mavericks,Sacramento Kings,Dallas Mavericks,13,9,22,1386644400.0,2014
+Dallas Mavericks,Golden State Warriors,Dallas Mavericks,13,10,23,1386819000.0,2014
+Dallas Mavericks,Dallas Mavericks,Milwaukee Bucks,14,10,24,1387071000.0,2014
+Dallas Mavericks,Dallas Mavericks,Memphis Grizzlies,15,10,25,1387416600.0,2014
+Dallas Mavericks,Dallas Mavericks,Toronto Raptors,15,11,26,1387589400.0,2014
+Dallas Mavericks,Phoenix Suns,Dallas Mavericks,15,12,27,1387677600.0,2014
+Dallas Mavericks,Houston Rockets,Dallas Mavericks,16,12,28,1387846800.0,2014
+Dallas Mavericks,Dallas Mavericks,San Antonio Spurs,16,13,29,1388107800.0,2014
+Dallas Mavericks,Chicago Bulls,Dallas Mavericks,17,13,30,1388278800.0,2014
+Dallas Mavericks,Minnesota Timberwolves,Dallas Mavericks,18,13,31,1388451600.0,2014
+Dallas Mavericks,Washington Wizards,Dallas Mavericks,19,13,32,1388617200.0,2014
+Dallas Mavericks,Dallas Mavericks,Los Angeles Clippers,19,14,33,1388799000.0,2014
+Dallas Mavericks,Dallas Mavericks,New York Knicks,19,15,34,1388968200.0,2014
+Dallas Mavericks,Dallas Mavericks,Los Angeles Lakers,20,15,35,1389144600.0,2014
+Dallas Mavericks,San Antonio Spurs,Dallas Mavericks,20,16,36,1389225600.0,2014
+Dallas Mavericks,New Orleans Pelicans,Dallas Mavericks,21,16,37,1389402000.0,2014
+Dallas Mavericks,Dallas Mavericks,New Orleans Pelicans,22,16,38,1389490200.0,2014
+Dallas Mavericks,Dallas Mavericks,Orlando Magic,23,16,39,1389663000.0,2014
+Dallas Mavericks,Los Angeles Clippers,Dallas Mavericks,23,17,40,1389843000.0,2014
+Dallas Mavericks,Phoenix Suns,Dallas Mavericks,24,17,41,1390010400.0,2014
+Dallas Mavericks,Dallas Mavericks,Portland Trail Blazers,24,18,42,1390095000.0,2014
+Dallas Mavericks,Cleveland Cavaliers,Dallas Mavericks,25,18,43,1390240800.0,2014
+Dallas Mavericks,Toronto Raptors,Dallas Mavericks,25,19,44,1390435200.0,2014
+Dallas Mavericks,Brooklyn Nets,Dallas Mavericks,25,20,45,1390609800.0,2014
+Dallas Mavericks,Dallas Mavericks,Detroit Pistons,26,20,46,1390782600.0,2014
+Dallas Mavericks,Dallas Mavericks,Houston Rockets,26,21,47,1391045400.0,2014
+Dallas Mavericks,Dallas Mavericks,Sacramento Kings,27,21,48,1391218200.0,2014
+Dallas Mavericks,Dallas Mavericks,Cleveland Cavaliers,28,21,49,1391477400.0,2014
+Dallas Mavericks,Memphis Grizzlies,Dallas Mavericks,29,21,50,1391648400.0,2014
+Dallas Mavericks,Dallas Mavericks,Utah Jazz,30,21,51,1391823000.0,2014
+Dallas Mavericks,Boston Celtics,Dallas Mavericks,31,21,52,1391986800.0,2014
+Dallas Mavericks,Charlotte Bobcats,Dallas Mavericks,31,22,53,1392163200.0,2014
+Dallas Mavericks,Indiana Pacers,Dallas Mavericks,32,22,54,1392249600.0,2014
+Dallas Mavericks,Dallas Mavericks,Miami Heat,32,23,55,1392773400.0,2014
+Dallas Mavericks,Philadelphia 76ers,Dallas Mavericks,33,23,56,1393027200.0,2014
+Dallas Mavericks,Detroit Pistons,Dallas Mavericks,34,23,57,1393115400.0,2014
+Dallas Mavericks,New York Knicks,Dallas Mavericks,35,23,58,1393288200.0,2014
+Dallas Mavericks,Dallas Mavericks,New Orleans Pelicans,36,23,59,1393462800.0,2014
+Dallas Mavericks,Dallas Mavericks,Chicago Bulls,36,24,60,1393637400.0,2014
+Dallas Mavericks,San Antonio Spurs,Dallas Mavericks,36,25,61,1393804800.0,2014
+Dallas Mavericks,Denver Nuggets,Dallas Mavericks,36,26,62,1394067600.0,2014
+Dallas Mavericks,Dallas Mavericks,Portland Trail Blazers,37,26,63,1394242200.0,2014
+Dallas Mavericks,Dallas Mavericks,Indiana Pacers,38,26,64,1394407800.0,2014
+Dallas Mavericks,Golden State Warriors,Dallas Mavericks,38,27,65,1394591400.0,2014
+Dallas Mavericks,Utah Jazz,Dallas Mavericks,39,27,66,1394672400.0,2014
+Dallas Mavericks,Oklahoma City Thunder,Dallas Mavericks,40,27,67,1395010800.0,2014
+Dallas Mavericks,Dallas Mavericks,Boston Celtics,41,27,68,1395102600.0,2014
+Dallas Mavericks,Dallas Mavericks,Minnesota Timberwolves,41,28,69,1395275400.0,2014
+Dallas Mavericks,Dallas Mavericks,Denver Nuggets,42,28,70,1395448200.0,2014
+Dallas Mavericks,Dallas Mavericks,Brooklyn Nets,42,29,71,1395617400.0,2014
+Dallas Mavericks,Dallas Mavericks,Oklahoma City Thunder,43,29,72,1395792000.0,2014
+Dallas Mavericks,Dallas Mavericks,Los Angeles Clippers,43,30,73,1395966600.0,2014
+Dallas Mavericks,Dallas Mavericks,Sacramento Kings,44,30,74,1396139400.0,2014
+Dallas Mavericks,Dallas Mavericks,Golden State Warriors,44,31,75,1396398600.0,2014
+Dallas Mavericks,Los Angeles Clippers,Dallas Mavericks,45,31,76,1396578600.0,2014
+Dallas Mavericks,Los Angeles Lakers,Dallas Mavericks,46,31,77,1396665000.0,2014
+Dallas Mavericks,Sacramento Kings,Dallas Mavericks,47,31,78,1396821600.0,2014
+Dallas Mavericks,Utah Jazz,Dallas Mavericks,48,31,79,1397005200.0,2014
+Dallas Mavericks,Dallas Mavericks,San Antonio Spurs,48,32,80,1397174400.0,2014
+Dallas Mavericks,Dallas Mavericks,Phoenix Suns,49,32,81,1397349000.0,2014
+Dallas Mavericks,Memphis Grizzlies,Dallas Mavericks,49,33,82,1397692800.0,2014
+Denver Nuggets,Sacramento Kings,Denver Nuggets,0,1,1,1383184800.0,2014
+Denver Nuggets,Denver Nuggets,Portland Trail Blazers,0,2,2,1383354000.0,2014
+Denver Nuggets,Denver Nuggets,San Antonio Spurs,0,3,3,1383703200.0,2014
+Denver Nuggets,Denver Nuggets,Atlanta Hawks,1,3,4,1383876000.0,2014
+Denver Nuggets,Phoenix Suns,Denver Nuggets,1,4,5,1383962400.0,2014
+Denver Nuggets,Utah Jazz,Denver Nuggets,2,4,6,1384221600.0,2014
+Denver Nuggets,Denver Nuggets,Los Angeles Lakers,3,4,7,1384394400.0,2014
+Denver Nuggets,Denver Nuggets,Minnesota Timberwolves,4,4,8,1384563600.0,2014
+Denver Nuggets,Houston Rockets,Denver Nuggets,4,5,9,1384650000.0,2014
+Denver Nuggets,Oklahoma City Thunder,Denver Nuggets,4,6,10,1384822800.0,2014
+Denver Nuggets,Denver Nuggets,Chicago Bulls,5,6,11,1385091000.0,2014
+Denver Nuggets,Denver Nuggets,Dallas Mavericks,6,6,12,1385258400.0,2014
+Denver Nuggets,Dallas Mavericks,Denver Nuggets,7,6,13,1385429400.0,2014
+Denver Nuggets,Minnesota Timberwolves,Denver Nuggets,8,6,14,1385600400.0,2014
+Denver Nuggets,Denver Nuggets,New York Knicks,9,6,15,1385776800.0,2014
+Denver Nuggets,Toronto Raptors,Denver Nuggets,10,6,16,1385920800.0,2014
+Denver Nuggets,Brooklyn Nets,Denver Nuggets,11,6,17,1386117000.0,2014
+Denver Nuggets,Cleveland Cavaliers,Denver Nuggets,11,7,18,1386201600.0,2014
+Denver Nuggets,Boston Celtics,Denver Nuggets,11,8,19,1386376200.0,2014
+Denver Nuggets,Philadelphia 76ers,Denver Nuggets,12,8,20,1386460800.0,2014
+Denver Nuggets,Washington Wizards,Denver Nuggets,13,8,21,1386633600.0,2014
+Denver Nuggets,Denver Nuggets,Utah Jazz,13,9,22,1386986400.0,2014
+Denver Nuggets,Denver Nuggets,New Orleans Pelicans,14,9,23,1387155600.0,2014
+Denver Nuggets,Denver Nuggets,Oklahoma City Thunder,14,10,24,1387332000.0,2014
+Denver Nuggets,Denver Nuggets,Phoenix Suns,14,11,25,1387591200.0,2014
+Denver Nuggets,Los Angeles Clippers,Denver Nuggets,14,12,26,1387683000.0,2014
+Denver Nuggets,Denver Nuggets,Golden State Warriors,14,13,27,1387850400.0,2014
+Denver Nuggets,New Orleans Pelicans,Denver Nuggets,14,14,28,1388192400.0,2014
+Denver Nuggets,Memphis Grizzlies,Denver Nuggets,14,15,29,1388278800.0,2014
+Denver Nuggets,Denver Nuggets,Miami Heat,14,16,30,1388455200.0,2014
+Denver Nuggets,Denver Nuggets,Philadelphia 76ers,14,17,31,1388628000.0,2014
+Denver Nuggets,Denver Nuggets,Memphis Grizzlies,15,17,32,1388800800.0,2014
+Denver Nuggets,Los Angeles Lakers,Denver Nuggets,16,17,33,1388975400.0,2014
+Denver Nuggets,Denver Nuggets,Boston Celtics,17,17,34,1389146400.0,2014
+Denver Nuggets,Denver Nuggets,Oklahoma City Thunder,18,17,35,1389324600.0,2014
+Denver Nuggets,Denver Nuggets,Orlando Magic,19,17,36,1389492000.0,2014
+Denver Nuggets,Utah Jazz,Denver Nuggets,19,18,37,1389664800.0,2014
+Denver Nuggets,Golden State Warriors,Denver Nuggets,20,18,38,1389843000.0,2014
+Denver Nuggets,Denver Nuggets,Cleveland Cavaliers,20,19,39,1390010400.0,2014
+Denver Nuggets,Phoenix Suns,Denver Nuggets,20,20,40,1390179600.0,2014
+Denver Nuggets,Portland Trail Blazers,Denver Nuggets,20,21,41,1390534200.0,2014
+Denver Nuggets,Denver Nuggets,Indiana Pacers,21,21,42,1390701600.0,2014
+Denver Nuggets,Sacramento Kings,Denver Nuggets,22,21,43,1390788000.0,2014
+Denver Nuggets,Denver Nuggets,Charlotte Bobcats,22,22,44,1391047200.0,2014
+Denver Nuggets,Denver Nuggets,Toronto Raptors,22,23,45,1391220000.0,2014
+Denver Nuggets,Denver Nuggets,Los Angeles Clippers,23,23,46,1391479200.0,2014
+Denver Nuggets,Denver Nuggets,Milwaukee Bucks,24,23,47,1391652000.0,2014
+Denver Nuggets,New York Knicks,Denver Nuggets,24,24,48,1391819400.0,2014
+Denver Nuggets,Detroit Pistons,Denver Nuggets,24,25,49,1391905800.0,2014
+Denver Nuggets,Indiana Pacers,Denver Nuggets,24,26,50,1392076800.0,2014
+Denver Nuggets,Minnesota Timberwolves,Denver Nuggets,24,27,51,1392253200.0,2014
+Denver Nuggets,Denver Nuggets,Phoenix Suns,24,28,52,1392775200.0,2014
+Denver Nuggets,Milwaukee Bucks,Denver Nuggets,25,28,53,1392944400.0,2014
+Denver Nuggets,Chicago Bulls,Denver Nuggets,25,29,54,1393030800.0,2014
+Denver Nuggets,Denver Nuggets,Sacramento Kings,25,30,55,1393203600.0,2014
+Denver Nuggets,Denver Nuggets,Portland Trail Blazers,25,31,56,1393380000.0,2014
+Denver Nuggets,Denver Nuggets,Brooklyn Nets,25,32,57,1393558200.0,2014
+Denver Nuggets,Portland Trail Blazers,Denver Nuggets,25,33,58,1393729200.0,2014
+Denver Nuggets,Denver Nuggets,Minnesota Timberwolves,25,34,59,1393898400.0,2014
+Denver Nuggets,Denver Nuggets,Dallas Mavericks,26,34,60,1394067600.0,2014
+Denver Nuggets,Denver Nuggets,Los Angeles Lakers,27,34,61,1394244000.0,2014
+Denver Nuggets,New Orleans Pelicans,Denver Nuggets,27,35,62,1394402400.0,2014
+Denver Nuggets,Charlotte Bobcats,Denver Nuggets,27,36,63,1394492400.0,2014
+Denver Nuggets,Orlando Magic,Denver Nuggets,28,36,64,1394665200.0,2014
+Denver Nuggets,Miami Heat,Denver Nuggets,29,36,65,1394839800.0,2014
+Denver Nuggets,Atlanta Hawks,Denver Nuggets,29,37,66,1394926200.0,2014
+Denver Nuggets,Denver Nuggets,Los Angeles Clippers,30,37,67,1395109800.0,2014
+Denver Nuggets,Denver Nuggets,Detroit Pistons,31,37,68,1395277200.0,2014
+Denver Nuggets,Dallas Mavericks,Denver Nuggets,31,38,69,1395448200.0,2014
+Denver Nuggets,Denver Nuggets,Washington Wizards,32,38,70,1395608400.0,2014
+Denver Nuggets,Oklahoma City Thunder,Denver Nuggets,32,39,71,1395705600.0,2014
+Denver Nuggets,San Antonio Spurs,Denver Nuggets,32,40,72,1395880200.0,2014
+Denver Nuggets,Denver Nuggets,San Antonio Spurs,32,41,73,1396054800.0,2014
+Denver Nuggets,Denver Nuggets,Memphis Grizzlies,32,42,74,1396314000.0,2014
+Denver Nuggets,Denver Nuggets,New Orleans Pelicans,33,42,75,1396486800.0,2014
+Denver Nuggets,Memphis Grizzlies,Denver Nuggets,33,43,76,1396652400.0,2014
+Denver Nuggets,Houston Rockets,Denver Nuggets,33,44,77,1396825200.0,2014
+Denver Nuggets,Denver Nuggets,Houston Rockets,34,44,78,1397091600.0,2014
+Denver Nuggets,Golden State Warriors,Denver Nuggets,35,44,79,1397183400.0,2014
+Denver Nuggets,Denver Nuggets,Utah Jazz,36,44,80,1397350800.0,2014
+Denver Nuggets,Los Angeles Clippers,Denver Nuggets,36,45,81,1397615400.0,2014
+Denver Nuggets,Denver Nuggets,Golden State Warriors,36,46,82,1397701800.0,2014
+Detroit Pistons,Detroit Pistons,Washington Wizards,1,0,1,1383175800.0,2014
+Detroit Pistons,Memphis Grizzlies,Detroit Pistons,1,1,2,1383350400.0,2014
+Detroit Pistons,Detroit Pistons,Boston Celtics,2,1,3,1383519600.0,2014
+Detroit Pistons,Detroit Pistons,Indiana Pacers,2,2,4,1383697800.0,2014
+Detroit Pistons,Detroit Pistons,Oklahoma City Thunder,2,3,5,1383957000.0,2014
+Detroit Pistons,Portland Trail Blazers,Detroit Pistons,2,4,6,1384225200.0,2014
+Detroit Pistons,Golden State Warriors,Detroit Pistons,2,5,7,1384313400.0,2014
+Detroit Pistons,Sacramento Kings,Detroit Pistons,3,5,8,1384572600.0,2014
+Detroit Pistons,Los Angeles Lakers,Detroit Pistons,3,6,9,1384741800.0,2014
+Detroit Pistons,Detroit Pistons,New York Knicks,4,6,10,1384907400.0,2014
+Detroit Pistons,Atlanta Hawks,Detroit Pistons,4,7,11,1384993800.0,2014
+Detroit Pistons,Detroit Pistons,Atlanta Hawks,4,8,12,1385166600.0,2014
+Detroit Pistons,Brooklyn Nets,Detroit Pistons,5,8,13,1385319600.0,2014
+Detroit Pistons,Detroit Pistons,Milwaukee Bucks,6,8,14,1385425800.0,2014
+Detroit Pistons,Detroit Pistons,Chicago Bulls,6,9,15,1385598600.0,2014
+Detroit Pistons,Detroit Pistons,Los Angeles Lakers,6,10,16,1385771400.0,2014
+Detroit Pistons,Detroit Pistons,Philadelphia 76ers,7,10,17,1385929800.0,2014
+Detroit Pistons,Miami Heat,Detroit Pistons,8,10,18,1386117000.0,2014
+Detroit Pistons,Milwaukee Bucks,Detroit Pistons,9,10,19,1386205200.0,2014
+Detroit Pistons,Chicago Bulls,Detroit Pistons,10,10,20,1386464400.0,2014
+Detroit Pistons,Detroit Pistons,Miami Heat,10,11,21,1386543600.0,2014
+Detroit Pistons,Detroit Pistons,Minnesota Timberwolves,10,12,22,1386721800.0,2014
+Detroit Pistons,New Orleans Pelicans,Detroit Pistons,10,13,23,1386810000.0,2014
+Detroit Pistons,Detroit Pistons,Brooklyn Nets,11,13,24,1386981000.0,2014
+Detroit Pistons,Detroit Pistons,Portland Trail Blazers,11,14,25,1387148400.0,2014
+Detroit Pistons,Indiana Pacers,Detroit Pistons,12,14,26,1387238400.0,2014
+Detroit Pistons,Boston Celtics,Detroit Pistons,13,14,27,1387413000.0,2014
+Detroit Pistons,Detroit Pistons,Charlotte Bobcats,13,15,28,1387585800.0,2014
+Detroit Pistons,Detroit Pistons,Houston Rockets,13,16,29,1387672200.0,2014
+Detroit Pistons,Cleveland Cavaliers,Detroit Pistons,14,16,30,1387843200.0,2014
+Detroit Pistons,Orlando Magic,Detroit Pistons,14,17,31,1388188800.0,2014
+Detroit Pistons,Washington Wizards,Detroit Pistons,14,18,32,1388275200.0,2014
+Detroit Pistons,Detroit Pistons,Washington Wizards,14,19,33,1388449800.0,2014
+Detroit Pistons,Detroit Pistons,Memphis Grizzlies,14,20,34,1388944800.0,2014
+Detroit Pistons,New York Knicks,Detroit Pistons,14,21,35,1389141000.0,2014
+Detroit Pistons,Toronto Raptors,Detroit Pistons,14,22,36,1389225600.0,2014
+Detroit Pistons,Philadelphia 76ers,Detroit Pistons,15,22,37,1389398400.0,2014
+Detroit Pistons,Detroit Pistons,Phoenix Suns,16,22,38,1389486600.0,2014
+Detroit Pistons,Detroit Pistons,Utah Jazz,16,23,39,1390005000.0,2014
+Detroit Pistons,Washington Wizards,Detroit Pistons,17,23,40,1390089600.0,2014
+Detroit Pistons,Detroit Pistons,Los Angeles Clippers,17,24,41,1390240800.0,2014
+Detroit Pistons,Milwaukee Bucks,Detroit Pistons,17,25,42,1390438800.0,2014
+Detroit Pistons,Detroit Pistons,New Orleans Pelicans,17,26,43,1390609800.0,2014
+Detroit Pistons,Dallas Mavericks,Detroit Pistons,17,27,44,1390782600.0,2014
+Detroit Pistons,Detroit Pistons,Orlando Magic,18,27,45,1390955400.0,2014
+Detroit Pistons,Detroit Pistons,Philadelphia 76ers,19,27,46,1391301000.0,2014
+Detroit Pistons,Miami Heat,Detroit Pistons,19,28,47,1391473800.0,2014
+Detroit Pistons,Orlando Magic,Detroit Pistons,19,29,48,1391644800.0,2014
+Detroit Pistons,Detroit Pistons,Brooklyn Nets,20,29,49,1391819400.0,2014
+Detroit Pistons,Detroit Pistons,Denver Nuggets,21,29,50,1391905800.0,2014
+Detroit Pistons,Detroit Pistons,San Antonio Spurs,22,29,51,1392078600.0,2014
+Detroit Pistons,Detroit Pistons,Cleveland Cavaliers,22,30,52,1392251400.0,2014
+Detroit Pistons,Detroit Pistons,Charlotte Bobcats,22,31,53,1392769800.0,2014
+Detroit Pistons,Charlotte Bobcats,Detroit Pistons,22,32,54,1392854400.0,2014
+Detroit Pistons,Detroit Pistons,Atlanta Hawks,23,32,55,1393029000.0,2014
+Detroit Pistons,Detroit Pistons,Dallas Mavericks,23,33,56,1393115400.0,2014
+Detroit Pistons,Detroit Pistons,Golden State Warriors,23,34,57,1393288200.0,2014
+Detroit Pistons,San Antonio Spurs,Detroit Pistons,23,35,58,1393464600.0,2014
+Detroit Pistons,Houston Rockets,Detroit Pistons,23,36,59,1393722000.0,2014
+Detroit Pistons,Detroit Pistons,New York Knicks,24,36,60,1393893000.0,2014
+Detroit Pistons,Detroit Pistons,Chicago Bulls,24,37,61,1394065800.0,2014
+Detroit Pistons,Minnesota Timberwolves,Detroit Pistons,24,38,62,1394240400.0,2014
+Detroit Pistons,Boston Celtics,Detroit Pistons,24,39,63,1394402400.0,2014
+Detroit Pistons,Detroit Pistons,Sacramento Kings,25,39,64,1394580600.0,2014
+Detroit Pistons,Toronto Raptors,Detroit Pistons,25,40,65,1394665200.0,2014
+Detroit Pistons,Detroit Pistons,Indiana Pacers,25,41,66,1394926200.0,2014
+Detroit Pistons,Denver Nuggets,Detroit Pistons,25,42,67,1395277200.0,2014
+Detroit Pistons,Phoenix Suns,Detroit Pistons,25,43,68,1395453600.0,2014
+Detroit Pistons,Los Angeles Clippers,Detroit Pistons,25,44,69,1395541800.0,2014
+Detroit Pistons,Utah Jazz,Detroit Pistons,26,44,70,1395709200.0,2014
+Detroit Pistons,Detroit Pistons,Cleveland Cavaliers,26,45,71,1395876600.0,2014
+Detroit Pistons,Detroit Pistons,Miami Heat,26,46,72,1396049400.0,2014
+Detroit Pistons,Philadelphia 76ers,Detroit Pistons,26,47,73,1396135800.0,2014
+Detroit Pistons,Detroit Pistons,Milwaukee Bucks,27,47,74,1396308600.0,2014
+Detroit Pistons,Indiana Pacers,Detroit Pistons,27,48,75,1396479600.0,2014
+Detroit Pistons,Brooklyn Nets,Detroit Pistons,27,49,76,1396654200.0,2014
+Detroit Pistons,Detroit Pistons,Boston Celtics,28,49,77,1396740600.0,2014
+Detroit Pistons,Atlanta Hawks,Detroit Pistons,29,49,78,1396999800.0,2014
+Detroit Pistons,Cleveland Cavaliers,Detroit Pistons,29,50,79,1397084400.0,2014
+Detroit Pistons,Chicago Bulls,Detroit Pistons,29,51,80,1397260800.0,2014
+Detroit Pistons,Detroit Pistons,Toronto Raptors,29,52,81,1397417400.0,2014
+Detroit Pistons,Oklahoma City Thunder,Detroit Pistons,29,53,82,1397692800.0,2014
+Golden State Warriors,Golden State Warriors,Los Angeles Lakers,1,0,1,1383186600.0,2014
+Golden State Warriors,Los Angeles Clippers,Golden State Warriors,1,1,2,1383273000.0,2014
+Golden State Warriors,Golden State Warriors,Sacramento Kings,2,1,3,1383445800.0,2014
+Golden State Warriors,Philadelphia 76ers,Golden State Warriors,3,1,4,1383609600.0,2014
+Golden State Warriors,Minnesota Timberwolves,Golden State Warriors,4,1,5,1383786000.0,2014
+Golden State Warriors,San Antonio Spurs,Golden State Warriors,4,2,6,1383960600.0,2014
+Golden State Warriors,Memphis Grizzlies,Golden State Warriors,4,3,7,1384045200.0,2014
+Golden State Warriors,Golden State Warriors,Detroit Pistons,5,3,8,1384313400.0,2014
+Golden State Warriors,Golden State Warriors,Oklahoma City Thunder,6,3,9,1384486200.0,2014
+Golden State Warriors,Golden State Warriors,Utah Jazz,7,3,10,1384659000.0,2014
+Golden State Warriors,Utah Jazz,Golden State Warriors,8,3,11,1384826400.0,2014
+Golden State Warriors,Golden State Warriors,Memphis Grizzlies,8,4,12,1385004600.0,2014
+Golden State Warriors,Los Angeles Lakers,Golden State Warriors,8,5,13,1385177400.0,2014
+Golden State Warriors,Golden State Warriors,Portland Trail Blazers,8,6,14,1385263800.0,2014
+Golden State Warriors,New Orleans Pelicans,Golden State Warriors,9,6,15,1385514000.0,2014
+Golden State Warriors,Dallas Mavericks,Golden State Warriors,9,7,16,1385602200.0,2014
+Golden State Warriors,Oklahoma City Thunder,Golden State Warriors,9,8,17,1385773200.0,2014
+Golden State Warriors,Sacramento Kings,Golden State Warriors,10,8,18,1385938800.0,2014
+Golden State Warriors,Golden State Warriors,Toronto Raptors,11,8,19,1386127800.0,2014
+Golden State Warriors,Houston Rockets,Golden State Warriors,11,9,20,1386378000.0,2014
+Golden State Warriors,Memphis Grizzlies,Golden State Warriors,12,9,21,1386464400.0,2014
+Golden State Warriors,Charlotte Bobcats,Golden State Warriors,12,10,22,1386633600.0,2014
+Golden State Warriors,Golden State Warriors,Dallas Mavericks,13,10,23,1386819000.0,2014
+Golden State Warriors,Golden State Warriors,Houston Rockets,13,11,24,1386991800.0,2014
+Golden State Warriors,Phoenix Suns,Golden State Warriors,13,12,25,1387155600.0,2014
+Golden State Warriors,Golden State Warriors,New Orleans Pelicans,14,12,26,1387337400.0,2014
+Golden State Warriors,Golden State Warriors,San Antonio Spurs,14,13,27,1387510200.0,2014
+Golden State Warriors,Golden State Warriors,Los Angeles Lakers,15,13,28,1387683000.0,2014
+Golden State Warriors,Denver Nuggets,Golden State Warriors,16,13,29,1387850400.0,2014
+Golden State Warriors,Golden State Warriors,Los Angeles Clippers,17,13,30,1388028600.0,2014
+Golden State Warriors,Golden State Warriors,Phoenix Suns,18,13,31,1388201400.0,2014
+Golden State Warriors,Cleveland Cavaliers,Golden State Warriors,19,13,32,1388358000.0,2014
+Golden State Warriors,Orlando Magic,Golden State Warriors,20,13,33,1388527200.0,2014
+Golden State Warriors,Miami Heat,Golden State Warriors,21,13,34,1388709000.0,2014
+Golden State Warriors,Atlanta Hawks,Golden State Warriors,22,13,35,1388795400.0,2014
+Golden State Warriors,Washington Wizards,Golden State Warriors,23,13,36,1388962800.0,2014
+Golden State Warriors,Milwaukee Bucks,Golden State Warriors,24,13,37,1389142800.0,2014
+Golden State Warriors,Brooklyn Nets,Golden State Warriors,24,14,38,1389227400.0,2014
+Golden State Warriors,Golden State Warriors,Boston Celtics,25,14,39,1389411000.0,2014
+Golden State Warriors,Golden State Warriors,Denver Nuggets,25,15,40,1389843000.0,2014
+Golden State Warriors,Oklahoma City Thunder,Golden State Warriors,25,16,41,1390012200.0,2014
+Golden State Warriors,New Orleans Pelicans,Golden State Warriors,26,16,42,1390093200.0,2014
+Golden State Warriors,Golden State Warriors,Indiana Pacers,26,17,43,1390275000.0,2014
+Golden State Warriors,Golden State Warriors,Minnesota Timberwolves,26,18,44,1390620600.0,2014
+Golden State Warriors,Golden State Warriors,Portland Trail Blazers,27,18,45,1390788000.0,2014
+Golden State Warriors,Golden State Warriors,Washington Wizards,27,19,46,1390966200.0,2014
+Golden State Warriors,Golden State Warriors,Los Angeles Clippers,28,19,47,1391139000.0,2014
+Golden State Warriors,Utah Jazz,Golden State Warriors,29,19,48,1391225400.0,2014
+Golden State Warriors,Golden State Warriors,Charlotte Bobcats,29,20,49,1391571000.0,2014
+Golden State Warriors,Golden State Warriors,Chicago Bulls,30,20,50,1391743800.0,2014
+Golden State Warriors,Phoenix Suns,Golden State Warriors,30,21,51,1391911200.0,2014
+Golden State Warriors,Golden State Warriors,Philadelphia 76ers,31,21,52,1392089400.0,2014
+Golden State Warriors,Golden State Warriors,Miami Heat,31,22,53,1392262200.0,2014
+Golden State Warriors,Sacramento Kings,Golden State Warriors,32,22,54,1392865200.0,2014
+Golden State Warriors,Golden State Warriors,Houston Rockets,33,22,55,1392953400.0,2014
+Golden State Warriors,Golden State Warriors,Brooklyn Nets,34,22,56,1393126200.0,2014
+Golden State Warriors,Detroit Pistons,Golden State Warriors,35,22,57,1393288200.0,2014
+Golden State Warriors,Chicago Bulls,Golden State Warriors,35,23,58,1393462800.0,2014
+Golden State Warriors,New York Knicks,Golden State Warriors,36,23,59,1393635600.0,2014
+Golden State Warriors,Toronto Raptors,Golden State Warriors,36,24,60,1393794000.0,2014
+Golden State Warriors,Indiana Pacers,Golden State Warriors,37,24,61,1393977600.0,2014
+Golden State Warriors,Boston Celtics,Golden State Warriors,38,24,62,1394065800.0,2014
+Golden State Warriors,Golden State Warriors,Atlanta Hawks,39,24,63,1394249400.0,2014
+Golden State Warriors,Golden State Warriors,Phoenix Suns,40,24,64,1394413200.0,2014
+Golden State Warriors,Golden State Warriors,Dallas Mavericks,41,24,65,1394591400.0,2014
+Golden State Warriors,Los Angeles Clippers,Golden State Warriors,41,25,66,1394677800.0,2014
+Golden State Warriors,Golden State Warriors,Cleveland Cavaliers,41,26,67,1394850600.0,2014
+Golden State Warriors,Portland Trail Blazers,Golden State Warriors,42,26,68,1395018000.0,2014
+Golden State Warriors,Golden State Warriors,Orlando Magic,43,26,69,1395196200.0,2014
+Golden State Warriors,Golden State Warriors,Milwaukee Bucks,44,26,70,1395369000.0,2014
+Golden State Warriors,Golden State Warriors,San Antonio Spurs,44,27,71,1395541800.0,2014
+Golden State Warriors,Golden State Warriors,Memphis Grizzlies,45,27,72,1396060200.0,2014
+Golden State Warriors,Golden State Warriors,New York Knicks,45,28,73,1396227600.0,2014
+Golden State Warriors,Dallas Mavericks,Golden State Warriors,46,28,74,1396398600.0,2014
+Golden State Warriors,San Antonio Spurs,Golden State Warriors,46,29,75,1396485000.0,2014
+Golden State Warriors,Golden State Warriors,Sacramento Kings,47,29,76,1396665000.0,2014
+Golden State Warriors,Golden State Warriors,Utah Jazz,48,29,77,1396832400.0,2014
+Golden State Warriors,Golden State Warriors,Denver Nuggets,48,30,78,1397183400.0,2014
+Golden State Warriors,Los Angeles Lakers,Golden State Warriors,49,30,79,1397269800.0,2014
+Golden State Warriors,Portland Trail Blazers,Golden State Warriors,49,31,80,1397437200.0,2014
+Golden State Warriors,Golden State Warriors,Minnesota Timberwolves,50,31,81,1397529000.0,2014
+Golden State Warriors,Denver Nuggets,Golden State Warriors,51,31,82,1397701800.0,2014
+Houston Rockets,Houston Rockets,Charlotte Bobcats,1,0,1,1383177600.0,2014
+Houston Rockets,Houston Rockets,Dallas Mavericks,2,0,2,1383350400.0,2014
+Houston Rockets,Utah Jazz,Houston Rockets,3,0,3,1383440400.0,2014
+Houston Rockets,Los Angeles Clippers,Houston Rockets,3,1,4,1383622200.0,2014
+Houston Rockets,Portland Trail Blazers,Houston Rockets,4,1,5,1383706800.0,2014
+Houston Rockets,Houston Rockets,Los Angeles Lakers,4,2,6,1383877800.0,2014
+Houston Rockets,Houston Rockets,Los Angeles Clippers,4,3,7,1384045200.0,2014
+Houston Rockets,Houston Rockets,Toronto Raptors,5,3,8,1384218000.0,2014
+Houston Rockets,Philadelphia 76ers,Houston Rockets,5,4,9,1384387200.0,2014
+Houston Rockets,New York Knicks,Houston Rockets,6,4,10,1384477200.0,2014
+Houston Rockets,Houston Rockets,Denver Nuggets,7,4,11,1384650000.0,2014
+Houston Rockets,Houston Rockets,Boston Celtics,8,4,12,1384909200.0,2014
+Houston Rockets,Dallas Mavericks,Houston Rockets,8,5,13,1385001000.0,2014
+Houston Rockets,Houston Rockets,Minnesota Timberwolves,9,5,14,1385254800.0,2014
+Houston Rockets,Memphis Grizzlies,Houston Rockets,10,5,15,1385427600.0,2014
+Houston Rockets,Houston Rockets,Atlanta Hawks,11,5,16,1385600400.0,2014
+Houston Rockets,Houston Rockets,Brooklyn Nets,12,5,17,1385773200.0,2014
+Houston Rockets,San Antonio Spurs,Houston Rockets,13,5,18,1385861400.0,2014
+Houston Rockets,Utah Jazz,Houston Rockets,13,6,19,1386036000.0,2014
+Houston Rockets,Houston Rockets,Phoenix Suns,13,7,20,1386205200.0,2014
+Houston Rockets,Houston Rockets,Golden State Warriors,14,7,21,1386378000.0,2014
+Houston Rockets,Houston Rockets,Orlando Magic,15,7,22,1386547200.0,2014
+Houston Rockets,Portland Trail Blazers,Houston Rockets,15,8,23,1386905400.0,2014
+Houston Rockets,Golden State Warriors,Houston Rockets,16,8,24,1386991800.0,2014
+Houston Rockets,Sacramento Kings,Houston Rockets,16,9,25,1387148400.0,2014
+Houston Rockets,Houston Rockets,Chicago Bulls,17,9,26,1387420200.0,2014
+Houston Rockets,Indiana Pacers,Houston Rockets,17,10,27,1387587600.0,2014
+Houston Rockets,Detroit Pistons,Houston Rockets,18,10,28,1387672200.0,2014
+Houston Rockets,Houston Rockets,Dallas Mavericks,18,11,29,1387846800.0,2014
+Houston Rockets,San Antonio Spurs,Houston Rockets,19,11,30,1388019600.0,2014
+Houston Rockets,Houston Rockets,Memphis Grizzlies,20,11,31,1388106000.0,2014
+Houston Rockets,Houston Rockets,New Orleans Pelicans,21,11,32,1388278800.0,2014
+Houston Rockets,Oklahoma City Thunder,Houston Rockets,21,12,33,1388361600.0,2014
+Houston Rockets,Houston Rockets,Sacramento Kings,21,13,34,1388534400.0,2014
+Houston Rockets,Houston Rockets,New York Knicks,22,13,35,1388797200.0,2014
+Houston Rockets,Houston Rockets,Los Angeles Lakers,23,13,36,1389229200.0,2014
+Houston Rockets,Atlanta Hawks,Houston Rockets,23,14,37,1389400200.0,2014
+Houston Rockets,Washington Wizards,Houston Rockets,24,14,38,1389484800.0,2014
+Houston Rockets,Boston Celtics,Houston Rockets,25,14,39,1389659400.0,2014
+Houston Rockets,New Orleans Pelicans,Houston Rockets,26,14,40,1389834000.0,2014
+Houston Rockets,Houston Rockets,Oklahoma City Thunder,26,15,41,1389925800.0,2014
+Houston Rockets,Houston Rockets,Milwaukee Bucks,27,15,42,1390093200.0,2014
+Houston Rockets,Houston Rockets,Portland Trail Blazers,28,15,43,1390266000.0,2014
+Houston Rockets,Houston Rockets,Sacramento Kings,29,15,44,1390438800.0,2014
+Houston Rockets,Houston Rockets,Memphis Grizzlies,29,16,45,1390611600.0,2014
+Houston Rockets,Memphis Grizzlies,Houston Rockets,29,17,46,1390698000.0,2014
+Houston Rockets,Houston Rockets,San Antonio Spurs,30,17,47,1390957200.0,2014
+Houston Rockets,Dallas Mavericks,Houston Rockets,31,17,48,1391045400.0,2014
+Houston Rockets,Houston Rockets,Cleveland Cavaliers,32,17,49,1391302800.0,2014
+Houston Rockets,Houston Rockets,Phoenix Suns,33,17,50,1391648400.0,2014
+Houston Rockets,Milwaukee Bucks,Houston Rockets,34,17,51,1391909400.0,2014
+Houston Rockets,Minnesota Timberwolves,Houston Rockets,35,17,52,1392080400.0,2014
+Houston Rockets,Houston Rockets,Washington Wizards,36,17,53,1392253200.0,2014
+Houston Rockets,Los Angeles Lakers,Houston Rockets,37,17,54,1392867000.0,2014
+Houston Rockets,Golden State Warriors,Houston Rockets,37,18,55,1392953400.0,2014
+Houston Rockets,Phoenix Suns,Houston Rockets,38,18,56,1393207200.0,2014
+Houston Rockets,Sacramento Kings,Houston Rockets,39,18,57,1393383600.0,2014
+Houston Rockets,Los Angeles Clippers,Houston Rockets,39,19,58,1393471800.0,2014
+Houston Rockets,Houston Rockets,Detroit Pistons,40,19,59,1393722000.0,2014
+Houston Rockets,Houston Rockets,Miami Heat,41,19,60,1393981200.0,2014
+Houston Rockets,Orlando Magic,Houston Rockets,42,19,61,1394064000.0,2014
+Houston Rockets,Houston Rockets,Indiana Pacers,43,19,62,1394245800.0,2014
+Houston Rockets,Houston Rockets,Portland Trail Blazers,44,19,63,1394406000.0,2014
+Houston Rockets,Oklahoma City Thunder,Houston Rockets,44,20,64,1394582400.0,2014
+Houston Rockets,Chicago Bulls,Houston Rockets,44,21,65,1394751600.0,2014
+Houston Rockets,Miami Heat,Houston Rockets,44,22,66,1394998200.0,2014
+Houston Rockets,Houston Rockets,Utah Jazz,45,22,67,1395100800.0,2014
+Houston Rockets,Houston Rockets,Minnesota Timberwolves,46,22,68,1395360000.0,2014
+Houston Rockets,Cleveland Cavaliers,Houston Rockets,47,22,69,1395531000.0,2014
+Houston Rockets,Charlotte Bobcats,Houston Rockets,48,22,70,1395702000.0,2014
+Houston Rockets,Houston Rockets,Philadelphia 76ers,49,22,71,1395964800.0,2014
+Houston Rockets,Houston Rockets,Los Angeles Clippers,49,23,72,1396137600.0,2014
+Houston Rockets,Brooklyn Nets,Houston Rockets,49,24,73,1396396800.0,2014
+Houston Rockets,Toronto Raptors,Houston Rockets,49,25,74,1396479600.0,2014
+Houston Rockets,Houston Rockets,Oklahoma City Thunder,50,25,75,1396661400.0,2014
+Houston Rockets,Houston Rockets,Denver Nuggets,51,25,76,1396825200.0,2014
+Houston Rockets,Los Angeles Lakers,Houston Rockets,52,25,77,1397010600.0,2014
+Houston Rockets,Denver Nuggets,Houston Rockets,52,26,78,1397091600.0,2014
+Houston Rockets,Minnesota Timberwolves,Houston Rockets,52,27,79,1397260800.0,2014
+Houston Rockets,Houston Rockets,New Orleans Pelicans,53,27,80,1397347200.0,2014
+Houston Rockets,Houston Rockets,San Antonio Spurs,54,27,81,1397520000.0,2014
+Houston Rockets,New Orleans Pelicans,Houston Rockets,54,28,82,1397692800.0,2014
+Indiana Pacers,Indiana Pacers,Orlando Magic,1,0,1,1383087600.0,2014
+Indiana Pacers,New Orleans Pelicans,Indiana Pacers,2,0,2,1383177600.0,2014
+Indiana Pacers,Indiana Pacers,Cleveland Cavaliers,3,0,3,1383433200.0,2014
+Indiana Pacers,Detroit Pistons,Indiana Pacers,4,0,4,1383697800.0,2014
+Indiana Pacers,Indiana Pacers,Chicago Bulls,5,0,5,1383782400.0,2014
+Indiana Pacers,Indiana Pacers,Toronto Raptors,6,0,6,1383955200.0,2014
+Indiana Pacers,Brooklyn Nets,Indiana Pacers,7,0,7,1384043400.0,2014
+Indiana Pacers,Indiana Pacers,Memphis Grizzlies,8,0,8,1384214400.0,2014
+Indiana Pacers,Indiana Pacers,Milwaukee Bucks,9,0,9,1384560000.0,2014
+Indiana Pacers,Chicago Bulls,Indiana Pacers,9,1,10,1384650000.0,2014
+Indiana Pacers,New York Knicks,Indiana Pacers,10,1,11,1384992000.0,2014
+Indiana Pacers,Boston Celtics,Indiana Pacers,11,1,12,1385166600.0,2014
+Indiana Pacers,Indiana Pacers,Philadelphia 76ers,12,1,13,1385251200.0,2014
+Indiana Pacers,Indiana Pacers,Minnesota Timberwolves,13,1,14,1385424000.0,2014
+Indiana Pacers,Charlotte Bobcats,Indiana Pacers,14,1,15,1385596800.0,2014
+Indiana Pacers,Indiana Pacers,Washington Wizards,15,1,16,1385773200.0,2014
+Indiana Pacers,Los Angeles Clippers,Indiana Pacers,16,1,17,1385929800.0,2014
+Indiana Pacers,Portland Trail Blazers,Indiana Pacers,16,2,18,1386039600.0,2014
+Indiana Pacers,Utah Jazz,Indiana Pacers,17,2,19,1386208800.0,2014
+Indiana Pacers,San Antonio Spurs,Indiana Pacers,18,2,20,1386466200.0,2014
+Indiana Pacers,Oklahoma City Thunder,Indiana Pacers,18,3,21,1386547200.0,2014
+Indiana Pacers,Indiana Pacers,Miami Heat,19,3,22,1386720000.0,2014
+Indiana Pacers,Indiana Pacers,Charlotte Bobcats,20,3,23,1386979200.0,2014
+Indiana Pacers,Indiana Pacers,Detroit Pistons,20,4,24,1387238400.0,2014
+Indiana Pacers,Miami Heat,Indiana Pacers,20,5,25,1387411200.0,2014
+Indiana Pacers,Indiana Pacers,Houston Rockets,21,5,26,1387587600.0,2014
+Indiana Pacers,Indiana Pacers,Boston Celtics,22,5,27,1387753200.0,2014
+Indiana Pacers,Brooklyn Nets,Indiana Pacers,23,5,28,1387845000.0,2014
+Indiana Pacers,Indiana Pacers,Brooklyn Nets,24,5,29,1388275200.0,2014
+Indiana Pacers,Indiana Pacers,Cleveland Cavaliers,25,5,30,1388520000.0,2014
+Indiana Pacers,Toronto Raptors,Indiana Pacers,25,6,31,1388620800.0,2014
+Indiana Pacers,Indiana Pacers,New Orleans Pelicans,26,6,32,1388880000.0,2014
+Indiana Pacers,Cleveland Cavaliers,Indiana Pacers,27,6,33,1388962800.0,2014
+Indiana Pacers,Indiana Pacers,Toronto Raptors,28,6,34,1389139200.0,2014
+Indiana Pacers,Atlanta Hawks,Indiana Pacers,28,7,35,1389227400.0,2014
+Indiana Pacers,Indiana Pacers,Washington Wizards,29,7,36,1389398400.0,2014
+Indiana Pacers,Indiana Pacers,Sacramento Kings,30,7,37,1389744000.0,2014
+Indiana Pacers,Indiana Pacers,New York Knicks,31,7,38,1389916800.0,2014
+Indiana Pacers,Indiana Pacers,Los Angeles Clippers,32,7,39,1390089600.0,2014
+Indiana Pacers,Golden State Warriors,Indiana Pacers,33,7,40,1390275000.0,2014
+Indiana Pacers,Phoenix Suns,Indiana Pacers,33,8,41,1390447800.0,2014
+Indiana Pacers,Sacramento Kings,Indiana Pacers,34,8,42,1390618800.0,2014
+Indiana Pacers,Denver Nuggets,Indiana Pacers,34,9,43,1390701600.0,2014
+Indiana Pacers,Los Angeles Lakers,Indiana Pacers,35,9,44,1390966200.0,2014
+Indiana Pacers,Indiana Pacers,Phoenix Suns,35,10,45,1391126400.0,2014
+Indiana Pacers,Indiana Pacers,Brooklyn Nets,36,10,46,1391299200.0,2014
+Indiana Pacers,Indiana Pacers,Orlando Magic,37,10,47,1391472000.0,2014
+Indiana Pacers,Atlanta Hawks,Indiana Pacers,38,10,48,1391560200.0,2014
+Indiana Pacers,Indiana Pacers,Portland Trail Blazers,39,10,49,1391817600.0,2014
+Indiana Pacers,Orlando Magic,Indiana Pacers,39,11,50,1391986800.0,2014
+Indiana Pacers,Indiana Pacers,Denver Nuggets,40,11,51,1392076800.0,2014
+Indiana Pacers,Indiana Pacers,Dallas Mavericks,40,12,52,1392249600.0,2014
+Indiana Pacers,Indiana Pacers,Atlanta Hawks,41,12,53,1392768000.0,2014
+Indiana Pacers,Minnesota Timberwolves,Indiana Pacers,41,13,54,1392858000.0,2014
+Indiana Pacers,Milwaukee Bucks,Indiana Pacers,42,13,55,1393119000.0,2014
+Indiana Pacers,Indiana Pacers,Los Angeles Lakers,43,13,56,1393372800.0,2014
+Indiana Pacers,Indiana Pacers,Milwaukee Bucks,44,13,57,1393545600.0,2014
+Indiana Pacers,Boston Celtics,Indiana Pacers,45,13,58,1393722000.0,2014
+Indiana Pacers,Indiana Pacers,Utah Jazz,46,13,59,1393801200.0,2014
+Indiana Pacers,Indiana Pacers,Golden State Warriors,46,14,60,1393977600.0,2014
+Indiana Pacers,Charlotte Bobcats,Indiana Pacers,46,15,61,1394064000.0,2014
+Indiana Pacers,Houston Rockets,Indiana Pacers,46,16,62,1394245800.0,2014
+Indiana Pacers,Dallas Mavericks,Indiana Pacers,46,17,63,1394407800.0,2014
+Indiana Pacers,Indiana Pacers,Boston Celtics,47,17,64,1394578800.0,2014
+Indiana Pacers,Philadelphia 76ers,Indiana Pacers,48,17,65,1394838000.0,2014
+Indiana Pacers,Detroit Pistons,Indiana Pacers,49,17,66,1394926200.0,2014
+Indiana Pacers,Indiana Pacers,Philadelphia 76ers,50,17,67,1395097200.0,2014
+Indiana Pacers,New York Knicks,Indiana Pacers,50,18,68,1395273600.0,2014
+Indiana Pacers,Indiana Pacers,Chicago Bulls,51,18,69,1395442800.0,2014
+Indiana Pacers,Memphis Grizzlies,Indiana Pacers,51,19,70,1395532800.0,2014
+Indiana Pacers,Chicago Bulls,Indiana Pacers,51,20,71,1395705600.0,2014
+Indiana Pacers,Indiana Pacers,Miami Heat,52,20,72,1395878400.0,2014
+Indiana Pacers,Washington Wizards,Indiana Pacers,52,21,73,1396047600.0,2014
+Indiana Pacers,Cleveland Cavaliers,Indiana Pacers,52,22,74,1396206000.0,2014
+Indiana Pacers,Indiana Pacers,San Antonio Spurs,52,23,75,1396306800.0,2014
+Indiana Pacers,Indiana Pacers,Detroit Pistons,53,23,76,1396479600.0,2014
+Indiana Pacers,Toronto Raptors,Indiana Pacers,53,24,77,1396652400.0,2014
+Indiana Pacers,Indiana Pacers,Atlanta Hawks,53,25,78,1396821600.0,2014
+Indiana Pacers,Milwaukee Bucks,Indiana Pacers,54,25,79,1397088000.0,2014
+Indiana Pacers,Miami Heat,Indiana Pacers,54,26,80,1397259000.0,2014
+Indiana Pacers,Indiana Pacers,Oklahoma City Thunder,55,26,81,1397408400.0,2014
+Indiana Pacers,Orlando Magic,Indiana Pacers,56,26,82,1397689200.0,2014
+Los Angeles Clippers,Los Angeles Lakers,Los Angeles Clippers,0,1,1,1383100200.0,2014
+Los Angeles Clippers,Los Angeles Clippers,Golden State Warriors,1,1,2,1383273000.0,2014
+Los Angeles Clippers,Sacramento Kings,Los Angeles Clippers,2,1,3,1383357600.0,2014
+Los Angeles Clippers,Los Angeles Clippers,Houston Rockets,3,1,4,1383622200.0,2014
+Los Angeles Clippers,Orlando Magic,Los Angeles Clippers,3,2,5,1383782400.0,2014
+Los Angeles Clippers,Miami Heat,Los Angeles Clippers,3,3,6,1383868800.0,2014
+Los Angeles Clippers,Houston Rockets,Los Angeles Clippers,4,3,7,1384045200.0,2014
+Los Angeles Clippers,Los Angeles Clippers,Minnesota Timberwolves,5,3,8,1384227000.0,2014
+Los Angeles Clippers,Los Angeles Clippers,Oklahoma City Thunder,6,3,9,1384399800.0,2014
+Los Angeles Clippers,Los Angeles Clippers,Brooklyn Nets,7,3,10,1384659000.0,2014
+Los Angeles Clippers,Los Angeles Clippers,Memphis Grizzlies,7,4,11,1384831800.0,2014
+Los Angeles Clippers,Minnesota Timberwolves,Los Angeles Clippers,8,4,12,1384995600.0,2014
+Los Angeles Clippers,Oklahoma City Thunder,Los Angeles Clippers,8,5,13,1385082000.0,2014
+Los Angeles Clippers,Los Angeles Clippers,Sacramento Kings,9,5,14,1385238600.0,2014
+Los Angeles Clippers,Los Angeles Clippers,Chicago Bulls,10,5,15,1385325000.0,2014
+Los Angeles Clippers,Los Angeles Clippers,New York Knicks,11,5,16,1385609400.0,2014
+Los Angeles Clippers,Sacramento Kings,Los Angeles Clippers,12,5,17,1385780400.0,2014
+Los Angeles Clippers,Los Angeles Clippers,Indiana Pacers,12,6,18,1385929800.0,2014
+Los Angeles Clippers,Atlanta Hawks,Los Angeles Clippers,12,7,19,1386203400.0,2014
+Los Angeles Clippers,Memphis Grizzlies,Los Angeles Clippers,13,7,20,1386291600.0,2014
+Los Angeles Clippers,Cleveland Cavaliers,Los Angeles Clippers,13,8,21,1386462600.0,2014
+Los Angeles Clippers,Philadelphia 76ers,Los Angeles Clippers,14,8,22,1386633600.0,2014
+Los Angeles Clippers,Boston Celtics,Los Angeles Clippers,15,8,23,1386808200.0,2014
+Los Angeles Clippers,Brooklyn Nets,Los Angeles Clippers,15,9,24,1386896400.0,2014
+Los Angeles Clippers,Washington Wizards,Los Angeles Clippers,16,9,25,1387065600.0,2014
+Los Angeles Clippers,Los Angeles Clippers,San Antonio Spurs,17,9,26,1387251000.0,2014
+Los Angeles Clippers,Los Angeles Clippers,New Orleans Pelicans,18,9,27,1387423800.0,2014
+Los Angeles Clippers,Los Angeles Clippers,Denver Nuggets,19,9,28,1387683000.0,2014
+Los Angeles Clippers,Los Angeles Clippers,Minnesota Timberwolves,20,9,29,1387765800.0,2014
+Los Angeles Clippers,Golden State Warriors,Los Angeles Clippers,20,10,30,1388028600.0,2014
+Los Angeles Clippers,Portland Trail Blazers,Los Angeles Clippers,20,11,31,1388115000.0,2014
+Los Angeles Clippers,Los Angeles Clippers,Utah Jazz,21,11,32,1388287800.0,2014
+Los Angeles Clippers,Los Angeles Clippers,Phoenix Suns,21,12,33,1388460600.0,2014
+Los Angeles Clippers,Los Angeles Clippers,Charlotte Bobcats,22,12,34,1388629800.0,2014
+Los Angeles Clippers,Dallas Mavericks,Los Angeles Clippers,23,12,35,1388799000.0,2014
+Los Angeles Clippers,San Antonio Spurs,Los Angeles Clippers,23,13,36,1388885400.0,2014
+Los Angeles Clippers,Los Angeles Clippers,Orlando Magic,24,13,37,1389065400.0,2014
+Los Angeles Clippers,Los Angeles Clippers,Boston Celtics,25,13,38,1389238200.0,2014
+Los Angeles Clippers,Los Angeles Clippers,Los Angeles Lakers,26,13,39,1389411000.0,2014
+Los Angeles Clippers,Los Angeles Clippers,Dallas Mavericks,27,13,40,1389843000.0,2014
+Los Angeles Clippers,New York Knicks,Los Angeles Clippers,28,13,41,1390003200.0,2014
+Los Angeles Clippers,Indiana Pacers,Los Angeles Clippers,28,14,42,1390089600.0,2014
+Los Angeles Clippers,Detroit Pistons,Los Angeles Clippers,29,14,43,1390240800.0,2014
+Los Angeles Clippers,Charlotte Bobcats,Los Angeles Clippers,29,15,44,1390435200.0,2014
+Los Angeles Clippers,Chicago Bulls,Los Angeles Clippers,30,15,45,1390611600.0,2014
+Los Angeles Clippers,Toronto Raptors,Los Angeles Clippers,31,15,46,1390694400.0,2014
+Los Angeles Clippers,Milwaukee Bucks,Los Angeles Clippers,32,15,47,1390870800.0,2014
+Los Angeles Clippers,Los Angeles Clippers,Washington Wizards,33,15,48,1391052600.0,2014
+Los Angeles Clippers,Golden State Warriors,Los Angeles Clippers,33,16,49,1391139000.0,2014
+Los Angeles Clippers,Los Angeles Clippers,Utah Jazz,34,16,50,1391311800.0,2014
+Los Angeles Clippers,Denver Nuggets,Los Angeles Clippers,34,17,51,1391479200.0,2014
+Los Angeles Clippers,Los Angeles Clippers,Miami Heat,34,18,52,1391657400.0,2014
+Los Angeles Clippers,Los Angeles Clippers,Toronto Raptors,35,18,53,1391830200.0,2014
+Los Angeles Clippers,Los Angeles Clippers,Philadelphia 76ers,36,18,54,1391999400.0,2014
+Los Angeles Clippers,Los Angeles Clippers,Portland Trail Blazers,37,18,55,1392262200.0,2014
+Los Angeles Clippers,Los Angeles Clippers,San Antonio Spurs,37,19,56,1392780600.0,2014
+Los Angeles Clippers,Memphis Grizzlies,Los Angeles Clippers,37,20,57,1393030800.0,2014
+Los Angeles Clippers,Oklahoma City Thunder,Los Angeles Clippers,38,20,58,1393178400.0,2014
+Los Angeles Clippers,New Orleans Pelicans,Los Angeles Clippers,39,20,59,1393290000.0,2014
+Los Angeles Clippers,Los Angeles Clippers,Houston Rockets,40,20,60,1393471800.0,2014
+Los Angeles Clippers,Los Angeles Clippers,New Orleans Pelicans,41,20,61,1393731000.0,2014
+Los Angeles Clippers,Phoenix Suns,Los Angeles Clippers,42,20,62,1393984800.0,2014
+Los Angeles Clippers,Los Angeles Lakers,Los Angeles Clippers,43,20,63,1394163000.0,2014
+Los Angeles Clippers,Los Angeles Clippers,Atlanta Hawks,44,20,64,1394335800.0,2014
+Los Angeles Clippers,Los Angeles Clippers,Phoenix Suns,45,20,65,1394505000.0,2014
+Los Angeles Clippers,Los Angeles Clippers,Golden State Warriors,46,20,66,1394677800.0,2014
+Los Angeles Clippers,Utah Jazz,Los Angeles Clippers,47,20,67,1394845200.0,2014
+Los Angeles Clippers,Los Angeles Clippers,Cleveland Cavaliers,48,20,68,1395019800.0,2014
+Los Angeles Clippers,Denver Nuggets,Los Angeles Clippers,48,21,69,1395109800.0,2014
+Los Angeles Clippers,Los Angeles Clippers,Detroit Pistons,49,21,70,1395541800.0,2014
+Los Angeles Clippers,Los Angeles Clippers,Milwaukee Bucks,50,21,71,1395714600.0,2014
+Los Angeles Clippers,New Orleans Pelicans,Los Angeles Clippers,50,22,72,1395878400.0,2014
+Los Angeles Clippers,Dallas Mavericks,Los Angeles Clippers,51,22,73,1395966600.0,2014
+Los Angeles Clippers,Houston Rockets,Los Angeles Clippers,52,22,74,1396137600.0,2014
+Los Angeles Clippers,Minnesota Timberwolves,Los Angeles Clippers,53,22,75,1396310400.0,2014
+Los Angeles Clippers,Phoenix Suns,Los Angeles Clippers,54,22,76,1396490400.0,2014
+Los Angeles Clippers,Los Angeles Clippers,Dallas Mavericks,54,23,77,1396578600.0,2014
+Los Angeles Clippers,Los Angeles Clippers,Los Angeles Lakers,55,23,78,1396812600.0,2014
+Los Angeles Clippers,Los Angeles Clippers,Oklahoma City Thunder,55,24,79,1397097000.0,2014
+Los Angeles Clippers,Los Angeles Clippers,Sacramento Kings,56,24,80,1397331000.0,2014
+Los Angeles Clippers,Los Angeles Clippers,Denver Nuggets,57,24,81,1397615400.0,2014
+Los Angeles Clippers,Portland Trail Blazers,Los Angeles Clippers,57,25,82,1397701800.0,2014
+Los Angeles Lakers,Los Angeles Lakers,Los Angeles Clippers,1,0,1,1383100200.0,2014
+Los Angeles Lakers,Golden State Warriors,Los Angeles Lakers,1,1,2,1383186600.0,2014
+Los Angeles Lakers,Los Angeles Lakers,San Antonio Spurs,1,2,3,1383359400.0,2014
+Los Angeles Lakers,Los Angeles Lakers,Atlanta Hawks,2,2,4,1383532200.0,2014
+Los Angeles Lakers,Dallas Mavericks,Los Angeles Lakers,2,3,5,1383701400.0,2014
+Los Angeles Lakers,Houston Rockets,Los Angeles Lakers,3,3,6,1383877800.0,2014
+Los Angeles Lakers,New Orleans Pelicans,Los Angeles Lakers,3,4,7,1383958800.0,2014
+Los Angeles Lakers,Los Angeles Lakers,Minnesota Timberwolves,3,5,8,1384137000.0,2014
+Los Angeles Lakers,Los Angeles Lakers,New Orleans Pelicans,4,5,9,1384313400.0,2014
+Los Angeles Lakers,Denver Nuggets,Los Angeles Lakers,4,6,10,1384394400.0,2014
+Los Angeles Lakers,Los Angeles Lakers,Memphis Grizzlies,4,7,11,1384572600.0,2014
+Los Angeles Lakers,Los Angeles Lakers,Detroit Pistons,5,7,12,1384741800.0,2014
+Los Angeles Lakers,Los Angeles Lakers,Golden State Warriors,6,7,13,1385177400.0,2014
+Los Angeles Lakers,Los Angeles Lakers,Sacramento Kings,7,7,14,1385346600.0,2014
+Los Angeles Lakers,Washington Wizards,Los Angeles Lakers,7,8,15,1385510400.0,2014
+Los Angeles Lakers,Brooklyn Nets,Los Angeles Lakers,8,8,16,1385598600.0,2014
+Los Angeles Lakers,Detroit Pistons,Los Angeles Lakers,9,8,17,1385771400.0,2014
+Los Angeles Lakers,Los Angeles Lakers,Portland Trail Blazers,9,9,18,1385951400.0,2014
+Los Angeles Lakers,Sacramento Kings,Los Angeles Lakers,10,9,19,1386385200.0,2014
+Los Angeles Lakers,Los Angeles Lakers,Toronto Raptors,10,10,20,1386556200.0,2014
+Los Angeles Lakers,Los Angeles Lakers,Phoenix Suns,10,11,21,1386732600.0,2014
+Los Angeles Lakers,Oklahoma City Thunder,Los Angeles Lakers,10,12,22,1386982800.0,2014
+Los Angeles Lakers,Charlotte Bobcats,Los Angeles Lakers,11,12,23,1387065600.0,2014
+Los Angeles Lakers,Atlanta Hawks,Los Angeles Lakers,11,13,24,1387240200.0,2014
+Los Angeles Lakers,Memphis Grizzlies,Los Angeles Lakers,12,13,25,1387328400.0,2014
+Los Angeles Lakers,Los Angeles Lakers,Minnesota Timberwolves,13,13,26,1387596600.0,2014
+Los Angeles Lakers,Golden State Warriors,Los Angeles Lakers,13,14,27,1387683000.0,2014
+Los Angeles Lakers,Phoenix Suns,Los Angeles Lakers,13,15,28,1387850400.0,2014
+Los Angeles Lakers,Los Angeles Lakers,Miami Heat,13,16,29,1388008800.0,2014
+Los Angeles Lakers,Utah Jazz,Los Angeles Lakers,13,17,30,1388196000.0,2014
+Los Angeles Lakers,Los Angeles Lakers,Philadelphia 76ers,13,18,31,1388370600.0,2014
+Los Angeles Lakers,Los Angeles Lakers,Milwaukee Bucks,13,19,32,1388547000.0,2014
+Los Angeles Lakers,Los Angeles Lakers,Utah Jazz,14,19,33,1388806200.0,2014
+Los Angeles Lakers,Los Angeles Lakers,Denver Nuggets,14,20,34,1388975400.0,2014
+Los Angeles Lakers,Dallas Mavericks,Los Angeles Lakers,14,21,35,1389144600.0,2014
+Los Angeles Lakers,Houston Rockets,Los Angeles Lakers,14,22,36,1389229200.0,2014
+Los Angeles Lakers,Los Angeles Clippers,Los Angeles Lakers,14,23,37,1389411000.0,2014
+Los Angeles Lakers,Los Angeles Lakers,Cleveland Cavaliers,14,24,38,1389756600.0,2014
+Los Angeles Lakers,Phoenix Suns,Los Angeles Lakers,14,25,39,1389837600.0,2014
+Los Angeles Lakers,Boston Celtics,Los Angeles Lakers,15,25,40,1390005000.0,2014
+Los Angeles Lakers,Toronto Raptors,Los Angeles Lakers,16,25,41,1390154400.0,2014
+Los Angeles Lakers,Chicago Bulls,Los Angeles Lakers,16,26,42,1390266000.0,2014
+Los Angeles Lakers,Miami Heat,Los Angeles Lakers,16,27,43,1390525200.0,2014
+Los Angeles Lakers,Orlando Magic,Los Angeles Lakers,16,28,44,1390608000.0,2014
+Los Angeles Lakers,New York Knicks,Los Angeles Lakers,16,29,45,1390768200.0,2014
+Los Angeles Lakers,Los Angeles Lakers,Indiana Pacers,16,30,46,1390966200.0,2014
+Los Angeles Lakers,Los Angeles Lakers,Charlotte Bobcats,16,31,47,1391225400.0,2014
+Los Angeles Lakers,Minnesota Timberwolves,Los Angeles Lakers,16,32,48,1391562000.0,2014
+Los Angeles Lakers,Cleveland Cavaliers,Los Angeles Lakers,17,32,49,1391644800.0,2014
+Los Angeles Lakers,Philadelphia 76ers,Los Angeles Lakers,18,32,50,1391817600.0,2014
+Los Angeles Lakers,Los Angeles Lakers,Chicago Bulls,18,33,51,1391977800.0,2014
+Los Angeles Lakers,Los Angeles Lakers,Utah Jazz,18,34,52,1392175800.0,2014
+Los Angeles Lakers,Los Angeles Lakers,Oklahoma City Thunder,18,35,53,1392348600.0,2014
+Los Angeles Lakers,Los Angeles Lakers,Houston Rockets,18,36,54,1392867000.0,2014
+Los Angeles Lakers,Los Angeles Lakers,Boston Celtics,19,36,55,1393039800.0,2014
+Los Angeles Lakers,Los Angeles Lakers,Brooklyn Nets,19,37,56,1393207200.0,2014
+Los Angeles Lakers,Indiana Pacers,Los Angeles Lakers,19,38,57,1393372800.0,2014
+Los Angeles Lakers,Memphis Grizzlies,Los Angeles Lakers,19,39,58,1393462800.0,2014
+Los Angeles Lakers,Los Angeles Lakers,Sacramento Kings,20,39,59,1393644600.0,2014
+Los Angeles Lakers,Portland Trail Blazers,Los Angeles Lakers,21,39,60,1393902000.0,2014
+Los Angeles Lakers,Los Angeles Lakers,New Orleans Pelicans,21,40,61,1393990200.0,2014
+Los Angeles Lakers,Los Angeles Lakers,Los Angeles Clippers,21,41,62,1394163000.0,2014
+Los Angeles Lakers,Denver Nuggets,Los Angeles Lakers,21,42,63,1394244000.0,2014
+Los Angeles Lakers,Los Angeles Lakers,Oklahoma City Thunder,22,42,64,1394393400.0,2014
+Los Angeles Lakers,Oklahoma City Thunder,Los Angeles Lakers,22,43,65,1394760600.0,2014
+Los Angeles Lakers,San Antonio Spurs,Los Angeles Lakers,22,44,66,1394843400.0,2014
+Los Angeles Lakers,Los Angeles Lakers,San Antonio Spurs,22,45,67,1395282600.0,2014
+Los Angeles Lakers,Los Angeles Lakers,Washington Wizards,22,46,68,1395455400.0,2014
+Los Angeles Lakers,Los Angeles Lakers,Orlando Magic,23,46,69,1395624600.0,2014
+Los Angeles Lakers,Los Angeles Lakers,New York Knicks,24,46,70,1395801000.0,2014
+Los Angeles Lakers,Milwaukee Bucks,Los Angeles Lakers,24,47,71,1395964800.0,2014
+Los Angeles Lakers,Minnesota Timberwolves,Los Angeles Lakers,24,48,72,1396051200.0,2014
+Los Angeles Lakers,Los Angeles Lakers,Phoenix Suns,25,48,73,1396229400.0,2014
+Los Angeles Lakers,Los Angeles Lakers,Portland Trail Blazers,25,49,74,1396405800.0,2014
+Los Angeles Lakers,Sacramento Kings,Los Angeles Lakers,25,50,75,1396490400.0,2014
+Los Angeles Lakers,Los Angeles Lakers,Dallas Mavericks,25,51,76,1396665000.0,2014
+Los Angeles Lakers,Los Angeles Clippers,Los Angeles Lakers,25,52,77,1396812600.0,2014
+Los Angeles Lakers,Los Angeles Lakers,Houston Rockets,25,53,78,1397010600.0,2014
+Los Angeles Lakers,Los Angeles Lakers,Golden State Warriors,25,54,79,1397269800.0,2014
+Los Angeles Lakers,Los Angeles Lakers,Memphis Grizzlies,25,55,80,1397439000.0,2014
+Los Angeles Lakers,Utah Jazz,Los Angeles Lakers,26,55,81,1397523600.0,2014
+Los Angeles Lakers,San Antonio Spurs,Los Angeles Lakers,27,55,82,1397692800.0,2014
+Memphis Grizzlies,San Antonio Spurs,Memphis Grizzlies,0,1,1,1383179400.0,2014
+Memphis Grizzlies,Memphis Grizzlies,Detroit Pistons,1,1,2,1383350400.0,2014
+Memphis Grizzlies,Dallas Mavericks,Memphis Grizzlies,1,2,3,1383438600.0,2014
+Memphis Grizzlies,Memphis Grizzlies,Boston Celtics,2,2,4,1383613200.0,2014
+Memphis Grizzlies,Memphis Grizzlies,New Orleans Pelicans,2,3,5,1383786000.0,2014
+Memphis Grizzlies,Memphis Grizzlies,Golden State Warriors,3,3,6,1384045200.0,2014
+Memphis Grizzlies,Indiana Pacers,Memphis Grizzlies,3,4,7,1384214400.0,2014
+Memphis Grizzlies,Memphis Grizzlies,Toronto Raptors,3,5,8,1384390800.0,2014
+Memphis Grizzlies,Los Angeles Lakers,Memphis Grizzlies,4,5,9,1384572600.0,2014
+Memphis Grizzlies,Sacramento Kings,Memphis Grizzlies,5,5,10,1384729200.0,2014
+Memphis Grizzlies,Los Angeles Clippers,Memphis Grizzlies,6,5,11,1384831800.0,2014
+Memphis Grizzlies,Golden State Warriors,Memphis Grizzlies,7,5,12,1385004600.0,2014
+Memphis Grizzlies,Memphis Grizzlies,San Antonio Spurs,7,6,13,1385168400.0,2014
+Memphis Grizzlies,Memphis Grizzlies,Houston Rockets,7,7,14,1385427600.0,2014
+Memphis Grizzlies,Boston Celtics,Memphis Grizzlies,8,7,15,1385598600.0,2014
+Memphis Grizzlies,Memphis Grizzlies,Brooklyn Nets,8,8,16,1385859600.0,2014
+Memphis Grizzlies,Memphis Grizzlies,Phoenix Suns,9,8,17,1386118800.0,2014
+Memphis Grizzlies,Memphis Grizzlies,Los Angeles Clippers,9,9,18,1386291600.0,2014
+Memphis Grizzlies,Memphis Grizzlies,Golden State Warriors,9,10,19,1386464400.0,2014
+Memphis Grizzlies,Memphis Grizzlies,Orlando Magic,10,10,20,1386637200.0,2014
+Memphis Grizzlies,Memphis Grizzlies,Oklahoma City Thunder,10,11,21,1386810000.0,2014
+Memphis Grizzlies,New Orleans Pelicans,Memphis Grizzlies,10,12,22,1386982800.0,2014
+Memphis Grizzlies,Memphis Grizzlies,Minnesota Timberwolves,10,13,23,1387148400.0,2014
+Memphis Grizzlies,Memphis Grizzlies,Los Angeles Lakers,10,14,24,1387328400.0,2014
+Memphis Grizzlies,Dallas Mavericks,Memphis Grizzlies,10,15,25,1387416600.0,2014
+Memphis Grizzlies,New York Knicks,Memphis Grizzlies,11,15,26,1387602000.0,2014
+Memphis Grizzlies,Memphis Grizzlies,Utah Jazz,12,15,27,1387846800.0,2014
+Memphis Grizzlies,Houston Rockets,Memphis Grizzlies,12,16,28,1388106000.0,2014
+Memphis Grizzlies,Memphis Grizzlies,Denver Nuggets,13,16,29,1388278800.0,2014
+Memphis Grizzlies,Memphis Grizzlies,Chicago Bulls,13,17,30,1388451600.0,2014
+Memphis Grizzlies,Phoenix Suns,Memphis Grizzlies,14,17,31,1388714400.0,2014
+Memphis Grizzlies,Denver Nuggets,Memphis Grizzlies,14,18,32,1388800800.0,2014
+Memphis Grizzlies,Detroit Pistons,Memphis Grizzlies,15,18,33,1388944800.0,2014
+Memphis Grizzlies,Memphis Grizzlies,San Antonio Spurs,15,19,34,1389142800.0,2014
+Memphis Grizzlies,Memphis Grizzlies,Phoenix Suns,16,19,35,1389402000.0,2014
+Memphis Grizzlies,Memphis Grizzlies,Atlanta Hawks,17,19,36,1389567600.0,2014
+Memphis Grizzlies,Memphis Grizzlies,Oklahoma City Thunder,18,19,37,1389747600.0,2014
+Memphis Grizzlies,Milwaukee Bucks,Memphis Grizzlies,19,19,38,1389834000.0,2014
+Memphis Grizzlies,Memphis Grizzlies,Sacramento Kings,20,19,39,1390006800.0,2014
+Memphis Grizzlies,Memphis Grizzlies,New Orleans Pelicans,20,20,40,1390255200.0,2014
+Memphis Grizzlies,Houston Rockets,Memphis Grizzlies,21,20,41,1390611600.0,2014
+Memphis Grizzlies,Memphis Grizzlies,Houston Rockets,22,20,42,1390698000.0,2014
+Memphis Grizzlies,Portland Trail Blazers,Memphis Grizzlies,23,20,43,1390964400.0,2014
+Memphis Grizzlies,Sacramento Kings,Memphis Grizzlies,24,20,44,1391050800.0,2014
+Memphis Grizzlies,Minnesota Timberwolves,Memphis Grizzlies,25,20,45,1391216400.0,2014
+Memphis Grizzlies,Memphis Grizzlies,Milwaukee Bucks,26,20,46,1391302800.0,2014
+Memphis Grizzlies,Oklahoma City Thunder,Memphis Grizzlies,26,21,47,1391475600.0,2014
+Memphis Grizzlies,Memphis Grizzlies,Dallas Mavericks,26,22,48,1391648400.0,2014
+Memphis Grizzlies,Atlanta Hawks,Memphis Grizzlies,27,22,49,1391905800.0,2014
+Memphis Grizzlies,Cleveland Cavaliers,Memphis Grizzlies,27,23,50,1391986800.0,2014
+Memphis Grizzlies,Memphis Grizzlies,Washington Wizards,28,23,51,1392166800.0,2014
+Memphis Grizzlies,Orlando Magic,Memphis Grizzlies,29,23,52,1392249600.0,2014
+Memphis Grizzlies,Memphis Grizzlies,New York Knicks,30,23,53,1392771600.0,2014
+Memphis Grizzlies,Memphis Grizzlies,Los Angeles Clippers,31,23,54,1393030800.0,2014
+Memphis Grizzlies,Charlotte Bobcats,Memphis Grizzlies,31,24,55,1393113600.0,2014
+Memphis Grizzlies,Memphis Grizzlies,Los Angeles Lakers,32,24,56,1393462800.0,2014
+Memphis Grizzlies,Oklahoma City Thunder,Memphis Grizzlies,32,25,57,1393635600.0,2014
+Memphis Grizzlies,Memphis Grizzlies,Cleveland Cavaliers,33,25,58,1393725600.0,2014
+Memphis Grizzlies,Washington Wizards,Memphis Grizzlies,34,25,59,1393891200.0,2014
+Memphis Grizzlies,Brooklyn Nets,Memphis Grizzlies,34,26,60,1394065800.0,2014
+Memphis Grizzlies,Chicago Bulls,Memphis Grizzlies,35,26,61,1394236800.0,2014
+Memphis Grizzlies,Memphis Grizzlies,Charlotte Bobcats,36,26,62,1394326800.0,2014
+Memphis Grizzlies,Memphis Grizzlies,Portland Trail Blazers,37,26,63,1394582400.0,2014
+Memphis Grizzlies,New Orleans Pelicans,Memphis Grizzlies,38,26,64,1394668800.0,2014
+Memphis Grizzlies,Toronto Raptors,Memphis Grizzlies,38,27,65,1394838000.0,2014
+Memphis Grizzlies,Philadelphia 76ers,Memphis Grizzlies,39,27,66,1394926200.0,2014
+Memphis Grizzlies,Memphis Grizzlies,Utah Jazz,40,27,67,1395273600.0,2014
+Memphis Grizzlies,Miami Heat,Memphis Grizzlies,40,28,68,1395444600.0,2014
+Memphis Grizzlies,Memphis Grizzlies,Indiana Pacers,41,28,69,1395532800.0,2014
+Memphis Grizzlies,Memphis Grizzlies,Minnesota Timberwolves,42,28,70,1395705600.0,2014
+Memphis Grizzlies,Utah Jazz,Memphis Grizzlies,43,28,71,1395887400.0,2014
+Memphis Grizzlies,Golden State Warriors,Memphis Grizzlies,43,29,72,1396060200.0,2014
+Memphis Grizzlies,Portland Trail Blazers,Memphis Grizzlies,43,30,73,1396227600.0,2014
+Memphis Grizzlies,Denver Nuggets,Memphis Grizzlies,44,30,74,1396314000.0,2014
+Memphis Grizzlies,Minnesota Timberwolves,Memphis Grizzlies,44,31,75,1396483200.0,2014
+Memphis Grizzlies,Memphis Grizzlies,Denver Nuggets,45,31,76,1396652400.0,2014
+Memphis Grizzlies,San Antonio Spurs,Memphis Grizzlies,45,32,77,1396825200.0,2014
+Memphis Grizzlies,Memphis Grizzlies,Miami Heat,46,32,78,1397088000.0,2014
+Memphis Grizzlies,Memphis Grizzlies,Philadelphia 76ers,47,32,79,1397260800.0,2014
+Memphis Grizzlies,Los Angeles Lakers,Memphis Grizzlies,48,32,80,1397439000.0,2014
+Memphis Grizzlies,Phoenix Suns,Memphis Grizzlies,49,32,81,1397527200.0,2014
+Memphis Grizzlies,Memphis Grizzlies,Dallas Mavericks,50,32,82,1397692800.0,2014
+Miami Heat,Miami Heat,Chicago Bulls,1,0,1,1383091200.0,2014
+Miami Heat,Philadelphia 76ers,Miami Heat,1,1,2,1383174000.0,2014
+Miami Heat,Brooklyn Nets,Miami Heat,1,2,3,1383350400.0,2014
+Miami Heat,Miami Heat,Washington Wizards,2,2,4,1383519600.0,2014
+Miami Heat,Toronto Raptors,Miami Heat,3,2,5,1383696000.0,2014
+Miami Heat,Miami Heat,Los Angeles Clippers,4,2,6,1383868800.0,2014
+Miami Heat,Miami Heat,Boston Celtics,4,3,7,1384043400.0,2014
+Miami Heat,Miami Heat,Milwaukee Bucks,5,3,8,1384302600.0,2014
+Miami Heat,Miami Heat,Dallas Mavericks,6,3,9,1384561800.0,2014
+Miami Heat,Charlotte Bobcats,Miami Heat,7,3,10,1384646400.0,2014
+Miami Heat,Miami Heat,Atlanta Hawks,8,3,11,1384907400.0,2014
+Miami Heat,Orlando Magic,Miami Heat,9,3,12,1384992000.0,2014
+Miami Heat,Miami Heat,Orlando Magic,10,3,13,1385253000.0,2014
+Miami Heat,Miami Heat,Phoenix Suns,11,3,14,1385425800.0,2014
+Miami Heat,Cleveland Cavaliers,Miami Heat,12,3,15,1385598600.0,2014
+Miami Heat,Toronto Raptors,Miami Heat,13,3,16,1385769600.0,2014
+Miami Heat,Miami Heat,Charlotte Bobcats,14,3,17,1385938800.0,2014
+Miami Heat,Miami Heat,Detroit Pistons,14,4,18,1386117000.0,2014
+Miami Heat,Chicago Bulls,Miami Heat,14,5,19,1386297000.0,2014
+Miami Heat,Minnesota Timberwolves,Miami Heat,15,5,20,1386464400.0,2014
+Miami Heat,Detroit Pistons,Miami Heat,16,5,21,1386543600.0,2014
+Miami Heat,Indiana Pacers,Miami Heat,16,6,22,1386720000.0,2014
+Miami Heat,Miami Heat,Cleveland Cavaliers,17,6,23,1387067400.0,2014
+Miami Heat,Miami Heat,Utah Jazz,18,6,24,1387240200.0,2014
+Miami Heat,Miami Heat,Indiana Pacers,19,6,25,1387411200.0,2014
+Miami Heat,Miami Heat,Sacramento Kings,20,6,26,1387585800.0,2014
+Miami Heat,Miami Heat,Atlanta Hawks,21,6,27,1387845000.0,2014
+Miami Heat,Los Angeles Lakers,Miami Heat,22,6,28,1388008800.0,2014
+Miami Heat,Sacramento Kings,Miami Heat,22,7,29,1388199600.0,2014
+Miami Heat,Portland Trail Blazers,Miami Heat,23,7,30,1388286000.0,2014
+Miami Heat,Denver Nuggets,Miami Heat,24,7,31,1388455200.0,2014
+Miami Heat,Miami Heat,Golden State Warriors,24,8,32,1388709000.0,2014
+Miami Heat,Orlando Magic,Miami Heat,25,8,33,1388880000.0,2014
+Miami Heat,Miami Heat,Toronto Raptors,26,8,34,1388962800.0,2014
+Miami Heat,Miami Heat,New Orleans Pelicans,27,8,35,1389141000.0,2014
+Miami Heat,New York Knicks,Miami Heat,27,9,36,1389315600.0,2014
+Miami Heat,Brooklyn Nets,Miami Heat,27,10,37,1389402000.0,2014
+Miami Heat,Washington Wizards,Miami Heat,27,11,38,1389830400.0,2014
+Miami Heat,Philadelphia 76ers,Miami Heat,28,11,39,1390003200.0,2014
+Miami Heat,Charlotte Bobcats,Miami Heat,29,11,40,1390091400.0,2014
+Miami Heat,Atlanta Hawks,Miami Heat,29,12,41,1390257000.0,2014
+Miami Heat,Miami Heat,Boston Celtics,30,12,42,1390350600.0,2014
+Miami Heat,Miami Heat,Los Angeles Lakers,31,12,43,1390525200.0,2014
+Miami Heat,Miami Heat,San Antonio Spurs,32,12,44,1390759200.0,2014
+Miami Heat,Miami Heat,Oklahoma City Thunder,32,13,45,1391040000.0,2014
+Miami Heat,New York Knicks,Miami Heat,33,13,46,1391304600.0,2014
+Miami Heat,Miami Heat,Detroit Pistons,34,13,47,1391473800.0,2014
+Miami Heat,Los Angeles Clippers,Miami Heat,35,13,48,1391657400.0,2014
+Miami Heat,Utah Jazz,Miami Heat,35,14,49,1391911200.0,2014
+Miami Heat,Phoenix Suns,Miami Heat,36,14,50,1392170400.0,2014
+Miami Heat,Golden State Warriors,Miami Heat,37,14,51,1392262200.0,2014
+Miami Heat,Dallas Mavericks,Miami Heat,38,14,52,1392773400.0,2014
+Miami Heat,Oklahoma City Thunder,Miami Heat,39,14,53,1392944400.0,2014
+Miami Heat,Miami Heat,Chicago Bulls,40,14,54,1393187400.0,2014
+Miami Heat,Miami Heat,New York Knicks,41,14,55,1393549200.0,2014
+Miami Heat,Miami Heat,Orlando Magic,42,14,56,1393720200.0,2014
+Miami Heat,Miami Heat,Charlotte Bobcats,43,14,57,1393893000.0,2014
+Miami Heat,Houston Rockets,Miami Heat,43,15,58,1393981200.0,2014
+Miami Heat,San Antonio Spurs,Miami Heat,43,16,59,1394154000.0,2014
+Miami Heat,Chicago Bulls,Miami Heat,43,17,60,1394384400.0,2014
+Miami Heat,Miami Heat,Washington Wizards,44,17,61,1394494200.0,2014
+Miami Heat,Miami Heat,Brooklyn Nets,44,18,62,1394665200.0,2014
+Miami Heat,Miami Heat,Denver Nuggets,44,19,63,1394839800.0,2014
+Miami Heat,Miami Heat,Houston Rockets,45,19,64,1394998200.0,2014
+Miami Heat,Cleveland Cavaliers,Miami Heat,46,19,65,1395183600.0,2014
+Miami Heat,Boston Celtics,Miami Heat,46,20,66,1395271800.0,2014
+Miami Heat,Miami Heat,Memphis Grizzlies,47,20,67,1395444600.0,2014
+Miami Heat,New Orleans Pelicans,Miami Heat,47,21,68,1395532800.0,2014
+Miami Heat,Miami Heat,Portland Trail Blazers,48,21,69,1395703800.0,2014
+Miami Heat,Indiana Pacers,Miami Heat,48,22,70,1395878400.0,2014
+Miami Heat,Detroit Pistons,Miami Heat,49,22,71,1396049400.0,2014
+Miami Heat,Milwaukee Bucks,Miami Heat,50,22,72,1396139400.0,2014
+Miami Heat,Miami Heat,Toronto Raptors,51,22,73,1396308600.0,2014
+Miami Heat,Miami Heat,Milwaukee Bucks,52,22,74,1396481400.0,2014
+Miami Heat,Miami Heat,Minnesota Timberwolves,52,23,75,1396654200.0,2014
+Miami Heat,Miami Heat,New York Knicks,53,23,76,1396803600.0,2014
+Miami Heat,Miami Heat,Brooklyn Nets,53,24,77,1397001600.0,2014
+Miami Heat,Memphis Grizzlies,Miami Heat,53,25,78,1397088000.0,2014
+Miami Heat,Miami Heat,Indiana Pacers,54,25,79,1397259000.0,2014
+Miami Heat,Atlanta Hawks,Miami Heat,54,26,80,1397345400.0,2014
+Miami Heat,Washington Wizards,Miami Heat,54,27,81,1397516400.0,2014
+Miami Heat,Miami Heat,Philadelphia 76ers,54,28,82,1397692800.0,2014
+Milwaukee Bucks,New York Knicks,Milwaukee Bucks,0,1,1,1383175800.0,2014
+Milwaukee Bucks,Boston Celtics,Milwaukee Bucks,1,1,2,1383348600.0,2014
+Milwaukee Bucks,Milwaukee Bucks,Toronto Raptors,1,2,3,1383438600.0,2014
+Milwaukee Bucks,Milwaukee Bucks,Cleveland Cavaliers,2,2,4,1383786000.0,2014
+Milwaukee Bucks,Milwaukee Bucks,Dallas Mavericks,2,3,5,1384047000.0,2014
+Milwaukee Bucks,Miami Heat,Milwaukee Bucks,2,4,6,1384302600.0,2014
+Milwaukee Bucks,Orlando Magic,Milwaukee Bucks,2,5,7,1384387200.0,2014
+Milwaukee Bucks,Indiana Pacers,Milwaukee Bucks,2,6,8,1384560000.0,2014
+Milwaukee Bucks,Milwaukee Bucks,Oklahoma City Thunder,2,7,9,1384651800.0,2014
+Milwaukee Bucks,Milwaukee Bucks,Portland Trail Blazers,2,8,10,1384995600.0,2014
+Milwaukee Bucks,Philadelphia 76ers,Milwaukee Bucks,2,9,11,1385164800.0,2014
+Milwaukee Bucks,Milwaukee Bucks,Charlotte Bobcats,2,10,12,1385256600.0,2014
+Milwaukee Bucks,Detroit Pistons,Milwaukee Bucks,2,11,13,1385425800.0,2014
+Milwaukee Bucks,Milwaukee Bucks,Washington Wizards,2,12,14,1385600400.0,2014
+Milwaukee Bucks,Charlotte Bobcats,Milwaukee Bucks,2,13,15,1385769600.0,2014
+Milwaukee Bucks,Milwaukee Bucks,Boston Celtics,3,13,16,1385863200.0,2014
+Milwaukee Bucks,Boston Celtics,Milwaukee Bucks,3,14,17,1386117000.0,2014
+Milwaukee Bucks,Milwaukee Bucks,Detroit Pistons,3,15,18,1386205200.0,2014
+Milwaukee Bucks,Washington Wizards,Milwaukee Bucks,4,15,19,1386374400.0,2014
+Milwaukee Bucks,Milwaukee Bucks,Brooklyn Nets,4,16,20,1386466200.0,2014
+Milwaukee Bucks,Chicago Bulls,Milwaukee Bucks,5,16,21,1386723600.0,2014
+Milwaukee Bucks,Milwaukee Bucks,San Antonio Spurs,5,17,22,1386810000.0,2014
+Milwaukee Bucks,Milwaukee Bucks,Chicago Bulls,5,18,23,1386984600.0,2014
+Milwaukee Bucks,Dallas Mavericks,Milwaukee Bucks,5,19,24,1387071000.0,2014
+Milwaukee Bucks,Milwaukee Bucks,New York Knicks,5,20,25,1387414800.0,2014
+Milwaukee Bucks,Cleveland Cavaliers,Milwaukee Bucks,5,21,26,1387585800.0,2014
+Milwaukee Bucks,Milwaukee Bucks,Philadelphia 76ers,6,21,27,1387675800.0,2014
+Milwaukee Bucks,Charlotte Bobcats,Milwaukee Bucks,6,22,28,1387843200.0,2014
+Milwaukee Bucks,Brooklyn Nets,Milwaukee Bucks,6,23,29,1388190600.0,2014
+Milwaukee Bucks,Milwaukee Bucks,Minnesota Timberwolves,6,24,30,1388280600.0,2014
+Milwaukee Bucks,Los Angeles Lakers,Milwaukee Bucks,7,24,31,1388547000.0,2014
+Milwaukee Bucks,Utah Jazz,Milwaukee Bucks,7,25,32,1388714400.0,2014
+Milwaukee Bucks,Phoenix Suns,Milwaukee Bucks,7,26,33,1388887200.0,2014
+Milwaukee Bucks,Milwaukee Bucks,Golden State Warriors,7,27,34,1389142800.0,2014
+Milwaukee Bucks,Milwaukee Bucks,Chicago Bulls,7,28,35,1389403800.0,2014
+Milwaukee Bucks,Oklahoma City Thunder,Milwaukee Bucks,7,29,36,1389488400.0,2014
+Milwaukee Bucks,Toronto Raptors,Milwaukee Bucks,7,30,37,1389657600.0,2014
+Milwaukee Bucks,Milwaukee Bucks,Memphis Grizzlies,7,31,38,1389834000.0,2014
+Milwaukee Bucks,Houston Rockets,Milwaukee Bucks,7,32,39,1390093200.0,2014
+Milwaukee Bucks,San Antonio Spurs,Milwaukee Bucks,7,33,40,1390176000.0,2014
+Milwaukee Bucks,Milwaukee Bucks,Detroit Pistons,8,33,41,1390438800.0,2014
+Milwaukee Bucks,Cleveland Cavaliers,Milwaukee Bucks,8,34,42,1390609800.0,2014
+Milwaukee Bucks,Milwaukee Bucks,Atlanta Hawks,8,35,43,1390699800.0,2014
+Milwaukee Bucks,Milwaukee Bucks,Los Angeles Clippers,8,36,44,1390870800.0,2014
+Milwaukee Bucks,Milwaukee Bucks,Phoenix Suns,8,37,45,1391043600.0,2014
+Milwaukee Bucks,Orlando Magic,Milwaukee Bucks,8,38,46,1391212800.0,2014
+Milwaukee Bucks,Memphis Grizzlies,Milwaukee Bucks,8,39,47,1391302800.0,2014
+Milwaukee Bucks,Milwaukee Bucks,New York Knicks,9,39,48,1391475600.0,2014
+Milwaukee Bucks,Denver Nuggets,Milwaukee Bucks,9,40,49,1391652000.0,2014
+Milwaukee Bucks,Milwaukee Bucks,Houston Rockets,9,41,50,1391909400.0,2014
+Milwaukee Bucks,Milwaukee Bucks,Boston Celtics,9,42,51,1392080400.0,2014
+Milwaukee Bucks,Milwaukee Bucks,New Orleans Pelicans,9,43,52,1392253200.0,2014
+Milwaukee Bucks,Milwaukee Bucks,Orlando Magic,10,43,53,1392771600.0,2014
+Milwaukee Bucks,Milwaukee Bucks,Denver Nuggets,10,44,54,1392944400.0,2014
+Milwaukee Bucks,Milwaukee Bucks,Indiana Pacers,10,45,55,1393119000.0,2014
+Milwaukee Bucks,Philadelphia 76ers,Milwaukee Bucks,11,45,56,1393286400.0,2014
+Milwaukee Bucks,Indiana Pacers,Milwaukee Bucks,11,46,57,1393545600.0,2014
+Milwaukee Bucks,Milwaukee Bucks,Brooklyn Nets,11,47,58,1393723800.0,2014
+Milwaukee Bucks,Milwaukee Bucks,Utah Jazz,12,47,59,1393894800.0,2014
+Milwaukee Bucks,Milwaukee Bucks,Sacramento Kings,12,48,60,1394067600.0,2014
+Milwaukee Bucks,New Orleans Pelicans,Milwaukee Bucks,12,49,61,1394240400.0,2014
+Milwaukee Bucks,Milwaukee Bucks,Washington Wizards,12,50,62,1394330400.0,2014
+Milwaukee Bucks,Milwaukee Bucks,Orlando Magic,13,50,63,1394496000.0,2014
+Milwaukee Bucks,Minnesota Timberwolves,Milwaukee Bucks,13,51,64,1394582400.0,2014
+Milwaukee Bucks,Atlanta Hawks,Milwaukee Bucks,13,52,65,1394753400.0,2014
+Milwaukee Bucks,New York Knicks,Milwaukee Bucks,13,53,66,1394856000.0,2014
+Milwaukee Bucks,Milwaukee Bucks,Charlotte Bobcats,13,54,67,1394989200.0,2014
+Milwaukee Bucks,Portland Trail Blazers,Milwaukee Bucks,13,55,68,1395194400.0,2014
+Milwaukee Bucks,Golden State Warriors,Milwaukee Bucks,13,56,69,1395369000.0,2014
+Milwaukee Bucks,Sacramento Kings,Milwaukee Bucks,13,57,70,1395612000.0,2014
+Milwaukee Bucks,Los Angeles Clippers,Milwaukee Bucks,13,58,71,1395714600.0,2014
+Milwaukee Bucks,Milwaukee Bucks,Los Angeles Lakers,14,58,72,1395964800.0,2014
+Milwaukee Bucks,Milwaukee Bucks,Miami Heat,14,59,73,1396139400.0,2014
+Milwaukee Bucks,Detroit Pistons,Milwaukee Bucks,14,60,74,1396308600.0,2014
+Milwaukee Bucks,Miami Heat,Milwaukee Bucks,14,61,75,1396481400.0,2014
+Milwaukee Bucks,Chicago Bulls,Milwaukee Bucks,14,62,76,1396656000.0,2014
+Milwaukee Bucks,Milwaukee Bucks,Toronto Raptors,14,63,77,1396744200.0,2014
+Milwaukee Bucks,Milwaukee Bucks,Indiana Pacers,14,64,78,1397088000.0,2014
+Milwaukee Bucks,Milwaukee Bucks,Cleveland Cavaliers,15,64,79,1397262600.0,2014
+Milwaukee Bucks,Washington Wizards,Milwaukee Bucks,15,65,80,1397343600.0,2014
+Milwaukee Bucks,Toronto Raptors,Milwaukee Bucks,15,66,81,1397516400.0,2014
+Milwaukee Bucks,Milwaukee Bucks,Atlanta Hawks,15,67,82,1397692800.0,2014
+Minnesota Timberwolves,Minnesota Timberwolves,Orlando Magic,1,0,1,1383177600.0,2014
+Minnesota Timberwolves,Minnesota Timberwolves,Oklahoma City Thunder,2,0,2,1383350400.0,2014
+Minnesota Timberwolves,New York Knicks,Minnesota Timberwolves,3,0,3,1383525000.0,2014
+Minnesota Timberwolves,Cleveland Cavaliers,Minnesota Timberwolves,3,1,4,1383609600.0,2014
+Minnesota Timberwolves,Minnesota Timberwolves,Golden State Warriors,3,2,5,1383786000.0,2014
+Minnesota Timberwolves,Minnesota Timberwolves,Dallas Mavericks,4,2,6,1383958800.0,2014
+Minnesota Timberwolves,Los Angeles Lakers,Minnesota Timberwolves,5,2,7,1384137000.0,2014
+Minnesota Timberwolves,Los Angeles Clippers,Minnesota Timberwolves,5,3,8,1384227000.0,2014
+Minnesota Timberwolves,Minnesota Timberwolves,Cleveland Cavaliers,6,3,9,1384390800.0,2014
+Minnesota Timberwolves,Denver Nuggets,Minnesota Timberwolves,6,4,10,1384563600.0,2014
+Minnesota Timberwolves,Minnesota Timberwolves,Boston Celtics,7,4,11,1384650000.0,2014
+Minnesota Timberwolves,Washington Wizards,Minnesota Timberwolves,7,5,12,1384905600.0,2014
+Minnesota Timberwolves,Minnesota Timberwolves,Los Angeles Clippers,7,6,13,1384995600.0,2014
+Minnesota Timberwolves,Minnesota Timberwolves,Brooklyn Nets,8,6,14,1385168400.0,2014
+Minnesota Timberwolves,Houston Rockets,Minnesota Timberwolves,8,7,15,1385254800.0,2014
+Minnesota Timberwolves,Indiana Pacers,Minnesota Timberwolves,8,8,16,1385424000.0,2014
+Minnesota Timberwolves,Minnesota Timberwolves,Denver Nuggets,8,9,17,1385600400.0,2014
+Minnesota Timberwolves,Dallas Mavericks,Minnesota Timberwolves,9,9,18,1385861400.0,2014
+Minnesota Timberwolves,Oklahoma City Thunder,Minnesota Timberwolves,9,10,19,1385942400.0,2014
+Minnesota Timberwolves,Minnesota Timberwolves,Miami Heat,9,11,20,1386464400.0,2014
+Minnesota Timberwolves,Detroit Pistons,Minnesota Timberwolves,10,11,21,1386721800.0,2014
+Minnesota Timberwolves,Minnesota Timberwolves,Philadelphia 76ers,11,11,22,1386810000.0,2014
+Minnesota Timberwolves,San Antonio Spurs,Minnesota Timberwolves,11,12,23,1386984600.0,2014
+Minnesota Timberwolves,Memphis Grizzlies,Minnesota Timberwolves,12,12,24,1387148400.0,2014
+Minnesota Timberwolves,Boston Celtics,Minnesota Timberwolves,12,13,25,1387240200.0,2014
+Minnesota Timberwolves,Minnesota Timberwolves,Portland Trail Blazers,13,13,26,1387414800.0,2014
+Minnesota Timberwolves,Los Angeles Lakers,Minnesota Timberwolves,13,14,27,1387596600.0,2014
+Minnesota Timberwolves,Los Angeles Clippers,Minnesota Timberwolves,13,15,28,1387765800.0,2014
+Minnesota Timberwolves,Minnesota Timberwolves,Washington Wizards,14,15,29,1388192400.0,2014
+Minnesota Timberwolves,Milwaukee Bucks,Minnesota Timberwolves,15,15,30,1388280600.0,2014
+Minnesota Timberwolves,Minnesota Timberwolves,Dallas Mavericks,15,16,31,1388451600.0,2014
+Minnesota Timberwolves,Minnesota Timberwolves,New Orleans Pelicans,16,16,32,1388624400.0,2014
+Minnesota Timberwolves,Minnesota Timberwolves,Oklahoma City Thunder,16,17,33,1388883600.0,2014
+Minnesota Timberwolves,Philadelphia 76ers,Minnesota Timberwolves,17,17,34,1389052800.0,2014
+Minnesota Timberwolves,Minnesota Timberwolves,Phoenix Suns,17,18,35,1389234600.0,2014
+Minnesota Timberwolves,Minnesota Timberwolves,Charlotte Bobcats,18,18,36,1389402000.0,2014
+Minnesota Timberwolves,San Antonio Spurs,Minnesota Timberwolves,18,19,37,1389571200.0,2014
+Minnesota Timberwolves,Minnesota Timberwolves,Sacramento Kings,18,20,38,1389834000.0,2014
+Minnesota Timberwolves,Toronto Raptors,Minnesota Timberwolves,18,21,39,1390003200.0,2014
+Minnesota Timberwolves,Minnesota Timberwolves,Utah Jazz,19,21,40,1390093200.0,2014
+Minnesota Timberwolves,Utah Jazz,Minnesota Timberwolves,20,21,41,1390356000.0,2014
+Minnesota Timberwolves,Golden State Warriors,Minnesota Timberwolves,21,21,42,1390620600.0,2014
+Minnesota Timberwolves,Portland Trail Blazers,Minnesota Timberwolves,21,22,43,1390705200.0,2014
+Minnesota Timberwolves,Chicago Bulls,Minnesota Timberwolves,22,22,44,1390870800.0,2014
+Minnesota Timberwolves,Minnesota Timberwolves,New Orleans Pelicans,23,22,45,1391043600.0,2014
+Minnesota Timberwolves,Minnesota Timberwolves,Memphis Grizzlies,23,23,46,1391216400.0,2014
+Minnesota Timberwolves,Atlanta Hawks,Minnesota Timberwolves,23,24,47,1391301000.0,2014
+Minnesota Timberwolves,Minnesota Timberwolves,Los Angeles Lakers,24,24,48,1391562000.0,2014
+Minnesota Timberwolves,Oklahoma City Thunder,Minnesota Timberwolves,24,25,49,1391648400.0,2014
+Minnesota Timberwolves,New Orleans Pelicans,Minnesota Timberwolves,24,26,50,1391826600.0,2014
+Minnesota Timberwolves,Minnesota Timberwolves,Portland Trail Blazers,24,27,51,1391907600.0,2014
+Minnesota Timberwolves,Minnesota Timberwolves,Houston Rockets,24,28,52,1392080400.0,2014
+Minnesota Timberwolves,Minnesota Timberwolves,Denver Nuggets,25,28,53,1392253200.0,2014
+Minnesota Timberwolves,Minnesota Timberwolves,Indiana Pacers,26,28,54,1392858000.0,2014
+Minnesota Timberwolves,Utah Jazz,Minnesota Timberwolves,27,28,55,1393120800.0,2014
+Minnesota Timberwolves,Portland Trail Blazers,Minnesota Timberwolves,27,29,56,1393207200.0,2014
+Minnesota Timberwolves,Phoenix Suns,Minnesota Timberwolves,28,29,57,1393380000.0,2014
+Minnesota Timberwolves,Sacramento Kings,Minnesota Timberwolves,29,29,58,1393729200.0,2014
+Minnesota Timberwolves,Denver Nuggets,Minnesota Timberwolves,30,29,59,1393898400.0,2014
+Minnesota Timberwolves,Minnesota Timberwolves,New York Knicks,30,30,60,1394067600.0,2014
+Minnesota Timberwolves,Minnesota Timberwolves,Detroit Pistons,31,30,61,1394240400.0,2014
+Minnesota Timberwolves,Minnesota Timberwolves,Toronto Raptors,31,31,62,1394406000.0,2014
+Minnesota Timberwolves,Minnesota Timberwolves,Milwaukee Bucks,32,31,63,1394582400.0,2014
+Minnesota Timberwolves,Charlotte Bobcats,Minnesota Timberwolves,32,32,64,1394838000.0,2014
+Minnesota Timberwolves,Minnesota Timberwolves,Sacramento Kings,33,32,65,1395010800.0,2014
+Minnesota Timberwolves,Dallas Mavericks,Minnesota Timberwolves,34,32,66,1395275400.0,2014
+Minnesota Timberwolves,Houston Rockets,Minnesota Timberwolves,34,33,67,1395360000.0,2014
+Minnesota Timberwolves,Minnesota Timberwolves,Phoenix Suns,34,34,68,1395603000.0,2014
+Minnesota Timberwolves,Memphis Grizzlies,Minnesota Timberwolves,34,35,69,1395705600.0,2014
+Minnesota Timberwolves,Minnesota Timberwolves,Atlanta Hawks,35,35,70,1395878400.0,2014
+Minnesota Timberwolves,Minnesota Timberwolves,Los Angeles Lakers,36,35,71,1396051200.0,2014
+Minnesota Timberwolves,Brooklyn Nets,Minnesota Timberwolves,36,36,72,1396216800.0,2014
+Minnesota Timberwolves,Minnesota Timberwolves,Los Angeles Clippers,36,37,73,1396310400.0,2014
+Minnesota Timberwolves,Minnesota Timberwolves,Memphis Grizzlies,37,37,74,1396483200.0,2014
+Minnesota Timberwolves,Miami Heat,Minnesota Timberwolves,38,37,75,1396654200.0,2014
+Minnesota Timberwolves,Orlando Magic,Minnesota Timberwolves,38,38,76,1396738800.0,2014
+Minnesota Timberwolves,Minnesota Timberwolves,San Antonio Spurs,39,38,77,1397001600.0,2014
+Minnesota Timberwolves,Minnesota Timberwolves,Chicago Bulls,39,39,78,1397088000.0,2014
+Minnesota Timberwolves,Minnesota Timberwolves,Houston Rockets,40,39,79,1397260800.0,2014
+Minnesota Timberwolves,Sacramento Kings,Minnesota Timberwolves,40,40,80,1397437200.0,2014
+Minnesota Timberwolves,Golden State Warriors,Minnesota Timberwolves,40,41,81,1397529000.0,2014
+Minnesota Timberwolves,Minnesota Timberwolves,Utah Jazz,40,42,82,1397692800.0,2014
+New Orleans Pelicans,New Orleans Pelicans,Indiana Pacers,0,1,1,1383177600.0,2014
+New Orleans Pelicans,Orlando Magic,New Orleans Pelicans,0,2,2,1383346800.0,2014
+New Orleans Pelicans,New Orleans Pelicans,Charlotte Bobcats,1,2,3,1383436800.0,2014
+New Orleans Pelicans,New Orleans Pelicans,Phoenix Suns,1,3,4,1383699600.0,2014
+New Orleans Pelicans,Memphis Grizzlies,New Orleans Pelicans,2,3,5,1383786000.0,2014
+New Orleans Pelicans,New Orleans Pelicans,Los Angeles Lakers,3,3,6,1383958800.0,2014
+New Orleans Pelicans,Phoenix Suns,New Orleans Pelicans,3,4,7,1384131600.0,2014
+New Orleans Pelicans,Los Angeles Lakers,New Orleans Pelicans,3,5,8,1384313400.0,2014
+New Orleans Pelicans,Utah Jazz,New Orleans Pelicans,3,6,9,1384394400.0,2014
+New Orleans Pelicans,New Orleans Pelicans,Philadelphia 76ers,4,6,10,1384650000.0,2014
+New Orleans Pelicans,New Orleans Pelicans,Utah Jazz,5,6,11,1384995600.0,2014
+New Orleans Pelicans,New Orleans Pelicans,Cleveland Cavaliers,6,6,12,1385168400.0,2014
+New Orleans Pelicans,San Antonio Spurs,New Orleans Pelicans,6,7,13,1385429400.0,2014
+New Orleans Pelicans,New Orleans Pelicans,Golden State Warriors,6,8,14,1385514000.0,2014
+New Orleans Pelicans,Philadelphia 76ers,New Orleans Pelicans,7,8,15,1385773200.0,2014
+New Orleans Pelicans,New York Knicks,New Orleans Pelicans,8,8,16,1385944200.0,2014
+New Orleans Pelicans,Chicago Bulls,New Orleans Pelicans,9,8,17,1386032400.0,2014
+New Orleans Pelicans,New Orleans Pelicans,Dallas Mavericks,9,9,18,1386205200.0,2014
+New Orleans Pelicans,New Orleans Pelicans,Oklahoma City Thunder,9,10,19,1386378000.0,2014
+New Orleans Pelicans,New Orleans Pelicans,Detroit Pistons,10,10,20,1386810000.0,2014
+New Orleans Pelicans,New Orleans Pelicans,Memphis Grizzlies,11,10,21,1386982800.0,2014
+New Orleans Pelicans,Denver Nuggets,New Orleans Pelicans,11,11,22,1387155600.0,2014
+New Orleans Pelicans,Golden State Warriors,New Orleans Pelicans,11,12,23,1387337400.0,2014
+New Orleans Pelicans,Los Angeles Clippers,New Orleans Pelicans,11,13,24,1387423800.0,2014
+New Orleans Pelicans,Portland Trail Blazers,New Orleans Pelicans,11,14,25,1387681200.0,2014
+New Orleans Pelicans,Sacramento Kings,New Orleans Pelicans,12,14,26,1387854000.0,2014
+New Orleans Pelicans,New Orleans Pelicans,Denver Nuggets,13,14,27,1388192400.0,2014
+New Orleans Pelicans,Houston Rockets,New Orleans Pelicans,13,15,28,1388278800.0,2014
+New Orleans Pelicans,New Orleans Pelicans,Portland Trail Blazers,14,15,29,1388451600.0,2014
+New Orleans Pelicans,Minnesota Timberwolves,New Orleans Pelicans,14,16,30,1388624400.0,2014
+New Orleans Pelicans,Boston Celtics,New Orleans Pelicans,15,16,31,1388795400.0,2014
+New Orleans Pelicans,Indiana Pacers,New Orleans Pelicans,15,17,32,1388880000.0,2014
+New Orleans Pelicans,Miami Heat,New Orleans Pelicans,15,18,33,1389141000.0,2014
+New Orleans Pelicans,New Orleans Pelicans,Washington Wizards,15,19,34,1389229200.0,2014
+New Orleans Pelicans,New Orleans Pelicans,Dallas Mavericks,15,20,35,1389402000.0,2014
+New Orleans Pelicans,Dallas Mavericks,New Orleans Pelicans,15,21,36,1389490200.0,2014
+New Orleans Pelicans,New Orleans Pelicans,San Antonio Spurs,15,22,37,1389661200.0,2014
+New Orleans Pelicans,New Orleans Pelicans,Houston Rockets,15,23,38,1389834000.0,2014
+New Orleans Pelicans,New Orleans Pelicans,Golden State Warriors,15,24,39,1390093200.0,2014
+New Orleans Pelicans,Memphis Grizzlies,New Orleans Pelicans,16,24,40,1390255200.0,2014
+New Orleans Pelicans,New Orleans Pelicans,Sacramento Kings,16,25,41,1390352400.0,2014
+New Orleans Pelicans,Detroit Pistons,New Orleans Pelicans,17,25,42,1390609800.0,2014
+New Orleans Pelicans,New Orleans Pelicans,Orlando Magic,18,25,43,1390777200.0,2014
+New Orleans Pelicans,Cleveland Cavaliers,New Orleans Pelicans,19,25,44,1390953600.0,2014
+New Orleans Pelicans,Minnesota Timberwolves,New Orleans Pelicans,19,26,45,1391043600.0,2014
+New Orleans Pelicans,New Orleans Pelicans,Chicago Bulls,20,26,46,1391302800.0,2014
+New Orleans Pelicans,New Orleans Pelicans,San Antonio Spurs,20,27,47,1391475600.0,2014
+New Orleans Pelicans,New Orleans Pelicans,Atlanta Hawks,21,27,48,1391648400.0,2014
+New Orleans Pelicans,New Orleans Pelicans,Minnesota Timberwolves,22,27,49,1391826600.0,2014
+New Orleans Pelicans,Brooklyn Nets,New Orleans Pelicans,22,28,50,1391986800.0,2014
+New Orleans Pelicans,Toronto Raptors,New Orleans Pelicans,22,29,51,1392076800.0,2014
+New Orleans Pelicans,Milwaukee Bucks,New Orleans Pelicans,23,29,52,1392253200.0,2014
+New Orleans Pelicans,New Orleans Pelicans,New York Knicks,23,30,53,1392858000.0,2014
+New Orleans Pelicans,Charlotte Bobcats,New Orleans Pelicans,23,31,54,1393027200.0,2014
+New Orleans Pelicans,Washington Wizards,New Orleans Pelicans,23,32,55,1393113600.0,2014
+New Orleans Pelicans,New Orleans Pelicans,Los Angeles Clippers,23,33,56,1393290000.0,2014
+New Orleans Pelicans,Dallas Mavericks,New Orleans Pelicans,23,34,57,1393462800.0,2014
+New Orleans Pelicans,Phoenix Suns,New Orleans Pelicans,23,35,58,1393644600.0,2014
+New Orleans Pelicans,Los Angeles Clippers,New Orleans Pelicans,23,36,59,1393731000.0,2014
+New Orleans Pelicans,Sacramento Kings,New Orleans Pelicans,23,37,60,1393902000.0,2014
+New Orleans Pelicans,Los Angeles Lakers,New Orleans Pelicans,24,37,61,1393990200.0,2014
+New Orleans Pelicans,New Orleans Pelicans,Milwaukee Bucks,25,37,62,1394240400.0,2014
+New Orleans Pelicans,New Orleans Pelicans,Denver Nuggets,26,37,63,1394402400.0,2014
+New Orleans Pelicans,New Orleans Pelicans,Memphis Grizzlies,26,38,64,1394668800.0,2014
+New Orleans Pelicans,New Orleans Pelicans,Portland Trail Blazers,26,39,65,1394841600.0,2014
+New Orleans Pelicans,New Orleans Pelicans,Boston Celtics,27,39,66,1395007200.0,2014
+New Orleans Pelicans,New Orleans Pelicans,Toronto Raptors,27,40,67,1395273600.0,2014
+New Orleans Pelicans,Atlanta Hawks,New Orleans Pelicans,28,40,68,1395444600.0,2014
+New Orleans Pelicans,New Orleans Pelicans,Miami Heat,29,40,69,1395532800.0,2014
+New Orleans Pelicans,New Orleans Pelicans,Brooklyn Nets,30,40,70,1395705600.0,2014
+New Orleans Pelicans,New Orleans Pelicans,Los Angeles Clippers,31,40,71,1395878400.0,2014
+New Orleans Pelicans,New Orleans Pelicans,Utah Jazz,32,40,72,1396051200.0,2014
+New Orleans Pelicans,San Antonio Spurs,New Orleans Pelicans,32,41,73,1396139400.0,2014
+New Orleans Pelicans,New Orleans Pelicans,Sacramento Kings,32,42,74,1396310400.0,2014
+New Orleans Pelicans,Denver Nuggets,New Orleans Pelicans,32,43,75,1396486800.0,2014
+New Orleans Pelicans,Utah Jazz,New Orleans Pelicans,32,44,76,1396659600.0,2014
+New Orleans Pelicans,Portland Trail Blazers,New Orleans Pelicans,32,45,77,1396832400.0,2014
+New Orleans Pelicans,New Orleans Pelicans,Phoenix Suns,32,46,78,1397088000.0,2014
+New Orleans Pelicans,Oklahoma City Thunder,New Orleans Pelicans,32,47,79,1397260800.0,2014
+New Orleans Pelicans,Houston Rockets,New Orleans Pelicans,32,48,80,1397347200.0,2014
+New Orleans Pelicans,New Orleans Pelicans,Oklahoma City Thunder,33,48,81,1397520000.0,2014
+New Orleans Pelicans,New Orleans Pelicans,Houston Rockets,34,48,82,1397692800.0,2014
+New York Knicks,New York Knicks,Milwaukee Bucks,1,0,1,1383175800.0,2014
+New York Knicks,Chicago Bulls,New York Knicks,1,1,2,1383264000.0,2014
+New York Knicks,New York Knicks,Minnesota Timberwolves,1,2,3,1383525000.0,2014
+New York Knicks,New York Knicks,Charlotte Bobcats,1,3,4,1383697800.0,2014
+New York Knicks,Charlotte Bobcats,New York Knicks,2,3,5,1383955200.0,2014
+New York Knicks,New York Knicks,San Antonio Spurs,2,4,6,1384059600.0,2014
+New York Knicks,Atlanta Hawks,New York Knicks,3,4,7,1384390800.0,2014
+New York Knicks,New York Knicks,Houston Rockets,3,5,8,1384477200.0,2014
+New York Knicks,New York Knicks,Atlanta Hawks,3,6,9,1384648200.0,2014
+New York Knicks,Detroit Pistons,New York Knicks,3,7,10,1384907400.0,2014
+New York Knicks,New York Knicks,Indiana Pacers,3,8,11,1384992000.0,2014
+New York Knicks,Washington Wizards,New York Knicks,3,9,12,1385251200.0,2014
+New York Knicks,Portland Trail Blazers,New York Knicks,3,10,13,1385434800.0,2014
+New York Knicks,Los Angeles Clippers,New York Knicks,3,11,14,1385609400.0,2014
+New York Knicks,Denver Nuggets,New York Knicks,3,12,15,1385776800.0,2014
+New York Knicks,New York Knicks,New Orleans Pelicans,3,13,16,1385944200.0,2014
+New York Knicks,Brooklyn Nets,New York Knicks,4,13,17,1386288000.0,2014
+New York Knicks,New York Knicks,Orlando Magic,5,13,18,1386376200.0,2014
+New York Knicks,New York Knicks,Boston Celtics,5,14,19,1386478800.0,2014
+New York Knicks,Cleveland Cavaliers,New York Knicks,5,15,20,1386720000.0,2014
+New York Knicks,New York Knicks,Chicago Bulls,6,15,21,1386810000.0,2014
+New York Knicks,Boston Celtics,New York Knicks,6,16,22,1386981000.0,2014
+New York Knicks,New York Knicks,Atlanta Hawks,7,16,23,1387067400.0,2014
+New York Knicks,New York Knicks,Washington Wizards,7,17,24,1387240200.0,2014
+New York Knicks,Milwaukee Bucks,New York Knicks,8,17,25,1387414800.0,2014
+New York Knicks,New York Knicks,Memphis Grizzlies,8,18,26,1387602000.0,2014
+New York Knicks,Orlando Magic,New York Knicks,9,18,27,1387843200.0,2014
+New York Knicks,New York Knicks,Oklahoma City Thunder,9,19,28,1387999800.0,2014
+New York Knicks,New York Knicks,Toronto Raptors,9,20,29,1388190600.0,2014
+New York Knicks,Toronto Raptors,New York Knicks,9,21,30,1388275200.0,2014
+New York Knicks,San Antonio Spurs,New York Knicks,10,21,31,1388712600.0,2014
+New York Knicks,Houston Rockets,New York Knicks,10,22,32,1388797200.0,2014
+New York Knicks,Dallas Mavericks,New York Knicks,11,22,33,1388968200.0,2014
+New York Knicks,New York Knicks,Detroit Pistons,12,22,34,1389141000.0,2014
+New York Knicks,New York Knicks,Miami Heat,13,22,35,1389315600.0,2014
+New York Knicks,Philadelphia 76ers,New York Knicks,14,22,36,1389486600.0,2014
+New York Knicks,New York Knicks,Phoenix Suns,15,22,37,1389659400.0,2014
+New York Knicks,Charlotte Bobcats,New York Knicks,15,23,38,1389744000.0,2014
+New York Knicks,Indiana Pacers,New York Knicks,15,24,39,1389916800.0,2014
+New York Knicks,New York Knicks,Los Angeles Clippers,15,25,40,1390003200.0,2014
+New York Knicks,New York Knicks,Brooklyn Nets,15,26,41,1390246200.0,2014
+New York Knicks,New York Knicks,Philadelphia 76ers,15,27,42,1390437000.0,2014
+New York Knicks,New York Knicks,Charlotte Bobcats,16,27,43,1390609800.0,2014
+New York Knicks,New York Knicks,Los Angeles Lakers,17,27,44,1390768200.0,2014
+New York Knicks,New York Knicks,Boston Celtics,18,27,45,1390955400.0,2014
+New York Knicks,New York Knicks,Cleveland Cavaliers,19,27,46,1391130000.0,2014
+New York Knicks,New York Knicks,Miami Heat,19,28,47,1391304600.0,2014
+New York Knicks,Milwaukee Bucks,New York Knicks,19,29,48,1391475600.0,2014
+New York Knicks,New York Knicks,Portland Trail Blazers,19,30,49,1391648400.0,2014
+New York Knicks,New York Knicks,Denver Nuggets,20,30,50,1391819400.0,2014
+New York Knicks,Oklahoma City Thunder,New York Knicks,20,31,51,1391968800.0,2014
+New York Knicks,New York Knicks,Sacramento Kings,20,32,52,1392251400.0,2014
+New York Knicks,Memphis Grizzlies,New York Knicks,20,33,53,1392771600.0,2014
+New York Knicks,New Orleans Pelicans,New York Knicks,21,33,54,1392858000.0,2014
+New York Knicks,Orlando Magic,New York Knicks,21,34,55,1393027200.0,2014
+New York Knicks,Atlanta Hawks,New York Knicks,21,35,56,1393115400.0,2014
+New York Knicks,New York Knicks,Dallas Mavericks,21,36,57,1393288200.0,2014
+New York Knicks,Miami Heat,New York Knicks,21,37,58,1393549200.0,2014
+New York Knicks,New York Knicks,Golden State Warriors,21,38,59,1393635600.0,2014
+New York Knicks,Chicago Bulls,New York Knicks,21,39,60,1393783200.0,2014
+New York Knicks,Detroit Pistons,New York Knicks,21,40,61,1393893000.0,2014
+New York Knicks,Minnesota Timberwolves,New York Knicks,22,40,62,1394067600.0,2014
+New York Knicks,New York Knicks,Utah Jazz,23,40,63,1394238600.0,2014
+New York Knicks,Cleveland Cavaliers,New York Knicks,24,40,64,1394325000.0,2014
+New York Knicks,New York Knicks,Philadelphia 76ers,25,40,65,1394494200.0,2014
+New York Knicks,Boston Celtics,New York Knicks,26,40,66,1394667000.0,2014
+New York Knicks,New York Knicks,Milwaukee Bucks,27,40,67,1394856000.0,2014
+New York Knicks,New York Knicks,Indiana Pacers,28,40,68,1395273600.0,2014
+New York Knicks,Philadelphia 76ers,New York Knicks,29,40,69,1395442800.0,2014
+New York Knicks,New York Knicks,Cleveland Cavaliers,29,41,70,1395617400.0,2014
+New York Knicks,Los Angeles Lakers,New York Knicks,29,42,71,1395801000.0,2014
+New York Knicks,Sacramento Kings,New York Knicks,30,42,72,1395885600.0,2014
+New York Knicks,Phoenix Suns,New York Knicks,30,43,73,1396058400.0,2014
+New York Knicks,Golden State Warriors,New York Knicks,31,43,74,1396227600.0,2014
+New York Knicks,Utah Jazz,New York Knicks,32,43,75,1396314000.0,2014
+New York Knicks,New York Knicks,Brooklyn Nets,33,43,76,1396479600.0,2014
+New York Knicks,New York Knicks,Washington Wizards,33,44,77,1396654200.0,2014
+New York Knicks,Miami Heat,New York Knicks,33,45,78,1396803600.0,2014
+New York Knicks,Toronto Raptors,New York Knicks,34,45,79,1397257200.0,2014
+New York Knicks,New York Knicks,Chicago Bulls,35,45,80,1397431800.0,2014
+New York Knicks,Brooklyn Nets,New York Knicks,36,45,81,1397606400.0,2014
+New York Knicks,New York Knicks,Toronto Raptors,37,45,82,1397692800.0,2014
+Oklahoma City Thunder,Utah Jazz,Oklahoma City Thunder,1,0,1,1383181200.0,2014
+Oklahoma City Thunder,Minnesota Timberwolves,Oklahoma City Thunder,1,1,2,1383350400.0,2014
+Oklahoma City Thunder,Oklahoma City Thunder,Phoenix Suns,2,1,3,1383523200.0,2014
+Oklahoma City Thunder,Oklahoma City Thunder,Dallas Mavericks,3,1,4,1383791400.0,2014
+Oklahoma City Thunder,Detroit Pistons,Oklahoma City Thunder,4,1,5,1383957000.0,2014
+Oklahoma City Thunder,Oklahoma City Thunder,Washington Wizards,5,1,6,1384128000.0,2014
+Oklahoma City Thunder,Los Angeles Clippers,Oklahoma City Thunder,5,2,7,1384399800.0,2014
+Oklahoma City Thunder,Golden State Warriors,Oklahoma City Thunder,5,3,8,1384486200.0,2014
+Oklahoma City Thunder,Milwaukee Bucks,Oklahoma City Thunder,6,3,9,1384651800.0,2014
+Oklahoma City Thunder,Oklahoma City Thunder,Denver Nuggets,7,3,10,1384822800.0,2014
+Oklahoma City Thunder,Oklahoma City Thunder,Los Angeles Clippers,8,3,11,1385082000.0,2014
+Oklahoma City Thunder,Oklahoma City Thunder,Utah Jazz,9,3,12,1385337600.0,2014
+Oklahoma City Thunder,Oklahoma City Thunder,San Antonio Spurs,10,3,13,1385600400.0,2014
+Oklahoma City Thunder,Oklahoma City Thunder,Golden State Warriors,11,3,14,1385773200.0,2014
+Oklahoma City Thunder,Oklahoma City Thunder,Minnesota Timberwolves,12,3,15,1385942400.0,2014
+Oklahoma City Thunder,Sacramento Kings,Oklahoma City Thunder,13,3,16,1386126000.0,2014
+Oklahoma City Thunder,Portland Trail Blazers,Oklahoma City Thunder,13,4,17,1386212400.0,2014
+Oklahoma City Thunder,New Orleans Pelicans,Oklahoma City Thunder,14,4,18,1386378000.0,2014
+Oklahoma City Thunder,Oklahoma City Thunder,Indiana Pacers,15,4,19,1386547200.0,2014
+Oklahoma City Thunder,Atlanta Hawks,Oklahoma City Thunder,16,4,20,1386721800.0,2014
+Oklahoma City Thunder,Memphis Grizzlies,Oklahoma City Thunder,17,4,21,1386810000.0,2014
+Oklahoma City Thunder,Oklahoma City Thunder,Los Angeles Lakers,18,4,22,1386982800.0,2014
+Oklahoma City Thunder,Oklahoma City Thunder,Orlando Magic,19,4,23,1387152000.0,2014
+Oklahoma City Thunder,Denver Nuggets,Oklahoma City Thunder,20,4,24,1387332000.0,2014
+Oklahoma City Thunder,Oklahoma City Thunder,Chicago Bulls,21,4,25,1387501200.0,2014
+Oklahoma City Thunder,San Antonio Spurs,Oklahoma City Thunder,22,4,26,1387675800.0,2014
+Oklahoma City Thunder,Oklahoma City Thunder,Toronto Raptors,22,5,27,1387756800.0,2014
+Oklahoma City Thunder,New York Knicks,Oklahoma City Thunder,23,5,28,1387999800.0,2014
+Oklahoma City Thunder,Charlotte Bobcats,Oklahoma City Thunder,24,5,29,1388188800.0,2014
+Oklahoma City Thunder,Oklahoma City Thunder,Houston Rockets,25,5,30,1388361600.0,2014
+Oklahoma City Thunder,Oklahoma City Thunder,Portland Trail Blazers,25,6,31,1388538000.0,2014
+Oklahoma City Thunder,Oklahoma City Thunder,Brooklyn Nets,25,7,32,1388710800.0,2014
+Oklahoma City Thunder,Minnesota Timberwolves,Oklahoma City Thunder,26,7,33,1388883600.0,2014
+Oklahoma City Thunder,Oklahoma City Thunder,Boston Celtics,27,7,34,1388966400.0,2014
+Oklahoma City Thunder,Utah Jazz,Oklahoma City Thunder,27,8,35,1389146400.0,2014
+Oklahoma City Thunder,Denver Nuggets,Oklahoma City Thunder,27,9,36,1389324600.0,2014
+Oklahoma City Thunder,Oklahoma City Thunder,Milwaukee Bucks,28,9,37,1389488400.0,2014
+Oklahoma City Thunder,Memphis Grizzlies,Oklahoma City Thunder,28,10,38,1389747600.0,2014
+Oklahoma City Thunder,Houston Rockets,Oklahoma City Thunder,29,10,39,1389925800.0,2014
+Oklahoma City Thunder,Oklahoma City Thunder,Golden State Warriors,30,10,40,1390012200.0,2014
+Oklahoma City Thunder,Oklahoma City Thunder,Sacramento Kings,31,10,41,1390176000.0,2014
+Oklahoma City Thunder,Oklahoma City Thunder,Portland Trail Blazers,32,10,42,1390352400.0,2014
+Oklahoma City Thunder,San Antonio Spurs,Oklahoma City Thunder,33,10,43,1390438800.0,2014
+Oklahoma City Thunder,Boston Celtics,Oklahoma City Thunder,34,10,44,1390609800.0,2014
+Oklahoma City Thunder,Philadelphia 76ers,Oklahoma City Thunder,35,10,45,1390696200.0,2014
+Oklahoma City Thunder,Oklahoma City Thunder,Atlanta Hawks,36,10,46,1390870800.0,2014
+Oklahoma City Thunder,Miami Heat,Oklahoma City Thunder,37,10,47,1391040000.0,2014
+Oklahoma City Thunder,Brooklyn Nets,Oklahoma City Thunder,38,10,48,1391216400.0,2014
+Oklahoma City Thunder,Washington Wizards,Oklahoma City Thunder,38,11,49,1391299200.0,2014
+Oklahoma City Thunder,Oklahoma City Thunder,Memphis Grizzlies,39,11,50,1391475600.0,2014
+Oklahoma City Thunder,Oklahoma City Thunder,Minnesota Timberwolves,40,11,51,1391648400.0,2014
+Oklahoma City Thunder,Orlando Magic,Oklahoma City Thunder,40,12,52,1391817600.0,2014
+Oklahoma City Thunder,Oklahoma City Thunder,New York Knicks,41,12,53,1391968800.0,2014
+Oklahoma City Thunder,Portland Trail Blazers,Oklahoma City Thunder,42,12,54,1392174000.0,2014
+Oklahoma City Thunder,Los Angeles Lakers,Oklahoma City Thunder,43,12,55,1392348600.0,2014
+Oklahoma City Thunder,Oklahoma City Thunder,Miami Heat,43,13,56,1392944400.0,2014
+Oklahoma City Thunder,Oklahoma City Thunder,Los Angeles Clippers,43,14,57,1393178400.0,2014
+Oklahoma City Thunder,Oklahoma City Thunder,Cleveland Cavaliers,43,15,58,1393462800.0,2014
+Oklahoma City Thunder,Oklahoma City Thunder,Memphis Grizzlies,44,15,59,1393635600.0,2014
+Oklahoma City Thunder,Oklahoma City Thunder,Charlotte Bobcats,45,15,60,1393804800.0,2014
+Oklahoma City Thunder,Oklahoma City Thunder,Philadelphia 76ers,46,15,61,1393981200.0,2014
+Oklahoma City Thunder,Phoenix Suns,Oklahoma City Thunder,46,16,62,1394157600.0,2014
+Oklahoma City Thunder,Los Angeles Lakers,Oklahoma City Thunder,46,17,63,1394393400.0,2014
+Oklahoma City Thunder,Oklahoma City Thunder,Houston Rockets,47,17,64,1394582400.0,2014
+Oklahoma City Thunder,Oklahoma City Thunder,Los Angeles Lakers,48,17,65,1394760600.0,2014
+Oklahoma City Thunder,Oklahoma City Thunder,Dallas Mavericks,48,18,66,1395010800.0,2014
+Oklahoma City Thunder,Chicago Bulls,Oklahoma City Thunder,49,18,67,1395100800.0,2014
+Oklahoma City Thunder,Cleveland Cavaliers,Oklahoma City Thunder,50,18,68,1395356400.0,2014
+Oklahoma City Thunder,Toronto Raptors,Oklahoma City Thunder,51,18,69,1395442800.0,2014
+Oklahoma City Thunder,Oklahoma City Thunder,Denver Nuggets,52,18,70,1395705600.0,2014
+Oklahoma City Thunder,Dallas Mavericks,Oklahoma City Thunder,52,19,71,1395792000.0,2014
+Oklahoma City Thunder,Oklahoma City Thunder,Sacramento Kings,53,19,72,1396051200.0,2014
+Oklahoma City Thunder,Oklahoma City Thunder,Utah Jazz,54,19,73,1396206000.0,2014
+Oklahoma City Thunder,Oklahoma City Thunder,San Antonio Spurs,55,19,74,1396569600.0,2014
+Oklahoma City Thunder,Houston Rockets,Oklahoma City Thunder,55,20,75,1396661400.0,2014
+Oklahoma City Thunder,Phoenix Suns,Oklahoma City Thunder,55,21,76,1396832400.0,2014
+Oklahoma City Thunder,Sacramento Kings,Oklahoma City Thunder,56,21,77,1397008800.0,2014
+Oklahoma City Thunder,Los Angeles Clippers,Oklahoma City Thunder,57,21,78,1397097000.0,2014
+Oklahoma City Thunder,Oklahoma City Thunder,New Orleans Pelicans,58,21,79,1397260800.0,2014
+Oklahoma City Thunder,Indiana Pacers,Oklahoma City Thunder,58,22,80,1397408400.0,2014
+Oklahoma City Thunder,New Orleans Pelicans,Oklahoma City Thunder,58,23,81,1397520000.0,2014
+Oklahoma City Thunder,Oklahoma City Thunder,Detroit Pistons,59,23,82,1397692800.0,2014
+Orlando Magic,Indiana Pacers,Orlando Magic,0,1,1,1383087600.0,2014
+Orlando Magic,Minnesota Timberwolves,Orlando Magic,0,2,2,1383177600.0,2014
+Orlando Magic,Orlando Magic,New Orleans Pelicans,1,2,3,1383346800.0,2014
+Orlando Magic,Orlando Magic,Brooklyn Nets,2,2,4,1383519600.0,2014
+Orlando Magic,Orlando Magic,Los Angeles Clippers,3,2,5,1383782400.0,2014
+Orlando Magic,Orlando Magic,Boston Celtics,3,3,6,1383955200.0,2014
+Orlando Magic,Atlanta Hawks,Orlando Magic,3,4,7,1384043400.0,2014
+Orlando Magic,Boston Celtics,Orlando Magic,3,5,8,1384216200.0,2014
+Orlando Magic,Orlando Magic,Milwaukee Bucks,4,5,9,1384387200.0,2014
+Orlando Magic,Orlando Magic,Dallas Mavericks,4,6,10,1384646400.0,2014
+Orlando Magic,Orlando Magic,Miami Heat,4,7,11,1384992000.0,2014
+Orlando Magic,Miami Heat,Orlando Magic,4,8,12,1385253000.0,2014
+Orlando Magic,Orlando Magic,Phoenix Suns,4,9,13,1385334000.0,2014
+Orlando Magic,Atlanta Hawks,Orlando Magic,5,9,14,1385512200.0,2014
+Orlando Magic,Orlando Magic,Philadelphia 76ers,6,9,15,1385596800.0,2014
+Orlando Magic,Orlando Magic,San Antonio Spurs,6,10,16,1385769600.0,2014
+Orlando Magic,Washington Wizards,Orlando Magic,6,11,17,1386028800.0,2014
+Orlando Magic,Philadelphia 76ers,Orlando Magic,6,12,18,1386115200.0,2014
+Orlando Magic,New York Knicks,Orlando Magic,6,13,19,1386376200.0,2014
+Orlando Magic,Houston Rockets,Orlando Magic,6,14,20,1386547200.0,2014
+Orlando Magic,Memphis Grizzlies,Orlando Magic,6,15,21,1386637200.0,2014
+Orlando Magic,Charlotte Bobcats,Orlando Magic,7,15,22,1386806400.0,2014
+Orlando Magic,Orlando Magic,Cleveland Cavaliers,7,16,23,1386979200.0,2014
+Orlando Magic,Oklahoma City Thunder,Orlando Magic,7,17,24,1387152000.0,2014
+Orlando Magic,Chicago Bulls,Orlando Magic,8,17,25,1387242000.0,2014
+Orlando Magic,Orlando Magic,Utah Jazz,8,18,26,1387411200.0,2014
+Orlando Magic,Orlando Magic,Sacramento Kings,8,19,27,1387670400.0,2014
+Orlando Magic,Orlando Magic,New York Knicks,8,20,28,1387843200.0,2014
+Orlando Magic,Orlando Magic,Detroit Pistons,9,20,29,1388188800.0,2014
+Orlando Magic,Orlando Magic,Atlanta Hawks,10,20,30,1388358000.0,2014
+Orlando Magic,Orlando Magic,Golden State Warriors,10,21,31,1388527200.0,2014
+Orlando Magic,Cleveland Cavaliers,Orlando Magic,10,22,32,1388707200.0,2014
+Orlando Magic,Orlando Magic,Miami Heat,10,23,33,1388880000.0,2014
+Orlando Magic,Los Angeles Clippers,Orlando Magic,10,24,34,1389065400.0,2014
+Orlando Magic,Portland Trail Blazers,Orlando Magic,10,25,35,1389236400.0,2014
+Orlando Magic,Sacramento Kings,Orlando Magic,10,26,36,1389409200.0,2014
+Orlando Magic,Denver Nuggets,Orlando Magic,10,27,37,1389492000.0,2014
+Orlando Magic,Dallas Mavericks,Orlando Magic,10,28,38,1389663000.0,2014
+Orlando Magic,Orlando Magic,Chicago Bulls,10,29,39,1389830400.0,2014
+Orlando Magic,Orlando Magic,Charlotte Bobcats,10,30,40,1390003200.0,2014
+Orlando Magic,Orlando Magic,Boston Celtics,11,30,41,1390172400.0,2014
+Orlando Magic,Brooklyn Nets,Orlando Magic,11,31,42,1390350600.0,2014
+Orlando Magic,Orlando Magic,Atlanta Hawks,11,32,43,1390435200.0,2014
+Orlando Magic,Orlando Magic,Los Angeles Lakers,12,32,44,1390608000.0,2014
+Orlando Magic,New Orleans Pelicans,Orlando Magic,12,33,45,1390777200.0,2014
+Orlando Magic,Detroit Pistons,Orlando Magic,12,34,46,1390955400.0,2014
+Orlando Magic,Toronto Raptors,Orlando Magic,12,35,47,1391040000.0,2014
+Orlando Magic,Orlando Magic,Milwaukee Bucks,13,35,48,1391212800.0,2014
+Orlando Magic,Boston Celtics,Orlando Magic,13,36,49,1391364000.0,2014
+Orlando Magic,Indiana Pacers,Orlando Magic,13,37,50,1391472000.0,2014
+Orlando Magic,Orlando Magic,Detroit Pistons,14,37,51,1391644800.0,2014
+Orlando Magic,Orlando Magic,Oklahoma City Thunder,15,37,52,1391817600.0,2014
+Orlando Magic,Orlando Magic,Indiana Pacers,16,37,53,1391986800.0,2014
+Orlando Magic,Orlando Magic,Memphis Grizzlies,16,38,54,1392249600.0,2014
+Orlando Magic,Milwaukee Bucks,Orlando Magic,16,39,55,1392771600.0,2014
+Orlando Magic,Cleveland Cavaliers,Orlando Magic,16,40,56,1392854400.0,2014
+Orlando Magic,Orlando Magic,New York Knicks,17,40,57,1393027200.0,2014
+Orlando Magic,Toronto Raptors,Orlando Magic,17,41,58,1393196400.0,2014
+Orlando Magic,Washington Wizards,Orlando Magic,17,42,59,1393372800.0,2014
+Orlando Magic,Philadelphia 76ers,Orlando Magic,18,42,60,1393459200.0,2014
+Orlando Magic,Miami Heat,Orlando Magic,18,43,61,1393720200.0,2014
+Orlando Magic,Orlando Magic,Philadelphia 76ers,19,43,62,1393801200.0,2014
+Orlando Magic,Orlando Magic,Houston Rockets,19,44,63,1394064000.0,2014
+Orlando Magic,San Antonio Spurs,Orlando Magic,19,45,64,1394328600.0,2014
+Orlando Magic,Milwaukee Bucks,Orlando Magic,19,46,65,1394496000.0,2014
+Orlando Magic,Orlando Magic,Denver Nuggets,19,47,66,1394665200.0,2014
+Orlando Magic,Orlando Magic,Washington Wizards,19,48,67,1394838000.0,2014
+Orlando Magic,Golden State Warriors,Orlando Magic,19,49,68,1395196200.0,2014
+Orlando Magic,Phoenix Suns,Orlando Magic,19,50,69,1395280800.0,2014
+Orlando Magic,Utah Jazz,Orlando Magic,19,51,70,1395536400.0,2014
+Orlando Magic,Los Angeles Lakers,Orlando Magic,19,52,71,1395624600.0,2014
+Orlando Magic,Orlando Magic,Portland Trail Blazers,20,52,72,1395788400.0,2014
+Orlando Magic,Orlando Magic,Charlotte Bobcats,21,52,73,1396047600.0,2014
+Orlando Magic,Orlando Magic,Toronto Raptors,21,53,74,1396216800.0,2014
+Orlando Magic,Orlando Magic,Cleveland Cavaliers,21,54,75,1396479600.0,2014
+Orlando Magic,Charlotte Bobcats,Orlando Magic,21,55,76,1396652400.0,2014
+Orlando Magic,Orlando Magic,Minnesota Timberwolves,22,55,77,1396738800.0,2014
+Orlando Magic,Orlando Magic,Brooklyn Nets,23,55,78,1397084400.0,2014
+Orlando Magic,Orlando Magic,Washington Wizards,23,56,79,1397257200.0,2014
+Orlando Magic,Brooklyn Nets,Orlando Magic,23,57,80,1397426400.0,2014
+Orlando Magic,Chicago Bulls,Orlando Magic,23,58,81,1397520000.0,2014
+Orlando Magic,Orlando Magic,Indiana Pacers,23,59,82,1397689200.0,2014
+Philadelphia 76ers,Philadelphia 76ers,Miami Heat,1,0,1,1383174000.0,2014
+Philadelphia 76ers,Washington Wizards,Philadelphia 76ers,2,0,2,1383346800.0,2014
+Philadelphia 76ers,Philadelphia 76ers,Chicago Bulls,3,0,3,1383435000.0,2014
+Philadelphia 76ers,Philadelphia 76ers,Golden State Warriors,3,1,4,1383609600.0,2014
+Philadelphia 76ers,Philadelphia 76ers,Washington Wizards,3,2,5,1383782400.0,2014
+Philadelphia 76ers,Philadelphia 76ers,Cleveland Cavaliers,4,2,6,1383955200.0,2014
+Philadelphia 76ers,Cleveland Cavaliers,Philadelphia 76ers,4,3,7,1384043400.0,2014
+Philadelphia 76ers,Philadelphia 76ers,San Antonio Spurs,4,4,8,1384214400.0,2014
+Philadelphia 76ers,Philadelphia 76ers,Houston Rockets,5,4,9,1384387200.0,2014
+Philadelphia 76ers,Atlanta Hawks,Philadelphia 76ers,5,5,10,1384561800.0,2014
+Philadelphia 76ers,New Orleans Pelicans,Philadelphia 76ers,5,6,11,1384650000.0,2014
+Philadelphia 76ers,Dallas Mavericks,Philadelphia 76ers,5,7,12,1384824600.0,2014
+Philadelphia 76ers,Philadelphia 76ers,Toronto Raptors,5,8,13,1384992000.0,2014
+Philadelphia 76ers,Philadelphia 76ers,Milwaukee Bucks,6,8,14,1385164800.0,2014
+Philadelphia 76ers,Indiana Pacers,Philadelphia 76ers,6,9,15,1385251200.0,2014
+Philadelphia 76ers,Orlando Magic,Philadelphia 76ers,6,10,16,1385596800.0,2014
+Philadelphia 76ers,Philadelphia 76ers,New Orleans Pelicans,6,11,17,1385773200.0,2014
+Philadelphia 76ers,Detroit Pistons,Philadelphia 76ers,6,12,18,1385929800.0,2014
+Philadelphia 76ers,Philadelphia 76ers,Orlando Magic,7,12,19,1386115200.0,2014
+Philadelphia 76ers,Charlotte Bobcats,Philadelphia 76ers,7,13,20,1386374400.0,2014
+Philadelphia 76ers,Philadelphia 76ers,Denver Nuggets,7,14,21,1386460800.0,2014
+Philadelphia 76ers,Philadelphia 76ers,Los Angeles Clippers,7,15,22,1386633600.0,2014
+Philadelphia 76ers,Minnesota Timberwolves,Philadelphia 76ers,7,16,23,1386810000.0,2014
+Philadelphia 76ers,Toronto Raptors,Philadelphia 76ers,7,17,24,1386979200.0,2014
+Philadelphia 76ers,Philadelphia 76ers,Portland Trail Blazers,7,18,25,1387069200.0,2014
+Philadelphia 76ers,Brooklyn Nets,Philadelphia 76ers,7,19,26,1387240200.0,2014
+Philadelphia 76ers,Philadelphia 76ers,Brooklyn Nets,8,19,27,1387584000.0,2014
+Philadelphia 76ers,Milwaukee Bucks,Philadelphia 76ers,8,20,28,1387675800.0,2014
+Philadelphia 76ers,Phoenix Suns,Philadelphia 76ers,8,21,29,1388282400.0,2014
+Philadelphia 76ers,Los Angeles Lakers,Philadelphia 76ers,9,21,30,1388370600.0,2014
+Philadelphia 76ers,Denver Nuggets,Philadelphia 76ers,10,21,31,1388628000.0,2014
+Philadelphia 76ers,Sacramento Kings,Philadelphia 76ers,11,21,32,1388718000.0,2014
+Philadelphia 76ers,Portland Trail Blazers,Philadelphia 76ers,12,21,33,1388890800.0,2014
+Philadelphia 76ers,Philadelphia 76ers,Minnesota Timberwolves,12,22,34,1389052800.0,2014
+Philadelphia 76ers,Cleveland Cavaliers,Philadelphia 76ers,12,23,35,1389139200.0,2014
+Philadelphia 76ers,Philadelphia 76ers,Detroit Pistons,12,24,36,1389398400.0,2014
+Philadelphia 76ers,Philadelphia 76ers,New York Knicks,12,25,37,1389486600.0,2014
+Philadelphia 76ers,Philadelphia 76ers,Charlotte Bobcats,13,25,38,1389830400.0,2014
+Philadelphia 76ers,Philadelphia 76ers,Miami Heat,13,26,39,1390003200.0,2014
+Philadelphia 76ers,Chicago Bulls,Philadelphia 76ers,13,27,40,1390093200.0,2014
+Philadelphia 76ers,Washington Wizards,Philadelphia 76ers,13,28,41,1390244400.0,2014
+Philadelphia 76ers,New York Knicks,Philadelphia 76ers,14,28,42,1390437000.0,2014
+Philadelphia 76ers,Philadelphia 76ers,Toronto Raptors,14,29,43,1390608000.0,2014
+Philadelphia 76ers,Philadelphia 76ers,Oklahoma City Thunder,14,30,44,1390696200.0,2014
+Philadelphia 76ers,Philadelphia 76ers,Phoenix Suns,14,31,45,1390867200.0,2014
+Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,15,31,46,1391041800.0,2014
+Philadelphia 76ers,Philadelphia 76ers,Atlanta Hawks,15,32,47,1391214600.0,2014
+Philadelphia 76ers,Detroit Pistons,Philadelphia 76ers,15,33,48,1391301000.0,2014
+Philadelphia 76ers,Brooklyn Nets,Philadelphia 76ers,15,34,49,1391473800.0,2014
+Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,15,35,50,1391644800.0,2014
+Philadelphia 76ers,Philadelphia 76ers,Los Angeles Lakers,15,36,51,1391817600.0,2014
+Philadelphia 76ers,Los Angeles Clippers,Philadelphia 76ers,15,37,52,1391999400.0,2014
+Philadelphia 76ers,Golden State Warriors,Philadelphia 76ers,15,38,53,1392089400.0,2014
+Philadelphia 76ers,Utah Jazz,Philadelphia 76ers,15,39,54,1392256800.0,2014
+Philadelphia 76ers,Philadelphia 76ers,Cleveland Cavaliers,15,40,55,1392768000.0,2014
+Philadelphia 76ers,Philadelphia 76ers,Dallas Mavericks,15,41,56,1393027200.0,2014
+Philadelphia 76ers,Philadelphia 76ers,Milwaukee Bucks,15,42,57,1393286400.0,2014
+Philadelphia 76ers,Philadelphia 76ers,Orlando Magic,15,43,58,1393459200.0,2014
+Philadelphia 76ers,Philadelphia 76ers,Washington Wizards,15,44,59,1393720200.0,2014
+Philadelphia 76ers,Orlando Magic,Philadelphia 76ers,15,45,60,1393801200.0,2014
+Philadelphia 76ers,Oklahoma City Thunder,Philadelphia 76ers,15,46,61,1393981200.0,2014
+Philadelphia 76ers,Philadelphia 76ers,Utah Jazz,15,47,62,1394325000.0,2014
+Philadelphia 76ers,New York Knicks,Philadelphia 76ers,15,48,63,1394494200.0,2014
+Philadelphia 76ers,Philadelphia 76ers,Sacramento Kings,15,49,64,1394665200.0,2014
+Philadelphia 76ers,Philadelphia 76ers,Indiana Pacers,15,50,65,1394838000.0,2014
+Philadelphia 76ers,Philadelphia 76ers,Memphis Grizzlies,15,51,66,1394926200.0,2014
+Philadelphia 76ers,Indiana Pacers,Philadelphia 76ers,15,52,67,1395097200.0,2014
+Philadelphia 76ers,Philadelphia 76ers,Chicago Bulls,15,53,68,1395270000.0,2014
+Philadelphia 76ers,Philadelphia 76ers,New York Knicks,15,54,69,1395442800.0,2014
+Philadelphia 76ers,Chicago Bulls,Philadelphia 76ers,15,55,70,1395532800.0,2014
+Philadelphia 76ers,San Antonio Spurs,Philadelphia 76ers,15,56,71,1395707400.0,2014
+Philadelphia 76ers,Houston Rockets,Philadelphia 76ers,15,57,72,1395964800.0,2014
+Philadelphia 76ers,Philadelphia 76ers,Detroit Pistons,16,57,73,1396135800.0,2014
+Philadelphia 76ers,Atlanta Hawks,Philadelphia 76ers,16,58,74,1396308600.0,2014
+Philadelphia 76ers,Philadelphia 76ers,Charlotte Bobcats,16,59,75,1396479600.0,2014
+Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,17,59,76,1396654200.0,2014
+Philadelphia 76ers,Philadelphia 76ers,Brooklyn Nets,17,60,77,1396740600.0,2014
+Philadelphia 76ers,Toronto Raptors,Philadelphia 76ers,17,61,78,1397084400.0,2014
+Philadelphia 76ers,Memphis Grizzlies,Philadelphia 76ers,17,62,79,1397260800.0,2014
+Philadelphia 76ers,Charlotte Bobcats,Philadelphia 76ers,17,63,80,1397343600.0,2014
+Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,18,63,81,1397516400.0,2014
+Philadelphia 76ers,Miami Heat,Philadelphia 76ers,19,63,82,1397692800.0,2014
+Phoenix Suns,Phoenix Suns,Portland Trail Blazers,1,0,1,1383184800.0,2014
+Phoenix Suns,Phoenix Suns,Utah Jazz,2,0,2,1383357600.0,2014
+Phoenix Suns,Oklahoma City Thunder,Phoenix Suns,2,1,3,1383523200.0,2014
+Phoenix Suns,New Orleans Pelicans,Phoenix Suns,3,1,4,1383699600.0,2014
+Phoenix Suns,San Antonio Spurs,Phoenix Suns,3,2,5,1383787800.0,2014
+Phoenix Suns,Phoenix Suns,Denver Nuggets,4,2,6,1383962400.0,2014
+Phoenix Suns,Phoenix Suns,New Orleans Pelicans,5,2,7,1384131600.0,2014
+Phoenix Suns,Portland Trail Blazers,Phoenix Suns,5,3,8,1384398000.0,2014
+Phoenix Suns,Phoenix Suns,Brooklyn Nets,5,4,9,1384567200.0,2014
+Phoenix Suns,Sacramento Kings,Phoenix Suns,5,5,10,1384916400.0,2014
+Phoenix Suns,Phoenix Suns,Sacramento Kings,5,6,11,1384999200.0,2014
+Phoenix Suns,Charlotte Bobcats,Phoenix Suns,6,6,12,1385164800.0,2014
+Phoenix Suns,Orlando Magic,Phoenix Suns,7,6,13,1385334000.0,2014
+Phoenix Suns,Miami Heat,Phoenix Suns,7,7,14,1385425800.0,2014
+Phoenix Suns,Phoenix Suns,Portland Trail Blazers,8,7,15,1385604000.0,2014
+Phoenix Suns,Utah Jazz,Phoenix Suns,9,7,16,1385776800.0,2014
+Phoenix Suns,Phoenix Suns,Utah Jazz,9,8,17,1385863200.0,2014
+Phoenix Suns,Memphis Grizzlies,Phoenix Suns,9,9,18,1386118800.0,2014
+Phoenix Suns,Houston Rockets,Phoenix Suns,10,9,19,1386205200.0,2014
+Phoenix Suns,Phoenix Suns,Toronto Raptors,11,9,20,1386381600.0,2014
+Phoenix Suns,Los Angeles Lakers,Phoenix Suns,12,9,21,1386732600.0,2014
+Phoenix Suns,Phoenix Suns,Sacramento Kings,13,9,22,1386986400.0,2014
+Phoenix Suns,Phoenix Suns,Golden State Warriors,14,9,23,1387155600.0,2014
+Phoenix Suns,Phoenix Suns,San Antonio Spurs,14,10,24,1387418400.0,2014
+Phoenix Suns,Denver Nuggets,Phoenix Suns,15,10,25,1387591200.0,2014
+Phoenix Suns,Phoenix Suns,Dallas Mavericks,16,10,26,1387677600.0,2014
+Phoenix Suns,Phoenix Suns,Los Angeles Lakers,17,10,27,1387850400.0,2014
+Phoenix Suns,Golden State Warriors,Phoenix Suns,17,11,28,1388201400.0,2014
+Phoenix Suns,Phoenix Suns,Philadelphia 76ers,18,11,29,1388282400.0,2014
+Phoenix Suns,Los Angeles Clippers,Phoenix Suns,19,11,30,1388460600.0,2014
+Phoenix Suns,Phoenix Suns,Memphis Grizzlies,19,12,31,1388714400.0,2014
+Phoenix Suns,Phoenix Suns,Milwaukee Bucks,20,12,32,1388887200.0,2014
+Phoenix Suns,Chicago Bulls,Phoenix Suns,20,13,33,1389142800.0,2014
+Phoenix Suns,Minnesota Timberwolves,Phoenix Suns,21,13,34,1389234600.0,2014
+Phoenix Suns,Memphis Grizzlies,Phoenix Suns,21,14,35,1389402000.0,2014
+Phoenix Suns,Detroit Pistons,Phoenix Suns,21,15,36,1389486600.0,2014
+Phoenix Suns,New York Knicks,Phoenix Suns,21,16,37,1389659400.0,2014
+Phoenix Suns,Phoenix Suns,Los Angeles Lakers,22,16,38,1389837600.0,2014
+Phoenix Suns,Phoenix Suns,Dallas Mavericks,22,17,39,1390010400.0,2014
+Phoenix Suns,Phoenix Suns,Denver Nuggets,23,17,40,1390179600.0,2014
+Phoenix Suns,Phoenix Suns,Indiana Pacers,24,17,41,1390447800.0,2014
+Phoenix Suns,Phoenix Suns,Washington Wizards,24,18,42,1390615200.0,2014
+Phoenix Suns,Cleveland Cavaliers,Phoenix Suns,25,18,43,1390777200.0,2014
+Phoenix Suns,Philadelphia 76ers,Phoenix Suns,26,18,44,1390867200.0,2014
+Phoenix Suns,Milwaukee Bucks,Phoenix Suns,27,18,45,1391043600.0,2014
+Phoenix Suns,Indiana Pacers,Phoenix Suns,28,18,46,1391126400.0,2014
+Phoenix Suns,Phoenix Suns,Charlotte Bobcats,29,18,47,1391306400.0,2014
+Phoenix Suns,Phoenix Suns,Chicago Bulls,29,19,48,1391565600.0,2014
+Phoenix Suns,Houston Rockets,Phoenix Suns,29,20,49,1391648400.0,2014
+Phoenix Suns,Phoenix Suns,Golden State Warriors,30,20,50,1391911200.0,2014
+Phoenix Suns,Phoenix Suns,Miami Heat,30,21,51,1392170400.0,2014
+Phoenix Suns,Denver Nuggets,Phoenix Suns,31,21,52,1392775200.0,2014
+Phoenix Suns,Phoenix Suns,Boston Celtics,32,21,53,1392861600.0,2014
+Phoenix Suns,Phoenix Suns,San Antonio Spurs,33,21,54,1393034400.0,2014
+Phoenix Suns,Phoenix Suns,Houston Rockets,33,22,55,1393207200.0,2014
+Phoenix Suns,Phoenix Suns,Minnesota Timberwolves,33,23,56,1393380000.0,2014
+Phoenix Suns,Utah Jazz,Phoenix Suns,33,24,57,1393466400.0,2014
+Phoenix Suns,Phoenix Suns,New Orleans Pelicans,34,24,58,1393644600.0,2014
+Phoenix Suns,Phoenix Suns,Atlanta Hawks,35,24,59,1393808400.0,2014
+Phoenix Suns,Phoenix Suns,Los Angeles Clippers,35,25,60,1393984800.0,2014
+Phoenix Suns,Phoenix Suns,Oklahoma City Thunder,36,25,61,1394157600.0,2014
+Phoenix Suns,Golden State Warriors,Phoenix Suns,36,26,62,1394413200.0,2014
+Phoenix Suns,Los Angeles Clippers,Phoenix Suns,36,27,63,1394505000.0,2014
+Phoenix Suns,Phoenix Suns,Cleveland Cavaliers,36,28,64,1394676000.0,2014
+Phoenix Suns,Boston Celtics,Phoenix Suns,37,28,65,1394839800.0,2014
+Phoenix Suns,Toronto Raptors,Phoenix Suns,38,28,66,1394989200.0,2014
+Phoenix Suns,Brooklyn Nets,Phoenix Suns,38,29,67,1395099000.0,2014
+Phoenix Suns,Phoenix Suns,Orlando Magic,39,29,68,1395280800.0,2014
+Phoenix Suns,Phoenix Suns,Detroit Pistons,40,29,69,1395453600.0,2014
+Phoenix Suns,Minnesota Timberwolves,Phoenix Suns,41,29,70,1395603000.0,2014
+Phoenix Suns,Atlanta Hawks,Phoenix Suns,42,29,71,1395703800.0,2014
+Phoenix Suns,Washington Wizards,Phoenix Suns,43,29,72,1395874800.0,2014
+Phoenix Suns,Phoenix Suns,New York Knicks,44,29,73,1396058400.0,2014
+Phoenix Suns,Los Angeles Lakers,Phoenix Suns,44,30,74,1396229400.0,2014
+Phoenix Suns,Phoenix Suns,Los Angeles Clippers,44,31,75,1396490400.0,2014
+Phoenix Suns,Portland Trail Blazers,Phoenix Suns,45,31,76,1396663200.0,2014
+Phoenix Suns,Phoenix Suns,Oklahoma City Thunder,46,31,77,1396832400.0,2014
+Phoenix Suns,New Orleans Pelicans,Phoenix Suns,47,31,78,1397088000.0,2014
+Phoenix Suns,San Antonio Spurs,Phoenix Suns,47,32,79,1397262600.0,2014
+Phoenix Suns,Dallas Mavericks,Phoenix Suns,47,33,80,1397349000.0,2014
+Phoenix Suns,Phoenix Suns,Memphis Grizzlies,47,34,81,1397527200.0,2014
+Phoenix Suns,Sacramento Kings,Phoenix Suns,48,34,82,1397701800.0,2014
+Portland Trail Blazers,Phoenix Suns,Portland Trail Blazers,0,1,1,1383184800.0,2014
+Portland Trail Blazers,Denver Nuggets,Portland Trail Blazers,1,1,2,1383354000.0,2014
+Portland Trail Blazers,Portland Trail Blazers,San Antonio Spurs,2,1,3,1383444000.0,2014
+Portland Trail Blazers,Portland Trail Blazers,Houston Rockets,2,2,4,1383706800.0,2014
+Portland Trail Blazers,Portland Trail Blazers,Sacramento Kings,3,2,5,1383966000.0,2014
+Portland Trail Blazers,Sacramento Kings,Portland Trail Blazers,4,2,6,1384052400.0,2014
+Portland Trail Blazers,Portland Trail Blazers,Detroit Pistons,5,2,7,1384225200.0,2014
+Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,6,2,8,1384398000.0,2014
+Portland Trail Blazers,Boston Celtics,Portland Trail Blazers,7,2,9,1384561800.0,2014
+Portland Trail Blazers,Toronto Raptors,Portland Trail Blazers,8,2,10,1384711200.0,2014
+Portland Trail Blazers,Brooklyn Nets,Portland Trail Blazers,9,2,11,1384821000.0,2014
+Portland Trail Blazers,Milwaukee Bucks,Portland Trail Blazers,10,2,12,1384995600.0,2014
+Portland Trail Blazers,Portland Trail Blazers,Chicago Bulls,11,2,13,1385175600.0,2014
+Portland Trail Blazers,Golden State Warriors,Portland Trail Blazers,12,2,14,1385263800.0,2014
+Portland Trail Blazers,Portland Trail Blazers,New York Knicks,13,2,15,1385434800.0,2014
+Portland Trail Blazers,Phoenix Suns,Portland Trail Blazers,13,3,16,1385604000.0,2014
+Portland Trail Blazers,Los Angeles Lakers,Portland Trail Blazers,14,3,17,1385951400.0,2014
+Portland Trail Blazers,Portland Trail Blazers,Indiana Pacers,15,3,18,1386039600.0,2014
+Portland Trail Blazers,Portland Trail Blazers,Oklahoma City Thunder,16,3,19,1386212400.0,2014
+Portland Trail Blazers,Portland Trail Blazers,Utah Jazz,17,3,20,1386385200.0,2014
+Portland Trail Blazers,Portland Trail Blazers,Dallas Mavericks,17,4,21,1386471600.0,2014
+Portland Trail Blazers,Utah Jazz,Portland Trail Blazers,18,4,22,1386640800.0,2014
+Portland Trail Blazers,Portland Trail Blazers,Houston Rockets,19,4,23,1386905400.0,2014
+Portland Trail Blazers,Philadelphia 76ers,Portland Trail Blazers,20,4,24,1387069200.0,2014
+Portland Trail Blazers,Detroit Pistons,Portland Trail Blazers,21,4,25,1387148400.0,2014
+Portland Trail Blazers,Cleveland Cavaliers,Portland Trail Blazers,22,4,26,1387324800.0,2014
+Portland Trail Blazers,Minnesota Timberwolves,Portland Trail Blazers,22,5,27,1387414800.0,2014
+Portland Trail Blazers,Portland Trail Blazers,New Orleans Pelicans,23,5,28,1387681200.0,2014
+Portland Trail Blazers,Portland Trail Blazers,Los Angeles Clippers,24,5,29,1388115000.0,2014
+Portland Trail Blazers,Portland Trail Blazers,Miami Heat,24,6,30,1388286000.0,2014
+Portland Trail Blazers,New Orleans Pelicans,Portland Trail Blazers,24,7,31,1388451600.0,2014
+Portland Trail Blazers,Oklahoma City Thunder,Portland Trail Blazers,25,7,32,1388538000.0,2014
+Portland Trail Blazers,Portland Trail Blazers,Charlotte Bobcats,26,7,33,1388718000.0,2014
+Portland Trail Blazers,Portland Trail Blazers,Philadelphia 76ers,26,8,34,1388890800.0,2014
+Portland Trail Blazers,Sacramento Kings,Portland Trail Blazers,26,9,35,1389150000.0,2014
+Portland Trail Blazers,Portland Trail Blazers,Orlando Magic,27,9,36,1389236400.0,2014
+Portland Trail Blazers,Portland Trail Blazers,Boston Celtics,28,9,37,1389495600.0,2014
+Portland Trail Blazers,Portland Trail Blazers,Cleveland Cavaliers,29,9,38,1389841200.0,2014
+Portland Trail Blazers,San Antonio Spurs,Portland Trail Blazers,30,9,39,1390008600.0,2014
+Portland Trail Blazers,Dallas Mavericks,Portland Trail Blazers,31,9,40,1390095000.0,2014
+Portland Trail Blazers,Houston Rockets,Portland Trail Blazers,31,10,41,1390266000.0,2014
+Portland Trail Blazers,Oklahoma City Thunder,Portland Trail Blazers,31,11,42,1390352400.0,2014
+Portland Trail Blazers,Portland Trail Blazers,Denver Nuggets,32,11,43,1390534200.0,2014
+Portland Trail Blazers,Portland Trail Blazers,Minnesota Timberwolves,33,11,44,1390705200.0,2014
+Portland Trail Blazers,Golden State Warriors,Portland Trail Blazers,33,12,45,1390788000.0,2014
+Portland Trail Blazers,Portland Trail Blazers,Memphis Grizzlies,33,13,46,1390964400.0,2014
+Portland Trail Blazers,Portland Trail Blazers,Toronto Raptors,34,13,47,1391310000.0,2014
+Portland Trail Blazers,Washington Wizards,Portland Trail Blazers,34,14,48,1391472000.0,2014
+Portland Trail Blazers,New York Knicks,Portland Trail Blazers,35,14,49,1391648400.0,2014
+Portland Trail Blazers,Indiana Pacers,Portland Trail Blazers,35,15,50,1391817600.0,2014
+Portland Trail Blazers,Minnesota Timberwolves,Portland Trail Blazers,36,15,51,1391907600.0,2014
+Portland Trail Blazers,Portland Trail Blazers,Oklahoma City Thunder,36,16,52,1392174000.0,2014
+Portland Trail Blazers,Los Angeles Clippers,Portland Trail Blazers,36,17,53,1392262200.0,2014
+Portland Trail Blazers,Portland Trail Blazers,San Antonio Spurs,36,18,54,1392865200.0,2014
+Portland Trail Blazers,Portland Trail Blazers,Utah Jazz,37,18,55,1393038000.0,2014
+Portland Trail Blazers,Portland Trail Blazers,Minnesota Timberwolves,38,18,56,1393207200.0,2014
+Portland Trail Blazers,Denver Nuggets,Portland Trail Blazers,39,18,57,1393380000.0,2014
+Portland Trail Blazers,Portland Trail Blazers,Brooklyn Nets,40,18,58,1393470000.0,2014
+Portland Trail Blazers,Portland Trail Blazers,Denver Nuggets,41,18,59,1393729200.0,2014
+Portland Trail Blazers,Portland Trail Blazers,Los Angeles Lakers,41,19,60,1393902000.0,2014
+Portland Trail Blazers,Portland Trail Blazers,Atlanta Hawks,42,19,61,1394076600.0,2014
+Portland Trail Blazers,Dallas Mavericks,Portland Trail Blazers,42,20,62,1394242200.0,2014
+Portland Trail Blazers,Houston Rockets,Portland Trail Blazers,42,21,63,1394406000.0,2014
+Portland Trail Blazers,Memphis Grizzlies,Portland Trail Blazers,42,22,64,1394582400.0,2014
+Portland Trail Blazers,San Antonio Spurs,Portland Trail Blazers,42,23,65,1394674200.0,2014
+Portland Trail Blazers,New Orleans Pelicans,Portland Trail Blazers,43,23,66,1394841600.0,2014
+Portland Trail Blazers,Portland Trail Blazers,Golden State Warriors,43,24,67,1395018000.0,2014
+Portland Trail Blazers,Portland Trail Blazers,Milwaukee Bucks,44,24,68,1395194400.0,2014
+Portland Trail Blazers,Portland Trail Blazers,Washington Wizards,45,24,69,1395367200.0,2014
+Portland Trail Blazers,Charlotte Bobcats,Portland Trail Blazers,45,25,70,1395529200.0,2014
+Portland Trail Blazers,Miami Heat,Portland Trail Blazers,45,26,71,1395703800.0,2014
+Portland Trail Blazers,Orlando Magic,Portland Trail Blazers,45,27,72,1395788400.0,2014
+Portland Trail Blazers,Atlanta Hawks,Portland Trail Blazers,46,27,73,1395963000.0,2014
+Portland Trail Blazers,Chicago Bulls,Portland Trail Blazers,47,27,74,1396051200.0,2014
+Portland Trail Blazers,Portland Trail Blazers,Memphis Grizzlies,48,27,75,1396227600.0,2014
+Portland Trail Blazers,Los Angeles Lakers,Portland Trail Blazers,49,27,76,1396405800.0,2014
+Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,49,28,77,1396663200.0,2014
+Portland Trail Blazers,Portland Trail Blazers,New Orleans Pelicans,50,28,78,1396832400.0,2014
+Portland Trail Blazers,Portland Trail Blazers,Sacramento Kings,51,28,79,1397095200.0,2014
+Portland Trail Blazers,Utah Jazz,Portland Trail Blazers,52,28,80,1397264400.0,2014
+Portland Trail Blazers,Portland Trail Blazers,Golden State Warriors,53,28,81,1397437200.0,2014
+Portland Trail Blazers,Portland Trail Blazers,Los Angeles Clippers,54,28,82,1397701800.0,2014
+Sacramento Kings,Sacramento Kings,Denver Nuggets,1,0,1,1383184800.0,2014
+Sacramento Kings,Sacramento Kings,Los Angeles Clippers,1,1,2,1383357600.0,2014
+Sacramento Kings,Golden State Warriors,Sacramento Kings,1,2,3,1383445800.0,2014
+Sacramento Kings,Sacramento Kings,Atlanta Hawks,1,3,4,1383706800.0,2014
+Sacramento Kings,Portland Trail Blazers,Sacramento Kings,1,4,5,1383966000.0,2014
+Sacramento Kings,Sacramento Kings,Portland Trail Blazers,1,5,6,1384052400.0,2014
+Sacramento Kings,Sacramento Kings,Brooklyn Nets,2,5,7,1384398000.0,2014
+Sacramento Kings,Sacramento Kings,Detroit Pistons,2,6,8,1384572600.0,2014
+Sacramento Kings,Sacramento Kings,Memphis Grizzlies,2,7,9,1384729200.0,2014
+Sacramento Kings,Sacramento Kings,Phoenix Suns,3,7,10,1384916400.0,2014
+Sacramento Kings,Phoenix Suns,Sacramento Kings,4,7,11,1384999200.0,2014
+Sacramento Kings,Los Angeles Clippers,Sacramento Kings,4,8,12,1385238600.0,2014
+Sacramento Kings,Los Angeles Lakers,Sacramento Kings,4,9,13,1385346600.0,2014
+Sacramento Kings,Sacramento Kings,Los Angeles Clippers,4,10,14,1385780400.0,2014
+Sacramento Kings,Sacramento Kings,Golden State Warriors,4,11,15,1385938800.0,2014
+Sacramento Kings,Sacramento Kings,Oklahoma City Thunder,4,12,16,1386126000.0,2014
+Sacramento Kings,Sacramento Kings,Los Angeles Lakers,4,13,17,1386385200.0,2014
+Sacramento Kings,Utah Jazz,Sacramento Kings,5,13,18,1386468000.0,2014
+Sacramento Kings,Sacramento Kings,Dallas Mavericks,6,13,19,1386644400.0,2014
+Sacramento Kings,Sacramento Kings,Utah Jazz,6,14,20,1386817200.0,2014
+Sacramento Kings,Phoenix Suns,Sacramento Kings,6,15,21,1386986400.0,2014
+Sacramento Kings,Sacramento Kings,Houston Rockets,7,15,22,1387148400.0,2014
+Sacramento Kings,Charlotte Bobcats,Sacramento Kings,7,16,23,1387324800.0,2014
+Sacramento Kings,Atlanta Hawks,Sacramento Kings,7,17,24,1387413000.0,2014
+Sacramento Kings,Miami Heat,Sacramento Kings,7,18,25,1387585800.0,2014
+Sacramento Kings,Orlando Magic,Sacramento Kings,8,18,26,1387670400.0,2014
+Sacramento Kings,Sacramento Kings,New Orleans Pelicans,8,19,27,1387854000.0,2014
+Sacramento Kings,Sacramento Kings,Miami Heat,9,19,28,1388199600.0,2014
+Sacramento Kings,San Antonio Spurs,Sacramento Kings,9,20,29,1388361600.0,2014
+Sacramento Kings,Houston Rockets,Sacramento Kings,10,20,30,1388534400.0,2014
+Sacramento Kings,Sacramento Kings,Philadelphia 76ers,10,21,31,1388718000.0,2014
+Sacramento Kings,Sacramento Kings,Charlotte Bobcats,10,22,32,1388890800.0,2014
+Sacramento Kings,Sacramento Kings,Portland Trail Blazers,11,22,33,1389150000.0,2014
+Sacramento Kings,Sacramento Kings,Orlando Magic,12,22,34,1389409200.0,2014
+Sacramento Kings,Sacramento Kings,Cleveland Cavaliers,13,22,35,1389567600.0,2014
+Sacramento Kings,Indiana Pacers,Sacramento Kings,13,23,36,1389744000.0,2014
+Sacramento Kings,Minnesota Timberwolves,Sacramento Kings,14,23,37,1389834000.0,2014
+Sacramento Kings,Memphis Grizzlies,Sacramento Kings,14,24,38,1390006800.0,2014
+Sacramento Kings,Oklahoma City Thunder,Sacramento Kings,14,25,39,1390176000.0,2014
+Sacramento Kings,New Orleans Pelicans,Sacramento Kings,15,25,40,1390352400.0,2014
+Sacramento Kings,Houston Rockets,Sacramento Kings,15,26,41,1390438800.0,2014
+Sacramento Kings,Sacramento Kings,Indiana Pacers,15,27,42,1390618800.0,2014
+Sacramento Kings,Sacramento Kings,Denver Nuggets,15,28,43,1390788000.0,2014
+Sacramento Kings,Utah Jazz,Sacramento Kings,15,29,44,1390874400.0,2014
+Sacramento Kings,Sacramento Kings,Memphis Grizzlies,15,30,45,1391050800.0,2014
+Sacramento Kings,Dallas Mavericks,Sacramento Kings,15,31,46,1391218200.0,2014
+Sacramento Kings,San Antonio Spurs,Sacramento Kings,15,32,47,1391304600.0,2014
+Sacramento Kings,Sacramento Kings,Chicago Bulls,16,32,48,1391482800.0,2014
+Sacramento Kings,Sacramento Kings,Toronto Raptors,17,32,49,1391655600.0,2014
+Sacramento Kings,Boston Celtics,Sacramento Kings,17,33,50,1391819400.0,2014
+Sacramento Kings,Washington Wizards,Sacramento Kings,17,34,51,1391986800.0,2014
+Sacramento Kings,Cleveland Cavaliers,Sacramento Kings,17,35,52,1392163200.0,2014
+Sacramento Kings,New York Knicks,Sacramento Kings,18,35,53,1392251400.0,2014
+Sacramento Kings,Sacramento Kings,Golden State Warriors,18,36,54,1392865200.0,2014
+Sacramento Kings,Sacramento Kings,Boston Celtics,19,36,55,1393124400.0,2014
+Sacramento Kings,Denver Nuggets,Sacramento Kings,20,36,56,1393203600.0,2014
+Sacramento Kings,Sacramento Kings,Houston Rockets,20,37,57,1393383600.0,2014
+Sacramento Kings,Los Angeles Lakers,Sacramento Kings,20,38,58,1393644600.0,2014
+Sacramento Kings,Sacramento Kings,Minnesota Timberwolves,20,39,59,1393729200.0,2014
+Sacramento Kings,Sacramento Kings,New Orleans Pelicans,21,39,60,1393902000.0,2014
+Sacramento Kings,Milwaukee Bucks,Sacramento Kings,22,39,61,1394067600.0,2014
+Sacramento Kings,Toronto Raptors,Sacramento Kings,22,40,62,1394236800.0,2014
+Sacramento Kings,Brooklyn Nets,Sacramento Kings,22,41,63,1394402400.0,2014
+Sacramento Kings,Detroit Pistons,Sacramento Kings,22,42,64,1394580600.0,2014
+Sacramento Kings,Philadelphia 76ers,Sacramento Kings,23,42,65,1394665200.0,2014
+Sacramento Kings,Chicago Bulls,Sacramento Kings,23,43,66,1394928000.0,2014
+Sacramento Kings,Minnesota Timberwolves,Sacramento Kings,23,44,67,1395010800.0,2014
+Sacramento Kings,Sacramento Kings,Washington Wizards,24,44,68,1395194400.0,2014
+Sacramento Kings,Sacramento Kings,San Antonio Spurs,24,45,69,1395453600.0,2014
+Sacramento Kings,Sacramento Kings,Milwaukee Bucks,25,45,70,1395612000.0,2014
+Sacramento Kings,Sacramento Kings,New York Knicks,25,46,71,1395885600.0,2014
+Sacramento Kings,Oklahoma City Thunder,Sacramento Kings,25,47,72,1396051200.0,2014
+Sacramento Kings,Dallas Mavericks,Sacramento Kings,25,48,73,1396139400.0,2014
+Sacramento Kings,New Orleans Pelicans,Sacramento Kings,26,48,74,1396310400.0,2014
+Sacramento Kings,Sacramento Kings,Los Angeles Lakers,27,48,75,1396490400.0,2014
+Sacramento Kings,Golden State Warriors,Sacramento Kings,27,49,76,1396665000.0,2014
+Sacramento Kings,Sacramento Kings,Dallas Mavericks,27,50,77,1396821600.0,2014
+Sacramento Kings,Sacramento Kings,Oklahoma City Thunder,27,51,78,1397008800.0,2014
+Sacramento Kings,Portland Trail Blazers,Sacramento Kings,27,52,79,1397095200.0,2014
+Sacramento Kings,Los Angeles Clippers,Sacramento Kings,27,53,80,1397331000.0,2014
+Sacramento Kings,Sacramento Kings,Minnesota Timberwolves,28,53,81,1397437200.0,2014
+Sacramento Kings,Sacramento Kings,Phoenix Suns,28,54,82,1397701800.0,2014
+San Antonio Spurs,San Antonio Spurs,Memphis Grizzlies,1,0,1,1383179400.0,2014
+San Antonio Spurs,Los Angeles Lakers,San Antonio Spurs,2,0,2,1383359400.0,2014
+San Antonio Spurs,Portland Trail Blazers,San Antonio Spurs,2,1,3,1383444000.0,2014
+San Antonio Spurs,Denver Nuggets,San Antonio Spurs,3,1,4,1383703200.0,2014
+San Antonio Spurs,San Antonio Spurs,Phoenix Suns,4,1,5,1383787800.0,2014
+San Antonio Spurs,San Antonio Spurs,Golden State Warriors,5,1,6,1383960600.0,2014
+San Antonio Spurs,New York Knicks,San Antonio Spurs,6,1,7,1384059600.0,2014
+San Antonio Spurs,Philadelphia 76ers,San Antonio Spurs,7,1,8,1384214400.0,2014
+San Antonio Spurs,San Antonio Spurs,Washington Wizards,8,1,9,1384392600.0,2014
+San Antonio Spurs,Utah Jazz,San Antonio Spurs,9,1,10,1384567200.0,2014
+San Antonio Spurs,San Antonio Spurs,Boston Celtics,10,1,11,1384997400.0,2014
+San Antonio Spurs,Memphis Grizzlies,San Antonio Spurs,11,1,12,1385168400.0,2014
+San Antonio Spurs,San Antonio Spurs,Cleveland Cavaliers,12,1,13,1385256600.0,2014
+San Antonio Spurs,San Antonio Spurs,New Orleans Pelicans,13,1,14,1385429400.0,2014
+San Antonio Spurs,Oklahoma City Thunder,San Antonio Spurs,13,2,15,1385600400.0,2014
+San Antonio Spurs,Orlando Magic,San Antonio Spurs,14,2,16,1385769600.0,2014
+San Antonio Spurs,San Antonio Spurs,Houston Rockets,14,3,17,1385861400.0,2014
+San Antonio Spurs,San Antonio Spurs,Atlanta Hawks,15,3,18,1386034200.0,2014
+San Antonio Spurs,San Antonio Spurs,Indiana Pacers,15,4,19,1386466200.0,2014
+San Antonio Spurs,Toronto Raptors,San Antonio Spurs,16,4,20,1386720000.0,2014
+San Antonio Spurs,Milwaukee Bucks,San Antonio Spurs,17,4,21,1386810000.0,2014
+San Antonio Spurs,San Antonio Spurs,Minnesota Timberwolves,18,4,22,1386984600.0,2014
+San Antonio Spurs,Utah Jazz,San Antonio Spurs,19,4,23,1387072800.0,2014
+San Antonio Spurs,Los Angeles Clippers,San Antonio Spurs,19,5,24,1387251000.0,2014
+San Antonio Spurs,Phoenix Suns,San Antonio Spurs,20,5,25,1387418400.0,2014
+San Antonio Spurs,Golden State Warriors,San Antonio Spurs,21,5,26,1387510200.0,2014
+San Antonio Spurs,San Antonio Spurs,Oklahoma City Thunder,21,6,27,1387675800.0,2014
+San Antonio Spurs,San Antonio Spurs,Toronto Raptors,22,6,28,1387848600.0,2014
+San Antonio Spurs,San Antonio Spurs,Houston Rockets,22,7,29,1388019600.0,2014
+San Antonio Spurs,Dallas Mavericks,San Antonio Spurs,23,7,30,1388107800.0,2014
+San Antonio Spurs,San Antonio Spurs,Sacramento Kings,24,7,31,1388361600.0,2014
+San Antonio Spurs,San Antonio Spurs,Brooklyn Nets,25,7,32,1388534400.0,2014
+San Antonio Spurs,San Antonio Spurs,New York Knicks,25,8,33,1388712600.0,2014
+San Antonio Spurs,San Antonio Spurs,Los Angeles Clippers,26,8,34,1388885400.0,2014
+San Antonio Spurs,Memphis Grizzlies,San Antonio Spurs,27,8,35,1389142800.0,2014
+San Antonio Spurs,San Antonio Spurs,Dallas Mavericks,28,8,36,1389225600.0,2014
+San Antonio Spurs,San Antonio Spurs,Minnesota Timberwolves,29,8,37,1389571200.0,2014
+San Antonio Spurs,New Orleans Pelicans,San Antonio Spurs,30,8,38,1389661200.0,2014
+San Antonio Spurs,San Antonio Spurs,Utah Jazz,31,8,39,1389834000.0,2014
+San Antonio Spurs,San Antonio Spurs,Portland Trail Blazers,31,9,40,1390008600.0,2014
+San Antonio Spurs,San Antonio Spurs,Milwaukee Bucks,32,9,41,1390176000.0,2014
+San Antonio Spurs,San Antonio Spurs,Oklahoma City Thunder,32,10,42,1390438800.0,2014
+San Antonio Spurs,Atlanta Hawks,San Antonio Spurs,33,10,43,1390609800.0,2014
+San Antonio Spurs,Miami Heat,San Antonio Spurs,33,11,44,1390759200.0,2014
+San Antonio Spurs,Houston Rockets,San Antonio Spurs,33,12,45,1390957200.0,2014
+San Antonio Spurs,San Antonio Spurs,Chicago Bulls,33,13,46,1391049000.0,2014
+San Antonio Spurs,San Antonio Spurs,Sacramento Kings,34,13,47,1391304600.0,2014
+San Antonio Spurs,New Orleans Pelicans,San Antonio Spurs,35,13,48,1391475600.0,2014
+San Antonio Spurs,Washington Wizards,San Antonio Spurs,36,13,49,1391644800.0,2014
+San Antonio Spurs,Brooklyn Nets,San Antonio Spurs,36,14,50,1391734800.0,2014
+San Antonio Spurs,Charlotte Bobcats,San Antonio Spurs,37,14,51,1391904000.0,2014
+San Antonio Spurs,Detroit Pistons,San Antonio Spurs,37,15,52,1392078600.0,2014
+San Antonio Spurs,Boston Celtics,San Antonio Spurs,38,15,53,1392251400.0,2014
+San Antonio Spurs,Los Angeles Clippers,San Antonio Spurs,39,15,54,1392780600.0,2014
+San Antonio Spurs,Portland Trail Blazers,San Antonio Spurs,40,15,55,1392865200.0,2014
+San Antonio Spurs,Phoenix Suns,San Antonio Spurs,40,16,56,1393034400.0,2014
+San Antonio Spurs,San Antonio Spurs,Detroit Pistons,41,16,57,1393464600.0,2014
+San Antonio Spurs,San Antonio Spurs,Charlotte Bobcats,42,16,58,1393637400.0,2014
+San Antonio Spurs,San Antonio Spurs,Dallas Mavericks,43,16,59,1393804800.0,2014
+San Antonio Spurs,Cleveland Cavaliers,San Antonio Spurs,44,16,60,1393977600.0,2014
+San Antonio Spurs,San Antonio Spurs,Miami Heat,45,16,61,1394154000.0,2014
+San Antonio Spurs,San Antonio Spurs,Orlando Magic,46,16,62,1394328600.0,2014
+San Antonio Spurs,Chicago Bulls,San Antonio Spurs,47,16,63,1394582400.0,2014
+San Antonio Spurs,San Antonio Spurs,Portland Trail Blazers,48,16,64,1394674200.0,2014
+San Antonio Spurs,San Antonio Spurs,Los Angeles Lakers,49,16,65,1394843400.0,2014
+San Antonio Spurs,San Antonio Spurs,Utah Jazz,50,16,66,1395010800.0,2014
+San Antonio Spurs,Los Angeles Lakers,San Antonio Spurs,51,16,67,1395282600.0,2014
+San Antonio Spurs,Sacramento Kings,San Antonio Spurs,52,16,68,1395453600.0,2014
+San Antonio Spurs,Golden State Warriors,San Antonio Spurs,53,16,69,1395541800.0,2014
+San Antonio Spurs,San Antonio Spurs,Philadelphia 76ers,54,16,70,1395707400.0,2014
+San Antonio Spurs,San Antonio Spurs,Denver Nuggets,55,16,71,1395880200.0,2014
+San Antonio Spurs,Denver Nuggets,San Antonio Spurs,56,16,72,1396054800.0,2014
+San Antonio Spurs,San Antonio Spurs,New Orleans Pelicans,57,16,73,1396139400.0,2014
+San Antonio Spurs,Indiana Pacers,San Antonio Spurs,58,16,74,1396306800.0,2014
+San Antonio Spurs,San Antonio Spurs,Golden State Warriors,59,16,75,1396485000.0,2014
+San Antonio Spurs,Oklahoma City Thunder,San Antonio Spurs,59,17,76,1396569600.0,2014
+San Antonio Spurs,San Antonio Spurs,Memphis Grizzlies,60,17,77,1396825200.0,2014
+San Antonio Spurs,Minnesota Timberwolves,San Antonio Spurs,60,18,78,1397001600.0,2014
+San Antonio Spurs,Dallas Mavericks,San Antonio Spurs,61,18,79,1397174400.0,2014
+San Antonio Spurs,San Antonio Spurs,Phoenix Suns,62,18,80,1397262600.0,2014
+San Antonio Spurs,Houston Rockets,San Antonio Spurs,62,19,81,1397520000.0,2014
+San Antonio Spurs,San Antonio Spurs,Los Angeles Lakers,62,20,82,1397692800.0,2014
+Toronto Raptors,Toronto Raptors,Boston Celtics,1,0,1,1383174000.0,2014
+Toronto Raptors,Atlanta Hawks,Toronto Raptors,1,1,2,1383348600.0,2014
+Toronto Raptors,Milwaukee Bucks,Toronto Raptors,2,1,3,1383438600.0,2014
+Toronto Raptors,Toronto Raptors,Miami Heat,2,2,4,1383696000.0,2014
+Toronto Raptors,Charlotte Bobcats,Toronto Raptors,2,3,5,1383782400.0,2014
+Toronto Raptors,Indiana Pacers,Toronto Raptors,2,4,6,1383955200.0,2014
+Toronto Raptors,Toronto Raptors,Utah Jazz,3,4,7,1384041600.0,2014
+Toronto Raptors,Houston Rockets,Toronto Raptors,3,5,8,1384218000.0,2014
+Toronto Raptors,Memphis Grizzlies,Toronto Raptors,4,5,9,1384390800.0,2014
+Toronto Raptors,Toronto Raptors,Chicago Bulls,4,6,10,1384560000.0,2014
+Toronto Raptors,Toronto Raptors,Portland Trail Blazers,4,7,11,1384711200.0,2014
+Toronto Raptors,Philadelphia 76ers,Toronto Raptors,5,7,12,1384992000.0,2014
+Toronto Raptors,Toronto Raptors,Washington Wizards,6,7,13,1385164800.0,2014
+Toronto Raptors,Toronto Raptors,Brooklyn Nets,6,8,14,1385510400.0,2014
+Toronto Raptors,Toronto Raptors,Miami Heat,6,9,15,1385769600.0,2014
+Toronto Raptors,Toronto Raptors,Denver Nuggets,6,10,16,1385920800.0,2014
+Toronto Raptors,Golden State Warriors,Toronto Raptors,6,11,17,1386127800.0,2014
+Toronto Raptors,Phoenix Suns,Toronto Raptors,6,12,18,1386381600.0,2014
+Toronto Raptors,Los Angeles Lakers,Toronto Raptors,7,12,19,1386556200.0,2014
+Toronto Raptors,Toronto Raptors,San Antonio Spurs,7,13,20,1386720000.0,2014
+Toronto Raptors,Toronto Raptors,Philadelphia 76ers,8,13,21,1386979200.0,2014
+Toronto Raptors,Chicago Bulls,Toronto Raptors,9,13,22,1387069200.0,2014
+Toronto Raptors,Toronto Raptors,Charlotte Bobcats,9,14,23,1387411200.0,2014
+Toronto Raptors,Dallas Mavericks,Toronto Raptors,10,14,24,1387589400.0,2014
+Toronto Raptors,Oklahoma City Thunder,Toronto Raptors,11,14,25,1387756800.0,2014
+Toronto Raptors,San Antonio Spurs,Toronto Raptors,11,15,26,1387848600.0,2014
+Toronto Raptors,New York Knicks,Toronto Raptors,12,15,27,1388190600.0,2014
+Toronto Raptors,Toronto Raptors,New York Knicks,13,15,28,1388275200.0,2014
+Toronto Raptors,Chicago Bulls,Toronto Raptors,14,15,29,1388538000.0,2014
+Toronto Raptors,Toronto Raptors,Indiana Pacers,15,15,30,1388620800.0,2014
+Toronto Raptors,Washington Wizards,Toronto Raptors,16,15,31,1388793600.0,2014
+Toronto Raptors,Miami Heat,Toronto Raptors,16,16,32,1388962800.0,2014
+Toronto Raptors,Indiana Pacers,Toronto Raptors,16,17,33,1389139200.0,2014
+Toronto Raptors,Toronto Raptors,Detroit Pistons,17,17,34,1389225600.0,2014
+Toronto Raptors,Toronto Raptors,Brooklyn Nets,18,17,35,1389484800.0,2014
+Toronto Raptors,Toronto Raptors,Milwaukee Bucks,19,17,36,1389657600.0,2014
+Toronto Raptors,Boston Celtics,Toronto Raptors,19,18,37,1389832200.0,2014
+Toronto Raptors,Toronto Raptors,Minnesota Timberwolves,20,18,38,1390003200.0,2014
+Toronto Raptors,Toronto Raptors,Los Angeles Lakers,20,19,39,1390154400.0,2014
+Toronto Raptors,Charlotte Bobcats,Toronto Raptors,20,20,40,1390244400.0,2014
+Toronto Raptors,Toronto Raptors,Dallas Mavericks,21,20,41,1390435200.0,2014
+Toronto Raptors,Philadelphia 76ers,Toronto Raptors,22,20,42,1390608000.0,2014
+Toronto Raptors,Toronto Raptors,Los Angeles Clippers,22,21,43,1390694400.0,2014
+Toronto Raptors,Brooklyn Nets,Toronto Raptors,23,21,44,1390869000.0,2014
+Toronto Raptors,Toronto Raptors,Orlando Magic,24,21,45,1391040000.0,2014
+Toronto Raptors,Denver Nuggets,Toronto Raptors,25,21,46,1391220000.0,2014
+Toronto Raptors,Portland Trail Blazers,Toronto Raptors,25,22,47,1391310000.0,2014
+Toronto Raptors,Utah Jazz,Toronto Raptors,26,22,48,1391479200.0,2014
+Toronto Raptors,Sacramento Kings,Toronto Raptors,26,23,49,1391655600.0,2014
+Toronto Raptors,Los Angeles Clippers,Toronto Raptors,26,24,50,1391830200.0,2014
+Toronto Raptors,Toronto Raptors,New Orleans Pelicans,27,24,51,1392076800.0,2014
+Toronto Raptors,Toronto Raptors,Atlanta Hawks,28,24,52,1392249600.0,2014
+Toronto Raptors,Washington Wizards,Toronto Raptors,29,24,53,1392768000.0,2014
+Toronto Raptors,Toronto Raptors,Chicago Bulls,29,25,54,1392854400.0,2014
+Toronto Raptors,Toronto Raptors,Cleveland Cavaliers,30,25,55,1393027200.0,2014
+Toronto Raptors,Toronto Raptors,Orlando Magic,31,25,56,1393196400.0,2014
+Toronto Raptors,Cleveland Cavaliers,Toronto Raptors,32,25,57,1393372800.0,2014
+Toronto Raptors,Toronto Raptors,Washington Wizards,32,26,58,1393545600.0,2014
+Toronto Raptors,Toronto Raptors,Golden State Warriors,33,26,59,1393794000.0,2014
+Toronto Raptors,Toronto Raptors,Sacramento Kings,34,26,60,1394236800.0,2014
+Toronto Raptors,Minnesota Timberwolves,Toronto Raptors,35,26,61,1394406000.0,2014
+Toronto Raptors,Brooklyn Nets,Toronto Raptors,35,27,62,1394494200.0,2014
+Toronto Raptors,Toronto Raptors,Detroit Pistons,36,27,63,1394665200.0,2014
+Toronto Raptors,Toronto Raptors,Memphis Grizzlies,37,27,64,1394838000.0,2014
+Toronto Raptors,Toronto Raptors,Phoenix Suns,37,28,65,1394989200.0,2014
+Toronto Raptors,Atlanta Hawks,Toronto Raptors,37,29,66,1395185400.0,2014
+Toronto Raptors,New Orleans Pelicans,Toronto Raptors,38,29,67,1395273600.0,2014
+Toronto Raptors,Toronto Raptors,Oklahoma City Thunder,38,30,68,1395442800.0,2014
+Toronto Raptors,Toronto Raptors,Atlanta Hawks,39,30,69,1395594000.0,2014
+Toronto Raptors,Cleveland Cavaliers,Toronto Raptors,39,31,70,1395788400.0,2014
+Toronto Raptors,Boston Celtics,Toronto Raptors,40,31,71,1395876600.0,2014
+Toronto Raptors,Toronto Raptors,Boston Celtics,41,31,72,1396047600.0,2014
+Toronto Raptors,Orlando Magic,Toronto Raptors,42,31,73,1396216800.0,2014
+Toronto Raptors,Miami Heat,Toronto Raptors,42,32,74,1396308600.0,2014
+Toronto Raptors,Toronto Raptors,Houston Rockets,43,32,75,1396479600.0,2014
+Toronto Raptors,Toronto Raptors,Indiana Pacers,44,32,76,1396652400.0,2014
+Toronto Raptors,Milwaukee Bucks,Toronto Raptors,45,32,77,1396744200.0,2014
+Toronto Raptors,Toronto Raptors,Philadelphia 76ers,46,32,78,1397084400.0,2014
+Toronto Raptors,Toronto Raptors,New York Knicks,46,33,79,1397257200.0,2014
+Toronto Raptors,Detroit Pistons,Toronto Raptors,47,33,80,1397417400.0,2014
+Toronto Raptors,Toronto Raptors,Milwaukee Bucks,48,33,81,1397516400.0,2014
+Toronto Raptors,New York Knicks,Toronto Raptors,48,34,82,1397692800.0,2014
+Utah Jazz,Utah Jazz,Oklahoma City Thunder,0,1,1,1383181200.0,2014
+Utah Jazz,Phoenix Suns,Utah Jazz,0,2,2,1383357600.0,2014
+Utah Jazz,Utah Jazz,Houston Rockets,0,3,3,1383440400.0,2014
+Utah Jazz,Brooklyn Nets,Utah Jazz,0,4,4,1383697800.0,2014
+Utah Jazz,Boston Celtics,Utah Jazz,0,5,5,1383784200.0,2014
+Utah Jazz,Chicago Bulls,Utah Jazz,0,6,6,1383958800.0,2014
+Utah Jazz,Toronto Raptors,Utah Jazz,0,7,7,1384041600.0,2014
+Utah Jazz,Utah Jazz,Denver Nuggets,0,8,8,1384221600.0,2014
+Utah Jazz,Utah Jazz,New Orleans Pelicans,1,8,9,1384394400.0,2014
+Utah Jazz,Utah Jazz,San Antonio Spurs,1,9,10,1384567200.0,2014
+Utah Jazz,Golden State Warriors,Utah Jazz,1,10,11,1384659000.0,2014
+Utah Jazz,Utah Jazz,Golden State Warriors,1,11,12,1384826400.0,2014
+Utah Jazz,New Orleans Pelicans,Utah Jazz,1,12,13,1384995600.0,2014
+Utah Jazz,Dallas Mavericks,Utah Jazz,1,13,14,1385170200.0,2014
+Utah Jazz,Oklahoma City Thunder,Utah Jazz,1,14,15,1385337600.0,2014
+Utah Jazz,Utah Jazz,Chicago Bulls,2,14,16,1385431200.0,2014
+Utah Jazz,Utah Jazz,Phoenix Suns,2,15,17,1385776800.0,2014
+Utah Jazz,Phoenix Suns,Utah Jazz,3,15,18,1385863200.0,2014
+Utah Jazz,Utah Jazz,Houston Rockets,4,15,19,1386036000.0,2014
+Utah Jazz,Utah Jazz,Indiana Pacers,4,16,20,1386208800.0,2014
+Utah Jazz,Portland Trail Blazers,Utah Jazz,4,17,21,1386385200.0,2014
+Utah Jazz,Utah Jazz,Sacramento Kings,4,18,22,1386468000.0,2014
+Utah Jazz,Utah Jazz,Portland Trail Blazers,4,19,23,1386640800.0,2014
+Utah Jazz,Sacramento Kings,Utah Jazz,5,19,24,1386817200.0,2014
+Utah Jazz,Denver Nuggets,Utah Jazz,6,19,25,1386986400.0,2014
+Utah Jazz,Utah Jazz,San Antonio Spurs,6,20,26,1387072800.0,2014
+Utah Jazz,Miami Heat,Utah Jazz,6,21,27,1387240200.0,2014
+Utah Jazz,Orlando Magic,Utah Jazz,7,21,28,1387411200.0,2014
+Utah Jazz,Atlanta Hawks,Utah Jazz,7,22,29,1387585800.0,2014
+Utah Jazz,Charlotte Bobcats,Utah Jazz,8,22,30,1387672200.0,2014
+Utah Jazz,Memphis Grizzlies,Utah Jazz,8,23,31,1387846800.0,2014
+Utah Jazz,Utah Jazz,Los Angeles Lakers,9,23,32,1388196000.0,2014
+Utah Jazz,Los Angeles Clippers,Utah Jazz,9,24,33,1388287800.0,2014
+Utah Jazz,Utah Jazz,Charlotte Bobcats,10,24,34,1388455200.0,2014
+Utah Jazz,Utah Jazz,Milwaukee Bucks,11,24,35,1388714400.0,2014
+Utah Jazz,Los Angeles Lakers,Utah Jazz,11,25,36,1388806200.0,2014
+Utah Jazz,Utah Jazz,Oklahoma City Thunder,12,25,37,1389146400.0,2014
+Utah Jazz,Utah Jazz,Cleveland Cavaliers,12,26,38,1389405600.0,2014
+Utah Jazz,Utah Jazz,Denver Nuggets,13,26,39,1389664800.0,2014
+Utah Jazz,San Antonio Spurs,Utah Jazz,13,27,40,1389834000.0,2014
+Utah Jazz,Detroit Pistons,Utah Jazz,14,27,41,1390005000.0,2014
+Utah Jazz,Minnesota Timberwolves,Utah Jazz,14,28,42,1390093200.0,2014
+Utah Jazz,Utah Jazz,Minnesota Timberwolves,14,29,43,1390356000.0,2014
+Utah Jazz,Utah Jazz,Washington Wizards,15,29,44,1390701600.0,2014
+Utah Jazz,Utah Jazz,Sacramento Kings,16,29,45,1390874400.0,2014
+Utah Jazz,Utah Jazz,Golden State Warriors,16,30,46,1391225400.0,2014
+Utah Jazz,Los Angeles Clippers,Utah Jazz,16,31,47,1391311800.0,2014
+Utah Jazz,Utah Jazz,Toronto Raptors,16,32,48,1391479200.0,2014
+Utah Jazz,Dallas Mavericks,Utah Jazz,16,33,49,1391823000.0,2014
+Utah Jazz,Utah Jazz,Miami Heat,17,33,50,1391911200.0,2014
+Utah Jazz,Los Angeles Lakers,Utah Jazz,18,33,51,1392175800.0,2014
+Utah Jazz,Utah Jazz,Philadelphia 76ers,19,33,52,1392256800.0,2014
+Utah Jazz,Utah Jazz,Brooklyn Nets,19,34,53,1392861600.0,2014
+Utah Jazz,Portland Trail Blazers,Utah Jazz,19,35,54,1393038000.0,2014
+Utah Jazz,Utah Jazz,Minnesota Timberwolves,19,36,55,1393120800.0,2014
+Utah Jazz,Utah Jazz,Boston Celtics,20,36,56,1393293600.0,2014
+Utah Jazz,Utah Jazz,Phoenix Suns,21,36,57,1393466400.0,2014
+Utah Jazz,Cleveland Cavaliers,Utah Jazz,21,37,58,1393633800.0,2014
+Utah Jazz,Indiana Pacers,Utah Jazz,21,38,59,1393801200.0,2014
+Utah Jazz,Milwaukee Bucks,Utah Jazz,21,39,60,1393894800.0,2014
+Utah Jazz,Washington Wizards,Utah Jazz,21,40,61,1394064000.0,2014
+Utah Jazz,New York Knicks,Utah Jazz,21,41,62,1394238600.0,2014
+Utah Jazz,Philadelphia 76ers,Utah Jazz,22,41,63,1394325000.0,2014
+Utah Jazz,Utah Jazz,Atlanta Hawks,22,42,64,1394499600.0,2014
+Utah Jazz,Utah Jazz,Dallas Mavericks,22,43,65,1394672400.0,2014
+Utah Jazz,Utah Jazz,Los Angeles Clippers,22,44,66,1394845200.0,2014
+Utah Jazz,San Antonio Spurs,Utah Jazz,22,45,67,1395010800.0,2014
+Utah Jazz,Houston Rockets,Utah Jazz,22,46,68,1395100800.0,2014
+Utah Jazz,Memphis Grizzlies,Utah Jazz,22,47,69,1395273600.0,2014
+Utah Jazz,Utah Jazz,Orlando Magic,23,47,70,1395536400.0,2014
+Utah Jazz,Utah Jazz,Detroit Pistons,23,48,71,1395709200.0,2014
+Utah Jazz,Utah Jazz,Memphis Grizzlies,23,49,72,1395887400.0,2014
+Utah Jazz,New Orleans Pelicans,Utah Jazz,23,50,73,1396051200.0,2014
+Utah Jazz,Oklahoma City Thunder,Utah Jazz,23,51,74,1396206000.0,2014
+Utah Jazz,Utah Jazz,New York Knicks,23,52,75,1396314000.0,2014
+Utah Jazz,Utah Jazz,New Orleans Pelicans,24,52,76,1396659600.0,2014
+Utah Jazz,Golden State Warriors,Utah Jazz,24,53,77,1396832400.0,2014
+Utah Jazz,Utah Jazz,Dallas Mavericks,24,54,78,1397005200.0,2014
+Utah Jazz,Utah Jazz,Portland Trail Blazers,24,55,79,1397264400.0,2014
+Utah Jazz,Denver Nuggets,Utah Jazz,24,56,80,1397350800.0,2014
+Utah Jazz,Utah Jazz,Los Angeles Lakers,24,57,81,1397523600.0,2014
+Utah Jazz,Minnesota Timberwolves,Utah Jazz,25,57,82,1397692800.0,2014
+Washington Wizards,Detroit Pistons,Washington Wizards,0,1,1,1383175800.0,2014
+Washington Wizards,Washington Wizards,Philadelphia 76ers,0,2,2,1383346800.0,2014
+Washington Wizards,Miami Heat,Washington Wizards,0,3,3,1383519600.0,2014
+Washington Wizards,Philadelphia 76ers,Washington Wizards,1,3,4,1383782400.0,2014
+Washington Wizards,Washington Wizards,Brooklyn Nets,2,3,5,1383955200.0,2014
+Washington Wizards,Oklahoma City Thunder,Washington Wizards,2,4,6,1384128000.0,2014
+Washington Wizards,Dallas Mavericks,Washington Wizards,2,5,7,1384306200.0,2014
+Washington Wizards,San Antonio Spurs,Washington Wizards,2,6,8,1384392600.0,2014
+Washington Wizards,Washington Wizards,Cleveland Cavaliers,2,7,9,1384646400.0,2014
+Washington Wizards,Washington Wizards,Minnesota Timberwolves,3,7,10,1384905600.0,2014
+Washington Wizards,Cleveland Cavaliers,Washington Wizards,4,7,11,1384992000.0,2014
+Washington Wizards,Toronto Raptors,Washington Wizards,4,8,12,1385164800.0,2014
+Washington Wizards,Washington Wizards,New York Knicks,5,8,13,1385251200.0,2014
+Washington Wizards,Washington Wizards,Los Angeles Lakers,6,8,14,1385510400.0,2014
+Washington Wizards,Milwaukee Bucks,Washington Wizards,7,8,15,1385600400.0,2014
+Washington Wizards,Indiana Pacers,Washington Wizards,7,9,16,1385773200.0,2014
+Washington Wizards,Washington Wizards,Atlanta Hawks,8,9,17,1385856000.0,2014
+Washington Wizards,Washington Wizards,Orlando Magic,9,9,18,1386028800.0,2014
+Washington Wizards,Washington Wizards,Milwaukee Bucks,9,10,19,1386374400.0,2014
+Washington Wizards,Washington Wizards,Denver Nuggets,9,11,20,1386633600.0,2014
+Washington Wizards,Atlanta Hawks,Washington Wizards,9,12,21,1386981000.0,2014
+Washington Wizards,Washington Wizards,Los Angeles Clippers,9,13,22,1387065600.0,2014
+Washington Wizards,New York Knicks,Washington Wizards,10,13,23,1387240200.0,2014
+Washington Wizards,Brooklyn Nets,Washington Wizards,11,13,24,1387413000.0,2014
+Washington Wizards,Boston Celtics,Washington Wizards,12,13,25,1387648800.0,2014
+Washington Wizards,Minnesota Timberwolves,Washington Wizards,12,14,26,1388192400.0,2014
+Washington Wizards,Washington Wizards,Detroit Pistons,13,14,27,1388275200.0,2014
+Washington Wizards,Detroit Pistons,Washington Wizards,14,14,28,1388449800.0,2014
+Washington Wizards,Washington Wizards,Dallas Mavericks,14,15,29,1388617200.0,2014
+Washington Wizards,Washington Wizards,Toronto Raptors,14,16,30,1388793600.0,2014
+Washington Wizards,Washington Wizards,Golden State Warriors,14,17,31,1388962800.0,2014
+Washington Wizards,Charlotte Bobcats,Washington Wizards,15,17,32,1389139200.0,2014
+Washington Wizards,New Orleans Pelicans,Washington Wizards,16,17,33,1389229200.0,2014
+Washington Wizards,Indiana Pacers,Washington Wizards,16,18,34,1389398400.0,2014
+Washington Wizards,Washington Wizards,Houston Rockets,16,19,35,1389484800.0,2014
+Washington Wizards,Chicago Bulls,Washington Wizards,17,19,36,1389661200.0,2014
+Washington Wizards,Washington Wizards,Miami Heat,18,19,37,1389830400.0,2014
+Washington Wizards,Washington Wizards,Chicago Bulls,19,19,38,1390003200.0,2014
+Washington Wizards,Washington Wizards,Detroit Pistons,19,20,39,1390089600.0,2014
+Washington Wizards,Washington Wizards,Philadelphia 76ers,20,20,40,1390244400.0,2014
+Washington Wizards,Washington Wizards,Boston Celtics,20,21,41,1390435200.0,2014
+Washington Wizards,Phoenix Suns,Washington Wizards,21,21,42,1390615200.0,2014
+Washington Wizards,Utah Jazz,Washington Wizards,21,22,43,1390701600.0,2014
+Washington Wizards,Golden State Warriors,Washington Wizards,22,22,44,1390966200.0,2014
+Washington Wizards,Los Angeles Clippers,Washington Wizards,22,23,45,1391052600.0,2014
+Washington Wizards,Washington Wizards,Oklahoma City Thunder,23,23,46,1391299200.0,2014
+Washington Wizards,Washington Wizards,Portland Trail Blazers,24,23,47,1391472000.0,2014
+Washington Wizards,Washington Wizards,San Antonio Spurs,24,24,48,1391644800.0,2014
+Washington Wizards,Washington Wizards,Cleveland Cavaliers,24,25,49,1391817600.0,2014
+Washington Wizards,Washington Wizards,Sacramento Kings,25,25,50,1391986800.0,2014
+Washington Wizards,Memphis Grizzlies,Washington Wizards,25,26,51,1392166800.0,2014
+Washington Wizards,Houston Rockets,Washington Wizards,25,27,52,1392253200.0,2014
+Washington Wizards,Washington Wizards,Toronto Raptors,25,28,53,1392768000.0,2014
+Washington Wizards,Atlanta Hawks,Washington Wizards,26,28,54,1392856200.0,2014
+Washington Wizards,Washington Wizards,New Orleans Pelicans,27,28,55,1393113600.0,2014
+Washington Wizards,Cleveland Cavaliers,Washington Wizards,28,28,56,1393196400.0,2014
+Washington Wizards,Washington Wizards,Orlando Magic,29,28,57,1393372800.0,2014
+Washington Wizards,Toronto Raptors,Washington Wizards,30,28,58,1393545600.0,2014
+Washington Wizards,Philadelphia 76ers,Washington Wizards,31,28,59,1393720200.0,2014
+Washington Wizards,Washington Wizards,Memphis Grizzlies,31,29,60,1393891200.0,2014
+Washington Wizards,Washington Wizards,Utah Jazz,32,29,61,1394064000.0,2014
+Washington Wizards,Milwaukee Bucks,Washington Wizards,33,29,62,1394330400.0,2014
+Washington Wizards,Miami Heat,Washington Wizards,33,30,63,1394494200.0,2014
+Washington Wizards,Washington Wizards,Charlotte Bobcats,33,31,64,1394665200.0,2014
+Washington Wizards,Orlando Magic,Washington Wizards,34,31,65,1394838000.0,2014
+Washington Wizards,Washington Wizards,Brooklyn Nets,35,31,66,1394924400.0,2014
+Washington Wizards,Sacramento Kings,Washington Wizards,35,32,67,1395194400.0,2014
+Washington Wizards,Portland Trail Blazers,Washington Wizards,35,33,68,1395367200.0,2014
+Washington Wizards,Los Angeles Lakers,Washington Wizards,36,33,69,1395455400.0,2014
+Washington Wizards,Denver Nuggets,Washington Wizards,36,34,70,1395608400.0,2014
+Washington Wizards,Washington Wizards,Phoenix Suns,36,35,71,1395874800.0,2014
+Washington Wizards,Washington Wizards,Indiana Pacers,37,35,72,1396047600.0,2014
+Washington Wizards,Washington Wizards,Atlanta Hawks,38,35,73,1396137600.0,2014
+Washington Wizards,Charlotte Bobcats,Washington Wizards,38,36,74,1396306800.0,2014
+Washington Wizards,Washington Wizards,Boston Celtics,39,36,75,1396479600.0,2014
+Washington Wizards,New York Knicks,Washington Wizards,40,36,76,1396654200.0,2014
+Washington Wizards,Washington Wizards,Chicago Bulls,40,37,77,1396738800.0,2014
+Washington Wizards,Washington Wizards,Charlotte Bobcats,40,38,78,1397084400.0,2014
+Washington Wizards,Orlando Magic,Washington Wizards,41,38,79,1397257200.0,2014
+Washington Wizards,Washington Wizards,Milwaukee Bucks,42,38,80,1397343600.0,2014
+Washington Wizards,Washington Wizards,Miami Heat,43,38,81,1397516400.0,2014
+Washington Wizards,Boston Celtics,Washington Wizards,44,38,82,1397692800.0,2014

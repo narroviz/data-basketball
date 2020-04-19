@@ -1,0 +1,409 @@
+id,home_team,away_team,win,loss,game_number,date,year
+Atlanta Dream,Atlanta Dream,New York Liberty,0,1,1,1307246400.0,2011
+Atlanta Dream,Atlanta Dream,Washington Mystics,0,2,2,1307592000.0,2011
+Atlanta Dream,San Antonio Silver Stars,Atlanta Dream,0,3,3,1307764800.0,2011
+Atlanta Dream,New York Liberty,Atlanta Dream,1,3,4,1308024000.0,2011
+Atlanta Dream,Minnesota Lynx,Atlanta Dream,1,4,5,1308283200.0,2011
+Atlanta Dream,Atlanta Dream,Minnesota Lynx,1,5,6,1308456000.0,2011
+Atlanta Dream,Atlanta Dream,Chicago Sky,2,5,7,1308628800.0,2011
+Atlanta Dream,Atlanta Dream,Phoenix Mercury,2,6,8,1308888000.0,2011
+Atlanta Dream,Atlanta Dream,San Antonio Silver Stars,2,7,9,1309060800.0,2011
+Atlanta Dream,Atlanta Dream,New York Liberty,3,7,10,1309406400.0,2011
+Atlanta Dream,Chicago Sky,Atlanta Dream,3,8,11,1310184000.0,2011
+Atlanta Dream,New York Liberty,Atlanta Dream,3,9,12,1310529600.0,2011
+Atlanta Dream,Atlanta Dream,Chicago Sky,4,9,13,1310788800.0,2011
+Atlanta Dream,Atlanta Dream,Indiana Fever,5,9,14,1311048000.0,2011
+Atlanta Dream,Washington Mystics,Atlanta Dream,6,9,15,1311134400.0,2011
+Atlanta Dream,Tulsa Shock,Atlanta Dream,7,9,16,1311652800.0,2011
+Atlanta Dream,Atlanta Dream,Los Angeles Sparks,8,9,17,1311825600.0,2011
+Atlanta Dream,Connecticut Sun,Atlanta Dream,8,10,18,1312084800.0,2011
+Atlanta Dream,Atlanta Dream,New York Liberty,8,11,19,1312257600.0,2011
+Atlanta Dream,Atlanta Dream,Seattle Storm,9,11,20,1312689600.0,2011
+Atlanta Dream,Washington Mystics,Atlanta Dream,10,11,21,1312862400.0,2011
+Atlanta Dream,Phoenix Mercury,Atlanta Dream,10,12,22,1313035200.0,2011
+Atlanta Dream,Seattle Storm,Atlanta Dream,11,12,23,1313208000.0,2011
+Atlanta Dream,Los Angeles Sparks,Atlanta Dream,12,12,24,1313467200.0,2011
+Atlanta Dream,Atlanta Dream,Connecticut Sun,13,12,25,1313726400.0,2011
+Atlanta Dream,Connecticut Sun,Atlanta Dream,13,13,26,1313899200.0,2011
+Atlanta Dream,Chicago Sky,Atlanta Dream,14,13,27,1314072000.0,2011
+Atlanta Dream,Indiana Fever,Atlanta Dream,15,13,28,1314417600.0,2011
+Atlanta Dream,Atlanta Dream,Indiana Fever,16,13,29,1314676800.0,2011
+Atlanta Dream,Washington Mystics,Atlanta Dream,16,14,30,1314849600.0,2011
+Atlanta Dream,Atlanta Dream,Washington Mystics,17,14,31,1314936000.0,2011
+Atlanta Dream,Atlanta Dream,Tulsa Shock,18,14,32,1315108800.0,2011
+Atlanta Dream,Atlanta Dream,Connecticut Sun,19,14,33,1315281600.0,2011
+Atlanta Dream,Indiana Fever,Atlanta Dream,20,14,34,1315713600.0,2011
+Chicago Sky,Indiana Fever,Chicago Sky,0,1,1,1307160000.0,2011
+Chicago Sky,Chicago Sky,Connecticut Sun,1,1,2,1307678400.0,2011
+Chicago Sky,Washington Mystics,Chicago Sky,2,1,3,1307764800.0,2011
+Chicago Sky,Chicago Sky,New York Liberty,3,1,4,1308283200.0,2011
+Chicago Sky,Connecticut Sun,Chicago Sky,3,2,5,1308456000.0,2011
+Chicago Sky,Atlanta Dream,Chicago Sky,3,3,6,1308628800.0,2011
+Chicago Sky,Chicago Sky,Connecticut Sun,4,3,7,1308801600.0,2011
+Chicago Sky,Chicago Sky,Phoenix Mercury,4,4,8,1308974400.0,2011
+Chicago Sky,Chicago Sky,San Antonio Silver Stars,4,5,9,1309233600.0,2011
+Chicago Sky,Phoenix Mercury,Chicago Sky,4,6,10,1309492800.0,2011
+Chicago Sky,Chicago Sky,Washington Mystics,5,6,11,1309838400.0,2011
+Chicago Sky,Chicago Sky,Atlanta Dream,6,6,12,1310184000.0,2011
+Chicago Sky,New York Liberty,Chicago Sky,6,7,13,1310270400.0,2011
+Chicago Sky,Chicago Sky,Tulsa Shock,7,7,14,1310529600.0,2011
+Chicago Sky,Atlanta Dream,Chicago Sky,7,8,15,1310788800.0,2011
+Chicago Sky,Chicago Sky,Seattle Storm,8,8,16,1311048000.0,2011
+Chicago Sky,Indiana Fever,Chicago Sky,8,9,17,1311220800.0,2011
+Chicago Sky,Chicago Sky,Connecticut Sun,8,10,18,1311652800.0,2011
+Chicago Sky,Tulsa Shock,Chicago Sky,9,10,19,1311825600.0,2011
+Chicago Sky,Chicago Sky,Los Angeles Sparks,9,11,20,1311998400.0,2011
+Chicago Sky,New York Liberty,Chicago Sky,9,12,21,1312430400.0,2011
+Chicago Sky,Chicago Sky,Indiana Fever,10,12,22,1312689600.0,2011
+Chicago Sky,Connecticut Sun,Chicago Sky,10,13,23,1312862400.0,2011
+Chicago Sky,Chicago Sky,Minnesota Lynx,10,14,24,1313121600.0,2011
+Chicago Sky,San Antonio Silver Stars,Chicago Sky,11,14,25,1313294400.0,2011
+Chicago Sky,Washington Mystics,Chicago Sky,12,14,26,1313812800.0,2011
+Chicago Sky,Chicago Sky,Atlanta Dream,12,15,27,1314072000.0,2011
+Chicago Sky,Chicago Sky,Washington Mystics,13,15,28,1314331200.0,2011
+Chicago Sky,Chicago Sky,New York Liberty,14,15,29,1314504000.0,2011
+Chicago Sky,New York Liberty,Chicago Sky,14,16,30,1314676800.0,2011
+Chicago Sky,Chicago Sky,Indiana Fever,14,17,31,1315108800.0,2011
+Chicago Sky,Minnesota Lynx,Chicago Sky,14,18,32,1315454400.0,2011
+Chicago Sky,Los Angeles Sparks,Chicago Sky,14,19,33,1315627200.0,2011
+Chicago Sky,Seattle Storm,Chicago Sky,14,20,34,1315713600.0,2011
+Connecticut Sun,Connecticut Sun,Washington Mystics,1,0,1,1307160000.0,2011
+Connecticut Sun,Chicago Sky,Connecticut Sun,1,1,2,1307678400.0,2011
+Connecticut Sun,Connecticut Sun,Tulsa Shock,2,1,3,1307851200.0,2011
+Connecticut Sun,Washington Mystics,Connecticut Sun,3,1,4,1308196800.0,2011
+Connecticut Sun,Connecticut Sun,Chicago Sky,4,1,5,1308456000.0,2011
+Connecticut Sun,Chicago Sky,Connecticut Sun,4,2,6,1308801600.0,2011
+Connecticut Sun,Indiana Fever,Connecticut Sun,4,3,7,1308974400.0,2011
+Connecticut Sun,Connecticut Sun,Los Angeles Sparks,5,3,8,1309233600.0,2011
+Connecticut Sun,Connecticut Sun,Seattle Storm,6,3,9,1309492800.0,2011
+Connecticut Sun,Minnesota Lynx,Connecticut Sun,6,4,10,1310184000.0,2011
+Connecticut Sun,Indiana Fever,Connecticut Sun,6,5,11,1310529600.0,2011
+Connecticut Sun,New York Liberty,Connecticut Sun,7,5,12,1310702400.0,2011
+Connecticut Sun,Connecticut Sun,Indiana Fever,8,5,13,1310875200.0,2011
+Connecticut Sun,Connecticut Sun,New York Liberty,9,5,14,1311048000.0,2011
+Connecticut Sun,Chicago Sky,Connecticut Sun,10,5,15,1311652800.0,2011
+Connecticut Sun,Connecticut Sun,Indiana Fever,10,6,16,1311825600.0,2011
+Connecticut Sun,Connecticut Sun,Atlanta Dream,11,6,17,1312084800.0,2011
+Connecticut Sun,Los Angeles Sparks,Connecticut Sun,12,6,18,1312344000.0,2011
+Connecticut Sun,Seattle Storm,Connecticut Sun,12,7,19,1312516800.0,2011
+Connecticut Sun,Phoenix Mercury,Connecticut Sun,13,7,20,1312689600.0,2011
+Connecticut Sun,Connecticut Sun,Chicago Sky,14,7,21,1312862400.0,2011
+Connecticut Sun,Connecticut Sun,San Antonio Silver Stars,14,8,22,1313035200.0,2011
+Connecticut Sun,Connecticut Sun,Washington Mystics,15,8,23,1313208000.0,2011
+Connecticut Sun,Connecticut Sun,Minnesota Lynx,16,8,24,1313467200.0,2011
+Connecticut Sun,New York Liberty,Connecticut Sun,16,9,25,1313640000.0,2011
+Connecticut Sun,Atlanta Dream,Connecticut Sun,16,10,26,1313726400.0,2011
+Connecticut Sun,Connecticut Sun,Atlanta Dream,17,10,27,1313899200.0,2011
+Connecticut Sun,Connecticut Sun,Phoenix Mercury,18,10,28,1314331200.0,2011
+Connecticut Sun,Tulsa Shock,Connecticut Sun,18,11,29,1314504000.0,2011
+Connecticut Sun,San Antonio Silver Stars,Connecticut Sun,18,12,30,1314676800.0,2011
+Connecticut Sun,Connecticut Sun,Indiana Fever,19,12,31,1314936000.0,2011
+Connecticut Sun,Washington Mystics,Connecticut Sun,20,12,32,1315108800.0,2011
+Connecticut Sun,Atlanta Dream,Connecticut Sun,20,13,33,1315281600.0,2011
+Connecticut Sun,Connecticut Sun,New York Liberty,21,13,34,1315713600.0,2011
+Indiana Fever,Indiana Fever,Chicago Sky,1,0,1,1307160000.0,2011
+Indiana Fever,Indiana Fever,New York Liberty,1,1,2,1307678400.0,2011
+Indiana Fever,New York Liberty,Indiana Fever,2,1,3,1307764800.0,2011
+Indiana Fever,Indiana Fever,Tulsa Shock,3,1,4,1308024000.0,2011
+Indiana Fever,Seattle Storm,Indiana Fever,3,2,5,1308283200.0,2011
+Indiana Fever,Phoenix Mercury,Indiana Fever,3,3,6,1308456000.0,2011
+Indiana Fever,Washington Mystics,Indiana Fever,4,3,7,1308628800.0,2011
+Indiana Fever,Indiana Fever,Connecticut Sun,5,3,8,1308974400.0,2011
+Indiana Fever,Minnesota Lynx,Indiana Fever,6,3,9,1309060800.0,2011
+Indiana Fever,Indiana Fever,Phoenix Mercury,7,3,10,1309233600.0,2011
+Indiana Fever,Indiana Fever,Seattle Storm,8,3,11,1309838400.0,2011
+Indiana Fever,Indiana Fever,Washington Mystics,9,3,12,1310184000.0,2011
+Indiana Fever,Indiana Fever,Connecticut Sun,10,3,13,1310529600.0,2011
+Indiana Fever,Indiana Fever,Minnesota Lynx,10,4,14,1310702400.0,2011
+Indiana Fever,Connecticut Sun,Indiana Fever,10,5,15,1310875200.0,2011
+Indiana Fever,Atlanta Dream,Indiana Fever,10,6,16,1311048000.0,2011
+Indiana Fever,Indiana Fever,Chicago Sky,11,6,17,1311220800.0,2011
+Indiana Fever,Connecticut Sun,Indiana Fever,12,6,18,1311825600.0,2011
+Indiana Fever,Washington Mystics,Indiana Fever,13,6,19,1311912000.0,2011
+Indiana Fever,Indiana Fever,Los Angeles Sparks,14,6,20,1312084800.0,2011
+Indiana Fever,Tulsa Shock,Indiana Fever,15,6,21,1312516800.0,2011
+Indiana Fever,Chicago Sky,Indiana Fever,15,7,22,1312689600.0,2011
+Indiana Fever,Indiana Fever,San Antonio Silver Stars,16,7,23,1312862400.0,2011
+Indiana Fever,Indiana Fever,New York Liberty,17,7,24,1313208000.0,2011
+Indiana Fever,San Antonio Silver Stars,Indiana Fever,18,7,25,1313467200.0,2011
+Indiana Fever,Los Angeles Sparks,Indiana Fever,18,8,26,1313640000.0,2011
+Indiana Fever,Indiana Fever,Washington Mystics,19,8,27,1313899200.0,2011
+Indiana Fever,Indiana Fever,Atlanta Dream,19,9,28,1314417600.0,2011
+Indiana Fever,Atlanta Dream,Indiana Fever,19,10,29,1314676800.0,2011
+Indiana Fever,Connecticut Sun,Indiana Fever,19,11,30,1314936000.0,2011
+Indiana Fever,Chicago Sky,Indiana Fever,20,11,31,1315108800.0,2011
+Indiana Fever,Indiana Fever,Washington Mystics,21,11,32,1315368000.0,2011
+Indiana Fever,New York Liberty,Indiana Fever,21,12,33,1315540800.0,2011
+Indiana Fever,Indiana Fever,Atlanta Dream,21,13,34,1315713600.0,2011
+Los Angeles Sparks,Los Angeles Sparks,Minnesota Lynx,1,0,1,1307073600.0,2011
+Los Angeles Sparks,Minnesota Lynx,Los Angeles Sparks,1,1,2,1307246400.0,2011
+Los Angeles Sparks,Los Angeles Sparks,Phoenix Mercury,2,1,3,1307678400.0,2011
+Los Angeles Sparks,Los Angeles Sparks,Seattle Storm,3,1,4,1308456000.0,2011
+Los Angeles Sparks,Los Angeles Sparks,New York Liberty,4,1,5,1308628800.0,2011
+Los Angeles Sparks,San Antonio Silver Stars,Los Angeles Sparks,4,2,6,1308888000.0,2011
+Los Angeles Sparks,New York Liberty,Los Angeles Sparks,4,3,7,1309060800.0,2011
+Los Angeles Sparks,Connecticut Sun,Los Angeles Sparks,4,4,8,1309233600.0,2011
+Los Angeles Sparks,Phoenix Mercury,Los Angeles Sparks,4,5,9,1309838400.0,2011
+Los Angeles Sparks,Seattle Storm,Los Angeles Sparks,4,6,10,1310184000.0,2011
+Los Angeles Sparks,San Antonio Silver Stars,Los Angeles Sparks,5,6,11,1310443200.0,2011
+Los Angeles Sparks,Tulsa Shock,Los Angeles Sparks,6,6,12,1310702400.0,2011
+Los Angeles Sparks,Los Angeles Sparks,Washington Mystics,6,7,13,1310875200.0,2011
+Los Angeles Sparks,Los Angeles Sparks,San Antonio Silver Stars,6,8,14,1310961600.0,2011
+Los Angeles Sparks,Minnesota Lynx,Los Angeles Sparks,6,9,15,1311652800.0,2011
+Los Angeles Sparks,Atlanta Dream,Los Angeles Sparks,6,10,16,1311825600.0,2011
+Los Angeles Sparks,Chicago Sky,Los Angeles Sparks,7,10,17,1311998400.0,2011
+Los Angeles Sparks,Indiana Fever,Los Angeles Sparks,7,11,18,1312084800.0,2011
+Los Angeles Sparks,Los Angeles Sparks,Connecticut Sun,7,12,19,1312344000.0,2011
+Los Angeles Sparks,Los Angeles Sparks,Minnesota Lynx,7,13,20,1312689600.0,2011
+Los Angeles Sparks,Los Angeles Sparks,Tulsa Shock,8,13,21,1312862400.0,2011
+Los Angeles Sparks,Los Angeles Sparks,Phoenix Mercury,9,13,22,1313121600.0,2011
+Los Angeles Sparks,Los Angeles Sparks,Atlanta Dream,9,14,23,1313467200.0,2011
+Los Angeles Sparks,Los Angeles Sparks,Indiana Fever,10,14,24,1313640000.0,2011
+Los Angeles Sparks,Minnesota Lynx,Los Angeles Sparks,10,15,25,1313812800.0,2011
+Los Angeles Sparks,Tulsa Shock,Los Angeles Sparks,11,15,26,1313899200.0,2011
+Los Angeles Sparks,Washington Mystics,Los Angeles Sparks,12,15,27,1314072000.0,2011
+Los Angeles Sparks,Los Angeles Sparks,Tulsa Shock,12,16,28,1314331200.0,2011
+Los Angeles Sparks,Seattle Storm,Los Angeles Sparks,12,17,29,1314504000.0,2011
+Los Angeles Sparks,Los Angeles Sparks,Seattle Storm,13,17,30,1314676800.0,2011
+Los Angeles Sparks,Phoenix Mercury,Los Angeles Sparks,13,18,31,1315022400.0,2011
+Los Angeles Sparks,Los Angeles Sparks,San Antonio Silver Stars,13,19,32,1315281600.0,2011
+Los Angeles Sparks,Los Angeles Sparks,Tulsa Shock,14,19,33,1315540800.0,2011
+Los Angeles Sparks,Los Angeles Sparks,Chicago Sky,15,19,34,1315627200.0,2011
+Minnesota Lynx,Los Angeles Sparks,Minnesota Lynx,0,1,1,1307073600.0,2011
+Minnesota Lynx,Minnesota Lynx,Los Angeles Sparks,1,1,2,1307246400.0,2011
+Minnesota Lynx,Minnesota Lynx,Tulsa Shock,2,1,3,1307419200.0,2011
+Minnesota Lynx,Seattle Storm,Minnesota Lynx,3,1,4,1307592000.0,2011
+Minnesota Lynx,Minnesota Lynx,Atlanta Dream,4,1,5,1308283200.0,2011
+Minnesota Lynx,Atlanta Dream,Minnesota Lynx,5,1,6,1308456000.0,2011
+Minnesota Lynx,Seattle Storm,Minnesota Lynx,5,2,7,1308888000.0,2011
+Minnesota Lynx,Minnesota Lynx,Indiana Fever,5,3,8,1309060800.0,2011
+Minnesota Lynx,Tulsa Shock,Minnesota Lynx,6,3,9,1309406400.0,2011
+Minnesota Lynx,Minnesota Lynx,Connecticut Sun,7,3,10,1310184000.0,2011
+Minnesota Lynx,Minnesota Lynx,Phoenix Mercury,7,4,11,1310529600.0,2011
+Minnesota Lynx,Indiana Fever,Minnesota Lynx,8,4,12,1310702400.0,2011
+Minnesota Lynx,Minnesota Lynx,Seattle Storm,9,4,13,1310788800.0,2011
+Minnesota Lynx,Phoenix Mercury,Minnesota Lynx,10,4,14,1311134400.0,2011
+Minnesota Lynx,Minnesota Lynx,Los Angeles Sparks,11,4,15,1311652800.0,2011
+Minnesota Lynx,Minnesota Lynx,Seattle Storm,12,4,16,1311912000.0,2011
+Minnesota Lynx,San Antonio Silver Stars,Minnesota Lynx,13,4,17,1312084800.0,2011
+Minnesota Lynx,Minnesota Lynx,Phoenix Mercury,14,4,18,1312257600.0,2011
+Minnesota Lynx,Minnesota Lynx,San Antonio Silver Stars,15,4,19,1312430400.0,2011
+Minnesota Lynx,Los Angeles Sparks,Minnesota Lynx,16,4,20,1312689600.0,2011
+Minnesota Lynx,Phoenix Mercury,Minnesota Lynx,16,5,21,1312862400.0,2011
+Minnesota Lynx,Chicago Sky,Minnesota Lynx,17,5,22,1313121600.0,2011
+Minnesota Lynx,Minnesota Lynx,Tulsa Shock,18,5,23,1313294400.0,2011
+Minnesota Lynx,Connecticut Sun,Minnesota Lynx,18,6,24,1313467200.0,2011
+Minnesota Lynx,Washington Mystics,Minnesota Lynx,19,6,25,1313640000.0,2011
+Minnesota Lynx,Minnesota Lynx,Los Angeles Sparks,20,6,26,1313812800.0,2011
+Minnesota Lynx,Tulsa Shock,Minnesota Lynx,21,6,27,1314072000.0,2011
+Minnesota Lynx,Minnesota Lynx,San Antonio Silver Stars,22,6,28,1314331200.0,2011
+Minnesota Lynx,San Antonio Silver Stars,Minnesota Lynx,23,6,29,1314504000.0,2011
+Minnesota Lynx,Minnesota Lynx,Washington Mystics,24,6,30,1314676800.0,2011
+Minnesota Lynx,Minnesota Lynx,New York Liberty,24,7,31,1314936000.0,2011
+Minnesota Lynx,New York Liberty,Minnesota Lynx,25,7,32,1315108800.0,2011
+Minnesota Lynx,Minnesota Lynx,Chicago Sky,26,7,33,1315454400.0,2011
+Minnesota Lynx,Phoenix Mercury,Minnesota Lynx,27,7,34,1315713600.0,2011
+New York Liberty,Atlanta Dream,New York Liberty,1,0,1,1307246400.0,2011
+New York Liberty,Indiana Fever,New York Liberty,2,0,2,1307678400.0,2011
+New York Liberty,New York Liberty,Indiana Fever,2,1,3,1307764800.0,2011
+New York Liberty,New York Liberty,Atlanta Dream,2,2,4,1308024000.0,2011
+New York Liberty,Chicago Sky,New York Liberty,2,3,5,1308283200.0,2011
+New York Liberty,Los Angeles Sparks,New York Liberty,2,4,6,1308628800.0,2011
+New York Liberty,Tulsa Shock,New York Liberty,3,4,7,1308801600.0,2011
+New York Liberty,New York Liberty,Los Angeles Sparks,4,4,8,1309060800.0,2011
+New York Liberty,Atlanta Dream,New York Liberty,4,5,9,1309406400.0,2011
+New York Liberty,New York Liberty,San Antonio Silver Stars,5,5,10,1309492800.0,2011
+New York Liberty,San Antonio Silver Stars,New York Liberty,6,5,11,1310097600.0,2011
+New York Liberty,New York Liberty,Chicago Sky,7,5,12,1310270400.0,2011
+New York Liberty,New York Liberty,Atlanta Dream,8,5,13,1310529600.0,2011
+New York Liberty,New York Liberty,Connecticut Sun,8,6,14,1310702400.0,2011
+New York Liberty,New York Liberty,Tulsa Shock,9,6,15,1310875200.0,2011
+New York Liberty,Connecticut Sun,New York Liberty,9,7,16,1311048000.0,2011
+New York Liberty,New York Liberty,Washington Mystics,10,7,17,1311825600.0,2011
+New York Liberty,New York Liberty,Phoenix Mercury,10,8,18,1311998400.0,2011
+New York Liberty,Atlanta Dream,New York Liberty,11,8,19,1312257600.0,2011
+New York Liberty,New York Liberty,Chicago Sky,12,8,20,1312430400.0,2011
+New York Liberty,Washington Mystics,New York Liberty,12,9,21,1312603200.0,2011
+New York Liberty,New York Liberty,Seattle Storm,13,9,22,1312862400.0,2011
+New York Liberty,Washington Mystics,New York Liberty,13,10,23,1313121600.0,2011
+New York Liberty,Indiana Fever,New York Liberty,13,11,24,1313208000.0,2011
+New York Liberty,New York Liberty,Washington Mystics,14,11,25,1313467200.0,2011
+New York Liberty,New York Liberty,Connecticut Sun,15,11,26,1313640000.0,2011
+New York Liberty,Seattle Storm,New York Liberty,15,12,27,1313812800.0,2011
+New York Liberty,Phoenix Mercury,New York Liberty,16,12,28,1314072000.0,2011
+New York Liberty,Chicago Sky,New York Liberty,16,13,29,1314504000.0,2011
+New York Liberty,New York Liberty,Chicago Sky,17,13,30,1314676800.0,2011
+New York Liberty,Minnesota Lynx,New York Liberty,18,13,31,1314936000.0,2011
+New York Liberty,New York Liberty,Minnesota Lynx,18,14,32,1315108800.0,2011
+New York Liberty,New York Liberty,Indiana Fever,19,14,33,1315540800.0,2011
+New York Liberty,Connecticut Sun,New York Liberty,19,15,34,1315713600.0,2011
+Phoenix Mercury,Seattle Storm,Phoenix Mercury,0,1,1,1307160000.0,2011
+Phoenix Mercury,Los Angeles Sparks,Phoenix Mercury,0,2,2,1307678400.0,2011
+Phoenix Mercury,Phoenix Mercury,San Antonio Silver Stars,0,3,3,1308283200.0,2011
+Phoenix Mercury,Phoenix Mercury,Indiana Fever,1,3,4,1308456000.0,2011
+Phoenix Mercury,San Antonio Silver Stars,Phoenix Mercury,2,3,5,1308628800.0,2011
+Phoenix Mercury,Atlanta Dream,Phoenix Mercury,3,3,6,1308888000.0,2011
+Phoenix Mercury,Chicago Sky,Phoenix Mercury,4,3,7,1308974400.0,2011
+Phoenix Mercury,Indiana Fever,Phoenix Mercury,4,4,8,1309233600.0,2011
+Phoenix Mercury,Phoenix Mercury,Chicago Sky,5,4,9,1309492800.0,2011
+Phoenix Mercury,Phoenix Mercury,Los Angeles Sparks,6,4,10,1309838400.0,2011
+Phoenix Mercury,Tulsa Shock,Phoenix Mercury,7,4,11,1310097600.0,2011
+Phoenix Mercury,Phoenix Mercury,Tulsa Shock,8,4,12,1310270400.0,2011
+Phoenix Mercury,Minnesota Lynx,Phoenix Mercury,9,4,13,1310529600.0,2011
+Phoenix Mercury,Phoenix Mercury,Washington Mystics,10,4,14,1310702400.0,2011
+Phoenix Mercury,Phoenix Mercury,Minnesota Lynx,10,5,15,1311134400.0,2011
+Phoenix Mercury,Phoenix Mercury,Seattle Storm,10,6,16,1311652800.0,2011
+Phoenix Mercury,San Antonio Silver Stars,Phoenix Mercury,10,7,17,1311825600.0,2011
+Phoenix Mercury,New York Liberty,Phoenix Mercury,11,7,18,1311998400.0,2011
+Phoenix Mercury,Minnesota Lynx,Phoenix Mercury,11,8,19,1312257600.0,2011
+Phoenix Mercury,Phoenix Mercury,Connecticut Sun,11,9,20,1312689600.0,2011
+Phoenix Mercury,Phoenix Mercury,Minnesota Lynx,12,9,21,1312862400.0,2011
+Phoenix Mercury,Phoenix Mercury,Atlanta Dream,13,9,22,1313035200.0,2011
+Phoenix Mercury,Los Angeles Sparks,Phoenix Mercury,13,10,23,1313121600.0,2011
+Phoenix Mercury,Phoenix Mercury,Seattle Storm,14,10,24,1313467200.0,2011
+Phoenix Mercury,Phoenix Mercury,San Antonio Silver Stars,15,10,25,1313812800.0,2011
+Phoenix Mercury,Phoenix Mercury,New York Liberty,15,11,26,1314072000.0,2011
+Phoenix Mercury,Connecticut Sun,Phoenix Mercury,15,12,27,1314331200.0,2011
+Phoenix Mercury,Washington Mystics,Phoenix Mercury,16,12,28,1314504000.0,2011
+Phoenix Mercury,Tulsa Shock,Phoenix Mercury,17,12,29,1314676800.0,2011
+Phoenix Mercury,San Antonio Silver Stars,Phoenix Mercury,17,13,30,1314849600.0,2011
+Phoenix Mercury,Phoenix Mercury,Los Angeles Sparks,18,13,31,1315022400.0,2011
+Phoenix Mercury,Phoenix Mercury,Tulsa Shock,19,13,32,1315454400.0,2011
+Phoenix Mercury,Seattle Storm,Phoenix Mercury,19,14,33,1315540800.0,2011
+Phoenix Mercury,Phoenix Mercury,Minnesota Lynx,19,15,34,1315713600.0,2011
+San Antonio Silver Stars,San Antonio Silver Stars,Tulsa Shock,1,0,1,1307160000.0,2011
+San Antonio Silver Stars,Tulsa Shock,San Antonio Silver Stars,2,0,2,1307678400.0,2011
+San Antonio Silver Stars,San Antonio Silver Stars,Atlanta Dream,3,0,3,1307764800.0,2011
+San Antonio Silver Stars,Phoenix Mercury,San Antonio Silver Stars,4,0,4,1308283200.0,2011
+San Antonio Silver Stars,San Antonio Silver Stars,Phoenix Mercury,4,1,5,1308628800.0,2011
+San Antonio Silver Stars,San Antonio Silver Stars,Los Angeles Sparks,5,1,6,1308888000.0,2011
+San Antonio Silver Stars,Atlanta Dream,San Antonio Silver Stars,6,1,7,1309060800.0,2011
+San Antonio Silver Stars,Chicago Sky,San Antonio Silver Stars,7,1,8,1309233600.0,2011
+San Antonio Silver Stars,New York Liberty,San Antonio Silver Stars,7,2,9,1309492800.0,2011
+San Antonio Silver Stars,San Antonio Silver Stars,New York Liberty,7,3,10,1310097600.0,2011
+San Antonio Silver Stars,San Antonio Silver Stars,Los Angeles Sparks,7,4,11,1310443200.0,2011
+San Antonio Silver Stars,San Antonio Silver Stars,Seattle Storm,8,4,12,1310616000.0,2011
+San Antonio Silver Stars,Los Angeles Sparks,San Antonio Silver Stars,9,4,13,1310961600.0,2011
+San Antonio Silver Stars,Seattle Storm,San Antonio Silver Stars,9,5,14,1311220800.0,2011
+San Antonio Silver Stars,Washington Mystics,San Antonio Silver Stars,10,5,15,1311652800.0,2011
+San Antonio Silver Stars,San Antonio Silver Stars,Phoenix Mercury,11,5,16,1311825600.0,2011
+San Antonio Silver Stars,San Antonio Silver Stars,Minnesota Lynx,11,6,17,1312084800.0,2011
+San Antonio Silver Stars,Seattle Storm,San Antonio Silver Stars,11,7,18,1312257600.0,2011
+San Antonio Silver Stars,Minnesota Lynx,San Antonio Silver Stars,11,8,19,1312430400.0,2011
+San Antonio Silver Stars,San Antonio Silver Stars,Tulsa Shock,12,8,20,1312603200.0,2011
+San Antonio Silver Stars,Indiana Fever,San Antonio Silver Stars,12,9,21,1312862400.0,2011
+San Antonio Silver Stars,Connecticut Sun,San Antonio Silver Stars,13,9,22,1313035200.0,2011
+San Antonio Silver Stars,San Antonio Silver Stars,Chicago Sky,13,10,23,1313294400.0,2011
+San Antonio Silver Stars,San Antonio Silver Stars,Indiana Fever,13,11,24,1313467200.0,2011
+San Antonio Silver Stars,Phoenix Mercury,San Antonio Silver Stars,13,12,25,1313812800.0,2011
+San Antonio Silver Stars,Seattle Storm,San Antonio Silver Stars,13,13,26,1314072000.0,2011
+San Antonio Silver Stars,Minnesota Lynx,San Antonio Silver Stars,13,14,27,1314331200.0,2011
+San Antonio Silver Stars,San Antonio Silver Stars,Minnesota Lynx,13,15,28,1314504000.0,2011
+San Antonio Silver Stars,San Antonio Silver Stars,Connecticut Sun,14,15,29,1314676800.0,2011
+San Antonio Silver Stars,San Antonio Silver Stars,Phoenix Mercury,15,15,30,1314849600.0,2011
+San Antonio Silver Stars,San Antonio Silver Stars,Seattle Storm,15,16,31,1315022400.0,2011
+San Antonio Silver Stars,Los Angeles Sparks,San Antonio Silver Stars,16,16,32,1315281600.0,2011
+San Antonio Silver Stars,San Antonio Silver Stars,Washington Mystics,17,16,33,1315627200.0,2011
+San Antonio Silver Stars,Tulsa Shock,San Antonio Silver Stars,18,16,34,1315713600.0,2011
+Seattle Storm,Seattle Storm,Phoenix Mercury,1,0,1,1307160000.0,2011
+Seattle Storm,Seattle Storm,Minnesota Lynx,1,1,2,1307592000.0,2011
+Seattle Storm,Seattle Storm,Indiana Fever,2,1,3,1308283200.0,2011
+Seattle Storm,Los Angeles Sparks,Seattle Storm,2,2,4,1308456000.0,2011
+Seattle Storm,Tulsa Shock,Seattle Storm,3,2,5,1308628800.0,2011
+Seattle Storm,Seattle Storm,Minnesota Lynx,4,2,6,1308888000.0,2011
+Seattle Storm,Connecticut Sun,Seattle Storm,4,3,7,1309492800.0,2011
+Seattle Storm,Washington Mystics,Seattle Storm,5,3,8,1309665600.0,2011
+Seattle Storm,Indiana Fever,Seattle Storm,5,4,9,1309838400.0,2011
+Seattle Storm,Seattle Storm,Los Angeles Sparks,6,4,10,1310184000.0,2011
+Seattle Storm,Seattle Storm,Washington Mystics,7,4,11,1310443200.0,2011
+Seattle Storm,San Antonio Silver Stars,Seattle Storm,7,5,12,1310616000.0,2011
+Seattle Storm,Minnesota Lynx,Seattle Storm,7,6,13,1310788800.0,2011
+Seattle Storm,Chicago Sky,Seattle Storm,7,7,14,1311048000.0,2011
+Seattle Storm,Seattle Storm,San Antonio Silver Stars,8,7,15,1311220800.0,2011
+Seattle Storm,Phoenix Mercury,Seattle Storm,9,7,16,1311652800.0,2011
+Seattle Storm,Minnesota Lynx,Seattle Storm,9,8,17,1311912000.0,2011
+Seattle Storm,Tulsa Shock,Seattle Storm,10,8,18,1311998400.0,2011
+Seattle Storm,Seattle Storm,San Antonio Silver Stars,11,8,19,1312257600.0,2011
+Seattle Storm,Seattle Storm,Connecticut Sun,12,8,20,1312516800.0,2011
+Seattle Storm,Atlanta Dream,Seattle Storm,12,9,21,1312689600.0,2011
+Seattle Storm,New York Liberty,Seattle Storm,12,10,22,1312862400.0,2011
+Seattle Storm,Seattle Storm,Tulsa Shock,13,10,23,1313035200.0,2011
+Seattle Storm,Seattle Storm,Atlanta Dream,13,11,24,1313208000.0,2011
+Seattle Storm,Phoenix Mercury,Seattle Storm,13,12,25,1313467200.0,2011
+Seattle Storm,Seattle Storm,New York Liberty,14,12,26,1313812800.0,2011
+Seattle Storm,Seattle Storm,San Antonio Silver Stars,15,12,27,1314072000.0,2011
+Seattle Storm,Seattle Storm,Tulsa Shock,16,12,28,1314244800.0,2011
+Seattle Storm,Seattle Storm,Los Angeles Sparks,17,12,29,1314504000.0,2011
+Seattle Storm,Los Angeles Sparks,Seattle Storm,17,13,30,1314676800.0,2011
+Seattle Storm,Tulsa Shock,Seattle Storm,18,13,31,1314936000.0,2011
+Seattle Storm,San Antonio Silver Stars,Seattle Storm,19,13,32,1315022400.0,2011
+Seattle Storm,Seattle Storm,Phoenix Mercury,20,13,33,1315540800.0,2011
+Seattle Storm,Seattle Storm,Chicago Sky,21,13,34,1315713600.0,2011
+Tulsa Shock,San Antonio Silver Stars,Tulsa Shock,0,1,1,1307160000.0,2011
+Tulsa Shock,Minnesota Lynx,Tulsa Shock,0,2,2,1307419200.0,2011
+Tulsa Shock,Tulsa Shock,San Antonio Silver Stars,0,3,3,1307678400.0,2011
+Tulsa Shock,Connecticut Sun,Tulsa Shock,0,4,4,1307851200.0,2011
+Tulsa Shock,Indiana Fever,Tulsa Shock,0,5,5,1308024000.0,2011
+Tulsa Shock,Tulsa Shock,Washington Mystics,1,5,6,1308369600.0,2011
+Tulsa Shock,Tulsa Shock,Seattle Storm,1,6,7,1308628800.0,2011
+Tulsa Shock,Tulsa Shock,New York Liberty,1,7,8,1308801600.0,2011
+Tulsa Shock,Washington Mystics,Tulsa Shock,1,8,9,1309060800.0,2011
+Tulsa Shock,Tulsa Shock,Minnesota Lynx,1,9,10,1309406400.0,2011
+Tulsa Shock,Tulsa Shock,Phoenix Mercury,1,10,11,1310097600.0,2011
+Tulsa Shock,Phoenix Mercury,Tulsa Shock,1,11,12,1310270400.0,2011
+Tulsa Shock,Chicago Sky,Tulsa Shock,1,12,13,1310529600.0,2011
+Tulsa Shock,Tulsa Shock,Los Angeles Sparks,1,13,14,1310702400.0,2011
+Tulsa Shock,New York Liberty,Tulsa Shock,1,14,15,1310875200.0,2011
+Tulsa Shock,Tulsa Shock,Atlanta Dream,1,15,16,1311652800.0,2011
+Tulsa Shock,Tulsa Shock,Chicago Sky,1,16,17,1311825600.0,2011
+Tulsa Shock,Tulsa Shock,Seattle Storm,1,17,18,1311998400.0,2011
+Tulsa Shock,Tulsa Shock,Indiana Fever,1,18,19,1312516800.0,2011
+Tulsa Shock,San Antonio Silver Stars,Tulsa Shock,1,19,20,1312603200.0,2011
+Tulsa Shock,Los Angeles Sparks,Tulsa Shock,1,20,21,1312862400.0,2011
+Tulsa Shock,Seattle Storm,Tulsa Shock,1,21,22,1313035200.0,2011
+Tulsa Shock,Minnesota Lynx,Tulsa Shock,1,22,23,1313294400.0,2011
+Tulsa Shock,Tulsa Shock,Los Angeles Sparks,1,23,24,1313899200.0,2011
+Tulsa Shock,Tulsa Shock,Minnesota Lynx,1,24,25,1314072000.0,2011
+Tulsa Shock,Seattle Storm,Tulsa Shock,1,25,26,1314244800.0,2011
+Tulsa Shock,Los Angeles Sparks,Tulsa Shock,2,25,27,1314331200.0,2011
+Tulsa Shock,Tulsa Shock,Connecticut Sun,3,25,28,1314504000.0,2011
+Tulsa Shock,Tulsa Shock,Phoenix Mercury,3,26,29,1314676800.0,2011
+Tulsa Shock,Tulsa Shock,Seattle Storm,3,27,30,1314936000.0,2011
+Tulsa Shock,Atlanta Dream,Tulsa Shock,3,28,31,1315108800.0,2011
+Tulsa Shock,Phoenix Mercury,Tulsa Shock,3,29,32,1315454400.0,2011
+Tulsa Shock,Los Angeles Sparks,Tulsa Shock,3,30,33,1315540800.0,2011
+Tulsa Shock,Tulsa Shock,San Antonio Silver Stars,3,31,34,1315713600.0,2011
+Washington Mystics,Connecticut Sun,Washington Mystics,0,1,1,1307160000.0,2011
+Washington Mystics,Atlanta Dream,Washington Mystics,1,1,2,1307592000.0,2011
+Washington Mystics,Washington Mystics,Chicago Sky,1,2,3,1307764800.0,2011
+Washington Mystics,Washington Mystics,Connecticut Sun,1,3,4,1308196800.0,2011
+Washington Mystics,Tulsa Shock,Washington Mystics,1,4,5,1308369600.0,2011
+Washington Mystics,Washington Mystics,Indiana Fever,1,5,6,1308628800.0,2011
+Washington Mystics,Washington Mystics,Tulsa Shock,2,5,7,1309060800.0,2011
+Washington Mystics,Washington Mystics,Seattle Storm,2,6,8,1309665600.0,2011
+Washington Mystics,Chicago Sky,Washington Mystics,2,7,9,1309838400.0,2011
+Washington Mystics,Indiana Fever,Washington Mystics,2,8,10,1310184000.0,2011
+Washington Mystics,Seattle Storm,Washington Mystics,2,9,11,1310443200.0,2011
+Washington Mystics,Phoenix Mercury,Washington Mystics,2,10,12,1310702400.0,2011
+Washington Mystics,Los Angeles Sparks,Washington Mystics,3,10,13,1310875200.0,2011
+Washington Mystics,Washington Mystics,Atlanta Dream,3,11,14,1311134400.0,2011
+Washington Mystics,Washington Mystics,San Antonio Silver Stars,3,12,15,1311652800.0,2011
+Washington Mystics,New York Liberty,Washington Mystics,3,13,16,1311825600.0,2011
+Washington Mystics,Washington Mystics,Indiana Fever,3,14,17,1311912000.0,2011
+Washington Mystics,Washington Mystics,New York Liberty,4,14,18,1312603200.0,2011
+Washington Mystics,Washington Mystics,Atlanta Dream,4,15,19,1312862400.0,2011
+Washington Mystics,Washington Mystics,New York Liberty,5,15,20,1313121600.0,2011
+Washington Mystics,Connecticut Sun,Washington Mystics,5,16,21,1313208000.0,2011
+Washington Mystics,New York Liberty,Washington Mystics,5,17,22,1313467200.0,2011
+Washington Mystics,Washington Mystics,Minnesota Lynx,5,18,23,1313640000.0,2011
+Washington Mystics,Washington Mystics,Chicago Sky,5,19,24,1313812800.0,2011
+Washington Mystics,Indiana Fever,Washington Mystics,5,20,25,1313899200.0,2011
+Washington Mystics,Washington Mystics,Los Angeles Sparks,5,21,26,1314072000.0,2011
+Washington Mystics,Chicago Sky,Washington Mystics,5,22,27,1314331200.0,2011
+Washington Mystics,Washington Mystics,Phoenix Mercury,5,23,28,1314504000.0,2011
+Washington Mystics,Minnesota Lynx,Washington Mystics,5,24,29,1314676800.0,2011
+Washington Mystics,Washington Mystics,Atlanta Dream,6,24,30,1314849600.0,2011
+Washington Mystics,Atlanta Dream,Washington Mystics,6,25,31,1314936000.0,2011
+Washington Mystics,Washington Mystics,Connecticut Sun,6,26,32,1315108800.0,2011
+Washington Mystics,Indiana Fever,Washington Mystics,6,27,33,1315368000.0,2011
+Washington Mystics,San Antonio Silver Stars,Washington Mystics,6,28,34,1315627200.0,2011

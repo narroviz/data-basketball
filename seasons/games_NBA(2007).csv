@@ -1,0 +1,2461 @@
+id,home_team,away_team,win,loss,game_number,date,year
+Atlanta Hawks,Philadelphia 76ers,Atlanta Hawks,0,1,1,1162425600.0,2007
+Atlanta Hawks,Atlanta Hawks,New York Knicks,1,1,2,1162600200.0,2007
+Atlanta Hawks,Atlanta Hawks,Orlando Magic,2,1,3,1162753200.0,2007
+Atlanta Hawks,Cleveland Cavaliers,Atlanta Hawks,3,1,4,1162944000.0,2007
+Atlanta Hawks,Toronto Raptors,Atlanta Hawks,4,1,5,1163203200.0,2007
+Atlanta Hawks,Atlanta Hawks,Seattle Supersonics,4,2,6,1163289600.0,2007
+Atlanta Hawks,Atlanta Hawks,Milwaukee Bucks,4,3,7,1163548800.0,2007
+Atlanta Hawks,Atlanta Hawks,Miami Heat,4,4,8,1163894400.0,2007
+Atlanta Hawks,Detroit Pistons,Atlanta Hawks,4,5,9,1164241800.0,2007
+Atlanta Hawks,Atlanta Hawks,Toronto Raptors,5,5,10,1164414600.0,2007
+Atlanta Hawks,Orlando Magic,Atlanta Hawks,5,6,11,1164499200.0,2007
+Atlanta Hawks,Washington Wizards,Atlanta Hawks,5,7,12,1164758400.0,2007
+Atlanta Hawks,Atlanta Hawks,Charlotte Bobcats,6,7,13,1164844800.0,2007
+Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,6,8,14,1165019400.0,2007
+Atlanta Hawks,Portland Trail Blazers,Atlanta Hawks,7,8,15,1165197600.0,2007
+Atlanta Hawks,Seattle Supersonics,Atlanta Hawks,7,9,16,1165374000.0,2007
+Atlanta Hawks,Denver Nuggets,Atlanta Hawks,8,9,17,1165456800.0,2007
+Atlanta Hawks,Los Angeles Lakers,Atlanta Hawks,8,10,18,1165635000.0,2007
+Atlanta Hawks,Sacramento Kings,Atlanta Hawks,8,11,19,1165802400.0,2007
+Atlanta Hawks,Atlanta Hawks,Denver Nuggets,8,12,20,1165968000.0,2007
+Atlanta Hawks,New York Knicks,Atlanta Hawks,8,13,21,1166056200.0,2007
+Atlanta Hawks,Memphis Grizzlies,Atlanta Hawks,9,13,22,1166230800.0,2007
+Atlanta Hawks,Atlanta Hawks,Chicago Bulls,9,14,23,1166313600.0,2007
+Atlanta Hawks,Atlanta Hawks,Utah Jazz,9,15,24,1166659200.0,2007
+Atlanta Hawks,Atlanta Hawks,Indiana Pacers,9,16,25,1166833800.0,2007
+Atlanta Hawks,Detroit Pistons,Atlanta Hawks,9,17,26,1166920200.0,2007
+Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,9,18,27,1167264000.0,2007
+Atlanta Hawks,Houston Rockets,Atlanta Hawks,9,19,28,1167442200.0,2007
+Atlanta Hawks,San Antonio Spurs,Atlanta Hawks,9,20,29,1167597000.0,2007
+Atlanta Hawks,Toronto Raptors,Atlanta Hawks,9,21,30,1168041600.0,2007
+Atlanta Hawks,Atlanta Hawks,Los Angeles Clippers,10,21,31,1168128000.0,2007
+Atlanta Hawks,Indiana Pacers,Atlanta Hawks,10,22,32,1168387200.0,2007
+Atlanta Hawks,Atlanta Hawks,New Orleans Hornets,10,23,33,1168473600.0,2007
+Atlanta Hawks,Atlanta Hawks,Detroit Pistons,11,23,34,1168648200.0,2007
+Atlanta Hawks,Atlanta Hawks,Boston Celtics,12,23,35,1168887600.0,2007
+Atlanta Hawks,Minnesota Timberwolves,Atlanta Hawks,13,23,36,1169082000.0,2007
+Atlanta Hawks,Atlanta Hawks,Charlotte Bobcats,13,24,37,1169253000.0,2007
+Atlanta Hawks,Charlotte Bobcats,Atlanta Hawks,13,25,38,1169337600.0,2007
+Atlanta Hawks,Chicago Bulls,Atlanta Hawks,13,26,39,1169602200.0,2007
+Atlanta Hawks,Boston Celtics,Atlanta Hawks,14,26,40,1169685000.0,2007
+Atlanta Hawks,Orlando Magic,Atlanta Hawks,15,26,41,1169856000.0,2007
+Atlanta Hawks,Atlanta Hawks,Philadelphia 76ers,15,27,42,1169942400.0,2007
+Atlanta Hawks,Atlanta Hawks,Orlando Magic,16,27,43,1170115200.0,2007
+Atlanta Hawks,Atlanta Hawks,Golden State Warriors,17,27,44,1170288000.0,2007
+Atlanta Hawks,Atlanta Hawks,Toronto Raptors,17,28,45,1170462600.0,2007
+Atlanta Hawks,New Jersey Nets,Atlanta Hawks,18,28,46,1170608400.0,2007
+Atlanta Hawks,Atlanta Hawks,Los Angeles Lakers,18,29,47,1170720000.0,2007
+Atlanta Hawks,Atlanta Hawks,New Jersey Nets,18,30,48,1170892800.0,2007
+Atlanta Hawks,Phoenix Suns,Atlanta Hawks,19,30,49,1171072800.0,2007
+Atlanta Hawks,Golden State Warriors,Atlanta Hawks,20,30,50,1171245600.0,2007
+Atlanta Hawks,Utah Jazz,Atlanta Hawks,20,31,51,1171332000.0,2007
+Atlanta Hawks,Los Angeles Clippers,Atlanta Hawks,21,31,52,1171510200.0,2007
+Atlanta Hawks,Chicago Bulls,Atlanta Hawks,21,32,53,1172021400.0,2007
+Atlanta Hawks,Atlanta Hawks,San Antonio Spurs,21,33,54,1172102400.0,2007
+Atlanta Hawks,Atlanta Hawks,Houston Rockets,22,33,55,1172277000.0,2007
+Atlanta Hawks,Atlanta Hawks,Phoenix Suns,22,34,56,1172444400.0,2007
+Atlanta Hawks,Dallas Mavericks,Atlanta Hawks,22,35,57,1172539800.0,2007
+Atlanta Hawks,New Orleans Hornets,Atlanta Hawks,22,36,58,1172710800.0,2007
+Atlanta Hawks,Washington Wizards,Atlanta Hawks,22,37,59,1172880000.0,2007
+Atlanta Hawks,Atlanta Hawks,New York Knicks,22,38,60,1172966400.0,2007
+Atlanta Hawks,Miami Heat,Atlanta Hawks,22,39,61,1173141000.0,2007
+Atlanta Hawks,Atlanta Hawks,Washington Wizards,23,39,62,1173312000.0,2007
+Atlanta Hawks,Atlanta Hawks,Memphis Grizzlies,24,39,63,1173486600.0,2007
+Atlanta Hawks,Atlanta Hawks,Minnesota Timberwolves,25,39,64,1173571200.0,2007
+Atlanta Hawks,Atlanta Hawks,Philadelphia 76ers,26,39,65,1173826800.0,2007
+Atlanta Hawks,Boston Celtics,Atlanta Hawks,26,40,66,1173915000.0,2007
+Atlanta Hawks,Indiana Pacers,Atlanta Hawks,26,41,67,1174172400.0,2007
+Atlanta Hawks,Atlanta Hawks,Sacramento Kings,27,41,68,1174345200.0,2007
+Atlanta Hawks,Atlanta Hawks,Miami Heat,27,42,69,1174518000.0,2007
+Atlanta Hawks,Atlanta Hawks,Portland Trail Blazers,27,43,70,1174692600.0,2007
+Atlanta Hawks,Atlanta Hawks,Dallas Mavericks,27,44,71,1174842000.0,2007
+Atlanta Hawks,Miami Heat,Atlanta Hawks,27,45,72,1174951800.0,2007
+Atlanta Hawks,Charlotte Bobcats,Atlanta Hawks,27,46,73,1175122800.0,2007
+Atlanta Hawks,Atlanta Hawks,Chicago Bulls,27,47,74,1175450400.0,2007
+Atlanta Hawks,New Jersey Nets,Atlanta Hawks,27,48,75,1175729400.0,2007
+Atlanta Hawks,Atlanta Hawks,Milwaukee Bucks,28,48,76,1175902200.0,2007
+Atlanta Hawks,Philadelphia 76ers,Atlanta Hawks,28,49,77,1176075000.0,2007
+Atlanta Hawks,Atlanta Hawks,Boston Celtics,29,49,78,1176246000.0,2007
+Atlanta Hawks,Atlanta Hawks,Washington Wizards,29,50,79,1176507000.0,2007
+Atlanta Hawks,Cleveland Cavaliers,Atlanta Hawks,29,51,80,1176593400.0,2007
+Atlanta Hawks,Milwaukee Bucks,Atlanta Hawks,29,52,81,1176768000.0,2007
+Atlanta Hawks,Atlanta Hawks,Indiana Pacers,30,52,82,1176850800.0,2007
+Boston Celtics,Boston Celtics,New Orleans Hornets,0,1,1,1162427400.0,2007
+Boston Celtics,Boston Celtics,Detroit Pistons,0,2,2,1162600200.0,2007
+Boston Celtics,Washington Wizards,Boston Celtics,0,3,3,1162684800.0,2007
+Boston Celtics,Boston Celtics,Charlotte Bobcats,1,3,4,1163032200.0,2007
+Boston Celtics,Boston Celtics,Utah Jazz,1,4,5,1163205000.0,2007
+Boston Celtics,Cleveland Cavaliers,Boston Celtics,1,5,6,1163291400.0,2007
+Boston Celtics,Boston Celtics,Orlando Magic,1,6,7,1163464200.0,2007
+Boston Celtics,Boston Celtics,Indiana Pacers,2,6,8,1163637000.0,2007
+Boston Celtics,Boston Celtics,Portland Trail Blazers,3,6,9,1163809800.0,2007
+Boston Celtics,New York Knicks,Boston Celtics,4,6,10,1163896200.0,2007
+Boston Celtics,Charlotte Bobcats,Boston Celtics,4,7,11,1164240000.0,2007
+Boston Celtics,Boston Celtics,New York Knicks,4,8,12,1164414600.0,2007
+Boston Celtics,Milwaukee Bucks,Boston Celtics,5,8,13,1164506400.0,2007
+Boston Celtics,Boston Celtics,New Jersey Nets,5,9,14,1164846600.0,2007
+Boston Celtics,Toronto Raptors,Boston Celtics,5,10,15,1165017600.0,2007
+Boston Celtics,Chicago Bulls,Boston Celtics,5,11,16,1165282200.0,2007
+Boston Celtics,Boston Celtics,Memphis Grizzlies,5,12,17,1165451400.0,2007
+Boston Celtics,Boston Celtics,Phoenix Suns,5,13,18,1165624200.0,2007
+Boston Celtics,New Jersey Nets,Boston Celtics,6,13,19,1165710600.0,2007
+Boston Celtics,New York Knicks,Boston Celtics,7,13,20,1165883400.0,2007
+Boston Celtics,Philadelphia 76ers,Boston Celtics,8,13,21,1166054400.0,2007
+Boston Celtics,Boston Celtics,Denver Nuggets,9,13,22,1166229000.0,2007
+Boston Celtics,Charlotte Bobcats,Boston Celtics,10,13,23,1166313600.0,2007
+Boston Celtics,Boston Celtics,Golden State Warriors,10,14,24,1166661000.0,2007
+Boston Celtics,Boston Celtics,Philadelphia 76ers,10,15,25,1166835600.0,2007
+Boston Celtics,Denver Nuggets,Boston Celtics,10,16,26,1167184800.0,2007
+Boston Celtics,Los Angeles Clippers,Boston Celtics,10,17,27,1167276600.0,2007
+Boston Celtics,Golden State Warriors,Boston Celtics,10,18,28,1167449400.0,2007
+Boston Celtics,Seattle Supersonics,Boston Celtics,10,19,29,1167620400.0,2007
+Boston Celtics,Portland Trail Blazers,Boston Celtics,11,19,30,1167706800.0,2007
+Boston Celtics,Boston Celtics,Cleveland Cavaliers,11,20,31,1167870600.0,2007
+Boston Celtics,Memphis Grizzlies,Boston Celtics,12,20,32,1168045200.0,2007
+Boston Celtics,Orlando Magic,Boston Celtics,12,21,33,1168210800.0,2007
+Boston Celtics,Boston Celtics,Indiana Pacers,12,22,34,1168475400.0,2007
+Boston Celtics,Boston Celtics,Toronto Raptors,12,23,35,1168648200.0,2007
+Boston Celtics,Detroit Pistons,Boston Celtics,12,24,36,1168734600.0,2007
+Boston Celtics,Atlanta Hawks,Boston Celtics,12,25,37,1168887600.0,2007
+Boston Celtics,Boston Celtics,Sacramento Kings,12,26,38,1169253000.0,2007
+Boston Celtics,Washington Wizards,Boston Celtics,12,27,39,1169341200.0,2007
+Boston Celtics,Boston Celtics,San Antonio Spurs,12,28,40,1169512200.0,2007
+Boston Celtics,Boston Celtics,Atlanta Hawks,12,29,41,1169685000.0,2007
+Boston Celtics,Toronto Raptors,Boston Celtics,12,30,42,1169856000.0,2007
+Boston Celtics,Boston Celtics,Washington Wizards,12,31,43,1170025200.0,2007
+Boston Celtics,Indiana Pacers,Boston Celtics,12,32,44,1170201600.0,2007
+Boston Celtics,Boston Celtics,Los Angeles Lakers,12,33,45,1170289800.0,2007
+Boston Celtics,Boston Celtics,Los Angeles Clippers,12,34,46,1170462600.0,2007
+Boston Celtics,Detroit Pistons,Boston Celtics,12,35,47,1170808200.0,2007
+Boston Celtics,Boston Celtics,Miami Heat,12,36,48,1170894600.0,2007
+Boston Celtics,Boston Celtics,New Jersey Nets,12,37,49,1171067400.0,2007
+Boston Celtics,Minnesota Timberwolves,Boston Celtics,12,38,50,1171234800.0,2007
+Boston Celtics,Boston Celtics,Milwaukee Bucks,13,38,51,1171499400.0,2007
+Boston Celtics,Sacramento Kings,Boston Celtics,13,39,52,1172026800.0,2007
+Boston Celtics,Phoenix Suns,Boston Celtics,13,40,53,1172109600.0,2007
+Boston Celtics,Los Angeles Lakers,Boston Celtics,13,41,54,1172287800.0,2007
+Boston Celtics,Utah Jazz,Boston Celtics,13,42,55,1172368800.0,2007
+Boston Celtics,Houston Rockets,Boston Celtics,14,42,56,1172539800.0,2007
+Boston Celtics,Boston Celtics,New York Knicks,15,42,57,1172709000.0,2007
+Boston Celtics,New Jersey Nets,Boston Celtics,16,42,58,1172944800.0,2007
+Boston Celtics,Boston Celtics,Minnesota Timberwolves,17,42,59,1173029400.0,2007
+Boston Celtics,Boston Celtics,Houston Rockets,17,43,60,1173313800.0,2007
+Boston Celtics,Boston Celtics,Seattle Supersonics,18,43,61,1173486600.0,2007
+Boston Celtics,Boston Celtics,Chicago Bulls,18,44,62,1173650400.0,2007
+Boston Celtics,Chicago Bulls,Boston Celtics,18,45,63,1173832200.0,2007
+Boston Celtics,Boston Celtics,Atlanta Hawks,19,45,64,1173915000.0,2007
+Boston Celtics,Dallas Mavericks,Boston Celtics,19,46,65,1174091400.0,2007
+Boston Celtics,San Antonio Spurs,Boston Celtics,20,46,66,1174176000.0,2007
+Boston Celtics,New Orleans Hornets,Boston Celtics,20,47,67,1174348800.0,2007
+Boston Celtics,Boston Celtics,Charlotte Bobcats,20,48,68,1174519800.0,2007
+Boston Celtics,Boston Celtics,Dallas Mavericks,20,49,69,1174692600.0,2007
+Boston Celtics,Boston Celtics,Toronto Raptors,21,49,70,1174951800.0,2007
+Boston Celtics,Boston Celtics,Orlando Magic,22,49,71,1175124600.0,2007
+Boston Celtics,Philadelphia 76ers,Boston Celtics,22,50,72,1175295600.0,2007
+Boston Celtics,Boston Celtics,Cleveland Cavaliers,23,50,73,1175464800.0,2007
+Boston Celtics,Milwaukee Bucks,Boston Celtics,23,51,74,1175731200.0,2007
+Boston Celtics,Boston Celtics,Miami Heat,23,52,75,1175902200.0,2007
+Boston Celtics,Indiana Pacers,Boston Celtics,23,53,76,1175986800.0,2007
+Boston Celtics,Atlanta Hawks,Boston Celtics,23,54,77,1176246000.0,2007
+Boston Celtics,Boston Celtics,Philadelphia 76ers,23,55,78,1176334200.0,2007
+Boston Celtics,Boston Celtics,Milwaukee Bucks,23,56,79,1176507000.0,2007
+Boston Celtics,Orlando Magic,Boston Celtics,23,57,80,1176674400.0,2007
+Boston Celtics,Miami Heat,Boston Celtics,24,57,81,1176766200.0,2007
+Boston Celtics,Boston Celtics,Detroit Pistons,24,58,82,1176939000.0,2007
+Charlotte Bobcats,Charlotte Bobcats,Indiana Pacers,0,1,1,1162425600.0,2007
+Charlotte Bobcats,Memphis Grizzlies,Charlotte Bobcats,0,2,2,1162602000.0,2007
+Charlotte Bobcats,Charlotte Bobcats,Cleveland Cavaliers,1,2,3,1162684800.0,2007
+Charlotte Bobcats,Boston Celtics,Charlotte Bobcats,1,3,4,1163032200.0,2007
+Charlotte Bobcats,Charlotte Bobcats,Seattle Supersonics,1,4,5,1163203200.0,2007
+Charlotte Bobcats,Charlotte Bobcats,Denver Nuggets,1,5,6,1163372400.0,2007
+Charlotte Bobcats,New Orleans Hornets,Charlotte Bobcats,1,6,7,1163552400.0,2007
+Charlotte Bobcats,San Antonio Spurs,Charlotte Bobcats,2,6,8,1163638800.0,2007
+Charlotte Bobcats,Orlando Magic,Charlotte Bobcats,2,7,9,1163894400.0,2007
+Charlotte Bobcats,Charlotte Bobcats,Dallas Mavericks,2,8,10,1164067200.0,2007
+Charlotte Bobcats,Charlotte Bobcats,Boston Celtics,3,8,11,1164240000.0,2007
+Charlotte Bobcats,Detroit Pistons,Charlotte Bobcats,3,9,12,1164416400.0,2007
+Charlotte Bobcats,Charlotte Bobcats,Miami Heat,3,10,13,1164499200.0,2007
+Charlotte Bobcats,New Jersey Nets,Charlotte Bobcats,4,10,14,1164760200.0,2007
+Charlotte Bobcats,Atlanta Hawks,Charlotte Bobcats,4,11,15,1164844800.0,2007
+Charlotte Bobcats,Washington Wizards,Charlotte Bobcats,4,12,16,1165017600.0,2007
+Charlotte Bobcats,Charlotte Bobcats,Detroit Pistons,5,12,17,1165186800.0,2007
+Charlotte Bobcats,Charlotte Bobcats,San Antonio Spurs,5,13,18,1165449600.0,2007
+Charlotte Bobcats,Charlotte Bobcats,Houston Rockets,5,14,19,1165622400.0,2007
+Charlotte Bobcats,Charlotte Bobcats,Phoenix Suns,5,15,20,1165791600.0,2007
+Charlotte Bobcats,Cleveland Cavaliers,Charlotte Bobcats,5,16,21,1166054400.0,2007
+Charlotte Bobcats,Charlotte Bobcats,Orlando Magic,6,16,22,1166140800.0,2007
+Charlotte Bobcats,Charlotte Bobcats,Boston Celtics,6,17,23,1166313600.0,2007
+Charlotte Bobcats,New York Knicks,Charlotte Bobcats,6,18,24,1166661000.0,2007
+Charlotte Bobcats,Charlotte Bobcats,Utah Jazz,7,18,25,1166832000.0,2007
+Charlotte Bobcats,Chicago Bulls,Charlotte Bobcats,7,19,26,1166923800.0,2007
+Charlotte Bobcats,Dallas Mavericks,Charlotte Bobcats,7,20,27,1167183000.0,2007
+Charlotte Bobcats,Charlotte Bobcats,Washington Wizards,7,21,28,1167264000.0,2007
+Charlotte Bobcats,Charlotte Bobcats,Los Angeles Lakers,8,21,29,1167436800.0,2007
+Charlotte Bobcats,Indiana Pacers,Charlotte Bobcats,9,21,30,1167523200.0,2007
+Charlotte Bobcats,Charlotte Bobcats,Minnesota Timberwolves,9,22,31,1167696000.0,2007
+Charlotte Bobcats,Orlando Magic,Charlotte Bobcats,9,23,32,1168041600.0,2007
+Charlotte Bobcats,Detroit Pistons,Charlotte Bobcats,10,23,33,1168475400.0,2007
+Charlotte Bobcats,New York Knicks,Charlotte Bobcats,11,23,34,1168648200.0,2007
+Charlotte Bobcats,Charlotte Bobcats,Philadelphia 76ers,12,23,35,1168732800.0,2007
+Charlotte Bobcats,Charlotte Bobcats,Milwaukee Bucks,12,24,36,1168884000.0,2007
+Charlotte Bobcats,Charlotte Bobcats,New Jersey Nets,12,25,37,1169078400.0,2007
+Charlotte Bobcats,Atlanta Hawks,Charlotte Bobcats,13,25,38,1169253000.0,2007
+Charlotte Bobcats,Charlotte Bobcats,Atlanta Hawks,14,25,39,1169337600.0,2007
+Charlotte Bobcats,Toronto Raptors,Charlotte Bobcats,14,26,40,1169510400.0,2007
+Charlotte Bobcats,Charlotte Bobcats,Detroit Pistons,14,27,41,1169683200.0,2007
+Charlotte Bobcats,Los Angeles Lakers,Charlotte Bobcats,15,27,42,1169868600.0,2007
+Charlotte Bobcats,Golden State Warriors,Charlotte Bobcats,15,28,43,1169955000.0,2007
+Charlotte Bobcats,Denver Nuggets,Charlotte Bobcats,16,28,44,1170122400.0,2007
+Charlotte Bobcats,Charlotte Bobcats,New York Knicks,17,28,45,1170288000.0,2007
+Charlotte Bobcats,Cleveland Cavaliers,Charlotte Bobcats,17,29,46,1170462600.0,2007
+Charlotte Bobcats,Charlotte Bobcats,Golden State Warriors,18,29,47,1170547200.0,2007
+Charlotte Bobcats,Miami Heat,Charlotte Bobcats,18,30,48,1170721800.0,2007
+Charlotte Bobcats,Philadelphia 76ers,Charlotte Bobcats,18,31,49,1170892800.0,2007
+Charlotte Bobcats,Charlotte Bobcats,Portland Trail Blazers,18,32,50,1171065600.0,2007
+Charlotte Bobcats,Houston Rockets,Charlotte Bobcats,18,33,51,1171157400.0,2007
+Charlotte Bobcats,Charlotte Bobcats,Chicago Bulls,19,33,52,1171497600.0,2007
+Charlotte Bobcats,Charlotte Bobcats,New Orleans Hornets,20,33,53,1172016000.0,2007
+Charlotte Bobcats,Minnesota Timberwolves,Charlotte Bobcats,21,33,54,1172106000.0,2007
+Charlotte Bobcats,Charlotte Bobcats,Philadelphia 76ers,22,33,55,1172275200.0,2007
+Charlotte Bobcats,Charlotte Bobcats,Toronto Raptors,22,34,56,1172361600.0,2007
+Charlotte Bobcats,Los Angeles Clippers,Charlotte Bobcats,22,35,57,1172547000.0,2007
+Charlotte Bobcats,Sacramento Kings,Charlotte Bobcats,22,36,58,1172718000.0,2007
+Charlotte Bobcats,Portland Trail Blazers,Charlotte Bobcats,22,37,59,1172804400.0,2007
+Charlotte Bobcats,Seattle Supersonics,Charlotte Bobcats,22,38,60,1173060000.0,2007
+Charlotte Bobcats,Utah Jazz,Charlotte Bobcats,22,39,61,1173146400.0,2007
+Charlotte Bobcats,Phoenix Suns,Charlotte Bobcats,22,40,62,1173319200.0,2007
+Charlotte Bobcats,Charlotte Bobcats,Memphis Grizzlies,22,41,63,1173571200.0,2007
+Charlotte Bobcats,Charlotte Bobcats,Orlando Magic,23,41,64,1173740400.0,2007
+Charlotte Bobcats,Charlotte Bobcats,Sacramento Kings,24,41,65,1173913200.0,2007
+Charlotte Bobcats,Charlotte Bobcats,Los Angeles Clippers,24,42,66,1174086000.0,2007
+Charlotte Bobcats,Milwaukee Bucks,Charlotte Bobcats,24,43,67,1174177800.0,2007
+Charlotte Bobcats,Charlotte Bobcats,Cleveland Cavaliers,25,43,68,1174431600.0,2007
+Charlotte Bobcats,Boston Celtics,Charlotte Bobcats,26,43,69,1174519800.0,2007
+Charlotte Bobcats,Philadelphia 76ers,Charlotte Bobcats,26,44,70,1174690800.0,2007
+Charlotte Bobcats,Charlotte Bobcats,New Jersey Nets,26,45,71,1174777200.0,2007
+Charlotte Bobcats,Charlotte Bobcats,Atlanta Hawks,27,45,72,1175122800.0,2007
+Charlotte Bobcats,Charlotte Bobcats,Milwaukee Bucks,28,45,73,1175295600.0,2007
+Charlotte Bobcats,Toronto Raptors,Charlotte Bobcats,28,46,74,1175464800.0,2007
+Charlotte Bobcats,Charlotte Bobcats,Washington Wizards,29,46,75,1175641200.0,2007
+Charlotte Bobcats,Washington Wizards,Charlotte Bobcats,30,46,76,1175727600.0,2007
+Charlotte Bobcats,Charlotte Bobcats,Indiana Pacers,30,47,77,1175900400.0,2007
+Charlotte Bobcats,Miami Heat,Charlotte Bobcats,31,47,78,1176069600.0,2007
+Charlotte Bobcats,Charlotte Bobcats,Miami Heat,32,47,79,1176246000.0,2007
+Charlotte Bobcats,Chicago Bulls,Charlotte Bobcats,32,48,80,1176510600.0,2007
+Charlotte Bobcats,Milwaukee Bucks,Charlotte Bobcats,33,48,81,1176597000.0,2007
+Charlotte Bobcats,Charlotte Bobcats,New York Knicks,33,49,82,1176937200.0,2007
+Chicago Bulls,Miami Heat,Chicago Bulls,1,0,1,1162342800.0,2007
+Chicago Bulls,Orlando Magic,Chicago Bulls,1,1,2,1162425600.0,2007
+Chicago Bulls,Chicago Bulls,Sacramento Kings,1,2,3,1162603800.0,2007
+Chicago Bulls,Chicago Bulls,Milwaukee Bucks,2,2,4,1162863000.0,2007
+Chicago Bulls,Cleveland Cavaliers,Chicago Bulls,2,3,5,1163120400.0,2007
+Chicago Bulls,Chicago Bulls,Indiana Pacers,3,3,6,1163295000.0,2007
+Chicago Bulls,Dallas Mavericks,Chicago Bulls,3,4,7,1163554200.0,2007
+Chicago Bulls,Houston Rockets,Chicago Bulls,3,5,8,1163725200.0,2007
+Chicago Bulls,San Antonio Spurs,Chicago Bulls,3,6,9,1163811600.0,2007
+Chicago Bulls,Los Angeles Lakers,Chicago Bulls,3,7,10,1163984400.0,2007
+Chicago Bulls,Denver Nuggets,Chicago Bulls,3,8,11,1164160800.0,2007
+Chicago Bulls,Philadelphia 76ers,Chicago Bulls,3,9,12,1164414600.0,2007
+Chicago Bulls,New York Knicks,Chicago Bulls,4,9,13,1164501000.0,2007
+Chicago Bulls,Chicago Bulls,New York Knicks,5,9,14,1164763800.0,2007
+Chicago Bulls,New Orleans Hornets,Chicago Bulls,6,9,15,1165021200.0,2007
+Chicago Bulls,Chicago Bulls,Washington Wizards,7,9,16,1165109400.0,2007
+Chicago Bulls,Chicago Bulls,Boston Celtics,8,9,17,1165282200.0,2007
+Chicago Bulls,Chicago Bulls,Philadelphia 76ers,9,9,18,1165456800.0,2007
+Chicago Bulls,Chicago Bulls,Toronto Raptors,10,9,19,1165627800.0,2007
+Chicago Bulls,Chicago Bulls,Minnesota Timberwolves,10,10,20,1165714200.0,2007
+Chicago Bulls,Chicago Bulls,Indiana Pacers,11,10,21,1165887000.0,2007
+Chicago Bulls,Chicago Bulls,Seattle Supersonics,12,10,22,1166059800.0,2007
+Chicago Bulls,Chicago Bulls,Milwaukee Bucks,13,10,23,1166232600.0,2007
+Chicago Bulls,Atlanta Hawks,Chicago Bulls,14,10,24,1166313600.0,2007
+Chicago Bulls,Chicago Bulls,Los Angeles Lakers,15,10,25,1166578200.0,2007
+Chicago Bulls,New York Knicks,Chicago Bulls,15,11,26,1166833800.0,2007
+Chicago Bulls,Chicago Bulls,Charlotte Bobcats,16,11,27,1166923800.0,2007
+Chicago Bulls,Minnesota Timberwolves,Chicago Bulls,16,12,28,1167181200.0,2007
+Chicago Bulls,Chicago Bulls,Miami Heat,17,12,29,1167269400.0,2007
+Chicago Bulls,Toronto Raptors,Chicago Bulls,18,12,30,1167436800.0,2007
+Chicago Bulls,Chicago Bulls,Cleveland Cavaliers,19,12,31,1167528600.0,2007
+Chicago Bulls,Chicago Bulls,Phoenix Suns,19,13,32,1167787800.0,2007
+Chicago Bulls,New Jersey Nets,Chicago Bulls,19,14,33,1168043400.0,2007
+Chicago Bulls,Chicago Bulls,Detroit Pistons,20,14,34,1168133400.0,2007
+Chicago Bulls,Chicago Bulls,Houston Rockets,20,15,35,1168306200.0,2007
+Chicago Bulls,Washington Wizards,Chicago Bulls,20,16,36,1168473600.0,2007
+Chicago Bulls,Chicago Bulls,New Jersey Nets,20,17,37,1168563600.0,2007
+Chicago Bulls,Chicago Bulls,Memphis Grizzlies,21,17,38,1168738200.0,2007
+Chicago Bulls,Chicago Bulls,San Antonio Spurs,22,17,39,1168887600.0,2007
+Chicago Bulls,Milwaukee Bucks,Chicago Bulls,23,17,40,1169082000.0,2007
+Chicago Bulls,Chicago Bulls,Utah Jazz,23,18,41,1169343000.0,2007
+Chicago Bulls,Indiana Pacers,Chicago Bulls,23,19,42,1169510400.0,2007
+Chicago Bulls,Chicago Bulls,Atlanta Hawks,24,19,43,1169602200.0,2007
+Chicago Bulls,Chicago Bulls,Dallas Mavericks,25,19,44,1169773200.0,2007
+Chicago Bulls,Chicago Bulls,Miami Heat,26,19,45,1169947800.0,2007
+Chicago Bulls,Los Angeles Clippers,Chicago Bulls,26,20,46,1170300600.0,2007
+Chicago Bulls,Seattle Supersonics,Chicago Bulls,27,20,47,1170473400.0,2007
+Chicago Bulls,Portland Trail Blazers,Chicago Bulls,28,20,48,1170558000.0,2007
+Chicago Bulls,Utah Jazz,Chicago Bulls,28,21,49,1170727200.0,2007
+Chicago Bulls,Sacramento Kings,Chicago Bulls,28,22,50,1170991800.0,2007
+Chicago Bulls,Golden State Warriors,Chicago Bulls,28,23,51,1171078200.0,2007
+Chicago Bulls,Phoenix Suns,Chicago Bulls,29,23,52,1171242000.0,2007
+Chicago Bulls,Chicago Bulls,Toronto Raptors,29,24,53,1171416600.0,2007
+Chicago Bulls,Charlotte Bobcats,Chicago Bulls,29,25,54,1171497600.0,2007
+Chicago Bulls,Chicago Bulls,Atlanta Hawks,30,25,55,1172021400.0,2007
+Chicago Bulls,Cleveland Cavaliers,Chicago Bulls,31,25,56,1172188800.0,2007
+Chicago Bulls,Chicago Bulls,Washington Wizards,32,25,57,1172278800.0,2007
+Chicago Bulls,Detroit Pistons,Chicago Bulls,32,26,58,1172426400.0,2007
+Chicago Bulls,Chicago Bulls,Orlando Magic,32,27,59,1172539800.0,2007
+Chicago Bulls,Chicago Bulls,Golden State Warriors,33,27,60,1172712600.0,2007
+Chicago Bulls,Chicago Bulls,New Orleans Hornets,34,27,61,1172885400.0,2007
+Chicago Bulls,Milwaukee Bucks,Chicago Bulls,35,27,62,1173038400.0,2007
+Chicago Bulls,Miami Heat,Chicago Bulls,35,28,63,1173313800.0,2007
+Chicago Bulls,Orlando Magic,Chicago Bulls,36,28,64,1173402000.0,2007
+Chicago Bulls,Boston Celtics,Chicago Bulls,37,28,65,1173650400.0,2007
+Chicago Bulls,Chicago Bulls,Boston Celtics,38,28,66,1173832200.0,2007
+Chicago Bulls,Philadelphia 76ers,Chicago Bulls,39,28,67,1173913200.0,2007
+Chicago Bulls,Memphis Grizzlies,Chicago Bulls,39,29,68,1174176000.0,2007
+Chicago Bulls,Chicago Bulls,Los Angeles Clippers,39,30,69,1174437000.0,2007
+Chicago Bulls,Chicago Bulls,Denver Nuggets,40,30,70,1174609800.0,2007
+Chicago Bulls,Indiana Pacers,Chicago Bulls,41,30,71,1174851000.0,2007
+Chicago Bulls,Chicago Bulls,Portland Trail Blazers,42,30,72,1174955400.0,2007
+Chicago Bulls,Chicago Bulls,Detroit Pistons,43,30,73,1175212800.0,2007
+Chicago Bulls,Chicago Bulls,Cleveland Cavaliers,43,31,74,1175367600.0,2007
+Chicago Bulls,Atlanta Hawks,Chicago Bulls,44,31,75,1175450400.0,2007
+Chicago Bulls,Detroit Pistons,Chicago Bulls,45,31,76,1175729400.0,2007
+Chicago Bulls,Chicago Bulls,New Jersey Nets,46,31,77,1175905800.0,2007
+Chicago Bulls,Toronto Raptors,Chicago Bulls,46,32,78,1176069600.0,2007
+Chicago Bulls,Chicago Bulls,New York Knicks,47,32,79,1176251400.0,2007
+Chicago Bulls,Chicago Bulls,Charlotte Bobcats,48,32,80,1176510600.0,2007
+Chicago Bulls,Washington Wizards,Chicago Bulls,49,32,81,1176656400.0,2007
+Chicago Bulls,New Jersey Nets,Chicago Bulls,49,33,82,1176939000.0,2007
+Cleveland Cavaliers,Cleveland Cavaliers,Washington Wizards,1,0,1,1162429200.0,2007
+Cleveland Cavaliers,San Antonio Spurs,Cleveland Cavaliers,2,0,2,1162602000.0,2007
+Cleveland Cavaliers,Charlotte Bobcats,Cleveland Cavaliers,2,1,3,1162684800.0,2007
+Cleveland Cavaliers,Cleveland Cavaliers,Atlanta Hawks,2,2,4,1162944000.0,2007
+Cleveland Cavaliers,Cleveland Cavaliers,Chicago Bulls,3,2,5,1163120400.0,2007
+Cleveland Cavaliers,Cleveland Cavaliers,Boston Celtics,4,2,6,1163291400.0,2007
+Cleveland Cavaliers,New York Knicks,Cleveland Cavaliers,5,2,7,1163464200.0,2007
+Cleveland Cavaliers,Cleveland Cavaliers,Portland Trail Blazers,6,2,8,1163635200.0,2007
+Cleveland Cavaliers,Cleveland Cavaliers,Minnesota Timberwolves,7,2,9,1163809800.0,2007
+Cleveland Cavaliers,Washington Wizards,Cleveland Cavaliers,7,3,10,1163894400.0,2007
+Cleveland Cavaliers,Cleveland Cavaliers,Memphis Grizzlies,8,3,11,1164153600.0,2007
+Cleveland Cavaliers,Toronto Raptors,Cleveland Cavaliers,8,4,12,1164240000.0,2007
+Cleveland Cavaliers,Indiana Pacers,Cleveland Cavaliers,8,5,13,1164416400.0,2007
+Cleveland Cavaliers,Cleveland Cavaliers,Philadelphia 76ers,9,5,14,1164501000.0,2007
+Cleveland Cavaliers,Cleveland Cavaliers,New York Knicks,9,6,15,1164844800.0,2007
+Cleveland Cavaliers,Atlanta Hawks,Cleveland Cavaliers,10,6,16,1165019400.0,2007
+Cleveland Cavaliers,Houston Rockets,Cleveland Cavaliers,10,7,17,1165109400.0,2007
+Cleveland Cavaliers,Cleveland Cavaliers,Toronto Raptors,11,7,18,1165449600.0,2007
+Cleveland Cavaliers,Cleveland Cavaliers,Indiana Pacers,12,7,19,1165710600.0,2007
+Cleveland Cavaliers,New Orleans Hornets,Cleveland Cavaliers,12,8,20,1165885200.0,2007
+Cleveland Cavaliers,Cleveland Cavaliers,Charlotte Bobcats,13,8,21,1166054400.0,2007
+Cleveland Cavaliers,Cleveland Cavaliers,Seattle Supersonics,14,8,22,1166229000.0,2007
+Cleveland Cavaliers,Orlando Magic,Cleveland Cavaliers,14,9,23,1166313600.0,2007
+Cleveland Cavaliers,New Jersey Nets,Cleveland Cavaliers,14,10,24,1166662800.0,2007
+Cleveland Cavaliers,Cleveland Cavaliers,Detroit Pistons,14,11,25,1166749200.0,2007
+Cleveland Cavaliers,Cleveland Cavaliers,Orlando Magic,15,11,26,1166920200.0,2007
+Cleveland Cavaliers,Atlanta Hawks,Cleveland Cavaliers,16,11,27,1167264000.0,2007
+Cleveland Cavaliers,Cleveland Cavaliers,Milwaukee Bucks,17,11,28,1167438600.0,2007
+Cleveland Cavaliers,Chicago Bulls,Cleveland Cavaliers,17,12,29,1167528600.0,2007
+Cleveland Cavaliers,Cleveland Cavaliers,San Antonio Spurs,18,12,30,1167782400.0,2007
+Cleveland Cavaliers,Boston Celtics,Cleveland Cavaliers,19,12,31,1167870600.0,2007
+Cleveland Cavaliers,Milwaukee Bucks,Cleveland Cavaliers,20,12,32,1168047000.0,2007
+Cleveland Cavaliers,Cleveland Cavaliers,New Jersey Nets,21,12,33,1168129800.0,2007
+Cleveland Cavaliers,Sacramento Kings,Cleveland Cavaliers,22,12,34,1168398000.0,2007
+Cleveland Cavaliers,Phoenix Suns,Cleveland Cavaliers,22,13,35,1168572600.0,2007
+Cleveland Cavaliers,Los Angeles Clippers,Cleveland Cavaliers,23,13,36,1168745400.0,2007
+Cleveland Cavaliers,Seattle Supersonics,Cleveland Cavaliers,23,14,37,1169002800.0,2007
+Cleveland Cavaliers,Portland Trail Blazers,Cleveland Cavaliers,23,15,38,1169089200.0,2007
+Cleveland Cavaliers,Denver Nuggets,Cleveland Cavaliers,23,16,39,1169263800.0,2007
+Cleveland Cavaliers,Golden State Warriors,Cleveland Cavaliers,24,16,40,1169350200.0,2007
+Cleveland Cavaliers,Cleveland Cavaliers,Orlando Magic,24,17,41,1169510400.0,2007
+Cleveland Cavaliers,Cleveland Cavaliers,Philadelphia 76ers,24,18,42,1169683200.0,2007
+Cleveland Cavaliers,Philadelphia 76ers,Cleveland Cavaliers,25,18,43,1169856000.0,2007
+Cleveland Cavaliers,Cleveland Cavaliers,Phoenix Suns,25,19,44,1170007200.0,2007
+Cleveland Cavaliers,Cleveland Cavaliers,Golden State Warriors,26,19,45,1170201600.0,2007
+Cleveland Cavaliers,Miami Heat,Cleveland Cavaliers,26,20,46,1170378000.0,2007
+Cleveland Cavaliers,Cleveland Cavaliers,Charlotte Bobcats,27,20,47,1170462600.0,2007
+Cleveland Cavaliers,Cleveland Cavaliers,Detroit Pistons,27,21,48,1170617400.0,2007
+Cleveland Cavaliers,Cleveland Cavaliers,Los Angeles Clippers,28,21,49,1170892800.0,2007
+Cleveland Cavaliers,Cleveland Cavaliers,Miami Heat,29,21,50,1171069200.0,2007
+Cleveland Cavaliers,Cleveland Cavaliers,Los Angeles Lakers,30,21,51,1171225800.0,2007
+Cleveland Cavaliers,Utah Jazz,Cleveland Cavaliers,30,22,52,1171504800.0,2007
+Cleveland Cavaliers,Los Angeles Lakers,Cleveland Cavaliers,31,22,53,1171596600.0,2007
+Cleveland Cavaliers,Toronto Raptors,Cleveland Cavaliers,32,22,54,1172102400.0,2007
+Cleveland Cavaliers,Cleveland Cavaliers,Chicago Bulls,32,23,55,1172188800.0,2007
+Cleveland Cavaliers,Miami Heat,Cleveland Cavaliers,32,24,56,1172435400.0,2007
+Cleveland Cavaliers,Cleveland Cavaliers,New Orleans Hornets,33,24,57,1172620800.0,2007
+Cleveland Cavaliers,Dallas Mavericks,Cleveland Cavaliers,33,25,58,1172797200.0,2007
+Cleveland Cavaliers,Cleveland Cavaliers,Toronto Raptors,34,25,59,1172968200.0,2007
+Cleveland Cavaliers,Cleveland Cavaliers,Houston Rockets,35,25,60,1173139200.0,2007
+Cleveland Cavaliers,Detroit Pistons,Cleveland Cavaliers,36,25,61,1173313800.0,2007
+Cleveland Cavaliers,Milwaukee Bucks,Cleveland Cavaliers,37,25,62,1173576600.0,2007
+Cleveland Cavaliers,Cleveland Cavaliers,Indiana Pacers,38,25,63,1173650400.0,2007
+Cleveland Cavaliers,Cleveland Cavaliers,Sacramento Kings,39,25,64,1173826800.0,2007
+Cleveland Cavaliers,Memphis Grizzlies,Cleveland Cavaliers,40,25,65,1173916800.0,2007
+Cleveland Cavaliers,Cleveland Cavaliers,Utah Jazz,41,25,66,1174174200.0,2007
+Cleveland Cavaliers,Charlotte Bobcats,Cleveland Cavaliers,41,26,67,1174431600.0,2007
+Cleveland Cavaliers,Cleveland Cavaliers,Dallas Mavericks,41,27,68,1174521600.0,2007
+Cleveland Cavaliers,Cleveland Cavaliers,New York Knicks,42,27,69,1174692600.0,2007
+Cleveland Cavaliers,Cleveland Cavaliers,Denver Nuggets,42,28,70,1174867200.0,2007
+Cleveland Cavaliers,Indiana Pacers,Cleveland Cavaliers,43,28,71,1175036400.0,2007
+Cleveland Cavaliers,New York Knicks,Cleveland Cavaliers,43,29,72,1175124600.0,2007
+Cleveland Cavaliers,Chicago Bulls,Cleveland Cavaliers,44,29,73,1175367600.0,2007
+Cleveland Cavaliers,Boston Celtics,Cleveland Cavaliers,44,30,74,1175464800.0,2007
+Cleveland Cavaliers,Minnesota Timberwolves,Cleveland Cavaliers,45,30,75,1175644800.0,2007
+Cleveland Cavaliers,Cleveland Cavaliers,Miami Heat,45,31,76,1175814000.0,2007
+Cleveland Cavaliers,Washington Wizards,Cleveland Cavaliers,46,31,77,1175904000.0,2007
+Cleveland Cavaliers,Detroit Pistons,Cleveland Cavaliers,46,32,78,1176051600.0,2007
+Cleveland Cavaliers,Cleveland Cavaliers,New Jersey Nets,47,32,79,1176422400.0,2007
+Cleveland Cavaliers,Cleveland Cavaliers,Atlanta Hawks,48,32,80,1176593400.0,2007
+Cleveland Cavaliers,Philadelphia 76ers,Cleveland Cavaliers,49,32,81,1176850800.0,2007
+Cleveland Cavaliers,Cleveland Cavaliers,Milwaukee Bucks,50,32,82,1176937200.0,2007
+Dallas Mavericks,Dallas Mavericks,San Antonio Spurs,0,1,1,1162515600.0,2007
+Dallas Mavericks,Houston Rockets,Dallas Mavericks,0,2,2,1162690200.0,2007
+Dallas Mavericks,Dallas Mavericks,Golden State Warriors,0,3,3,1162863000.0,2007
+Dallas Mavericks,Los Angeles Clippers,Dallas Mavericks,0,4,4,1163043000.0,2007
+Dallas Mavericks,Phoenix Suns,Dallas Mavericks,1,4,5,1163129400.0,2007
+Dallas Mavericks,Portland Trail Blazers,Dallas Mavericks,2,4,6,1163383200.0,2007
+Dallas Mavericks,Dallas Mavericks,Chicago Bulls,3,4,7,1163554200.0,2007
+Dallas Mavericks,Memphis Grizzlies,Dallas Mavericks,4,4,8,1163811600.0,2007
+Dallas Mavericks,Dallas Mavericks,Memphis Grizzlies,5,4,9,1163899800.0,2007
+Dallas Mavericks,Charlotte Bobcats,Dallas Mavericks,6,4,10,1164067200.0,2007
+Dallas Mavericks,Dallas Mavericks,Washington Wizards,7,4,11,1164159000.0,2007
+Dallas Mavericks,San Antonio Spurs,Dallas Mavericks,8,4,12,1164416400.0,2007
+Dallas Mavericks,Dallas Mavericks,New Orleans Hornets,9,4,13,1164504600.0,2007
+Dallas Mavericks,Dallas Mavericks,Minnesota Timberwolves,10,4,14,1164677400.0,2007
+Dallas Mavericks,Dallas Mavericks,Toronto Raptors,11,4,15,1164850200.0,2007
+Dallas Mavericks,Dallas Mavericks,Sacramento Kings,12,4,16,1165023000.0,2007
+Dallas Mavericks,Washington Wizards,Dallas Mavericks,12,5,17,1165276800.0,2007
+Dallas Mavericks,New Jersey Nets,Dallas Mavericks,13,5,18,1165365000.0,2007
+Dallas Mavericks,Dallas Mavericks,Detroit Pistons,13,6,19,1165539600.0,2007
+Dallas Mavericks,Dallas Mavericks,Denver Nuggets,14,6,20,1165714200.0,2007
+Dallas Mavericks,Utah Jazz,Dallas Mavericks,14,7,21,1165888800.0,2007
+Dallas Mavericks,Dallas Mavericks,Los Angeles Lakers,15,7,22,1166063400.0,2007
+Dallas Mavericks,Dallas Mavericks,Philadelphia 76ers,16,7,23,1166230800.0,2007
+Dallas Mavericks,New Orleans Hornets,Dallas Mavericks,17,7,24,1166317200.0,2007
+Dallas Mavericks,Sacramento Kings,Dallas Mavericks,18,7,25,1166497200.0,2007
+Dallas Mavericks,Seattle Supersonics,Dallas Mavericks,19,7,26,1166671800.0,2007
+Dallas Mavericks,Dallas Mavericks,Los Angeles Clippers,20,7,27,1166837400.0,2007
+Dallas Mavericks,Dallas Mavericks,Charlotte Bobcats,21,7,28,1167183000.0,2007
+Dallas Mavericks,Dallas Mavericks,Phoenix Suns,22,7,29,1167354000.0,2007
+Dallas Mavericks,Dallas Mavericks,New Orleans Hornets,23,7,30,1167528600.0,2007
+Dallas Mavericks,Denver Nuggets,Dallas Mavericks,24,7,31,1167616800.0,2007
+Dallas Mavericks,Dallas Mavericks,Seattle Supersonics,25,7,32,1167787800.0,2007
+Dallas Mavericks,Dallas Mavericks,Indiana Pacers,26,7,33,1167960600.0,2007
+Dallas Mavericks,San Antonio Spurs,Dallas Mavericks,27,7,34,1168045200.0,2007
+Dallas Mavericks,Los Angeles Lakers,Dallas Mavericks,27,8,35,1168223400.0,2007
+Dallas Mavericks,Utah Jazz,Dallas Mavericks,28,8,36,1168394400.0,2007
+Dallas Mavericks,Dallas Mavericks,Portland Trail Blazers,29,8,37,1168479000.0,2007
+Dallas Mavericks,Indiana Pacers,Dallas Mavericks,30,8,38,1168646400.0,2007
+Dallas Mavericks,Toronto Raptors,Dallas Mavericks,31,8,39,1168797600.0,2007
+Dallas Mavericks,Dallas Mavericks,Houston Rockets,32,8,40,1168997400.0,2007
+Dallas Mavericks,Dallas Mavericks,Los Angeles Lakers,33,8,41,1169173800.0,2007
+Dallas Mavericks,Miami Heat,Dallas Mavericks,34,8,42,1169402400.0,2007
+Dallas Mavericks,Orlando Magic,Dallas Mavericks,35,8,43,1169596800.0,2007
+Dallas Mavericks,Chicago Bulls,Dallas Mavericks,35,9,44,1169773200.0,2007
+Dallas Mavericks,Dallas Mavericks,Sacramento Kings,36,9,45,1169947800.0,2007
+Dallas Mavericks,Dallas Mavericks,Seattle Supersonics,37,9,46,1170207000.0,2007
+Dallas Mavericks,Memphis Grizzlies,Dallas Mavericks,38,9,47,1170291600.0,2007
+Dallas Mavericks,Dallas Mavericks,Minnesota Timberwolves,39,9,48,1170552600.0,2007
+Dallas Mavericks,Dallas Mavericks,Memphis Grizzlies,40,9,49,1170898200.0,2007
+Dallas Mavericks,Dallas Mavericks,Houston Rockets,41,9,50,1171071000.0,2007
+Dallas Mavericks,Philadelphia 76ers,Dallas Mavericks,42,9,51,1171234800.0,2007
+Dallas Mavericks,Milwaukee Bucks,Dallas Mavericks,43,9,52,1171414800.0,2007
+Dallas Mavericks,Houston Rockets,Dallas Mavericks,44,9,53,1171587600.0,2007
+Dallas Mavericks,Dallas Mavericks,Miami Heat,45,9,54,1172197800.0,2007
+Dallas Mavericks,Dallas Mavericks,Denver Nuggets,46,9,55,1172368800.0,2007
+Dallas Mavericks,Dallas Mavericks,Atlanta Hawks,47,9,56,1172539800.0,2007
+Dallas Mavericks,Minnesota Timberwolves,Dallas Mavericks,48,9,57,1172624400.0,2007
+Dallas Mavericks,Dallas Mavericks,Cleveland Cavaliers,49,9,58,1172797200.0,2007
+Dallas Mavericks,Dallas Mavericks,Orlando Magic,50,9,59,1172973600.0,2007
+Dallas Mavericks,Dallas Mavericks,New Jersey Nets,51,9,60,1173231000.0,2007
+Dallas Mavericks,Los Angeles Lakers,Dallas Mavericks,52,9,61,1173661200.0,2007
+Dallas Mavericks,Golden State Warriors,Dallas Mavericks,52,10,62,1173753000.0,2007
+Dallas Mavericks,Dallas Mavericks,Phoenix Suns,52,11,63,1173920400.0,2007
+Dallas Mavericks,Dallas Mavericks,Boston Celtics,53,11,64,1174091400.0,2007
+Dallas Mavericks,Detroit Pistons,Dallas Mavericks,54,11,65,1174246200.0,2007
+Dallas Mavericks,New York Knicks,Dallas Mavericks,55,11,66,1174433400.0,2007
+Dallas Mavericks,Cleveland Cavaliers,Dallas Mavericks,56,11,67,1174521600.0,2007
+Dallas Mavericks,Boston Celtics,Dallas Mavericks,57,11,68,1174692600.0,2007
+Dallas Mavericks,Atlanta Hawks,Dallas Mavericks,58,11,69,1174842000.0,2007
+Dallas Mavericks,New Orleans Hornets,Dallas Mavericks,59,11,70,1175040000.0,2007
+Dallas Mavericks,Dallas Mavericks,Milwaukee Bucks,60,11,71,1175128200.0,2007
+Dallas Mavericks,Dallas Mavericks,New York Knicks,61,11,72,1175301000.0,2007
+Dallas Mavericks,Phoenix Suns,Dallas Mavericks,61,12,73,1175455800.0,2007
+Dallas Mavericks,Sacramento Kings,Dallas Mavericks,62,12,74,1175652000.0,2007
+Dallas Mavericks,Denver Nuggets,Dallas Mavericks,62,13,75,1175913000.0,2007
+Dallas Mavericks,Dallas Mavericks,Portland Trail Blazers,63,13,76,1175994000.0,2007
+Dallas Mavericks,Dallas Mavericks,Los Angeles Clippers,64,13,77,1176165000.0,2007
+Dallas Mavericks,Minnesota Timberwolves,Dallas Mavericks,65,13,78,1176336000.0,2007
+Dallas Mavericks,Dallas Mavericks,Utah Jazz,65,14,79,1176510600.0,2007
+Dallas Mavericks,Dallas Mavericks,San Antonio Spurs,66,14,80,1176665400.0,2007
+Dallas Mavericks,Golden State Warriors,Dallas Mavericks,66,15,81,1176863400.0,2007
+Dallas Mavericks,Seattle Supersonics,Dallas Mavericks,67,15,82,1176948000.0,2007
+Denver Nuggets,Los Angeles Clippers,Denver Nuggets,0,1,1,1162524600.0,2007
+Denver Nuggets,Denver Nuggets,Minnesota Timberwolves,0,2,2,1162605600.0,2007
+Denver Nuggets,Denver Nuggets,New York Knicks,0,3,3,1163037600.0,2007
+Denver Nuggets,Philadelphia 76ers,Denver Nuggets,1,3,4,1163203200.0,2007
+Denver Nuggets,Charlotte Bobcats,Denver Nuggets,2,3,5,1163372400.0,2007
+Denver Nuggets,Miami Heat,Denver Nuggets,3,3,6,1163550600.0,2007
+Denver Nuggets,Orlando Magic,Denver Nuggets,3,4,7,1163635200.0,2007
+Denver Nuggets,Denver Nuggets,Toronto Raptors,4,4,8,1163901600.0,2007
+Denver Nuggets,Denver Nuggets,Chicago Bulls,5,4,9,1164160800.0,2007
+Denver Nuggets,Golden State Warriors,Denver Nuggets,6,4,10,1164252600.0,2007
+Denver Nuggets,Denver Nuggets,Golden State Warriors,7,4,11,1164420000.0,2007
+Denver Nuggets,Denver Nuggets,Los Angeles Clippers,8,4,12,1164589200.0,2007
+Denver Nuggets,Denver Nuggets,Memphis Grizzlies,8,5,13,1164765600.0,2007
+Denver Nuggets,Minnesota Timberwolves,Denver Nuggets,9,5,14,1165021200.0,2007
+Denver Nuggets,Denver Nuggets,Indiana Pacers,10,5,15,1165111200.0,2007
+Denver Nuggets,Denver Nuggets,Atlanta Hawks,10,6,16,1165456800.0,2007
+Denver Nuggets,Denver Nuggets,Miami Heat,11,6,17,1165635000.0,2007
+Denver Nuggets,Dallas Mavericks,Denver Nuggets,11,7,18,1165714200.0,2007
+Denver Nuggets,Atlanta Hawks,Denver Nuggets,12,7,19,1165968000.0,2007
+Denver Nuggets,Washington Wizards,Denver Nuggets,12,8,20,1166054400.0,2007
+Denver Nuggets,Boston Celtics,Denver Nuggets,12,9,21,1166229000.0,2007
+Denver Nuggets,New York Knicks,Denver Nuggets,13,9,22,1166315400.0,2007
+Denver Nuggets,Denver Nuggets,Washington Wizards,14,9,23,1166493600.0,2007
+Denver Nuggets,Denver Nuggets,Sacramento Kings,14,10,24,1166839200.0,2007
+Denver Nuggets,Denver Nuggets,Boston Celtics,15,10,25,1167184800.0,2007
+Denver Nuggets,Denver Nuggets,Seattle Supersonics,16,10,26,1167363000.0,2007
+Denver Nuggets,New Orleans Hornets,Denver Nuggets,16,11,27,1167440400.0,2007
+Denver Nuggets,Denver Nuggets,Dallas Mavericks,16,12,28,1167616800.0,2007
+Denver Nuggets,Denver Nuggets,Philadelphia 76ers,16,13,29,1167789600.0,2007
+Denver Nuggets,Los Angeles Lakers,Denver Nuggets,16,14,30,1168054200.0,2007
+Denver Nuggets,Denver Nuggets,Utah Jazz,16,15,31,1168135200.0,2007
+Denver Nuggets,Denver Nuggets,Milwaukee Bucks,17,15,32,1168308000.0,2007
+Denver Nuggets,Denver Nuggets,San Antonio Spurs,17,16,33,1168480800.0,2007
+Denver Nuggets,Denver Nuggets,Houston Rockets,17,17,34,1168659000.0,2007
+Denver Nuggets,Portland Trail Blazers,Denver Nuggets,18,17,35,1168826400.0,2007
+Denver Nuggets,Denver Nuggets,Cleveland Cavaliers,19,17,36,1169263800.0,2007
+Denver Nuggets,Houston Rockets,Denver Nuggets,20,17,37,1169343000.0,2007
+Denver Nuggets,Denver Nuggets,Memphis Grizzlies,21,17,38,1169517600.0,2007
+Denver Nuggets,Seattle Supersonics,Denver Nuggets,22,17,39,1169607600.0,2007
+Denver Nuggets,Utah Jazz,Denver Nuggets,22,18,40,1169863200.0,2007
+Denver Nuggets,Denver Nuggets,New Jersey Nets,22,19,41,1169949600.0,2007
+Denver Nuggets,Denver Nuggets,Charlotte Bobcats,22,20,42,1170122400.0,2007
+Denver Nuggets,Portland Trail Blazers,Denver Nuggets,22,21,43,1170298800.0,2007
+Denver Nuggets,Denver Nuggets,Portland Trail Blazers,23,21,44,1170468000.0,2007
+Denver Nuggets,Sacramento Kings,Denver Nuggets,23,22,45,1170558000.0,2007
+Denver Nuggets,Denver Nuggets,Phoenix Suns,23,23,46,1170727200.0,2007
+Denver Nuggets,Denver Nuggets,New Orleans Hornets,23,24,47,1170900000.0,2007
+Denver Nuggets,Indiana Pacers,Denver Nuggets,24,24,48,1171065600.0,2007
+Denver Nuggets,Milwaukee Bucks,Denver Nuggets,25,24,49,1171157400.0,2007
+Denver Nuggets,Denver Nuggets,Golden State Warriors,26,24,50,1171332000.0,2007
+Denver Nuggets,Minnesota Timberwolves,Denver Nuggets,26,25,51,1171501200.0,2007
+Denver Nuggets,San Antonio Spurs,Denver Nuggets,26,26,52,1172019600.0,2007
+Denver Nuggets,Denver Nuggets,Utah Jazz,26,27,53,1172287800.0,2007
+Denver Nuggets,Dallas Mavericks,Denver Nuggets,26,28,54,1172368800.0,2007
+Denver Nuggets,Memphis Grizzlies,Denver Nuggets,27,28,55,1172538000.0,2007
+Denver Nuggets,Denver Nuggets,Orlando Magic,28,28,56,1172714400.0,2007
+Denver Nuggets,Denver Nuggets,Houston Rockets,28,29,57,1172892600.0,2007
+Denver Nuggets,Denver Nuggets,New Orleans Hornets,29,29,58,1173232800.0,2007
+Denver Nuggets,Golden State Warriors,Denver Nuggets,29,30,59,1173324600.0,2007
+Denver Nuggets,Denver Nuggets,Detroit Pistons,29,31,60,1173492000.0,2007
+Denver Nuggets,Sacramento Kings,Denver Nuggets,30,31,61,1173641400.0,2007
+Denver Nuggets,Denver Nuggets,Portland Trail Blazers,31,31,62,1173834000.0,2007
+Denver Nuggets,Denver Nuggets,Los Angeles Lakers,32,31,63,1174012200.0,2007
+Denver Nuggets,Denver Nuggets,Phoenix Suns,33,31,64,1174183200.0,2007
+Denver Nuggets,New Jersey Nets,Denver Nuggets,34,31,65,1174431600.0,2007
+Denver Nuggets,Chicago Bulls,Denver Nuggets,34,32,66,1174609800.0,2007
+Denver Nuggets,Toronto Raptors,Denver Nuggets,34,33,67,1174690800.0,2007
+Denver Nuggets,Cleveland Cavaliers,Denver Nuggets,35,33,68,1174867200.0,2007
+Denver Nuggets,Detroit Pistons,Denver Nuggets,35,34,69,1174951800.0,2007
+Denver Nuggets,Denver Nuggets,Seattle Supersonics,35,35,70,1175130000.0,2007
+Denver Nuggets,Phoenix Suns,Denver Nuggets,35,36,71,1175306400.0,2007
+Denver Nuggets,Seattle Supersonics,Denver Nuggets,36,36,72,1175475600.0,2007
+Denver Nuggets,Los Angeles Lakers,Denver Nuggets,37,36,73,1175653800.0,2007
+Denver Nuggets,Denver Nuggets,Sacramento Kings,38,36,74,1175738400.0,2007
+Denver Nuggets,Denver Nuggets,Dallas Mavericks,39,36,75,1175913000.0,2007
+Denver Nuggets,Los Angeles Clippers,Denver Nuggets,40,36,76,1175999400.0,2007
+Denver Nuggets,Denver Nuggets,Los Angeles Lakers,41,36,77,1176166800.0,2007
+Denver Nuggets,Utah Jazz,Denver Nuggets,42,36,78,1176339600.0,2007
+Denver Nuggets,New Orleans Hornets,Denver Nuggets,43,36,79,1176508800.0,2007
+Denver Nuggets,Memphis Grizzlies,Denver Nuggets,43,37,80,1176595200.0,2007
+Denver Nuggets,Denver Nuggets,Minnesota Timberwolves,44,37,81,1176771600.0,2007
+Denver Nuggets,San Antonio Spurs,Denver Nuggets,45,37,82,1176940800.0,2007
+Detroit Pistons,Detroit Pistons,Milwaukee Bucks,0,1,1,1162429200.0,2007
+Detroit Pistons,Boston Celtics,Detroit Pistons,1,1,2,1162600200.0,2007
+Detroit Pistons,Detroit Pistons,Memphis Grizzlies,2,1,3,1162686600.0,2007
+Detroit Pistons,Utah Jazz,Detroit Pistons,2,2,4,1162864800.0,2007
+Detroit Pistons,Sacramento Kings,Detroit Pistons,2,3,5,1163043000.0,2007
+Detroit Pistons,Los Angeles Lakers,Detroit Pistons,3,3,6,1163215800.0,2007
+Detroit Pistons,Golden State Warriors,Detroit Pistons,3,4,7,1163302200.0,2007
+Detroit Pistons,Detroit Pistons,New Orleans Hornets,3,5,8,1163637000.0,2007
+Detroit Pistons,Detroit Pistons,Washington Wizards,4,5,9,1163811600.0,2007
+Detroit Pistons,Detroit Pistons,Houston Rockets,5,5,10,1163896200.0,2007
+Detroit Pistons,Philadelphia 76ers,Detroit Pistons,6,5,11,1164153600.0,2007
+Detroit Pistons,Detroit Pistons,Atlanta Hawks,7,5,12,1164241800.0,2007
+Detroit Pistons,Detroit Pistons,Charlotte Bobcats,8,5,13,1164416400.0,2007
+Detroit Pistons,Washington Wizards,Detroit Pistons,9,5,14,1164499200.0,2007
+Detroit Pistons,Miami Heat,Detroit Pistons,10,5,15,1164934800.0,2007
+Detroit Pistons,Detroit Pistons,New York Knicks,11,5,16,1165021200.0,2007
+Detroit Pistons,Charlotte Bobcats,Detroit Pistons,11,6,17,1165186800.0,2007
+Detroit Pistons,Detroit Pistons,Portland Trail Blazers,11,7,18,1165365000.0,2007
+Detroit Pistons,Dallas Mavericks,Detroit Pistons,12,7,19,1165539600.0,2007
+Detroit Pistons,Orlando Magic,Detroit Pistons,13,7,20,1165622400.0,2007
+Detroit Pistons,Indiana Pacers,Detroit Pistons,13,8,21,1166054400.0,2007
+Detroit Pistons,New Jersey Nets,Detroit Pistons,14,8,22,1166317200.0,2007
+Detroit Pistons,Detroit Pistons,Seattle Supersonics,15,8,23,1166396400.0,2007
+Detroit Pistons,Cleveland Cavaliers,Detroit Pistons,16,8,24,1166749200.0,2007
+Detroit Pistons,Detroit Pistons,Atlanta Hawks,17,8,25,1166920200.0,2007
+Detroit Pistons,Detroit Pistons,New Jersey Nets,18,8,26,1167179400.0,2007
+Detroit Pistons,New York Knicks,Detroit Pistons,18,9,27,1167265800.0,2007
+Detroit Pistons,Detroit Pistons,Indiana Pacers,18,10,28,1167440400.0,2007
+Detroit Pistons,Detroit Pistons,Phoenix Suns,18,11,29,1167598800.0,2007
+Detroit Pistons,New Orleans Hornets,Detroit Pistons,19,11,30,1167958800.0,2007
+Detroit Pistons,Chicago Bulls,Detroit Pistons,19,12,31,1168133400.0,2007
+Detroit Pistons,Philadelphia 76ers,Detroit Pistons,20,12,32,1168387200.0,2007
+Detroit Pistons,Detroit Pistons,Charlotte Bobcats,20,13,33,1168475400.0,2007
+Detroit Pistons,Atlanta Hawks,Detroit Pistons,20,14,34,1168648200.0,2007
+Detroit Pistons,Detroit Pistons,Boston Celtics,21,14,35,1168734600.0,2007
+Detroit Pistons,Detroit Pistons,Minnesota Timberwolves,21,15,36,1168893000.0,2007
+Detroit Pistons,Detroit Pistons,Utah Jazz,21,16,37,1169080200.0,2007
+Detroit Pistons,Minnesota Timberwolves,Detroit Pistons,22,16,38,1169254800.0,2007
+Detroit Pistons,Detroit Pistons,Sacramento Kings,23,16,39,1169339400.0,2007
+Detroit Pistons,Charlotte Bobcats,Detroit Pistons,24,16,40,1169683200.0,2007
+Detroit Pistons,Detroit Pistons,Washington Wizards,24,17,41,1169856000.0,2007
+Detroit Pistons,Detroit Pistons,Indiana Pacers,25,17,42,1170027000.0,2007
+Detroit Pistons,Washington Wizards,Detroit Pistons,25,18,43,1170201600.0,2007
+Detroit Pistons,New Jersey Nets,Detroit Pistons,26,18,44,1170289800.0,2007
+Detroit Pistons,Detroit Pistons,Milwaukee Bucks,27,18,45,1170464400.0,2007
+Detroit Pistons,Cleveland Cavaliers,Detroit Pistons,28,18,46,1170617400.0,2007
+Detroit Pistons,Detroit Pistons,Boston Celtics,29,18,47,1170808200.0,2007
+Detroit Pistons,Detroit Pistons,Los Angeles Lakers,30,18,48,1170982800.0,2007
+Detroit Pistons,Detroit Pistons,Toronto Raptors,31,18,49,1171153800.0,2007
+Detroit Pistons,Detroit Pistons,Los Angeles Clippers,32,18,50,1171326600.0,2007
+Detroit Pistons,Detroit Pistons,San Antonio Spurs,32,19,51,1171499400.0,2007
+Detroit Pistons,Milwaukee Bucks,Detroit Pistons,33,19,52,1172019600.0,2007
+Detroit Pistons,Detroit Pistons,Orlando Magic,34,19,53,1172104200.0,2007
+Detroit Pistons,Orlando Magic,Detroit Pistons,35,19,54,1172275200.0,2007
+Detroit Pistons,Detroit Pistons,Chicago Bulls,36,19,55,1172426400.0,2007
+Detroit Pistons,Miami Heat,Detroit Pistons,36,20,56,1172883600.0,2007
+Detroit Pistons,Memphis Grizzlies,Detroit Pistons,37,20,57,1172970000.0,2007
+Detroit Pistons,Detroit Pistons,Golden State Warriors,37,21,58,1173141000.0,2007
+Detroit Pistons,Detroit Pistons,Cleveland Cavaliers,37,22,59,1173313800.0,2007
+Detroit Pistons,Denver Nuggets,Detroit Pistons,38,22,60,1173492000.0,2007
+Detroit Pistons,Los Angeles Clippers,Detroit Pistons,39,22,61,1173639600.0,2007
+Detroit Pistons,Seattle Supersonics,Detroit Pistons,40,22,62,1173837600.0,2007
+Detroit Pistons,Portland Trail Blazers,Detroit Pistons,41,22,63,1173924000.0,2007
+Detroit Pistons,Phoenix Suns,Detroit Pistons,42,22,64,1174096800.0,2007
+Detroit Pistons,Detroit Pistons,Dallas Mavericks,42,23,65,1174246200.0,2007
+Detroit Pistons,Detroit Pistons,Philadelphia 76ers,43,23,66,1174433400.0,2007
+Detroit Pistons,Houston Rockets,Detroit Pistons,43,24,67,1174609800.0,2007
+Detroit Pistons,San Antonio Spurs,Detroit Pistons,43,25,68,1174694400.0,2007
+Detroit Pistons,Milwaukee Bucks,Detroit Pistons,44,25,69,1174851000.0,2007
+Detroit Pistons,Detroit Pistons,Denver Nuggets,45,25,70,1174951800.0,2007
+Detroit Pistons,Chicago Bulls,Detroit Pistons,45,26,71,1175212800.0,2007
+Detroit Pistons,Detroit Pistons,New Jersey Nets,46,26,72,1175299200.0,2007
+Detroit Pistons,Detroit Pistons,Miami Heat,47,26,73,1175446800.0,2007
+Detroit Pistons,Indiana Pacers,Detroit Pistons,48,26,74,1175641200.0,2007
+Detroit Pistons,Detroit Pistons,Chicago Bulls,48,27,75,1175729400.0,2007
+Detroit Pistons,Detroit Pistons,Cleveland Cavaliers,49,27,76,1176051600.0,2007
+Detroit Pistons,New York Knicks,Detroit Pistons,50,27,77,1176161400.0,2007
+Detroit Pistons,Detroit Pistons,Orlando Magic,51,27,78,1176336000.0,2007
+Detroit Pistons,Toronto Raptors,Detroit Pistons,51,28,79,1176505200.0,2007
+Detroit Pistons,Detroit Pistons,Philadelphia 76ers,51,29,80,1176674400.0,2007
+Detroit Pistons,Detroit Pistons,Toronto Raptors,52,29,81,1176852600.0,2007
+Detroit Pistons,Boston Celtics,Detroit Pistons,53,29,82,1176939000.0,2007
+Golden State Warriors,Golden State Warriors,Los Angeles Lakers,0,1,1,1162438200.0,2007
+Golden State Warriors,Golden State Warriors,Portland Trail Blazers,1,1,2,1162611000.0,2007
+Golden State Warriors,Utah Jazz,Golden State Warriors,1,2,3,1162692000.0,2007
+Golden State Warriors,Dallas Mavericks,Golden State Warriors,2,2,4,1162863000.0,2007
+Golden State Warriors,New Orleans Hornets,Golden State Warriors,2,3,5,1162947600.0,2007
+Golden State Warriors,Golden State Warriors,New Orleans Hornets,3,3,6,1163129400.0,2007
+Golden State Warriors,Golden State Warriors,Detroit Pistons,4,3,7,1163302200.0,2007
+Golden State Warriors,Golden State Warriors,Toronto Raptors,5,3,8,1163561400.0,2007
+Golden State Warriors,Golden State Warriors,Sacramento Kings,6,3,9,1163734200.0,2007
+Golden State Warriors,Golden State Warriors,Seattle Supersonics,7,3,10,1163907000.0,2007
+Golden State Warriors,Golden State Warriors,Phoenix Suns,7,4,11,1164079800.0,2007
+Golden State Warriors,Golden State Warriors,Denver Nuggets,7,5,12,1164252600.0,2007
+Golden State Warriors,Denver Nuggets,Golden State Warriors,7,6,13,1164420000.0,2007
+Golden State Warriors,Golden State Warriors,Utah Jazz,8,6,14,1164511800.0,2007
+Golden State Warriors,Golden State Warriors,San Antonio Spurs,9,6,15,1164684600.0,2007
+Golden State Warriors,Golden State Warriors,Indiana Pacers,9,7,16,1164857400.0,2007
+Golden State Warriors,Golden State Warriors,Milwaukee Bucks,9,8,17,1165116600.0,2007
+Golden State Warriors,San Antonio Spurs,Golden State Warriors,9,9,18,1165280400.0,2007
+Golden State Warriors,Houston Rockets,Golden State Warriors,9,10,19,1165368600.0,2007
+Golden State Warriors,Golden State Warriors,New Orleans Hornets,10,10,20,1165721400.0,2007
+Golden State Warriors,Seattle Supersonics,Golden State Warriors,10,11,21,1165802400.0,2007
+Golden State Warriors,Golden State Warriors,Sacramento Kings,11,11,22,1165980600.0,2007
+Golden State Warriors,Golden State Warriors,Houston Rockets,12,11,23,1166153400.0,2007
+Golden State Warriors,Phoenix Suns,Golden State Warriors,12,12,24,1166234400.0,2007
+Golden State Warriors,Toronto Raptors,Golden State Warriors,12,13,25,1166378400.0,2007
+Golden State Warriors,New Jersey Nets,Golden State Warriors,12,14,26,1166488200.0,2007
+Golden State Warriors,Boston Celtics,Golden State Warriors,13,14,27,1166661000.0,2007
+Golden State Warriors,Orlando Magic,Golden State Warriors,14,14,28,1166832000.0,2007
+Golden State Warriors,Miami Heat,Golden State Warriors,14,15,29,1166920200.0,2007
+Golden State Warriors,Golden State Warriors,Philadelphia 76ers,15,15,30,1167190200.0,2007
+Golden State Warriors,Golden State Warriors,Boston Celtics,16,15,31,1167449400.0,2007
+Golden State Warriors,Sacramento Kings,Golden State Warriors,16,16,32,1167534000.0,2007
+Golden State Warriors,New Orleans Hornets,Golden State Warriors,17,16,33,1167786000.0,2007
+Golden State Warriors,Memphis Grizzlies,Golden State Warriors,17,17,34,1167872400.0,2007
+Golden State Warriors,Golden State Warriors,Seattle Supersonics,18,17,35,1168140600.0,2007
+Golden State Warriors,Phoenix Suns,Golden State Warriors,18,18,36,1168218000.0,2007
+Golden State Warriors,Golden State Warriors,Orlando Magic,18,19,37,1168486200.0,2007
+Golden State Warriors,Golden State Warriors,Miami Heat,18,20,38,1168659000.0,2007
+Golden State Warriors,Golden State Warriors,Los Angeles Clippers,19,20,39,1168894800.0,2007
+Golden State Warriors,Los Angeles Clippers,Golden State Warriors,19,21,40,1169091000.0,2007
+Golden State Warriors,Golden State Warriors,Cleveland Cavaliers,19,22,41,1169350200.0,2007
+Golden State Warriors,Los Angeles Lakers,Golden State Warriors,19,23,42,1169523000.0,2007
+Golden State Warriors,Golden State Warriors,New Jersey Nets,20,23,43,1169695800.0,2007
+Golden State Warriors,Golden State Warriors,Charlotte Bobcats,21,23,44,1169955000.0,2007
+Golden State Warriors,Cleveland Cavaliers,Golden State Warriors,21,24,45,1170201600.0,2007
+Golden State Warriors,Atlanta Hawks,Golden State Warriors,21,25,46,1170288000.0,2007
+Golden State Warriors,Philadelphia 76ers,Golden State Warriors,22,25,47,1170460800.0,2007
+Golden State Warriors,Charlotte Bobcats,Golden State Warriors,22,26,48,1170547200.0,2007
+Golden State Warriors,Indiana Pacers,Golden State Warriors,23,26,49,1170720000.0,2007
+Golden State Warriors,Minnesota Timberwolves,Golden State Warriors,23,27,50,1170896400.0,2007
+Golden State Warriors,Golden State Warriors,Chicago Bulls,24,27,51,1171078200.0,2007
+Golden State Warriors,Golden State Warriors,Atlanta Hawks,24,28,52,1171245600.0,2007
+Golden State Warriors,Denver Nuggets,Golden State Warriors,24,29,53,1171332000.0,2007
+Golden State Warriors,Golden State Warriors,New York Knicks,25,29,54,1171510200.0,2007
+Golden State Warriors,Golden State Warriors,Memphis Grizzlies,26,29,55,1172115000.0,2007
+Golden State Warriors,Los Angeles Clippers,Golden State Warriors,26,30,56,1172349000.0,2007
+Golden State Warriors,Golden State Warriors,Los Angeles Lakers,26,31,57,1172444400.0,2007
+Golden State Warriors,Milwaukee Bucks,Golden State Warriors,26,32,58,1172624400.0,2007
+Golden State Warriors,Chicago Bulls,Golden State Warriors,26,33,59,1172712600.0,2007
+Golden State Warriors,New York Knicks,Golden State Warriors,26,34,60,1172881800.0,2007
+Golden State Warriors,Washington Wizards,Golden State Warriors,26,35,61,1173031200.0,2007
+Golden State Warriors,Detroit Pistons,Golden State Warriors,27,35,62,1173141000.0,2007
+Golden State Warriors,Golden State Warriors,Denver Nuggets,28,35,63,1173324600.0,2007
+Golden State Warriors,Golden State Warriors,Los Angeles Clippers,29,35,64,1173497400.0,2007
+Golden State Warriors,Portland Trail Blazers,Golden State Warriors,29,36,65,1173661200.0,2007
+Golden State Warriors,Golden State Warriors,Dallas Mavericks,30,36,66,1173753000.0,2007
+Golden State Warriors,Golden State Warriors,Minnesota Timberwolves,31,36,67,1174098600.0,2007
+Golden State Warriors,Seattle Supersonics,Golden State Warriors,32,36,68,1174183200.0,2007
+Golden State Warriors,Utah Jazz,Golden State Warriors,32,37,69,1174438800.0,2007
+Golden State Warriors,Golden State Warriors,Washington Wizards,33,37,70,1174703400.0,2007
+Golden State Warriors,Los Angeles Lakers,Golden State Warriors,33,38,71,1174872600.0,2007
+Golden State Warriors,Golden State Warriors,San Antonio Spurs,33,39,72,1174962600.0,2007
+Golden State Warriors,Golden State Warriors,Phoenix Suns,34,39,73,1175221800.0,2007
+Golden State Warriors,Golden State Warriors,Memphis Grizzlies,35,39,74,1175454000.0,2007
+Golden State Warriors,Houston Rockets,Golden State Warriors,36,39,75,1175733000.0,2007
+Golden State Warriors,Memphis Grizzlies,Golden State Warriors,37,39,76,1175904000.0,2007
+Golden State Warriors,San Antonio Spurs,Golden State Warriors,37,40,77,1175990400.0,2007
+Golden State Warriors,Golden State Warriors,Utah Jazz,38,40,78,1176172200.0,2007
+Golden State Warriors,Sacramento Kings,Golden State Warriors,39,40,79,1176516000.0,2007
+Golden State Warriors,Golden State Warriors,Minnesota Timberwolves,40,40,80,1176665400.0,2007
+Golden State Warriors,Golden State Warriors,Dallas Mavericks,41,40,81,1176863400.0,2007
+Golden State Warriors,Portland Trail Blazers,Golden State Warriors,42,40,82,1176948000.0,2007
+Houston Rockets,Utah Jazz,Houston Rockets,0,1,1,1162432800.0,2007
+Houston Rockets,Houston Rockets,Dallas Mavericks,1,1,2,1162690200.0,2007
+Houston Rockets,New Orleans Hornets,Houston Rockets,1,2,3,1162771200.0,2007
+Houston Rockets,Memphis Grizzlies,Houston Rockets,2,2,4,1162947600.0,2007
+Houston Rockets,Milwaukee Bucks,Houston Rockets,3,2,5,1163034000.0,2007
+Houston Rockets,Houston Rockets,New York Knicks,4,2,6,1163208600.0,2007
+Houston Rockets,Miami Heat,Houston Rockets,5,2,7,1163379600.0,2007
+Houston Rockets,Houston Rockets,San Antonio Spurs,5,3,8,1163554200.0,2007
+Houston Rockets,Houston Rockets,Chicago Bulls,6,3,9,1163725200.0,2007
+Houston Rockets,Detroit Pistons,Houston Rockets,6,4,10,1163896200.0,2007
+Houston Rockets,New York Knicks,Houston Rockets,7,4,11,1164069000.0,2007
+Houston Rockets,Houston Rockets,Washington Wizards,8,4,12,1164245400.0,2007
+Houston Rockets,Houston Rockets,Memphis Grizzlies,9,4,13,1164504600.0,2007
+Houston Rockets,Houston Rockets,Minnesota Timberwolves,10,4,14,1164763800.0,2007
+Houston Rockets,Phoenix Suns,Houston Rockets,10,5,15,1164852000.0,2007
+Houston Rockets,Houston Rockets,Cleveland Cavaliers,11,5,16,1165109400.0,2007
+Houston Rockets,Houston Rockets,Golden State Warriors,12,5,17,1165368600.0,2007
+Houston Rockets,Minnesota Timberwolves,Houston Rockets,12,6,18,1165453200.0,2007
+Houston Rockets,Charlotte Bobcats,Houston Rockets,13,6,19,1165622400.0,2007
+Houston Rockets,Washington Wizards,Houston Rockets,14,6,20,1165708800.0,2007
+Houston Rockets,Houston Rockets,Los Angeles Lakers,14,7,21,1165973400.0,2007
+Houston Rockets,Golden State Warriors,Houston Rockets,14,8,22,1166153400.0,2007
+Houston Rockets,Los Angeles Lakers,Houston Rockets,14,9,23,1166239800.0,2007
+Houston Rockets,Los Angeles Clippers,Houston Rockets,15,9,24,1166387400.0,2007
+Houston Rockets,Portland Trail Blazers,Houston Rockets,15,10,25,1166670000.0,2007
+Houston Rockets,San Antonio Spurs,Houston Rockets,16,10,26,1166835600.0,2007
+Houston Rockets,Houston Rockets,Los Angeles Clippers,16,11,27,1166923800.0,2007
+Houston Rockets,Indiana Pacers,Houston Rockets,16,12,28,1167177600.0,2007
+Houston Rockets,New Jersey Nets,Houston Rockets,17,12,29,1167265800.0,2007
+Houston Rockets,Houston Rockets,Atlanta Hawks,18,12,30,1167442200.0,2007
+Houston Rockets,Houston Rockets,Memphis Grizzlies,19,12,31,1167609600.0,2007
+Houston Rockets,Houston Rockets,Seattle Supersonics,20,12,32,1167874200.0,2007
+Houston Rockets,Houston Rockets,Utah Jazz,21,12,33,1168047000.0,2007
+Houston Rockets,Minnesota Timberwolves,Houston Rockets,21,13,34,1168201800.0,2007
+Houston Rockets,Chicago Bulls,Houston Rockets,22,13,35,1168306200.0,2007
+Houston Rockets,Houston Rockets,Los Angeles Lakers,23,13,36,1168479000.0,2007
+Houston Rockets,Denver Nuggets,Houston Rockets,24,13,37,1168659000.0,2007
+Houston Rockets,Sacramento Kings,Houston Rockets,25,13,38,1168743600.0,2007
+Houston Rockets,Dallas Mavericks,Houston Rockets,25,14,39,1168997400.0,2007
+Houston Rockets,Houston Rockets,Phoenix Suns,25,15,40,1169083800.0,2007
+Houston Rockets,Houston Rockets,Denver Nuggets,25,16,41,1169343000.0,2007
+Houston Rockets,San Antonio Spurs,Houston Rockets,26,16,42,1169690400.0,2007
+Houston Rockets,Houston Rockets,Portland Trail Blazers,27,16,43,1169861400.0,2007
+Houston Rockets,Houston Rockets,Philadelphia 76ers,28,16,44,1170120600.0,2007
+Houston Rockets,Houston Rockets,Seattle Supersonics,29,16,45,1170293400.0,2007
+Houston Rockets,Houston Rockets,New Orleans Hornets,29,17,46,1170552600.0,2007
+Houston Rockets,Houston Rockets,Minnesota Timberwolves,30,17,47,1170725400.0,2007
+Houston Rockets,Memphis Grizzlies,Houston Rockets,31,17,48,1170810000.0,2007
+Houston Rockets,Dallas Mavericks,Houston Rockets,31,18,49,1171071000.0,2007
+Houston Rockets,Houston Rockets,Charlotte Bobcats,32,18,50,1171157400.0,2007
+Houston Rockets,Houston Rockets,Sacramento Kings,33,18,51,1171416600.0,2007
+Houston Rockets,Houston Rockets,Dallas Mavericks,33,19,52,1171587600.0,2007
+Houston Rockets,Houston Rockets,Miami Heat,34,19,53,1172109600.0,2007
+Houston Rockets,Atlanta Hawks,Houston Rockets,34,20,54,1172277000.0,2007
+Houston Rockets,Orlando Magic,Houston Rockets,35,20,55,1172430000.0,2007
+Houston Rockets,Houston Rockets,Boston Celtics,35,21,56,1172539800.0,2007
+Houston Rockets,Houston Rockets,Toronto Raptors,35,22,57,1172712600.0,2007
+Houston Rockets,Denver Nuggets,Houston Rockets,36,22,58,1172892600.0,2007
+Houston Rockets,Houston Rockets,San Antonio Spurs,36,23,59,1172971800.0,2007
+Houston Rockets,Cleveland Cavaliers,Houston Rockets,36,24,60,1173139200.0,2007
+Houston Rockets,Boston Celtics,Houston Rockets,37,24,61,1173313800.0,2007
+Houston Rockets,Houston Rockets,New Jersey Nets,38,24,62,1173490200.0,2007
+Houston Rockets,Houston Rockets,Orlando Magic,39,24,63,1173652200.0,2007
+Houston Rockets,Phoenix Suns,Houston Rockets,39,25,64,1173751200.0,2007
+Houston Rockets,Houston Rockets,Los Angeles Clippers,40,25,65,1173918600.0,2007
+Houston Rockets,Toronto Raptors,Houston Rockets,41,25,66,1174086000.0,2007
+Houston Rockets,Philadelphia 76ers,Houston Rockets,42,25,67,1174255200.0,2007
+Houston Rockets,Houston Rockets,Indiana Pacers,43,25,68,1174440600.0,2007
+Houston Rockets,Houston Rockets,Detroit Pistons,44,25,69,1174609800.0,2007
+Houston Rockets,New Orleans Hornets,Houston Rockets,44,26,70,1174867200.0,2007
+Houston Rockets,Houston Rockets,Milwaukee Bucks,45,26,71,1174955400.0,2007
+Houston Rockets,Los Angeles Clippers,Houston Rockets,46,26,72,1175133600.0,2007
+Houston Rockets,Los Angeles Lakers,Houston Rockets,47,26,73,1175308200.0,2007
+Houston Rockets,Houston Rockets,Utah Jazz,47,27,74,1175464800.0,2007
+Houston Rockets,Houston Rockets,Golden State Warriors,47,28,75,1175733000.0,2007
+Houston Rockets,Houston Rockets,Portland Trail Blazers,47,29,76,1175905800.0,2007
+Houston Rockets,Sacramento Kings,Houston Rockets,48,29,77,1176080400.0,2007
+Houston Rockets,Seattle Supersonics,Houston Rockets,49,29,78,1176170400.0,2007
+Houston Rockets,Portland Trail Blazers,Houston Rockets,50,29,79,1176343200.0,2007
+Houston Rockets,Houston Rockets,New Orleans Hornets,51,29,80,1176597000.0,2007
+Houston Rockets,Houston Rockets,Phoenix Suns,52,29,81,1176769800.0,2007
+Houston Rockets,Utah Jazz,Houston Rockets,52,30,82,1176944400.0,2007
+Indiana Pacers,Charlotte Bobcats,Indiana Pacers,1,0,1,1162425600.0,2007
+Indiana Pacers,Indiana Pacers,New Orleans Hornets,1,1,2,1162598400.0,2007
+Indiana Pacers,New York Knicks,Indiana Pacers,2,1,3,1162686600.0,2007
+Indiana Pacers,Indiana Pacers,Philadelphia 76ers,3,1,4,1162944000.0,2007
+Indiana Pacers,Washington Wizards,Indiana Pacers,3,2,5,1163030400.0,2007
+Indiana Pacers,Indiana Pacers,Orlando Magic,4,2,6,1163203200.0,2007
+Indiana Pacers,Chicago Bulls,Indiana Pacers,4,3,7,1163295000.0,2007
+Indiana Pacers,Boston Celtics,Indiana Pacers,4,4,8,1163637000.0,2007
+Indiana Pacers,Indiana Pacers,New Jersey Nets,4,5,9,1163808000.0,2007
+Indiana Pacers,Milwaukee Bucks,Indiana Pacers,5,5,10,1163899800.0,2007
+Indiana Pacers,Indiana Pacers,Milwaukee Bucks,6,5,11,1164153600.0,2007
+Indiana Pacers,Orlando Magic,Indiana Pacers,6,6,12,1164240000.0,2007
+Indiana Pacers,Indiana Pacers,Cleveland Cavaliers,7,6,13,1164416400.0,2007
+Indiana Pacers,Toronto Raptors,Indiana Pacers,7,7,14,1164564000.0,2007
+Indiana Pacers,Portland Trail Blazers,Indiana Pacers,8,7,15,1164769200.0,2007
+Indiana Pacers,Golden State Warriors,Indiana Pacers,9,7,16,1164857400.0,2007
+Indiana Pacers,Seattle Supersonics,Indiana Pacers,9,8,17,1165030200.0,2007
+Indiana Pacers,Denver Nuggets,Indiana Pacers,9,9,18,1165111200.0,2007
+Indiana Pacers,Los Angeles Lakers,Indiana Pacers,9,10,19,1165289400.0,2007
+Indiana Pacers,Indiana Pacers,Orlando Magic,10,10,20,1165449600.0,2007
+Indiana Pacers,Indiana Pacers,Portland Trail Blazers,11,10,21,1165622400.0,2007
+Indiana Pacers,Cleveland Cavaliers,Indiana Pacers,11,11,22,1165710600.0,2007
+Indiana Pacers,Chicago Bulls,Indiana Pacers,11,12,23,1165887000.0,2007
+Indiana Pacers,Indiana Pacers,Detroit Pistons,12,12,24,1166054400.0,2007
+Indiana Pacers,Indiana Pacers,New York Knicks,13,12,25,1166227200.0,2007
+Indiana Pacers,Indiana Pacers,Utah Jazz,13,13,26,1166383800.0,2007
+Indiana Pacers,Philadelphia 76ers,Indiana Pacers,14,13,27,1166659200.0,2007
+Indiana Pacers,Atlanta Hawks,Indiana Pacers,15,13,28,1166833800.0,2007
+Indiana Pacers,Indiana Pacers,Minnesota Timberwolves,15,14,29,1166918400.0,2007
+Indiana Pacers,Indiana Pacers,Houston Rockets,16,14,30,1167177600.0,2007
+Indiana Pacers,Detroit Pistons,Indiana Pacers,17,14,31,1167440400.0,2007
+Indiana Pacers,Indiana Pacers,Charlotte Bobcats,17,15,32,1167523200.0,2007
+Indiana Pacers,Dallas Mavericks,Indiana Pacers,17,16,33,1167960600.0,2007
+Indiana Pacers,New Orleans Hornets,Indiana Pacers,18,16,34,1168131600.0,2007
+Indiana Pacers,Indiana Pacers,Atlanta Hawks,19,16,35,1168387200.0,2007
+Indiana Pacers,Boston Celtics,Indiana Pacers,20,16,36,1168475400.0,2007
+Indiana Pacers,Indiana Pacers,Dallas Mavericks,20,17,37,1168646400.0,2007
+Indiana Pacers,New Jersey Nets,Indiana Pacers,20,18,38,1168893000.0,2007
+Indiana Pacers,Miami Heat,Indiana Pacers,20,19,39,1169164800.0,2007
+Indiana Pacers,Indiana Pacers,New York Knicks,20,20,40,1169337600.0,2007
+Indiana Pacers,Indiana Pacers,Chicago Bulls,21,20,41,1169510400.0,2007
+Indiana Pacers,Indiana Pacers,Miami Heat,22,20,42,1169683200.0,2007
+Indiana Pacers,Indiana Pacers,Toronto Raptors,23,20,43,1169942400.0,2007
+Indiana Pacers,Detroit Pistons,Indiana Pacers,23,21,44,1170027000.0,2007
+Indiana Pacers,Indiana Pacers,Boston Celtics,24,21,45,1170201600.0,2007
+Indiana Pacers,Indiana Pacers,Los Angeles Lakers,25,21,46,1170460800.0,2007
+Indiana Pacers,Memphis Grizzlies,Indiana Pacers,26,21,47,1170550800.0,2007
+Indiana Pacers,Indiana Pacers,Golden State Warriors,26,22,48,1170720000.0,2007
+Indiana Pacers,Indiana Pacers,Seattle Supersonics,26,23,49,1170892800.0,2007
+Indiana Pacers,Indiana Pacers,Denver Nuggets,26,24,50,1171065600.0,2007
+Indiana Pacers,Indiana Pacers,Los Angeles Clippers,27,24,51,1171222200.0,2007
+Indiana Pacers,Indiana Pacers,Memphis Grizzlies,28,24,52,1171497600.0,2007
+Indiana Pacers,Indiana Pacers,Milwaukee Bucks,29,24,53,1172102400.0,2007
+Indiana Pacers,Toronto Raptors,Indiana Pacers,29,25,54,1172275200.0,2007
+Indiana Pacers,Indiana Pacers,Sacramento Kings,29,26,55,1172451600.0,2007
+Indiana Pacers,Indiana Pacers,Phoenix Suns,29,27,56,1172620800.0,2007
+Indiana Pacers,Phoenix Suns,Indiana Pacers,29,28,57,1172887200.0,2007
+Indiana Pacers,Los Angeles Clippers,Indiana Pacers,29,29,58,1172979000.0,2007
+Indiana Pacers,Sacramento Kings,Indiana Pacers,29,30,59,1173236400.0,2007
+Indiana Pacers,Utah Jazz,Indiana Pacers,29,31,60,1173319200.0,2007
+Indiana Pacers,Indiana Pacers,Philadelphia 76ers,29,32,61,1173571200.0,2007
+Indiana Pacers,Cleveland Cavaliers,Indiana Pacers,29,33,62,1173650400.0,2007
+Indiana Pacers,Minnesota Timberwolves,Indiana Pacers,29,34,63,1173830400.0,2007
+Indiana Pacers,Indiana Pacers,Washington Wizards,29,35,64,1173913200.0,2007
+Indiana Pacers,Indiana Pacers,Atlanta Hawks,30,35,65,1174172400.0,2007
+Indiana Pacers,Houston Rockets,Indiana Pacers,30,36,66,1174440600.0,2007
+Indiana Pacers,San Antonio Spurs,Indiana Pacers,30,37,67,1174521600.0,2007
+Indiana Pacers,Indiana Pacers,Miami Heat,31,37,68,1174690800.0,2007
+Indiana Pacers,Indiana Pacers,Chicago Bulls,31,38,69,1174851000.0,2007
+Indiana Pacers,Indiana Pacers,Cleveland Cavaliers,31,39,70,1175036400.0,2007
+Indiana Pacers,New Jersey Nets,Indiana Pacers,31,40,71,1175124600.0,2007
+Indiana Pacers,Orlando Magic,Indiana Pacers,31,41,72,1175299200.0,2007
+Indiana Pacers,Indiana Pacers,San Antonio Spurs,32,41,73,1175468400.0,2007
+Indiana Pacers,Indiana Pacers,Detroit Pistons,32,42,74,1175641200.0,2007
+Indiana Pacers,Charlotte Bobcats,Indiana Pacers,33,42,75,1175900400.0,2007
+Indiana Pacers,Indiana Pacers,Boston Celtics,34,42,76,1175986800.0,2007
+Indiana Pacers,Philadelphia 76ers,Indiana Pacers,34,43,77,1176246000.0,2007
+Indiana Pacers,Milwaukee Bucks,Indiana Pacers,35,43,78,1176336000.0,2007
+Indiana Pacers,Miami Heat,Indiana Pacers,35,44,79,1176508800.0,2007
+Indiana Pacers,Indiana Pacers,New Jersey Nets,35,45,80,1176665400.0,2007
+Indiana Pacers,Atlanta Hawks,Indiana Pacers,35,46,81,1176850800.0,2007
+Indiana Pacers,Indiana Pacers,Washington Wizards,35,47,82,1176940800.0,2007
+Los Angeles Clippers,Phoenix Suns,Los Angeles Clippers,0,1,1,1162438200.0,2007
+Los Angeles Clippers,Los Angeles Clippers,Denver Nuggets,1,1,2,1162524600.0,2007
+Los Angeles Clippers,Los Angeles Clippers,Phoenix Suns,2,1,3,1162697400.0,2007
+Los Angeles Clippers,Los Angeles Clippers,Portland Trail Blazers,3,1,4,1162870200.0,2007
+Los Angeles Clippers,Los Angeles Clippers,Dallas Mavericks,4,1,5,1163043000.0,2007
+Los Angeles Clippers,Los Angeles Clippers,New Orleans Hornets,5,1,6,1163363400.0,2007
+Los Angeles Clippers,Utah Jazz,Los Angeles Clippers,5,2,7,1163556000.0,2007
+Los Angeles Clippers,Los Angeles Clippers,Philadelphia 76ers,6,2,8,1163907000.0,2007
+Los Angeles Clippers,Los Angeles Lakers,Los Angeles Clippers,6,3,9,1164166200.0,2007
+Los Angeles Clippers,Los Angeles Clippers,Seattle Supersonics,6,4,10,1164252600.0,2007
+Los Angeles Clippers,Minnesota Timberwolves,Los Angeles Clippers,6,5,11,1164502800.0,2007
+Los Angeles Clippers,Denver Nuggets,Los Angeles Clippers,6,6,12,1164589200.0,2007
+Los Angeles Clippers,Sacramento Kings,Los Angeles Clippers,6,7,13,1164769200.0,2007
+Los Angeles Clippers,Los Angeles Clippers,Memphis Grizzlies,7,7,14,1164857400.0,2007
+Los Angeles Clippers,Los Angeles Clippers,Los Angeles Lakers,7,8,15,1165116600.0,2007
+Los Angeles Clippers,Los Angeles Clippers,Orlando Magic,8,8,16,1165199400.0,2007
+Los Angeles Clippers,Los Angeles Clippers,Miami Heat,9,8,17,1165375800.0,2007
+Los Angeles Clippers,San Antonio Spurs,Los Angeles Clippers,9,9,18,1165626000.0,2007
+Los Angeles Clippers,Memphis Grizzlies,Los Angeles Clippers,10,9,19,1165712400.0,2007
+Los Angeles Clippers,Los Angeles Clippers,San Antonio Spurs,10,10,20,1165894200.0,2007
+Los Angeles Clippers,Los Angeles Clippers,Utah Jazz,10,11,21,1166067000.0,2007
+Los Angeles Clippers,Portland Trail Blazers,Los Angeles Clippers,10,12,22,1166238000.0,2007
+Los Angeles Clippers,Los Angeles Clippers,Houston Rockets,10,13,23,1166387400.0,2007
+Los Angeles Clippers,Los Angeles Clippers,Toronto Raptors,10,14,24,1166671800.0,2007
+Los Angeles Clippers,Dallas Mavericks,Los Angeles Clippers,10,15,25,1166837400.0,2007
+Los Angeles Clippers,Houston Rockets,Los Angeles Clippers,11,15,26,1166923800.0,2007
+Los Angeles Clippers,Utah Jazz,Los Angeles Clippers,11,16,27,1167184800.0,2007
+Los Angeles Clippers,Los Angeles Clippers,Boston Celtics,12,16,28,1167276600.0,2007
+Los Angeles Clippers,Los Angeles Clippers,Sacramento Kings,13,16,29,1167449400.0,2007
+Los Angeles Clippers,Los Angeles Clippers,New York Knicks,14,16,30,1167597000.0,2007
+Los Angeles Clippers,Orlando Magic,Los Angeles Clippers,14,17,31,1167782400.0,2007
+Los Angeles Clippers,Miami Heat,Los Angeles Clippers,15,17,32,1167870600.0,2007
+Los Angeles Clippers,Washington Wizards,Los Angeles Clippers,15,18,33,1168041600.0,2007
+Los Angeles Clippers,Atlanta Hawks,Los Angeles Clippers,15,19,34,1168128000.0,2007
+Los Angeles Clippers,New Orleans Hornets,Los Angeles Clippers,16,19,35,1168304400.0,2007
+Los Angeles Clippers,Minnesota Timberwolves,Los Angeles Clippers,17,19,36,1168477200.0,2007
+Los Angeles Clippers,Los Angeles Clippers,Cleveland Cavaliers,17,20,37,1168745400.0,2007
+Los Angeles Clippers,Golden State Warriors,Los Angeles Clippers,17,21,38,1168894800.0,2007
+Los Angeles Clippers,Los Angeles Clippers,Golden State Warriors,18,21,39,1169091000.0,2007
+Los Angeles Clippers,Los Angeles Clippers,Memphis Grizzlies,19,21,40,1169325000.0,2007
+Los Angeles Clippers,Los Angeles Clippers,Milwaukee Bucks,20,21,41,1169609400.0,2007
+Los Angeles Clippers,Los Angeles Clippers,New Jersey Nets,21,21,42,1169782200.0,2007
+Los Angeles Clippers,Los Angeles Clippers,Minnesota Timberwolves,21,22,43,1169955000.0,2007
+Los Angeles Clippers,Seattle Supersonics,Los Angeles Clippers,22,22,44,1170039600.0,2007
+Los Angeles Clippers,Los Angeles Clippers,Chicago Bulls,23,22,45,1170300600.0,2007
+Los Angeles Clippers,Boston Celtics,Los Angeles Clippers,24,22,46,1170462600.0,2007
+Los Angeles Clippers,Toronto Raptors,Los Angeles Clippers,24,23,47,1170608400.0,2007
+Los Angeles Clippers,New York Knicks,Los Angeles Clippers,24,24,48,1170808200.0,2007
+Los Angeles Clippers,Cleveland Cavaliers,Los Angeles Clippers,24,25,49,1170892800.0,2007
+Los Angeles Clippers,Philadelphia 76ers,Los Angeles Clippers,25,25,50,1171065600.0,2007
+Los Angeles Clippers,Indiana Pacers,Los Angeles Clippers,25,26,51,1171222200.0,2007
+Los Angeles Clippers,Detroit Pistons,Los Angeles Clippers,25,27,52,1171326600.0,2007
+Los Angeles Clippers,Los Angeles Clippers,Atlanta Hawks,25,28,53,1171510200.0,2007
+Los Angeles Clippers,Los Angeles Clippers,Phoenix Suns,25,29,54,1172028600.0,2007
+Los Angeles Clippers,Los Angeles Clippers,Golden State Warriors,26,29,55,1172349000.0,2007
+Los Angeles Clippers,Los Angeles Clippers,Charlotte Bobcats,27,29,56,1172547000.0,2007
+Los Angeles Clippers,Los Angeles Clippers,Seattle Supersonics,28,29,57,1172719800.0,2007
+Los Angeles Clippers,Seattle Supersonics,Los Angeles Clippers,28,30,58,1172806200.0,2007
+Los Angeles Clippers,Los Angeles Clippers,Indiana Pacers,29,30,59,1172979000.0,2007
+Los Angeles Clippers,Los Angeles Clippers,San Antonio Spurs,29,31,60,1173151800.0,2007
+Los Angeles Clippers,Golden State Warriors,Los Angeles Clippers,29,32,61,1173497400.0,2007
+Los Angeles Clippers,Los Angeles Clippers,Detroit Pistons,29,33,62,1173639600.0,2007
+Los Angeles Clippers,San Antonio Spurs,Los Angeles Clippers,29,34,63,1173830400.0,2007
+Los Angeles Clippers,Houston Rockets,Los Angeles Clippers,29,35,64,1173918600.0,2007
+Los Angeles Clippers,Charlotte Bobcats,Los Angeles Clippers,30,35,65,1174086000.0,2007
+Los Angeles Clippers,New Jersey Nets,Los Angeles Clippers,30,36,66,1174255200.0,2007
+Los Angeles Clippers,Chicago Bulls,Los Angeles Clippers,31,36,67,1174437000.0,2007
+Los Angeles Clippers,Milwaukee Bucks,Los Angeles Clippers,32,36,68,1174521600.0,2007
+Los Angeles Clippers,Los Angeles Clippers,Utah Jazz,33,36,69,1174703400.0,2007
+Los Angeles Clippers,Los Angeles Clippers,Washington Wizards,34,36,70,1174789800.0,2007
+Los Angeles Clippers,Los Angeles Clippers,Houston Rockets,34,37,71,1175133600.0,2007
+Los Angeles Clippers,Sacramento Kings,Los Angeles Clippers,35,37,72,1175308200.0,2007
+Los Angeles Clippers,Portland Trail Blazers,Los Angeles Clippers,36,37,73,1175392800.0,2007
+Los Angeles Clippers,Los Angeles Clippers,Los Angeles Lakers,37,37,74,1175740200.0,2007
+Los Angeles Clippers,Los Angeles Clippers,Denver Nuggets,37,38,75,1175999400.0,2007
+Los Angeles Clippers,Dallas Mavericks,Los Angeles Clippers,37,39,76,1176165000.0,2007
+Los Angeles Clippers,New Orleans Hornets,Los Angeles Clippers,37,40,77,1176249600.0,2007
+Los Angeles Clippers,Los Angeles Lakers,Los Angeles Clippers,38,40,78,1176431400.0,2007
+Los Angeles Clippers,Los Angeles Clippers,Portland Trail Blazers,39,40,79,1176517800.0,2007
+Los Angeles Clippers,Los Angeles Clippers,Sacramento Kings,39,41,80,1176665400.0,2007
+Los Angeles Clippers,Phoenix Suns,Los Angeles Clippers,40,41,81,1176861600.0,2007
+Los Angeles Clippers,Los Angeles Clippers,New Orleans Hornets,40,42,82,1176949800.0,2007
+Los Angeles Lakers,Los Angeles Lakers,Phoenix Suns,1,0,1,1162351800.0,2007
+Los Angeles Lakers,Golden State Warriors,Los Angeles Lakers,2,0,2,1162438200.0,2007
+Los Angeles Lakers,Los Angeles Lakers,Seattle Supersonics,3,0,3,1162611000.0,2007
+Los Angeles Lakers,Seattle Supersonics,Los Angeles Lakers,3,1,4,1162778400.0,2007
+Los Angeles Lakers,Los Angeles Lakers,Minnesota Timberwolves,4,1,5,1162956600.0,2007
+Los Angeles Lakers,Portland Trail Blazers,Los Angeles Lakers,4,2,6,1163041200.0,2007
+Los Angeles Lakers,Los Angeles Lakers,Detroit Pistons,4,3,7,1163215800.0,2007
+Los Angeles Lakers,Los Angeles Lakers,Memphis Grizzlies,5,3,8,1163385000.0,2007
+Los Angeles Lakers,Los Angeles Lakers,Toronto Raptors,6,3,9,1163820600.0,2007
+Los Angeles Lakers,Los Angeles Lakers,Chicago Bulls,7,3,10,1163984400.0,2007
+Los Angeles Lakers,Los Angeles Lakers,Los Angeles Clippers,8,3,11,1164166200.0,2007
+Los Angeles Lakers,Utah Jazz,Los Angeles Lakers,8,4,12,1164420000.0,2007
+Los Angeles Lakers,Los Angeles Lakers,New Jersey Nets,9,4,13,1164594600.0,2007
+Los Angeles Lakers,Los Angeles Lakers,Milwaukee Bucks,9,5,14,1164771000.0,2007
+Los Angeles Lakers,Los Angeles Lakers,Utah Jazz,10,5,15,1164943800.0,2007
+Los Angeles Lakers,Los Angeles Clippers,Los Angeles Lakers,11,5,16,1165116600.0,2007
+Los Angeles Lakers,Los Angeles Lakers,Indiana Pacers,12,5,17,1165289400.0,2007
+Los Angeles Lakers,Los Angeles Lakers,New Orleans Hornets,12,6,18,1165462200.0,2007
+Los Angeles Lakers,Los Angeles Lakers,Atlanta Hawks,13,6,19,1165635000.0,2007
+Los Angeles Lakers,Los Angeles Lakers,San Antonio Spurs,14,6,20,1165804200.0,2007
+Los Angeles Lakers,Houston Rockets,Los Angeles Lakers,15,6,21,1165973400.0,2007
+Los Angeles Lakers,Dallas Mavericks,Los Angeles Lakers,15,7,22,1166063400.0,2007
+Los Angeles Lakers,Los Angeles Lakers,Houston Rockets,16,7,23,1166239800.0,2007
+Los Angeles Lakers,Los Angeles Lakers,Washington Wizards,16,8,24,1166409000.0,2007
+Los Angeles Lakers,Chicago Bulls,Los Angeles Lakers,16,9,25,1166578200.0,2007
+Los Angeles Lakers,Minnesota Timberwolves,Los Angeles Lakers,17,9,26,1166662800.0,2007
+Los Angeles Lakers,New Jersey Nets,Los Angeles Lakers,18,9,27,1166833800.0,2007
+Los Angeles Lakers,Miami Heat,Los Angeles Lakers,18,10,28,1167075000.0,2007
+Los Angeles Lakers,Orlando Magic,Los Angeles Lakers,19,10,29,1167264000.0,2007
+Los Angeles Lakers,Charlotte Bobcats,Los Angeles Lakers,19,11,30,1167436800.0,2007
+Los Angeles Lakers,Los Angeles Lakers,Philadelphia 76ers,20,11,31,1167618600.0,2007
+Los Angeles Lakers,Sacramento Kings,Los Angeles Lakers,21,11,32,1167967800.0,2007
+Los Angeles Lakers,Los Angeles Lakers,Denver Nuggets,22,11,33,1168054200.0,2007
+Los Angeles Lakers,Los Angeles Lakers,Dallas Mavericks,23,11,34,1168223400.0,2007
+Los Angeles Lakers,Memphis Grizzlies,Los Angeles Lakers,23,12,35,1168390800.0,2007
+Los Angeles Lakers,Houston Rockets,Los Angeles Lakers,23,13,36,1168479000.0,2007
+Los Angeles Lakers,Los Angeles Lakers,Orlando Magic,24,13,37,1168659000.0,2007
+Los Angeles Lakers,Los Angeles Lakers,Miami Heat,25,13,38,1168916400.0,2007
+Los Angeles Lakers,San Antonio Spurs,Los Angeles Lakers,26,13,39,1169085600.0,2007
+Los Angeles Lakers,Dallas Mavericks,Los Angeles Lakers,26,14,40,1169173800.0,2007
+Los Angeles Lakers,New Orleans Hornets,Los Angeles Lakers,26,15,41,1169341200.0,2007
+Los Angeles Lakers,Los Angeles Lakers,Golden State Warriors,27,15,42,1169523000.0,2007
+Los Angeles Lakers,Los Angeles Lakers,Charlotte Bobcats,27,16,43,1169868600.0,2007
+Los Angeles Lakers,Los Angeles Lakers,San Antonio Spurs,27,17,44,1170016200.0,2007
+Los Angeles Lakers,New York Knicks,Los Angeles Lakers,27,18,45,1170203400.0,2007
+Los Angeles Lakers,Boston Celtics,Los Angeles Lakers,28,18,46,1170289800.0,2007
+Los Angeles Lakers,Indiana Pacers,Los Angeles Lakers,28,19,47,1170460800.0,2007
+Los Angeles Lakers,Washington Wizards,Los Angeles Lakers,29,19,48,1170547200.0,2007
+Los Angeles Lakers,Atlanta Hawks,Los Angeles Lakers,30,19,49,1170720000.0,2007
+Los Angeles Lakers,Detroit Pistons,Los Angeles Lakers,30,20,50,1170982800.0,2007
+Los Angeles Lakers,Toronto Raptors,Los Angeles Lakers,30,21,51,1171065600.0,2007
+Los Angeles Lakers,Cleveland Cavaliers,Los Angeles Lakers,30,22,52,1171225800.0,2007
+Los Angeles Lakers,Los Angeles Lakers,New York Knicks,30,23,53,1171423800.0,2007
+Los Angeles Lakers,Los Angeles Lakers,Cleveland Cavaliers,30,24,54,1171596600.0,2007
+Los Angeles Lakers,Los Angeles Lakers,Portland Trail Blazers,30,25,55,1172115000.0,2007
+Los Angeles Lakers,Los Angeles Lakers,Boston Celtics,31,25,56,1172287800.0,2007
+Los Angeles Lakers,Golden State Warriors,Los Angeles Lakers,32,25,57,1172444400.0,2007
+Los Angeles Lakers,Utah Jazz,Los Angeles Lakers,33,25,58,1172541600.0,2007
+Los Angeles Lakers,Los Angeles Lakers,Sacramento Kings,33,26,59,1172892600.0,2007
+Los Angeles Lakers,Phoenix Suns,Los Angeles Lakers,33,27,60,1173040200.0,2007
+Los Angeles Lakers,Minnesota Timberwolves,Los Angeles Lakers,33,28,61,1173229200.0,2007
+Los Angeles Lakers,Milwaukee Bucks,Los Angeles Lakers,33,29,62,1173315600.0,2007
+Los Angeles Lakers,Philadelphia 76ers,Los Angeles Lakers,33,30,63,1173484800.0,2007
+Los Angeles Lakers,Los Angeles Lakers,Dallas Mavericks,33,31,64,1173661200.0,2007
+Los Angeles Lakers,Denver Nuggets,Los Angeles Lakers,33,32,65,1174012200.0,2007
+Los Angeles Lakers,Los Angeles Lakers,Portland Trail Blazers,34,32,66,1174098600.0,2007
+Los Angeles Lakers,Los Angeles Lakers,Minnesota Timberwolves,35,32,67,1174262400.0,2007
+Los Angeles Lakers,Memphis Grizzlies,Los Angeles Lakers,36,32,68,1174608000.0,2007
+Los Angeles Lakers,New Orleans Hornets,Los Angeles Lakers,37,32,69,1174694400.0,2007
+Los Angeles Lakers,Los Angeles Lakers,Golden State Warriors,38,32,70,1174872600.0,2007
+Los Angeles Lakers,Los Angeles Lakers,Memphis Grizzlies,38,33,71,1175049000.0,2007
+Los Angeles Lakers,Los Angeles Lakers,Houston Rockets,38,34,72,1175308200.0,2007
+Los Angeles Lakers,Los Angeles Lakers,Sacramento Kings,39,34,73,1175477400.0,2007
+Los Angeles Lakers,Los Angeles Lakers,Denver Nuggets,39,35,74,1175653800.0,2007
+Los Angeles Lakers,Los Angeles Clippers,Los Angeles Lakers,39,36,75,1175740200.0,2007
+Los Angeles Lakers,Seattle Supersonics,Los Angeles Lakers,40,36,76,1175913000.0,2007
+Los Angeles Lakers,Los Angeles Lakers,Phoenix Suns,40,37,77,1176060600.0,2007
+Los Angeles Lakers,Denver Nuggets,Los Angeles Lakers,40,38,78,1176166800.0,2007
+Los Angeles Lakers,Los Angeles Lakers,Los Angeles Clippers,40,39,79,1176431400.0,2007
+Los Angeles Lakers,Phoenix Suns,Los Angeles Lakers,40,40,80,1176517800.0,2007
+Los Angeles Lakers,Los Angeles Lakers,Seattle Supersonics,41,40,81,1176687000.0,2007
+Los Angeles Lakers,Sacramento Kings,Los Angeles Lakers,42,40,82,1176948000.0,2007
+Memphis Grizzlies,Memphis Grizzlies,New York Knicks,0,1,1,1162429200.0,2007
+Memphis Grizzlies,Memphis Grizzlies,Charlotte Bobcats,1,1,2,1162602000.0,2007
+Memphis Grizzlies,Detroit Pistons,Memphis Grizzlies,1,2,3,1162686600.0,2007
+Memphis Grizzlies,Memphis Grizzlies,Houston Rockets,1,3,4,1162947600.0,2007
+Memphis Grizzlies,Phoenix Suns,Memphis Grizzlies,1,4,5,1163296800.0,2007
+Memphis Grizzlies,Los Angeles Lakers,Memphis Grizzlies,1,5,6,1163385000.0,2007
+Memphis Grizzlies,Sacramento Kings,Memphis Grizzlies,1,6,7,1163642400.0,2007
+Memphis Grizzlies,Memphis Grizzlies,Dallas Mavericks,1,7,8,1163811600.0,2007
+Memphis Grizzlies,Dallas Mavericks,Memphis Grizzlies,1,8,9,1163899800.0,2007
+Memphis Grizzlies,Memphis Grizzlies,Orlando Magic,2,8,10,1164070800.0,2007
+Memphis Grizzlies,Cleveland Cavaliers,Memphis Grizzlies,2,9,11,1164153600.0,2007
+Memphis Grizzlies,Memphis Grizzlies,Washington Wizards,3,9,12,1164416400.0,2007
+Memphis Grizzlies,Houston Rockets,Memphis Grizzlies,3,10,13,1164504600.0,2007
+Memphis Grizzlies,Denver Nuggets,Memphis Grizzlies,4,10,14,1164765600.0,2007
+Memphis Grizzlies,Los Angeles Clippers,Memphis Grizzlies,4,11,15,1164857400.0,2007
+Memphis Grizzlies,Memphis Grizzlies,Miami Heat,4,12,16,1165107600.0,2007
+Memphis Grizzlies,New York Knicks,Memphis Grizzlies,4,13,17,1165278600.0,2007
+Memphis Grizzlies,Boston Celtics,Memphis Grizzlies,5,13,18,1165451400.0,2007
+Memphis Grizzlies,Milwaukee Bucks,Memphis Grizzlies,5,14,19,1165627800.0,2007
+Memphis Grizzlies,Memphis Grizzlies,Los Angeles Clippers,5,15,20,1165712400.0,2007
+Memphis Grizzlies,New Jersey Nets,Memphis Grizzlies,5,16,21,1165883400.0,2007
+Memphis Grizzlies,Memphis Grizzlies,Portland Trail Blazers,5,17,22,1166058000.0,2007
+Memphis Grizzlies,Memphis Grizzlies,Atlanta Hawks,5,18,23,1166230800.0,2007
+Memphis Grizzlies,Miami Heat,Memphis Grizzlies,5,19,24,1166315400.0,2007
+Memphis Grizzlies,Memphis Grizzlies,Seattle Supersonics,6,19,25,1166490000.0,2007
+Memphis Grizzlies,San Antonio Spurs,Memphis Grizzlies,6,20,26,1166662800.0,2007
+Memphis Grizzlies,New Orleans Hornets,Memphis Grizzlies,6,21,27,1166835600.0,2007
+Memphis Grizzlies,Memphis Grizzlies,Utah Jazz,6,22,28,1166922000.0,2007
+Memphis Grizzlies,Washington Wizards,Memphis Grizzlies,6,23,29,1167177600.0,2007
+Memphis Grizzlies,Memphis Grizzlies,Milwaukee Bucks,6,24,30,1167267600.0,2007
+Memphis Grizzlies,Memphis Grizzlies,Toronto Raptors,7,24,31,1167526800.0,2007
+Memphis Grizzlies,Houston Rockets,Memphis Grizzlies,7,25,32,1167609600.0,2007
+Memphis Grizzlies,Memphis Grizzlies,Golden State Warriors,8,25,33,1167872400.0,2007
+Memphis Grizzlies,Memphis Grizzlies,Boston Celtics,8,26,34,1168045200.0,2007
+Memphis Grizzlies,Memphis Grizzlies,San Antonio Spurs,8,27,35,1168203600.0,2007
+Memphis Grizzlies,Memphis Grizzlies,Los Angeles Lakers,9,27,36,1168390800.0,2007
+Memphis Grizzlies,Memphis Grizzlies,Minnesota Timberwolves,9,28,37,1168650000.0,2007
+Memphis Grizzlies,Chicago Bulls,Memphis Grizzlies,9,29,38,1168738200.0,2007
+Memphis Grizzlies,Memphis Grizzlies,Phoenix Suns,9,30,39,1168907400.0,2007
+Memphis Grizzlies,Memphis Grizzlies,Philadelphia 76ers,10,30,40,1169082000.0,2007
+Memphis Grizzlies,Los Angeles Clippers,Memphis Grizzlies,10,31,41,1169325000.0,2007
+Memphis Grizzlies,Denver Nuggets,Memphis Grizzlies,10,32,42,1169517600.0,2007
+Memphis Grizzlies,Utah Jazz,Memphis Grizzlies,11,32,43,1169690400.0,2007
+Memphis Grizzlies,San Antonio Spurs,Memphis Grizzlies,11,33,44,1169859600.0,2007
+Memphis Grizzlies,Memphis Grizzlies,Portland Trail Blazers,11,34,45,1169946000.0,2007
+Memphis Grizzlies,Memphis Grizzlies,Sacramento Kings,12,34,46,1170118800.0,2007
+Memphis Grizzlies,Memphis Grizzlies,Dallas Mavericks,12,35,47,1170291600.0,2007
+Memphis Grizzlies,Memphis Grizzlies,Indiana Pacers,12,36,48,1170550800.0,2007
+Memphis Grizzlies,Memphis Grizzlies,Houston Rockets,12,37,49,1170810000.0,2007
+Memphis Grizzlies,Dallas Mavericks,Memphis Grizzlies,12,38,50,1170898200.0,2007
+Memphis Grizzlies,Memphis Grizzlies,Minnesota Timberwolves,13,38,51,1171069200.0,2007
+Memphis Grizzlies,New Orleans Hornets,Memphis Grizzlies,13,39,52,1171155600.0,2007
+Memphis Grizzlies,Memphis Grizzlies,New Orleans Hornets,14,39,53,1171414800.0,2007
+Memphis Grizzlies,Indiana Pacers,Memphis Grizzlies,14,40,54,1171497600.0,2007
+Memphis Grizzlies,Seattle Supersonics,Memphis Grizzlies,14,41,55,1172026800.0,2007
+Memphis Grizzlies,Golden State Warriors,Memphis Grizzlies,14,42,56,1172115000.0,2007
+Memphis Grizzlies,Portland Trail Blazers,Memphis Grizzlies,15,42,57,1172286000.0,2007
+Memphis Grizzlies,Memphis Grizzlies,Denver Nuggets,15,43,58,1172538000.0,2007
+Memphis Grizzlies,Memphis Grizzlies,Utah Jazz,15,44,59,1172710800.0,2007
+Memphis Grizzlies,Philadelphia 76ers,Memphis Grizzlies,15,45,60,1172880000.0,2007
+Memphis Grizzlies,Memphis Grizzlies,Detroit Pistons,15,46,61,1172970000.0,2007
+Memphis Grizzlies,Toronto Raptors,Memphis Grizzlies,15,47,62,1173312000.0,2007
+Memphis Grizzlies,Atlanta Hawks,Memphis Grizzlies,15,48,63,1173486600.0,2007
+Memphis Grizzlies,Charlotte Bobcats,Memphis Grizzlies,16,48,64,1173571200.0,2007
+Memphis Grizzlies,Memphis Grizzlies,New Jersey Nets,16,49,65,1173744000.0,2007
+Memphis Grizzlies,Memphis Grizzlies,Cleveland Cavaliers,16,50,66,1173916800.0,2007
+Memphis Grizzlies,Memphis Grizzlies,Chicago Bulls,17,50,67,1174176000.0,2007
+Memphis Grizzlies,Memphis Grizzlies,New Orleans Hornets,17,51,68,1174435200.0,2007
+Memphis Grizzlies,Memphis Grizzlies,Los Angeles Lakers,17,52,69,1174608000.0,2007
+Memphis Grizzlies,Utah Jazz,Memphis Grizzlies,17,53,70,1174784400.0,2007
+Memphis Grizzlies,Phoenix Suns,Memphis Grizzlies,17,54,71,1174960800.0,2007
+Memphis Grizzlies,Los Angeles Lakers,Memphis Grizzlies,18,54,72,1175049000.0,2007
+Memphis Grizzlies,Portland Trail Blazers,Memphis Grizzlies,19,54,73,1175220000.0,2007
+Memphis Grizzlies,Seattle Supersonics,Memphis Grizzlies,19,55,74,1175308200.0,2007
+Memphis Grizzlies,Golden State Warriors,Memphis Grizzlies,19,56,75,1175454000.0,2007
+Memphis Grizzlies,Memphis Grizzlies,Phoenix Suns,19,57,76,1175644800.0,2007
+Memphis Grizzlies,Memphis Grizzlies,Golden State Warriors,19,58,77,1175904000.0,2007
+Memphis Grizzlies,Orlando Magic,Memphis Grizzlies,19,59,78,1175986800.0,2007
+Memphis Grizzlies,Memphis Grizzlies,Sacramento Kings,19,60,79,1176249600.0,2007
+Memphis Grizzlies,Memphis Grizzlies,Denver Nuggets,20,60,80,1176595200.0,2007
+Memphis Grizzlies,Memphis Grizzlies,San Antonio Spurs,21,60,81,1176768000.0,2007
+Memphis Grizzlies,Minnesota Timberwolves,Memphis Grizzlies,22,60,82,1176940800.0,2007
+Miami Heat,Miami Heat,Chicago Bulls,0,1,1,1162342800.0,2007
+Miami Heat,Miami Heat,New Jersey Nets,1,1,2,1162600200.0,2007
+Miami Heat,Philadelphia 76ers,Miami Heat,1,2,3,1162753200.0,2007
+Miami Heat,Miami Heat,Seattle Supersonics,2,2,4,1162945800.0,2007
+Miami Heat,New Jersey Nets,Miami Heat,3,2,5,1163206800.0,2007
+Miami Heat,Miami Heat,Houston Rockets,3,3,6,1163379600.0,2007
+Miami Heat,Miami Heat,Denver Nuggets,3,4,7,1163550600.0,2007
+Miami Heat,Miami Heat,New York Knicks,3,5,8,1163809800.0,2007
+Miami Heat,Atlanta Hawks,Miami Heat,4,5,9,1163894400.0,2007
+Miami Heat,New Orleans Hornets,Miami Heat,4,6,10,1164157200.0,2007
+Miami Heat,San Antonio Spurs,Miami Heat,4,7,11,1164241800.0,2007
+Miami Heat,Miami Heat,Orlando Magic,4,8,12,1164414600.0,2007
+Miami Heat,Charlotte Bobcats,Miami Heat,5,8,13,1164499200.0,2007
+Miami Heat,Miami Heat,Philadelphia 76ers,6,8,14,1164673800.0,2007
+Miami Heat,Miami Heat,Detroit Pistons,6,9,15,1164934800.0,2007
+Miami Heat,Memphis Grizzlies,Miami Heat,7,9,16,1165107600.0,2007
+Miami Heat,Los Angeles Clippers,Miami Heat,7,10,17,1165375800.0,2007
+Miami Heat,Sacramento Kings,Miami Heat,8,10,18,1165548600.0,2007
+Miami Heat,Denver Nuggets,Miami Heat,8,11,19,1165635000.0,2007
+Miami Heat,Miami Heat,Toronto Raptors,9,11,20,1165883400.0,2007
+Miami Heat,Miami Heat,Phoenix Suns,9,12,21,1166054400.0,2007
+Miami Heat,Washington Wizards,Miami Heat,9,13,22,1166227200.0,2007
+Miami Heat,Miami Heat,Memphis Grizzlies,10,13,23,1166315400.0,2007
+Miami Heat,Miami Heat,New Orleans Hornets,11,13,24,1166488200.0,2007
+Miami Heat,Milwaukee Bucks,Miami Heat,11,14,25,1166662800.0,2007
+Miami Heat,Miami Heat,Golden State Warriors,12,14,26,1166920200.0,2007
+Miami Heat,Miami Heat,Los Angeles Lakers,13,14,27,1167075000.0,2007
+Miami Heat,Chicago Bulls,Miami Heat,13,15,28,1167269400.0,2007
+Miami Heat,Miami Heat,New Jersey Nets,13,16,29,1167438600.0,2007
+Miami Heat,Orlando Magic,Miami Heat,13,17,30,1167523200.0,2007
+Miami Heat,Miami Heat,Los Angeles Clippers,13,18,31,1167870600.0,2007
+Miami Heat,Phoenix Suns,Miami Heat,13,19,32,1168054200.0,2007
+Miami Heat,Portland Trail Blazers,Miami Heat,14,19,33,1168221600.0,2007
+Miami Heat,Seattle Supersonics,Miami Heat,15,19,34,1168484400.0,2007
+Miami Heat,Golden State Warriors,Miami Heat,16,19,35,1168659000.0,2007
+Miami Heat,Utah Jazz,Miami Heat,17,19,36,1168740000.0,2007
+Miami Heat,Los Angeles Lakers,Miami Heat,17,20,37,1168916400.0,2007
+Miami Heat,Miami Heat,Indiana Pacers,18,20,38,1169164800.0,2007
+Miami Heat,Philadelphia 76ers,Miami Heat,18,21,39,1169251200.0,2007
+Miami Heat,Miami Heat,Dallas Mavericks,18,22,40,1169402400.0,2007
+Miami Heat,Miami Heat,New York Knicks,19,22,41,1169512200.0,2007
+Miami Heat,Indiana Pacers,Miami Heat,19,23,42,1169683200.0,2007
+Miami Heat,New York Knicks,Miami Heat,19,24,43,1169857800.0,2007
+Miami Heat,Chicago Bulls,Miami Heat,19,25,44,1169947800.0,2007
+Miami Heat,Miami Heat,Milwaukee Bucks,20,25,45,1170203400.0,2007
+Miami Heat,Miami Heat,Cleveland Cavaliers,21,25,46,1170378000.0,2007
+Miami Heat,Milwaukee Bucks,Miami Heat,22,25,47,1170552600.0,2007
+Miami Heat,Miami Heat,Charlotte Bobcats,23,25,48,1170721800.0,2007
+Miami Heat,Boston Celtics,Miami Heat,24,25,49,1170894600.0,2007
+Miami Heat,Cleveland Cavaliers,Miami Heat,24,26,50,1171069200.0,2007
+Miami Heat,Miami Heat,San Antonio Spurs,25,26,51,1171216800.0,2007
+Miami Heat,Miami Heat,Portland Trail Blazers,26,26,52,1171413000.0,2007
+Miami Heat,Houston Rockets,Miami Heat,26,27,53,1172109600.0,2007
+Miami Heat,Dallas Mavericks,Miami Heat,26,28,54,1172197800.0,2007
+Miami Heat,Miami Heat,Cleveland Cavaliers,27,28,55,1172435400.0,2007
+Miami Heat,New York Knicks,Miami Heat,27,29,56,1172536200.0,2007
+Miami Heat,Washington Wizards,Miami Heat,28,29,57,1172707200.0,2007
+Miami Heat,Miami Heat,Detroit Pistons,29,29,58,1172883600.0,2007
+Miami Heat,Miami Heat,Atlanta Hawks,30,29,59,1173141000.0,2007
+Miami Heat,Miami Heat,Chicago Bulls,31,29,60,1173313800.0,2007
+Miami Heat,Miami Heat,Minnesota Timberwolves,32,29,61,1173486600.0,2007
+Miami Heat,Miami Heat,Washington Wizards,33,29,62,1173650400.0,2007
+Miami Heat,Miami Heat,Utah Jazz,34,29,63,1173828600.0,2007
+Miami Heat,New Jersey Nets,Miami Heat,35,29,64,1174003200.0,2007
+Miami Heat,Miami Heat,Sacramento Kings,36,29,65,1174087800.0,2007
+Miami Heat,Miami Heat,Orlando Magic,36,30,66,1174255200.0,2007
+Miami Heat,Atlanta Hawks,Miami Heat,37,30,67,1174518000.0,2007
+Miami Heat,Indiana Pacers,Miami Heat,37,31,68,1174690800.0,2007
+Miami Heat,Miami Heat,Philadelphia 76ers,37,32,69,1174779000.0,2007
+Miami Heat,Miami Heat,Atlanta Hawks,38,32,70,1174951800.0,2007
+Miami Heat,Toronto Raptors,Miami Heat,38,33,71,1175122800.0,2007
+Miami Heat,Minnesota Timberwolves,Miami Heat,39,33,72,1175299200.0,2007
+Miami Heat,Detroit Pistons,Miami Heat,39,34,73,1175446800.0,2007
+Miami Heat,Miami Heat,Toronto Raptors,40,34,74,1175643000.0,2007
+Miami Heat,Cleveland Cavaliers,Miami Heat,41,34,75,1175814000.0,2007
+Miami Heat,Boston Celtics,Miami Heat,42,34,76,1175902200.0,2007
+Miami Heat,Miami Heat,Charlotte Bobcats,42,35,77,1176069600.0,2007
+Miami Heat,Charlotte Bobcats,Miami Heat,42,36,78,1176246000.0,2007
+Miami Heat,Miami Heat,Washington Wizards,43,36,79,1176334200.0,2007
+Miami Heat,Miami Heat,Indiana Pacers,44,36,80,1176508800.0,2007
+Miami Heat,Miami Heat,Boston Celtics,44,37,81,1176766200.0,2007
+Miami Heat,Orlando Magic,Miami Heat,44,38,82,1176937200.0,2007
+Milwaukee Bucks,Detroit Pistons,Milwaukee Bucks,1,0,1,1162429200.0,2007
+Milwaukee Bucks,Toronto Raptors,Milwaukee Bucks,1,1,2,1162598400.0,2007
+Milwaukee Bucks,Milwaukee Bucks,Sacramento Kings,2,1,3,1162690200.0,2007
+Milwaukee Bucks,Chicago Bulls,Milwaukee Bucks,2,2,4,1162863000.0,2007
+Milwaukee Bucks,Milwaukee Bucks,Houston Rockets,2,3,5,1163034000.0,2007
+Milwaukee Bucks,Washington Wizards,Milwaukee Bucks,2,4,6,1163203200.0,2007
+Milwaukee Bucks,Milwaukee Bucks,Utah Jazz,2,5,7,1163295000.0,2007
+Milwaukee Bucks,Atlanta Hawks,Milwaukee Bucks,3,5,8,1163548800.0,2007
+Milwaukee Bucks,New Jersey Nets,Milwaukee Bucks,3,6,9,1163637000.0,2007
+Milwaukee Bucks,Milwaukee Bucks,Indiana Pacers,3,7,10,1163899800.0,2007
+Milwaukee Bucks,Indiana Pacers,Milwaukee Bucks,3,8,11,1164153600.0,2007
+Milwaukee Bucks,Milwaukee Bucks,Philadelphia 76ers,4,8,12,1164243600.0,2007
+Milwaukee Bucks,Milwaukee Bucks,Boston Celtics,4,9,13,1164506400.0,2007
+Milwaukee Bucks,Los Angeles Lakers,Milwaukee Bucks,5,9,14,1164771000.0,2007
+Milwaukee Bucks,Phoenix Suns,Milwaukee Bucks,5,10,15,1165024800.0,2007
+Milwaukee Bucks,Golden State Warriors,Milwaukee Bucks,6,10,16,1165116600.0,2007
+Milwaukee Bucks,Utah Jazz,Milwaukee Bucks,6,11,17,1165284000.0,2007
+Milwaukee Bucks,Milwaukee Bucks,Portland Trail Blazers,7,11,18,1165453200.0,2007
+Milwaukee Bucks,Milwaukee Bucks,Memphis Grizzlies,8,11,19,1165627800.0,2007
+Milwaukee Bucks,New York Knicks,Milwaukee Bucks,8,12,20,1165710600.0,2007
+Milwaukee Bucks,Milwaukee Bucks,Seattle Supersonics,9,12,21,1165971600.0,2007
+Milwaukee Bucks,New Jersey Nets,Milwaukee Bucks,9,13,22,1166056200.0,2007
+Milwaukee Bucks,Chicago Bulls,Milwaukee Bucks,9,14,23,1166232600.0,2007
+Milwaukee Bucks,Milwaukee Bucks,Minnesota Timberwolves,10,14,24,1166319000.0,2007
+Milwaukee Bucks,Milwaukee Bucks,Miami Heat,11,14,25,1166662800.0,2007
+Milwaukee Bucks,Minnesota Timberwolves,Milwaukee Bucks,12,14,26,1166835600.0,2007
+Milwaukee Bucks,Milwaukee Bucks,New Jersey Nets,13,14,27,1166923800.0,2007
+Milwaukee Bucks,San Antonio Spurs,Milwaukee Bucks,14,14,28,1167181200.0,2007
+Milwaukee Bucks,Memphis Grizzlies,Milwaukee Bucks,15,14,29,1167267600.0,2007
+Milwaukee Bucks,Cleveland Cavaliers,Milwaukee Bucks,15,15,30,1167438600.0,2007
+Milwaukee Bucks,Milwaukee Bucks,Washington Wizards,16,15,31,1167528600.0,2007
+Milwaukee Bucks,Washington Wizards,Milwaukee Bucks,16,16,32,1167868800.0,2007
+Milwaukee Bucks,Milwaukee Bucks,Cleveland Cavaliers,16,17,33,1168047000.0,2007
+Milwaukee Bucks,Denver Nuggets,Milwaukee Bucks,16,18,34,1168308000.0,2007
+Milwaukee Bucks,Milwaukee Bucks,Toronto Raptors,16,19,35,1168477200.0,2007
+Milwaukee Bucks,Philadelphia 76ers,Milwaukee Bucks,16,20,36,1168646400.0,2007
+Milwaukee Bucks,Charlotte Bobcats,Milwaukee Bucks,17,20,37,1168884000.0,2007
+Milwaukee Bucks,Milwaukee Bucks,Chicago Bulls,17,21,38,1169082000.0,2007
+Milwaukee Bucks,Seattle Supersonics,Milwaukee Bucks,17,22,39,1169263800.0,2007
+Milwaukee Bucks,Portland Trail Blazers,Milwaukee Bucks,17,23,40,1169431200.0,2007
+Milwaukee Bucks,Los Angeles Clippers,Milwaukee Bucks,17,24,41,1169609400.0,2007
+Milwaukee Bucks,Sacramento Kings,Milwaukee Bucks,17,25,42,1169694000.0,2007
+Milwaukee Bucks,Milwaukee Bucks,Phoenix Suns,17,26,43,1169861400.0,2007
+Milwaukee Bucks,Milwaukee Bucks,New York Knicks,18,26,44,1170016200.0,2007
+Milwaukee Bucks,Miami Heat,Milwaukee Bucks,18,27,45,1170203400.0,2007
+Milwaukee Bucks,Orlando Magic,Milwaukee Bucks,18,28,46,1170288000.0,2007
+Milwaukee Bucks,Detroit Pistons,Milwaukee Bucks,18,29,47,1170464400.0,2007
+Milwaukee Bucks,Milwaukee Bucks,Miami Heat,18,30,48,1170552600.0,2007
+Milwaukee Bucks,Milwaukee Bucks,Orlando Magic,19,30,49,1170810000.0,2007
+Milwaukee Bucks,New Orleans Hornets,Milwaukee Bucks,19,31,50,1170982800.0,2007
+Milwaukee Bucks,Milwaukee Bucks,Denver Nuggets,19,32,51,1171157400.0,2007
+Milwaukee Bucks,Milwaukee Bucks,Dallas Mavericks,19,33,52,1171414800.0,2007
+Milwaukee Bucks,Boston Celtics,Milwaukee Bucks,19,34,53,1171499400.0,2007
+Milwaukee Bucks,Milwaukee Bucks,Detroit Pistons,19,35,54,1172019600.0,2007
+Milwaukee Bucks,Indiana Pacers,Milwaukee Bucks,19,36,55,1172102400.0,2007
+Milwaukee Bucks,New York Knicks,Milwaukee Bucks,19,37,56,1172277000.0,2007
+Milwaukee Bucks,Milwaukee Bucks,Philadelphia 76ers,20,37,57,1172367000.0,2007
+Milwaukee Bucks,Milwaukee Bucks,Golden State Warriors,21,37,58,1172624400.0,2007
+Milwaukee Bucks,Toronto Raptors,Milwaukee Bucks,22,37,59,1172880000.0,2007
+Milwaukee Bucks,Milwaukee Bucks,Chicago Bulls,22,38,60,1173038400.0,2007
+Milwaukee Bucks,Orlando Magic,Milwaukee Bucks,22,39,61,1173139200.0,2007
+Milwaukee Bucks,Milwaukee Bucks,Los Angeles Lakers,23,39,62,1173315600.0,2007
+Milwaukee Bucks,Milwaukee Bucks,Cleveland Cavaliers,23,40,63,1173576600.0,2007
+Milwaukee Bucks,Milwaukee Bucks,Toronto Raptors,23,41,64,1173744000.0,2007
+Milwaukee Bucks,Milwaukee Bucks,San Antonio Spurs,24,41,65,1174003200.0,2007
+Milwaukee Bucks,Milwaukee Bucks,Charlotte Bobcats,25,41,66,1174177800.0,2007
+Milwaukee Bucks,Milwaukee Bucks,Los Angeles Clippers,25,42,67,1174521600.0,2007
+Milwaukee Bucks,Milwaukee Bucks,Detroit Pistons,25,43,68,1174851000.0,2007
+Milwaukee Bucks,Houston Rockets,Milwaukee Bucks,25,44,69,1174955400.0,2007
+Milwaukee Bucks,Dallas Mavericks,Milwaukee Bucks,25,45,70,1175128200.0,2007
+Milwaukee Bucks,Charlotte Bobcats,Milwaukee Bucks,25,46,71,1175295600.0,2007
+Milwaukee Bucks,Milwaukee Bucks,Washington Wizards,25,47,72,1175455800.0,2007
+Milwaukee Bucks,Milwaukee Bucks,New Orleans Hornets,25,48,73,1175644800.0,2007
+Milwaukee Bucks,Milwaukee Bucks,Boston Celtics,26,48,74,1175731200.0,2007
+Milwaukee Bucks,Atlanta Hawks,Milwaukee Bucks,26,49,75,1175902200.0,2007
+Milwaukee Bucks,Milwaukee Bucks,New York Knicks,26,50,76,1175992200.0,2007
+Milwaukee Bucks,Milwaukee Bucks,Orlando Magic,26,51,77,1176163200.0,2007
+Milwaukee Bucks,Milwaukee Bucks,Indiana Pacers,26,52,78,1176336000.0,2007
+Milwaukee Bucks,Boston Celtics,Milwaukee Bucks,27,52,79,1176507000.0,2007
+Milwaukee Bucks,Milwaukee Bucks,Charlotte Bobcats,27,53,80,1176597000.0,2007
+Milwaukee Bucks,Milwaukee Bucks,Atlanta Hawks,28,53,81,1176768000.0,2007
+Milwaukee Bucks,Cleveland Cavaliers,Milwaukee Bucks,28,54,82,1176937200.0,2007
+Minnesota Timberwolves,Minnesota Timberwolves,Sacramento Kings,1,0,1,1162429200.0,2007
+Minnesota Timberwolves,Denver Nuggets,Minnesota Timberwolves,2,0,2,1162605600.0,2007
+Minnesota Timberwolves,Portland Trail Blazers,Minnesota Timberwolves,2,1,3,1162695600.0,2007
+Minnesota Timberwolves,Sacramento Kings,Minnesota Timberwolves,2,2,4,1162868400.0,2007
+Minnesota Timberwolves,Los Angeles Lakers,Minnesota Timberwolves,2,3,5,1162956600.0,2007
+Minnesota Timberwolves,Minnesota Timberwolves,Orlando Magic,2,4,6,1163293200.0,2007
+Minnesota Timberwolves,Minnesota Timberwolves,Portland Trail Blazers,3,4,7,1163552400.0,2007
+Minnesota Timberwolves,Cleveland Cavaliers,Minnesota Timberwolves,3,5,8,1163809800.0,2007
+Minnesota Timberwolves,Minnesota Timberwolves,New Orleans Hornets,3,6,9,1163898000.0,2007
+Minnesota Timberwolves,Minnesota Timberwolves,New York Knicks,4,6,10,1164243600.0,2007
+Minnesota Timberwolves,New Orleans Hornets,Minnesota Timberwolves,5,6,11,1164416400.0,2007
+Minnesota Timberwolves,Minnesota Timberwolves,Los Angeles Clippers,6,6,12,1164502800.0,2007
+Minnesota Timberwolves,Dallas Mavericks,Minnesota Timberwolves,6,7,13,1164677400.0,2007
+Minnesota Timberwolves,Houston Rockets,Minnesota Timberwolves,6,8,14,1164763800.0,2007
+Minnesota Timberwolves,Minnesota Timberwolves,Denver Nuggets,6,9,15,1165021200.0,2007
+Minnesota Timberwolves,Philadelphia 76ers,Minnesota Timberwolves,7,9,16,1165186800.0,2007
+Minnesota Timberwolves,Minnesota Timberwolves,Houston Rockets,8,9,17,1165453200.0,2007
+Minnesota Timberwolves,Minnesota Timberwolves,Utah Jazz,9,9,18,1165626000.0,2007
+Minnesota Timberwolves,Chicago Bulls,Minnesota Timberwolves,10,9,19,1165714200.0,2007
+Minnesota Timberwolves,San Antonio Spurs,Minnesota Timberwolves,10,10,20,1166058000.0,2007
+Minnesota Timberwolves,Milwaukee Bucks,Minnesota Timberwolves,10,11,21,1166319000.0,2007
+Minnesota Timberwolves,Minnesota Timberwolves,Los Angeles Lakers,10,12,22,1166662800.0,2007
+Minnesota Timberwolves,Minnesota Timberwolves,Milwaukee Bucks,10,13,23,1166835600.0,2007
+Minnesota Timberwolves,Indiana Pacers,Minnesota Timberwolves,11,13,24,1166918400.0,2007
+Minnesota Timberwolves,Minnesota Timberwolves,Chicago Bulls,12,13,25,1167181200.0,2007
+Minnesota Timberwolves,Toronto Raptors,Minnesota Timberwolves,12,14,26,1167264000.0,2007
+Minnesota Timberwolves,Minnesota Timberwolves,Seattle Supersonics,13,14,27,1167440400.0,2007
+Minnesota Timberwolves,New Jersey Nets,Minnesota Timberwolves,13,15,28,1167525000.0,2007
+Minnesota Timberwolves,Charlotte Bobcats,Minnesota Timberwolves,14,15,29,1167696000.0,2007
+Minnesota Timberwolves,Minnesota Timberwolves,San Antonio Spurs,15,15,30,1167872400.0,2007
+Minnesota Timberwolves,Minnesota Timberwolves,Philadelphia 76ers,16,15,31,1168045200.0,2007
+Minnesota Timberwolves,Minnesota Timberwolves,Houston Rockets,17,15,32,1168201800.0,2007
+Minnesota Timberwolves,Minnesota Timberwolves,Los Angeles Clippers,17,16,33,1168477200.0,2007
+Minnesota Timberwolves,Memphis Grizzlies,Minnesota Timberwolves,18,16,34,1168650000.0,2007
+Minnesota Timberwolves,Minnesota Timberwolves,New Jersey Nets,19,16,35,1168736400.0,2007
+Minnesota Timberwolves,Detroit Pistons,Minnesota Timberwolves,20,16,36,1168893000.0,2007
+Minnesota Timberwolves,Minnesota Timberwolves,Atlanta Hawks,20,17,37,1169082000.0,2007
+Minnesota Timberwolves,Minnesota Timberwolves,Detroit Pistons,20,18,38,1169254800.0,2007
+Minnesota Timberwolves,Phoenix Suns,Minnesota Timberwolves,20,19,39,1169427600.0,2007
+Minnesota Timberwolves,Utah Jazz,Minnesota Timberwolves,20,20,40,1169517600.0,2007
+Minnesota Timberwolves,Portland Trail Blazers,Minnesota Timberwolves,20,21,41,1169694000.0,2007
+Minnesota Timberwolves,Seattle Supersonics,Minnesota Timberwolves,20,22,42,1169868600.0,2007
+Minnesota Timberwolves,Los Angeles Clippers,Minnesota Timberwolves,21,22,43,1169955000.0,2007
+Minnesota Timberwolves,Minnesota Timberwolves,Phoenix Suns,22,22,44,1170118800.0,2007
+Minnesota Timberwolves,Minnesota Timberwolves,Sacramento Kings,22,23,45,1170291600.0,2007
+Minnesota Timberwolves,New Orleans Hornets,Minnesota Timberwolves,22,24,46,1170464400.0,2007
+Minnesota Timberwolves,Dallas Mavericks,Minnesota Timberwolves,22,25,47,1170552600.0,2007
+Minnesota Timberwolves,Houston Rockets,Minnesota Timberwolves,22,26,48,1170725400.0,2007
+Minnesota Timberwolves,Minnesota Timberwolves,Golden State Warriors,23,26,49,1170896400.0,2007
+Minnesota Timberwolves,Memphis Grizzlies,Minnesota Timberwolves,23,27,50,1171069200.0,2007
+Minnesota Timberwolves,Minnesota Timberwolves,Boston Celtics,24,27,51,1171234800.0,2007
+Minnesota Timberwolves,Minnesota Timberwolves,Denver Nuggets,25,27,52,1171501200.0,2007
+Minnesota Timberwolves,Washington Wizards,Minnesota Timberwolves,25,28,53,1172016000.0,2007
+Minnesota Timberwolves,Minnesota Timberwolves,Charlotte Bobcats,25,29,54,1172106000.0,2007
+Minnesota Timberwolves,Minnesota Timberwolves,Phoenix Suns,25,30,55,1172278800.0,2007
+Minnesota Timberwolves,Minnesota Timberwolves,Washington Wizards,26,30,56,1172435400.0,2007
+Minnesota Timberwolves,Minnesota Timberwolves,Dallas Mavericks,26,31,57,1172624400.0,2007
+Minnesota Timberwolves,Minnesota Timberwolves,Utah Jazz,26,32,58,1172883600.0,2007
+Minnesota Timberwolves,Boston Celtics,Minnesota Timberwolves,26,33,59,1173029400.0,2007
+Minnesota Timberwolves,Minnesota Timberwolves,Los Angeles Lakers,27,33,60,1173229200.0,2007
+Minnesota Timberwolves,Miami Heat,Minnesota Timberwolves,27,34,61,1173486600.0,2007
+Minnesota Timberwolves,Atlanta Hawks,Minnesota Timberwolves,27,35,62,1173571200.0,2007
+Minnesota Timberwolves,Minnesota Timberwolves,Indiana Pacers,28,35,63,1173830400.0,2007
+Minnesota Timberwolves,Golden State Warriors,Minnesota Timberwolves,28,36,64,1174098600.0,2007
+Minnesota Timberwolves,Los Angeles Lakers,Minnesota Timberwolves,28,37,65,1174262400.0,2007
+Minnesota Timberwolves,Phoenix Suns,Minnesota Timberwolves,28,38,66,1174442400.0,2007
+Minnesota Timberwolves,Sacramento Kings,Minnesota Timberwolves,29,38,67,1174528800.0,2007
+Minnesota Timberwolves,Seattle Supersonics,Minnesota Timberwolves,29,39,68,1174703400.0,2007
+Minnesota Timberwolves,Minnesota Timberwolves,Portland Trail Blazers,30,39,69,1174851000.0,2007
+Minnesota Timberwolves,Minnesota Timberwolves,Seattle Supersonics,30,40,70,1175040000.0,2007
+Minnesota Timberwolves,Utah Jazz,Minnesota Timberwolves,30,41,71,1175130000.0,2007
+Minnesota Timberwolves,Minnesota Timberwolves,Miami Heat,30,42,72,1175299200.0,2007
+Minnesota Timberwolves,Orlando Magic,Minnesota Timberwolves,31,42,73,1175464800.0,2007
+Minnesota Timberwolves,Minnesota Timberwolves,Cleveland Cavaliers,31,43,74,1175644800.0,2007
+Minnesota Timberwolves,New York Knicks,Minnesota Timberwolves,32,43,75,1175902200.0,2007
+Minnesota Timberwolves,Minnesota Timberwolves,New Orleans Hornets,32,44,76,1175990400.0,2007
+Minnesota Timberwolves,Minnesota Timberwolves,Toronto Raptors,32,45,77,1176163200.0,2007
+Minnesota Timberwolves,Minnesota Timberwolves,Dallas Mavericks,32,46,78,1176336000.0,2007
+Minnesota Timberwolves,Minnesota Timberwolves,San Antonio Spurs,32,47,79,1176508800.0,2007
+Minnesota Timberwolves,Golden State Warriors,Minnesota Timberwolves,32,48,80,1176665400.0,2007
+Minnesota Timberwolves,Denver Nuggets,Minnesota Timberwolves,32,49,81,1176771600.0,2007
+Minnesota Timberwolves,Minnesota Timberwolves,Memphis Grizzlies,32,50,82,1176940800.0,2007
+New Jersey Nets,New Jersey Nets,Toronto Raptors,1,0,1,1162427400.0,2007
+New Jersey Nets,Miami Heat,New Jersey Nets,1,1,2,1162600200.0,2007
+New Jersey Nets,New Jersey Nets,Utah Jazz,2,1,3,1163032200.0,2007
+New Jersey Nets,New Jersey Nets,Miami Heat,2,2,4,1163206800.0,2007
+New Jersey Nets,Washington Wizards,New Jersey Nets,3,2,5,1163372400.0,2007
+New Jersey Nets,New Jersey Nets,Seattle Supersonics,3,3,6,1163464200.0,2007
+New Jersey Nets,New Jersey Nets,Milwaukee Bucks,4,3,7,1163637000.0,2007
+New Jersey Nets,Indiana Pacers,New Jersey Nets,5,3,8,1163808000.0,2007
+New Jersey Nets,New Jersey Nets,Portland Trail Blazers,5,4,9,1163896200.0,2007
+New Jersey Nets,Seattle Supersonics,New Jersey Nets,5,5,10,1164078000.0,2007
+New Jersey Nets,Portland Trail Blazers,New Jersey Nets,5,6,11,1164250800.0,2007
+New Jersey Nets,Phoenix Suns,New Jersey Nets,5,7,12,1164425400.0,2007
+New Jersey Nets,Los Angeles Lakers,New Jersey Nets,5,8,13,1164594600.0,2007
+New Jersey Nets,New Jersey Nets,Charlotte Bobcats,5,9,14,1164760200.0,2007
+New Jersey Nets,Boston Celtics,New Jersey Nets,6,9,15,1164846600.0,2007
+New Jersey Nets,New Jersey Nets,Philadelphia 76ers,7,9,16,1165105800.0,2007
+New Jersey Nets,New Jersey Nets,Dallas Mavericks,7,10,17,1165365000.0,2007
+New Jersey Nets,New Jersey Nets,Phoenix Suns,7,11,18,1165537800.0,2007
+New Jersey Nets,New Jersey Nets,Boston Celtics,7,12,19,1165710600.0,2007
+New Jersey Nets,New Jersey Nets,Memphis Grizzlies,8,12,20,1165883400.0,2007
+New Jersey Nets,New Jersey Nets,Milwaukee Bucks,9,12,21,1166056200.0,2007
+New Jersey Nets,Toronto Raptors,New Jersey Nets,9,13,22,1166227200.0,2007
+New Jersey Nets,New Jersey Nets,Detroit Pistons,9,14,23,1166317200.0,2007
+New Jersey Nets,New Jersey Nets,Golden State Warriors,10,14,24,1166488200.0,2007
+New Jersey Nets,New Jersey Nets,Cleveland Cavaliers,11,14,25,1166662800.0,2007
+New Jersey Nets,New Jersey Nets,Los Angeles Lakers,11,15,26,1166833800.0,2007
+New Jersey Nets,Milwaukee Bucks,New Jersey Nets,11,16,27,1166923800.0,2007
+New Jersey Nets,Detroit Pistons,New Jersey Nets,11,17,28,1167179400.0,2007
+New Jersey Nets,New Jersey Nets,Houston Rockets,11,18,29,1167265800.0,2007
+New Jersey Nets,Miami Heat,New Jersey Nets,12,18,30,1167438600.0,2007
+New Jersey Nets,New Jersey Nets,Minnesota Timberwolves,13,18,31,1167525000.0,2007
+New Jersey Nets,New Jersey Nets,Chicago Bulls,14,18,32,1168043400.0,2007
+New Jersey Nets,Cleveland Cavaliers,New Jersey Nets,14,19,33,1168129800.0,2007
+New Jersey Nets,New Jersey Nets,Toronto Raptors,15,19,34,1168389000.0,2007
+New Jersey Nets,Chicago Bulls,New Jersey Nets,16,19,35,1168563600.0,2007
+New Jersey Nets,Minnesota Timberwolves,New Jersey Nets,16,20,36,1168736400.0,2007
+New Jersey Nets,New Jersey Nets,Indiana Pacers,17,20,37,1168893000.0,2007
+New Jersey Nets,Charlotte Bobcats,New Jersey Nets,18,20,38,1169078400.0,2007
+New Jersey Nets,New York Knicks,New Jersey Nets,19,20,39,1169253000.0,2007
+New Jersey Nets,New Jersey Nets,Orlando Magic,20,20,40,1169341200.0,2007
+New Jersey Nets,Sacramento Kings,New Jersey Nets,20,21,41,1169521200.0,2007
+New Jersey Nets,Golden State Warriors,New Jersey Nets,20,22,42,1169695800.0,2007
+New Jersey Nets,Los Angeles Clippers,New Jersey Nets,20,23,43,1169782200.0,2007
+New Jersey Nets,Denver Nuggets,New Jersey Nets,21,23,44,1169949600.0,2007
+New Jersey Nets,Utah Jazz,New Jersey Nets,22,23,45,1170122400.0,2007
+New Jersey Nets,New Jersey Nets,Detroit Pistons,22,24,46,1170289800.0,2007
+New Jersey Nets,Orlando Magic,New Jersey Nets,22,25,47,1170464400.0,2007
+New Jersey Nets,New Jersey Nets,Atlanta Hawks,22,26,48,1170608400.0,2007
+New Jersey Nets,Philadelphia 76ers,New Jersey Nets,22,27,49,1170720000.0,2007
+New Jersey Nets,Atlanta Hawks,New Jersey Nets,23,27,50,1170892800.0,2007
+New Jersey Nets,Boston Celtics,New Jersey Nets,24,27,51,1171067400.0,2007
+New Jersey Nets,New Jersey Nets,Orlando Magic,25,27,52,1171153800.0,2007
+New Jersey Nets,New Jersey Nets,San Antonio Spurs,25,28,53,1171413000.0,2007
+New Jersey Nets,Toronto Raptors,New Jersey Nets,25,29,54,1171497600.0,2007
+New Jersey Nets,New Jersey Nets,New Orleans Hornets,25,30,55,1172104200.0,2007
+New Jersey Nets,New Jersey Nets,Sacramento Kings,26,30,56,1172277000.0,2007
+New Jersey Nets,New Jersey Nets,New York Knicks,27,30,57,1172444400.0,2007
+New Jersey Nets,New Jersey Nets,Washington Wizards,28,30,58,1172622600.0,2007
+New Jersey Nets,New Jersey Nets,Boston Celtics,28,31,59,1172944800.0,2007
+New Jersey Nets,Philadelphia 76ers,New Jersey Nets,28,32,60,1173049200.0,2007
+New Jersey Nets,Dallas Mavericks,New Jersey Nets,28,33,61,1173231000.0,2007
+New Jersey Nets,Houston Rockets,New Jersey Nets,28,34,62,1173490200.0,2007
+New Jersey Nets,San Antonio Spurs,New Jersey Nets,28,35,63,1173574800.0,2007
+New Jersey Nets,Memphis Grizzlies,New Jersey Nets,29,35,64,1173744000.0,2007
+New Jersey Nets,New Orleans Hornets,New Jersey Nets,30,35,65,1173830400.0,2007
+New Jersey Nets,New Jersey Nets,Miami Heat,30,36,66,1174003200.0,2007
+New Jersey Nets,New Jersey Nets,Los Angeles Clippers,31,36,67,1174255200.0,2007
+New Jersey Nets,New Jersey Nets,Denver Nuggets,31,37,68,1174431600.0,2007
+New Jersey Nets,Orlando Magic,New Jersey Nets,31,38,69,1174690800.0,2007
+New Jersey Nets,Charlotte Bobcats,New Jersey Nets,32,38,70,1174777200.0,2007
+New Jersey Nets,New Jersey Nets,Indiana Pacers,33,38,71,1175124600.0,2007
+New Jersey Nets,Detroit Pistons,New Jersey Nets,33,39,72,1175299200.0,2007
+New Jersey Nets,New Jersey Nets,Philadelphia 76ers,34,39,73,1175383800.0,2007
+New Jersey Nets,New Jersey Nets,Atlanta Hawks,35,39,74,1175729400.0,2007
+New Jersey Nets,Chicago Bulls,New Jersey Nets,35,40,75,1175905800.0,2007
+New Jersey Nets,New Jersey Nets,Washington Wizards,36,40,76,1175988600.0,2007
+New Jersey Nets,Washington Wizards,New Jersey Nets,37,40,77,1176246000.0,2007
+New Jersey Nets,Cleveland Cavaliers,New Jersey Nets,37,41,78,1176422400.0,2007
+New Jersey Nets,New Jersey Nets,New York Knicks,38,41,79,1176507000.0,2007
+New Jersey Nets,Indiana Pacers,New Jersey Nets,39,41,80,1176665400.0,2007
+New Jersey Nets,New York Knicks,New Jersey Nets,40,41,81,1176766200.0,2007
+New Jersey Nets,New Jersey Nets,Chicago Bulls,41,41,82,1176939000.0,2007
+New Orleans Hornets,Boston Celtics,New Orleans Hornets,1,0,1,1162427400.0,2007
+New Orleans Hornets,Indiana Pacers,New Orleans Hornets,2,0,2,1162598400.0,2007
+New Orleans Hornets,New Orleans Hornets,Houston Rockets,3,0,3,1162771200.0,2007
+New Orleans Hornets,New Orleans Hornets,Golden State Warriors,4,0,4,1162947600.0,2007
+New Orleans Hornets,Golden State Warriors,New Orleans Hornets,4,1,5,1163129400.0,2007
+New Orleans Hornets,Portland Trail Blazers,New Orleans Hornets,4,2,6,1163214000.0,2007
+New Orleans Hornets,Los Angeles Clippers,New Orleans Hornets,4,3,7,1163363400.0,2007
+New Orleans Hornets,New Orleans Hornets,Charlotte Bobcats,5,3,8,1163552400.0,2007
+New Orleans Hornets,Detroit Pistons,New Orleans Hornets,6,3,9,1163637000.0,2007
+New Orleans Hornets,Minnesota Timberwolves,New Orleans Hornets,7,3,10,1163898000.0,2007
+New Orleans Hornets,New Orleans Hornets,Miami Heat,8,3,11,1164157200.0,2007
+New Orleans Hornets,Phoenix Suns,New Orleans Hornets,8,4,12,1164247200.0,2007
+New Orleans Hornets,New Orleans Hornets,Minnesota Timberwolves,8,5,13,1164416400.0,2007
+New Orleans Hornets,Dallas Mavericks,New Orleans Hornets,8,6,14,1164504600.0,2007
+New Orleans Hornets,New Orleans Hornets,Toronto Raptors,8,7,15,1164762000.0,2007
+New Orleans Hornets,New Orleans Hornets,Chicago Bulls,8,8,16,1165021200.0,2007
+New Orleans Hornets,Los Angeles Lakers,New Orleans Hornets,9,8,17,1165462200.0,2007
+New Orleans Hornets,Seattle Supersonics,New Orleans Hornets,9,9,18,1165635000.0,2007
+New Orleans Hornets,Golden State Warriors,New Orleans Hornets,9,10,19,1165721400.0,2007
+New Orleans Hornets,New Orleans Hornets,Cleveland Cavaliers,10,10,20,1165885200.0,2007
+New Orleans Hornets,New Orleans Hornets,San Antonio Spurs,10,11,21,1166149800.0,2007
+New Orleans Hornets,New Orleans Hornets,Dallas Mavericks,10,12,22,1166317200.0,2007
+New Orleans Hornets,Miami Heat,New Orleans Hornets,10,13,23,1166488200.0,2007
+New Orleans Hornets,Orlando Magic,New Orleans Hornets,10,14,24,1166659200.0,2007
+New Orleans Hornets,New Orleans Hornets,Memphis Grizzlies,11,14,25,1166835600.0,2007
+New Orleans Hornets,New Orleans Hornets,San Antonio Spurs,11,15,26,1166922000.0,2007
+New Orleans Hornets,Seattle Supersonics,New Orleans Hornets,11,16,27,1167188400.0,2007
+New Orleans Hornets,Portland Trail Blazers,New Orleans Hornets,11,17,28,1167274800.0,2007
+New Orleans Hornets,New Orleans Hornets,Denver Nuggets,12,17,29,1167440400.0,2007
+New Orleans Hornets,Dallas Mavericks,New Orleans Hornets,12,18,30,1167528600.0,2007
+New Orleans Hornets,New Orleans Hornets,Golden State Warriors,12,19,31,1167786000.0,2007
+New Orleans Hornets,New Orleans Hornets,Detroit Pistons,12,20,32,1167958800.0,2007
+New Orleans Hornets,New Orleans Hornets,Indiana Pacers,12,21,33,1168131600.0,2007
+New Orleans Hornets,New Orleans Hornets,Los Angeles Clippers,12,22,34,1168304400.0,2007
+New Orleans Hornets,Atlanta Hawks,New Orleans Hornets,13,22,35,1168473600.0,2007
+New Orleans Hornets,New Orleans Hornets,Washington Wizards,14,22,36,1168650000.0,2007
+New Orleans Hornets,New Orleans Hornets,Orlando Magic,15,22,37,1168995600.0,2007
+New Orleans Hornets,San Antonio Spurs,New Orleans Hornets,15,23,38,1169254800.0,2007
+New Orleans Hornets,New Orleans Hornets,Los Angeles Lakers,16,23,39,1169341200.0,2007
+New Orleans Hornets,Philadelphia 76ers,New Orleans Hornets,16,24,40,1169596800.0,2007
+New Orleans Hornets,Toronto Raptors,New Orleans Hornets,16,25,41,1169683200.0,2007
+New Orleans Hornets,New Orleans Hornets,Sacramento Kings,17,25,42,1169859600.0,2007
+New Orleans Hornets,New Orleans Hornets,Utah Jazz,18,25,43,1169946000.0,2007
+New Orleans Hornets,New Orleans Hornets,Portland Trail Blazers,19,25,44,1170118800.0,2007
+New Orleans Hornets,New Orleans Hornets,Philadelphia 76ers,19,26,45,1170291600.0,2007
+New Orleans Hornets,New Orleans Hornets,Minnesota Timberwolves,20,26,46,1170464400.0,2007
+New Orleans Hornets,Houston Rockets,New Orleans Hornets,21,26,47,1170552600.0,2007
+New Orleans Hornets,Sacramento Kings,New Orleans Hornets,21,27,48,1170730800.0,2007
+New Orleans Hornets,Denver Nuggets,New Orleans Hornets,22,27,49,1170900000.0,2007
+New Orleans Hornets,New Orleans Hornets,Milwaukee Bucks,23,27,50,1170982800.0,2007
+New Orleans Hornets,New Orleans Hornets,Memphis Grizzlies,24,27,51,1171155600.0,2007
+New Orleans Hornets,Memphis Grizzlies,New Orleans Hornets,24,28,52,1171414800.0,2007
+New Orleans Hornets,New Orleans Hornets,Sacramento Kings,25,28,53,1171501200.0,2007
+New Orleans Hornets,Charlotte Bobcats,New Orleans Hornets,25,29,54,1172016000.0,2007
+New Orleans Hornets,New Jersey Nets,New Orleans Hornets,26,29,55,1172104200.0,2007
+New Orleans Hornets,New Orleans Hornets,Seattle Supersonics,27,29,56,1172278800.0,2007
+New Orleans Hornets,Cleveland Cavaliers,New Orleans Hornets,27,30,57,1172620800.0,2007
+New Orleans Hornets,New Orleans Hornets,Atlanta Hawks,28,30,58,1172710800.0,2007
+New Orleans Hornets,Chicago Bulls,New Orleans Hornets,28,31,59,1172885400.0,2007
+New Orleans Hornets,New Orleans Hornets,Utah Jazz,28,32,60,1173056400.0,2007
+New Orleans Hornets,Denver Nuggets,New Orleans Hornets,28,33,61,1173232800.0,2007
+New Orleans Hornets,Phoenix Suns,New Orleans Hornets,28,34,62,1173492000.0,2007
+New Orleans Hornets,Utah Jazz,New Orleans Hornets,28,35,63,1173578400.0,2007
+New Orleans Hornets,New Orleans Hornets,New Jersey Nets,28,36,64,1173830400.0,2007
+New Orleans Hornets,New York Knicks,New Orleans Hornets,29,36,65,1174087800.0,2007
+New Orleans Hornets,Washington Wizards,New Orleans Hornets,29,37,66,1174172400.0,2007
+New Orleans Hornets,New Orleans Hornets,Boston Celtics,30,37,67,1174348800.0,2007
+New Orleans Hornets,Memphis Grizzlies,New Orleans Hornets,31,37,68,1174435200.0,2007
+New Orleans Hornets,New Orleans Hornets,Los Angeles Lakers,31,38,69,1174694400.0,2007
+New Orleans Hornets,New Orleans Hornets,Houston Rockets,32,38,70,1174867200.0,2007
+New Orleans Hornets,New Orleans Hornets,Dallas Mavericks,32,39,71,1175040000.0,2007
+New Orleans Hornets,San Antonio Spurs,New Orleans Hornets,32,40,72,1175126400.0,2007
+New Orleans Hornets,New Orleans Hornets,New York Knicks,33,40,73,1175385600.0,2007
+New Orleans Hornets,Milwaukee Bucks,New Orleans Hornets,34,40,74,1175644800.0,2007
+New Orleans Hornets,New Orleans Hornets,Seattle Supersonics,35,40,75,1175731200.0,2007
+New Orleans Hornets,New Orleans Hornets,Phoenix Suns,35,41,76,1175904000.0,2007
+New Orleans Hornets,Minnesota Timberwolves,New Orleans Hornets,36,41,77,1175990400.0,2007
+New Orleans Hornets,New Orleans Hornets,Los Angeles Clippers,37,41,78,1176249600.0,2007
+New Orleans Hornets,New Orleans Hornets,Denver Nuggets,37,42,79,1176508800.0,2007
+New Orleans Hornets,Houston Rockets,New Orleans Hornets,37,43,80,1176597000.0,2007
+New Orleans Hornets,Sacramento Kings,New Orleans Hornets,38,43,81,1176775200.0,2007
+New Orleans Hornets,Los Angeles Clippers,New Orleans Hornets,39,43,82,1176949800.0,2007
+New York Knicks,Memphis Grizzlies,New York Knicks,1,0,1,1162429200.0,2007
+New York Knicks,Atlanta Hawks,New York Knicks,1,1,2,1162600200.0,2007
+New York Knicks,New York Knicks,Indiana Pacers,1,2,3,1162686600.0,2007
+New York Knicks,New York Knicks,San Antonio Spurs,1,3,4,1162859400.0,2007
+New York Knicks,Denver Nuggets,New York Knicks,2,3,5,1163037600.0,2007
+New York Knicks,Houston Rockets,New York Knicks,2,4,6,1163208600.0,2007
+New York Knicks,San Antonio Spurs,New York Knicks,2,5,7,1163293200.0,2007
+New York Knicks,New York Knicks,Cleveland Cavaliers,2,6,8,1163464200.0,2007
+New York Knicks,New York Knicks,Washington Wizards,3,6,9,1163637000.0,2007
+New York Knicks,Miami Heat,New York Knicks,4,6,10,1163809800.0,2007
+New York Knicks,New York Knicks,Boston Celtics,4,7,11,1163896200.0,2007
+New York Knicks,New York Knicks,Houston Rockets,4,8,12,1164069000.0,2007
+New York Knicks,Minnesota Timberwolves,New York Knicks,4,9,13,1164243600.0,2007
+New York Knicks,Boston Celtics,New York Knicks,5,9,14,1164414600.0,2007
+New York Knicks,New York Knicks,Chicago Bulls,5,10,15,1164501000.0,2007
+New York Knicks,Chicago Bulls,New York Knicks,5,11,16,1164763800.0,2007
+New York Knicks,Cleveland Cavaliers,New York Knicks,6,11,17,1164844800.0,2007
+New York Knicks,Detroit Pistons,New York Knicks,6,12,18,1165021200.0,2007
+New York Knicks,New York Knicks,Toronto Raptors,6,13,19,1165107600.0,2007
+New York Knicks,New York Knicks,Memphis Grizzlies,7,13,20,1165278600.0,2007
+New York Knicks,New York Knicks,Washington Wizards,7,14,21,1165451400.0,2007
+New York Knicks,New York Knicks,Milwaukee Bucks,8,14,22,1165710600.0,2007
+New York Knicks,New York Knicks,Boston Celtics,8,15,23,1165883400.0,2007
+New York Knicks,New York Knicks,Atlanta Hawks,9,15,24,1166056200.0,2007
+New York Knicks,Indiana Pacers,New York Knicks,9,16,25,1166227200.0,2007
+New York Knicks,New York Knicks,Denver Nuggets,9,17,26,1166315400.0,2007
+New York Knicks,New York Knicks,Utah Jazz,10,17,27,1166488200.0,2007
+New York Knicks,New York Knicks,Charlotte Bobcats,11,17,28,1166661000.0,2007
+New York Knicks,New York Knicks,Chicago Bulls,12,17,29,1166833800.0,2007
+New York Knicks,Philadelphia 76ers,New York Knicks,12,18,30,1166920200.0,2007
+New York Knicks,New York Knicks,Detroit Pistons,13,18,31,1167265800.0,2007
+New York Knicks,Phoenix Suns,New York Knicks,13,19,32,1167444000.0,2007
+New York Knicks,Los Angeles Clippers,New York Knicks,13,20,33,1167597000.0,2007
+New York Knicks,Sacramento Kings,New York Knicks,13,21,34,1167793200.0,2007
+New York Knicks,Portland Trail Blazers,New York Knicks,14,21,35,1167879600.0,2007
+New York Knicks,Seattle Supersonics,New York Knicks,15,21,36,1168054200.0,2007
+New York Knicks,New York Knicks,Philadelphia 76ers,16,21,37,1168475400.0,2007
+New York Knicks,New York Knicks,Charlotte Bobcats,16,22,38,1168648200.0,2007
+New York Knicks,New York Knicks,Sacramento Kings,17,22,39,1168884000.0,2007
+New York Knicks,Washington Wizards,New York Knicks,17,23,40,1169078400.0,2007
+New York Knicks,New York Knicks,New Jersey Nets,17,24,41,1169253000.0,2007
+New York Knicks,Indiana Pacers,New York Knicks,18,24,42,1169337600.0,2007
+New York Knicks,Miami Heat,New York Knicks,18,25,43,1169512200.0,2007
+New York Knicks,New York Knicks,Phoenix Suns,18,26,44,1169685000.0,2007
+New York Knicks,New York Knicks,Miami Heat,19,26,45,1169857800.0,2007
+New York Knicks,Milwaukee Bucks,New York Knicks,19,27,46,1170016200.0,2007
+New York Knicks,New York Knicks,Los Angeles Lakers,20,27,47,1170203400.0,2007
+New York Knicks,Charlotte Bobcats,New York Knicks,20,28,48,1170288000.0,2007
+New York Knicks,Orlando Magic,New York Knicks,21,28,49,1170547200.0,2007
+New York Knicks,New York Knicks,Los Angeles Clippers,22,28,50,1170808200.0,2007
+New York Knicks,Utah Jazz,New York Knicks,22,29,51,1171159200.0,2007
+New York Knicks,Los Angeles Lakers,New York Knicks,23,29,52,1171423800.0,2007
+New York Knicks,Golden State Warriors,New York Knicks,23,30,53,1171510200.0,2007
+New York Knicks,New York Knicks,Orlando Magic,24,30,54,1172017800.0,2007
+New York Knicks,Philadelphia 76ers,New York Knicks,24,31,55,1172102400.0,2007
+New York Knicks,New York Knicks,Milwaukee Bucks,25,31,56,1172277000.0,2007
+New York Knicks,New Jersey Nets,New York Knicks,25,32,57,1172444400.0,2007
+New York Knicks,New York Knicks,Miami Heat,26,32,58,1172536200.0,2007
+New York Knicks,Boston Celtics,New York Knicks,26,33,59,1172709000.0,2007
+New York Knicks,New York Knicks,Golden State Warriors,27,33,60,1172881800.0,2007
+New York Knicks,Atlanta Hawks,New York Knicks,28,33,61,1172966400.0,2007
+New York Knicks,New York Knicks,Seattle Supersonics,28,34,62,1173227400.0,2007
+New York Knicks,Washington Wizards,New York Knicks,29,34,63,1173571200.0,2007
+New York Knicks,Toronto Raptors,New York Knicks,29,35,64,1173913200.0,2007
+New York Knicks,New York Knicks,New Orleans Hornets,29,36,65,1174087800.0,2007
+New York Knicks,New York Knicks,Toronto Raptors,30,36,66,1174233600.0,2007
+New York Knicks,New York Knicks,Dallas Mavericks,30,37,67,1174433400.0,2007
+New York Knicks,New York Knicks,Portland Trail Blazers,30,38,68,1174606200.0,2007
+New York Knicks,Cleveland Cavaliers,New York Knicks,30,39,69,1174692600.0,2007
+New York Knicks,New York Knicks,Orlando Magic,30,40,70,1174951800.0,2007
+New York Knicks,New York Knicks,Cleveland Cavaliers,31,40,71,1175124600.0,2007
+New York Knicks,Dallas Mavericks,New York Knicks,31,41,72,1175301000.0,2007
+New York Knicks,New Orleans Hornets,New York Knicks,31,42,73,1175385600.0,2007
+New York Knicks,New York Knicks,Philadelphia 76ers,31,43,74,1175729400.0,2007
+New York Knicks,New York Knicks,Minnesota Timberwolves,31,44,75,1175902200.0,2007
+New York Knicks,Milwaukee Bucks,New York Knicks,32,44,76,1175992200.0,2007
+New York Knicks,New York Knicks,Detroit Pistons,32,45,77,1176161400.0,2007
+New York Knicks,Chicago Bulls,New York Knicks,32,46,78,1176251400.0,2007
+New York Knicks,New Jersey Nets,New York Knicks,32,47,79,1176507000.0,2007
+New York Knicks,Toronto Raptors,New York Knicks,32,48,80,1176674400.0,2007
+New York Knicks,New York Knicks,New Jersey Nets,32,49,81,1176766200.0,2007
+New York Knicks,Charlotte Bobcats,New York Knicks,33,49,82,1176937200.0,2007
+Orlando Magic,Orlando Magic,Chicago Bulls,1,0,1,1162425600.0,2007
+Orlando Magic,Orlando Magic,Philadelphia 76ers,1,1,2,1162598400.0,2007
+Orlando Magic,Atlanta Hawks,Orlando Magic,1,2,3,1162753200.0,2007
+Orlando Magic,Orlando Magic,Washington Wizards,2,2,4,1162857600.0,2007
+Orlando Magic,Orlando Magic,Seattle Supersonics,3,2,5,1163030400.0,2007
+Orlando Magic,Indiana Pacers,Orlando Magic,3,3,6,1163203200.0,2007
+Orlando Magic,Minnesota Timberwolves,Orlando Magic,4,3,7,1163293200.0,2007
+Orlando Magic,Boston Celtics,Orlando Magic,5,3,8,1163464200.0,2007
+Orlando Magic,Orlando Magic,Denver Nuggets,6,3,9,1163635200.0,2007
+Orlando Magic,Orlando Magic,Charlotte Bobcats,7,3,10,1163894400.0,2007
+Orlando Magic,Memphis Grizzlies,Orlando Magic,7,4,11,1164070800.0,2007
+Orlando Magic,Orlando Magic,Indiana Pacers,8,4,12,1164240000.0,2007
+Orlando Magic,Miami Heat,Orlando Magic,9,4,13,1164414600.0,2007
+Orlando Magic,Orlando Magic,Atlanta Hawks,10,4,14,1164499200.0,2007
+Orlando Magic,Utah Jazz,Orlando Magic,11,4,15,1164679200.0,2007
+Orlando Magic,Seattle Supersonics,Orlando Magic,12,4,16,1164855600.0,2007
+Orlando Magic,Portland Trail Blazers,Orlando Magic,13,4,17,1165028400.0,2007
+Orlando Magic,Los Angeles Clippers,Orlando Magic,13,5,18,1165199400.0,2007
+Orlando Magic,Sacramento Kings,Orlando Magic,14,5,19,1165287600.0,2007
+Orlando Magic,Indiana Pacers,Orlando Magic,14,6,20,1165449600.0,2007
+Orlando Magic,Orlando Magic,Detroit Pistons,14,7,21,1165622400.0,2007
+Orlando Magic,Orlando Magic,Philadelphia 76ers,15,7,22,1165708800.0,2007
+Orlando Magic,Orlando Magic,Phoenix Suns,15,8,23,1165881600.0,2007
+Orlando Magic,Orlando Magic,Toronto Raptors,15,9,24,1166054400.0,2007
+Orlando Magic,Charlotte Bobcats,Orlando Magic,15,10,25,1166140800.0,2007
+Orlando Magic,Orlando Magic,Cleveland Cavaliers,16,10,26,1166313600.0,2007
+Orlando Magic,Orlando Magic,New Orleans Hornets,17,10,27,1166659200.0,2007
+Orlando Magic,Orlando Magic,Golden State Warriors,17,11,28,1166832000.0,2007
+Orlando Magic,Cleveland Cavaliers,Orlando Magic,17,12,29,1166920200.0,2007
+Orlando Magic,Orlando Magic,Los Angeles Lakers,17,13,30,1167264000.0,2007
+Orlando Magic,Washington Wizards,Orlando Magic,17,14,31,1167436800.0,2007
+Orlando Magic,Orlando Magic,Miami Heat,18,14,32,1167523200.0,2007
+Orlando Magic,Orlando Magic,Los Angeles Clippers,19,14,33,1167782400.0,2007
+Orlando Magic,Orlando Magic,Charlotte Bobcats,20,14,34,1168041600.0,2007
+Orlando Magic,Orlando Magic,Boston Celtics,21,14,35,1168210800.0,2007
+Orlando Magic,Golden State Warriors,Orlando Magic,22,14,36,1168486200.0,2007
+Orlando Magic,Los Angeles Lakers,Orlando Magic,22,15,37,1168659000.0,2007
+Orlando Magic,Phoenix Suns,Orlando Magic,22,16,38,1168740000.0,2007
+Orlando Magic,New Orleans Hornets,Orlando Magic,22,17,39,1168995600.0,2007
+Orlando Magic,Orlando Magic,Washington Wizards,22,18,40,1169251200.0,2007
+Orlando Magic,New Jersey Nets,Orlando Magic,22,19,41,1169341200.0,2007
+Orlando Magic,Cleveland Cavaliers,Orlando Magic,23,19,42,1169510400.0,2007
+Orlando Magic,Orlando Magic,Dallas Mavericks,23,20,43,1169596800.0,2007
+Orlando Magic,Orlando Magic,Atlanta Hawks,23,21,44,1169856000.0,2007
+Orlando Magic,Atlanta Hawks,Orlando Magic,23,22,45,1170115200.0,2007
+Orlando Magic,Orlando Magic,Milwaukee Bucks,24,22,46,1170288000.0,2007
+Orlando Magic,Orlando Magic,New Jersey Nets,25,22,47,1170464400.0,2007
+Orlando Magic,Orlando Magic,New York Knicks,25,23,48,1170547200.0,2007
+Orlando Magic,Milwaukee Bucks,Orlando Magic,25,24,49,1170810000.0,2007
+Orlando Magic,Toronto Raptors,Orlando Magic,25,25,50,1170892800.0,2007
+Orlando Magic,Orlando Magic,San Antonio Spurs,26,25,51,1171065600.0,2007
+Orlando Magic,New Jersey Nets,Orlando Magic,26,26,52,1171153800.0,2007
+Orlando Magic,Orlando Magic,Portland Trail Blazers,27,26,53,1171497600.0,2007
+Orlando Magic,New York Knicks,Orlando Magic,27,27,54,1172017800.0,2007
+Orlando Magic,Detroit Pistons,Orlando Magic,27,28,55,1172104200.0,2007
+Orlando Magic,Orlando Magic,Detroit Pistons,27,29,56,1172275200.0,2007
+Orlando Magic,Orlando Magic,Houston Rockets,27,30,57,1172430000.0,2007
+Orlando Magic,Chicago Bulls,Orlando Magic,28,30,58,1172539800.0,2007
+Orlando Magic,Denver Nuggets,Orlando Magic,28,31,59,1172714400.0,2007
+Orlando Magic,San Antonio Spurs,Orlando Magic,28,32,60,1172883600.0,2007
+Orlando Magic,Dallas Mavericks,Orlando Magic,28,33,61,1172973600.0,2007
+Orlando Magic,Orlando Magic,Milwaukee Bucks,29,33,62,1173139200.0,2007
+Orlando Magic,Orlando Magic,Chicago Bulls,29,34,63,1173402000.0,2007
+Orlando Magic,Houston Rockets,Orlando Magic,29,35,64,1173652200.0,2007
+Orlando Magic,Charlotte Bobcats,Orlando Magic,29,36,65,1173740400.0,2007
+Orlando Magic,Orlando Magic,Utah Jazz,30,36,66,1173913200.0,2007
+Orlando Magic,Orlando Magic,Sacramento Kings,30,37,67,1174172400.0,2007
+Orlando Magic,Miami Heat,Orlando Magic,31,37,68,1174255200.0,2007
+Orlando Magic,Toronto Raptors,Orlando Magic,31,38,69,1174518000.0,2007
+Orlando Magic,Orlando Magic,New Jersey Nets,32,38,70,1174690800.0,2007
+Orlando Magic,New York Knicks,Orlando Magic,33,38,71,1174951800.0,2007
+Orlando Magic,Boston Celtics,Orlando Magic,33,39,72,1175124600.0,2007
+Orlando Magic,Orlando Magic,Indiana Pacers,34,39,73,1175299200.0,2007
+Orlando Magic,Orlando Magic,Minnesota Timberwolves,34,40,74,1175464800.0,2007
+Orlando Magic,Orlando Magic,Toronto Raptors,34,41,75,1175727600.0,2007
+Orlando Magic,Orlando Magic,Memphis Grizzlies,35,41,76,1175986800.0,2007
+Orlando Magic,Milwaukee Bucks,Orlando Magic,36,41,77,1176163200.0,2007
+Orlando Magic,Detroit Pistons,Orlando Magic,36,42,78,1176336000.0,2007
+Orlando Magic,Philadelphia 76ers,Orlando Magic,37,42,79,1176577200.0,2007
+Orlando Magic,Orlando Magic,Boston Celtics,38,42,80,1176674400.0,2007
+Orlando Magic,Washington Wizards,Orlando Magic,39,42,81,1176850800.0,2007
+Orlando Magic,Orlando Magic,Miami Heat,40,42,82,1176937200.0,2007
+Philadelphia 76ers,Philadelphia 76ers,Atlanta Hawks,1,0,1,1162425600.0,2007
+Philadelphia 76ers,Orlando Magic,Philadelphia 76ers,2,0,2,1162598400.0,2007
+Philadelphia 76ers,Philadelphia 76ers,Miami Heat,3,0,3,1162753200.0,2007
+Philadelphia 76ers,Indiana Pacers,Philadelphia 76ers,3,1,4,1162944000.0,2007
+Philadelphia 76ers,Toronto Raptors,Philadelphia 76ers,3,2,5,1163030400.0,2007
+Philadelphia 76ers,Philadelphia 76ers,Denver Nuggets,3,3,6,1163203200.0,2007
+Philadelphia 76ers,Seattle Supersonics,Philadelphia 76ers,4,3,7,1163646000.0,2007
+Philadelphia 76ers,Phoenix Suns,Philadelphia 76ers,4,4,8,1163820600.0,2007
+Philadelphia 76ers,Los Angeles Clippers,Philadelphia 76ers,4,5,9,1163907000.0,2007
+Philadelphia 76ers,Philadelphia 76ers,Detroit Pistons,4,6,10,1164153600.0,2007
+Philadelphia 76ers,Milwaukee Bucks,Philadelphia 76ers,4,7,11,1164243600.0,2007
+Philadelphia 76ers,Philadelphia 76ers,Chicago Bulls,5,7,12,1164414600.0,2007
+Philadelphia 76ers,Cleveland Cavaliers,Philadelphia 76ers,5,8,13,1164501000.0,2007
+Philadelphia 76ers,Miami Heat,Philadelphia 76ers,5,9,14,1164673800.0,2007
+Philadelphia 76ers,New Jersey Nets,Philadelphia 76ers,5,10,15,1165105800.0,2007
+Philadelphia 76ers,Philadelphia 76ers,Minnesota Timberwolves,5,11,16,1165186800.0,2007
+Philadelphia 76ers,Chicago Bulls,Philadelphia 76ers,5,12,17,1165456800.0,2007
+Philadelphia 76ers,Philadelphia 76ers,Washington Wizards,5,13,18,1165626000.0,2007
+Philadelphia 76ers,Orlando Magic,Philadelphia 76ers,5,14,19,1165708800.0,2007
+Philadelphia 76ers,Philadelphia 76ers,Portland Trail Blazers,5,15,20,1165881600.0,2007
+Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,5,16,21,1166054400.0,2007
+Philadelphia 76ers,Dallas Mavericks,Philadelphia 76ers,5,17,22,1166230800.0,2007
+Philadelphia 76ers,San Antonio Spurs,Philadelphia 76ers,5,18,23,1166317200.0,2007
+Philadelphia 76ers,Philadelphia 76ers,Indiana Pacers,5,19,24,1166659200.0,2007
+Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,6,19,25,1166835600.0,2007
+Philadelphia 76ers,Philadelphia 76ers,New York Knicks,7,19,26,1166920200.0,2007
+Philadelphia 76ers,Golden State Warriors,Philadelphia 76ers,7,20,27,1167190200.0,2007
+Philadelphia 76ers,Sacramento Kings,Philadelphia 76ers,7,21,28,1167274800.0,2007
+Philadelphia 76ers,Portland Trail Blazers,Philadelphia 76ers,8,21,29,1167447600.0,2007
+Philadelphia 76ers,Los Angeles Lakers,Philadelphia 76ers,8,22,30,1167618600.0,2007
+Philadelphia 76ers,Denver Nuggets,Philadelphia 76ers,9,22,31,1167789600.0,2007
+Philadelphia 76ers,Utah Jazz,Philadelphia 76ers,9,23,32,1167876000.0,2007
+Philadelphia 76ers,Minnesota Timberwolves,Philadelphia 76ers,9,24,33,1168045200.0,2007
+Philadelphia 76ers,Philadelphia 76ers,Detroit Pistons,9,25,34,1168387200.0,2007
+Philadelphia 76ers,New York Knicks,Philadelphia 76ers,9,26,35,1168475400.0,2007
+Philadelphia 76ers,Philadelphia 76ers,Milwaukee Bucks,10,26,36,1168646400.0,2007
+Philadelphia 76ers,Charlotte Bobcats,Philadelphia 76ers,10,27,37,1168732800.0,2007
+Philadelphia 76ers,Philadelphia 76ers,Toronto Raptors,10,28,38,1168887600.0,2007
+Philadelphia 76ers,Memphis Grizzlies,Philadelphia 76ers,10,29,39,1169082000.0,2007
+Philadelphia 76ers,Philadelphia 76ers,Miami Heat,11,29,40,1169251200.0,2007
+Philadelphia 76ers,Philadelphia 76ers,San Antonio Spurs,11,30,41,1169420400.0,2007
+Philadelphia 76ers,Philadelphia 76ers,New Orleans Hornets,12,30,42,1169596800.0,2007
+Philadelphia 76ers,Cleveland Cavaliers,Philadelphia 76ers,13,30,43,1169683200.0,2007
+Philadelphia 76ers,Philadelphia 76ers,Cleveland Cavaliers,13,31,44,1169856000.0,2007
+Philadelphia 76ers,Atlanta Hawks,Philadelphia 76ers,14,31,45,1169942400.0,2007
+Philadelphia 76ers,Houston Rockets,Philadelphia 76ers,14,32,46,1170120600.0,2007
+Philadelphia 76ers,New Orleans Hornets,Philadelphia 76ers,15,32,47,1170291600.0,2007
+Philadelphia 76ers,Philadelphia 76ers,Golden State Warriors,15,33,48,1170460800.0,2007
+Philadelphia 76ers,Philadelphia 76ers,New Jersey Nets,16,33,49,1170720000.0,2007
+Philadelphia 76ers,Philadelphia 76ers,Charlotte Bobcats,17,33,50,1170892800.0,2007
+Philadelphia 76ers,Philadelphia 76ers,Los Angeles Clippers,17,34,51,1171065600.0,2007
+Philadelphia 76ers,Philadelphia 76ers,Dallas Mavericks,17,35,52,1171234800.0,2007
+Philadelphia 76ers,Philadelphia 76ers,Washington Wizards,17,36,53,1171497600.0,2007
+Philadelphia 76ers,Philadelphia 76ers,New York Knicks,18,36,54,1172102400.0,2007
+Philadelphia 76ers,Charlotte Bobcats,Philadelphia 76ers,18,37,55,1172275200.0,2007
+Philadelphia 76ers,Milwaukee Bucks,Philadelphia 76ers,18,38,56,1172367000.0,2007
+Philadelphia 76ers,Philadelphia 76ers,Sacramento Kings,19,38,57,1172534400.0,2007
+Philadelphia 76ers,Philadelphia 76ers,Phoenix Suns,20,38,58,1172707200.0,2007
+Philadelphia 76ers,Philadelphia 76ers,Memphis Grizzlies,21,38,59,1172880000.0,2007
+Philadelphia 76ers,Philadelphia 76ers,New Jersey Nets,22,38,60,1173049200.0,2007
+Philadelphia 76ers,Philadelphia 76ers,Seattle Supersonics,23,38,61,1173312000.0,2007
+Philadelphia 76ers,Philadelphia 76ers,Los Angeles Lakers,24,38,62,1173484800.0,2007
+Philadelphia 76ers,Indiana Pacers,Philadelphia 76ers,25,38,63,1173571200.0,2007
+Philadelphia 76ers,Atlanta Hawks,Philadelphia 76ers,25,39,64,1173826800.0,2007
+Philadelphia 76ers,Philadelphia 76ers,Chicago Bulls,25,40,65,1173913200.0,2007
+Philadelphia 76ers,Philadelphia 76ers,Utah Jazz,26,40,66,1174086000.0,2007
+Philadelphia 76ers,Philadelphia 76ers,Houston Rockets,26,41,67,1174255200.0,2007
+Philadelphia 76ers,Detroit Pistons,Philadelphia 76ers,26,42,68,1174433400.0,2007
+Philadelphia 76ers,Philadelphia 76ers,Charlotte Bobcats,27,42,69,1174690800.0,2007
+Philadelphia 76ers,Miami Heat,Philadelphia 76ers,28,42,70,1174779000.0,2007
+Philadelphia 76ers,Washington Wizards,Philadelphia 76ers,28,43,71,1175122800.0,2007
+Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,29,43,72,1175295600.0,2007
+Philadelphia 76ers,New Jersey Nets,Philadelphia 76ers,29,44,73,1175383800.0,2007
+Philadelphia 76ers,New York Knicks,Philadelphia 76ers,30,44,74,1175729400.0,2007
+Philadelphia 76ers,Philadelphia 76ers,Toronto Raptors,30,45,75,1175900400.0,2007
+Philadelphia 76ers,Philadelphia 76ers,Atlanta Hawks,31,45,76,1176075000.0,2007
+Philadelphia 76ers,Philadelphia 76ers,Indiana Pacers,32,45,77,1176246000.0,2007
+Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,33,45,78,1176334200.0,2007
+Philadelphia 76ers,Philadelphia 76ers,Orlando Magic,33,46,79,1176577200.0,2007
+Philadelphia 76ers,Detroit Pistons,Philadelphia 76ers,34,46,80,1176674400.0,2007
+Philadelphia 76ers,Philadelphia 76ers,Cleveland Cavaliers,34,47,81,1176850800.0,2007
+Philadelphia 76ers,Toronto Raptors,Philadelphia 76ers,35,47,82,1176937200.0,2007
+Phoenix Suns,Los Angeles Lakers,Phoenix Suns,0,1,1,1162351800.0,2007
+Phoenix Suns,Phoenix Suns,Los Angeles Clippers,1,1,2,1162438200.0,2007
+Phoenix Suns,Phoenix Suns,Utah Jazz,1,2,3,1162605600.0,2007
+Phoenix Suns,Los Angeles Clippers,Phoenix Suns,1,3,4,1162697400.0,2007
+Phoenix Suns,San Antonio Spurs,Phoenix Suns,1,4,5,1163034000.0,2007
+Phoenix Suns,Phoenix Suns,Dallas Mavericks,1,5,6,1163129400.0,2007
+Phoenix Suns,Phoenix Suns,Memphis Grizzlies,2,5,7,1163296800.0,2007
+Phoenix Suns,Phoenix Suns,Philadelphia 76ers,3,5,8,1163820600.0,2007
+Phoenix Suns,Utah Jazz,Phoenix Suns,3,6,9,1163901600.0,2007
+Phoenix Suns,Golden State Warriors,Phoenix Suns,4,6,10,1164079800.0,2007
+Phoenix Suns,Phoenix Suns,New Orleans Hornets,5,6,11,1164247200.0,2007
+Phoenix Suns,Phoenix Suns,New Jersey Nets,6,6,12,1164425400.0,2007
+Phoenix Suns,Portland Trail Blazers,Phoenix Suns,7,6,13,1164592800.0,2007
+Phoenix Suns,Phoenix Suns,Houston Rockets,8,6,14,1164852000.0,2007
+Phoenix Suns,Phoenix Suns,Milwaukee Bucks,9,6,15,1165024800.0,2007
+Phoenix Suns,Phoenix Suns,Sacramento Kings,10,6,16,1165370400.0,2007
+Phoenix Suns,New Jersey Nets,Phoenix Suns,11,6,17,1165537800.0,2007
+Phoenix Suns,Boston Celtics,Phoenix Suns,12,6,18,1165624200.0,2007
+Phoenix Suns,Charlotte Bobcats,Phoenix Suns,13,6,19,1165791600.0,2007
+Phoenix Suns,Orlando Magic,Phoenix Suns,14,6,20,1165881600.0,2007
+Phoenix Suns,Miami Heat,Phoenix Suns,15,6,21,1166054400.0,2007
+Phoenix Suns,Phoenix Suns,Golden State Warriors,16,6,22,1166234400.0,2007
+Phoenix Suns,Sacramento Kings,Phoenix Suns,17,6,23,1166324400.0,2007
+Phoenix Suns,Phoenix Suns,Toronto Raptors,18,6,24,1166580000.0,2007
+Phoenix Suns,Phoenix Suns,Washington Wizards,18,7,25,1166844600.0,2007
+Phoenix Suns,Phoenix Suns,Portland Trail Blazers,19,7,26,1167184800.0,2007
+Phoenix Suns,Dallas Mavericks,Phoenix Suns,19,8,27,1167354000.0,2007
+Phoenix Suns,Phoenix Suns,New York Knicks,20,8,28,1167444000.0,2007
+Phoenix Suns,Detroit Pistons,Phoenix Suns,21,8,29,1167598800.0,2007
+Phoenix Suns,Chicago Bulls,Phoenix Suns,22,8,30,1167787800.0,2007
+Phoenix Suns,Toronto Raptors,Phoenix Suns,23,8,31,1167868800.0,2007
+Phoenix Suns,Phoenix Suns,Miami Heat,24,8,32,1168054200.0,2007
+Phoenix Suns,Phoenix Suns,Golden State Warriors,25,8,33,1168218000.0,2007
+Phoenix Suns,Phoenix Suns,Seattle Supersonics,26,8,34,1168394400.0,2007
+Phoenix Suns,Phoenix Suns,Cleveland Cavaliers,27,8,35,1168572600.0,2007
+Phoenix Suns,Phoenix Suns,Orlando Magic,28,8,36,1168740000.0,2007
+Phoenix Suns,Memphis Grizzlies,Phoenix Suns,29,8,37,1168907400.0,2007
+Phoenix Suns,Houston Rockets,Phoenix Suns,30,8,38,1169083800.0,2007
+Phoenix Suns,Phoenix Suns,Portland Trail Blazers,31,8,39,1169258400.0,2007
+Phoenix Suns,Phoenix Suns,Minnesota Timberwolves,32,8,40,1169427600.0,2007
+Phoenix Suns,Washington Wizards,Phoenix Suns,33,8,41,1169596800.0,2007
+Phoenix Suns,New York Knicks,Phoenix Suns,34,8,42,1169685000.0,2007
+Phoenix Suns,Milwaukee Bucks,Phoenix Suns,35,8,43,1169861400.0,2007
+Phoenix Suns,Cleveland Cavaliers,Phoenix Suns,36,8,44,1170007200.0,2007
+Phoenix Suns,Minnesota Timberwolves,Phoenix Suns,36,9,45,1170118800.0,2007
+Phoenix Suns,Phoenix Suns,San Antonio Spurs,37,9,46,1170387000.0,2007
+Phoenix Suns,Phoenix Suns,Utah Jazz,37,10,47,1170554400.0,2007
+Phoenix Suns,Denver Nuggets,Phoenix Suns,38,10,48,1170727200.0,2007
+Phoenix Suns,Portland Trail Blazers,Phoenix Suns,39,10,49,1170817200.0,2007
+Phoenix Suns,Phoenix Suns,Atlanta Hawks,39,11,50,1171072800.0,2007
+Phoenix Suns,Phoenix Suns,Chicago Bulls,39,12,51,1171242000.0,2007
+Phoenix Suns,Seattle Supersonics,Phoenix Suns,39,13,52,1171508400.0,2007
+Phoenix Suns,Los Angeles Clippers,Phoenix Suns,40,13,53,1172028600.0,2007
+Phoenix Suns,Phoenix Suns,Boston Celtics,41,13,54,1172109600.0,2007
+Phoenix Suns,Minnesota Timberwolves,Phoenix Suns,42,13,55,1172278800.0,2007
+Phoenix Suns,Atlanta Hawks,Phoenix Suns,43,13,56,1172444400.0,2007
+Phoenix Suns,Indiana Pacers,Phoenix Suns,44,13,57,1172620800.0,2007
+Phoenix Suns,Philadelphia 76ers,Phoenix Suns,44,14,58,1172707200.0,2007
+Phoenix Suns,Phoenix Suns,Indiana Pacers,45,14,59,1172887200.0,2007
+Phoenix Suns,Phoenix Suns,Los Angeles Lakers,46,14,60,1173040200.0,2007
+Phoenix Suns,Phoenix Suns,Charlotte Bobcats,47,14,61,1173319200.0,2007
+Phoenix Suns,Phoenix Suns,New Orleans Hornets,48,14,62,1173492000.0,2007
+Phoenix Suns,Phoenix Suns,Houston Rockets,49,14,63,1173751200.0,2007
+Phoenix Suns,Dallas Mavericks,Phoenix Suns,50,14,64,1173920400.0,2007
+Phoenix Suns,Phoenix Suns,Detroit Pistons,50,15,65,1174096800.0,2007
+Phoenix Suns,Denver Nuggets,Phoenix Suns,50,16,66,1174183200.0,2007
+Phoenix Suns,Phoenix Suns,Minnesota Timberwolves,51,16,67,1174442400.0,2007
+Phoenix Suns,Phoenix Suns,Sacramento Kings,52,16,68,1174615200.0,2007
+Phoenix Suns,Sacramento Kings,Phoenix Suns,52,17,69,1174851000.0,2007
+Phoenix Suns,Phoenix Suns,Memphis Grizzlies,53,17,70,1174960800.0,2007
+Phoenix Suns,Golden State Warriors,Phoenix Suns,53,18,71,1175221800.0,2007
+Phoenix Suns,Phoenix Suns,Denver Nuggets,54,18,72,1175306400.0,2007
+Phoenix Suns,Phoenix Suns,Dallas Mavericks,55,18,73,1175455800.0,2007
+Phoenix Suns,Memphis Grizzlies,Phoenix Suns,56,18,74,1175644800.0,2007
+Phoenix Suns,San Antonio Spurs,Phoenix Suns,56,19,75,1175823000.0,2007
+Phoenix Suns,New Orleans Hornets,Phoenix Suns,57,19,76,1175904000.0,2007
+Phoenix Suns,Los Angeles Lakers,Phoenix Suns,58,19,77,1176060600.0,2007
+Phoenix Suns,Phoenix Suns,Seattle Supersonics,59,19,78,1176343200.0,2007
+Phoenix Suns,Phoenix Suns,Los Angeles Lakers,60,19,79,1176517800.0,2007
+Phoenix Suns,Utah Jazz,Phoenix Suns,61,19,80,1176598800.0,2007
+Phoenix Suns,Houston Rockets,Phoenix Suns,61,20,81,1176769800.0,2007
+Phoenix Suns,Phoenix Suns,Los Angeles Clippers,61,21,82,1176861600.0,2007
+Portland Trail Blazers,Seattle Supersonics,Portland Trail Blazers,1,0,1,1162436400.0,2007
+Portland Trail Blazers,Golden State Warriors,Portland Trail Blazers,1,1,2,1162611000.0,2007
+Portland Trail Blazers,Portland Trail Blazers,Minnesota Timberwolves,2,1,3,1162695600.0,2007
+Portland Trail Blazers,Los Angeles Clippers,Portland Trail Blazers,2,2,4,1162870200.0,2007
+Portland Trail Blazers,Portland Trail Blazers,Los Angeles Lakers,3,2,5,1163041200.0,2007
+Portland Trail Blazers,Portland Trail Blazers,New Orleans Hornets,4,2,6,1163214000.0,2007
+Portland Trail Blazers,Portland Trail Blazers,Dallas Mavericks,4,3,7,1163383200.0,2007
+Portland Trail Blazers,Minnesota Timberwolves,Portland Trail Blazers,4,4,8,1163552400.0,2007
+Portland Trail Blazers,Cleveland Cavaliers,Portland Trail Blazers,4,5,9,1163635200.0,2007
+Portland Trail Blazers,Boston Celtics,Portland Trail Blazers,4,6,10,1163809800.0,2007
+Portland Trail Blazers,New Jersey Nets,Portland Trail Blazers,5,6,11,1163896200.0,2007
+Portland Trail Blazers,Portland Trail Blazers,San Antonio Spurs,5,7,12,1164078000.0,2007
+Portland Trail Blazers,Portland Trail Blazers,New Jersey Nets,6,7,13,1164250800.0,2007
+Portland Trail Blazers,Sacramento Kings,Portland Trail Blazers,6,8,14,1164510000.0,2007
+Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,6,9,15,1164592800.0,2007
+Portland Trail Blazers,Portland Trail Blazers,Indiana Pacers,6,10,16,1164769200.0,2007
+Portland Trail Blazers,Portland Trail Blazers,Orlando Magic,6,11,17,1165028400.0,2007
+Portland Trail Blazers,Portland Trail Blazers,Atlanta Hawks,6,12,18,1165197600.0,2007
+Portland Trail Blazers,Detroit Pistons,Portland Trail Blazers,7,12,19,1165365000.0,2007
+Portland Trail Blazers,Milwaukee Bucks,Portland Trail Blazers,7,13,20,1165453200.0,2007
+Portland Trail Blazers,Indiana Pacers,Portland Trail Blazers,7,14,21,1165622400.0,2007
+Portland Trail Blazers,Toronto Raptors,Portland Trail Blazers,8,14,22,1165773600.0,2007
+Portland Trail Blazers,Philadelphia 76ers,Portland Trail Blazers,9,14,23,1165881600.0,2007
+Portland Trail Blazers,Memphis Grizzlies,Portland Trail Blazers,10,14,24,1166058000.0,2007
+Portland Trail Blazers,Portland Trail Blazers,Los Angeles Clippers,11,14,25,1166238000.0,2007
+Portland Trail Blazers,Portland Trail Blazers,Houston Rockets,12,14,26,1166670000.0,2007
+Portland Trail Blazers,Portland Trail Blazers,Toronto Raptors,12,15,27,1166842800.0,2007
+Portland Trail Blazers,Phoenix Suns,Portland Trail Blazers,12,16,28,1167184800.0,2007
+Portland Trail Blazers,Portland Trail Blazers,New Orleans Hornets,13,16,29,1167274800.0,2007
+Portland Trail Blazers,Portland Trail Blazers,Philadelphia 76ers,13,17,30,1167447600.0,2007
+Portland Trail Blazers,Utah Jazz,Portland Trail Blazers,13,18,31,1167530400.0,2007
+Portland Trail Blazers,Portland Trail Blazers,Boston Celtics,13,19,32,1167706800.0,2007
+Portland Trail Blazers,Portland Trail Blazers,New York Knicks,13,20,33,1167879600.0,2007
+Portland Trail Blazers,Sacramento Kings,Portland Trail Blazers,14,20,34,1168138800.0,2007
+Portland Trail Blazers,Portland Trail Blazers,Miami Heat,14,21,35,1168221600.0,2007
+Portland Trail Blazers,San Antonio Spurs,Portland Trail Blazers,14,22,36,1168390800.0,2007
+Portland Trail Blazers,Dallas Mavericks,Portland Trail Blazers,14,23,37,1168479000.0,2007
+Portland Trail Blazers,Portland Trail Blazers,Sacramento Kings,15,23,38,1168657200.0,2007
+Portland Trail Blazers,Portland Trail Blazers,Denver Nuggets,15,24,39,1168826400.0,2007
+Portland Trail Blazers,Portland Trail Blazers,Cleveland Cavaliers,16,24,40,1169089200.0,2007
+Portland Trail Blazers,Phoenix Suns,Portland Trail Blazers,16,25,41,1169258400.0,2007
+Portland Trail Blazers,Portland Trail Blazers,Milwaukee Bucks,17,25,42,1169431200.0,2007
+Portland Trail Blazers,Portland Trail Blazers,Minnesota Timberwolves,18,25,43,1169694000.0,2007
+Portland Trail Blazers,Houston Rockets,Portland Trail Blazers,18,26,44,1169861400.0,2007
+Portland Trail Blazers,Memphis Grizzlies,Portland Trail Blazers,19,26,45,1169946000.0,2007
+Portland Trail Blazers,New Orleans Hornets,Portland Trail Blazers,19,27,46,1170118800.0,2007
+Portland Trail Blazers,Portland Trail Blazers,Denver Nuggets,20,27,47,1170298800.0,2007
+Portland Trail Blazers,Denver Nuggets,Portland Trail Blazers,20,28,48,1170468000.0,2007
+Portland Trail Blazers,Portland Trail Blazers,Chicago Bulls,20,29,49,1170558000.0,2007
+Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,20,30,50,1170817200.0,2007
+Portland Trail Blazers,Charlotte Bobcats,Portland Trail Blazers,21,30,51,1171065600.0,2007
+Portland Trail Blazers,Washington Wizards,Portland Trail Blazers,22,30,52,1171216800.0,2007
+Portland Trail Blazers,Miami Heat,Portland Trail Blazers,22,31,53,1171413000.0,2007
+Portland Trail Blazers,Orlando Magic,Portland Trail Blazers,22,32,54,1171497600.0,2007
+Portland Trail Blazers,Portland Trail Blazers,Utah Jazz,23,32,55,1172026800.0,2007
+Portland Trail Blazers,Los Angeles Lakers,Portland Trail Blazers,24,32,56,1172115000.0,2007
+Portland Trail Blazers,Portland Trail Blazers,Memphis Grizzlies,24,33,57,1172286000.0,2007
+Portland Trail Blazers,Seattle Supersonics,Portland Trail Blazers,24,34,58,1172545200.0,2007
+Portland Trail Blazers,Portland Trail Blazers,Charlotte Bobcats,25,34,59,1172804400.0,2007
+Portland Trail Blazers,Portland Trail Blazers,Sacramento Kings,25,35,60,1172977200.0,2007
+Portland Trail Blazers,Portland Trail Blazers,San Antonio Spurs,25,36,61,1173236400.0,2007
+Portland Trail Blazers,Portland Trail Blazers,Golden State Warriors,26,36,62,1173661200.0,2007
+Portland Trail Blazers,Denver Nuggets,Portland Trail Blazers,26,37,63,1173834000.0,2007
+Portland Trail Blazers,Portland Trail Blazers,Detroit Pistons,26,38,64,1173924000.0,2007
+Portland Trail Blazers,Los Angeles Lakers,Portland Trail Blazers,26,39,65,1174098600.0,2007
+Portland Trail Blazers,Portland Trail Blazers,Seattle Supersonics,26,40,66,1174266000.0,2007
+Portland Trail Blazers,Portland Trail Blazers,Washington Wizards,27,40,67,1174442400.0,2007
+Portland Trail Blazers,New York Knicks,Portland Trail Blazers,28,40,68,1174606200.0,2007
+Portland Trail Blazers,Atlanta Hawks,Portland Trail Blazers,29,40,69,1174692600.0,2007
+Portland Trail Blazers,Minnesota Timberwolves,Portland Trail Blazers,29,41,70,1174851000.0,2007
+Portland Trail Blazers,Chicago Bulls,Portland Trail Blazers,29,42,71,1174955400.0,2007
+Portland Trail Blazers,Portland Trail Blazers,Memphis Grizzlies,29,43,72,1175220000.0,2007
+Portland Trail Blazers,Portland Trail Blazers,Los Angeles Clippers,29,44,73,1175392800.0,2007
+Portland Trail Blazers,Portland Trail Blazers,Utah Jazz,30,44,74,1175738400.0,2007
+Portland Trail Blazers,Houston Rockets,Portland Trail Blazers,31,44,75,1175905800.0,2007
+Portland Trail Blazers,Dallas Mavericks,Portland Trail Blazers,31,45,76,1175994000.0,2007
+Portland Trail Blazers,San Antonio Spurs,Portland Trail Blazers,31,46,77,1176163200.0,2007
+Portland Trail Blazers,Portland Trail Blazers,Houston Rockets,31,47,78,1176343200.0,2007
+Portland Trail Blazers,Los Angeles Clippers,Portland Trail Blazers,31,48,79,1176517800.0,2007
+Portland Trail Blazers,Portland Trail Blazers,Seattle Supersonics,32,48,80,1176602400.0,2007
+Portland Trail Blazers,Utah Jazz,Portland Trail Blazers,32,49,81,1176771600.0,2007
+Portland Trail Blazers,Portland Trail Blazers,Golden State Warriors,32,50,82,1176948000.0,2007
+Sacramento Kings,Minnesota Timberwolves,Sacramento Kings,0,1,1,1162429200.0,2007
+Sacramento Kings,Chicago Bulls,Sacramento Kings,1,1,2,1162603800.0,2007
+Sacramento Kings,Milwaukee Bucks,Sacramento Kings,1,2,3,1162690200.0,2007
+Sacramento Kings,Sacramento Kings,Minnesota Timberwolves,2,2,4,1162868400.0,2007
+Sacramento Kings,Sacramento Kings,Detroit Pistons,3,2,5,1163043000.0,2007
+Sacramento Kings,Sacramento Kings,Toronto Raptors,4,2,6,1163383200.0,2007
+Sacramento Kings,Sacramento Kings,Memphis Grizzlies,5,2,7,1163642400.0,2007
+Sacramento Kings,Golden State Warriors,Sacramento Kings,5,3,8,1163734200.0,2007
+Sacramento Kings,Sacramento Kings,San Antonio Spurs,5,4,9,1163988000.0,2007
+Sacramento Kings,Sacramento Kings,Utah Jazz,5,5,10,1164250800.0,2007
+Sacramento Kings,Seattle Supersonics,Sacramento Kings,6,5,11,1164425400.0,2007
+Sacramento Kings,Sacramento Kings,Portland Trail Blazers,7,5,12,1164510000.0,2007
+Sacramento Kings,Sacramento Kings,Los Angeles Clippers,8,5,13,1164769200.0,2007
+Sacramento Kings,Dallas Mavericks,Sacramento Kings,8,6,14,1165023000.0,2007
+Sacramento Kings,San Antonio Spurs,Sacramento Kings,8,7,15,1165107600.0,2007
+Sacramento Kings,Sacramento Kings,Orlando Magic,8,8,16,1165287600.0,2007
+Sacramento Kings,Phoenix Suns,Sacramento Kings,8,9,17,1165370400.0,2007
+Sacramento Kings,Sacramento Kings,Miami Heat,8,10,18,1165548600.0,2007
+Sacramento Kings,Sacramento Kings,Atlanta Hawks,9,10,19,1165802400.0,2007
+Sacramento Kings,Golden State Warriors,Sacramento Kings,9,11,20,1165980600.0,2007
+Sacramento Kings,Utah Jazz,Sacramento Kings,10,11,21,1166234400.0,2007
+Sacramento Kings,Sacramento Kings,Phoenix Suns,10,12,22,1166324400.0,2007
+Sacramento Kings,Sacramento Kings,Dallas Mavericks,10,13,23,1166497200.0,2007
+Sacramento Kings,Sacramento Kings,Washington Wizards,10,14,24,1166758200.0,2007
+Sacramento Kings,Denver Nuggets,Sacramento Kings,11,14,25,1166839200.0,2007
+Sacramento Kings,Sacramento Kings,Philadelphia 76ers,12,14,26,1167274800.0,2007
+Sacramento Kings,Los Angeles Clippers,Sacramento Kings,12,15,27,1167449400.0,2007
+Sacramento Kings,Sacramento Kings,Golden State Warriors,13,15,28,1167534000.0,2007
+Sacramento Kings,Sacramento Kings,New York Knicks,14,15,29,1167793200.0,2007
+Sacramento Kings,Sacramento Kings,Los Angeles Lakers,14,16,30,1167967800.0,2007
+Sacramento Kings,Sacramento Kings,Portland Trail Blazers,14,17,31,1168138800.0,2007
+Sacramento Kings,Sacramento Kings,Cleveland Cavaliers,14,18,32,1168398000.0,2007
+Sacramento Kings,Portland Trail Blazers,Sacramento Kings,14,19,33,1168657200.0,2007
+Sacramento Kings,Sacramento Kings,Houston Rockets,14,20,34,1168743600.0,2007
+Sacramento Kings,New York Knicks,Sacramento Kings,14,21,35,1168884000.0,2007
+Sacramento Kings,Toronto Raptors,Sacramento Kings,14,22,36,1169078400.0,2007
+Sacramento Kings,Boston Celtics,Sacramento Kings,15,22,37,1169253000.0,2007
+Sacramento Kings,Detroit Pistons,Sacramento Kings,15,23,38,1169339400.0,2007
+Sacramento Kings,Sacramento Kings,New Jersey Nets,16,23,39,1169521200.0,2007
+Sacramento Kings,Sacramento Kings,Milwaukee Bucks,17,23,40,1169694000.0,2007
+Sacramento Kings,New Orleans Hornets,Sacramento Kings,17,24,41,1169859600.0,2007
+Sacramento Kings,Dallas Mavericks,Sacramento Kings,17,25,42,1169947800.0,2007
+Sacramento Kings,Memphis Grizzlies,Sacramento Kings,17,26,43,1170118800.0,2007
+Sacramento Kings,Minnesota Timberwolves,Sacramento Kings,18,26,44,1170291600.0,2007
+Sacramento Kings,Sacramento Kings,Denver Nuggets,19,26,45,1170558000.0,2007
+Sacramento Kings,Sacramento Kings,New Orleans Hornets,20,26,46,1170730800.0,2007
+Sacramento Kings,Sacramento Kings,Chicago Bulls,21,26,47,1170991800.0,2007
+Sacramento Kings,Seattle Supersonics,Sacramento Kings,22,26,48,1171162800.0,2007
+Sacramento Kings,Sacramento Kings,Seattle Supersonics,22,27,49,1171245600.0,2007
+Sacramento Kings,Houston Rockets,Sacramento Kings,22,28,50,1171416600.0,2007
+Sacramento Kings,New Orleans Hornets,Sacramento Kings,22,29,51,1171501200.0,2007
+Sacramento Kings,Sacramento Kings,Boston Celtics,23,29,52,1172026800.0,2007
+Sacramento Kings,Washington Wizards,Sacramento Kings,23,30,53,1172188800.0,2007
+Sacramento Kings,New Jersey Nets,Sacramento Kings,23,31,54,1172277000.0,2007
+Sacramento Kings,Indiana Pacers,Sacramento Kings,24,31,55,1172451600.0,2007
+Sacramento Kings,Philadelphia 76ers,Sacramento Kings,24,32,56,1172534400.0,2007
+Sacramento Kings,Sacramento Kings,Charlotte Bobcats,25,32,57,1172718000.0,2007
+Sacramento Kings,Los Angeles Lakers,Sacramento Kings,26,32,58,1172892600.0,2007
+Sacramento Kings,Portland Trail Blazers,Sacramento Kings,27,32,59,1172977200.0,2007
+Sacramento Kings,Sacramento Kings,Indiana Pacers,28,32,60,1173236400.0,2007
+Sacramento Kings,Sacramento Kings,San Antonio Spurs,28,33,61,1173411000.0,2007
+Sacramento Kings,Sacramento Kings,Denver Nuggets,28,34,62,1173641400.0,2007
+Sacramento Kings,Cleveland Cavaliers,Sacramento Kings,28,35,63,1173826800.0,2007
+Sacramento Kings,Charlotte Bobcats,Sacramento Kings,28,36,64,1173913200.0,2007
+Sacramento Kings,Miami Heat,Sacramento Kings,28,37,65,1174087800.0,2007
+Sacramento Kings,Orlando Magic,Sacramento Kings,29,37,66,1174172400.0,2007
+Sacramento Kings,Atlanta Hawks,Sacramento Kings,29,38,67,1174345200.0,2007
+Sacramento Kings,Sacramento Kings,Minnesota Timberwolves,29,39,68,1174528800.0,2007
+Sacramento Kings,Phoenix Suns,Sacramento Kings,29,40,69,1174615200.0,2007
+Sacramento Kings,Sacramento Kings,Phoenix Suns,30,40,70,1174851000.0,2007
+Sacramento Kings,Sacramento Kings,Los Angeles Clippers,30,41,71,1175308200.0,2007
+Sacramento Kings,Los Angeles Lakers,Sacramento Kings,30,42,72,1175477400.0,2007
+Sacramento Kings,Sacramento Kings,Dallas Mavericks,30,43,73,1175652000.0,2007
+Sacramento Kings,Denver Nuggets,Sacramento Kings,30,44,74,1175738400.0,2007
+Sacramento Kings,Sacramento Kings,Utah Jazz,31,44,75,1175911200.0,2007
+Sacramento Kings,Sacramento Kings,Houston Rockets,31,45,76,1176080400.0,2007
+Sacramento Kings,Memphis Grizzlies,Sacramento Kings,32,45,77,1176249600.0,2007
+Sacramento Kings,San Antonio Spurs,Sacramento Kings,32,46,78,1176336000.0,2007
+Sacramento Kings,Sacramento Kings,Golden State Warriors,32,47,79,1176516000.0,2007
+Sacramento Kings,Los Angeles Clippers,Sacramento Kings,33,47,80,1176665400.0,2007
+Sacramento Kings,Sacramento Kings,New Orleans Hornets,33,48,81,1176775200.0,2007
+Sacramento Kings,Sacramento Kings,Los Angeles Lakers,33,49,82,1176948000.0,2007
+San Antonio Spurs,Dallas Mavericks,San Antonio Spurs,1,0,1,1162515600.0,2007
+San Antonio Spurs,San Antonio Spurs,Cleveland Cavaliers,1,1,2,1162602000.0,2007
+San Antonio Spurs,Toronto Raptors,San Antonio Spurs,2,1,3,1162749600.0,2007
+San Antonio Spurs,New York Knicks,San Antonio Spurs,3,1,4,1162859400.0,2007
+San Antonio Spurs,San Antonio Spurs,Phoenix Suns,4,1,5,1163034000.0,2007
+San Antonio Spurs,San Antonio Spurs,New York Knicks,5,1,6,1163293200.0,2007
+San Antonio Spurs,Houston Rockets,San Antonio Spurs,6,1,7,1163554200.0,2007
+San Antonio Spurs,San Antonio Spurs,Charlotte Bobcats,6,2,8,1163638800.0,2007
+San Antonio Spurs,San Antonio Spurs,Chicago Bulls,7,2,9,1163811600.0,2007
+San Antonio Spurs,Sacramento Kings,San Antonio Spurs,8,2,10,1163988000.0,2007
+San Antonio Spurs,Portland Trail Blazers,San Antonio Spurs,9,2,11,1164078000.0,2007
+San Antonio Spurs,San Antonio Spurs,Miami Heat,10,2,12,1164241800.0,2007
+San Antonio Spurs,San Antonio Spurs,Dallas Mavericks,10,3,13,1164416400.0,2007
+San Antonio Spurs,Seattle Supersonics,San Antonio Spurs,11,3,14,1164592800.0,2007
+San Antonio Spurs,Golden State Warriors,San Antonio Spurs,11,4,15,1164684600.0,2007
+San Antonio Spurs,Utah Jazz,San Antonio Spurs,11,5,16,1164852000.0,2007
+San Antonio Spurs,San Antonio Spurs,Sacramento Kings,12,5,17,1165107600.0,2007
+San Antonio Spurs,San Antonio Spurs,Golden State Warriors,13,5,18,1165280400.0,2007
+San Antonio Spurs,Charlotte Bobcats,San Antonio Spurs,14,5,19,1165449600.0,2007
+San Antonio Spurs,San Antonio Spurs,Los Angeles Clippers,15,5,20,1165626000.0,2007
+San Antonio Spurs,Los Angeles Lakers,San Antonio Spurs,15,6,21,1165804200.0,2007
+San Antonio Spurs,Los Angeles Clippers,San Antonio Spurs,16,6,22,1165894200.0,2007
+San Antonio Spurs,San Antonio Spurs,Minnesota Timberwolves,17,6,23,1166058000.0,2007
+San Antonio Spurs,New Orleans Hornets,San Antonio Spurs,18,6,24,1166149800.0,2007
+San Antonio Spurs,San Antonio Spurs,Philadelphia 76ers,19,6,25,1166317200.0,2007
+San Antonio Spurs,San Antonio Spurs,Memphis Grizzlies,20,6,26,1166662800.0,2007
+San Antonio Spurs,San Antonio Spurs,Houston Rockets,20,7,27,1166835600.0,2007
+San Antonio Spurs,New Orleans Hornets,San Antonio Spurs,21,7,28,1166922000.0,2007
+San Antonio Spurs,San Antonio Spurs,Milwaukee Bucks,21,8,29,1167181200.0,2007
+San Antonio Spurs,San Antonio Spurs,Utah Jazz,22,8,30,1167354000.0,2007
+San Antonio Spurs,San Antonio Spurs,Atlanta Hawks,23,8,31,1167597000.0,2007
+San Antonio Spurs,Cleveland Cavaliers,San Antonio Spurs,23,9,32,1167782400.0,2007
+San Antonio Spurs,Minnesota Timberwolves,San Antonio Spurs,23,10,33,1167872400.0,2007
+San Antonio Spurs,San Antonio Spurs,Dallas Mavericks,23,11,34,1168045200.0,2007
+San Antonio Spurs,Memphis Grizzlies,San Antonio Spurs,24,11,35,1168203600.0,2007
+San Antonio Spurs,San Antonio Spurs,Portland Trail Blazers,25,11,36,1168390800.0,2007
+San Antonio Spurs,Denver Nuggets,San Antonio Spurs,26,11,37,1168480800.0,2007
+San Antonio Spurs,San Antonio Spurs,Washington Wizards,27,11,38,1168736400.0,2007
+San Antonio Spurs,Chicago Bulls,San Antonio Spurs,27,12,39,1168887600.0,2007
+San Antonio Spurs,San Antonio Spurs,Los Angeles Lakers,27,13,40,1169085600.0,2007
+San Antonio Spurs,San Antonio Spurs,New Orleans Hornets,28,13,41,1169254800.0,2007
+San Antonio Spurs,Philadelphia 76ers,San Antonio Spurs,29,13,42,1169420400.0,2007
+San Antonio Spurs,Boston Celtics,San Antonio Spurs,30,13,43,1169512200.0,2007
+San Antonio Spurs,San Antonio Spurs,Houston Rockets,30,14,44,1169690400.0,2007
+San Antonio Spurs,San Antonio Spurs,Memphis Grizzlies,31,14,45,1169859600.0,2007
+San Antonio Spurs,Los Angeles Lakers,San Antonio Spurs,32,14,46,1170016200.0,2007
+San Antonio Spurs,Utah Jazz,San Antonio Spurs,32,15,47,1170295200.0,2007
+San Antonio Spurs,Phoenix Suns,San Antonio Spurs,32,16,48,1170387000.0,2007
+San Antonio Spurs,Washington Wizards,San Antonio Spurs,33,16,49,1170892800.0,2007
+San Antonio Spurs,Orlando Magic,San Antonio Spurs,33,17,50,1171065600.0,2007
+San Antonio Spurs,Miami Heat,San Antonio Spurs,33,18,51,1171216800.0,2007
+San Antonio Spurs,New Jersey Nets,San Antonio Spurs,34,18,52,1171413000.0,2007
+San Antonio Spurs,Detroit Pistons,San Antonio Spurs,35,18,53,1171499400.0,2007
+San Antonio Spurs,San Antonio Spurs,Denver Nuggets,36,18,54,1172019600.0,2007
+San Antonio Spurs,Atlanta Hawks,San Antonio Spurs,37,18,55,1172102400.0,2007
+San Antonio Spurs,San Antonio Spurs,Seattle Supersonics,38,18,56,1172365200.0,2007
+San Antonio Spurs,San Antonio Spurs,Toronto Raptors,39,18,57,1172538000.0,2007
+San Antonio Spurs,San Antonio Spurs,Orlando Magic,40,18,58,1172883600.0,2007
+San Antonio Spurs,Houston Rockets,San Antonio Spurs,41,18,59,1172971800.0,2007
+San Antonio Spurs,Los Angeles Clippers,San Antonio Spurs,42,18,60,1173151800.0,2007
+San Antonio Spurs,Portland Trail Blazers,San Antonio Spurs,43,18,61,1173236400.0,2007
+San Antonio Spurs,Sacramento Kings,San Antonio Spurs,44,18,62,1173411000.0,2007
+San Antonio Spurs,San Antonio Spurs,New Jersey Nets,45,18,63,1173574800.0,2007
+San Antonio Spurs,San Antonio Spurs,Los Angeles Clippers,46,18,64,1173830400.0,2007
+San Antonio Spurs,Milwaukee Bucks,San Antonio Spurs,46,19,65,1174003200.0,2007
+San Antonio Spurs,San Antonio Spurs,Boston Celtics,46,20,66,1174176000.0,2007
+San Antonio Spurs,San Antonio Spurs,Indiana Pacers,47,20,67,1174521600.0,2007
+San Antonio Spurs,San Antonio Spurs,Detroit Pistons,48,20,68,1174694400.0,2007
+San Antonio Spurs,Seattle Supersonics,San Antonio Spurs,49,20,69,1174870800.0,2007
+San Antonio Spurs,Golden State Warriors,San Antonio Spurs,50,20,70,1174962600.0,2007
+San Antonio Spurs,San Antonio Spurs,New Orleans Hornets,51,20,71,1175126400.0,2007
+San Antonio Spurs,San Antonio Spurs,Utah Jazz,52,20,72,1175299200.0,2007
+San Antonio Spurs,Indiana Pacers,San Antonio Spurs,52,21,73,1175468400.0,2007
+San Antonio Spurs,San Antonio Spurs,Seattle Supersonics,53,21,74,1175644800.0,2007
+San Antonio Spurs,San Antonio Spurs,Phoenix Suns,54,21,75,1175823000.0,2007
+San Antonio Spurs,San Antonio Spurs,Golden State Warriors,55,21,76,1175990400.0,2007
+San Antonio Spurs,San Antonio Spurs,Portland Trail Blazers,56,21,77,1176163200.0,2007
+San Antonio Spurs,San Antonio Spurs,Sacramento Kings,57,21,78,1176336000.0,2007
+San Antonio Spurs,Minnesota Timberwolves,San Antonio Spurs,58,21,79,1176508800.0,2007
+San Antonio Spurs,Dallas Mavericks,San Antonio Spurs,58,22,80,1176665400.0,2007
+San Antonio Spurs,Memphis Grizzlies,San Antonio Spurs,58,23,81,1176768000.0,2007
+San Antonio Spurs,San Antonio Spurs,Denver Nuggets,58,24,82,1176940800.0,2007
+Seattle Supersonics,Seattle Supersonics,Portland Trail Blazers,0,1,1,1162436400.0,2007
+Seattle Supersonics,Los Angeles Lakers,Seattle Supersonics,0,2,2,1162611000.0,2007
+Seattle Supersonics,Seattle Supersonics,Los Angeles Lakers,1,2,3,1162778400.0,2007
+Seattle Supersonics,Miami Heat,Seattle Supersonics,1,3,4,1162945800.0,2007
+Seattle Supersonics,Orlando Magic,Seattle Supersonics,1,4,5,1163030400.0,2007
+Seattle Supersonics,Charlotte Bobcats,Seattle Supersonics,2,4,6,1163203200.0,2007
+Seattle Supersonics,Atlanta Hawks,Seattle Supersonics,3,4,7,1163289600.0,2007
+Seattle Supersonics,New Jersey Nets,Seattle Supersonics,4,4,8,1163464200.0,2007
+Seattle Supersonics,Seattle Supersonics,Philadelphia 76ers,4,5,9,1163646000.0,2007
+Seattle Supersonics,Seattle Supersonics,Utah Jazz,4,6,10,1163820600.0,2007
+Seattle Supersonics,Golden State Warriors,Seattle Supersonics,4,7,11,1163907000.0,2007
+Seattle Supersonics,Seattle Supersonics,New Jersey Nets,5,7,12,1164078000.0,2007
+Seattle Supersonics,Los Angeles Clippers,Seattle Supersonics,6,7,13,1164252600.0,2007
+Seattle Supersonics,Seattle Supersonics,Sacramento Kings,6,8,14,1164425400.0,2007
+Seattle Supersonics,Seattle Supersonics,San Antonio Spurs,6,9,15,1164592800.0,2007
+Seattle Supersonics,Seattle Supersonics,Orlando Magic,6,10,16,1164855600.0,2007
+Seattle Supersonics,Seattle Supersonics,Indiana Pacers,7,10,17,1165030200.0,2007
+Seattle Supersonics,Utah Jazz,Seattle Supersonics,7,11,18,1165111200.0,2007
+Seattle Supersonics,Seattle Supersonics,Atlanta Hawks,8,11,19,1165374000.0,2007
+Seattle Supersonics,Seattle Supersonics,New Orleans Hornets,9,11,20,1165635000.0,2007
+Seattle Supersonics,Seattle Supersonics,Golden State Warriors,10,11,21,1165802400.0,2007
+Seattle Supersonics,Milwaukee Bucks,Seattle Supersonics,10,12,22,1165971600.0,2007
+Seattle Supersonics,Chicago Bulls,Seattle Supersonics,10,13,23,1166059800.0,2007
+Seattle Supersonics,Cleveland Cavaliers,Seattle Supersonics,10,14,24,1166229000.0,2007
+Seattle Supersonics,Detroit Pistons,Seattle Supersonics,10,15,25,1166396400.0,2007
+Seattle Supersonics,Memphis Grizzlies,Seattle Supersonics,10,16,26,1166490000.0,2007
+Seattle Supersonics,Seattle Supersonics,Dallas Mavericks,10,17,27,1166671800.0,2007
+Seattle Supersonics,Seattle Supersonics,Toronto Raptors,11,17,28,1166929200.0,2007
+Seattle Supersonics,Seattle Supersonics,New Orleans Hornets,12,17,29,1167188400.0,2007
+Seattle Supersonics,Denver Nuggets,Seattle Supersonics,12,18,30,1167363000.0,2007
+Seattle Supersonics,Minnesota Timberwolves,Seattle Supersonics,12,19,31,1167440400.0,2007
+Seattle Supersonics,Seattle Supersonics,Boston Celtics,13,19,32,1167620400.0,2007
+Seattle Supersonics,Dallas Mavericks,Seattle Supersonics,13,20,33,1167787800.0,2007
+Seattle Supersonics,Houston Rockets,Seattle Supersonics,13,21,34,1167874200.0,2007
+Seattle Supersonics,Seattle Supersonics,New York Knicks,13,22,35,1168054200.0,2007
+Seattle Supersonics,Golden State Warriors,Seattle Supersonics,13,23,36,1168140600.0,2007
+Seattle Supersonics,Phoenix Suns,Seattle Supersonics,13,24,37,1168394400.0,2007
+Seattle Supersonics,Seattle Supersonics,Miami Heat,13,25,38,1168484400.0,2007
+Seattle Supersonics,Seattle Supersonics,Utah Jazz,14,25,39,1168659000.0,2007
+Seattle Supersonics,Seattle Supersonics,Cleveland Cavaliers,15,25,40,1169002800.0,2007
+Seattle Supersonics,Seattle Supersonics,Milwaukee Bucks,16,25,41,1169263800.0,2007
+Seattle Supersonics,Seattle Supersonics,Denver Nuggets,16,26,42,1169607600.0,2007
+Seattle Supersonics,Seattle Supersonics,Minnesota Timberwolves,17,26,43,1169868600.0,2007
+Seattle Supersonics,Seattle Supersonics,Los Angeles Clippers,17,27,44,1170039600.0,2007
+Seattle Supersonics,Dallas Mavericks,Seattle Supersonics,17,28,45,1170207000.0,2007
+Seattle Supersonics,Houston Rockets,Seattle Supersonics,17,29,46,1170293400.0,2007
+Seattle Supersonics,Seattle Supersonics,Chicago Bulls,17,30,47,1170473400.0,2007
+Seattle Supersonics,Washington Wizards,Seattle Supersonics,17,31,48,1170720000.0,2007
+Seattle Supersonics,Indiana Pacers,Seattle Supersonics,18,31,49,1170892800.0,2007
+Seattle Supersonics,Seattle Supersonics,Sacramento Kings,18,32,50,1171162800.0,2007
+Seattle Supersonics,Sacramento Kings,Seattle Supersonics,19,32,51,1171245600.0,2007
+Seattle Supersonics,Seattle Supersonics,Phoenix Suns,20,32,52,1171508400.0,2007
+Seattle Supersonics,Seattle Supersonics,Memphis Grizzlies,21,32,53,1172026800.0,2007
+Seattle Supersonics,New Orleans Hornets,Seattle Supersonics,21,33,54,1172278800.0,2007
+Seattle Supersonics,San Antonio Spurs,Seattle Supersonics,21,34,55,1172365200.0,2007
+Seattle Supersonics,Seattle Supersonics,Portland Trail Blazers,22,34,56,1172545200.0,2007
+Seattle Supersonics,Los Angeles Clippers,Seattle Supersonics,22,35,57,1172719800.0,2007
+Seattle Supersonics,Seattle Supersonics,Los Angeles Clippers,23,35,58,1172806200.0,2007
+Seattle Supersonics,Seattle Supersonics,Charlotte Bobcats,24,35,59,1173060000.0,2007
+Seattle Supersonics,New York Knicks,Seattle Supersonics,25,35,60,1173227400.0,2007
+Seattle Supersonics,Philadelphia 76ers,Seattle Supersonics,25,36,61,1173312000.0,2007
+Seattle Supersonics,Boston Celtics,Seattle Supersonics,25,37,62,1173486600.0,2007
+Seattle Supersonics,Toronto Raptors,Seattle Supersonics,25,38,63,1173632400.0,2007
+Seattle Supersonics,Seattle Supersonics,Detroit Pistons,25,39,64,1173837600.0,2007
+Seattle Supersonics,Seattle Supersonics,Golden State Warriors,25,40,65,1174183200.0,2007
+Seattle Supersonics,Portland Trail Blazers,Seattle Supersonics,26,40,66,1174266000.0,2007
+Seattle Supersonics,Seattle Supersonics,Washington Wizards,26,41,67,1174528800.0,2007
+Seattle Supersonics,Seattle Supersonics,Minnesota Timberwolves,27,41,68,1174703400.0,2007
+Seattle Supersonics,Seattle Supersonics,San Antonio Spurs,27,42,69,1174870800.0,2007
+Seattle Supersonics,Minnesota Timberwolves,Seattle Supersonics,28,42,70,1175040000.0,2007
+Seattle Supersonics,Denver Nuggets,Seattle Supersonics,29,42,71,1175130000.0,2007
+Seattle Supersonics,Seattle Supersonics,Memphis Grizzlies,30,42,72,1175308200.0,2007
+Seattle Supersonics,Seattle Supersonics,Denver Nuggets,30,43,73,1175475600.0,2007
+Seattle Supersonics,San Antonio Spurs,Seattle Supersonics,30,44,74,1175644800.0,2007
+Seattle Supersonics,New Orleans Hornets,Seattle Supersonics,30,45,75,1175731200.0,2007
+Seattle Supersonics,Seattle Supersonics,Los Angeles Lakers,30,46,76,1175913000.0,2007
+Seattle Supersonics,Utah Jazz,Seattle Supersonics,31,46,77,1175994000.0,2007
+Seattle Supersonics,Seattle Supersonics,Houston Rockets,31,47,78,1176170400.0,2007
+Seattle Supersonics,Phoenix Suns,Seattle Supersonics,31,48,79,1176343200.0,2007
+Seattle Supersonics,Portland Trail Blazers,Seattle Supersonics,31,49,80,1176602400.0,2007
+Seattle Supersonics,Los Angeles Lakers,Seattle Supersonics,31,50,81,1176687000.0,2007
+Seattle Supersonics,Seattle Supersonics,Dallas Mavericks,31,51,82,1176948000.0,2007
+Toronto Raptors,New Jersey Nets,Toronto Raptors,0,1,1,1162427400.0,2007
+Toronto Raptors,Toronto Raptors,Milwaukee Bucks,1,1,2,1162598400.0,2007
+Toronto Raptors,Toronto Raptors,San Antonio Spurs,1,2,3,1162749600.0,2007
+Toronto Raptors,Toronto Raptors,Philadelphia 76ers,2,2,4,1163030400.0,2007
+Toronto Raptors,Toronto Raptors,Atlanta Hawks,2,3,5,1163203200.0,2007
+Toronto Raptors,Sacramento Kings,Toronto Raptors,2,4,6,1163383200.0,2007
+Toronto Raptors,Golden State Warriors,Toronto Raptors,2,5,7,1163561400.0,2007
+Toronto Raptors,Los Angeles Lakers,Toronto Raptors,2,6,8,1163820600.0,2007
+Toronto Raptors,Denver Nuggets,Toronto Raptors,2,7,9,1163901600.0,2007
+Toronto Raptors,Utah Jazz,Toronto Raptors,2,8,10,1164074400.0,2007
+Toronto Raptors,Toronto Raptors,Cleveland Cavaliers,3,8,11,1164240000.0,2007
+Toronto Raptors,Atlanta Hawks,Toronto Raptors,3,9,12,1164414600.0,2007
+Toronto Raptors,Toronto Raptors,Indiana Pacers,4,9,13,1164564000.0,2007
+Toronto Raptors,New Orleans Hornets,Toronto Raptors,5,9,14,1164762000.0,2007
+Toronto Raptors,Dallas Mavericks,Toronto Raptors,5,10,15,1164850200.0,2007
+Toronto Raptors,Toronto Raptors,Boston Celtics,6,10,16,1165017600.0,2007
+Toronto Raptors,New York Knicks,Toronto Raptors,7,10,17,1165107600.0,2007
+Toronto Raptors,Cleveland Cavaliers,Toronto Raptors,7,11,18,1165449600.0,2007
+Toronto Raptors,Chicago Bulls,Toronto Raptors,7,12,19,1165627800.0,2007
+Toronto Raptors,Toronto Raptors,Portland Trail Blazers,7,13,20,1165773600.0,2007
+Toronto Raptors,Miami Heat,Toronto Raptors,7,14,21,1165883400.0,2007
+Toronto Raptors,Orlando Magic,Toronto Raptors,8,14,22,1166054400.0,2007
+Toronto Raptors,Toronto Raptors,New Jersey Nets,9,14,23,1166227200.0,2007
+Toronto Raptors,Toronto Raptors,Golden State Warriors,10,14,24,1166378400.0,2007
+Toronto Raptors,Phoenix Suns,Toronto Raptors,10,15,25,1166580000.0,2007
+Toronto Raptors,Los Angeles Clippers,Toronto Raptors,11,15,26,1166671800.0,2007
+Toronto Raptors,Portland Trail Blazers,Toronto Raptors,12,15,27,1166842800.0,2007
+Toronto Raptors,Seattle Supersonics,Toronto Raptors,12,16,28,1166929200.0,2007
+Toronto Raptors,Toronto Raptors,Minnesota Timberwolves,13,16,29,1167264000.0,2007
+Toronto Raptors,Toronto Raptors,Chicago Bulls,13,17,30,1167436800.0,2007
+Toronto Raptors,Memphis Grizzlies,Toronto Raptors,13,18,31,1167526800.0,2007
+Toronto Raptors,Toronto Raptors,Phoenix Suns,13,19,32,1167868800.0,2007
+Toronto Raptors,Toronto Raptors,Atlanta Hawks,14,19,33,1168041600.0,2007
+Toronto Raptors,Toronto Raptors,Washington Wizards,15,19,34,1168192800.0,2007
+Toronto Raptors,New Jersey Nets,Toronto Raptors,15,20,35,1168389000.0,2007
+Toronto Raptors,Milwaukee Bucks,Toronto Raptors,16,20,36,1168477200.0,2007
+Toronto Raptors,Boston Celtics,Toronto Raptors,17,20,37,1168648200.0,2007
+Toronto Raptors,Toronto Raptors,Dallas Mavericks,17,21,38,1168797600.0,2007
+Toronto Raptors,Philadelphia 76ers,Toronto Raptors,18,21,39,1168887600.0,2007
+Toronto Raptors,Toronto Raptors,Sacramento Kings,19,21,40,1169078400.0,2007
+Toronto Raptors,Toronto Raptors,Utah Jazz,19,22,41,1169251200.0,2007
+Toronto Raptors,Toronto Raptors,Charlotte Bobcats,20,22,42,1169510400.0,2007
+Toronto Raptors,Toronto Raptors,New Orleans Hornets,21,22,43,1169683200.0,2007
+Toronto Raptors,Toronto Raptors,Boston Celtics,22,22,44,1169856000.0,2007
+Toronto Raptors,Indiana Pacers,Toronto Raptors,22,23,45,1169942400.0,2007
+Toronto Raptors,Toronto Raptors,Washington Wizards,23,23,46,1170288000.0,2007
+Toronto Raptors,Atlanta Hawks,Toronto Raptors,24,23,47,1170462600.0,2007
+Toronto Raptors,Toronto Raptors,Los Angeles Clippers,25,23,48,1170608400.0,2007
+Toronto Raptors,Toronto Raptors,Orlando Magic,26,23,49,1170892800.0,2007
+Toronto Raptors,Toronto Raptors,Los Angeles Lakers,27,23,50,1171065600.0,2007
+Toronto Raptors,Detroit Pistons,Toronto Raptors,27,24,51,1171153800.0,2007
+Toronto Raptors,Chicago Bulls,Toronto Raptors,28,24,52,1171416600.0,2007
+Toronto Raptors,Toronto Raptors,New Jersey Nets,29,24,53,1171497600.0,2007
+Toronto Raptors,Toronto Raptors,Cleveland Cavaliers,29,25,54,1172102400.0,2007
+Toronto Raptors,Toronto Raptors,Indiana Pacers,30,25,55,1172275200.0,2007
+Toronto Raptors,Charlotte Bobcats,Toronto Raptors,31,25,56,1172361600.0,2007
+Toronto Raptors,San Antonio Spurs,Toronto Raptors,31,26,57,1172538000.0,2007
+Toronto Raptors,Houston Rockets,Toronto Raptors,32,26,58,1172712600.0,2007
+Toronto Raptors,Toronto Raptors,Milwaukee Bucks,32,27,59,1172880000.0,2007
+Toronto Raptors,Cleveland Cavaliers,Toronto Raptors,32,28,60,1172968200.0,2007
+Toronto Raptors,Washington Wizards,Toronto Raptors,32,29,61,1173225600.0,2007
+Toronto Raptors,Toronto Raptors,Memphis Grizzlies,33,29,62,1173312000.0,2007
+Toronto Raptors,Toronto Raptors,Seattle Supersonics,34,29,63,1173632400.0,2007
+Toronto Raptors,Milwaukee Bucks,Toronto Raptors,35,29,64,1173744000.0,2007
+Toronto Raptors,Toronto Raptors,New York Knicks,36,29,65,1173913200.0,2007
+Toronto Raptors,Toronto Raptors,Houston Rockets,36,30,66,1174086000.0,2007
+Toronto Raptors,New York Knicks,Toronto Raptors,36,31,67,1174233600.0,2007
+Toronto Raptors,Toronto Raptors,Orlando Magic,37,31,68,1174518000.0,2007
+Toronto Raptors,Toronto Raptors,Denver Nuggets,38,31,69,1174690800.0,2007
+Toronto Raptors,Boston Celtics,Toronto Raptors,38,32,70,1174951800.0,2007
+Toronto Raptors,Toronto Raptors,Miami Heat,39,32,71,1175122800.0,2007
+Toronto Raptors,Washington Wizards,Toronto Raptors,40,32,72,1175295600.0,2007
+Toronto Raptors,Toronto Raptors,Charlotte Bobcats,41,32,73,1175464800.0,2007
+Toronto Raptors,Miami Heat,Toronto Raptors,41,33,74,1175643000.0,2007
+Toronto Raptors,Orlando Magic,Toronto Raptors,42,33,75,1175727600.0,2007
+Toronto Raptors,Philadelphia 76ers,Toronto Raptors,43,33,76,1175900400.0,2007
+Toronto Raptors,Toronto Raptors,Chicago Bulls,44,33,77,1176069600.0,2007
+Toronto Raptors,Minnesota Timberwolves,Toronto Raptors,45,33,78,1176163200.0,2007
+Toronto Raptors,Toronto Raptors,Detroit Pistons,46,33,79,1176505200.0,2007
+Toronto Raptors,Toronto Raptors,New York Knicks,47,33,80,1176674400.0,2007
+Toronto Raptors,Detroit Pistons,Toronto Raptors,47,34,81,1176852600.0,2007
+Toronto Raptors,Toronto Raptors,Philadelphia 76ers,47,35,82,1176937200.0,2007
+Utah Jazz,Utah Jazz,Houston Rockets,1,0,1,1162432800.0,2007
+Utah Jazz,Phoenix Suns,Utah Jazz,2,0,2,1162605600.0,2007
+Utah Jazz,Utah Jazz,Golden State Warriors,3,0,3,1162692000.0,2007
+Utah Jazz,Utah Jazz,Detroit Pistons,4,0,4,1162864800.0,2007
+Utah Jazz,New Jersey Nets,Utah Jazz,4,1,5,1163032200.0,2007
+Utah Jazz,Boston Celtics,Utah Jazz,5,1,6,1163205000.0,2007
+Utah Jazz,Milwaukee Bucks,Utah Jazz,6,1,7,1163295000.0,2007
+Utah Jazz,Utah Jazz,Los Angeles Clippers,7,1,8,1163556000.0,2007
+Utah Jazz,Seattle Supersonics,Utah Jazz,8,1,9,1163820600.0,2007
+Utah Jazz,Utah Jazz,Phoenix Suns,9,1,10,1163901600.0,2007
+Utah Jazz,Utah Jazz,Toronto Raptors,10,1,11,1164074400.0,2007
+Utah Jazz,Sacramento Kings,Utah Jazz,11,1,12,1164250800.0,2007
+Utah Jazz,Utah Jazz,Los Angeles Lakers,12,1,13,1164420000.0,2007
+Utah Jazz,Golden State Warriors,Utah Jazz,12,2,14,1164511800.0,2007
+Utah Jazz,Utah Jazz,Orlando Magic,12,3,15,1164679200.0,2007
+Utah Jazz,Utah Jazz,San Antonio Spurs,13,3,16,1164852000.0,2007
+Utah Jazz,Los Angeles Lakers,Utah Jazz,13,4,17,1164943800.0,2007
+Utah Jazz,Utah Jazz,Seattle Supersonics,14,4,18,1165111200.0,2007
+Utah Jazz,Utah Jazz,Milwaukee Bucks,15,4,19,1165284000.0,2007
+Utah Jazz,Minnesota Timberwolves,Utah Jazz,15,5,20,1165626000.0,2007
+Utah Jazz,Utah Jazz,Dallas Mavericks,16,5,21,1165888800.0,2007
+Utah Jazz,Los Angeles Clippers,Utah Jazz,17,5,22,1166067000.0,2007
+Utah Jazz,Utah Jazz,Sacramento Kings,17,6,23,1166234400.0,2007
+Utah Jazz,Indiana Pacers,Utah Jazz,18,6,24,1166383800.0,2007
+Utah Jazz,New York Knicks,Utah Jazz,18,7,25,1166488200.0,2007
+Utah Jazz,Atlanta Hawks,Utah Jazz,19,7,26,1166659200.0,2007
+Utah Jazz,Charlotte Bobcats,Utah Jazz,19,8,27,1166832000.0,2007
+Utah Jazz,Memphis Grizzlies,Utah Jazz,20,8,28,1166922000.0,2007
+Utah Jazz,Utah Jazz,Los Angeles Clippers,21,8,29,1167184800.0,2007
+Utah Jazz,San Antonio Spurs,Utah Jazz,21,9,30,1167354000.0,2007
+Utah Jazz,Utah Jazz,Portland Trail Blazers,22,9,31,1167530400.0,2007
+Utah Jazz,Utah Jazz,Philadelphia 76ers,23,9,32,1167876000.0,2007
+Utah Jazz,Houston Rockets,Utah Jazz,23,10,33,1168047000.0,2007
+Utah Jazz,Denver Nuggets,Utah Jazz,24,10,34,1168135200.0,2007
+Utah Jazz,Utah Jazz,Dallas Mavericks,24,11,35,1168394400.0,2007
+Utah Jazz,Seattle Supersonics,Utah Jazz,24,12,36,1168659000.0,2007
+Utah Jazz,Utah Jazz,Miami Heat,24,13,37,1168740000.0,2007
+Utah Jazz,Washington Wizards,Utah Jazz,24,14,38,1168884000.0,2007
+Utah Jazz,Detroit Pistons,Utah Jazz,25,14,39,1169080200.0,2007
+Utah Jazz,Toronto Raptors,Utah Jazz,26,14,40,1169251200.0,2007
+Utah Jazz,Chicago Bulls,Utah Jazz,27,14,41,1169343000.0,2007
+Utah Jazz,Utah Jazz,Minnesota Timberwolves,28,14,42,1169517600.0,2007
+Utah Jazz,Utah Jazz,Memphis Grizzlies,28,15,43,1169690400.0,2007
+Utah Jazz,Utah Jazz,Denver Nuggets,29,15,44,1169863200.0,2007
+Utah Jazz,New Orleans Hornets,Utah Jazz,29,16,45,1169946000.0,2007
+Utah Jazz,Utah Jazz,New Jersey Nets,29,17,46,1170122400.0,2007
+Utah Jazz,Utah Jazz,San Antonio Spurs,30,17,47,1170295200.0,2007
+Utah Jazz,Phoenix Suns,Utah Jazz,31,17,48,1170554400.0,2007
+Utah Jazz,Utah Jazz,Chicago Bulls,32,17,49,1170727200.0,2007
+Utah Jazz,Utah Jazz,New York Knicks,33,17,50,1171159200.0,2007
+Utah Jazz,Utah Jazz,Atlanta Hawks,34,17,51,1171332000.0,2007
+Utah Jazz,Utah Jazz,Cleveland Cavaliers,35,17,52,1171504800.0,2007
+Utah Jazz,Portland Trail Blazers,Utah Jazz,35,18,53,1172026800.0,2007
+Utah Jazz,Denver Nuggets,Utah Jazz,36,18,54,1172287800.0,2007
+Utah Jazz,Utah Jazz,Boston Celtics,37,18,55,1172368800.0,2007
+Utah Jazz,Utah Jazz,Los Angeles Lakers,37,19,56,1172541600.0,2007
+Utah Jazz,Memphis Grizzlies,Utah Jazz,38,19,57,1172710800.0,2007
+Utah Jazz,Minnesota Timberwolves,Utah Jazz,39,19,58,1172883600.0,2007
+Utah Jazz,New Orleans Hornets,Utah Jazz,40,19,59,1173056400.0,2007
+Utah Jazz,Utah Jazz,Charlotte Bobcats,41,19,60,1173146400.0,2007
+Utah Jazz,Utah Jazz,Indiana Pacers,42,19,61,1173319200.0,2007
+Utah Jazz,Utah Jazz,New Orleans Hornets,43,19,62,1173578400.0,2007
+Utah Jazz,Miami Heat,Utah Jazz,43,20,63,1173828600.0,2007
+Utah Jazz,Orlando Magic,Utah Jazz,43,21,64,1173913200.0,2007
+Utah Jazz,Philadelphia 76ers,Utah Jazz,43,22,65,1174086000.0,2007
+Utah Jazz,Cleveland Cavaliers,Utah Jazz,43,23,66,1174174200.0,2007
+Utah Jazz,Utah Jazz,Golden State Warriors,44,23,67,1174438800.0,2007
+Utah Jazz,Los Angeles Clippers,Utah Jazz,44,24,68,1174703400.0,2007
+Utah Jazz,Utah Jazz,Memphis Grizzlies,45,24,69,1174784400.0,2007
+Utah Jazz,Utah Jazz,Washington Wizards,46,24,70,1174957200.0,2007
+Utah Jazz,Utah Jazz,Minnesota Timberwolves,47,24,71,1175130000.0,2007
+Utah Jazz,San Antonio Spurs,Utah Jazz,47,25,72,1175299200.0,2007
+Utah Jazz,Houston Rockets,Utah Jazz,48,25,73,1175464800.0,2007
+Utah Jazz,Portland Trail Blazers,Utah Jazz,48,26,74,1175738400.0,2007
+Utah Jazz,Sacramento Kings,Utah Jazz,48,27,75,1175911200.0,2007
+Utah Jazz,Utah Jazz,Seattle Supersonics,48,28,76,1175994000.0,2007
+Utah Jazz,Golden State Warriors,Utah Jazz,48,29,77,1176172200.0,2007
+Utah Jazz,Utah Jazz,Denver Nuggets,48,30,78,1176339600.0,2007
+Utah Jazz,Dallas Mavericks,Utah Jazz,49,30,79,1176510600.0,2007
+Utah Jazz,Utah Jazz,Phoenix Suns,49,31,80,1176598800.0,2007
+Utah Jazz,Utah Jazz,Portland Trail Blazers,50,31,81,1176771600.0,2007
+Utah Jazz,Utah Jazz,Houston Rockets,51,31,82,1176944400.0,2007
+Washington Wizards,Cleveland Cavaliers,Washington Wizards,0,1,1,1162429200.0,2007
+Washington Wizards,Washington Wizards,Boston Celtics,1,1,2,1162684800.0,2007
+Washington Wizards,Orlando Magic,Washington Wizards,1,2,3,1162857600.0,2007
+Washington Wizards,Washington Wizards,Indiana Pacers,2,2,4,1163030400.0,2007
+Washington Wizards,Washington Wizards,Milwaukee Bucks,3,2,5,1163203200.0,2007
+Washington Wizards,Washington Wizards,New Jersey Nets,3,3,6,1163372400.0,2007
+Washington Wizards,New York Knicks,Washington Wizards,3,4,7,1163637000.0,2007
+Washington Wizards,Detroit Pistons,Washington Wizards,3,5,8,1163811600.0,2007
+Washington Wizards,Washington Wizards,Cleveland Cavaliers,4,5,9,1163894400.0,2007
+Washington Wizards,Dallas Mavericks,Washington Wizards,4,6,10,1164159000.0,2007
+Washington Wizards,Houston Rockets,Washington Wizards,4,7,11,1164245400.0,2007
+Washington Wizards,Memphis Grizzlies,Washington Wizards,4,8,12,1164416400.0,2007
+Washington Wizards,Washington Wizards,Detroit Pistons,4,9,13,1164499200.0,2007
+Washington Wizards,Washington Wizards,Atlanta Hawks,5,9,14,1164758400.0,2007
+Washington Wizards,Washington Wizards,Charlotte Bobcats,6,9,15,1165017600.0,2007
+Washington Wizards,Chicago Bulls,Washington Wizards,6,10,16,1165109400.0,2007
+Washington Wizards,Washington Wizards,Dallas Mavericks,7,10,17,1165276800.0,2007
+Washington Wizards,New York Knicks,Washington Wizards,8,10,18,1165451400.0,2007
+Washington Wizards,Philadelphia 76ers,Washington Wizards,9,10,19,1165626000.0,2007
+Washington Wizards,Washington Wizards,Houston Rockets,9,11,20,1165708800.0,2007
+Washington Wizards,Washington Wizards,Denver Nuggets,10,11,21,1166054400.0,2007
+Washington Wizards,Washington Wizards,Miami Heat,11,11,22,1166227200.0,2007
+Washington Wizards,Los Angeles Lakers,Washington Wizards,12,11,23,1166409000.0,2007
+Washington Wizards,Denver Nuggets,Washington Wizards,12,12,24,1166493600.0,2007
+Washington Wizards,Sacramento Kings,Washington Wizards,13,12,25,1166758200.0,2007
+Washington Wizards,Phoenix Suns,Washington Wizards,14,12,26,1166844600.0,2007
+Washington Wizards,Washington Wizards,Memphis Grizzlies,15,12,27,1167177600.0,2007
+Washington Wizards,Charlotte Bobcats,Washington Wizards,16,12,28,1167264000.0,2007
+Washington Wizards,Washington Wizards,Orlando Magic,17,12,29,1167436800.0,2007
+Washington Wizards,Milwaukee Bucks,Washington Wizards,17,13,30,1167528600.0,2007
+Washington Wizards,Washington Wizards,Milwaukee Bucks,18,13,31,1167868800.0,2007
+Washington Wizards,Washington Wizards,Los Angeles Clippers,19,13,32,1168041600.0,2007
+Washington Wizards,Toronto Raptors,Washington Wizards,19,14,33,1168192800.0,2007
+Washington Wizards,Washington Wizards,Chicago Bulls,20,14,34,1168473600.0,2007
+Washington Wizards,New Orleans Hornets,Washington Wizards,20,15,35,1168650000.0,2007
+Washington Wizards,San Antonio Spurs,Washington Wizards,20,16,36,1168736400.0,2007
+Washington Wizards,Washington Wizards,Utah Jazz,21,16,37,1168884000.0,2007
+Washington Wizards,Washington Wizards,New York Knicks,22,16,38,1169078400.0,2007
+Washington Wizards,Orlando Magic,Washington Wizards,23,16,39,1169251200.0,2007
+Washington Wizards,Washington Wizards,Boston Celtics,24,16,40,1169341200.0,2007
+Washington Wizards,Washington Wizards,Phoenix Suns,24,17,41,1169596800.0,2007
+Washington Wizards,Detroit Pistons,Washington Wizards,25,17,42,1169856000.0,2007
+Washington Wizards,Boston Celtics,Washington Wizards,26,17,43,1170025200.0,2007
+Washington Wizards,Washington Wizards,Detroit Pistons,27,17,44,1170201600.0,2007
+Washington Wizards,Toronto Raptors,Washington Wizards,27,18,45,1170288000.0,2007
+Washington Wizards,Washington Wizards,Los Angeles Lakers,27,19,46,1170547200.0,2007
+Washington Wizards,Washington Wizards,Seattle Supersonics,28,19,47,1170720000.0,2007
+Washington Wizards,Washington Wizards,San Antonio Spurs,28,20,48,1170892800.0,2007
+Washington Wizards,Washington Wizards,Portland Trail Blazers,28,21,49,1171216800.0,2007
+Washington Wizards,Philadelphia 76ers,Washington Wizards,29,21,50,1171497600.0,2007
+Washington Wizards,Washington Wizards,Minnesota Timberwolves,30,21,51,1172016000.0,2007
+Washington Wizards,Washington Wizards,Sacramento Kings,31,21,52,1172188800.0,2007
+Washington Wizards,Chicago Bulls,Washington Wizards,31,22,53,1172278800.0,2007
+Washington Wizards,Minnesota Timberwolves,Washington Wizards,31,23,54,1172435400.0,2007
+Washington Wizards,New Jersey Nets,Washington Wizards,31,24,55,1172622600.0,2007
+Washington Wizards,Washington Wizards,Miami Heat,31,25,56,1172707200.0,2007
+Washington Wizards,Washington Wizards,Atlanta Hawks,32,25,57,1172880000.0,2007
+Washington Wizards,Washington Wizards,Golden State Warriors,33,25,58,1173031200.0,2007
+Washington Wizards,Washington Wizards,Toronto Raptors,34,25,59,1173225600.0,2007
+Washington Wizards,Atlanta Hawks,Washington Wizards,34,26,60,1173312000.0,2007
+Washington Wizards,Washington Wizards,New York Knicks,34,27,61,1173571200.0,2007
+Washington Wizards,Miami Heat,Washington Wizards,34,28,62,1173650400.0,2007
+Washington Wizards,Indiana Pacers,Washington Wizards,35,28,63,1173913200.0,2007
+Washington Wizards,Washington Wizards,New Orleans Hornets,36,28,64,1174172400.0,2007
+Washington Wizards,Portland Trail Blazers,Washington Wizards,36,29,65,1174442400.0,2007
+Washington Wizards,Seattle Supersonics,Washington Wizards,37,29,66,1174528800.0,2007
+Washington Wizards,Golden State Warriors,Washington Wizards,37,30,67,1174703400.0,2007
+Washington Wizards,Los Angeles Clippers,Washington Wizards,37,31,68,1174789800.0,2007
+Washington Wizards,Utah Jazz,Washington Wizards,37,32,69,1174957200.0,2007
+Washington Wizards,Washington Wizards,Philadelphia 76ers,38,32,70,1175122800.0,2007
+Washington Wizards,Washington Wizards,Toronto Raptors,38,33,71,1175295600.0,2007
+Washington Wizards,Milwaukee Bucks,Washington Wizards,39,33,72,1175455800.0,2007
+Washington Wizards,Charlotte Bobcats,Washington Wizards,39,34,73,1175641200.0,2007
+Washington Wizards,Washington Wizards,Charlotte Bobcats,39,35,74,1175727600.0,2007
+Washington Wizards,Washington Wizards,Cleveland Cavaliers,39,36,75,1175904000.0,2007
+Washington Wizards,New Jersey Nets,Washington Wizards,39,37,76,1175988600.0,2007
+Washington Wizards,Washington Wizards,New Jersey Nets,39,38,77,1176246000.0,2007
+Washington Wizards,Miami Heat,Washington Wizards,39,39,78,1176334200.0,2007
+Washington Wizards,Atlanta Hawks,Washington Wizards,40,39,79,1176507000.0,2007
+Washington Wizards,Washington Wizards,Chicago Bulls,40,40,80,1176656400.0,2007
+Washington Wizards,Washington Wizards,Orlando Magic,40,41,81,1176850800.0,2007
+Washington Wizards,Indiana Pacers,Washington Wizards,41,41,82,1176940800.0,2007

@@ -1,0 +1,409 @@
+id,home_team,away_team,win,loss,game_number,date,year
+Atlanta Dream,Connecticut Sun,Atlanta Dream,1,0,1,1494648000.0,2017
+Atlanta Dream,Chicago Sky,Atlanta Dream,2,0,2,1495166400.0,2017
+Atlanta Dream,Atlanta Dream,Chicago Sky,2,1,3,1495339200.0,2017
+Atlanta Dream,Atlanta Dream,Los Angeles Sparks,3,1,4,1495857600.0,2017
+Atlanta Dream,Atlanta Dream,San Antonio Silver Stars,4,1,5,1496203200.0,2017
+Atlanta Dream,Washington Mystics,Atlanta Dream,4,2,6,1496548800.0,2017
+Atlanta Dream,New York Liberty,Atlanta Dream,4,3,7,1496808000.0,2017
+Atlanta Dream,Connecticut Sun,Atlanta Dream,4,4,8,1497067200.0,2017
+Atlanta Dream,Seattle Storm,Atlanta Dream,5,4,9,1497326400.0,2017
+Atlanta Dream,Indiana Fever,Atlanta Dream,5,5,10,1497499200.0,2017
+Atlanta Dream,Atlanta Dream,Chicago Sky,5,6,11,1498190400.0,2017
+Atlanta Dream,Atlanta Dream,Los Angeles Sparks,5,7,12,1498795200.0,2017
+Atlanta Dream,Atlanta Dream,New York Liberty,6,7,13,1498968000.0,2017
+Atlanta Dream,Dallas Wings,Atlanta Dream,6,8,14,1499227200.0,2017
+Atlanta Dream,Atlanta Dream,Indiana Fever,7,8,15,1499400000.0,2017
+Atlanta Dream,Atlanta Dream,Dallas Wings,8,8,16,1499572800.0,2017
+Atlanta Dream,Phoenix Mercury,Atlanta Dream,8,9,17,1499832000.0,2017
+Atlanta Dream,Seattle Storm,Atlanta Dream,8,10,18,1500091200.0,2017
+Atlanta Dream,Atlanta Dream,San Antonio Silver Stars,9,10,19,1500350400.0,2017
+Atlanta Dream,Washington Mystics,Atlanta Dream,9,11,20,1500436800.0,2017
+Atlanta Dream,Atlanta Dream,Phoenix Mercury,10,11,21,1500955200.0,2017
+Atlanta Dream,Atlanta Dream,Minnesota Lynx,10,12,22,1501214400.0,2017
+Atlanta Dream,Atlanta Dream,Washington Mystics,10,13,23,1501387200.0,2017
+Atlanta Dream,Minnesota Lynx,Atlanta Dream,10,14,24,1501732800.0,2017
+Atlanta Dream,Chicago Sky,Atlanta Dream,10,15,25,1501905600.0,2017
+Atlanta Dream,Atlanta Dream,Minnesota Lynx,10,16,26,1502164800.0,2017
+Atlanta Dream,Atlanta Dream,New York Liberty,10,17,27,1502424000.0,2017
+Atlanta Dream,San Antonio Silver Stars,Atlanta Dream,10,18,28,1502510400.0,2017
+Atlanta Dream,Atlanta Dream,Connecticut Sun,10,19,29,1502769600.0,2017
+Atlanta Dream,Dallas Wings,Atlanta Dream,10,20,30,1503115200.0,2017
+Atlanta Dream,Atlanta Dream,Seattle Storm,11,20,31,1503460800.0,2017
+Atlanta Dream,Atlanta Dream,Indiana Fever,12,20,32,1503720000.0,2017
+Atlanta Dream,Los Angeles Sparks,Atlanta Dream,12,21,33,1504238400.0,2017
+Atlanta Dream,Phoenix Mercury,Atlanta Dream,12,22,34,1504411200.0,2017
+Chicago Sky,Minnesota Lynx,Chicago Sky,0,1,1,1494734400.0,2017
+Chicago Sky,Chicago Sky,Atlanta Dream,0,2,2,1495166400.0,2017
+Chicago Sky,Atlanta Dream,Chicago Sky,1,2,3,1495339200.0,2017
+Chicago Sky,Chicago Sky,Washington Mystics,1,3,4,1495598400.0,2017
+Chicago Sky,Washington Mystics,Chicago Sky,1,4,5,1495771200.0,2017
+Chicago Sky,Chicago Sky,Connecticut Sun,1,5,6,1495944000.0,2017
+Chicago Sky,Chicago Sky,Phoenix Mercury,1,6,7,1496289600.0,2017
+Chicago Sky,Los Angeles Sparks,Chicago Sky,1,7,8,1496721600.0,2017
+Chicago Sky,San Antonio Silver Stars,Chicago Sky,2,7,9,1497067200.0,2017
+Chicago Sky,Phoenix Mercury,Chicago Sky,2,8,10,1497585600.0,2017
+Chicago Sky,Chicago Sky,Indiana Fever,2,9,11,1497758400.0,2017
+Chicago Sky,Atlanta Dream,Chicago Sky,3,9,12,1498190400.0,2017
+Chicago Sky,Chicago Sky,Washington Mystics,3,10,13,1498363200.0,2017
+Chicago Sky,Chicago Sky,Indiana Fever,3,11,14,1498622400.0,2017
+Chicago Sky,San Antonio Silver Stars,Chicago Sky,3,12,15,1498795200.0,2017
+Chicago Sky,Chicago Sky,Minnesota Lynx,4,12,16,1499486400.0,2017
+Chicago Sky,Chicago Sky,Dallas Wings,5,12,17,1499832000.0,2017
+Chicago Sky,New York Liberty,Chicago Sky,6,12,18,1500004800.0,2017
+Chicago Sky,Dallas Wings,Chicago Sky,6,13,19,1500177600.0,2017
+Chicago Sky,Seattle Storm,Chicago Sky,7,13,20,1500350400.0,2017
+Chicago Sky,Los Angeles Sparks,Chicago Sky,8,13,21,1500523200.0,2017
+Chicago Sky,Connecticut Sun,Chicago Sky,8,14,22,1500955200.0,2017
+Chicago Sky,Chicago Sky,Phoenix Mercury,8,15,23,1501214400.0,2017
+Chicago Sky,Chicago Sky,New York Liberty,8,16,24,1501387200.0,2017
+Chicago Sky,Indiana Fever,Chicago Sky,9,16,25,1501819200.0,2017
+Chicago Sky,Chicago Sky,Atlanta Dream,10,16,26,1501905600.0,2017
+Chicago Sky,Chicago Sky,San Antonio Silver Stars,11,16,27,1502337600.0,2017
+Chicago Sky,Chicago Sky,Los Angeles Sparks,11,17,28,1503028800.0,2017
+Chicago Sky,Chicago Sky,Seattle Storm,11,18,29,1503201600.0,2017
+Chicago Sky,Connecticut Sun,Chicago Sky,12,18,30,1503633600.0,2017
+Chicago Sky,New York Liberty,Chicago Sky,12,19,31,1503806400.0,2017
+Chicago Sky,Chicago Sky,Dallas Wings,12,20,32,1504065600.0,2017
+Chicago Sky,Minnesota Lynx,Chicago Sky,12,21,33,1504238400.0,2017
+Chicago Sky,Chicago Sky,Seattle Storm,12,22,34,1504411200.0,2017
+Connecticut Sun,Connecticut Sun,Atlanta Dream,0,1,1,1494648000.0,2017
+Connecticut Sun,Indiana Fever,Connecticut Sun,0,2,2,1495252800.0,2017
+Connecticut Sun,Minnesota Lynx,Connecticut Sun,0,3,3,1495512000.0,2017
+Connecticut Sun,Connecticut Sun,Minnesota Lynx,0,4,4,1495771200.0,2017
+Connecticut Sun,Chicago Sky,Connecticut Sun,1,4,5,1495944000.0,2017
+Connecticut Sun,Washington Mystics,Connecticut Sun,1,5,6,1496203200.0,2017
+Connecticut Sun,San Antonio Silver Stars,Connecticut Sun,2,5,7,1496462400.0,2017
+Connecticut Sun,Connecticut Sun,Atlanta Dream,3,5,8,1497067200.0,2017
+Connecticut Sun,Connecticut Sun,New York Liberty,4,5,9,1497412800.0,2017
+Connecticut Sun,Minnesota Lynx,Connecticut Sun,5,5,10,1497672000.0,2017
+Connecticut Sun,New York Liberty,Connecticut Sun,6,5,11,1498190400.0,2017
+Connecticut Sun,Dallas Wings,Connecticut Sun,6,6,12,1498363200.0,2017
+Connecticut Sun,Connecticut Sun,Los Angeles Sparks,6,7,13,1498536000.0,2017
+Connecticut Sun,Connecticut Sun,Seattle Storm,7,7,14,1498708800.0,2017
+Connecticut Sun,Indiana Fever,Connecticut Sun,8,7,15,1498881600.0,2017
+Connecticut Sun,San Antonio Silver Stars,Connecticut Sun,9,7,16,1499227200.0,2017
+Connecticut Sun,Connecticut Sun,Washington Mystics,10,7,17,1499486400.0,2017
+Connecticut Sun,Seattle Storm,Connecticut Sun,11,7,18,1499832000.0,2017
+Connecticut Sun,Los Angeles Sparks,Connecticut Sun,11,8,19,1499918400.0,2017
+Connecticut Sun,Connecticut Sun,San Antonio Silver Stars,12,8,20,1500177600.0,2017
+Connecticut Sun,New York Liberty,Connecticut Sun,12,9,21,1500436800.0,2017
+Connecticut Sun,Connecticut Sun,Chicago Sky,13,9,22,1500955200.0,2017
+Connecticut Sun,Connecticut Sun,Indiana Fever,14,9,23,1501387200.0,2017
+Connecticut Sun,Connecticut Sun,Phoenix Mercury,15,9,24,1501819200.0,2017
+Connecticut Sun,Connecticut Sun,Seattle Storm,16,9,25,1502164800.0,2017
+Connecticut Sun,Connecticut Sun,Dallas Wings,17,9,26,1502510400.0,2017
+Connecticut Sun,Atlanta Dream,Connecticut Sun,18,9,27,1502769600.0,2017
+Connecticut Sun,Connecticut Sun,New York Liberty,18,10,28,1503028800.0,2017
+Connecticut Sun,Connecticut Sun,Phoenix Mercury,19,10,29,1503201600.0,2017
+Connecticut Sun,Connecticut Sun,Dallas Wings,20,10,30,1503460800.0,2017
+Connecticut Sun,Connecticut Sun,Chicago Sky,20,11,31,1503633600.0,2017
+Connecticut Sun,Washington Mystics,Connecticut Sun,21,11,32,1503979200.0,2017
+Connecticut Sun,Phoenix Mercury,Connecticut Sun,21,12,33,1504238400.0,2017
+Connecticut Sun,Los Angeles Sparks,Connecticut Sun,21,13,34,1504411200.0,2017
+Dallas Wings,Phoenix Mercury,Dallas Wings,1,0,1,1494734400.0,2017
+Dallas Wings,Dallas Wings,Minnesota Lynx,1,1,2,1495252800.0,2017
+Dallas Wings,San Antonio Silver Stars,Dallas Wings,2,1,3,1495684800.0,2017
+Dallas Wings,Phoenix Mercury,Dallas Wings,2,2,4,1495857600.0,2017
+Dallas Wings,Dallas Wings,Indiana Fever,3,2,5,1496116800.0,2017
+Dallas Wings,New York Liberty,Dallas Wings,3,3,6,1496376000.0,2017
+Dallas Wings,Indiana Fever,Dallas Wings,3,4,7,1496462400.0,2017
+Dallas Wings,Dallas Wings,Washington Mystics,3,5,8,1496721600.0,2017
+Dallas Wings,Dallas Wings,Los Angeles Sparks,4,5,9,1496980800.0,2017
+Dallas Wings,Dallas Wings,Minnesota Lynx,4,6,10,1497153600.0,2017
+Dallas Wings,Los Angeles Sparks,Dallas Wings,4,7,11,1497326400.0,2017
+Dallas Wings,Dallas Wings,New York Liberty,4,8,12,1497585600.0,2017
+Dallas Wings,Washington Mystics,Dallas Wings,5,8,13,1497758400.0,2017
+Dallas Wings,Dallas Wings,San Antonio Silver Stars,6,8,14,1498017600.0,2017
+Dallas Wings,San Antonio Silver Stars,Dallas Wings,7,8,15,1498190400.0,2017
+Dallas Wings,Dallas Wings,Connecticut Sun,8,8,16,1498363200.0,2017
+Dallas Wings,Dallas Wings,Seattle Storm,8,9,17,1498881600.0,2017
+Dallas Wings,Dallas Wings,Atlanta Dream,9,9,18,1499227200.0,2017
+Dallas Wings,Atlanta Dream,Dallas Wings,9,10,19,1499572800.0,2017
+Dallas Wings,Chicago Sky,Dallas Wings,9,11,20,1499832000.0,2017
+Dallas Wings,Dallas Wings,Chicago Sky,10,11,21,1500177600.0,2017
+Dallas Wings,Minnesota Lynx,Dallas Wings,10,12,22,1500436800.0,2017
+Dallas Wings,Dallas Wings,Indiana Fever,11,12,23,1500955200.0,2017
+Dallas Wings,Seattle Storm,Dallas Wings,11,13,24,1501214400.0,2017
+Dallas Wings,Los Angeles Sparks,Dallas Wings,11,14,25,1501387200.0,2017
+Dallas Wings,Dallas Wings,Seattle Storm,12,14,26,1501819200.0,2017
+Dallas Wings,Dallas Wings,Los Angeles Sparks,13,14,27,1501992000.0,2017
+Dallas Wings,Dallas Wings,Phoenix Mercury,13,15,28,1502337600.0,2017
+Dallas Wings,Connecticut Sun,Dallas Wings,13,16,29,1502510400.0,2017
+Dallas Wings,Dallas Wings,Atlanta Dream,14,16,30,1503115200.0,2017
+Dallas Wings,Connecticut Sun,Dallas Wings,14,17,31,1503460800.0,2017
+Dallas Wings,Washington Mystics,Dallas Wings,15,17,32,1503720000.0,2017
+Dallas Wings,Chicago Sky,Dallas Wings,16,17,33,1504065600.0,2017
+Dallas Wings,Dallas Wings,New York Liberty,16,18,34,1504411200.0,2017
+Indiana Fever,Seattle Storm,Indiana Fever,0,1,1,1494734400.0,2017
+Indiana Fever,Phoenix Mercury,Indiana Fever,0,2,2,1494993600.0,2017
+Indiana Fever,Indiana Fever,Connecticut Sun,1,2,3,1495252800.0,2017
+Indiana Fever,Indiana Fever,Los Angeles Sparks,2,2,4,1495598400.0,2017
+Indiana Fever,Seattle Storm,Indiana Fever,2,3,5,1495944000.0,2017
+Indiana Fever,Dallas Wings,Indiana Fever,2,4,6,1496116800.0,2017
+Indiana Fever,Indiana Fever,Dallas Wings,3,4,7,1496462400.0,2017
+Indiana Fever,Indiana Fever,Phoenix Mercury,3,5,8,1496808000.0,2017
+Indiana Fever,Indiana Fever,Seattle Storm,4,5,9,1496980800.0,2017
+Indiana Fever,Washington Mystics,Indiana Fever,4,6,10,1497153600.0,2017
+Indiana Fever,Indiana Fever,Atlanta Dream,5,6,11,1497499200.0,2017
+Indiana Fever,Chicago Sky,Indiana Fever,6,6,12,1497758400.0,2017
+Indiana Fever,Indiana Fever,Los Angeles Sparks,6,7,13,1498276800.0,2017
+Indiana Fever,Chicago Sky,Indiana Fever,7,7,14,1498622400.0,2017
+Indiana Fever,Indiana Fever,Connecticut Sun,7,8,15,1498881600.0,2017
+Indiana Fever,Atlanta Dream,Indiana Fever,7,9,16,1499400000.0,2017
+Indiana Fever,Indiana Fever,San Antonio Silver Stars,7,10,17,1499832000.0,2017
+Indiana Fever,Indiana Fever,Washington Mystics,7,11,18,1500004800.0,2017
+Indiana Fever,Los Angeles Sparks,Indiana Fever,7,12,19,1500264000.0,2017
+Indiana Fever,Phoenix Mercury,Indiana Fever,8,12,20,1500436800.0,2017
+Indiana Fever,San Antonio Silver Stars,Indiana Fever,8,13,21,1500523200.0,2017
+Indiana Fever,Dallas Wings,Indiana Fever,8,14,22,1500955200.0,2017
+Indiana Fever,Indiana Fever,New York Liberty,8,15,23,1501214400.0,2017
+Indiana Fever,Connecticut Sun,Indiana Fever,8,16,24,1501387200.0,2017
+Indiana Fever,Indiana Fever,Chicago Sky,8,17,25,1501819200.0,2017
+Indiana Fever,Indiana Fever,Minnesota Lynx,9,17,26,1501992000.0,2017
+Indiana Fever,New York Liberty,Indiana Fever,9,18,27,1502164800.0,2017
+Indiana Fever,Washington Mystics,Indiana Fever,9,19,28,1502510400.0,2017
+Indiana Fever,Minnesota Lynx,Indiana Fever,9,20,29,1503028800.0,2017
+Indiana Fever,Indiana Fever,Washington Mystics,9,21,30,1503201600.0,2017
+Indiana Fever,Indiana Fever,New York Liberty,9,22,31,1503460800.0,2017
+Indiana Fever,Atlanta Dream,Indiana Fever,9,23,32,1503720000.0,2017
+Indiana Fever,Indiana Fever,Minnesota Lynx,9,24,33,1504065600.0,2017
+Indiana Fever,Indiana Fever,San Antonio Silver Stars,9,25,34,1504324800.0,2017
+Los Angeles Sparks,Los Angeles Sparks,Seattle Storm,1,0,1,1494648000.0,2017
+Los Angeles Sparks,Los Angeles Sparks,Washington Mystics,2,0,2,1495166400.0,2017
+Los Angeles Sparks,Indiana Fever,Los Angeles Sparks,2,1,3,1495598400.0,2017
+Los Angeles Sparks,Atlanta Dream,Los Angeles Sparks,2,2,4,1495857600.0,2017
+Los Angeles Sparks,New York Liberty,Los Angeles Sparks,3,2,5,1496116800.0,2017
+Los Angeles Sparks,Los Angeles Sparks,Chicago Sky,4,2,6,1496721600.0,2017
+Los Angeles Sparks,Dallas Wings,Los Angeles Sparks,4,3,7,1496980800.0,2017
+Los Angeles Sparks,Phoenix Mercury,Los Angeles Sparks,5,3,8,1497067200.0,2017
+Los Angeles Sparks,Los Angeles Sparks,Dallas Wings,6,3,9,1497326400.0,2017
+Los Angeles Sparks,Los Angeles Sparks,San Antonio Silver Stars,7,3,10,1497499200.0,2017
+Los Angeles Sparks,Los Angeles Sparks,Phoenix Mercury,8,3,11,1497758400.0,2017
+Los Angeles Sparks,Indiana Fever,Los Angeles Sparks,9,3,12,1498276800.0,2017
+Los Angeles Sparks,Connecticut Sun,Los Angeles Sparks,10,3,13,1498536000.0,2017
+Los Angeles Sparks,Atlanta Dream,Los Angeles Sparks,11,3,14,1498795200.0,2017
+Los Angeles Sparks,Los Angeles Sparks,Washington Mystics,12,3,15,1498968000.0,2017
+Los Angeles Sparks,Minnesota Lynx,Los Angeles Sparks,12,4,16,1499313600.0,2017
+Los Angeles Sparks,Seattle Storm,Los Angeles Sparks,12,5,17,1499486400.0,2017
+Los Angeles Sparks,Los Angeles Sparks,Connecticut Sun,13,5,18,1499918400.0,2017
+Los Angeles Sparks,Los Angeles Sparks,Indiana Fever,14,5,19,1500264000.0,2017
+Los Angeles Sparks,Los Angeles Sparks,Chicago Sky,14,6,20,1500523200.0,2017
+Los Angeles Sparks,Los Angeles Sparks,Seattle Storm,15,6,21,1500955200.0,2017
+Los Angeles Sparks,San Antonio Silver Stars,Los Angeles Sparks,16,6,22,1501214400.0,2017
+Los Angeles Sparks,Los Angeles Sparks,Dallas Wings,17,6,23,1501387200.0,2017
+Los Angeles Sparks,Los Angeles Sparks,New York Liberty,18,6,24,1501819200.0,2017
+Los Angeles Sparks,Dallas Wings,Los Angeles Sparks,18,7,25,1501992000.0,2017
+Los Angeles Sparks,Minnesota Lynx,Los Angeles Sparks,19,7,26,1502424000.0,2017
+Los Angeles Sparks,New York Liberty,Los Angeles Sparks,19,8,27,1502596800.0,2017
+Los Angeles Sparks,Washington Mystics,Los Angeles Sparks,20,8,28,1502856000.0,2017
+Los Angeles Sparks,Chicago Sky,Los Angeles Sparks,21,8,29,1503028800.0,2017
+Los Angeles Sparks,Los Angeles Sparks,San Antonio Silver Stars,22,8,30,1503374400.0,2017
+Los Angeles Sparks,Phoenix Mercury,Los Angeles Sparks,23,8,31,1503547200.0,2017
+Los Angeles Sparks,Los Angeles Sparks,Minnesota Lynx,24,8,32,1503806400.0,2017
+Los Angeles Sparks,Los Angeles Sparks,Atlanta Dream,25,8,33,1504238400.0,2017
+Los Angeles Sparks,Los Angeles Sparks,Connecticut Sun,26,8,34,1504411200.0,2017
+Minnesota Lynx,Minnesota Lynx,Chicago Sky,1,0,1,1494734400.0,2017
+Minnesota Lynx,New York Liberty,Minnesota Lynx,2,0,2,1495080000.0,2017
+Minnesota Lynx,Dallas Wings,Minnesota Lynx,3,0,3,1495252800.0,2017
+Minnesota Lynx,Minnesota Lynx,Connecticut Sun,4,0,4,1495512000.0,2017
+Minnesota Lynx,Connecticut Sun,Minnesota Lynx,5,0,5,1495771200.0,2017
+Minnesota Lynx,Minnesota Lynx,San Antonio Silver Stars,6,0,6,1495944000.0,2017
+Minnesota Lynx,Seattle Storm,Minnesota Lynx,7,0,7,1496462400.0,2017
+Minnesota Lynx,Washington Mystics,Minnesota Lynx,8,0,8,1496980800.0,2017
+Minnesota Lynx,Dallas Wings,Minnesota Lynx,9,0,9,1497153600.0,2017
+Minnesota Lynx,Minnesota Lynx,Connecticut Sun,9,1,10,1497672000.0,2017
+Minnesota Lynx,Minnesota Lynx,Washington Mystics,10,1,11,1498190400.0,2017
+Minnesota Lynx,Minnesota Lynx,San Antonio Silver Stars,11,1,12,1498363200.0,2017
+Minnesota Lynx,Phoenix Mercury,Minnesota Lynx,12,1,13,1498795200.0,2017
+Minnesota Lynx,Minnesota Lynx,Los Angeles Sparks,13,1,14,1499313600.0,2017
+Minnesota Lynx,Chicago Sky,Minnesota Lynx,13,2,15,1499486400.0,2017
+Minnesota Lynx,Phoenix Mercury,Minnesota Lynx,14,2,16,1500004800.0,2017
+Minnesota Lynx,Minnesota Lynx,Phoenix Mercury,15,2,17,1500177600.0,2017
+Minnesota Lynx,Minnesota Lynx,Dallas Wings,16,2,18,1500436800.0,2017
+Minnesota Lynx,Minnesota Lynx,New York Liberty,17,2,19,1500955200.0,2017
+Minnesota Lynx,Atlanta Dream,Minnesota Lynx,18,2,20,1501214400.0,2017
+Minnesota Lynx,Minnesota Lynx,Seattle Storm,19,2,21,1501387200.0,2017
+Minnesota Lynx,Minnesota Lynx,Atlanta Dream,20,2,22,1501732800.0,2017
+Minnesota Lynx,Indiana Fever,Minnesota Lynx,20,3,23,1501992000.0,2017
+Minnesota Lynx,Atlanta Dream,Minnesota Lynx,21,3,24,1502164800.0,2017
+Minnesota Lynx,Minnesota Lynx,Los Angeles Sparks,21,4,25,1502424000.0,2017
+Minnesota Lynx,Seattle Storm,Minnesota Lynx,21,5,26,1502856000.0,2017
+Minnesota Lynx,Minnesota Lynx,Indiana Fever,22,5,27,1503028800.0,2017
+Minnesota Lynx,New York Liberty,Minnesota Lynx,22,6,28,1503201600.0,2017
+Minnesota Lynx,Minnesota Lynx,Phoenix Mercury,23,6,29,1503374400.0,2017
+Minnesota Lynx,San Antonio Silver Stars,Minnesota Lynx,24,6,30,1503633600.0,2017
+Minnesota Lynx,Los Angeles Sparks,Minnesota Lynx,24,7,31,1503806400.0,2017
+Minnesota Lynx,Indiana Fever,Minnesota Lynx,25,7,32,1504065600.0,2017
+Minnesota Lynx,Minnesota Lynx,Chicago Sky,26,7,33,1504238400.0,2017
+Minnesota Lynx,Minnesota Lynx,Washington Mystics,27,7,34,1504411200.0,2017
+New York Liberty,New York Liberty,San Antonio Silver Stars,1,0,1,1494648000.0,2017
+New York Liberty,New York Liberty,Minnesota Lynx,1,1,2,1495080000.0,2017
+New York Liberty,Phoenix Mercury,New York Liberty,2,1,3,1495512000.0,2017
+New York Liberty,Seattle Storm,New York Liberty,2,2,4,1495771200.0,2017
+New York Liberty,New York Liberty,Los Angeles Sparks,2,3,5,1496116800.0,2017
+New York Liberty,New York Liberty,Dallas Wings,3,3,6,1496376000.0,2017
+New York Liberty,New York Liberty,Phoenix Mercury,4,3,7,1496548800.0,2017
+New York Liberty,New York Liberty,Atlanta Dream,5,3,8,1496808000.0,2017
+New York Liberty,New York Liberty,Seattle Storm,6,3,9,1497153600.0,2017
+New York Liberty,Connecticut Sun,New York Liberty,6,4,10,1497412800.0,2017
+New York Liberty,Dallas Wings,New York Liberty,7,4,11,1497585600.0,2017
+New York Liberty,New York Liberty,Connecticut Sun,7,5,12,1498190400.0,2017
+New York Liberty,Washington Mystics,New York Liberty,7,6,13,1498708800.0,2017
+New York Liberty,Atlanta Dream,New York Liberty,7,7,14,1498968000.0,2017
+New York Liberty,Seattle Storm,New York Liberty,8,7,15,1499313600.0,2017
+New York Liberty,Phoenix Mercury,New York Liberty,8,8,16,1499572800.0,2017
+New York Liberty,New York Liberty,Chicago Sky,8,9,17,1500004800.0,2017
+New York Liberty,New York Liberty,Washington Mystics,9,9,18,1500177600.0,2017
+New York Liberty,New York Liberty,Connecticut Sun,10,9,19,1500436800.0,2017
+New York Liberty,Minnesota Lynx,New York Liberty,10,10,20,1500955200.0,2017
+New York Liberty,Indiana Fever,New York Liberty,11,10,21,1501214400.0,2017
+New York Liberty,Chicago Sky,New York Liberty,12,10,22,1501387200.0,2017
+New York Liberty,San Antonio Silver Stars,New York Liberty,12,11,23,1501560000.0,2017
+New York Liberty,Los Angeles Sparks,New York Liberty,12,12,24,1501819200.0,2017
+New York Liberty,New York Liberty,Indiana Fever,13,12,25,1502164800.0,2017
+New York Liberty,Atlanta Dream,New York Liberty,14,12,26,1502424000.0,2017
+New York Liberty,New York Liberty,Los Angeles Sparks,15,12,27,1502596800.0,2017
+New York Liberty,Connecticut Sun,New York Liberty,16,12,28,1503028800.0,2017
+New York Liberty,New York Liberty,Minnesota Lynx,17,12,29,1503201600.0,2017
+New York Liberty,Indiana Fever,New York Liberty,18,12,30,1503460800.0,2017
+New York Liberty,New York Liberty,Washington Mystics,19,12,31,1503633600.0,2017
+New York Liberty,New York Liberty,Chicago Sky,20,12,32,1503806400.0,2017
+New York Liberty,New York Liberty,San Antonio Silver Stars,21,12,33,1504238400.0,2017
+New York Liberty,Dallas Wings,New York Liberty,22,12,34,1504411200.0,2017
+Phoenix Mercury,Phoenix Mercury,Dallas Wings,0,1,1,1494734400.0,2017
+Phoenix Mercury,Phoenix Mercury,Indiana Fever,1,1,2,1494993600.0,2017
+Phoenix Mercury,San Antonio Silver Stars,Phoenix Mercury,2,1,3,1495166400.0,2017
+Phoenix Mercury,Phoenix Mercury,New York Liberty,2,2,4,1495512000.0,2017
+Phoenix Mercury,Phoenix Mercury,Dallas Wings,3,2,5,1495857600.0,2017
+Phoenix Mercury,Chicago Sky,Phoenix Mercury,4,2,6,1496289600.0,2017
+Phoenix Mercury,New York Liberty,Phoenix Mercury,4,3,7,1496548800.0,2017
+Phoenix Mercury,Indiana Fever,Phoenix Mercury,5,3,8,1496808000.0,2017
+Phoenix Mercury,Phoenix Mercury,Los Angeles Sparks,5,4,9,1497067200.0,2017
+Phoenix Mercury,Phoenix Mercury,Chicago Sky,6,4,10,1497585600.0,2017
+Phoenix Mercury,Los Angeles Sparks,Phoenix Mercury,6,5,11,1497758400.0,2017
+Phoenix Mercury,Seattle Storm,Phoenix Mercury,7,5,12,1498190400.0,2017
+Phoenix Mercury,Phoenix Mercury,Minnesota Lynx,7,6,13,1498795200.0,2017
+Phoenix Mercury,Phoenix Mercury,Washington Mystics,8,6,14,1499227200.0,2017
+Phoenix Mercury,San Antonio Silver Stars,Phoenix Mercury,9,6,15,1499400000.0,2017
+Phoenix Mercury,Phoenix Mercury,New York Liberty,10,6,16,1499572800.0,2017
+Phoenix Mercury,Phoenix Mercury,Atlanta Dream,11,6,17,1499832000.0,2017
+Phoenix Mercury,Phoenix Mercury,Minnesota Lynx,11,7,18,1500004800.0,2017
+Phoenix Mercury,Minnesota Lynx,Phoenix Mercury,11,8,19,1500177600.0,2017
+Phoenix Mercury,Phoenix Mercury,Indiana Fever,11,9,20,1500436800.0,2017
+Phoenix Mercury,Atlanta Dream,Phoenix Mercury,11,10,21,1500955200.0,2017
+Phoenix Mercury,Chicago Sky,Phoenix Mercury,12,10,22,1501214400.0,2017
+Phoenix Mercury,Phoenix Mercury,San Antonio Silver Stars,13,10,23,1501387200.0,2017
+Phoenix Mercury,Connecticut Sun,Phoenix Mercury,13,11,24,1501819200.0,2017
+Phoenix Mercury,Washington Mystics,Phoenix Mercury,13,12,25,1501992000.0,2017
+Phoenix Mercury,Dallas Wings,Phoenix Mercury,14,12,26,1502337600.0,2017
+Phoenix Mercury,Phoenix Mercury,Seattle Storm,14,13,27,1502510400.0,2017
+Phoenix Mercury,Washington Mystics,Phoenix Mercury,15,13,28,1503028800.0,2017
+Phoenix Mercury,Connecticut Sun,Phoenix Mercury,15,14,29,1503201600.0,2017
+Phoenix Mercury,Minnesota Lynx,Phoenix Mercury,15,15,30,1503374400.0,2017
+Phoenix Mercury,Phoenix Mercury,Los Angeles Sparks,15,16,31,1503547200.0,2017
+Phoenix Mercury,Seattle Storm,Phoenix Mercury,16,16,32,1503806400.0,2017
+Phoenix Mercury,Phoenix Mercury,Connecticut Sun,17,16,33,1504238400.0,2017
+Phoenix Mercury,Phoenix Mercury,Atlanta Dream,18,16,34,1504411200.0,2017
+San Antonio Silver Stars,New York Liberty,San Antonio Silver Stars,0,1,1,1494648000.0,2017
+San Antonio Silver Stars,Washington Mystics,San Antonio Silver Stars,0,2,2,1494734400.0,2017
+San Antonio Silver Stars,San Antonio Silver Stars,Phoenix Mercury,0,3,3,1495166400.0,2017
+San Antonio Silver Stars,San Antonio Silver Stars,Dallas Wings,0,4,4,1495684800.0,2017
+San Antonio Silver Stars,Minnesota Lynx,San Antonio Silver Stars,0,5,5,1495944000.0,2017
+San Antonio Silver Stars,Atlanta Dream,San Antonio Silver Stars,0,6,6,1496203200.0,2017
+San Antonio Silver Stars,San Antonio Silver Stars,Connecticut Sun,0,7,7,1496462400.0,2017
+San Antonio Silver Stars,San Antonio Silver Stars,Seattle Storm,0,8,8,1496721600.0,2017
+San Antonio Silver Stars,San Antonio Silver Stars,Chicago Sky,0,9,9,1497067200.0,2017
+San Antonio Silver Stars,Los Angeles Sparks,San Antonio Silver Stars,0,10,10,1497499200.0,2017
+San Antonio Silver Stars,Seattle Storm,San Antonio Silver Stars,0,11,11,1497758400.0,2017
+San Antonio Silver Stars,Dallas Wings,San Antonio Silver Stars,0,12,12,1498017600.0,2017
+San Antonio Silver Stars,San Antonio Silver Stars,Dallas Wings,0,13,13,1498190400.0,2017
+San Antonio Silver Stars,Minnesota Lynx,San Antonio Silver Stars,0,14,14,1498363200.0,2017
+San Antonio Silver Stars,San Antonio Silver Stars,Chicago Sky,1,14,15,1498795200.0,2017
+San Antonio Silver Stars,San Antonio Silver Stars,Connecticut Sun,1,15,16,1499227200.0,2017
+San Antonio Silver Stars,San Antonio Silver Stars,Phoenix Mercury,1,16,17,1499400000.0,2017
+San Antonio Silver Stars,Indiana Fever,San Antonio Silver Stars,2,16,18,1499832000.0,2017
+San Antonio Silver Stars,Connecticut Sun,San Antonio Silver Stars,2,17,19,1500177600.0,2017
+San Antonio Silver Stars,Atlanta Dream,San Antonio Silver Stars,2,18,20,1500350400.0,2017
+San Antonio Silver Stars,San Antonio Silver Stars,Indiana Fever,3,18,21,1500523200.0,2017
+San Antonio Silver Stars,San Antonio Silver Stars,Washington Mystics,3,19,22,1500955200.0,2017
+San Antonio Silver Stars,San Antonio Silver Stars,Los Angeles Sparks,3,20,23,1501214400.0,2017
+San Antonio Silver Stars,Phoenix Mercury,San Antonio Silver Stars,3,21,24,1501387200.0,2017
+San Antonio Silver Stars,San Antonio Silver Stars,New York Liberty,4,21,25,1501560000.0,2017
+San Antonio Silver Stars,San Antonio Silver Stars,Washington Mystics,5,21,26,1501819200.0,2017
+San Antonio Silver Stars,San Antonio Silver Stars,Seattle Storm,6,21,27,1501905600.0,2017
+San Antonio Silver Stars,Chicago Sky,San Antonio Silver Stars,6,22,28,1502337600.0,2017
+San Antonio Silver Stars,San Antonio Silver Stars,Atlanta Dream,7,22,29,1502510400.0,2017
+San Antonio Silver Stars,Seattle Storm,San Antonio Silver Stars,7,23,30,1503028800.0,2017
+San Antonio Silver Stars,Los Angeles Sparks,San Antonio Silver Stars,7,24,31,1503374400.0,2017
+San Antonio Silver Stars,San Antonio Silver Stars,Minnesota Lynx,7,25,32,1503633600.0,2017
+San Antonio Silver Stars,New York Liberty,San Antonio Silver Stars,7,26,33,1504238400.0,2017
+San Antonio Silver Stars,Indiana Fever,San Antonio Silver Stars,8,26,34,1504324800.0,2017
+Seattle Storm,Los Angeles Sparks,Seattle Storm,0,1,1,1494648000.0,2017
+Seattle Storm,Seattle Storm,Indiana Fever,1,1,2,1494734400.0,2017
+Seattle Storm,Seattle Storm,Washington Mystics,2,1,3,1495339200.0,2017
+Seattle Storm,Seattle Storm,New York Liberty,3,1,4,1495771200.0,2017
+Seattle Storm,Seattle Storm,Indiana Fever,4,1,5,1495944000.0,2017
+Seattle Storm,Seattle Storm,Minnesota Lynx,4,2,6,1496462400.0,2017
+Seattle Storm,San Antonio Silver Stars,Seattle Storm,5,2,7,1496721600.0,2017
+Seattle Storm,Indiana Fever,Seattle Storm,5,3,8,1496980800.0,2017
+Seattle Storm,New York Liberty,Seattle Storm,5,4,9,1497153600.0,2017
+Seattle Storm,Seattle Storm,Atlanta Dream,5,5,10,1497326400.0,2017
+Seattle Storm,Seattle Storm,San Antonio Silver Stars,6,5,11,1497758400.0,2017
+Seattle Storm,Seattle Storm,Phoenix Mercury,6,6,12,1498190400.0,2017
+Seattle Storm,Washington Mystics,Seattle Storm,6,7,13,1498536000.0,2017
+Seattle Storm,Connecticut Sun,Seattle Storm,6,8,14,1498708800.0,2017
+Seattle Storm,Dallas Wings,Seattle Storm,7,8,15,1498881600.0,2017
+Seattle Storm,Seattle Storm,New York Liberty,7,9,16,1499313600.0,2017
+Seattle Storm,Seattle Storm,Los Angeles Sparks,8,9,17,1499486400.0,2017
+Seattle Storm,Seattle Storm,Connecticut Sun,8,10,18,1499832000.0,2017
+Seattle Storm,Seattle Storm,Atlanta Dream,9,10,19,1500091200.0,2017
+Seattle Storm,Seattle Storm,Chicago Sky,9,11,20,1500350400.0,2017
+Seattle Storm,Los Angeles Sparks,Seattle Storm,9,12,21,1500955200.0,2017
+Seattle Storm,Seattle Storm,Dallas Wings,10,12,22,1501214400.0,2017
+Seattle Storm,Minnesota Lynx,Seattle Storm,10,13,23,1501387200.0,2017
+Seattle Storm,Dallas Wings,Seattle Storm,10,14,24,1501819200.0,2017
+Seattle Storm,San Antonio Silver Stars,Seattle Storm,10,15,25,1501905600.0,2017
+Seattle Storm,Connecticut Sun,Seattle Storm,10,16,26,1502164800.0,2017
+Seattle Storm,Phoenix Mercury,Seattle Storm,11,16,27,1502510400.0,2017
+Seattle Storm,Seattle Storm,Minnesota Lynx,12,16,28,1502856000.0,2017
+Seattle Storm,Seattle Storm,San Antonio Silver Stars,13,16,29,1503028800.0,2017
+Seattle Storm,Chicago Sky,Seattle Storm,14,16,30,1503201600.0,2017
+Seattle Storm,Atlanta Dream,Seattle Storm,14,17,31,1503460800.0,2017
+Seattle Storm,Seattle Storm,Phoenix Mercury,14,18,32,1503806400.0,2017
+Seattle Storm,Washington Mystics,Seattle Storm,14,19,33,1504238400.0,2017
+Seattle Storm,Chicago Sky,Seattle Storm,15,19,34,1504411200.0,2017
+Washington Mystics,Washington Mystics,San Antonio Silver Stars,1,0,1,1494734400.0,2017
+Washington Mystics,Los Angeles Sparks,Washington Mystics,1,1,2,1495166400.0,2017
+Washington Mystics,Seattle Storm,Washington Mystics,1,2,3,1495339200.0,2017
+Washington Mystics,Chicago Sky,Washington Mystics,2,2,4,1495598400.0,2017
+Washington Mystics,Washington Mystics,Chicago Sky,3,2,5,1495771200.0,2017
+Washington Mystics,Washington Mystics,Connecticut Sun,4,2,6,1496203200.0,2017
+Washington Mystics,Washington Mystics,Atlanta Dream,5,2,7,1496548800.0,2017
+Washington Mystics,Dallas Wings,Washington Mystics,6,2,8,1496721600.0,2017
+Washington Mystics,Washington Mystics,Minnesota Lynx,6,3,9,1496980800.0,2017
+Washington Mystics,Washington Mystics,Indiana Fever,7,3,10,1497153600.0,2017
+Washington Mystics,Washington Mystics,Dallas Wings,7,4,11,1497758400.0,2017
+Washington Mystics,Minnesota Lynx,Washington Mystics,7,5,12,1498190400.0,2017
+Washington Mystics,Chicago Sky,Washington Mystics,8,5,13,1498363200.0,2017
+Washington Mystics,Washington Mystics,Seattle Storm,9,5,14,1498536000.0,2017
+Washington Mystics,Washington Mystics,New York Liberty,10,5,15,1498708800.0,2017
+Washington Mystics,Los Angeles Sparks,Washington Mystics,10,6,16,1498968000.0,2017
+Washington Mystics,Phoenix Mercury,Washington Mystics,10,7,17,1499227200.0,2017
+Washington Mystics,Connecticut Sun,Washington Mystics,10,8,18,1499486400.0,2017
+Washington Mystics,Indiana Fever,Washington Mystics,11,8,19,1500004800.0,2017
+Washington Mystics,New York Liberty,Washington Mystics,11,9,20,1500177600.0,2017
+Washington Mystics,Washington Mystics,Atlanta Dream,12,9,21,1500436800.0,2017
+Washington Mystics,San Antonio Silver Stars,Washington Mystics,13,9,22,1500955200.0,2017
+Washington Mystics,Atlanta Dream,Washington Mystics,14,9,23,1501387200.0,2017
+Washington Mystics,San Antonio Silver Stars,Washington Mystics,14,10,24,1501819200.0,2017
+Washington Mystics,Washington Mystics,Phoenix Mercury,15,10,25,1501992000.0,2017
+Washington Mystics,Washington Mystics,Indiana Fever,16,10,26,1502510400.0,2017
+Washington Mystics,Washington Mystics,Los Angeles Sparks,16,11,27,1502856000.0,2017
+Washington Mystics,Washington Mystics,Phoenix Mercury,16,12,28,1503028800.0,2017
+Washington Mystics,Indiana Fever,Washington Mystics,17,12,29,1503201600.0,2017
+Washington Mystics,New York Liberty,Washington Mystics,17,13,30,1503633600.0,2017
+Washington Mystics,Washington Mystics,Dallas Wings,17,14,31,1503720000.0,2017
+Washington Mystics,Washington Mystics,Connecticut Sun,17,15,32,1503979200.0,2017
+Washington Mystics,Washington Mystics,Seattle Storm,18,15,33,1504238400.0,2017
+Washington Mystics,Minnesota Lynx,Washington Mystics,18,16,34,1504411200.0,2017

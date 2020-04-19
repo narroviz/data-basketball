@@ -1,0 +1,1477 @@
+id,home_team,away_team,win,loss,game_number,date,year
+Atlanta Hawks,Cincinnati Royals,Atlanta Hawks,0,1,1,56088000.0,1972
+Atlanta Hawks,Atlanta Hawks,Philadelphia 76ers,0,2,2,56433600.0,1972
+Atlanta Hawks,Atlanta Hawks,Los Angeles Lakers,0,3,3,56779200.0,1972
+Atlanta Hawks,Atlanta Hawks,Boston Celtics,0,4,4,56952000.0,1972
+Atlanta Hawks,New York Knicks,Atlanta Hawks,1,4,5,57038400.0,1972
+Atlanta Hawks,Boston Celtics,Atlanta Hawks,1,5,6,57211200.0,1972
+Atlanta Hawks,Atlanta Hawks,New York Knicks,2,5,7,57384000.0,1972
+Atlanta Hawks,Cleveland Cavaliers,Atlanta Hawks,3,5,8,57556800.0,1972
+Atlanta Hawks,Atlanta Hawks,Detroit Pistons,3,6,9,57643200.0,1972
+Atlanta Hawks,Atlanta Hawks,Chicago Bulls,3,7,10,57992400.0,1972
+Atlanta Hawks,Atlanta Hawks,Buffalo Braves,3,8,11,58165200.0,1972
+Atlanta Hawks,Philadelphia 76ers,Atlanta Hawks,3,9,12,58251600.0,1972
+Atlanta Hawks,Atlanta Hawks,Milwaukee Bucks,3,10,13,58597200.0,1972
+Atlanta Hawks,Atlanta Hawks,Golden State Warriors,4,10,14,58770000.0,1972
+Atlanta Hawks,Atlanta Hawks,Seattle Supersonics,4,11,15,59202000.0,1972
+Atlanta Hawks,Atlanta Hawks,Phoenix Suns,5,11,16,59461200.0,1972
+Atlanta Hawks,Buffalo Braves,Atlanta Hawks,5,12,17,59720400.0,1972
+Atlanta Hawks,Milwaukee Bucks,Atlanta Hawks,5,13,18,59806800.0,1972
+Atlanta Hawks,Atlanta Hawks,Baltimore Bullets,5,14,19,59979600.0,1972
+Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,5,15,20,60066000.0,1972
+Atlanta Hawks,Boston Celtics,Atlanta Hawks,5,16,21,60152400.0,1972
+Atlanta Hawks,Chicago Bulls,Atlanta Hawks,5,17,22,60325200.0,1972
+Atlanta Hawks,Detroit Pistons,Atlanta Hawks,6,17,23,60411600.0,1972
+Atlanta Hawks,Atlanta Hawks,Philadelphia 76ers,7,17,24,60670800.0,1972
+Atlanta Hawks,Atlanta Hawks,Golden State Warriors,8,17,25,60930000.0,1972
+Atlanta Hawks,Phoenix Suns,Atlanta Hawks,8,18,26,61102800.0,1972
+Atlanta Hawks,Houston Rockets,Atlanta Hawks,8,19,27,61189200.0,1972
+Atlanta Hawks,Los Angeles Lakers,Atlanta Hawks,8,20,28,61362000.0,1972
+Atlanta Hawks,Atlanta Hawks,Houston Rockets,8,21,29,61621200.0,1972
+Atlanta Hawks,Baltimore Bullets,Atlanta Hawks,8,22,30,61794000.0,1972
+Atlanta Hawks,Atlanta Hawks,Baltimore Bullets,9,22,31,61880400.0,1972
+Atlanta Hawks,Atlanta Hawks,Cincinnati Royals,10,22,32,61966800.0,1972
+Atlanta Hawks,Cincinnati Royals,Atlanta Hawks,11,22,33,62226000.0,1972
+Atlanta Hawks,Cleveland Cavaliers,Atlanta Hawks,11,23,34,62312400.0,1972
+Atlanta Hawks,Atlanta Hawks,Buffalo Braves,12,23,35,62485200.0,1972
+Atlanta Hawks,Milwaukee Bucks,Atlanta Hawks,12,24,36,62571600.0,1972
+Atlanta Hawks,Atlanta Hawks,Portland Trail Blazers,13,24,37,62658000.0,1972
+Atlanta Hawks,Houston Rockets,Atlanta Hawks,13,25,38,62917200.0,1972
+Atlanta Hawks,Phoenix Suns,Atlanta Hawks,14,25,39,63176400.0,1972
+Atlanta Hawks,Portland Trail Blazers,Atlanta Hawks,15,25,40,63349200.0,1972
+Atlanta Hawks,Seattle Supersonics,Atlanta Hawks,15,26,41,63435600.0,1972
+Atlanta Hawks,Atlanta Hawks,Los Angeles Lakers,15,27,42,63608400.0,1972
+Atlanta Hawks,Baltimore Bullets,Atlanta Hawks,15,28,43,63694800.0,1972
+Atlanta Hawks,Atlanta Hawks,Milwaukee Bucks,16,28,44,64040400.0,1972
+Atlanta Hawks,Cincinnati Royals,Atlanta Hawks,16,29,45,64213200.0,1972
+Atlanta Hawks,Atlanta Hawks,Boston Celtics,16,30,46,64299600.0,1972
+Atlanta Hawks,Atlanta Hawks,Philadelphia 76ers,17,30,47,64386000.0,1972
+Atlanta Hawks,Atlanta Hawks,Golden State Warriors,17,31,48,64818000.0,1972
+Atlanta Hawks,Milwaukee Bucks,Atlanta Hawks,18,31,49,64990800.0,1972
+Atlanta Hawks,Buffalo Braves,Atlanta Hawks,19,31,50,65163600.0,1972
+Atlanta Hawks,Atlanta Hawks,Seattle Supersonics,19,32,51,65250000.0,1972
+Atlanta Hawks,Atlanta Hawks,Detroit Pistons,20,32,52,65422800.0,1972
+Atlanta Hawks,Phoenix Suns,Atlanta Hawks,20,33,53,65595600.0,1972
+Atlanta Hawks,Golden State Warriors,Atlanta Hawks,20,34,54,65941200.0,1972
+Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,21,34,55,66114000.0,1972
+Atlanta Hawks,Houston Rockets,Atlanta Hawks,21,35,56,66200400.0,1972
+Atlanta Hawks,Atlanta Hawks,Los Angeles Lakers,21,36,57,66459600.0,1972
+Atlanta Hawks,Chicago Bulls,Atlanta Hawks,21,37,58,66632400.0,1972
+Atlanta Hawks,Atlanta Hawks,Chicago Bulls,21,38,59,66718800.0,1972
+Atlanta Hawks,Atlanta Hawks,Buffalo Braves,22,38,60,66805200.0,1972
+Atlanta Hawks,Detroit Pistons,Atlanta Hawks,23,38,61,66978000.0,1972
+Atlanta Hawks,Atlanta Hawks,Baltimore Bullets,24,38,62,67064400.0,1972
+Atlanta Hawks,Baltimore Bullets,Atlanta Hawks,24,39,63,67237200.0,1972
+Atlanta Hawks,Atlanta Hawks,Cincinnati Royals,24,40,64,67410000.0,1972
+Atlanta Hawks,Atlanta Hawks,Phoenix Suns,25,40,65,67669200.0,1972
+Atlanta Hawks,Atlanta Hawks,Philadelphia 76ers,25,41,66,67842000.0,1972
+Atlanta Hawks,Atlanta Hawks,Portland Trail Blazers,26,41,67,68014800.0,1972
+Atlanta Hawks,Buffalo Braves,Atlanta Hawks,27,41,68,68187600.0,1972
+Atlanta Hawks,Los Angeles Lakers,Atlanta Hawks,27,42,69,68446800.0,1972
+Atlanta Hawks,Portland Trail Blazers,Atlanta Hawks,28,42,70,68533200.0,1972
+Atlanta Hawks,Seattle Supersonics,Atlanta Hawks,28,43,71,68619600.0,1972
+Atlanta Hawks,Atlanta Hawks,Chicago Bulls,28,44,72,68878800.0,1972
+Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,29,44,73,69224400.0,1972
+Atlanta Hawks,New York Knicks,Atlanta Hawks,29,45,74,69397200.0,1972
+Atlanta Hawks,Atlanta Hawks,Seattle Supersonics,30,45,75,69483600.0,1972
+Atlanta Hawks,Detroit Pistons,Atlanta Hawks,30,46,76,69656400.0,1972
+Atlanta Hawks,Atlanta Hawks,Cincinnati Royals,31,46,77,69742800.0,1972
+Atlanta Hawks,Cleveland Cavaliers,Atlanta Hawks,32,46,78,69829200.0,1972
+Atlanta Hawks,Philadelphia 76ers,Atlanta Hawks,33,46,79,70002000.0,1972
+Atlanta Hawks,Atlanta Hawks,Houston Rockets,34,46,80,70088400.0,1972
+Atlanta Hawks,Atlanta Hawks,Golden State Warriors,35,46,81,70261200.0,1972
+Atlanta Hawks,Atlanta Hawks,New York Knicks,36,46,82,70434000.0,1972
+Baltimore Bullets,Chicago Bulls,Baltimore Bullets,0,1,1,56347200.0,1972
+Baltimore Bullets,Baltimore Bullets,Golden State Warriors,1,1,2,56433600.0,1972
+Baltimore Bullets,Boston Celtics,Baltimore Bullets,1,2,3,56692800.0,1972
+Baltimore Bullets,Baltimore Bullets,New York Knicks,1,3,4,56952000.0,1972
+Baltimore Bullets,Baltimore Bullets,Cleveland Cavaliers,1,4,5,57038400.0,1972
+Baltimore Bullets,Milwaukee Bucks,Baltimore Bullets,1,5,6,57297600.0,1972
+Baltimore Bullets,Baltimore Bullets,Detroit Pistons,2,5,7,57384000.0,1972
+Baltimore Bullets,Detroit Pistons,Baltimore Bullets,2,6,8,57556800.0,1972
+Baltimore Bullets,Baltimore Bullets,Phoenix Suns,3,6,9,57643200.0,1972
+Baltimore Bullets,Golden State Warriors,Baltimore Bullets,3,7,10,57906000.0,1972
+Baltimore Bullets,Los Angeles Lakers,Baltimore Bullets,3,8,11,58165200.0,1972
+Baltimore Bullets,Houston Rockets,Baltimore Bullets,4,8,12,58338000.0,1972
+Baltimore Bullets,Baltimore Bullets,Chicago Bulls,4,9,13,58597200.0,1972
+Baltimore Bullets,Baltimore Bullets,Philadelphia 76ers,5,9,14,58856400.0,1972
+Baltimore Bullets,Baltimore Bullets,Houston Rockets,6,9,15,59115600.0,1972
+Baltimore Bullets,Cincinnati Royals,Baltimore Bullets,7,9,16,59202000.0,1972
+Baltimore Bullets,Baltimore Bullets,Buffalo Braves,8,9,17,59374800.0,1972
+Baltimore Bullets,New York Knicks,Baltimore Bullets,8,10,18,59461200.0,1972
+Baltimore Bullets,Cleveland Cavaliers,Baltimore Bullets,8,11,19,59720400.0,1972
+Baltimore Bullets,Baltimore Bullets,New York Knicks,8,12,20,59806800.0,1972
+Baltimore Bullets,Atlanta Hawks,Baltimore Bullets,9,12,21,59979600.0,1972
+Baltimore Bullets,Baltimore Bullets,Boston Celtics,10,12,22,60066000.0,1972
+Baltimore Bullets,Baltimore Bullets,Cincinnati Royals,10,13,23,60325200.0,1972
+Baltimore Bullets,Baltimore Bullets,Buffalo Braves,10,14,24,60498000.0,1972
+Baltimore Bullets,Baltimore Bullets,Seattle Supersonics,10,15,25,60584400.0,1972
+Baltimore Bullets,Baltimore Bullets,Portland Trail Blazers,11,15,26,61016400.0,1972
+Baltimore Bullets,Chicago Bulls,Baltimore Bullets,11,16,27,61189200.0,1972
+Baltimore Bullets,Baltimore Bullets,Milwaukee Bucks,11,17,28,61275600.0,1972
+Baltimore Bullets,Baltimore Bullets,Cleveland Cavaliers,11,18,29,61534800.0,1972
+Baltimore Bullets,Baltimore Bullets,Atlanta Hawks,12,18,30,61794000.0,1972
+Baltimore Bullets,Atlanta Hawks,Baltimore Bullets,12,19,31,61880400.0,1972
+Baltimore Bullets,Milwaukee Bucks,Baltimore Bullets,12,20,32,61966800.0,1972
+Baltimore Bullets,Baltimore Bullets,Los Angeles Lakers,12,21,33,62226000.0,1972
+Baltimore Bullets,Philadelphia 76ers,Baltimore Bullets,13,21,34,62485200.0,1972
+Baltimore Bullets,Cleveland Cavaliers,Baltimore Bullets,13,22,35,62571600.0,1972
+Baltimore Bullets,Baltimore Bullets,Cincinnati Royals,14,22,36,62744400.0,1972
+Baltimore Bullets,New York Knicks,Baltimore Bullets,15,22,37,62917200.0,1972
+Baltimore Bullets,Baltimore Bullets,Detroit Pistons,16,22,38,63435600.0,1972
+Baltimore Bullets,Chicago Bulls,Baltimore Bullets,17,22,39,63608400.0,1972
+Baltimore Bullets,Baltimore Bullets,Atlanta Hawks,18,22,40,63694800.0,1972
+Baltimore Bullets,Baltimore Bullets,Phoenix Suns,19,22,41,63781200.0,1972
+Baltimore Bullets,Portland Trail Blazers,Baltimore Bullets,19,23,42,63954000.0,1972
+Baltimore Bullets,Seattle Supersonics,Baltimore Bullets,19,24,43,64126800.0,1972
+Baltimore Bullets,Golden State Warriors,Baltimore Bullets,19,25,44,64299600.0,1972
+Baltimore Bullets,Phoenix Suns,Baltimore Bullets,20,25,45,64386000.0,1972
+Baltimore Bullets,Detroit Pistons,Baltimore Bullets,20,26,46,64818000.0,1972
+Baltimore Bullets,Baltimore Bullets,Portland Trail Blazers,21,26,47,64904400.0,1972
+Baltimore Bullets,Baltimore Bullets,Cincinnati Royals,22,26,48,64990800.0,1972
+Baltimore Bullets,Baltimore Bullets,Buffalo Braves,23,26,49,65250000.0,1972
+Baltimore Bullets,Cincinnati Royals,Baltimore Bullets,24,26,50,65422800.0,1972
+Baltimore Bullets,Baltimore Bullets,Milwaukee Bucks,24,27,51,65595600.0,1972
+Baltimore Bullets,Baltimore Bullets,Boston Celtics,24,28,52,65768400.0,1972
+Baltimore Bullets,Baltimore Bullets,Chicago Bulls,24,29,53,66027600.0,1972
+Baltimore Bullets,Los Angeles Lakers,Baltimore Bullets,24,30,54,66200400.0,1972
+Baltimore Bullets,Golden State Warriors,Baltimore Bullets,24,31,55,66373200.0,1972
+Baltimore Bullets,Phoenix Suns,Baltimore Bullets,24,32,56,66546000.0,1972
+Baltimore Bullets,Houston Rockets,Baltimore Bullets,24,33,57,66632400.0,1972
+Baltimore Bullets,Baltimore Bullets,Los Angeles Lakers,24,34,58,66805200.0,1972
+Baltimore Bullets,Baltimore Bullets,Houston Rockets,25,34,59,66978000.0,1972
+Baltimore Bullets,Atlanta Hawks,Baltimore Bullets,25,35,60,67064400.0,1972
+Baltimore Bullets,Baltimore Bullets,Atlanta Hawks,26,35,61,67237200.0,1972
+Baltimore Bullets,Philadelphia 76ers,Baltimore Bullets,27,35,62,67323600.0,1972
+Baltimore Bullets,Baltimore Bullets,Philadelphia 76ers,28,35,63,67496400.0,1972
+Baltimore Bullets,Buffalo Braves,Baltimore Bullets,28,36,64,67582800.0,1972
+Baltimore Bullets,Baltimore Bullets,Milwaukee Bucks,28,37,65,67669200.0,1972
+Baltimore Bullets,New York Knicks,Baltimore Bullets,29,37,66,67928400.0,1972
+Baltimore Bullets,Baltimore Bullets,New York Knicks,29,38,67,68014800.0,1972
+Baltimore Bullets,Baltimore Bullets,Seattle Supersonics,29,39,68,68187600.0,1972
+Baltimore Bullets,Phoenix Suns,Baltimore Bullets,30,39,69,68274000.0,1972
+Baltimore Bullets,Portland Trail Blazers,Baltimore Bullets,31,39,70,68446800.0,1972
+Baltimore Bullets,Los Angeles Lakers,Baltimore Bullets,32,39,71,68619600.0,1972
+Baltimore Bullets,Seattle Supersonics,Baltimore Bullets,33,39,72,68792400.0,1972
+Baltimore Bullets,Baltimore Bullets,Detroit Pistons,34,39,73,69224400.0,1972
+Baltimore Bullets,Baltimore Bullets,Cleveland Cavaliers,34,40,74,69397200.0,1972
+Baltimore Bullets,Cleveland Cavaliers,Baltimore Bullets,35,40,75,69570000.0,1972
+Baltimore Bullets,Baltimore Bullets,Seattle Supersonics,36,40,76,69656400.0,1972
+Baltimore Bullets,Boston Celtics,Baltimore Bullets,37,40,77,69829200.0,1972
+Baltimore Bullets,Buffalo Braves,Baltimore Bullets,37,41,78,70002000.0,1972
+Baltimore Bullets,Baltimore Bullets,Golden State Warriors,37,42,79,70088400.0,1972
+Baltimore Bullets,Cincinnati Royals,Baltimore Bullets,37,43,80,70261200.0,1972
+Baltimore Bullets,Baltimore Bullets,Houston Rockets,37,44,81,70347600.0,1972
+Baltimore Bullets,Baltimore Bullets,Buffalo Braves,38,44,82,70434000.0,1972
+Boston Celtics,Boston Celtics,Golden State Warriors,0,1,1,56347200.0,1972
+Boston Celtics,Boston Celtics,Baltimore Bullets,1,1,2,56692800.0,1972
+Boston Celtics,Atlanta Hawks,Boston Celtics,2,1,3,56952000.0,1972
+Boston Celtics,Buffalo Braves,Boston Celtics,3,1,4,57038400.0,1972
+Boston Celtics,Boston Celtics,Atlanta Hawks,4,1,5,57211200.0,1972
+Boston Celtics,New York Knicks,Boston Celtics,4,2,6,57297600.0,1972
+Boston Celtics,Boston Celtics,Houston Rockets,5,2,7,57384000.0,1972
+Boston Celtics,Boston Celtics,Milwaukee Bucks,6,2,8,57556800.0,1972
+Boston Celtics,Boston Celtics,Detroit Pistons,7,2,9,58165200.0,1972
+Boston Celtics,Boston Celtics,Portland Trail Blazers,8,2,10,58251600.0,1972
+Boston Celtics,Boston Celtics,Cincinnati Royals,9,2,11,58424400.0,1972
+Boston Celtics,Houston Rockets,Boston Celtics,10,2,12,58597200.0,1972
+Boston Celtics,Phoenix Suns,Boston Celtics,10,3,13,58770000.0,1972
+Boston Celtics,Seattle Supersonics,Boston Celtics,10,4,14,58856400.0,1972
+Boston Celtics,Los Angeles Lakers,Boston Celtics,10,5,15,58942800.0,1972
+Boston Celtics,Boston Celtics,Phoenix Suns,11,5,16,59202000.0,1972
+Boston Celtics,Boston Celtics,Cincinnati Royals,11,6,17,59374800.0,1972
+Boston Celtics,Chicago Bulls,Boston Celtics,11,7,18,59461200.0,1972
+Boston Celtics,Cleveland Cavaliers,Boston Celtics,12,7,19,59547600.0,1972
+Boston Celtics,Boston Celtics,Buffalo Braves,13,7,20,59806800.0,1972
+Boston Celtics,Boston Celtics,New York Knicks,13,8,21,59979600.0,1972
+Boston Celtics,Baltimore Bullets,Boston Celtics,13,9,22,60066000.0,1972
+Boston Celtics,Boston Celtics,Atlanta Hawks,14,9,23,60152400.0,1972
+Boston Celtics,Boston Celtics,Los Angeles Lakers,14,10,24,60411600.0,1972
+Boston Celtics,Boston Celtics,Houston Rockets,15,10,25,60670800.0,1972
+Boston Celtics,New York Knicks,Boston Celtics,16,10,26,60930000.0,1972
+Boston Celtics,Boston Celtics,Cleveland Cavaliers,17,10,27,61016400.0,1972
+Boston Celtics,Milwaukee Bucks,Boston Celtics,17,11,28,61189200.0,1972
+Boston Celtics,Boston Celtics,Chicago Bulls,17,12,29,61275600.0,1972
+Boston Celtics,Cincinnati Royals,Boston Celtics,18,12,30,61362000.0,1972
+Boston Celtics,Chicago Bulls,Boston Celtics,19,12,31,61534800.0,1972
+Boston Celtics,Boston Celtics,Seattle Supersonics,20,12,32,61621200.0,1972
+Boston Celtics,Cleveland Cavaliers,Boston Celtics,21,12,33,61794000.0,1972
+Boston Celtics,Boston Celtics,Buffalo Braves,22,12,34,61880400.0,1972
+Boston Celtics,Boston Celtics,Milwaukee Bucks,23,12,35,62226000.0,1972
+Boston Celtics,Cincinnati Royals,Boston Celtics,24,12,36,62485200.0,1972
+Boston Celtics,Boston Celtics,Golden State Warriors,25,12,37,62658000.0,1972
+Boston Celtics,Philadelphia 76ers,Boston Celtics,26,12,38,62744400.0,1972
+Boston Celtics,Boston Celtics,Philadelphia 76ers,27,12,39,63003600.0,1972
+Boston Celtics,Phoenix Suns,Boston Celtics,27,13,40,63090000.0,1972
+Boston Celtics,Los Angeles Lakers,Boston Celtics,27,14,41,63176400.0,1972
+Boston Celtics,Houston Rockets,Boston Celtics,28,14,42,63435600.0,1972
+Boston Celtics,Portland Trail Blazers,Boston Celtics,29,14,43,63608400.0,1972
+Boston Celtics,Golden State Warriors,Boston Celtics,29,15,44,63694800.0,1972
+Boston Celtics,Seattle Supersonics,Boston Celtics,29,16,45,63781200.0,1972
+Boston Celtics,Boston Celtics,Chicago Bulls,30,16,46,64040400.0,1972
+Boston Celtics,Boston Celtics,Detroit Pistons,31,16,47,64213200.0,1972
+Boston Celtics,Atlanta Hawks,Boston Celtics,32,16,48,64299600.0,1972
+Boston Celtics,Boston Celtics,Houston Rockets,33,16,49,64818000.0,1972
+Boston Celtics,Boston Celtics,Portland Trail Blazers,34,16,50,64990800.0,1972
+Boston Celtics,New York Knicks,Boston Celtics,34,17,51,65163600.0,1972
+Boston Celtics,Boston Celtics,Cleveland Cavaliers,34,18,52,65250000.0,1972
+Boston Celtics,Boston Celtics,New York Knicks,35,18,53,65422800.0,1972
+Boston Celtics,Detroit Pistons,Boston Celtics,36,18,54,65509200.0,1972
+Boston Celtics,Boston Celtics,Philadelphia 76ers,37,18,55,65595600.0,1972
+Boston Celtics,Baltimore Bullets,Boston Celtics,38,18,56,65768400.0,1972
+Boston Celtics,Boston Celtics,Chicago Bulls,39,18,57,65854800.0,1972
+Boston Celtics,Boston Celtics,Cincinnati Royals,40,18,58,66027600.0,1972
+Boston Celtics,Boston Celtics,Seattle Supersonics,41,18,59,66200400.0,1972
+Boston Celtics,Boston Celtics,Buffalo Braves,42,18,60,66459600.0,1972
+Boston Celtics,Boston Celtics,Los Angeles Lakers,43,18,61,66632400.0,1972
+Boston Celtics,Boston Celtics,Milwaukee Bucks,43,19,62,66805200.0,1972
+Boston Celtics,Portland Trail Blazers,Boston Celtics,44,19,63,66978000.0,1972
+Boston Celtics,Seattle Supersonics,Boston Celtics,44,20,64,67064400.0,1972
+Boston Celtics,Phoenix Suns,Boston Celtics,44,21,65,67237200.0,1972
+Boston Celtics,Golden State Warriors,Boston Celtics,44,22,66,67323600.0,1972
+Boston Celtics,Los Angeles Lakers,Boston Celtics,44,23,67,67410000.0,1972
+Boston Celtics,Boston Celtics,Phoenix Suns,45,23,68,67582800.0,1972
+Boston Celtics,Cleveland Cavaliers,Boston Celtics,46,23,69,67669200.0,1972
+Boston Celtics,Buffalo Braves,Boston Celtics,47,23,70,67842000.0,1972
+Boston Celtics,Boston Celtics,Cleveland Cavaliers,48,23,71,68274000.0,1972
+Boston Celtics,Detroit Pistons,Boston Celtics,49,23,72,68446800.0,1972
+Boston Celtics,Boston Celtics,Cincinnati Royals,49,24,73,68619600.0,1972
+Boston Celtics,Milwaukee Bucks,Boston Celtics,49,25,74,68706000.0,1972
+Boston Celtics,Boston Celtics,New York Knicks,50,25,75,69224400.0,1972
+Boston Celtics,Boston Celtics,Golden State Warriors,51,25,76,69397200.0,1972
+Boston Celtics,Philadelphia 76ers,Boston Celtics,52,25,77,69483600.0,1972
+Boston Celtics,Boston Celtics,Philadelphia 76ers,53,25,78,69656400.0,1972
+Boston Celtics,Boston Celtics,Baltimore Bullets,53,26,79,69829200.0,1972
+Boston Celtics,Boston Celtics,Philadelphia 76ers,54,26,80,70088400.0,1972
+Boston Celtics,Buffalo Braves,Boston Celtics,55,26,81,70347600.0,1972
+Boston Celtics,Boston Celtics,Detroit Pistons,56,26,82,70434000.0,1972
+Buffalo Braves,Buffalo Braves,Seattle Supersonics,0,1,1,56088000.0,1972
+Buffalo Braves,Cleveland Cavaliers,Buffalo Braves,1,1,2,56347200.0,1972
+Buffalo Braves,Buffalo Braves,Cleveland Cavaliers,1,2,3,56433600.0,1972
+Buffalo Braves,Buffalo Braves,Los Angeles Lakers,1,3,4,56692800.0,1972
+Buffalo Braves,Milwaukee Bucks,Buffalo Braves,1,4,5,56952000.0,1972
+Buffalo Braves,Buffalo Braves,Boston Celtics,1,5,6,57038400.0,1972
+Buffalo Braves,Golden State Warriors,Buffalo Braves,2,5,7,57297600.0,1972
+Buffalo Braves,Seattle Supersonics,Buffalo Braves,2,6,8,57470400.0,1972
+Buffalo Braves,Portland Trail Blazers,Buffalo Braves,3,6,9,57556800.0,1972
+Buffalo Braves,Houston Rockets,Buffalo Braves,3,7,10,57729600.0,1972
+Buffalo Braves,Buffalo Braves,Phoenix Suns,3,8,11,57992400.0,1972
+Buffalo Braves,Atlanta Hawks,Buffalo Braves,4,8,12,58165200.0,1972
+Buffalo Braves,Buffalo Braves,Chicago Bulls,5,8,13,58251600.0,1972
+Buffalo Braves,Buffalo Braves,Portland Trail Blazers,6,8,14,58510800.0,1972
+Buffalo Braves,Buffalo Braves,Milwaukee Bucks,6,9,15,58856400.0,1972
+Buffalo Braves,Buffalo Braves,Cincinnati Royals,7,9,16,59115600.0,1972
+Buffalo Braves,Baltimore Bullets,Buffalo Braves,7,10,17,59374800.0,1972
+Buffalo Braves,Buffalo Braves,Detroit Pistons,7,11,18,59461200.0,1972
+Buffalo Braves,Buffalo Braves,Atlanta Hawks,8,11,19,59720400.0,1972
+Buffalo Braves,Boston Celtics,Buffalo Braves,8,12,20,59806800.0,1972
+Buffalo Braves,Buffalo Braves,Golden State Warriors,8,13,21,60066000.0,1972
+Buffalo Braves,Buffalo Braves,Houston Rockets,8,14,22,60325200.0,1972
+Buffalo Braves,Baltimore Bullets,Buffalo Braves,9,14,23,60498000.0,1972
+Buffalo Braves,Buffalo Braves,Cleveland Cavaliers,10,14,24,60584400.0,1972
+Buffalo Braves,New York Knicks,Buffalo Braves,10,15,25,60670800.0,1972
+Buffalo Braves,Buffalo Braves,Cincinnati Royals,11,15,26,60930000.0,1972
+Buffalo Braves,Buffalo Braves,Portland Trail Blazers,11,16,27,61189200.0,1972
+Buffalo Braves,Buffalo Braves,Philadelphia 76ers,12,16,28,61534800.0,1972
+Buffalo Braves,Buffalo Braves,Milwaukee Bucks,12,17,29,61621200.0,1972
+Buffalo Braves,Buffalo Braves,New York Knicks,12,18,30,61794000.0,1972
+Buffalo Braves,Boston Celtics,Buffalo Braves,12,19,31,61880400.0,1972
+Buffalo Braves,Buffalo Braves,Los Angeles Lakers,12,20,32,62139600.0,1972
+Buffalo Braves,Atlanta Hawks,Buffalo Braves,12,21,33,62485200.0,1972
+Buffalo Braves,Buffalo Braves,Philadelphia 76ers,12,22,34,62658000.0,1972
+Buffalo Braves,Los Angeles Lakers,Buffalo Braves,12,23,35,62744400.0,1972
+Buffalo Braves,Phoenix Suns,Buffalo Braves,12,24,36,62917200.0,1972
+Buffalo Braves,Seattle Supersonics,Buffalo Braves,12,25,37,63090000.0,1972
+Buffalo Braves,Portland Trail Blazers,Buffalo Braves,12,26,38,63176400.0,1972
+Buffalo Braves,Golden State Warriors,Buffalo Braves,12,27,39,63349200.0,1972
+Buffalo Braves,Buffalo Braves,Phoenix Suns,12,28,40,63608400.0,1972
+Buffalo Braves,Cincinnati Royals,Buffalo Braves,13,28,41,63694800.0,1972
+Buffalo Braves,Detroit Pistons,Buffalo Braves,13,29,42,63781200.0,1972
+Buffalo Braves,Buffalo Braves,Cincinnati Royals,13,30,43,63954000.0,1972
+Buffalo Braves,Philadelphia 76ers,Buffalo Braves,14,30,44,64040400.0,1972
+Buffalo Braves,Buffalo Braves,Portland Trail Blazers,14,31,45,64213200.0,1972
+Buffalo Braves,Buffalo Braves,Chicago Bulls,14,32,46,64818000.0,1972
+Buffalo Braves,Buffalo Braves,Atlanta Hawks,14,33,47,65163600.0,1972
+Buffalo Braves,Baltimore Bullets,Buffalo Braves,14,34,48,65250000.0,1972
+Buffalo Braves,Buffalo Braves,Seattle Supersonics,14,35,49,65422800.0,1972
+Buffalo Braves,Cleveland Cavaliers,Buffalo Braves,15,35,50,65595600.0,1972
+Buffalo Braves,Buffalo Braves,Cleveland Cavaliers,15,36,51,65768400.0,1972
+Buffalo Braves,Philadelphia 76ers,Buffalo Braves,15,37,52,65854800.0,1972
+Buffalo Braves,Buffalo Braves,New York Knicks,15,38,53,66027600.0,1972
+Buffalo Braves,Chicago Bulls,Buffalo Braves,15,39,54,66114000.0,1972
+Buffalo Braves,Cleveland Cavaliers,Buffalo Braves,16,39,55,66200400.0,1972
+Buffalo Braves,Buffalo Braves,Milwaukee Bucks,16,40,56,66373200.0,1972
+Buffalo Braves,Boston Celtics,Buffalo Braves,16,41,57,66459600.0,1972
+Buffalo Braves,Buffalo Braves,Detroit Pistons,17,41,58,66632400.0,1972
+Buffalo Braves,Detroit Pistons,Buffalo Braves,17,42,59,66718800.0,1972
+Buffalo Braves,Atlanta Hawks,Buffalo Braves,17,43,60,66805200.0,1972
+Buffalo Braves,Buffalo Braves,Golden State Warriors,17,44,61,66978000.0,1972
+Buffalo Braves,Buffalo Braves,Houston Rockets,17,45,62,67237200.0,1972
+Buffalo Braves,New York Knicks,Buffalo Braves,17,46,63,67323600.0,1972
+Buffalo Braves,Buffalo Braves,Baltimore Bullets,18,46,64,67582800.0,1972
+Buffalo Braves,Buffalo Braves,Cincinnati Royals,18,47,65,67755600.0,1972
+Buffalo Braves,Buffalo Braves,Boston Celtics,18,48,66,67842000.0,1972
+Buffalo Braves,Buffalo Braves,Atlanta Hawks,18,49,67,68187600.0,1972
+Buffalo Braves,Philadelphia 76ers,Buffalo Braves,18,50,68,68274000.0,1972
+Buffalo Braves,Buffalo Braves,New York Knicks,19,50,69,68446800.0,1972
+Buffalo Braves,Phoenix Suns,Buffalo Braves,19,51,70,68619600.0,1972
+Buffalo Braves,Portland Trail Blazers,Buffalo Braves,19,52,71,68792400.0,1972
+Buffalo Braves,Houston Rockets,Buffalo Braves,19,53,72,69138000.0,1972
+Buffalo Braves,Los Angeles Lakers,Buffalo Braves,19,54,73,69224400.0,1972
+Buffalo Braves,Buffalo Braves,Philadelphia 76ers,20,54,74,69397200.0,1972
+Buffalo Braves,Chicago Bulls,Buffalo Braves,20,55,75,69656400.0,1972
+Buffalo Braves,Buffalo Braves,Detroit Pistons,21,55,76,69742800.0,1972
+Buffalo Braves,Cincinnati Royals,Buffalo Braves,21,56,77,69829200.0,1972
+Buffalo Braves,Buffalo Braves,Baltimore Bullets,22,56,78,70002000.0,1972
+Buffalo Braves,New York Knicks,Buffalo Braves,22,57,79,70088400.0,1972
+Buffalo Braves,Detroit Pistons,Buffalo Braves,22,58,80,70261200.0,1972
+Buffalo Braves,Buffalo Braves,Boston Celtics,22,59,81,70347600.0,1972
+Buffalo Braves,Baltimore Bullets,Buffalo Braves,22,60,82,70434000.0,1972
+Chicago Bulls,Chicago Bulls,Philadelphia 76ers,0,1,1,56088000.0,1972
+Chicago Bulls,Chicago Bulls,Baltimore Bullets,1,1,2,56347200.0,1972
+Chicago Bulls,Chicago Bulls,Houston Rockets,2,1,3,56779200.0,1972
+Chicago Bulls,Los Angeles Lakers,Chicago Bulls,3,1,4,56952000.0,1972
+Chicago Bulls,Phoenix Suns,Chicago Bulls,4,1,5,57124800.0,1972
+Chicago Bulls,Portland Trail Blazers,Chicago Bulls,5,1,6,57297600.0,1972
+Chicago Bulls,Chicago Bulls,Golden State Warriors,5,2,7,57556800.0,1972
+Chicago Bulls,Chicago Bulls,Phoenix Suns,6,2,8,57906000.0,1972
+Chicago Bulls,Atlanta Hawks,Chicago Bulls,7,2,9,57992400.0,1972
+Chicago Bulls,Chicago Bulls,Milwaukee Bucks,7,3,10,58165200.0,1972
+Chicago Bulls,Buffalo Braves,Chicago Bulls,7,4,11,58251600.0,1972
+Chicago Bulls,Chicago Bulls,Los Angeles Lakers,7,5,12,58510800.0,1972
+Chicago Bulls,Baltimore Bullets,Chicago Bulls,8,5,13,58597200.0,1972
+Chicago Bulls,Chicago Bulls,Houston Rockets,9,5,14,58856400.0,1972
+Chicago Bulls,Chicago Bulls,Seattle Supersonics,10,5,15,59115600.0,1972
+Chicago Bulls,Philadelphia 76ers,Chicago Bulls,11,5,16,59374800.0,1972
+Chicago Bulls,Chicago Bulls,Boston Celtics,12,5,17,59461200.0,1972
+Chicago Bulls,Chicago Bulls,Portland Trail Blazers,13,5,18,59720400.0,1972
+Chicago Bulls,Chicago Bulls,Golden State Warriors,14,5,19,59979600.0,1972
+Chicago Bulls,New York Knicks,Chicago Bulls,14,6,20,60066000.0,1972
+Chicago Bulls,Chicago Bulls,Atlanta Hawks,15,6,21,60325200.0,1972
+Chicago Bulls,Cincinnati Royals,Chicago Bulls,16,6,22,60411600.0,1972
+Chicago Bulls,Chicago Bulls,New York Knicks,17,6,23,60584400.0,1972
+Chicago Bulls,Milwaukee Bucks,Chicago Bulls,17,7,24,60670800.0,1972
+Chicago Bulls,Chicago Bulls,Cleveland Cavaliers,18,7,25,60930000.0,1972
+Chicago Bulls,Detroit Pistons,Chicago Bulls,18,8,26,61102800.0,1972
+Chicago Bulls,Chicago Bulls,Baltimore Bullets,19,8,27,61189200.0,1972
+Chicago Bulls,Boston Celtics,Chicago Bulls,20,8,28,61275600.0,1972
+Chicago Bulls,Chicago Bulls,Boston Celtics,20,9,29,61534800.0,1972
+Chicago Bulls,Chicago Bulls,Houston Rockets,20,10,30,61794000.0,1972
+Chicago Bulls,Cleveland Cavaliers,Chicago Bulls,21,10,31,61966800.0,1972
+Chicago Bulls,Chicago Bulls,Detroit Pistons,22,10,32,62139600.0,1972
+Chicago Bulls,Phoenix Suns,Chicago Bulls,23,10,33,62312400.0,1972
+Chicago Bulls,Portland Trail Blazers,Chicago Bulls,24,10,34,62485200.0,1972
+Chicago Bulls,Seattle Supersonics,Chicago Bulls,25,10,35,62571600.0,1972
+Chicago Bulls,Chicago Bulls,Milwaukee Bucks,26,10,36,62744400.0,1972
+Chicago Bulls,Chicago Bulls,Portland Trail Blazers,27,10,37,62917200.0,1972
+Chicago Bulls,Chicago Bulls,Phoenix Suns,27,11,38,63349200.0,1972
+Chicago Bulls,Philadelphia 76ers,Chicago Bulls,28,11,39,63435600.0,1972
+Chicago Bulls,Chicago Bulls,Baltimore Bullets,28,12,40,63608400.0,1972
+Chicago Bulls,New York Knicks,Chicago Bulls,29,12,41,63694800.0,1972
+Chicago Bulls,Chicago Bulls,Cincinnati Royals,30,12,42,63781200.0,1972
+Chicago Bulls,Chicago Bulls,New York Knicks,31,12,43,63954000.0,1972
+Chicago Bulls,Boston Celtics,Chicago Bulls,31,13,44,64040400.0,1972
+Chicago Bulls,Milwaukee Bucks,Chicago Bulls,31,14,45,64213200.0,1972
+Chicago Bulls,Chicago Bulls,Portland Trail Blazers,32,14,46,64299600.0,1972
+Chicago Bulls,Buffalo Braves,Chicago Bulls,33,14,47,64818000.0,1972
+Chicago Bulls,Chicago Bulls,Houston Rockets,34,14,48,64904400.0,1972
+Chicago Bulls,Chicago Bulls,Golden State Warriors,35,14,49,65077200.0,1972
+Chicago Bulls,Chicago Bulls,Houston Rockets,36,14,50,65250000.0,1972
+Chicago Bulls,Golden State Warriors,Chicago Bulls,36,15,51,65336400.0,1972
+Chicago Bulls,Phoenix Suns,Chicago Bulls,37,15,52,65422800.0,1972
+Chicago Bulls,Chicago Bulls,Detroit Pistons,38,15,53,65595600.0,1972
+Chicago Bulls,Chicago Bulls,Seattle Supersonics,38,16,54,65768400.0,1972
+Chicago Bulls,Boston Celtics,Chicago Bulls,38,17,55,65854800.0,1972
+Chicago Bulls,Baltimore Bullets,Chicago Bulls,39,17,56,66027600.0,1972
+Chicago Bulls,Chicago Bulls,Buffalo Braves,40,17,57,66114000.0,1972
+Chicago Bulls,Chicago Bulls,Cincinnati Royals,41,17,58,66200400.0,1972
+Chicago Bulls,Chicago Bulls,Cleveland Cavaliers,42,17,59,66373200.0,1972
+Chicago Bulls,Chicago Bulls,Atlanta Hawks,43,17,60,66632400.0,1972
+Chicago Bulls,Atlanta Hawks,Chicago Bulls,44,17,61,66718800.0,1972
+Chicago Bulls,Chicago Bulls,Golden State Warriors,44,18,62,66805200.0,1972
+Chicago Bulls,Chicago Bulls,New York Knicks,44,19,63,67150800.0,1972
+Chicago Bulls,Detroit Pistons,Chicago Bulls,45,19,64,67237200.0,1972
+Chicago Bulls,Chicago Bulls,Milwaukee Bucks,46,19,65,67323600.0,1972
+Chicago Bulls,Milwaukee Bucks,Chicago Bulls,46,20,66,67410000.0,1972
+Chicago Bulls,Chicago Bulls,Philadelphia 76ers,47,20,67,67582800.0,1972
+Chicago Bulls,Chicago Bulls,Phoenix Suns,48,20,68,67842000.0,1972
+Chicago Bulls,Golden State Warriors,Chicago Bulls,49,20,69,67928400.0,1972
+Chicago Bulls,Los Angeles Lakers,Chicago Bulls,49,21,70,68014800.0,1972
+Chicago Bulls,Portland Trail Blazers,Chicago Bulls,50,21,71,68187600.0,1972
+Chicago Bulls,Seattle Supersonics,Chicago Bulls,50,22,72,68446800.0,1972
+Chicago Bulls,Houston Rockets,Chicago Bulls,51,22,73,68619600.0,1972
+Chicago Bulls,Atlanta Hawks,Chicago Bulls,52,22,74,68878800.0,1972
+Chicago Bulls,Cincinnati Royals,Chicago Bulls,52,23,75,69051600.0,1972
+Chicago Bulls,Chicago Bulls,Seattle Supersonics,52,24,76,69397200.0,1972
+Chicago Bulls,Chicago Bulls,Buffalo Braves,53,24,77,69656400.0,1972
+Chicago Bulls,Cleveland Cavaliers,Chicago Bulls,54,24,78,69742800.0,1972
+Chicago Bulls,Detroit Pistons,Chicago Bulls,55,24,79,69829200.0,1972
+Chicago Bulls,Chicago Bulls,Los Angeles Lakers,55,25,80,70002000.0,1972
+Chicago Bulls,Philadelphia 76ers,Chicago Bulls,56,25,81,70261200.0,1972
+Chicago Bulls,Chicago Bulls,Detroit Pistons,57,25,82,70347600.0,1972
+Cincinnati Royals,Cincinnati Royals,Atlanta Hawks,1,0,1,56088000.0,1972
+Cincinnati Royals,Cincinnati Royals,Seattle Supersonics,1,1,2,56692800.0,1972
+Cincinnati Royals,Portland Trail Blazers,Cincinnati Royals,1,2,3,57038400.0,1972
+Cincinnati Royals,Seattle Supersonics,Cincinnati Royals,1,3,4,57124800.0,1972
+Cincinnati Royals,Phoenix Suns,Cincinnati Royals,1,4,5,57297600.0,1972
+Cincinnati Royals,Los Angeles Lakers,Cincinnati Royals,1,5,6,57556800.0,1972
+Cincinnati Royals,Golden State Warriors,Cincinnati Royals,1,6,7,57643200.0,1972
+Cincinnati Royals,Cincinnati Royals,Philadelphia 76ers,2,6,8,57992400.0,1972
+Cincinnati Royals,Cincinnati Royals,Phoenix Suns,3,6,9,58251600.0,1972
+Cincinnati Royals,Boston Celtics,Cincinnati Royals,3,7,10,58424400.0,1972
+Cincinnati Royals,Cincinnati Royals,New York Knicks,4,7,11,58597200.0,1972
+Cincinnati Royals,Cincinnati Royals,Golden State Warriors,5,7,12,58856400.0,1972
+Cincinnati Royals,Buffalo Braves,Cincinnati Royals,5,8,13,59115600.0,1972
+Cincinnati Royals,Cincinnati Royals,Baltimore Bullets,5,9,14,59202000.0,1972
+Cincinnati Royals,Boston Celtics,Cincinnati Royals,6,9,15,59374800.0,1972
+Cincinnati Royals,New York Knicks,Cincinnati Royals,6,10,16,59720400.0,1972
+Cincinnati Royals,Cincinnati Royals,Portland Trail Blazers,7,10,17,59806800.0,1972
+Cincinnati Royals,Cleveland Cavaliers,Cincinnati Royals,7,11,18,59979600.0,1972
+Cincinnati Royals,Cincinnati Royals,Milwaukee Bucks,7,12,19,60066000.0,1972
+Cincinnati Royals,Baltimore Bullets,Cincinnati Royals,8,12,20,60325200.0,1972
+Cincinnati Royals,Cincinnati Royals,Chicago Bulls,8,13,21,60411600.0,1972
+Cincinnati Royals,Milwaukee Bucks,Cincinnati Royals,8,14,22,60584400.0,1972
+Cincinnati Royals,Cincinnati Royals,Seattle Supersonics,8,15,23,60670800.0,1972
+Cincinnati Royals,Buffalo Braves,Cincinnati Royals,8,16,24,60930000.0,1972
+Cincinnati Royals,Cincinnati Royals,Philadelphia 76ers,8,17,25,61016400.0,1972
+Cincinnati Royals,Philadelphia 76ers,Cincinnati Royals,9,17,26,61189200.0,1972
+Cincinnati Royals,Cincinnati Royals,Cleveland Cavaliers,10,17,27,61275600.0,1972
+Cincinnati Royals,Cincinnati Royals,Boston Celtics,10,18,28,61362000.0,1972
+Cincinnati Royals,Cincinnati Royals,Phoenix Suns,10,19,29,61621200.0,1972
+Cincinnati Royals,Detroit Pistons,Cincinnati Royals,10,20,30,61707600.0,1972
+Cincinnati Royals,Cincinnati Royals,Houston Rockets,10,21,31,61880400.0,1972
+Cincinnati Royals,Atlanta Hawks,Cincinnati Royals,10,22,32,61966800.0,1972
+Cincinnati Royals,Cincinnati Royals,Atlanta Hawks,10,23,33,62226000.0,1972
+Cincinnati Royals,Cincinnati Royals,Boston Celtics,10,24,34,62485200.0,1972
+Cincinnati Royals,Baltimore Bullets,Cincinnati Royals,10,25,35,62744400.0,1972
+Cincinnati Royals,Cincinnati Royals,Golden State Warriors,10,26,36,62830800.0,1972
+Cincinnati Royals,New York Knicks,Cincinnati Royals,10,27,37,63090000.0,1972
+Cincinnati Royals,Cincinnati Royals,Milwaukee Bucks,10,28,38,63435600.0,1972
+Cincinnati Royals,Detroit Pistons,Cincinnati Royals,10,29,39,63608400.0,1972
+Cincinnati Royals,Cincinnati Royals,Buffalo Braves,10,30,40,63694800.0,1972
+Cincinnati Royals,Chicago Bulls,Cincinnati Royals,10,31,41,63781200.0,1972
+Cincinnati Royals,Buffalo Braves,Cincinnati Royals,11,31,42,63954000.0,1972
+Cincinnati Royals,Cincinnati Royals,Los Angeles Lakers,12,31,43,64040400.0,1972
+Cincinnati Royals,Cincinnati Royals,Atlanta Hawks,13,31,44,64213200.0,1972
+Cincinnati Royals,Cincinnati Royals,Cleveland Cavaliers,14,31,45,64386000.0,1972
+Cincinnati Royals,Cincinnati Royals,Houston Rockets,14,32,46,64731600.0,1972
+Cincinnati Royals,Cincinnati Royals,Cleveland Cavaliers,15,32,47,64904400.0,1972
+Cincinnati Royals,Baltimore Bullets,Cincinnati Royals,15,33,48,64990800.0,1972
+Cincinnati Royals,Philadelphia 76ers,Cincinnati Royals,15,34,49,65250000.0,1972
+Cincinnati Royals,Cincinnati Royals,Baltimore Bullets,15,35,50,65422800.0,1972
+Cincinnati Royals,Cleveland Cavaliers,Cincinnati Royals,16,35,51,65509200.0,1972
+Cincinnati Royals,Cincinnati Royals,New York Knicks,17,35,52,65854800.0,1972
+Cincinnati Royals,Boston Celtics,Cincinnati Royals,17,36,53,66027600.0,1972
+Cincinnati Royals,Cincinnati Royals,Detroit Pistons,18,36,54,66114000.0,1972
+Cincinnati Royals,Chicago Bulls,Cincinnati Royals,18,37,55,66200400.0,1972
+Cincinnati Royals,Portland Trail Blazers,Cincinnati Royals,18,38,56,66373200.0,1972
+Cincinnati Royals,Seattle Supersonics,Cincinnati Royals,18,39,57,66546000.0,1972
+Cincinnati Royals,Phoenix Suns,Cincinnati Royals,18,40,58,66718800.0,1972
+Cincinnati Royals,Houston Rockets,Cincinnati Royals,18,41,59,66805200.0,1972
+Cincinnati Royals,Los Angeles Lakers,Cincinnati Royals,18,42,60,66978000.0,1972
+Cincinnati Royals,Cincinnati Royals,Milwaukee Bucks,18,43,61,67150800.0,1972
+Cincinnati Royals,Cleveland Cavaliers,Cincinnati Royals,18,44,62,67237200.0,1972
+Cincinnati Royals,Cincinnati Royals,Cleveland Cavaliers,19,44,63,67323600.0,1972
+Cincinnati Royals,Atlanta Hawks,Cincinnati Royals,20,44,64,67410000.0,1972
+Cincinnati Royals,Cincinnati Royals,Portland Trail Blazers,21,44,65,67669200.0,1972
+Cincinnati Royals,Buffalo Braves,Cincinnati Royals,22,44,66,67755600.0,1972
+Cincinnati Royals,Los Angeles Lakers,Cincinnati Royals,22,45,67,67842000.0,1972
+Cincinnati Royals,Seattle Supersonics,Cincinnati Royals,22,46,68,67928400.0,1972
+Cincinnati Royals,Golden State Warriors,Cincinnati Royals,22,47,69,68187600.0,1972
+Cincinnati Royals,Cincinnati Royals,Houston Rockets,22,48,70,68274000.0,1972
+Cincinnati Royals,Boston Celtics,Cincinnati Royals,23,48,71,68619600.0,1972
+Cincinnati Royals,Cincinnati Royals,Phoenix Suns,24,48,72,68878800.0,1972
+Cincinnati Royals,Cincinnati Royals,Chicago Bulls,25,48,73,69051600.0,1972
+Cincinnati Royals,Cincinnati Royals,Golden State Warriors,26,48,74,69224400.0,1972
+Cincinnati Royals,Cincinnati Royals,Los Angeles Lakers,26,49,75,69483600.0,1972
+Cincinnati Royals,Atlanta Hawks,Cincinnati Royals,26,50,76,69742800.0,1972
+Cincinnati Royals,Cincinnati Royals,Buffalo Braves,27,50,77,69829200.0,1972
+Cincinnati Royals,Detroit Pistons,Cincinnati Royals,27,51,78,70002000.0,1972
+Cincinnati Royals,Cincinnati Royals,Detroit Pistons,28,51,79,70088400.0,1972
+Cincinnati Royals,Cincinnati Royals,Baltimore Bullets,29,51,80,70261200.0,1972
+Cincinnati Royals,Milwaukee Bucks,Cincinnati Royals,29,52,81,70347600.0,1972
+Cincinnati Royals,Cleveland Cavaliers,Cincinnati Royals,30,52,82,70434000.0,1972
+Cleveland Cavaliers,Cleveland Cavaliers,Buffalo Braves,0,1,1,56347200.0,1972
+Cleveland Cavaliers,Buffalo Braves,Cleveland Cavaliers,1,1,2,56433600.0,1972
+Cleveland Cavaliers,Cleveland Cavaliers,New York Knicks,1,2,3,56520000.0,1972
+Cleveland Cavaliers,Milwaukee Bucks,Cleveland Cavaliers,1,3,4,56692800.0,1972
+Cleveland Cavaliers,Cleveland Cavaliers,Golden State Warriors,1,4,5,56779200.0,1972
+Cleveland Cavaliers,Baltimore Bullets,Cleveland Cavaliers,2,4,6,57038400.0,1972
+Cleveland Cavaliers,Cleveland Cavaliers,Philadelphia 76ers,2,5,7,57124800.0,1972
+Cleveland Cavaliers,Philadelphia 76ers,Cleveland Cavaliers,2,6,8,57384000.0,1972
+Cleveland Cavaliers,Cleveland Cavaliers,Atlanta Hawks,2,7,9,57556800.0,1972
+Cleveland Cavaliers,Cleveland Cavaliers,Milwaukee Bucks,2,8,10,57729600.0,1972
+Cleveland Cavaliers,Cleveland Cavaliers,Phoenix Suns,2,9,11,58165200.0,1972
+Cleveland Cavaliers,Cleveland Cavaliers,Portland Trail Blazers,3,9,12,58338000.0,1972
+Cleveland Cavaliers,Seattle Supersonics,Cleveland Cavaliers,3,10,13,58683600.0,1972
+Cleveland Cavaliers,Portland Trail Blazers,Cleveland Cavaliers,4,10,14,58770000.0,1972
+Cleveland Cavaliers,Phoenix Suns,Cleveland Cavaliers,4,11,15,58942800.0,1972
+Cleveland Cavaliers,Los Angeles Lakers,Cleveland Cavaliers,4,12,16,59115600.0,1972
+Cleveland Cavaliers,Portland Trail Blazers,Cleveland Cavaliers,4,13,17,59374800.0,1972
+Cleveland Cavaliers,Cleveland Cavaliers,Boston Celtics,4,14,18,59547600.0,1972
+Cleveland Cavaliers,Cleveland Cavaliers,Baltimore Bullets,5,14,19,59720400.0,1972
+Cleveland Cavaliers,Cleveland Cavaliers,Cincinnati Royals,6,14,20,59979600.0,1972
+Cleveland Cavaliers,Atlanta Hawks,Cleveland Cavaliers,7,14,21,60066000.0,1972
+Cleveland Cavaliers,Cleveland Cavaliers,Philadelphia 76ers,8,14,22,60152400.0,1972
+Cleveland Cavaliers,Cleveland Cavaliers,Houston Rockets,9,14,23,60411600.0,1972
+Cleveland Cavaliers,Buffalo Braves,Cleveland Cavaliers,9,15,24,60584400.0,1972
+Cleveland Cavaliers,Cleveland Cavaliers,Seattle Supersonics,9,16,25,60757200.0,1972
+Cleveland Cavaliers,Chicago Bulls,Cleveland Cavaliers,9,17,26,60930000.0,1972
+Cleveland Cavaliers,Boston Celtics,Cleveland Cavaliers,9,18,27,61016400.0,1972
+Cleveland Cavaliers,Cleveland Cavaliers,Detroit Pistons,10,18,28,61189200.0,1972
+Cleveland Cavaliers,Cincinnati Royals,Cleveland Cavaliers,10,19,29,61275600.0,1972
+Cleveland Cavaliers,Cleveland Cavaliers,New York Knicks,10,20,30,61362000.0,1972
+Cleveland Cavaliers,Baltimore Bullets,Cleveland Cavaliers,11,20,31,61534800.0,1972
+Cleveland Cavaliers,Cleveland Cavaliers,Boston Celtics,11,21,32,61794000.0,1972
+Cleveland Cavaliers,New York Knicks,Cleveland Cavaliers,11,22,33,61880400.0,1972
+Cleveland Cavaliers,Cleveland Cavaliers,Chicago Bulls,11,23,34,61966800.0,1972
+Cleveland Cavaliers,Detroit Pistons,Cleveland Cavaliers,11,24,35,62226000.0,1972
+Cleveland Cavaliers,Cleveland Cavaliers,Atlanta Hawks,12,24,36,62312400.0,1972
+Cleveland Cavaliers,Cleveland Cavaliers,Baltimore Bullets,13,24,37,62571600.0,1972
+Cleveland Cavaliers,Cleveland Cavaliers,Portland Trail Blazers,14,24,38,62744400.0,1972
+Cleveland Cavaliers,Cleveland Cavaliers,Philadelphia 76ers,15,24,39,62830800.0,1972
+Cleveland Cavaliers,Cleveland Cavaliers,Philadelphia 76ers,15,25,40,63176400.0,1972
+Cleveland Cavaliers,Cleveland Cavaliers,Los Angeles Lakers,15,26,41,63435600.0,1972
+Cleveland Cavaliers,Seattle Supersonics,Cleveland Cavaliers,15,27,42,63608400.0,1972
+Cleveland Cavaliers,Portland Trail Blazers,Cleveland Cavaliers,15,28,43,63694800.0,1972
+Cleveland Cavaliers,Golden State Warriors,Cleveland Cavaliers,15,29,44,63954000.0,1972
+Cleveland Cavaliers,Phoenix Suns,Cleveland Cavaliers,15,30,45,64213200.0,1972
+Cleveland Cavaliers,Houston Rockets,Cleveland Cavaliers,15,31,46,64299600.0,1972
+Cleveland Cavaliers,Cincinnati Royals,Cleveland Cavaliers,15,32,47,64386000.0,1972
+Cleveland Cavaliers,Milwaukee Bucks,Cleveland Cavaliers,15,33,48,64818000.0,1972
+Cleveland Cavaliers,Cincinnati Royals,Cleveland Cavaliers,15,34,49,64904400.0,1972
+Cleveland Cavaliers,Cleveland Cavaliers,Golden State Warriors,15,35,50,65163600.0,1972
+Cleveland Cavaliers,Boston Celtics,Cleveland Cavaliers,16,35,51,65250000.0,1972
+Cleveland Cavaliers,Cleveland Cavaliers,Cincinnati Royals,16,36,52,65509200.0,1972
+Cleveland Cavaliers,Cleveland Cavaliers,Buffalo Braves,16,37,53,65595600.0,1972
+Cleveland Cavaliers,Buffalo Braves,Cleveland Cavaliers,17,37,54,65768400.0,1972
+Cleveland Cavaliers,Detroit Pistons,Cleveland Cavaliers,17,38,55,65854800.0,1972
+Cleveland Cavaliers,Cleveland Cavaliers,Seattle Supersonics,17,39,56,66027600.0,1972
+Cleveland Cavaliers,Atlanta Hawks,Cleveland Cavaliers,17,40,57,66114000.0,1972
+Cleveland Cavaliers,Cleveland Cavaliers,Buffalo Braves,17,41,58,66200400.0,1972
+Cleveland Cavaliers,Chicago Bulls,Cleveland Cavaliers,17,42,59,66373200.0,1972
+Cleveland Cavaliers,Cleveland Cavaliers,Milwaukee Bucks,17,43,60,66459600.0,1972
+Cleveland Cavaliers,New York Knicks,Cleveland Cavaliers,17,44,61,66718800.0,1972
+Cleveland Cavaliers,Cleveland Cavaliers,Detroit Pistons,17,45,62,66805200.0,1972
+Cleveland Cavaliers,Philadelphia 76ers,Cleveland Cavaliers,17,46,63,67064400.0,1972
+Cleveland Cavaliers,Cleveland Cavaliers,Cincinnati Royals,18,46,64,67237200.0,1972
+Cleveland Cavaliers,Cincinnati Royals,Cleveland Cavaliers,18,47,65,67323600.0,1972
+Cleveland Cavaliers,Cleveland Cavaliers,New York Knicks,19,47,66,67410000.0,1972
+Cleveland Cavaliers,Cleveland Cavaliers,Boston Celtics,19,48,67,67669200.0,1972
+Cleveland Cavaliers,Cleveland Cavaliers,Portland Trail Blazers,20,48,68,67842000.0,1972
+Cleveland Cavaliers,Cleveland Cavaliers,Phoenix Suns,20,49,69,68014800.0,1972
+Cleveland Cavaliers,Boston Celtics,Cleveland Cavaliers,20,50,70,68274000.0,1972
+Cleveland Cavaliers,Houston Rockets,Cleveland Cavaliers,21,50,71,68533200.0,1972
+Cleveland Cavaliers,Golden State Warriors,Cleveland Cavaliers,21,51,72,68792400.0,1972
+Cleveland Cavaliers,Los Angeles Lakers,Cleveland Cavaliers,21,52,73,69051600.0,1972
+Cleveland Cavaliers,Atlanta Hawks,Cleveland Cavaliers,21,53,74,69224400.0,1972
+Cleveland Cavaliers,Baltimore Bullets,Cleveland Cavaliers,22,53,75,69397200.0,1972
+Cleveland Cavaliers,Cleveland Cavaliers,Baltimore Bullets,22,54,76,69570000.0,1972
+Cleveland Cavaliers,Cleveland Cavaliers,Chicago Bulls,22,55,77,69742800.0,1972
+Cleveland Cavaliers,Cleveland Cavaliers,Atlanta Hawks,22,56,78,69829200.0,1972
+Cleveland Cavaliers,Cleveland Cavaliers,Los Angeles Lakers,23,56,79,70088400.0,1972
+Cleveland Cavaliers,Cleveland Cavaliers,Houston Rockets,23,57,80,70261200.0,1972
+Cleveland Cavaliers,New York Knicks,Cleveland Cavaliers,23,58,81,70347600.0,1972
+Cleveland Cavaliers,Cleveland Cavaliers,Cincinnati Royals,23,59,82,70434000.0,1972
+Detroit Pistons,New York Knicks,Detroit Pistons,1,0,1,56088000.0,1972
+Detroit Pistons,Detroit Pistons,Los Angeles Lakers,1,1,2,56347200.0,1972
+Detroit Pistons,Detroit Pistons,Houston Rockets,2,1,3,56520000.0,1972
+Detroit Pistons,Portland Trail Blazers,Detroit Pistons,3,1,4,56692800.0,1972
+Detroit Pistons,Phoenix Suns,Detroit Pistons,4,1,5,56952000.0,1972
+Detroit Pistons,Golden State Warriors,Detroit Pistons,4,2,6,57038400.0,1972
+Detroit Pistons,Detroit Pistons,Houston Rockets,4,3,7,57297600.0,1972
+Detroit Pistons,Baltimore Bullets,Detroit Pistons,4,4,8,57384000.0,1972
+Detroit Pistons,Detroit Pistons,Baltimore Bullets,5,4,9,57556800.0,1972
+Detroit Pistons,Atlanta Hawks,Detroit Pistons,6,4,10,57643200.0,1972
+Detroit Pistons,Boston Celtics,Detroit Pistons,6,5,11,58165200.0,1972
+Detroit Pistons,Milwaukee Bucks,Detroit Pistons,6,6,12,58251600.0,1972
+Detroit Pistons,Detroit Pistons,Portland Trail Blazers,7,6,13,58597200.0,1972
+Detroit Pistons,Philadelphia 76ers,Detroit Pistons,7,7,14,58770000.0,1972
+Detroit Pistons,New York Knicks,Detroit Pistons,7,8,15,58856400.0,1972
+Detroit Pistons,Detroit Pistons,Golden State Warriors,7,9,16,59115600.0,1972
+Detroit Pistons,Detroit Pistons,Phoenix Suns,8,9,17,59288400.0,1972
+Detroit Pistons,Buffalo Braves,Detroit Pistons,9,9,18,59461200.0,1972
+Detroit Pistons,Detroit Pistons,Milwaukee Bucks,9,10,19,59720400.0,1972
+Detroit Pistons,Phoenix Suns,Detroit Pistons,9,11,20,59893200.0,1972
+Detroit Pistons,Los Angeles Lakers,Detroit Pistons,9,12,21,59979600.0,1972
+Detroit Pistons,Seattle Supersonics,Detroit Pistons,9,13,22,60066000.0,1972
+Detroit Pistons,Detroit Pistons,Atlanta Hawks,9,14,23,60411600.0,1972
+Detroit Pistons,Detroit Pistons,Houston Rockets,10,14,24,60584400.0,1972
+Detroit Pistons,Detroit Pistons,Portland Trail Blazers,10,15,25,60930000.0,1972
+Detroit Pistons,Detroit Pistons,Chicago Bulls,11,15,26,61102800.0,1972
+Detroit Pistons,Cleveland Cavaliers,Detroit Pistons,11,16,27,61189200.0,1972
+Detroit Pistons,Detroit Pistons,Philadelphia 76ers,11,17,28,61275600.0,1972
+Detroit Pistons,Detroit Pistons,Seattle Supersonics,11,18,29,61534800.0,1972
+Detroit Pistons,Detroit Pistons,Cincinnati Royals,12,18,30,61707600.0,1972
+Detroit Pistons,Phoenix Suns,Detroit Pistons,12,19,31,61794000.0,1972
+Detroit Pistons,Golden State Warriors,Detroit Pistons,12,20,32,61880400.0,1972
+Detroit Pistons,Portland Trail Blazers,Detroit Pistons,12,21,33,61966800.0,1972
+Detroit Pistons,Chicago Bulls,Detroit Pistons,12,22,34,62139600.0,1972
+Detroit Pistons,Detroit Pistons,Cleveland Cavaliers,13,22,35,62226000.0,1972
+Detroit Pistons,Detroit Pistons,Milwaukee Bucks,14,22,36,62485200.0,1972
+Detroit Pistons,Detroit Pistons,New York Knicks,14,23,37,62744400.0,1972
+Detroit Pistons,Detroit Pistons,Golden State Warriors,14,24,38,62917200.0,1972
+Detroit Pistons,Houston Rockets,Detroit Pistons,15,24,39,63176400.0,1972
+Detroit Pistons,Detroit Pistons,Philadelphia 76ers,15,25,40,63349200.0,1972
+Detroit Pistons,Baltimore Bullets,Detroit Pistons,15,26,41,63435600.0,1972
+Detroit Pistons,Detroit Pistons,Cincinnati Royals,16,26,42,63608400.0,1972
+Detroit Pistons,Milwaukee Bucks,Detroit Pistons,16,27,43,63694800.0,1972
+Detroit Pistons,Detroit Pistons,Buffalo Braves,17,27,44,63781200.0,1972
+Detroit Pistons,Detroit Pistons,Los Angeles Lakers,17,28,45,63954000.0,1972
+Detroit Pistons,Boston Celtics,Detroit Pistons,17,29,46,64213200.0,1972
+Detroit Pistons,Detroit Pistons,Philadelphia 76ers,17,30,47,64299600.0,1972
+Detroit Pistons,Detroit Pistons,Baltimore Bullets,18,30,48,64818000.0,1972
+Detroit Pistons,Detroit Pistons,Houston Rockets,18,31,49,64990800.0,1972
+Detroit Pistons,Detroit Pistons,Milwaukee Bucks,18,32,50,65250000.0,1972
+Detroit Pistons,Atlanta Hawks,Detroit Pistons,18,33,51,65422800.0,1972
+Detroit Pistons,Detroit Pistons,Boston Celtics,18,34,52,65509200.0,1972
+Detroit Pistons,Chicago Bulls,Detroit Pistons,18,35,53,65595600.0,1972
+Detroit Pistons,New York Knicks,Detroit Pistons,18,36,54,65768400.0,1972
+Detroit Pistons,Detroit Pistons,Cleveland Cavaliers,19,36,55,65854800.0,1972
+Detroit Pistons,Philadelphia 76ers,Detroit Pistons,20,36,56,66027600.0,1972
+Detroit Pistons,Cincinnati Royals,Detroit Pistons,20,37,57,66114000.0,1972
+Detroit Pistons,Detroit Pistons,New York Knicks,20,38,58,66459600.0,1972
+Detroit Pistons,Buffalo Braves,Detroit Pistons,20,39,59,66632400.0,1972
+Detroit Pistons,Detroit Pistons,Buffalo Braves,21,39,60,66718800.0,1972
+Detroit Pistons,Cleveland Cavaliers,Detroit Pistons,22,39,61,66805200.0,1972
+Detroit Pistons,Detroit Pistons,Atlanta Hawks,22,40,62,66978000.0,1972
+Detroit Pistons,Detroit Pistons,Chicago Bulls,22,41,63,67237200.0,1972
+Detroit Pistons,Detroit Pistons,Phoenix Suns,22,42,64,67410000.0,1972
+Detroit Pistons,Los Angeles Lakers,Detroit Pistons,23,42,65,67582800.0,1972
+Detroit Pistons,Seattle Supersonics,Detroit Pistons,23,43,66,67669200.0,1972
+Detroit Pistons,Golden State Warriors,Detroit Pistons,23,44,67,67755600.0,1972
+Detroit Pistons,Houston Rockets,Detroit Pistons,23,45,68,67928400.0,1972
+Detroit Pistons,Milwaukee Bucks,Detroit Pistons,23,46,69,68187600.0,1972
+Detroit Pistons,Detroit Pistons,Seattle Supersonics,23,47,70,68274000.0,1972
+Detroit Pistons,Detroit Pistons,Boston Celtics,23,48,71,68446800.0,1972
+Detroit Pistons,Detroit Pistons,Phoenix Suns,23,49,72,68792400.0,1972
+Detroit Pistons,Baltimore Bullets,Detroit Pistons,23,50,73,69224400.0,1972
+Detroit Pistons,Detroit Pistons,Los Angeles Lakers,23,51,74,69397200.0,1972
+Detroit Pistons,Detroit Pistons,Atlanta Hawks,24,51,75,69656400.0,1972
+Detroit Pistons,Buffalo Braves,Detroit Pistons,24,52,76,69742800.0,1972
+Detroit Pistons,Detroit Pistons,Chicago Bulls,24,53,77,69829200.0,1972
+Detroit Pistons,Detroit Pistons,Cincinnati Royals,25,53,78,70002000.0,1972
+Detroit Pistons,Cincinnati Royals,Detroit Pistons,25,54,79,70088400.0,1972
+Detroit Pistons,Detroit Pistons,Buffalo Braves,26,54,80,70261200.0,1972
+Detroit Pistons,Chicago Bulls,Detroit Pistons,26,55,81,70347600.0,1972
+Detroit Pistons,Boston Celtics,Detroit Pistons,26,56,82,70434000.0,1972
+Golden State Warriors,Boston Celtics,Golden State Warriors,1,0,1,56347200.0,1972
+Golden State Warriors,Baltimore Bullets,Golden State Warriors,1,1,2,56433600.0,1972
+Golden State Warriors,New York Knicks,Golden State Warriors,1,2,3,56692800.0,1972
+Golden State Warriors,Cleveland Cavaliers,Golden State Warriors,2,2,4,56779200.0,1972
+Golden State Warriors,Golden State Warriors,Detroit Pistons,3,2,5,57038400.0,1972
+Golden State Warriors,Golden State Warriors,Buffalo Braves,3,3,6,57297600.0,1972
+Golden State Warriors,Chicago Bulls,Golden State Warriors,4,3,7,57556800.0,1972
+Golden State Warriors,Golden State Warriors,Cincinnati Royals,5,3,8,57643200.0,1972
+Golden State Warriors,Los Angeles Lakers,Golden State Warriors,6,3,9,57729600.0,1972
+Golden State Warriors,Golden State Warriors,Baltimore Bullets,7,3,10,57906000.0,1972
+Golden State Warriors,Golden State Warriors,Seattle Supersonics,8,3,11,58078800.0,1972
+Golden State Warriors,Golden State Warriors,Los Angeles Lakers,8,4,12,58251600.0,1972
+Golden State Warriors,Seattle Supersonics,Golden State Warriors,9,4,13,58338000.0,1972
+Golden State Warriors,Golden State Warriors,Houston Rockets,10,4,14,58510800.0,1972
+Golden State Warriors,New York Knicks,Golden State Warriors,11,4,15,58683600.0,1972
+Golden State Warriors,Atlanta Hawks,Golden State Warriors,11,5,16,58770000.0,1972
+Golden State Warriors,Cincinnati Royals,Golden State Warriors,11,6,17,58856400.0,1972
+Golden State Warriors,Detroit Pistons,Golden State Warriors,12,6,18,59115600.0,1972
+Golden State Warriors,Golden State Warriors,Portland Trail Blazers,13,6,19,59288400.0,1972
+Golden State Warriors,Golden State Warriors,Milwaukee Bucks,14,6,20,59461200.0,1972
+Golden State Warriors,Golden State Warriors,Houston Rockets,14,7,21,59547600.0,1972
+Golden State Warriors,Golden State Warriors,Philadelphia 76ers,14,8,22,59893200.0,1972
+Golden State Warriors,Chicago Bulls,Golden State Warriors,14,9,23,59979600.0,1972
+Golden State Warriors,Buffalo Braves,Golden State Warriors,15,9,24,60066000.0,1972
+Golden State Warriors,Milwaukee Bucks,Golden State Warriors,16,9,25,60325200.0,1972
+Golden State Warriors,Portland Trail Blazers,Golden State Warriors,16,10,26,60584400.0,1972
+Golden State Warriors,Golden State Warriors,Phoenix Suns,16,11,27,60670800.0,1972
+Golden State Warriors,Phoenix Suns,Golden State Warriors,16,12,28,60757200.0,1972
+Golden State Warriors,Atlanta Hawks,Golden State Warriors,16,13,29,60930000.0,1972
+Golden State Warriors,Golden State Warriors,Los Angeles Lakers,16,14,30,61102800.0,1972
+Golden State Warriors,Seattle Supersonics,Golden State Warriors,16,15,31,61189200.0,1972
+Golden State Warriors,Golden State Warriors,Philadelphia 76ers,17,15,32,61707600.0,1972
+Golden State Warriors,Los Angeles Lakers,Golden State Warriors,17,16,33,61794000.0,1972
+Golden State Warriors,Golden State Warriors,Detroit Pistons,18,16,34,61880400.0,1972
+Golden State Warriors,Golden State Warriors,New York Knicks,18,17,35,62139600.0,1972
+Golden State Warriors,New York Knicks,Golden State Warriors,18,18,36,62485200.0,1972
+Golden State Warriors,Boston Celtics,Golden State Warriors,18,19,37,62658000.0,1972
+Golden State Warriors,Cincinnati Royals,Golden State Warriors,19,19,38,62830800.0,1972
+Golden State Warriors,Detroit Pistons,Golden State Warriors,20,19,39,62917200.0,1972
+Golden State Warriors,Golden State Warriors,Buffalo Braves,21,19,40,63349200.0,1972
+Golden State Warriors,Golden State Warriors,Portland Trail Blazers,22,19,41,63522000.0,1972
+Golden State Warriors,Golden State Warriors,Boston Celtics,23,19,42,63694800.0,1972
+Golden State Warriors,Houston Rockets,Golden State Warriors,24,19,43,63781200.0,1972
+Golden State Warriors,Golden State Warriors,Cleveland Cavaliers,25,19,44,63954000.0,1972
+Golden State Warriors,Golden State Warriors,New York Knicks,26,19,45,64213200.0,1972
+Golden State Warriors,Golden State Warriors,Baltimore Bullets,27,19,46,64299600.0,1972
+Golden State Warriors,Atlanta Hawks,Golden State Warriors,28,19,47,64818000.0,1972
+Golden State Warriors,Philadelphia 76ers,Golden State Warriors,29,19,48,64904400.0,1972
+Golden State Warriors,Chicago Bulls,Golden State Warriors,29,20,49,65077200.0,1972
+Golden State Warriors,Cleveland Cavaliers,Golden State Warriors,30,20,50,65163600.0,1972
+Golden State Warriors,Golden State Warriors,Chicago Bulls,31,20,51,65336400.0,1972
+Golden State Warriors,Portland Trail Blazers,Golden State Warriors,32,20,52,65422800.0,1972
+Golden State Warriors,Golden State Warriors,Phoenix Suns,33,20,53,65509200.0,1972
+Golden State Warriors,Golden State Warriors,Milwaukee Bucks,33,21,54,65768400.0,1972
+Golden State Warriors,Golden State Warriors,Atlanta Hawks,34,21,55,65941200.0,1972
+Golden State Warriors,Phoenix Suns,Golden State Warriors,34,22,56,66027600.0,1972
+Golden State Warriors,Golden State Warriors,Los Angeles Lakers,34,23,57,66114000.0,1972
+Golden State Warriors,Golden State Warriors,Baltimore Bullets,35,23,58,66373200.0,1972
+Golden State Warriors,Golden State Warriors,Philadelphia 76ers,36,23,59,66546000.0,1972
+Golden State Warriors,Milwaukee Bucks,Golden State Warriors,36,24,60,66718800.0,1972
+Golden State Warriors,Chicago Bulls,Golden State Warriors,37,24,61,66805200.0,1972
+Golden State Warriors,Buffalo Braves,Golden State Warriors,38,24,62,66978000.0,1972
+Golden State Warriors,Seattle Supersonics,Golden State Warriors,38,25,63,67237200.0,1972
+Golden State Warriors,Golden State Warriors,Boston Celtics,39,25,64,67323600.0,1972
+Golden State Warriors,Golden State Warriors,Seattle Supersonics,40,25,65,67582800.0,1972
+Golden State Warriors,Golden State Warriors,Detroit Pistons,41,25,66,67755600.0,1972
+Golden State Warriors,Golden State Warriors,Chicago Bulls,41,26,67,67928400.0,1972
+Golden State Warriors,Houston Rockets,Golden State Warriors,42,26,68,68014800.0,1972
+Golden State Warriors,Golden State Warriors,Cincinnati Royals,43,26,69,68187600.0,1972
+Golden State Warriors,Golden State Warriors,Houston Rockets,44,26,70,68446800.0,1972
+Golden State Warriors,Golden State Warriors,Seattle Supersonics,45,26,71,68533200.0,1972
+Golden State Warriors,Golden State Warriors,Cleveland Cavaliers,46,26,72,68792400.0,1972
+Golden State Warriors,Houston Rockets,Golden State Warriors,47,26,73,69051600.0,1972
+Golden State Warriors,Cincinnati Royals,Golden State Warriors,47,27,74,69224400.0,1972
+Golden State Warriors,Boston Celtics,Golden State Warriors,47,28,75,69397200.0,1972
+Golden State Warriors,Golden State Warriors,Portland Trail Blazers,48,28,76,69570000.0,1972
+Golden State Warriors,Portland Trail Blazers,Golden State Warriors,48,29,77,69656400.0,1972
+Golden State Warriors,Golden State Warriors,Phoenix Suns,49,29,78,69742800.0,1972
+Golden State Warriors,Los Angeles Lakers,Golden State Warriors,49,30,79,69829200.0,1972
+Golden State Warriors,Baltimore Bullets,Golden State Warriors,50,30,80,70088400.0,1972
+Golden State Warriors,Atlanta Hawks,Golden State Warriors,50,31,81,70261200.0,1972
+Golden State Warriors,Philadelphia 76ers,Golden State Warriors,51,31,82,70434000.0,1972
+Houston Rockets,Houston Rockets,Philadelphia 76ers,0,1,1,56260800.0,1972
+Houston Rockets,Phoenix Suns,Houston Rockets,0,2,2,56433600.0,1972
+Houston Rockets,Detroit Pistons,Houston Rockets,0,3,3,56520000.0,1972
+Houston Rockets,Chicago Bulls,Houston Rockets,0,4,4,56779200.0,1972
+Houston Rockets,Seattle Supersonics,Houston Rockets,0,5,5,56952000.0,1972
+Houston Rockets,Houston Rockets,Los Angeles Lakers,0,6,6,57124800.0,1972
+Houston Rockets,Detroit Pistons,Houston Rockets,1,6,7,57297600.0,1972
+Houston Rockets,Boston Celtics,Houston Rockets,1,7,8,57384000.0,1972
+Houston Rockets,New York Knicks,Houston Rockets,1,8,9,57470400.0,1972
+Houston Rockets,Houston Rockets,Buffalo Braves,2,8,10,57729600.0,1972
+Houston Rockets,Houston Rockets,New York Knicks,2,9,11,57992400.0,1972
+Houston Rockets,Houston Rockets,Portland Trail Blazers,2,10,12,58078800.0,1972
+Houston Rockets,Houston Rockets,Baltimore Bullets,2,11,13,58338000.0,1972
+Houston Rockets,Golden State Warriors,Houston Rockets,2,12,14,58510800.0,1972
+Houston Rockets,Houston Rockets,Boston Celtics,2,13,15,58597200.0,1972
+Houston Rockets,Milwaukee Bucks,Houston Rockets,2,14,16,58770000.0,1972
+Houston Rockets,Chicago Bulls,Houston Rockets,2,15,17,58856400.0,1972
+Houston Rockets,Baltimore Bullets,Houston Rockets,2,16,18,59115600.0,1972
+Houston Rockets,Philadelphia 76ers,Houston Rockets,3,16,19,59202000.0,1972
+Houston Rockets,Los Angeles Lakers,Houston Rockets,3,17,20,59374800.0,1972
+Houston Rockets,Golden State Warriors,Houston Rockets,4,17,21,59547600.0,1972
+Houston Rockets,Houston Rockets,Philadelphia 76ers,5,17,22,59806800.0,1972
+Houston Rockets,Houston Rockets,Phoenix Suns,5,18,23,60152400.0,1972
+Houston Rockets,Buffalo Braves,Houston Rockets,6,18,24,60325200.0,1972
+Houston Rockets,Cleveland Cavaliers,Houston Rockets,6,19,25,60411600.0,1972
+Houston Rockets,Detroit Pistons,Houston Rockets,6,20,26,60584400.0,1972
+Houston Rockets,Boston Celtics,Houston Rockets,6,21,27,60670800.0,1972
+Houston Rockets,Houston Rockets,Los Angeles Lakers,6,22,28,61016400.0,1972
+Houston Rockets,Houston Rockets,Atlanta Hawks,7,22,29,61189200.0,1972
+Houston Rockets,Phoenix Suns,Houston Rockets,8,22,30,61275600.0,1972
+Houston Rockets,Houston Rockets,Seattle Supersonics,9,22,31,61362000.0,1972
+Houston Rockets,Milwaukee Bucks,Houston Rockets,9,23,32,61534800.0,1972
+Houston Rockets,Atlanta Hawks,Houston Rockets,10,23,33,61621200.0,1972
+Houston Rockets,Chicago Bulls,Houston Rockets,11,23,34,61794000.0,1972
+Houston Rockets,Cincinnati Royals,Houston Rockets,12,23,35,61880400.0,1972
+Houston Rockets,Portland Trail Blazers,Houston Rockets,13,23,36,62139600.0,1972
+Houston Rockets,Los Angeles Lakers,Houston Rockets,13,24,37,62571600.0,1972
+Houston Rockets,Houston Rockets,Phoenix Suns,13,25,38,62830800.0,1972
+Houston Rockets,Houston Rockets,Atlanta Hawks,14,25,39,62917200.0,1972
+Houston Rockets,Houston Rockets,Detroit Pistons,14,26,40,63176400.0,1972
+Houston Rockets,Houston Rockets,Seattle Supersonics,15,26,41,63349200.0,1972
+Houston Rockets,Houston Rockets,Boston Celtics,15,27,42,63435600.0,1972
+Houston Rockets,Houston Rockets,Golden State Warriors,15,28,43,63781200.0,1972
+Houston Rockets,Seattle Supersonics,Houston Rockets,15,29,44,63954000.0,1972
+Houston Rockets,Houston Rockets,Cleveland Cavaliers,16,29,45,64299600.0,1972
+Houston Rockets,Houston Rockets,New York Knicks,16,30,46,64386000.0,1972
+Houston Rockets,Cincinnati Royals,Houston Rockets,17,30,47,64731600.0,1972
+Houston Rockets,Boston Celtics,Houston Rockets,17,31,48,64818000.0,1972
+Houston Rockets,Chicago Bulls,Houston Rockets,17,32,49,64904400.0,1972
+Houston Rockets,Detroit Pistons,Houston Rockets,18,32,50,64990800.0,1972
+Houston Rockets,Houston Rockets,Portland Trail Blazers,19,32,51,65163600.0,1972
+Houston Rockets,Chicago Bulls,Houston Rockets,19,33,52,65250000.0,1972
+Houston Rockets,Los Angeles Lakers,Houston Rockets,19,34,53,65422800.0,1972
+Houston Rockets,Houston Rockets,Seattle Supersonics,20,34,54,65854800.0,1972
+Houston Rockets,Portland Trail Blazers,Houston Rockets,20,35,55,66027600.0,1972
+Houston Rockets,Houston Rockets,Milwaukee Bucks,20,36,56,66114000.0,1972
+Houston Rockets,Houston Rockets,Atlanta Hawks,21,36,57,66200400.0,1972
+Houston Rockets,Houston Rockets,Seattle Supersonics,21,37,58,66373200.0,1972
+Houston Rockets,Houston Rockets,Baltimore Bullets,22,37,59,66632400.0,1972
+Houston Rockets,Houston Rockets,Cincinnati Royals,23,37,60,66805200.0,1972
+Houston Rockets,Philadelphia 76ers,Houston Rockets,24,37,61,66891600.0,1972
+Houston Rockets,Baltimore Bullets,Houston Rockets,24,38,62,66978000.0,1972
+Houston Rockets,New York Knicks,Houston Rockets,24,39,63,67064400.0,1972
+Houston Rockets,Buffalo Braves,Houston Rockets,25,39,64,67237200.0,1972
+Houston Rockets,Houston Rockets,Los Angeles Lakers,26,39,65,67669200.0,1972
+Houston Rockets,Houston Rockets,Detroit Pistons,27,39,66,67928400.0,1972
+Houston Rockets,Houston Rockets,Golden State Warriors,27,40,67,68014800.0,1972
+Houston Rockets,Cincinnati Royals,Houston Rockets,28,40,68,68274000.0,1972
+Houston Rockets,Golden State Warriors,Houston Rockets,28,41,69,68446800.0,1972
+Houston Rockets,Houston Rockets,Cleveland Cavaliers,28,42,70,68533200.0,1972
+Houston Rockets,Houston Rockets,Chicago Bulls,28,43,71,68619600.0,1972
+Houston Rockets,Houston Rockets,Portland Trail Blazers,29,43,72,68965200.0,1972
+Houston Rockets,Houston Rockets,Golden State Warriors,29,44,73,69051600.0,1972
+Houston Rockets,Houston Rockets,Buffalo Braves,30,44,74,69138000.0,1972
+Houston Rockets,Houston Rockets,Philadelphia 76ers,31,44,75,69224400.0,1972
+Houston Rockets,Houston Rockets,New York Knicks,31,45,76,69570000.0,1972
+Houston Rockets,Houston Rockets,Milwaukee Bucks,31,46,77,69742800.0,1972
+Houston Rockets,Milwaukee Bucks,Houston Rockets,31,47,78,70002000.0,1972
+Houston Rockets,Atlanta Hawks,Houston Rockets,31,48,79,70088400.0,1972
+Houston Rockets,Cleveland Cavaliers,Houston Rockets,32,48,80,70261200.0,1972
+Houston Rockets,Baltimore Bullets,Houston Rockets,33,48,81,70347600.0,1972
+Houston Rockets,Houston Rockets,Portland Trail Blazers,34,48,82,70434000.0,1972
+Los Angeles Lakers,Detroit Pistons,Los Angeles Lakers,1,0,1,56347200.0,1972
+Los Angeles Lakers,New York Knicks,Los Angeles Lakers,2,0,2,56433600.0,1972
+Los Angeles Lakers,Buffalo Braves,Los Angeles Lakers,3,0,3,56692800.0,1972
+Los Angeles Lakers,Atlanta Hawks,Los Angeles Lakers,4,0,4,56779200.0,1972
+Los Angeles Lakers,Los Angeles Lakers,Chicago Bulls,4,1,5,56952000.0,1972
+Los Angeles Lakers,Houston Rockets,Los Angeles Lakers,5,1,6,57124800.0,1972
+Los Angeles Lakers,Los Angeles Lakers,Cincinnati Royals,6,1,7,57556800.0,1972
+Los Angeles Lakers,Seattle Supersonics,Los Angeles Lakers,6,2,8,57643200.0,1972
+Los Angeles Lakers,Los Angeles Lakers,Golden State Warriors,6,3,9,57729600.0,1972
+Los Angeles Lakers,Los Angeles Lakers,Baltimore Bullets,7,3,10,58165200.0,1972
+Los Angeles Lakers,Golden State Warriors,Los Angeles Lakers,8,3,11,58251600.0,1972
+Los Angeles Lakers,Los Angeles Lakers,New York Knicks,9,3,12,58338000.0,1972
+Los Angeles Lakers,Chicago Bulls,Los Angeles Lakers,10,3,13,58510800.0,1972
+Los Angeles Lakers,Philadelphia 76ers,Los Angeles Lakers,11,3,14,58597200.0,1972
+Los Angeles Lakers,Los Angeles Lakers,Seattle Supersonics,12,3,15,58770000.0,1972
+Los Angeles Lakers,Portland Trail Blazers,Los Angeles Lakers,13,3,16,58856400.0,1972
+Los Angeles Lakers,Los Angeles Lakers,Boston Celtics,14,3,17,58942800.0,1972
+Los Angeles Lakers,Los Angeles Lakers,Cleveland Cavaliers,15,3,18,59115600.0,1972
+Los Angeles Lakers,Los Angeles Lakers,Houston Rockets,16,3,19,59374800.0,1972
+Los Angeles Lakers,Los Angeles Lakers,Milwaukee Bucks,17,3,20,59547600.0,1972
+Los Angeles Lakers,Seattle Supersonics,Los Angeles Lakers,18,3,21,59893200.0,1972
+Los Angeles Lakers,Los Angeles Lakers,Detroit Pistons,19,3,22,59979600.0,1972
+Los Angeles Lakers,Los Angeles Lakers,Seattle Supersonics,20,3,23,60152400.0,1972
+Los Angeles Lakers,Boston Celtics,Los Angeles Lakers,21,3,24,60411600.0,1972
+Los Angeles Lakers,Philadelphia 76ers,Los Angeles Lakers,22,3,25,60584400.0,1972
+Los Angeles Lakers,Los Angeles Lakers,Portland Trail Blazers,23,3,26,60757200.0,1972
+Los Angeles Lakers,Houston Rockets,Los Angeles Lakers,24,3,27,61016400.0,1972
+Los Angeles Lakers,Golden State Warriors,Los Angeles Lakers,25,3,28,61102800.0,1972
+Los Angeles Lakers,Los Angeles Lakers,Phoenix Suns,26,3,29,61189200.0,1972
+Los Angeles Lakers,Los Angeles Lakers,Atlanta Hawks,27,3,30,61362000.0,1972
+Los Angeles Lakers,Portland Trail Blazers,Los Angeles Lakers,28,3,31,61534800.0,1972
+Los Angeles Lakers,Los Angeles Lakers,Golden State Warriors,29,3,32,61794000.0,1972
+Los Angeles Lakers,Phoenix Suns,Los Angeles Lakers,30,3,33,61880400.0,1972
+Los Angeles Lakers,Los Angeles Lakers,Philadelphia 76ers,31,3,34,61966800.0,1972
+Los Angeles Lakers,Buffalo Braves,Los Angeles Lakers,32,3,35,62139600.0,1972
+Los Angeles Lakers,Baltimore Bullets,Los Angeles Lakers,33,3,36,62226000.0,1972
+Los Angeles Lakers,Los Angeles Lakers,Houston Rockets,34,3,37,62571600.0,1972
+Los Angeles Lakers,Los Angeles Lakers,Buffalo Braves,35,3,38,62744400.0,1972
+Los Angeles Lakers,Seattle Supersonics,Los Angeles Lakers,36,3,39,62917200.0,1972
+Los Angeles Lakers,Los Angeles Lakers,Boston Celtics,37,3,40,63176400.0,1972
+Los Angeles Lakers,Cleveland Cavaliers,Los Angeles Lakers,38,3,41,63435600.0,1972
+Los Angeles Lakers,Atlanta Hawks,Los Angeles Lakers,39,3,42,63608400.0,1972
+Los Angeles Lakers,Milwaukee Bucks,Los Angeles Lakers,39,4,43,63781200.0,1972
+Los Angeles Lakers,Detroit Pistons,Los Angeles Lakers,40,4,44,63954000.0,1972
+Los Angeles Lakers,Cincinnati Royals,Los Angeles Lakers,40,5,45,64040400.0,1972
+Los Angeles Lakers,Philadelphia 76ers,Los Angeles Lakers,41,5,46,64213200.0,1972
+Los Angeles Lakers,Los Angeles Lakers,New York Knicks,41,6,47,64818000.0,1972
+Los Angeles Lakers,Phoenix Suns,Los Angeles Lakers,41,7,48,64904400.0,1972
+Los Angeles Lakers,Los Angeles Lakers,Phoenix Suns,42,7,49,65163600.0,1972
+Los Angeles Lakers,Los Angeles Lakers,Houston Rockets,43,7,50,65422800.0,1972
+Los Angeles Lakers,Los Angeles Lakers,Portland Trail Blazers,44,7,51,65595600.0,1972
+Los Angeles Lakers,Los Angeles Lakers,Milwaukee Bucks,45,7,52,66027600.0,1972
+Los Angeles Lakers,Golden State Warriors,Los Angeles Lakers,46,7,53,66114000.0,1972
+Los Angeles Lakers,Los Angeles Lakers,Baltimore Bullets,47,7,54,66200400.0,1972
+Los Angeles Lakers,New York Knicks,Los Angeles Lakers,48,7,55,66373200.0,1972
+Los Angeles Lakers,Atlanta Hawks,Los Angeles Lakers,49,7,56,66459600.0,1972
+Los Angeles Lakers,Boston Celtics,Los Angeles Lakers,49,8,57,66632400.0,1972
+Los Angeles Lakers,Baltimore Bullets,Los Angeles Lakers,50,8,58,66805200.0,1972
+Los Angeles Lakers,Los Angeles Lakers,Cincinnati Royals,51,8,59,66978000.0,1972
+Los Angeles Lakers,Phoenix Suns,Los Angeles Lakers,51,9,60,67064400.0,1972
+Los Angeles Lakers,Los Angeles Lakers,Portland Trail Blazers,52,9,61,67237200.0,1972
+Los Angeles Lakers,Portland Trail Blazers,Los Angeles Lakers,53,9,62,67323600.0,1972
+Los Angeles Lakers,Los Angeles Lakers,Boston Celtics,54,9,63,67410000.0,1972
+Los Angeles Lakers,Los Angeles Lakers,Detroit Pistons,54,10,64,67582800.0,1972
+Los Angeles Lakers,Houston Rockets,Los Angeles Lakers,54,11,65,67669200.0,1972
+Los Angeles Lakers,Los Angeles Lakers,Cincinnati Royals,55,11,66,67842000.0,1972
+Los Angeles Lakers,Los Angeles Lakers,Chicago Bulls,56,11,67,68014800.0,1972
+Los Angeles Lakers,New York Knicks,Los Angeles Lakers,57,11,68,68187600.0,1972
+Los Angeles Lakers,Los Angeles Lakers,Milwaukee Bucks,58,11,69,68274000.0,1972
+Los Angeles Lakers,Los Angeles Lakers,Atlanta Hawks,59,11,70,68446800.0,1972
+Los Angeles Lakers,Los Angeles Lakers,Baltimore Bullets,59,12,71,68619600.0,1972
+Los Angeles Lakers,Los Angeles Lakers,Philadelphia 76ers,60,12,72,68792400.0,1972
+Los Angeles Lakers,Los Angeles Lakers,Cleveland Cavaliers,61,12,73,69051600.0,1972
+Los Angeles Lakers,Los Angeles Lakers,Buffalo Braves,62,12,74,69224400.0,1972
+Los Angeles Lakers,Detroit Pistons,Los Angeles Lakers,63,12,75,69397200.0,1972
+Los Angeles Lakers,Cincinnati Royals,Los Angeles Lakers,64,12,76,69483600.0,1972
+Los Angeles Lakers,Los Angeles Lakers,Milwaukee Bucks,65,12,77,69656400.0,1972
+Los Angeles Lakers,Los Angeles Lakers,Golden State Warriors,66,12,78,69829200.0,1972
+Los Angeles Lakers,Chicago Bulls,Los Angeles Lakers,67,12,79,70002000.0,1972
+Los Angeles Lakers,Cleveland Cavaliers,Los Angeles Lakers,67,13,80,70088400.0,1972
+Los Angeles Lakers,Los Angeles Lakers,Phoenix Suns,68,13,81,70261200.0,1972
+Los Angeles Lakers,Los Angeles Lakers,Seattle Supersonics,69,13,82,70434000.0,1972
+Milwaukee Bucks,Phoenix Suns,Milwaukee Bucks,1,0,1,56260800.0,1972
+Milwaukee Bucks,Seattle Supersonics,Milwaukee Bucks,2,0,2,56433600.0,1972
+Milwaukee Bucks,Portland Trail Blazers,Milwaukee Bucks,3,0,3,56520000.0,1972
+Milwaukee Bucks,Milwaukee Bucks,Cleveland Cavaliers,4,0,4,56692800.0,1972
+Milwaukee Bucks,Milwaukee Bucks,Buffalo Braves,5,0,5,56952000.0,1972
+Milwaukee Bucks,Philadelphia 76ers,Milwaukee Bucks,6,0,6,57038400.0,1972
+Milwaukee Bucks,Milwaukee Bucks,Baltimore Bullets,7,0,7,57297600.0,1972
+Milwaukee Bucks,Boston Celtics,Milwaukee Bucks,7,1,8,57556800.0,1972
+Milwaukee Bucks,Cleveland Cavaliers,Milwaukee Bucks,8,1,9,57729600.0,1972
+Milwaukee Bucks,Chicago Bulls,Milwaukee Bucks,9,1,10,58165200.0,1972
+Milwaukee Bucks,Milwaukee Bucks,Detroit Pistons,10,1,11,58251600.0,1972
+Milwaukee Bucks,Milwaukee Bucks,Phoenix Suns,11,1,12,58510800.0,1972
+Milwaukee Bucks,Atlanta Hawks,Milwaukee Bucks,12,1,13,58597200.0,1972
+Milwaukee Bucks,Milwaukee Bucks,Houston Rockets,13,1,14,58770000.0,1972
+Milwaukee Bucks,Buffalo Braves,Milwaukee Bucks,14,1,15,58856400.0,1972
+Milwaukee Bucks,Milwaukee Bucks,Philadelphia 76ers,15,1,16,58942800.0,1972
+Milwaukee Bucks,Portland Trail Blazers,Milwaukee Bucks,16,1,17,59115600.0,1972
+Milwaukee Bucks,Seattle Supersonics,Milwaukee Bucks,17,1,18,59374800.0,1972
+Milwaukee Bucks,Golden State Warriors,Milwaukee Bucks,17,2,19,59461200.0,1972
+Milwaukee Bucks,Los Angeles Lakers,Milwaukee Bucks,17,3,20,59547600.0,1972
+Milwaukee Bucks,Detroit Pistons,Milwaukee Bucks,18,3,21,59720400.0,1972
+Milwaukee Bucks,Milwaukee Bucks,Atlanta Hawks,19,3,22,59806800.0,1972
+Milwaukee Bucks,Milwaukee Bucks,Portland Trail Blazers,20,3,23,59979600.0,1972
+Milwaukee Bucks,Cincinnati Royals,Milwaukee Bucks,21,3,24,60066000.0,1972
+Milwaukee Bucks,Milwaukee Bucks,Golden State Warriors,21,4,25,60325200.0,1972
+Milwaukee Bucks,Milwaukee Bucks,Cincinnati Royals,22,4,26,60584400.0,1972
+Milwaukee Bucks,Milwaukee Bucks,Chicago Bulls,23,4,27,60670800.0,1972
+Milwaukee Bucks,Milwaukee Bucks,Seattle Supersonics,24,4,28,60930000.0,1972
+Milwaukee Bucks,Milwaukee Bucks,Boston Celtics,25,4,29,61189200.0,1972
+Milwaukee Bucks,Baltimore Bullets,Milwaukee Bucks,26,4,30,61275600.0,1972
+Milwaukee Bucks,Milwaukee Bucks,Houston Rockets,27,4,31,61534800.0,1972
+Milwaukee Bucks,Buffalo Braves,Milwaukee Bucks,28,4,32,61621200.0,1972
+Milwaukee Bucks,Milwaukee Bucks,Seattle Supersonics,29,4,33,61794000.0,1972
+Milwaukee Bucks,Milwaukee Bucks,Baltimore Bullets,30,4,34,61966800.0,1972
+Milwaukee Bucks,Boston Celtics,Milwaukee Bucks,30,5,35,62226000.0,1972
+Milwaukee Bucks,Detroit Pistons,Milwaukee Bucks,30,6,36,62485200.0,1972
+Milwaukee Bucks,Milwaukee Bucks,Atlanta Hawks,31,6,37,62571600.0,1972
+Milwaukee Bucks,Chicago Bulls,Milwaukee Bucks,31,7,38,62744400.0,1972
+Milwaukee Bucks,Milwaukee Bucks,Portland Trail Blazers,32,7,39,62830800.0,1972
+Milwaukee Bucks,New York Knicks,Milwaukee Bucks,32,8,40,63262800.0,1972
+Milwaukee Bucks,Milwaukee Bucks,New York Knicks,33,8,41,63349200.0,1972
+Milwaukee Bucks,Cincinnati Royals,Milwaukee Bucks,34,8,42,63435600.0,1972
+Milwaukee Bucks,Milwaukee Bucks,Detroit Pistons,35,8,43,63694800.0,1972
+Milwaukee Bucks,Milwaukee Bucks,Los Angeles Lakers,36,8,44,63781200.0,1972
+Milwaukee Bucks,Milwaukee Bucks,Phoenix Suns,36,9,45,63954000.0,1972
+Milwaukee Bucks,Atlanta Hawks,Milwaukee Bucks,36,10,46,64040400.0,1972
+Milwaukee Bucks,Milwaukee Bucks,Chicago Bulls,37,10,47,64213200.0,1972
+Milwaukee Bucks,Milwaukee Bucks,Portland Trail Blazers,38,10,48,64386000.0,1972
+Milwaukee Bucks,Milwaukee Bucks,Cleveland Cavaliers,39,10,49,64818000.0,1972
+Milwaukee Bucks,Milwaukee Bucks,Atlanta Hawks,39,11,50,64990800.0,1972
+Milwaukee Bucks,Milwaukee Bucks,Seattle Supersonics,40,11,51,65163600.0,1972
+Milwaukee Bucks,Detroit Pistons,Milwaukee Bucks,41,11,52,65250000.0,1972
+Milwaukee Bucks,Philadelphia 76ers,Milwaukee Bucks,42,11,53,65422800.0,1972
+Milwaukee Bucks,Baltimore Bullets,Milwaukee Bucks,43,11,54,65595600.0,1972
+Milwaukee Bucks,Golden State Warriors,Milwaukee Bucks,44,11,55,65768400.0,1972
+Milwaukee Bucks,Phoenix Suns,Milwaukee Bucks,45,11,56,65854800.0,1972
+Milwaukee Bucks,Los Angeles Lakers,Milwaukee Bucks,45,12,57,66027600.0,1972
+Milwaukee Bucks,Houston Rockets,Milwaukee Bucks,46,12,58,66114000.0,1972
+Milwaukee Bucks,Buffalo Braves,Milwaukee Bucks,47,12,59,66373200.0,1972
+Milwaukee Bucks,Cleveland Cavaliers,Milwaukee Bucks,48,12,60,66459600.0,1972
+Milwaukee Bucks,Milwaukee Bucks,New York Knicks,48,13,61,66632400.0,1972
+Milwaukee Bucks,Milwaukee Bucks,Golden State Warriors,49,13,62,66718800.0,1972
+Milwaukee Bucks,Boston Celtics,Milwaukee Bucks,50,13,63,66805200.0,1972
+Milwaukee Bucks,Cincinnati Royals,Milwaukee Bucks,51,13,64,67150800.0,1972
+Milwaukee Bucks,Milwaukee Bucks,Philadelphia 76ers,51,14,65,67237200.0,1972
+Milwaukee Bucks,Chicago Bulls,Milwaukee Bucks,51,15,66,67323600.0,1972
+Milwaukee Bucks,Milwaukee Bucks,Chicago Bulls,52,15,67,67410000.0,1972
+Milwaukee Bucks,Baltimore Bullets,Milwaukee Bucks,53,15,68,67669200.0,1972
+Milwaukee Bucks,Milwaukee Bucks,Phoenix Suns,54,15,69,67928400.0,1972
+Milwaukee Bucks,Milwaukee Bucks,Detroit Pistons,55,15,70,68187600.0,1972
+Milwaukee Bucks,Los Angeles Lakers,Milwaukee Bucks,55,16,71,68274000.0,1972
+Milwaukee Bucks,Philadelphia 76ers,Milwaukee Bucks,56,16,72,68446800.0,1972
+Milwaukee Bucks,Milwaukee Bucks,Boston Celtics,57,16,73,68706000.0,1972
+Milwaukee Bucks,New York Knicks,Milwaukee Bucks,57,17,74,68792400.0,1972
+Milwaukee Bucks,Seattle Supersonics,Milwaukee Bucks,58,17,75,69224400.0,1972
+Milwaukee Bucks,Portland Trail Blazers,Milwaukee Bucks,59,17,76,69397200.0,1972
+Milwaukee Bucks,Phoenix Suns,Milwaukee Bucks,59,18,77,69483600.0,1972
+Milwaukee Bucks,Los Angeles Lakers,Milwaukee Bucks,59,19,78,69656400.0,1972
+Milwaukee Bucks,Houston Rockets,Milwaukee Bucks,60,19,79,69742800.0,1972
+Milwaukee Bucks,Milwaukee Bucks,Houston Rockets,61,19,80,70002000.0,1972
+Milwaukee Bucks,Milwaukee Bucks,New York Knicks,62,19,81,70261200.0,1972
+Milwaukee Bucks,Milwaukee Bucks,Cincinnati Royals,63,19,82,70347600.0,1972
+New York Knicks,New York Knicks,Detroit Pistons,0,1,1,56088000.0,1972
+New York Knicks,New York Knicks,Los Angeles Lakers,0,2,2,56433600.0,1972
+New York Knicks,Cleveland Cavaliers,New York Knicks,1,2,3,56520000.0,1972
+New York Knicks,New York Knicks,Golden State Warriors,2,2,4,56692800.0,1972
+New York Knicks,Baltimore Bullets,New York Knicks,3,2,5,56952000.0,1972
+New York Knicks,New York Knicks,Atlanta Hawks,3,3,6,57038400.0,1972
+New York Knicks,New York Knicks,Boston Celtics,4,3,7,57297600.0,1972
+New York Knicks,Atlanta Hawks,New York Knicks,4,4,8,57384000.0,1972
+New York Knicks,New York Knicks,Houston Rockets,5,4,9,57470400.0,1972
+New York Knicks,New York Knicks,Philadelphia 76ers,5,5,10,57643200.0,1972
+New York Knicks,Houston Rockets,New York Knicks,6,5,11,57992400.0,1972
+New York Knicks,Seattle Supersonics,New York Knicks,6,6,12,58165200.0,1972
+New York Knicks,Los Angeles Lakers,New York Knicks,6,7,13,58338000.0,1972
+New York Knicks,Cincinnati Royals,New York Knicks,6,8,14,58597200.0,1972
+New York Knicks,New York Knicks,Golden State Warriors,6,9,15,58683600.0,1972
+New York Knicks,New York Knicks,Detroit Pistons,7,9,16,58856400.0,1972
+New York Knicks,New York Knicks,Phoenix Suns,8,9,17,59115600.0,1972
+New York Knicks,New York Knicks,Baltimore Bullets,9,9,18,59461200.0,1972
+New York Knicks,New York Knicks,Cincinnati Royals,10,9,19,59720400.0,1972
+New York Knicks,Baltimore Bullets,New York Knicks,11,9,20,59806800.0,1972
+New York Knicks,Boston Celtics,New York Knicks,12,9,21,59979600.0,1972
+New York Knicks,New York Knicks,Chicago Bulls,13,9,22,60066000.0,1972
+New York Knicks,New York Knicks,Seattle Supersonics,13,10,23,60325200.0,1972
+New York Knicks,Chicago Bulls,New York Knicks,13,11,24,60584400.0,1972
+New York Knicks,New York Knicks,Buffalo Braves,14,11,25,60670800.0,1972
+New York Knicks,New York Knicks,Boston Celtics,14,12,26,60930000.0,1972
+New York Knicks,New York Knicks,Portland Trail Blazers,15,12,27,61275600.0,1972
+New York Knicks,Cleveland Cavaliers,New York Knicks,16,12,28,61362000.0,1972
+New York Knicks,New York Knicks,Phoenix Suns,16,13,29,61534800.0,1972
+New York Knicks,Buffalo Braves,New York Knicks,17,13,30,61794000.0,1972
+New York Knicks,New York Knicks,Cleveland Cavaliers,18,13,31,61880400.0,1972
+New York Knicks,Golden State Warriors,New York Knicks,19,13,32,62139600.0,1972
+New York Knicks,Seattle Supersonics,New York Knicks,20,13,33,62226000.0,1972
+New York Knicks,Portland Trail Blazers,New York Knicks,21,13,34,62312400.0,1972
+New York Knicks,New York Knicks,Golden State Warriors,22,13,35,62485200.0,1972
+New York Knicks,Detroit Pistons,New York Knicks,23,13,36,62744400.0,1972
+New York Knicks,New York Knicks,Baltimore Bullets,23,14,37,62917200.0,1972
+New York Knicks,New York Knicks,Cincinnati Royals,24,14,38,63090000.0,1972
+New York Knicks,New York Knicks,Milwaukee Bucks,25,14,39,63262800.0,1972
+New York Knicks,Milwaukee Bucks,New York Knicks,25,15,40,63349200.0,1972
+New York Knicks,Philadelphia 76ers,New York Knicks,25,16,41,63608400.0,1972
+New York Knicks,New York Knicks,Chicago Bulls,25,17,42,63694800.0,1972
+New York Knicks,Chicago Bulls,New York Knicks,25,18,43,63954000.0,1972
+New York Knicks,Golden State Warriors,New York Knicks,25,19,44,64213200.0,1972
+New York Knicks,Houston Rockets,New York Knicks,26,19,45,64386000.0,1972
+New York Knicks,Phoenix Suns,New York Knicks,26,20,46,64731600.0,1972
+New York Knicks,Los Angeles Lakers,New York Knicks,27,20,47,64818000.0,1972
+New York Knicks,Seattle Supersonics,New York Knicks,28,20,48,64990800.0,1972
+New York Knicks,New York Knicks,Boston Celtics,29,20,49,65163600.0,1972
+New York Knicks,Boston Celtics,New York Knicks,29,21,50,65422800.0,1972
+New York Knicks,New York Knicks,Seattle Supersonics,30,21,51,65509200.0,1972
+New York Knicks,New York Knicks,Detroit Pistons,31,21,52,65768400.0,1972
+New York Knicks,Cincinnati Royals,New York Knicks,31,22,53,65854800.0,1972
+New York Knicks,Buffalo Braves,New York Knicks,32,22,54,66027600.0,1972
+New York Knicks,New York Knicks,Philadelphia 76ers,33,22,55,66114000.0,1972
+New York Knicks,Philadelphia 76ers,New York Knicks,34,22,56,66200400.0,1972
+New York Knicks,New York Knicks,Los Angeles Lakers,34,23,57,66373200.0,1972
+New York Knicks,Detroit Pistons,New York Knicks,35,23,58,66459600.0,1972
+New York Knicks,Milwaukee Bucks,New York Knicks,36,23,59,66632400.0,1972
+New York Knicks,New York Knicks,Cleveland Cavaliers,37,23,60,66718800.0,1972
+New York Knicks,New York Knicks,Houston Rockets,38,23,61,67064400.0,1972
+New York Knicks,Chicago Bulls,New York Knicks,39,23,62,67150800.0,1972
+New York Knicks,New York Knicks,Buffalo Braves,40,23,63,67323600.0,1972
+New York Knicks,Cleveland Cavaliers,New York Knicks,40,24,64,67410000.0,1972
+New York Knicks,New York Knicks,Portland Trail Blazers,41,24,65,67582800.0,1972
+New York Knicks,New York Knicks,Baltimore Bullets,41,25,66,67928400.0,1972
+New York Knicks,Baltimore Bullets,New York Knicks,42,25,67,68014800.0,1972
+New York Knicks,New York Knicks,Los Angeles Lakers,42,26,68,68187600.0,1972
+New York Knicks,Buffalo Braves,New York Knicks,42,27,69,68446800.0,1972
+New York Knicks,New York Knicks,Philadelphia 76ers,43,27,70,68533200.0,1972
+New York Knicks,Philadelphia 76ers,New York Knicks,43,28,71,68619600.0,1972
+New York Knicks,New York Knicks,Milwaukee Bucks,44,28,72,68792400.0,1972
+New York Knicks,New York Knicks,Phoenix Suns,44,29,73,69138000.0,1972
+New York Knicks,Boston Celtics,New York Knicks,44,30,74,69224400.0,1972
+New York Knicks,New York Knicks,Atlanta Hawks,45,30,75,69397200.0,1972
+New York Knicks,Houston Rockets,New York Knicks,46,30,76,69570000.0,1972
+New York Knicks,Phoenix Suns,New York Knicks,46,31,77,69656400.0,1972
+New York Knicks,Portland Trail Blazers,New York Knicks,46,32,78,69742800.0,1972
+New York Knicks,New York Knicks,Buffalo Braves,47,32,79,70088400.0,1972
+New York Knicks,Milwaukee Bucks,New York Knicks,47,33,80,70261200.0,1972
+New York Knicks,New York Knicks,Cleveland Cavaliers,48,33,81,70347600.0,1972
+New York Knicks,Atlanta Hawks,New York Knicks,48,34,82,70434000.0,1972
+Philadelphia 76ers,Chicago Bulls,Philadelphia 76ers,1,0,1,56088000.0,1972
+Philadelphia 76ers,Houston Rockets,Philadelphia 76ers,2,0,2,56260800.0,1972
+Philadelphia 76ers,Atlanta Hawks,Philadelphia 76ers,3,0,3,56433600.0,1972
+Philadelphia 76ers,Philadelphia 76ers,Seattle Supersonics,4,0,4,56779200.0,1972
+Philadelphia 76ers,Philadelphia 76ers,Milwaukee Bucks,4,1,5,57038400.0,1972
+Philadelphia 76ers,Cleveland Cavaliers,Philadelphia 76ers,5,1,6,57124800.0,1972
+Philadelphia 76ers,Philadelphia 76ers,Cleveland Cavaliers,6,1,7,57384000.0,1972
+Philadelphia 76ers,Philadelphia 76ers,Phoenix Suns,6,2,8,57556800.0,1972
+Philadelphia 76ers,New York Knicks,Philadelphia 76ers,7,2,9,57643200.0,1972
+Philadelphia 76ers,Cincinnati Royals,Philadelphia 76ers,7,3,10,57992400.0,1972
+Philadelphia 76ers,Philadelphia 76ers,Atlanta Hawks,8,3,11,58251600.0,1972
+Philadelphia 76ers,Philadelphia 76ers,Los Angeles Lakers,8,4,12,58597200.0,1972
+Philadelphia 76ers,Philadelphia 76ers,Detroit Pistons,9,4,13,58770000.0,1972
+Philadelphia 76ers,Baltimore Bullets,Philadelphia 76ers,9,5,14,58856400.0,1972
+Philadelphia 76ers,Milwaukee Bucks,Philadelphia 76ers,9,6,15,58942800.0,1972
+Philadelphia 76ers,Philadelphia 76ers,Houston Rockets,9,7,16,59202000.0,1972
+Philadelphia 76ers,Philadelphia 76ers,Chicago Bulls,9,8,17,59374800.0,1972
+Philadelphia 76ers,Seattle Supersonics,Philadelphia 76ers,9,9,18,59547600.0,1972
+Philadelphia 76ers,Phoenix Suns,Philadelphia 76ers,9,10,19,59720400.0,1972
+Philadelphia 76ers,Houston Rockets,Philadelphia 76ers,9,11,20,59806800.0,1972
+Philadelphia 76ers,Golden State Warriors,Philadelphia 76ers,10,11,21,59893200.0,1972
+Philadelphia 76ers,Philadelphia 76ers,Portland Trail Blazers,11,11,22,60066000.0,1972
+Philadelphia 76ers,Cleveland Cavaliers,Philadelphia 76ers,11,12,23,60152400.0,1972
+Philadelphia 76ers,Philadelphia 76ers,Seattle Supersonics,12,12,24,60411600.0,1972
+Philadelphia 76ers,Philadelphia 76ers,Los Angeles Lakers,12,13,25,60584400.0,1972
+Philadelphia 76ers,Atlanta Hawks,Philadelphia 76ers,12,14,26,60670800.0,1972
+Philadelphia 76ers,Cincinnati Royals,Philadelphia 76ers,13,14,27,61016400.0,1972
+Philadelphia 76ers,Philadelphia 76ers,Cincinnati Royals,13,15,28,61189200.0,1972
+Philadelphia 76ers,Detroit Pistons,Philadelphia 76ers,14,15,29,61275600.0,1972
+Philadelphia 76ers,Buffalo Braves,Philadelphia 76ers,14,16,30,61534800.0,1972
+Philadelphia 76ers,Golden State Warriors,Philadelphia 76ers,14,17,31,61707600.0,1972
+Philadelphia 76ers,Portland Trail Blazers,Philadelphia 76ers,14,18,32,61794000.0,1972
+Philadelphia 76ers,Los Angeles Lakers,Philadelphia 76ers,14,19,33,61966800.0,1972
+Philadelphia 76ers,Phoenix Suns,Philadelphia 76ers,14,20,34,62139600.0,1972
+Philadelphia 76ers,Philadelphia 76ers,Baltimore Bullets,14,21,35,62485200.0,1972
+Philadelphia 76ers,Buffalo Braves,Philadelphia 76ers,15,21,36,62658000.0,1972
+Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,15,22,37,62744400.0,1972
+Philadelphia 76ers,Cleveland Cavaliers,Philadelphia 76ers,15,23,38,62830800.0,1972
+Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,15,24,39,63003600.0,1972
+Philadelphia 76ers,Cleveland Cavaliers,Philadelphia 76ers,16,24,40,63176400.0,1972
+Philadelphia 76ers,Detroit Pistons,Philadelphia 76ers,17,24,41,63349200.0,1972
+Philadelphia 76ers,Philadelphia 76ers,Chicago Bulls,17,25,42,63435600.0,1972
+Philadelphia 76ers,Philadelphia 76ers,New York Knicks,18,25,43,63608400.0,1972
+Philadelphia 76ers,Philadelphia 76ers,Phoenix Suns,19,25,44,63694800.0,1972
+Philadelphia 76ers,Philadelphia 76ers,Buffalo Braves,19,26,45,64040400.0,1972
+Philadelphia 76ers,Philadelphia 76ers,Los Angeles Lakers,19,27,46,64213200.0,1972
+Philadelphia 76ers,Detroit Pistons,Philadelphia 76ers,20,27,47,64299600.0,1972
+Philadelphia 76ers,Atlanta Hawks,Philadelphia 76ers,20,28,48,64386000.0,1972
+Philadelphia 76ers,Philadelphia 76ers,Portland Trail Blazers,21,28,49,64818000.0,1972
+Philadelphia 76ers,Philadelphia 76ers,Golden State Warriors,21,29,50,64904400.0,1972
+Philadelphia 76ers,Philadelphia 76ers,Cincinnati Royals,22,29,51,65250000.0,1972
+Philadelphia 76ers,Philadelphia 76ers,Milwaukee Bucks,22,30,52,65422800.0,1972
+Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,22,31,53,65595600.0,1972
+Philadelphia 76ers,Philadelphia 76ers,Buffalo Braves,23,31,54,65854800.0,1972
+Philadelphia 76ers,Philadelphia 76ers,Detroit Pistons,23,32,55,66027600.0,1972
+Philadelphia 76ers,New York Knicks,Philadelphia 76ers,23,33,56,66114000.0,1972
+Philadelphia 76ers,Philadelphia 76ers,New York Knicks,23,34,57,66200400.0,1972
+Philadelphia 76ers,Phoenix Suns,Philadelphia 76ers,23,35,58,66373200.0,1972
+Philadelphia 76ers,Golden State Warriors,Philadelphia 76ers,23,36,59,66546000.0,1972
+Philadelphia 76ers,Portland Trail Blazers,Philadelphia 76ers,23,37,60,66632400.0,1972
+Philadelphia 76ers,Philadelphia 76ers,Houston Rockets,23,38,61,66891600.0,1972
+Philadelphia 76ers,Philadelphia 76ers,Cleveland Cavaliers,24,38,62,67064400.0,1972
+Philadelphia 76ers,Milwaukee Bucks,Philadelphia 76ers,25,38,63,67237200.0,1972
+Philadelphia 76ers,Philadelphia 76ers,Baltimore Bullets,25,39,64,67323600.0,1972
+Philadelphia 76ers,Baltimore Bullets,Philadelphia 76ers,25,40,65,67496400.0,1972
+Philadelphia 76ers,Chicago Bulls,Philadelphia 76ers,25,41,66,67582800.0,1972
+Philadelphia 76ers,Atlanta Hawks,Philadelphia 76ers,26,41,67,67842000.0,1972
+Philadelphia 76ers,Philadelphia 76ers,Buffalo Braves,27,41,68,68274000.0,1972
+Philadelphia 76ers,Philadelphia 76ers,Milwaukee Bucks,27,42,69,68446800.0,1972
+Philadelphia 76ers,New York Knicks,Philadelphia 76ers,27,43,70,68533200.0,1972
+Philadelphia 76ers,Philadelphia 76ers,New York Knicks,28,43,71,68619600.0,1972
+Philadelphia 76ers,Los Angeles Lakers,Philadelphia 76ers,28,44,72,68792400.0,1972
+Philadelphia 76ers,Seattle Supersonics,Philadelphia 76ers,29,44,73,68965200.0,1972
+Philadelphia 76ers,Houston Rockets,Philadelphia 76ers,29,45,74,69224400.0,1972
+Philadelphia 76ers,Buffalo Braves,Philadelphia 76ers,29,46,75,69397200.0,1972
+Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,29,47,76,69483600.0,1972
+Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,29,48,77,69656400.0,1972
+Philadelphia 76ers,Philadelphia 76ers,Seattle Supersonics,30,48,78,69829200.0,1972
+Philadelphia 76ers,Philadelphia 76ers,Atlanta Hawks,30,49,79,70002000.0,1972
+Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,30,50,80,70088400.0,1972
+Philadelphia 76ers,Philadelphia 76ers,Chicago Bulls,30,51,81,70261200.0,1972
+Philadelphia 76ers,Philadelphia 76ers,Golden State Warriors,30,52,82,70434000.0,1972
+Phoenix Suns,Phoenix Suns,Milwaukee Bucks,0,1,1,56260800.0,1972
+Phoenix Suns,Phoenix Suns,Houston Rockets,1,1,2,56433600.0,1972
+Phoenix Suns,Phoenix Suns,Detroit Pistons,1,2,3,56952000.0,1972
+Phoenix Suns,Phoenix Suns,Chicago Bulls,1,3,4,57124800.0,1972
+Phoenix Suns,Phoenix Suns,Cincinnati Royals,2,3,5,57297600.0,1972
+Phoenix Suns,Philadelphia 76ers,Phoenix Suns,3,3,6,57556800.0,1972
+Phoenix Suns,Baltimore Bullets,Phoenix Suns,3,4,7,57643200.0,1972
+Phoenix Suns,Chicago Bulls,Phoenix Suns,3,5,8,57906000.0,1972
+Phoenix Suns,Buffalo Braves,Phoenix Suns,4,5,9,57992400.0,1972
+Phoenix Suns,Cleveland Cavaliers,Phoenix Suns,5,5,10,58165200.0,1972
+Phoenix Suns,Cincinnati Royals,Phoenix Suns,5,6,11,58251600.0,1972
+Phoenix Suns,Milwaukee Bucks,Phoenix Suns,5,7,12,58510800.0,1972
+Phoenix Suns,Phoenix Suns,Boston Celtics,6,7,13,58770000.0,1972
+Phoenix Suns,Phoenix Suns,Cleveland Cavaliers,7,7,14,58942800.0,1972
+Phoenix Suns,New York Knicks,Phoenix Suns,7,8,15,59115600.0,1972
+Phoenix Suns,Boston Celtics,Phoenix Suns,7,9,16,59202000.0,1972
+Phoenix Suns,Detroit Pistons,Phoenix Suns,7,10,17,59288400.0,1972
+Phoenix Suns,Atlanta Hawks,Phoenix Suns,7,11,18,59461200.0,1972
+Phoenix Suns,Phoenix Suns,Philadelphia 76ers,8,11,19,59720400.0,1972
+Phoenix Suns,Phoenix Suns,Detroit Pistons,9,11,20,59893200.0,1972
+Phoenix Suns,Houston Rockets,Phoenix Suns,10,11,21,60152400.0,1972
+Phoenix Suns,Portland Trail Blazers,Phoenix Suns,11,11,22,60325200.0,1972
+Phoenix Suns,Phoenix Suns,Portland Trail Blazers,12,11,23,60411600.0,1972
+Phoenix Suns,Golden State Warriors,Phoenix Suns,13,11,24,60670800.0,1972
+Phoenix Suns,Phoenix Suns,Golden State Warriors,14,11,25,60757200.0,1972
+Phoenix Suns,Phoenix Suns,Atlanta Hawks,15,11,26,61102800.0,1972
+Phoenix Suns,Los Angeles Lakers,Phoenix Suns,15,12,27,61189200.0,1972
+Phoenix Suns,Phoenix Suns,Houston Rockets,15,13,28,61275600.0,1972
+Phoenix Suns,New York Knicks,Phoenix Suns,16,13,29,61534800.0,1972
+Phoenix Suns,Cincinnati Royals,Phoenix Suns,17,13,30,61621200.0,1972
+Phoenix Suns,Phoenix Suns,Detroit Pistons,18,13,31,61794000.0,1972
+Phoenix Suns,Phoenix Suns,Los Angeles Lakers,18,14,32,61880400.0,1972
+Phoenix Suns,Seattle Supersonics,Phoenix Suns,18,15,33,61966800.0,1972
+Phoenix Suns,Phoenix Suns,Philadelphia 76ers,19,15,34,62139600.0,1972
+Phoenix Suns,Phoenix Suns,Chicago Bulls,19,16,35,62312400.0,1972
+Phoenix Suns,Phoenix Suns,Seattle Supersonics,20,16,36,62485200.0,1972
+Phoenix Suns,Houston Rockets,Phoenix Suns,21,16,37,62830800.0,1972
+Phoenix Suns,Phoenix Suns,Buffalo Braves,22,16,38,62917200.0,1972
+Phoenix Suns,Phoenix Suns,Boston Celtics,23,16,39,63090000.0,1972
+Phoenix Suns,Phoenix Suns,Atlanta Hawks,23,17,40,63176400.0,1972
+Phoenix Suns,Chicago Bulls,Phoenix Suns,24,17,41,63349200.0,1972
+Phoenix Suns,Buffalo Braves,Phoenix Suns,25,17,42,63608400.0,1972
+Phoenix Suns,Philadelphia 76ers,Phoenix Suns,25,18,43,63694800.0,1972
+Phoenix Suns,Baltimore Bullets,Phoenix Suns,25,19,44,63781200.0,1972
+Phoenix Suns,Milwaukee Bucks,Phoenix Suns,26,19,45,63954000.0,1972
+Phoenix Suns,Phoenix Suns,Cleveland Cavaliers,27,19,46,64213200.0,1972
+Phoenix Suns,Seattle Supersonics,Phoenix Suns,27,20,47,64299600.0,1972
+Phoenix Suns,Phoenix Suns,Baltimore Bullets,27,21,48,64386000.0,1972
+Phoenix Suns,Phoenix Suns,New York Knicks,28,21,49,64731600.0,1972
+Phoenix Suns,Seattle Supersonics,Phoenix Suns,29,21,50,64818000.0,1972
+Phoenix Suns,Phoenix Suns,Los Angeles Lakers,30,21,51,64904400.0,1972
+Phoenix Suns,Los Angeles Lakers,Phoenix Suns,30,22,52,65163600.0,1972
+Phoenix Suns,Phoenix Suns,Chicago Bulls,30,23,53,65422800.0,1972
+Phoenix Suns,Golden State Warriors,Phoenix Suns,30,24,54,65509200.0,1972
+Phoenix Suns,Phoenix Suns,Atlanta Hawks,31,24,55,65595600.0,1972
+Phoenix Suns,Portland Trail Blazers,Phoenix Suns,32,24,56,65768400.0,1972
+Phoenix Suns,Phoenix Suns,Milwaukee Bucks,32,25,57,65854800.0,1972
+Phoenix Suns,Phoenix Suns,Golden State Warriors,33,25,58,66027600.0,1972
+Phoenix Suns,Portland Trail Blazers,Phoenix Suns,34,25,59,66114000.0,1972
+Phoenix Suns,Phoenix Suns,Portland Trail Blazers,35,25,60,66200400.0,1972
+Phoenix Suns,Phoenix Suns,Philadelphia 76ers,36,25,61,66373200.0,1972
+Phoenix Suns,Phoenix Suns,Baltimore Bullets,37,25,62,66546000.0,1972
+Phoenix Suns,Phoenix Suns,Cincinnati Royals,38,25,63,66718800.0,1972
+Phoenix Suns,Phoenix Suns,Los Angeles Lakers,39,25,64,67064400.0,1972
+Phoenix Suns,Phoenix Suns,Boston Celtics,40,25,65,67237200.0,1972
+Phoenix Suns,Detroit Pistons,Phoenix Suns,41,25,66,67410000.0,1972
+Phoenix Suns,Boston Celtics,Phoenix Suns,41,26,67,67582800.0,1972
+Phoenix Suns,Atlanta Hawks,Phoenix Suns,41,27,68,67669200.0,1972
+Phoenix Suns,Chicago Bulls,Phoenix Suns,41,28,69,67842000.0,1972
+Phoenix Suns,Milwaukee Bucks,Phoenix Suns,41,29,70,67928400.0,1972
+Phoenix Suns,Cleveland Cavaliers,Phoenix Suns,42,29,71,68014800.0,1972
+Phoenix Suns,Phoenix Suns,Baltimore Bullets,42,30,72,68274000.0,1972
+Phoenix Suns,Phoenix Suns,Buffalo Braves,43,30,73,68619600.0,1972
+Phoenix Suns,Detroit Pistons,Phoenix Suns,44,30,74,68792400.0,1972
+Phoenix Suns,Cincinnati Royals,Phoenix Suns,44,31,75,68878800.0,1972
+Phoenix Suns,New York Knicks,Phoenix Suns,45,31,76,69138000.0,1972
+Phoenix Suns,Phoenix Suns,Milwaukee Bucks,46,31,77,69483600.0,1972
+Phoenix Suns,Phoenix Suns,New York Knicks,47,31,78,69656400.0,1972
+Phoenix Suns,Golden State Warriors,Phoenix Suns,47,32,79,69742800.0,1972
+Phoenix Suns,Phoenix Suns,Portland Trail Blazers,48,32,80,70002000.0,1972
+Phoenix Suns,Los Angeles Lakers,Phoenix Suns,48,33,81,70261200.0,1972
+Phoenix Suns,Phoenix Suns,Seattle Supersonics,49,33,82,70347600.0,1972
+Portland Trail Blazers,Portland Trail Blazers,Seattle Supersonics,0,1,1,56347200.0,1972
+Portland Trail Blazers,Portland Trail Blazers,Milwaukee Bucks,0,2,2,56520000.0,1972
+Portland Trail Blazers,Portland Trail Blazers,Detroit Pistons,0,3,3,56692800.0,1972
+Portland Trail Blazers,Portland Trail Blazers,Cincinnati Royals,1,3,4,57038400.0,1972
+Portland Trail Blazers,Portland Trail Blazers,Chicago Bulls,1,4,5,57297600.0,1972
+Portland Trail Blazers,Portland Trail Blazers,Buffalo Braves,1,5,6,57556800.0,1972
+Portland Trail Blazers,Houston Rockets,Portland Trail Blazers,2,5,7,58078800.0,1972
+Portland Trail Blazers,Boston Celtics,Portland Trail Blazers,2,6,8,58251600.0,1972
+Portland Trail Blazers,Cleveland Cavaliers,Portland Trail Blazers,2,7,9,58338000.0,1972
+Portland Trail Blazers,Buffalo Braves,Portland Trail Blazers,2,8,10,58510800.0,1972
+Portland Trail Blazers,Detroit Pistons,Portland Trail Blazers,2,9,11,58597200.0,1972
+Portland Trail Blazers,Portland Trail Blazers,Cleveland Cavaliers,2,10,12,58770000.0,1972
+Portland Trail Blazers,Portland Trail Blazers,Los Angeles Lakers,2,11,13,58856400.0,1972
+Portland Trail Blazers,Portland Trail Blazers,Milwaukee Bucks,2,12,14,59115600.0,1972
+Portland Trail Blazers,Golden State Warriors,Portland Trail Blazers,2,13,15,59288400.0,1972
+Portland Trail Blazers,Portland Trail Blazers,Cleveland Cavaliers,3,13,16,59374800.0,1972
+Portland Trail Blazers,Portland Trail Blazers,Seattle Supersonics,3,14,17,59461200.0,1972
+Portland Trail Blazers,Chicago Bulls,Portland Trail Blazers,3,15,18,59720400.0,1972
+Portland Trail Blazers,Cincinnati Royals,Portland Trail Blazers,3,16,19,59806800.0,1972
+Portland Trail Blazers,Milwaukee Bucks,Portland Trail Blazers,3,17,20,59979600.0,1972
+Portland Trail Blazers,Philadelphia 76ers,Portland Trail Blazers,3,18,21,60066000.0,1972
+Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,3,19,22,60325200.0,1972
+Portland Trail Blazers,Phoenix Suns,Portland Trail Blazers,3,20,23,60411600.0,1972
+Portland Trail Blazers,Portland Trail Blazers,Golden State Warriors,4,20,24,60584400.0,1972
+Portland Trail Blazers,Los Angeles Lakers,Portland Trail Blazers,4,21,25,60757200.0,1972
+Portland Trail Blazers,Detroit Pistons,Portland Trail Blazers,5,21,26,60930000.0,1972
+Portland Trail Blazers,Baltimore Bullets,Portland Trail Blazers,5,22,27,61016400.0,1972
+Portland Trail Blazers,Buffalo Braves,Portland Trail Blazers,6,22,28,61189200.0,1972
+Portland Trail Blazers,New York Knicks,Portland Trail Blazers,6,23,29,61275600.0,1972
+Portland Trail Blazers,Portland Trail Blazers,Los Angeles Lakers,6,24,30,61534800.0,1972
+Portland Trail Blazers,Portland Trail Blazers,Philadelphia 76ers,7,24,31,61794000.0,1972
+Portland Trail Blazers,Seattle Supersonics,Portland Trail Blazers,7,25,32,61880400.0,1972
+Portland Trail Blazers,Portland Trail Blazers,Detroit Pistons,8,25,33,61966800.0,1972
+Portland Trail Blazers,Portland Trail Blazers,Houston Rockets,8,26,34,62139600.0,1972
+Portland Trail Blazers,Portland Trail Blazers,New York Knicks,8,27,35,62312400.0,1972
+Portland Trail Blazers,Portland Trail Blazers,Chicago Bulls,8,28,36,62485200.0,1972
+Portland Trail Blazers,Atlanta Hawks,Portland Trail Blazers,8,29,37,62658000.0,1972
+Portland Trail Blazers,Cleveland Cavaliers,Portland Trail Blazers,8,30,38,62744400.0,1972
+Portland Trail Blazers,Milwaukee Bucks,Portland Trail Blazers,8,31,39,62830800.0,1972
+Portland Trail Blazers,Chicago Bulls,Portland Trail Blazers,8,32,40,62917200.0,1972
+Portland Trail Blazers,Portland Trail Blazers,Buffalo Braves,9,32,41,63176400.0,1972
+Portland Trail Blazers,Portland Trail Blazers,Atlanta Hawks,9,33,42,63349200.0,1972
+Portland Trail Blazers,Golden State Warriors,Portland Trail Blazers,9,34,43,63522000.0,1972
+Portland Trail Blazers,Portland Trail Blazers,Boston Celtics,9,35,44,63608400.0,1972
+Portland Trail Blazers,Portland Trail Blazers,Cleveland Cavaliers,10,35,45,63694800.0,1972
+Portland Trail Blazers,Portland Trail Blazers,Baltimore Bullets,11,35,46,63954000.0,1972
+Portland Trail Blazers,Buffalo Braves,Portland Trail Blazers,12,35,47,64213200.0,1972
+Portland Trail Blazers,Chicago Bulls,Portland Trail Blazers,12,36,48,64299600.0,1972
+Portland Trail Blazers,Milwaukee Bucks,Portland Trail Blazers,12,37,49,64386000.0,1972
+Portland Trail Blazers,Philadelphia 76ers,Portland Trail Blazers,12,38,50,64818000.0,1972
+Portland Trail Blazers,Baltimore Bullets,Portland Trail Blazers,12,39,51,64904400.0,1972
+Portland Trail Blazers,Boston Celtics,Portland Trail Blazers,12,40,52,64990800.0,1972
+Portland Trail Blazers,Houston Rockets,Portland Trail Blazers,12,41,53,65163600.0,1972
+Portland Trail Blazers,Portland Trail Blazers,Golden State Warriors,12,42,54,65422800.0,1972
+Portland Trail Blazers,Los Angeles Lakers,Portland Trail Blazers,12,43,55,65595600.0,1972
+Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,12,44,56,65768400.0,1972
+Portland Trail Blazers,Portland Trail Blazers,Houston Rockets,13,44,57,66027600.0,1972
+Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,13,45,58,66114000.0,1972
+Portland Trail Blazers,Phoenix Suns,Portland Trail Blazers,13,46,59,66200400.0,1972
+Portland Trail Blazers,Portland Trail Blazers,Cincinnati Royals,14,46,60,66373200.0,1972
+Portland Trail Blazers,Portland Trail Blazers,Philadelphia 76ers,15,46,61,66632400.0,1972
+Portland Trail Blazers,Seattle Supersonics,Portland Trail Blazers,15,47,62,66718800.0,1972
+Portland Trail Blazers,Portland Trail Blazers,Seattle Supersonics,15,48,63,66805200.0,1972
+Portland Trail Blazers,Portland Trail Blazers,Boston Celtics,15,49,64,66978000.0,1972
+Portland Trail Blazers,Los Angeles Lakers,Portland Trail Blazers,15,50,65,67237200.0,1972
+Portland Trail Blazers,Portland Trail Blazers,Los Angeles Lakers,15,51,66,67323600.0,1972
+Portland Trail Blazers,Seattle Supersonics,Portland Trail Blazers,15,52,67,67410000.0,1972
+Portland Trail Blazers,New York Knicks,Portland Trail Blazers,15,53,68,67582800.0,1972
+Portland Trail Blazers,Cincinnati Royals,Portland Trail Blazers,15,54,69,67669200.0,1972
+Portland Trail Blazers,Cleveland Cavaliers,Portland Trail Blazers,15,55,70,67842000.0,1972
+Portland Trail Blazers,Atlanta Hawks,Portland Trail Blazers,15,56,71,68014800.0,1972
+Portland Trail Blazers,Portland Trail Blazers,Chicago Bulls,15,57,72,68187600.0,1972
+Portland Trail Blazers,Portland Trail Blazers,Baltimore Bullets,15,58,73,68446800.0,1972
+Portland Trail Blazers,Portland Trail Blazers,Atlanta Hawks,15,59,74,68533200.0,1972
+Portland Trail Blazers,Portland Trail Blazers,Buffalo Braves,16,59,75,68792400.0,1972
+Portland Trail Blazers,Houston Rockets,Portland Trail Blazers,16,60,76,68965200.0,1972
+Portland Trail Blazers,Portland Trail Blazers,Milwaukee Bucks,16,61,77,69397200.0,1972
+Portland Trail Blazers,Golden State Warriors,Portland Trail Blazers,16,62,78,69570000.0,1972
+Portland Trail Blazers,Portland Trail Blazers,Golden State Warriors,17,62,79,69656400.0,1972
+Portland Trail Blazers,Portland Trail Blazers,New York Knicks,18,62,80,69742800.0,1972
+Portland Trail Blazers,Phoenix Suns,Portland Trail Blazers,18,63,81,70002000.0,1972
+Portland Trail Blazers,Houston Rockets,Portland Trail Blazers,18,64,82,70434000.0,1972
+Seattle Supersonics,Buffalo Braves,Seattle Supersonics,1,0,1,56088000.0,1972
+Seattle Supersonics,Portland Trail Blazers,Seattle Supersonics,2,0,2,56347200.0,1972
+Seattle Supersonics,Seattle Supersonics,Milwaukee Bucks,2,1,3,56433600.0,1972
+Seattle Supersonics,Cincinnati Royals,Seattle Supersonics,3,1,4,56692800.0,1972
+Seattle Supersonics,Philadelphia 76ers,Seattle Supersonics,3,2,5,56779200.0,1972
+Seattle Supersonics,Seattle Supersonics,Houston Rockets,4,2,6,56952000.0,1972
+Seattle Supersonics,Seattle Supersonics,Cincinnati Royals,5,2,7,57124800.0,1972
+Seattle Supersonics,Seattle Supersonics,Buffalo Braves,6,2,8,57470400.0,1972
+Seattle Supersonics,Seattle Supersonics,Los Angeles Lakers,7,2,9,57643200.0,1972
+Seattle Supersonics,Golden State Warriors,Seattle Supersonics,7,3,10,58078800.0,1972
+Seattle Supersonics,Seattle Supersonics,New York Knicks,8,3,11,58165200.0,1972
+Seattle Supersonics,Seattle Supersonics,Golden State Warriors,8,4,12,58338000.0,1972
+Seattle Supersonics,Seattle Supersonics,Cleveland Cavaliers,9,4,13,58683600.0,1972
+Seattle Supersonics,Los Angeles Lakers,Seattle Supersonics,9,5,14,58770000.0,1972
+Seattle Supersonics,Seattle Supersonics,Boston Celtics,10,5,15,58856400.0,1972
+Seattle Supersonics,Chicago Bulls,Seattle Supersonics,10,6,16,59115600.0,1972
+Seattle Supersonics,Atlanta Hawks,Seattle Supersonics,11,6,17,59202000.0,1972
+Seattle Supersonics,Seattle Supersonics,Milwaukee Bucks,11,7,18,59374800.0,1972
+Seattle Supersonics,Portland Trail Blazers,Seattle Supersonics,12,7,19,59461200.0,1972
+Seattle Supersonics,Seattle Supersonics,Philadelphia 76ers,13,7,20,59547600.0,1972
+Seattle Supersonics,Seattle Supersonics,Los Angeles Lakers,13,8,21,59893200.0,1972
+Seattle Supersonics,Seattle Supersonics,Detroit Pistons,14,8,22,60066000.0,1972
+Seattle Supersonics,Los Angeles Lakers,Seattle Supersonics,14,9,23,60152400.0,1972
+Seattle Supersonics,New York Knicks,Seattle Supersonics,15,9,24,60325200.0,1972
+Seattle Supersonics,Philadelphia 76ers,Seattle Supersonics,15,10,25,60411600.0,1972
+Seattle Supersonics,Baltimore Bullets,Seattle Supersonics,16,10,26,60584400.0,1972
+Seattle Supersonics,Cincinnati Royals,Seattle Supersonics,17,10,27,60670800.0,1972
+Seattle Supersonics,Cleveland Cavaliers,Seattle Supersonics,18,10,28,60757200.0,1972
+Seattle Supersonics,Milwaukee Bucks,Seattle Supersonics,18,11,29,60930000.0,1972
+Seattle Supersonics,Seattle Supersonics,Golden State Warriors,19,11,30,61189200.0,1972
+Seattle Supersonics,Houston Rockets,Seattle Supersonics,19,12,31,61362000.0,1972
+Seattle Supersonics,Detroit Pistons,Seattle Supersonics,20,12,32,61534800.0,1972
+Seattle Supersonics,Boston Celtics,Seattle Supersonics,20,13,33,61621200.0,1972
+Seattle Supersonics,Milwaukee Bucks,Seattle Supersonics,20,14,34,61794000.0,1972
+Seattle Supersonics,Seattle Supersonics,Portland Trail Blazers,21,14,35,61880400.0,1972
+Seattle Supersonics,Seattle Supersonics,Phoenix Suns,22,14,36,61966800.0,1972
+Seattle Supersonics,Seattle Supersonics,New York Knicks,22,15,37,62226000.0,1972
+Seattle Supersonics,Phoenix Suns,Seattle Supersonics,22,16,38,62485200.0,1972
+Seattle Supersonics,Seattle Supersonics,Chicago Bulls,22,17,39,62571600.0,1972
+Seattle Supersonics,Seattle Supersonics,Los Angeles Lakers,22,18,40,62917200.0,1972
+Seattle Supersonics,Seattle Supersonics,Buffalo Braves,23,18,41,63090000.0,1972
+Seattle Supersonics,Houston Rockets,Seattle Supersonics,23,19,42,63349200.0,1972
+Seattle Supersonics,Seattle Supersonics,Atlanta Hawks,24,19,43,63435600.0,1972
+Seattle Supersonics,Seattle Supersonics,Cleveland Cavaliers,25,19,44,63608400.0,1972
+Seattle Supersonics,Seattle Supersonics,Boston Celtics,26,19,45,63781200.0,1972
+Seattle Supersonics,Seattle Supersonics,Houston Rockets,27,19,46,63954000.0,1972
+Seattle Supersonics,Seattle Supersonics,Baltimore Bullets,28,19,47,64126800.0,1972
+Seattle Supersonics,Seattle Supersonics,Phoenix Suns,29,19,48,64299600.0,1972
+Seattle Supersonics,Seattle Supersonics,Phoenix Suns,29,20,49,64818000.0,1972
+Seattle Supersonics,Seattle Supersonics,New York Knicks,29,21,50,64990800.0,1972
+Seattle Supersonics,Milwaukee Bucks,Seattle Supersonics,29,22,51,65163600.0,1972
+Seattle Supersonics,Atlanta Hawks,Seattle Supersonics,30,22,52,65250000.0,1972
+Seattle Supersonics,Buffalo Braves,Seattle Supersonics,31,22,53,65422800.0,1972
+Seattle Supersonics,New York Knicks,Seattle Supersonics,31,23,54,65509200.0,1972
+Seattle Supersonics,Chicago Bulls,Seattle Supersonics,32,23,55,65768400.0,1972
+Seattle Supersonics,Houston Rockets,Seattle Supersonics,32,24,56,65854800.0,1972
+Seattle Supersonics,Cleveland Cavaliers,Seattle Supersonics,33,24,57,66027600.0,1972
+Seattle Supersonics,Boston Celtics,Seattle Supersonics,33,25,58,66200400.0,1972
+Seattle Supersonics,Houston Rockets,Seattle Supersonics,34,25,59,66373200.0,1972
+Seattle Supersonics,Seattle Supersonics,Cincinnati Royals,35,25,60,66546000.0,1972
+Seattle Supersonics,Seattle Supersonics,Portland Trail Blazers,36,25,61,66718800.0,1972
+Seattle Supersonics,Portland Trail Blazers,Seattle Supersonics,37,25,62,66805200.0,1972
+Seattle Supersonics,Seattle Supersonics,Boston Celtics,38,25,63,67064400.0,1972
+Seattle Supersonics,Seattle Supersonics,Golden State Warriors,39,25,64,67237200.0,1972
+Seattle Supersonics,Seattle Supersonics,Portland Trail Blazers,40,25,65,67410000.0,1972
+Seattle Supersonics,Golden State Warriors,Seattle Supersonics,40,26,66,67582800.0,1972
+Seattle Supersonics,Seattle Supersonics,Detroit Pistons,41,26,67,67669200.0,1972
+Seattle Supersonics,Seattle Supersonics,Cincinnati Royals,42,26,68,67928400.0,1972
+Seattle Supersonics,Baltimore Bullets,Seattle Supersonics,43,26,69,68187600.0,1972
+Seattle Supersonics,Detroit Pistons,Seattle Supersonics,44,26,70,68274000.0,1972
+Seattle Supersonics,Seattle Supersonics,Chicago Bulls,45,26,71,68446800.0,1972
+Seattle Supersonics,Golden State Warriors,Seattle Supersonics,45,27,72,68533200.0,1972
+Seattle Supersonics,Seattle Supersonics,Atlanta Hawks,46,27,73,68619600.0,1972
+Seattle Supersonics,Seattle Supersonics,Baltimore Bullets,46,28,74,68792400.0,1972
+Seattle Supersonics,Seattle Supersonics,Philadelphia 76ers,46,29,75,68965200.0,1972
+Seattle Supersonics,Seattle Supersonics,Milwaukee Bucks,46,30,76,69224400.0,1972
+Seattle Supersonics,Chicago Bulls,Seattle Supersonics,47,30,77,69397200.0,1972
+Seattle Supersonics,Atlanta Hawks,Seattle Supersonics,47,31,78,69483600.0,1972
+Seattle Supersonics,Baltimore Bullets,Seattle Supersonics,47,32,79,69656400.0,1972
+Seattle Supersonics,Philadelphia 76ers,Seattle Supersonics,47,33,80,69829200.0,1972
+Seattle Supersonics,Phoenix Suns,Seattle Supersonics,47,34,81,70347600.0,1972
+Seattle Supersonics,Los Angeles Lakers,Seattle Supersonics,47,35,82,70434000.0,1972
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,

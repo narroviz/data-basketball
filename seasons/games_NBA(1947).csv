@@ -1,0 +1,661 @@
+id,home_team,away_team,win,loss,game_number,date,year
+Boston Celtics,Providence Steamrollers,Boston Celtics,0,1,1,-731012400.0,1947
+Boston Celtics,Boston Celtics,Chicago Stags,0,2,2,-730753200.0,1947
+Boston Celtics,Detroit Falcons,Boston Celtics,0,3,3,-730407600.0,1947
+Boston Celtics,Chicago Stags,Boston Celtics,0,4,4,-730062000.0,1947
+Boston Celtics,St. Louis Bombers,Boston Celtics,0,5,5,-729975600.0,1947
+Boston Celtics,Boston Celtics,Toronto Huskies,1,5,6,-729802800.0,1947
+Boston Celtics,Boston Celtics,St. Louis Bombers,1,6,7,-729370800.0,1947
+Boston Celtics,Toronto Huskies,Boston Celtics,1,7,8,-729284400.0,1947
+Boston Celtics,Detroit Falcons,Boston Celtics,1,8,9,-729198000.0,1947
+Boston Celtics,Boston Celtics,Providence Steamrollers,1,9,10,-729025200.0,1947
+Boston Celtics,Philadelphia Warriors,Boston Celtics,1,10,11,-728938800.0,1947
+Boston Celtics,Boston Celtics,Pittsburgh Ironmen,2,10,12,-728766000.0,1947
+Boston Celtics,Chicago Stags,Boston Celtics,2,11,13,-728506800.0,1947
+Boston Celtics,Pittsburgh Ironmen,Boston Celtics,3,11,14,-728420400.0,1947
+Boston Celtics,Boston Celtics,Detroit Falcons,3,12,15,-728161200.0,1947
+Boston Celtics,Boston Celtics,New York Knicks,3,13,16,-727988400.0,1947
+Boston Celtics,New York Knicks,Boston Celtics,3,14,17,-727902000.0,1947
+Boston Celtics,Boston Celtics,Detroit Falcons,4,14,18,-727556400.0,1947
+Boston Celtics,Boston Celtics,Philadelphia Warriors,5,14,19,-727383600.0,1947
+Boston Celtics,Boston Celtics,St. Louis Bombers,5,15,20,-726951600.0,1947
+Boston Celtics,St. Louis Bombers,Boston Celtics,5,16,21,-726692400.0,1947
+Boston Celtics,Pittsburgh Ironmen,Boston Celtics,5,17,22,-726606000.0,1947
+Boston Celtics,Boston Celtics,Philadelphia Warriors,5,18,23,-726260400.0,1947
+Boston Celtics,Providence Steamrollers,Boston Celtics,5,19,24,-726174000.0,1947
+Boston Celtics,Boston Celtics,Washington Capitols,5,20,25,-726001200.0,1947
+Boston Celtics,Toronto Huskies,Boston Celtics,6,20,26,-725655600.0,1947
+Boston Celtics,Boston Celtics,Cleveland Rebels,6,21,27,-725396400.0,1947
+Boston Celtics,Boston Celtics,New York Knicks,7,21,28,-725050800.0,1947
+Boston Celtics,Providence Steamrollers,Boston Celtics,8,21,29,-724964400.0,1947
+Boston Celtics,Boston Celtics,Washington Capitols,9,21,30,-724532400.0,1947
+Boston Celtics,New York Knicks,Boston Celtics,10,21,31,-724359600.0,1947
+Boston Celtics,Boston Celtics,Chicago Stags,10,22,32,-724186800.0,1947
+Boston Celtics,Philadelphia Warriors,Boston Celtics,10,23,33,-724100400.0,1947
+Boston Celtics,Boston Celtics,Pittsburgh Ironmen,11,23,34,-723927600.0,1947
+Boston Celtics,New York Knicks,Boston Celtics,12,23,35,-723754800.0,1947
+Boston Celtics,Boston Celtics,Washington Capitols,12,24,36,-723582000.0,1947
+Boston Celtics,Washington Capitols,Boston Celtics,12,25,37,-723409200.0,1947
+Boston Celtics,Boston Celtics,Pittsburgh Ironmen,13,25,38,-723322800.0,1947
+Boston Celtics,Boston Celtics,Philadelphia Warriors,13,26,39,-722977200.0,1947
+Boston Celtics,Boston Celtics,New York Knicks,14,26,40,-722718000.0,1947
+Boston Celtics,Boston Celtics,St. Louis Bombers,15,26,41,-722113200.0,1947
+Boston Celtics,Chicago Stags,Boston Celtics,15,27,42,-721854000.0,1947
+Boston Celtics,Cleveland Rebels,Boston Celtics,15,28,43,-721681200.0,1947
+Boston Celtics,Detroit Falcons,Boston Celtics,16,28,44,-721594800.0,1947
+Boston Celtics,Toronto Huskies,Boston Celtics,16,29,45,-721422000.0,1947
+Boston Celtics,Boston Celtics,Providence Steamrollers,16,30,46,-721249200.0,1947
+Boston Celtics,Washington Capitols,Boston Celtics,16,31,47,-721162800.0,1947
+Boston Celtics,Boston Celtics,Cleveland Rebels,17,31,48,-720817200.0,1947
+Boston Celtics,Washington Capitols,Boston Celtics,17,32,49,-720730800.0,1947
+Boston Celtics,Boston Celtics,Detroit Falcons,18,32,50,-720298800.0,1947
+Boston Celtics,Boston Celtics,Toronto Huskies,19,32,51,-720126000.0,1947
+Boston Celtics,Boston Celtics,Providence Steamrollers,19,33,52,-719953200.0,1947
+Boston Celtics,Boston Celtics,Toronto Huskies,20,33,53,-719780400.0,1947
+Boston Celtics,Philadelphia Warriors,Boston Celtics,20,34,54,-719694000.0,1947
+Boston Celtics,Boston Celtics,Cleveland Rebels,20,35,55,-719262000.0,1947
+Boston Celtics,Boston Celtics,Chicago Stags,20,36,56,-718743600.0,1947
+Boston Celtics,Cleveland Rebels,Boston Celtics,20,37,57,-718657200.0,1947
+Boston Celtics,Pittsburgh Ironmen,Boston Celtics,21,37,58,-718570800.0,1947
+Boston Celtics,St. Louis Bombers,Boston Celtics,21,38,59,-718311600.0,1947
+Boston Celtics,Cleveland Rebels,Boston Celtics,22,38,60,-718225200.0,1947
+Chicago Stags,Chicago Stags,New York Knicks,1,0,1,-731012400.0,1947
+Chicago Stags,Boston Celtics,Chicago Stags,2,0,2,-730753200.0,1947
+Chicago Stags,Providence Steamrollers,Chicago Stags,2,1,3,-730580400.0,1947
+Chicago Stags,Chicago Stags,Toronto Huskies,3,1,4,-730407600.0,1947
+Chicago Stags,New York Knicks,Chicago Stags,4,1,5,-730234800.0,1947
+Chicago Stags,Chicago Stags,Boston Celtics,5,1,6,-730062000.0,1947
+Chicago Stags,Chicago Stags,Washington Capitols,5,2,7,-729802800.0,1947
+Chicago Stags,Cleveland Rebels,Chicago Stags,6,2,8,-729716400.0,1947
+Chicago Stags,New York Knicks,Chicago Stags,6,3,9,-729457200.0,1947
+Chicago Stags,Philadelphia Warriors,Chicago Stags,7,3,10,-729370800.0,1947
+Chicago Stags,Chicago Stags,Detroit Falcons,7,4,11,-729111600.0,1947
+Chicago Stags,Washington Capitols,Chicago Stags,7,5,12,-728852400.0,1947
+Chicago Stags,Chicago Stags,St. Louis Bombers,7,6,13,-728766000.0,1947
+Chicago Stags,Chicago Stags,Boston Celtics,8,6,14,-728506800.0,1947
+Chicago Stags,Pittsburgh Ironmen,Chicago Stags,9,6,15,-728247600.0,1947
+Chicago Stags,Chicago Stags,Toronto Huskies,9,7,16,-728161200.0,1947
+Chicago Stags,Chicago Stags,Cleveland Rebels,10,7,17,-727988400.0,1947
+Chicago Stags,Chicago Stags,Cleveland Rebels,11,7,18,-727642800.0,1947
+Chicago Stags,St. Louis Bombers,Chicago Stags,12,7,19,-727556400.0,1947
+Chicago Stags,Chicago Stags,Pittsburgh Ironmen,13,7,20,-727297200.0,1947
+Chicago Stags,Providence Steamrollers,Chicago Stags,13,8,21,-726951600.0,1947
+Chicago Stags,Chicago Stags,Detroit Falcons,14,8,22,-726692400.0,1947
+Chicago Stags,Toronto Huskies,Chicago Stags,15,8,23,-726260400.0,1947
+Chicago Stags,Cleveland Rebels,Chicago Stags,16,8,24,-726087600.0,1947
+Chicago Stags,Toronto Huskies,Chicago Stags,16,9,25,-725914800.0,1947
+Chicago Stags,Chicago Stags,St. Louis Bombers,16,10,26,-725828400.0,1947
+Chicago Stags,Detroit Falcons,Chicago Stags,17,10,27,-725223600.0,1947
+Chicago Stags,St. Louis Bombers,Chicago Stags,17,11,28,-725137200.0,1947
+Chicago Stags,Chicago Stags,Philadelphia Warriors,18,11,29,-724878000.0,1947
+Chicago Stags,Detroit Falcons,Chicago Stags,18,12,30,-724618800.0,1947
+Chicago Stags,Philadelphia Warriors,Chicago Stags,19,12,31,-724532400.0,1947
+Chicago Stags,Washington Capitols,Chicago Stags,19,13,32,-724359600.0,1947
+Chicago Stags,Boston Celtics,Chicago Stags,20,13,33,-724186800.0,1947
+Chicago Stags,New York Knicks,Chicago Stags,20,14,34,-724014000.0,1947
+Chicago Stags,Chicago Stags,Providence Steamrollers,21,14,35,-723927600.0,1947
+Chicago Stags,Chicago Stags,Philadelphia Warriors,22,14,36,-723668400.0,1947
+Chicago Stags,Chicago Stags,Toronto Huskies,23,14,37,-723063600.0,1947
+Chicago Stags,Chicago Stags,Pittsburgh Ironmen,24,14,38,-722718000.0,1947
+Chicago Stags,Chicago Stags,Washington Capitols,25,14,39,-722458800.0,1947
+Chicago Stags,Pittsburgh Ironmen,Chicago Stags,26,14,40,-722199600.0,1947
+Chicago Stags,Chicago Stags,Providence Steamrollers,27,14,41,-722113200.0,1947
+Chicago Stags,Chicago Stags,Boston Celtics,28,14,42,-721854000.0,1947
+Chicago Stags,Chicago Stags,Detroit Falcons,28,15,43,-721508400.0,1947
+Chicago Stags,St. Louis Bombers,Chicago Stags,28,16,44,-721422000.0,1947
+Chicago Stags,Chicago Stags,New York Knicks,29,16,45,-721249200.0,1947
+Chicago Stags,Detroit Falcons,Chicago Stags,30,16,46,-720990000.0,1947
+Chicago Stags,Chicago Stags,St. Louis Bombers,31,16,47,-720644400.0,1947
+Chicago Stags,Pittsburgh Ironmen,Chicago Stags,32,16,48,-720558000.0,1947
+Chicago Stags,Chicago Stags,Pittsburgh Ironmen,33,16,49,-720298800.0,1947
+Chicago Stags,Chicago Stags,Providence Steamrollers,34,16,50,-720126000.0,1947
+Chicago Stags,Cleveland Rebels,Chicago Stags,35,16,51,-720039600.0,1947
+Chicago Stags,Chicago Stags,Washington Capitols,35,17,52,-719694000.0,1947
+Chicago Stags,Chicago Stags,Philadelphia Warriors,36,17,53,-719521200.0,1947
+Chicago Stags,Chicago Stags,New York Knicks,36,18,54,-719175600.0,1947
+Chicago Stags,Toronto Huskies,Chicago Stags,37,18,55,-719002800.0,1947
+Chicago Stags,Chicago Stags,Cleveland Rebels,37,19,56,-718916400.0,1947
+Chicago Stags,Boston Celtics,Chicago Stags,38,19,57,-718743600.0,1947
+Chicago Stags,Washington Capitols,Chicago Stags,38,20,58,-718570800.0,1947
+Chicago Stags,Philadelphia Warriors,Chicago Stags,38,21,59,-718484400.0,1947
+Chicago Stags,Providence Steamrollers,Chicago Stags,38,22,60,-718311600.0,1947
+Cleveland Rebels,Cleveland Rebels,Toronto Huskies,1,0,1,-730926000.0,1947
+Cleveland Rebels,Cleveland Rebels,Washington Capitols,2,0,2,-730321200.0,1947
+Cleveland Rebels,St. Louis Bombers,Cleveland Rebels,2,1,3,-729802800.0,1947
+Cleveland Rebels,Cleveland Rebels,Chicago Stags,2,2,4,-729716400.0,1947
+Cleveland Rebels,Toronto Huskies,Cleveland Rebels,3,2,5,-729543600.0,1947
+Cleveland Rebels,New York Knicks,Cleveland Rebels,3,3,6,-729198000.0,1947
+Cleveland Rebels,Cleveland Rebels,Pittsburgh Ironmen,4,3,7,-729111600.0,1947
+Cleveland Rebels,Detroit Falcons,Cleveland Rebels,4,4,8,-728938800.0,1947
+Cleveland Rebels,Pittsburgh Ironmen,Cleveland Rebels,4,5,9,-728852400.0,1947
+Cleveland Rebels,Toronto Huskies,Cleveland Rebels,5,5,10,-728679600.0,1947
+Cleveland Rebels,Cleveland Rebels,Detroit Falcons,6,5,11,-728506800.0,1947
+Cleveland Rebels,Chicago Stags,Cleveland Rebels,6,6,12,-727988400.0,1947
+Cleveland Rebels,Cleveland Rebels,Philadelphia Warriors,7,6,13,-727902000.0,1947
+Cleveland Rebels,Cleveland Rebels,St. Louis Bombers,7,7,14,-727729200.0,1947
+Cleveland Rebels,Chicago Stags,Cleveland Rebels,7,8,15,-727642800.0,1947
+Cleveland Rebels,Washington Capitols,Cleveland Rebels,7,9,16,-727383600.0,1947
+Cleveland Rebels,Cleveland Rebels,New York Knicks,8,9,17,-727297200.0,1947
+Cleveland Rebels,Cleveland Rebels,Toronto Huskies,9,9,18,-727124400.0,1947
+Cleveland Rebels,New York Knicks,Cleveland Rebels,10,9,19,-727038000.0,1947
+Cleveland Rebels,Philadelphia Warriors,Cleveland Rebels,10,10,20,-726951600.0,1947
+Cleveland Rebels,Cleveland Rebels,Pittsburgh Ironmen,10,11,21,-726692400.0,1947
+Cleveland Rebels,Cleveland Rebels,Chicago Stags,10,12,22,-726087600.0,1947
+Cleveland Rebels,Cleveland Rebels,St. Louis Bombers,10,13,23,-725914800.0,1947
+Cleveland Rebels,Pittsburgh Ironmen,Cleveland Rebels,11,13,24,-725828400.0,1947
+Cleveland Rebels,Washington Capitols,Cleveland Rebels,11,14,25,-725569200.0,1947
+Cleveland Rebels,Boston Celtics,Cleveland Rebels,12,14,26,-725396400.0,1947
+Cleveland Rebels,Providence Steamrollers,Cleveland Rebels,12,15,27,-725137200.0,1947
+Cleveland Rebels,Cleveland Rebels,Providence Steamrollers,12,16,28,-724705200.0,1947
+Cleveland Rebels,St. Louis Bombers,Cleveland Rebels,13,16,29,-724532400.0,1947
+Cleveland Rebels,Cleveland Rebels,New York Knicks,14,16,30,-724273200.0,1947
+Cleveland Rebels,Detroit Falcons,Cleveland Rebels,15,16,31,-724014000.0,1947
+Cleveland Rebels,Philadelphia Warriors,Cleveland Rebels,15,17,32,-723927600.0,1947
+Cleveland Rebels,Toronto Huskies,Cleveland Rebels,16,17,33,-723582000.0,1947
+Cleveland Rebels,Cleveland Rebels,Toronto Huskies,17,17,34,-723495600.0,1947
+Cleveland Rebels,St. Louis Bombers,Cleveland Rebels,17,18,35,-723150000.0,1947
+Cleveland Rebels,Cleveland Rebels,Washington Capitols,17,19,36,-723063600.0,1947
+Cleveland Rebels,Cleveland Rebels,Detroit Falcons,17,20,37,-722458800.0,1947
+Cleveland Rebels,Cleveland Rebels,Providence Steamrollers,18,20,38,-722286000.0,1947
+Cleveland Rebels,Philadelphia Warriors,Cleveland Rebels,18,21,39,-722113200.0,1947
+Cleveland Rebels,New York Knicks,Cleveland Rebels,19,21,40,-721940400.0,1947
+Cleveland Rebels,Cleveland Rebels,Philadelphia Warriors,20,21,41,-721854000.0,1947
+Cleveland Rebels,Cleveland Rebels,Boston Celtics,21,21,42,-721681200.0,1947
+Cleveland Rebels,Providence Steamrollers,Cleveland Rebels,21,22,43,-721335600.0,1947
+Cleveland Rebels,Cleveland Rebels,Washington Capitols,21,23,44,-721249200.0,1947
+Cleveland Rebels,Cleveland Rebels,St. Louis Bombers,21,24,45,-721076400.0,1947
+Cleveland Rebels,Pittsburgh Ironmen,Cleveland Rebels,22,24,46,-720990000.0,1947
+Cleveland Rebels,Boston Celtics,Cleveland Rebels,22,25,47,-720817200.0,1947
+Cleveland Rebels,Cleveland Rebels,Philadelphia Warriors,23,25,48,-720644400.0,1947
+Cleveland Rebels,Cleveland Rebels,Providence Steamrollers,24,25,49,-720471600.0,1947
+Cleveland Rebels,Cleveland Rebels,Chicago Stags,24,26,50,-720039600.0,1947
+Cleveland Rebels,Cleveland Rebels,Pittsburgh Ironmen,25,26,51,-719866800.0,1947
+Cleveland Rebels,Detroit Falcons,Cleveland Rebels,26,26,52,-719780400.0,1947
+Cleveland Rebels,Cleveland Rebels,New York Knicks,26,27,53,-719434800.0,1947
+Cleveland Rebels,Boston Celtics,Cleveland Rebels,27,27,54,-719262000.0,1947
+Cleveland Rebels,Providence Steamrollers,Cleveland Rebels,27,28,55,-719089200.0,1947
+Cleveland Rebels,Chicago Stags,Cleveland Rebels,28,28,56,-718916400.0,1947
+Cleveland Rebels,Cleveland Rebels,Detroit Falcons,29,28,57,-718830000.0,1947
+Cleveland Rebels,Cleveland Rebels,Boston Celtics,30,28,58,-718657200.0,1947
+Cleveland Rebels,Washington Capitols,Cleveland Rebels,30,29,59,-718311600.0,1947
+Cleveland Rebels,Cleveland Rebels,Boston Celtics,30,30,60,-718225200.0,1947
+Detroit Falcons,Detroit Falcons,Washington Capitols,0,1,1,-731012400.0,1947
+Detroit Falcons,Detroit Falcons,St. Louis Bombers,0,2,2,-730753200.0,1947
+Detroit Falcons,Toronto Huskies,Detroit Falcons,0,3,3,-730494000.0,1947
+Detroit Falcons,Detroit Falcons,Boston Celtics,1,3,4,-730407600.0,1947
+Detroit Falcons,Detroit Falcons,Providence Steamrollers,1,4,5,-730062000.0,1947
+Detroit Falcons,Providence Steamrollers,Detroit Falcons,2,4,6,-729802800.0,1947
+Detroit Falcons,New York Knicks,Detroit Falcons,2,5,7,-729630000.0,1947
+Detroit Falcons,Detroit Falcons,Pittsburgh Ironmen,2,6,8,-729457200.0,1947
+Detroit Falcons,Detroit Falcons,Boston Celtics,3,6,9,-729198000.0,1947
+Detroit Falcons,Chicago Stags,Detroit Falcons,4,6,10,-729111600.0,1947
+Detroit Falcons,Detroit Falcons,Cleveland Rebels,5,6,11,-728938800.0,1947
+Detroit Falcons,Philadelphia Warriors,Detroit Falcons,6,6,12,-728766000.0,1947
+Detroit Falcons,St. Louis Bombers,Detroit Falcons,6,7,13,-728593200.0,1947
+Detroit Falcons,Cleveland Rebels,Detroit Falcons,6,8,14,-728506800.0,1947
+Detroit Falcons,New York Knicks,Detroit Falcons,6,9,15,-728247600.0,1947
+Detroit Falcons,Boston Celtics,Detroit Falcons,7,9,16,-728161200.0,1947
+Detroit Falcons,Washington Capitols,Detroit Falcons,7,10,17,-727988400.0,1947
+Detroit Falcons,Pittsburgh Ironmen,Detroit Falcons,8,10,18,-727815600.0,1947
+Detroit Falcons,Washington Capitols,Detroit Falcons,8,11,19,-727642800.0,1947
+Detroit Falcons,Boston Celtics,Detroit Falcons,8,12,20,-727556400.0,1947
+Detroit Falcons,Providence Steamrollers,Detroit Falcons,8,13,21,-727383600.0,1947
+Detroit Falcons,Philadelphia Warriors,Detroit Falcons,8,14,22,-727124400.0,1947
+Detroit Falcons,Chicago Stags,Detroit Falcons,8,15,23,-726692400.0,1947
+Detroit Falcons,St. Louis Bombers,Detroit Falcons,8,16,24,-726346800.0,1947
+Detroit Falcons,Detroit Falcons,Toronto Huskies,8,17,25,-726087600.0,1947
+Detroit Falcons,Detroit Falcons,Washington Capitols,9,17,26,-725828400.0,1947
+Detroit Falcons,Detroit Falcons,New York Knicks,9,18,27,-725569200.0,1947
+Detroit Falcons,Toronto Huskies,Detroit Falcons,9,19,28,-725396400.0,1947
+Detroit Falcons,Detroit Falcons,Chicago Stags,9,20,29,-725223600.0,1947
+Detroit Falcons,Detroit Falcons,Philadelphia Warriors,10,20,30,-724964400.0,1947
+Detroit Falcons,Detroit Falcons,Chicago Stags,11,20,31,-724618800.0,1947
+Detroit Falcons,Toronto Huskies,Detroit Falcons,12,20,32,-724446000.0,1947
+Detroit Falcons,Pittsburgh Ironmen,Detroit Falcons,12,21,33,-724186800.0,1947
+Detroit Falcons,Detroit Falcons,Cleveland Rebels,12,22,34,-724014000.0,1947
+Detroit Falcons,Detroit Falcons,Philadelphia Warriors,12,23,35,-723754800.0,1947
+Detroit Falcons,St. Louis Bombers,Detroit Falcons,12,24,36,-723668400.0,1947
+Detroit Falcons,Detroit Falcons,Providence Steamrollers,12,25,37,-723409200.0,1947
+Detroit Falcons,Detroit Falcons,New York Knicks,13,25,38,-723063600.0,1947
+Detroit Falcons,Detroit Falcons,Washington Capitols,13,26,39,-722804400.0,1947
+Detroit Falcons,Detroit Falcons,Pittsburgh Ironmen,14,26,40,-722545200.0,1947
+Detroit Falcons,Cleveland Rebels,Detroit Falcons,15,26,41,-722458800.0,1947
+Detroit Falcons,Detroit Falcons,Providence Steamrollers,16,26,42,-722199600.0,1947
+Detroit Falcons,Detroit Falcons,New York Knicks,16,27,43,-721854000.0,1947
+Detroit Falcons,Pittsburgh Ironmen,Detroit Falcons,16,28,44,-721767600.0,1947
+Detroit Falcons,Detroit Falcons,Boston Celtics,16,29,45,-721594800.0,1947
+Detroit Falcons,Chicago Stags,Detroit Falcons,17,29,46,-721508400.0,1947
+Detroit Falcons,Detroit Falcons,Toronto Huskies,18,29,47,-721249200.0,1947
+Detroit Falcons,Detroit Falcons,Chicago Stags,18,30,48,-720990000.0,1947
+Detroit Falcons,Providence Steamrollers,Detroit Falcons,18,31,49,-720730800.0,1947
+Detroit Falcons,Washington Capitols,Detroit Falcons,18,32,50,-720385200.0,1947
+Detroit Falcons,Boston Celtics,Detroit Falcons,18,33,51,-720298800.0,1947
+Detroit Falcons,New York Knicks,Detroit Falcons,18,34,52,-720126000.0,1947
+Detroit Falcons,Detroit Falcons,Cleveland Rebels,18,35,53,-719780400.0,1947
+Detroit Falcons,Detroit Falcons,Philadelphia Warriors,18,36,54,-719434800.0,1947
+Detroit Falcons,Detroit Falcons,St. Louis Bombers,18,37,55,-719262000.0,1947
+Detroit Falcons,Philadelphia Warriors,Detroit Falcons,18,38,56,-719089200.0,1947
+Detroit Falcons,Detroit Falcons,Pittsburgh Ironmen,19,38,57,-718916400.0,1947
+Detroit Falcons,Cleveland Rebels,Detroit Falcons,19,39,58,-718830000.0,1947
+Detroit Falcons,Detroit Falcons,St. Louis Bombers,19,40,59,-718570800.0,1947
+Detroit Falcons,Detroit Falcons,Toronto Huskies,20,40,60,-718311600.0,1947
+New York Knicks,Toronto Huskies,New York Knicks,1,0,1,-731098800.0,1947
+New York Knicks,Chicago Stags,New York Knicks,1,1,2,-731012400.0,1947
+New York Knicks,St. Louis Bombers,New York Knicks,2,1,3,-730580400.0,1947
+New York Knicks,New York Knicks,Chicago Stags,2,2,4,-730234800.0,1947
+New York Knicks,New York Knicks,Pittsburgh Ironmen,3,2,5,-729802800.0,1947
+New York Knicks,New York Knicks,Detroit Falcons,4,2,6,-729630000.0,1947
+New York Knicks,New York Knicks,Chicago Stags,5,2,7,-729457200.0,1947
+New York Knicks,New York Knicks,Cleveland Rebels,6,2,8,-729198000.0,1947
+New York Knicks,Pittsburgh Ironmen,New York Knicks,7,2,9,-729025200.0,1947
+New York Knicks,New York Knicks,St. Louis Bombers,8,2,10,-728852400.0,1947
+New York Knicks,Providence Steamrollers,New York Knicks,9,2,11,-728766000.0,1947
+New York Knicks,New York Knicks,Philadelphia Warriors,10,2,12,-728593200.0,1947
+New York Knicks,New York Knicks,Detroit Falcons,11,2,13,-728247600.0,1947
+New York Knicks,Philadelphia Warriors,New York Knicks,11,3,14,-728161200.0,1947
+New York Knicks,Boston Celtics,New York Knicks,12,3,15,-727988400.0,1947
+New York Knicks,New York Knicks,Boston Celtics,13,3,16,-727902000.0,1947
+New York Knicks,New York Knicks,Providence Steamrollers,14,3,17,-727642800.0,1947
+New York Knicks,Cleveland Rebels,New York Knicks,14,4,18,-727297200.0,1947
+New York Knicks,New York Knicks,Cleveland Rebels,14,5,19,-727038000.0,1947
+New York Knicks,Toronto Huskies,New York Knicks,14,6,20,-726865200.0,1947
+New York Knicks,Providence Steamrollers,New York Knicks,14,7,21,-726778800.0,1947
+New York Knicks,Washington Capitols,New York Knicks,14,8,22,-726174000.0,1947
+New York Knicks,Detroit Falcons,New York Knicks,15,8,23,-725569200.0,1947
+New York Knicks,St. Louis Bombers,New York Knicks,16,8,24,-725482800.0,1947
+New York Knicks,New York Knicks,Toronto Huskies,16,9,25,-725223600.0,1947
+New York Knicks,Boston Celtics,New York Knicks,16,10,26,-725050800.0,1947
+New York Knicks,Pittsburgh Ironmen,New York Knicks,17,10,27,-724791600.0,1947
+New York Knicks,New York Knicks,Washington Capitols,17,11,28,-724618800.0,1947
+New York Knicks,New York Knicks,Boston Celtics,17,12,29,-724359600.0,1947
+New York Knicks,Cleveland Rebels,New York Knicks,17,13,30,-724273200.0,1947
+New York Knicks,New York Knicks,Chicago Stags,18,13,31,-724014000.0,1947
+New York Knicks,New York Knicks,Boston Celtics,18,14,32,-723754800.0,1947
+New York Knicks,New York Knicks,Pittsburgh Ironmen,19,14,33,-723409200.0,1947
+New York Knicks,Philadelphia Warriors,New York Knicks,19,15,34,-723322800.0,1947
+New York Knicks,New York Knicks,Philadelphia Warriors,19,16,35,-723150000.0,1947
+New York Knicks,Detroit Falcons,New York Knicks,19,17,36,-723063600.0,1947
+New York Knicks,New York Knicks,St. Louis Bombers,19,18,37,-722804400.0,1947
+New York Knicks,Boston Celtics,New York Knicks,19,19,38,-722718000.0,1947
+New York Knicks,New York Knicks,Toronto Huskies,20,19,39,-722545200.0,1947
+New York Knicks,New York Knicks,Washington Capitols,21,19,40,-722199600.0,1947
+New York Knicks,New York Knicks,Cleveland Rebels,21,20,41,-721940400.0,1947
+New York Knicks,Detroit Falcons,New York Knicks,22,20,42,-721854000.0,1947
+New York Knicks,New York Knicks,Providence Steamrollers,22,21,43,-721594800.0,1947
+New York Knicks,New York Knicks,Pittsburgh Ironmen,23,21,44,-721422000.0,1947
+New York Knicks,Chicago Stags,New York Knicks,23,22,45,-721249200.0,1947
+New York Knicks,New York Knicks,Washington Capitols,23,23,46,-720990000.0,1947
+New York Knicks,Providence Steamrollers,New York Knicks,24,23,47,-720903600.0,1947
+New York Knicks,New York Knicks,Toronto Huskies,25,23,48,-720730800.0,1947
+New York Knicks,Philadelphia Warriors,New York Knicks,26,23,49,-720298800.0,1947
+New York Knicks,New York Knicks,Detroit Falcons,27,23,50,-720126000.0,1947
+New York Knicks,New York Knicks,St. Louis Bombers,28,23,51,-719694000.0,1947
+New York Knicks,Washington Capitols,New York Knicks,28,24,52,-719521200.0,1947
+New York Knicks,Cleveland Rebels,New York Knicks,29,24,53,-719434800.0,1947
+New York Knicks,Chicago Stags,New York Knicks,30,24,54,-719175600.0,1947
+New York Knicks,St. Louis Bombers,New York Knicks,30,25,55,-719089200.0,1947
+New York Knicks,Washington Capitols,New York Knicks,31,25,56,-718916400.0,1947
+New York Knicks,Pittsburgh Ironmen,New York Knicks,32,25,57,-718743600.0,1947
+New York Knicks,New York Knicks,Providence Steamrollers,33,25,58,-718570800.0,1947
+New York Knicks,Toronto Huskies,New York Knicks,33,26,59,-718398000.0,1947
+New York Knicks,Philadelphia Warriors,New York Knicks,33,27,60,-718225200.0,1947
+Philadelphia Warriors,Philadelphia Warriors,Pittsburgh Ironmen,1,0,1,-730580400.0,1947
+Philadelphia Warriors,Philadelphia Warriors,Washington Capitols,2,0,2,-729975600.0,1947
+Philadelphia Warriors,Philadelphia Warriors,St. Louis Bombers,2,1,3,-729543600.0,1947
+Philadelphia Warriors,Philadelphia Warriors,Chicago Stags,2,2,4,-729370800.0,1947
+Philadelphia Warriors,Philadelphia Warriors,Boston Celtics,3,2,5,-728938800.0,1947
+Philadelphia Warriors,Philadelphia Warriors,Detroit Falcons,3,3,6,-728766000.0,1947
+Philadelphia Warriors,New York Knicks,Philadelphia Warriors,3,4,7,-728593200.0,1947
+Philadelphia Warriors,Philadelphia Warriors,Providence Steamrollers,4,4,8,-728334000.0,1947
+Philadelphia Warriors,Philadelphia Warriors,New York Knicks,5,4,9,-728161200.0,1947
+Philadelphia Warriors,St. Louis Bombers,Philadelphia Warriors,6,4,10,-727988400.0,1947
+Philadelphia Warriors,Cleveland Rebels,Philadelphia Warriors,6,5,11,-727902000.0,1947
+Philadelphia Warriors,Toronto Huskies,Philadelphia Warriors,7,5,12,-727729200.0,1947
+Philadelphia Warriors,Philadelphia Warriors,Washington Capitols,7,6,13,-727556400.0,1947
+Philadelphia Warriors,Boston Celtics,Philadelphia Warriors,7,7,14,-727383600.0,1947
+Philadelphia Warriors,Philadelphia Warriors,Detroit Falcons,8,7,15,-727124400.0,1947
+Philadelphia Warriors,Philadelphia Warriors,Cleveland Rebels,9,7,16,-726951600.0,1947
+Philadelphia Warriors,Washington Capitols,Philadelphia Warriors,9,8,17,-726778800.0,1947
+Philadelphia Warriors,Philadelphia Warriors,Pittsburgh Ironmen,10,8,18,-726346800.0,1947
+Philadelphia Warriors,Boston Celtics,Philadelphia Warriors,11,8,19,-726260400.0,1947
+Philadelphia Warriors,St. Louis Bombers,Philadelphia Warriors,11,9,20,-726087600.0,1947
+Philadelphia Warriors,Pittsburgh Ironmen,Philadelphia Warriors,12,9,21,-726001200.0,1947
+Philadelphia Warriors,Philadelphia Warriors,Providence Steamrollers,13,9,22,-725742000.0,1947
+Philadelphia Warriors,Providence Steamrollers,Philadelphia Warriors,13,10,23,-725569200.0,1947
+Philadelphia Warriors,Pittsburgh Ironmen,Philadelphia Warriors,13,11,24,-725223600.0,1947
+Philadelphia Warriors,Philadelphia Warriors,Toronto Huskies,14,11,25,-725137200.0,1947
+Philadelphia Warriors,Detroit Falcons,Philadelphia Warriors,14,12,26,-724964400.0,1947
+Philadelphia Warriors,Chicago Stags,Philadelphia Warriors,14,13,27,-724878000.0,1947
+Philadelphia Warriors,Toronto Huskies,Philadelphia Warriors,15,13,28,-724705200.0,1947
+Philadelphia Warriors,Philadelphia Warriors,Chicago Stags,15,14,29,-724532400.0,1947
+Philadelphia Warriors,Philadelphia Warriors,Boston Celtics,16,14,30,-724100400.0,1947
+Philadelphia Warriors,Washington Capitols,Philadelphia Warriors,16,15,31,-724014000.0,1947
+Philadelphia Warriors,Philadelphia Warriors,Cleveland Rebels,17,15,32,-723927600.0,1947
+Philadelphia Warriors,Detroit Falcons,Philadelphia Warriors,18,15,33,-723754800.0,1947
+Philadelphia Warriors,Chicago Stags,Philadelphia Warriors,18,16,34,-723668400.0,1947
+Philadelphia Warriors,Philadelphia Warriors,New York Knicks,19,16,35,-723322800.0,1947
+Philadelphia Warriors,New York Knicks,Philadelphia Warriors,20,16,36,-723150000.0,1947
+Philadelphia Warriors,Boston Celtics,Philadelphia Warriors,21,16,37,-722977200.0,1947
+Philadelphia Warriors,Philadelphia Warriors,Providence Steamrollers,22,16,38,-722890800.0,1947
+Philadelphia Warriors,Philadelphia Warriors,Toronto Huskies,23,16,39,-722718000.0,1947
+Philadelphia Warriors,Providence Steamrollers,Philadelphia Warriors,23,17,40,-722545200.0,1947
+Philadelphia Warriors,Philadelphia Warriors,St. Louis Bombers,24,17,41,-722286000.0,1947
+Philadelphia Warriors,Philadelphia Warriors,Cleveland Rebels,25,17,42,-722113200.0,1947
+Philadelphia Warriors,Washington Capitols,Philadelphia Warriors,25,18,43,-721940400.0,1947
+Philadelphia Warriors,Cleveland Rebels,Philadelphia Warriors,25,19,44,-721854000.0,1947
+Philadelphia Warriors,Philadelphia Warriors,Pittsburgh Ironmen,26,19,45,-721508400.0,1947
+Philadelphia Warriors,St. Louis Bombers,Philadelphia Warriors,26,20,46,-721249200.0,1947
+Philadelphia Warriors,Pittsburgh Ironmen,Philadelphia Warriors,27,20,47,-721162800.0,1947
+Philadelphia Warriors,Philadelphia Warriors,St. Louis Bombers,28,20,48,-720990000.0,1947
+Philadelphia Warriors,Toronto Huskies,Philadelphia Warriors,28,21,49,-720817200.0,1947
+Philadelphia Warriors,Cleveland Rebels,Philadelphia Warriors,28,22,50,-720644400.0,1947
+Philadelphia Warriors,Philadelphia Warriors,Toronto Huskies,29,22,51,-720558000.0,1947
+Philadelphia Warriors,Philadelphia Warriors,New York Knicks,29,23,52,-720298800.0,1947
+Philadelphia Warriors,Philadelphia Warriors,Washington Capitols,29,24,53,-719866800.0,1947
+Philadelphia Warriors,Philadelphia Warriors,Boston Celtics,30,24,54,-719694000.0,1947
+Philadelphia Warriors,Chicago Stags,Philadelphia Warriors,30,25,55,-719521200.0,1947
+Philadelphia Warriors,Detroit Falcons,Philadelphia Warriors,31,25,56,-719434800.0,1947
+Philadelphia Warriors,Philadelphia Warriors,Detroit Falcons,32,25,57,-719089200.0,1947
+Philadelphia Warriors,Providence Steamrollers,Philadelphia Warriors,33,25,58,-718916400.0,1947
+Philadelphia Warriors,Philadelphia Warriors,Chicago Stags,34,25,59,-718484400.0,1947
+Philadelphia Warriors,Philadelphia Warriors,New York Knicks,35,25,60,-718225200.0,1947
+Pittsburgh Ironmen,St. Louis Bombers,Pittsburgh Ironmen,0,1,1,-731012400.0,1947
+Pittsburgh Ironmen,Pittsburgh Ironmen,Washington Capitols,0,2,2,-730839600.0,1947
+Pittsburgh Ironmen,Philadelphia Warriors,Pittsburgh Ironmen,0,3,3,-730580400.0,1947
+Pittsburgh Ironmen,Providence Steamrollers,Pittsburgh Ironmen,0,4,4,-730407600.0,1947
+Pittsburgh Ironmen,Pittsburgh Ironmen,Providence Steamrollers,1,4,5,-730234800.0,1947
+Pittsburgh Ironmen,New York Knicks,Pittsburgh Ironmen,1,5,6,-729802800.0,1947
+Pittsburgh Ironmen,Pittsburgh Ironmen,Toronto Huskies,2,5,7,-729630000.0,1947
+Pittsburgh Ironmen,Detroit Falcons,Pittsburgh Ironmen,3,5,8,-729457200.0,1947
+Pittsburgh Ironmen,Cleveland Rebels,Pittsburgh Ironmen,3,6,9,-729111600.0,1947
+Pittsburgh Ironmen,Pittsburgh Ironmen,New York Knicks,3,7,10,-729025200.0,1947
+Pittsburgh Ironmen,Pittsburgh Ironmen,Cleveland Rebels,4,7,11,-728852400.0,1947
+Pittsburgh Ironmen,Boston Celtics,Pittsburgh Ironmen,4,8,12,-728766000.0,1947
+Pittsburgh Ironmen,Washington Capitols,Pittsburgh Ironmen,4,9,13,-728593200.0,1947
+Pittsburgh Ironmen,Pittsburgh Ironmen,Boston Celtics,4,10,14,-728420400.0,1947
+Pittsburgh Ironmen,Pittsburgh Ironmen,Chicago Stags,4,11,15,-728247600.0,1947
+Pittsburgh Ironmen,St. Louis Bombers,Pittsburgh Ironmen,4,12,16,-728161200.0,1947
+Pittsburgh Ironmen,Pittsburgh Ironmen,Detroit Falcons,4,13,17,-727815600.0,1947
+Pittsburgh Ironmen,Toronto Huskies,Pittsburgh Ironmen,5,13,18,-727470000.0,1947
+Pittsburgh Ironmen,Chicago Stags,Pittsburgh Ironmen,5,14,19,-727297200.0,1947
+Pittsburgh Ironmen,Pittsburgh Ironmen,St. Louis Bombers,5,15,20,-727210800.0,1947
+Pittsburgh Ironmen,Cleveland Rebels,Pittsburgh Ironmen,6,15,21,-726692400.0,1947
+Pittsburgh Ironmen,Pittsburgh Ironmen,Boston Celtics,7,15,22,-726606000.0,1947
+Pittsburgh Ironmen,Philadelphia Warriors,Pittsburgh Ironmen,7,16,23,-726346800.0,1947
+Pittsburgh Ironmen,Pittsburgh Ironmen,Philadelphia Warriors,7,17,24,-726001200.0,1947
+Pittsburgh Ironmen,Pittsburgh Ironmen,Cleveland Rebels,7,18,25,-725828400.0,1947
+Pittsburgh Ironmen,Pittsburgh Ironmen,Washington Capitols,7,19,26,-725396400.0,1947
+Pittsburgh Ironmen,Pittsburgh Ironmen,Philadelphia Warriors,8,19,27,-725223600.0,1947
+Pittsburgh Ironmen,St. Louis Bombers,Pittsburgh Ironmen,8,20,28,-724878000.0,1947
+Pittsburgh Ironmen,Pittsburgh Ironmen,New York Knicks,8,21,29,-724791600.0,1947
+Pittsburgh Ironmen,Pittsburgh Ironmen,Providence Steamrollers,9,21,30,-724618800.0,1947
+Pittsburgh Ironmen,Pittsburgh Ironmen,Detroit Falcons,10,21,31,-724186800.0,1947
+Pittsburgh Ironmen,Boston Celtics,Pittsburgh Ironmen,10,22,32,-723927600.0,1947
+Pittsburgh Ironmen,Washington Capitols,Pittsburgh Ironmen,10,23,33,-723754800.0,1947
+Pittsburgh Ironmen,Pittsburgh Ironmen,Providence Steamrollers,11,23,34,-723582000.0,1947
+Pittsburgh Ironmen,New York Knicks,Pittsburgh Ironmen,11,24,35,-723409200.0,1947
+Pittsburgh Ironmen,Boston Celtics,Pittsburgh Ironmen,11,25,36,-723322800.0,1947
+Pittsburgh Ironmen,Providence Steamrollers,Pittsburgh Ironmen,11,26,37,-723150000.0,1947
+Pittsburgh Ironmen,Pittsburgh Ironmen,St. Louis Bombers,12,26,38,-722977200.0,1947
+Pittsburgh Ironmen,Pittsburgh Ironmen,Toronto Huskies,12,27,39,-722804400.0,1947
+Pittsburgh Ironmen,Chicago Stags,Pittsburgh Ironmen,12,28,40,-722718000.0,1947
+Pittsburgh Ironmen,Detroit Falcons,Pittsburgh Ironmen,12,29,41,-722545200.0,1947
+Pittsburgh Ironmen,Pittsburgh Ironmen,Washington Capitols,13,29,42,-722372400.0,1947
+Pittsburgh Ironmen,Pittsburgh Ironmen,Chicago Stags,13,30,43,-722199600.0,1947
+Pittsburgh Ironmen,Toronto Huskies,Pittsburgh Ironmen,13,31,44,-722026800.0,1947
+Pittsburgh Ironmen,Providence Steamrollers,Pittsburgh Ironmen,13,32,45,-721940400.0,1947
+Pittsburgh Ironmen,Pittsburgh Ironmen,Detroit Falcons,14,32,46,-721767600.0,1947
+Pittsburgh Ironmen,Philadelphia Warriors,Pittsburgh Ironmen,14,33,47,-721508400.0,1947
+Pittsburgh Ironmen,New York Knicks,Pittsburgh Ironmen,14,34,48,-721422000.0,1947
+Pittsburgh Ironmen,Washington Capitols,Pittsburgh Ironmen,14,35,49,-721335600.0,1947
+Pittsburgh Ironmen,Pittsburgh Ironmen,Philadelphia Warriors,14,36,50,-721162800.0,1947
+Pittsburgh Ironmen,Pittsburgh Ironmen,Cleveland Rebels,14,37,51,-720990000.0,1947
+Pittsburgh Ironmen,Pittsburgh Ironmen,Chicago Stags,14,38,52,-720558000.0,1947
+Pittsburgh Ironmen,Pittsburgh Ironmen,Toronto Huskies,14,39,53,-720385200.0,1947
+Pittsburgh Ironmen,Chicago Stags,Pittsburgh Ironmen,14,40,54,-720298800.0,1947
+Pittsburgh Ironmen,Cleveland Rebels,Pittsburgh Ironmen,14,41,55,-719866800.0,1947
+Pittsburgh Ironmen,Toronto Huskies,Pittsburgh Ironmen,15,41,56,-719262000.0,1947
+Pittsburgh Ironmen,Pittsburgh Ironmen,St. Louis Bombers,15,42,57,-719175600.0,1947
+Pittsburgh Ironmen,Detroit Falcons,Pittsburgh Ironmen,15,43,58,-718916400.0,1947
+Pittsburgh Ironmen,Pittsburgh Ironmen,New York Knicks,15,44,59,-718743600.0,1947
+Pittsburgh Ironmen,Pittsburgh Ironmen,Boston Celtics,15,45,60,-718570800.0,1947
+Providence Steamrollers,Providence Steamrollers,Boston Celtics,1,0,1,-731012400.0,1947
+Providence Steamrollers,Providence Steamrollers,Chicago Stags,2,0,2,-730580400.0,1947
+Providence Steamrollers,Providence Steamrollers,Pittsburgh Ironmen,3,0,3,-730407600.0,1947
+Providence Steamrollers,Pittsburgh Ironmen,Providence Steamrollers,3,1,4,-730234800.0,1947
+Providence Steamrollers,Detroit Falcons,Providence Steamrollers,4,1,5,-730062000.0,1947
+Providence Steamrollers,Toronto Huskies,Providence Steamrollers,4,2,6,-729889200.0,1947
+Providence Steamrollers,Providence Steamrollers,Detroit Falcons,4,3,7,-729802800.0,1947
+Providence Steamrollers,Providence Steamrollers,Washington Capitols,4,4,8,-729370800.0,1947
+Providence Steamrollers,Providence Steamrollers,St. Louis Bombers,4,5,9,-729198000.0,1947
+Providence Steamrollers,Boston Celtics,Providence Steamrollers,5,5,10,-729025200.0,1947
+Providence Steamrollers,Providence Steamrollers,New York Knicks,5,6,11,-728766000.0,1947
+Providence Steamrollers,Providence Steamrollers,Toronto Huskies,6,6,12,-728593200.0,1947
+Providence Steamrollers,Philadelphia Warriors,Providence Steamrollers,6,7,13,-728334000.0,1947
+Providence Steamrollers,Washington Capitols,Providence Steamrollers,6,8,14,-728247600.0,1947
+Providence Steamrollers,Providence Steamrollers,Toronto Huskies,6,9,15,-727988400.0,1947
+Providence Steamrollers,New York Knicks,Providence Steamrollers,6,10,16,-727642800.0,1947
+Providence Steamrollers,Providence Steamrollers,Detroit Falcons,7,10,17,-727383600.0,1947
+Providence Steamrollers,Providence Steamrollers,Chicago Stags,8,10,18,-726951600.0,1947
+Providence Steamrollers,Providence Steamrollers,New York Knicks,9,10,19,-726778800.0,1947
+Providence Steamrollers,Providence Steamrollers,Washington Capitols,9,11,20,-726346800.0,1947
+Providence Steamrollers,Providence Steamrollers,Boston Celtics,10,11,21,-726174000.0,1947
+Providence Steamrollers,Philadelphia Warriors,Providence Steamrollers,10,12,22,-725742000.0,1947
+Providence Steamrollers,Providence Steamrollers,Philadelphia Warriors,11,12,23,-725569200.0,1947
+Providence Steamrollers,Washington Capitols,Providence Steamrollers,11,13,24,-725223600.0,1947
+Providence Steamrollers,Providence Steamrollers,Cleveland Rebels,12,13,25,-725137200.0,1947
+Providence Steamrollers,Providence Steamrollers,Boston Celtics,12,14,26,-724964400.0,1947
+Providence Steamrollers,Cleveland Rebels,Providence Steamrollers,13,14,27,-724705200.0,1947
+Providence Steamrollers,Pittsburgh Ironmen,Providence Steamrollers,13,15,28,-724618800.0,1947
+Providence Steamrollers,St. Louis Bombers,Providence Steamrollers,13,16,29,-724273200.0,1947
+Providence Steamrollers,Chicago Stags,Providence Steamrollers,13,17,30,-723927600.0,1947
+Providence Steamrollers,Toronto Huskies,Providence Steamrollers,14,17,31,-723841200.0,1947
+Providence Steamrollers,Pittsburgh Ironmen,Providence Steamrollers,14,18,32,-723582000.0,1947
+Providence Steamrollers,Detroit Falcons,Providence Steamrollers,15,18,33,-723409200.0,1947
+Providence Steamrollers,St. Louis Bombers,Providence Steamrollers,16,18,34,-723322800.0,1947
+Providence Steamrollers,Providence Steamrollers,Pittsburgh Ironmen,17,18,35,-723150000.0,1947
+Providence Steamrollers,Philadelphia Warriors,Providence Steamrollers,17,19,36,-722890800.0,1947
+Providence Steamrollers,Providence Steamrollers,St. Louis Bombers,17,20,37,-722718000.0,1947
+Providence Steamrollers,Providence Steamrollers,Philadelphia Warriors,18,20,38,-722545200.0,1947
+Providence Steamrollers,Cleveland Rebels,Providence Steamrollers,18,21,39,-722286000.0,1947
+Providence Steamrollers,Detroit Falcons,Providence Steamrollers,18,22,40,-722199600.0,1947
+Providence Steamrollers,Chicago Stags,Providence Steamrollers,18,23,41,-722113200.0,1947
+Providence Steamrollers,Providence Steamrollers,Pittsburgh Ironmen,19,23,42,-721940400.0,1947
+Providence Steamrollers,New York Knicks,Providence Steamrollers,20,23,43,-721594800.0,1947
+Providence Steamrollers,Providence Steamrollers,Washington Capitols,20,24,44,-721508400.0,1947
+Providence Steamrollers,Providence Steamrollers,Cleveland Rebels,21,24,45,-721335600.0,1947
+Providence Steamrollers,Boston Celtics,Providence Steamrollers,22,24,46,-721249200.0,1947
+Providence Steamrollers,Toronto Huskies,Providence Steamrollers,22,25,47,-721076400.0,1947
+Providence Steamrollers,Providence Steamrollers,New York Knicks,22,26,48,-720903600.0,1947
+Providence Steamrollers,Providence Steamrollers,Detroit Falcons,23,26,49,-720730800.0,1947
+Providence Steamrollers,St. Louis Bombers,Providence Steamrollers,23,27,50,-720558000.0,1947
+Providence Steamrollers,Cleveland Rebels,Providence Steamrollers,23,28,51,-720471600.0,1947
+Providence Steamrollers,Chicago Stags,Providence Steamrollers,23,29,52,-720126000.0,1947
+Providence Steamrollers,Boston Celtics,Providence Steamrollers,24,29,53,-719953200.0,1947
+Providence Steamrollers,Providence Steamrollers,Toronto Huskies,25,29,54,-719694000.0,1947
+Providence Steamrollers,Providence Steamrollers,St. Louis Bombers,26,29,55,-719521200.0,1947
+Providence Steamrollers,Washington Capitols,Providence Steamrollers,26,30,56,-719175600.0,1947
+Providence Steamrollers,Providence Steamrollers,Cleveland Rebels,27,30,57,-719089200.0,1947
+Providence Steamrollers,Providence Steamrollers,Philadelphia Warriors,27,31,58,-718916400.0,1947
+Providence Steamrollers,New York Knicks,Providence Steamrollers,27,32,59,-718570800.0,1947
+Providence Steamrollers,Providence Steamrollers,Chicago Stags,28,32,60,-718311600.0,1947
+St. Louis Bombers,St. Louis Bombers,Pittsburgh Ironmen,1,0,1,-731012400.0,1947
+St. Louis Bombers,Detroit Falcons,St. Louis Bombers,2,0,2,-730753200.0,1947
+St. Louis Bombers,St. Louis Bombers,New York Knicks,2,1,3,-730580400.0,1947
+St. Louis Bombers,St. Louis Bombers,Washington Capitols,3,1,4,-730407600.0,1947
+St. Louis Bombers,St. Louis Bombers,Boston Celtics,4,1,5,-729975600.0,1947
+St. Louis Bombers,St. Louis Bombers,Cleveland Rebels,5,1,6,-729802800.0,1947
+St. Louis Bombers,Philadelphia Warriors,St. Louis Bombers,6,1,7,-729543600.0,1947
+St. Louis Bombers,Washington Capitols,St. Louis Bombers,6,2,8,-729457200.0,1947
+St. Louis Bombers,Boston Celtics,St. Louis Bombers,7,2,9,-729370800.0,1947
+St. Louis Bombers,Providence Steamrollers,St. Louis Bombers,8,2,10,-729198000.0,1947
+St. Louis Bombers,New York Knicks,St. Louis Bombers,8,3,11,-728852400.0,1947
+St. Louis Bombers,Chicago Stags,St. Louis Bombers,9,3,12,-728766000.0,1947
+St. Louis Bombers,St. Louis Bombers,Detroit Falcons,10,3,13,-728593200.0,1947
+St. Louis Bombers,St. Louis Bombers,Pittsburgh Ironmen,11,3,14,-728161200.0,1947
+St. Louis Bombers,St. Louis Bombers,Philadelphia Warriors,11,4,15,-727988400.0,1947
+St. Louis Bombers,Cleveland Rebels,St. Louis Bombers,12,4,16,-727729200.0,1947
+St. Louis Bombers,St. Louis Bombers,Chicago Stags,12,5,17,-727556400.0,1947
+St. Louis Bombers,St. Louis Bombers,Toronto Huskies,12,6,18,-727297200.0,1947
+St. Louis Bombers,Pittsburgh Ironmen,St. Louis Bombers,13,6,19,-727210800.0,1947
+St. Louis Bombers,Washington Capitols,St. Louis Bombers,13,7,20,-727038000.0,1947
+St. Louis Bombers,Boston Celtics,St. Louis Bombers,14,7,21,-726951600.0,1947
+St. Louis Bombers,St. Louis Bombers,Boston Celtics,15,7,22,-726692400.0,1947
+St. Louis Bombers,St. Louis Bombers,Detroit Falcons,16,7,23,-726346800.0,1947
+St. Louis Bombers,St. Louis Bombers,Philadelphia Warriors,17,7,24,-726087600.0,1947
+St. Louis Bombers,Cleveland Rebels,St. Louis Bombers,18,7,25,-725914800.0,1947
+St. Louis Bombers,Chicago Stags,St. Louis Bombers,19,7,26,-725828400.0,1947
+St. Louis Bombers,St. Louis Bombers,Washington Capitols,20,7,27,-725742000.0,1947
+St. Louis Bombers,St. Louis Bombers,New York Knicks,20,8,28,-725482800.0,1947
+St. Louis Bombers,St. Louis Bombers,Chicago Stags,21,8,29,-725137200.0,1947
+St. Louis Bombers,St. Louis Bombers,Pittsburgh Ironmen,22,8,30,-724878000.0,1947
+St. Louis Bombers,St. Louis Bombers,Cleveland Rebels,22,9,31,-724532400.0,1947
+St. Louis Bombers,St. Louis Bombers,Providence Steamrollers,23,9,32,-724273200.0,1947
+St. Louis Bombers,Toronto Huskies,St. Louis Bombers,23,10,33,-724100400.0,1947
+St. Louis Bombers,St. Louis Bombers,Detroit Falcons,24,10,34,-723668400.0,1947
+St. Louis Bombers,St. Louis Bombers,Providence Steamrollers,24,11,35,-723322800.0,1947
+St. Louis Bombers,St. Louis Bombers,Cleveland Rebels,25,11,36,-723150000.0,1947
+St. Louis Bombers,Pittsburgh Ironmen,St. Louis Bombers,25,12,37,-722977200.0,1947
+St. Louis Bombers,New York Knicks,St. Louis Bombers,26,12,38,-722804400.0,1947
+St. Louis Bombers,Providence Steamrollers,St. Louis Bombers,27,12,39,-722718000.0,1947
+St. Louis Bombers,St. Louis Bombers,Washington Capitols,27,13,40,-722545200.0,1947
+St. Louis Bombers,Philadelphia Warriors,St. Louis Bombers,27,14,41,-722286000.0,1947
+St. Louis Bombers,Boston Celtics,St. Louis Bombers,27,15,42,-722113200.0,1947
+St. Louis Bombers,St. Louis Bombers,Toronto Huskies,28,15,43,-721854000.0,1947
+St. Louis Bombers,Toronto Huskies,St. Louis Bombers,28,16,44,-721681200.0,1947
+St. Louis Bombers,St. Louis Bombers,Chicago Stags,29,16,45,-721422000.0,1947
+St. Louis Bombers,St. Louis Bombers,Philadelphia Warriors,30,16,46,-721249200.0,1947
+St. Louis Bombers,Cleveland Rebels,St. Louis Bombers,31,16,47,-721076400.0,1947
+St. Louis Bombers,Philadelphia Warriors,St. Louis Bombers,31,17,48,-720990000.0,1947
+St. Louis Bombers,Chicago Stags,St. Louis Bombers,31,18,49,-720644400.0,1947
+St. Louis Bombers,St. Louis Bombers,Providence Steamrollers,32,18,50,-720558000.0,1947
+St. Louis Bombers,Washington Capitols,St. Louis Bombers,32,19,51,-720126000.0,1947
+St. Louis Bombers,Toronto Huskies,St. Louis Bombers,32,20,52,-719866800.0,1947
+St. Louis Bombers,New York Knicks,St. Louis Bombers,32,21,53,-719694000.0,1947
+St. Louis Bombers,Providence Steamrollers,St. Louis Bombers,32,22,54,-719521200.0,1947
+St. Louis Bombers,Detroit Falcons,St. Louis Bombers,33,22,55,-719262000.0,1947
+St. Louis Bombers,Pittsburgh Ironmen,St. Louis Bombers,34,22,56,-719175600.0,1947
+St. Louis Bombers,St. Louis Bombers,New York Knicks,35,22,57,-719089200.0,1947
+St. Louis Bombers,St. Louis Bombers,Toronto Huskies,36,22,58,-718830000.0,1947
+St. Louis Bombers,Detroit Falcons,St. Louis Bombers,37,22,59,-718570800.0,1947
+St. Louis Bombers,St. Louis Bombers,Boston Celtics,38,22,60,-718311600.0,1947
+Toronto Huskies,Toronto Huskies,New York Knicks,0,1,1,-731098800.0,1947
+Toronto Huskies,Cleveland Rebels,Toronto Huskies,0,2,2,-730926000.0,1947
+Toronto Huskies,Toronto Huskies,Detroit Falcons,1,2,3,-730494000.0,1947
+Toronto Huskies,Chicago Stags,Toronto Huskies,1,3,4,-730407600.0,1947
+Toronto Huskies,Toronto Huskies,Providence Steamrollers,2,3,5,-729889200.0,1947
+Toronto Huskies,Boston Celtics,Toronto Huskies,2,4,6,-729802800.0,1947
+Toronto Huskies,Pittsburgh Ironmen,Toronto Huskies,2,5,7,-729630000.0,1947
+Toronto Huskies,Toronto Huskies,Cleveland Rebels,2,6,8,-729543600.0,1947
+Toronto Huskies,Toronto Huskies,Boston Celtics,3,6,9,-729284400.0,1947
+Toronto Huskies,Washington Capitols,Toronto Huskies,3,7,10,-729198000.0,1947
+Toronto Huskies,Toronto Huskies,Washington Capitols,3,8,11,-728938800.0,1947
+Toronto Huskies,Toronto Huskies,Cleveland Rebels,3,9,12,-728679600.0,1947
+Toronto Huskies,Providence Steamrollers,Toronto Huskies,3,10,13,-728593200.0,1947
+Toronto Huskies,Chicago Stags,Toronto Huskies,4,10,14,-728161200.0,1947
+Toronto Huskies,Providence Steamrollers,Toronto Huskies,5,10,15,-727988400.0,1947
+Toronto Huskies,Toronto Huskies,Philadelphia Warriors,5,11,16,-727729200.0,1947
+Toronto Huskies,Toronto Huskies,Pittsburgh Ironmen,5,12,17,-727470000.0,1947
+Toronto Huskies,St. Louis Bombers,Toronto Huskies,6,12,18,-727297200.0,1947
+Toronto Huskies,Cleveland Rebels,Toronto Huskies,6,13,19,-727124400.0,1947
+Toronto Huskies,Toronto Huskies,New York Knicks,7,13,20,-726865200.0,1947
+Toronto Huskies,Toronto Huskies,Chicago Stags,7,14,21,-726260400.0,1947
+Toronto Huskies,Detroit Falcons,Toronto Huskies,8,14,22,-726087600.0,1947
+Toronto Huskies,Toronto Huskies,Chicago Stags,9,14,23,-725914800.0,1947
+Toronto Huskies,Toronto Huskies,Boston Celtics,9,15,24,-725655600.0,1947
+Toronto Huskies,Toronto Huskies,Detroit Falcons,10,15,25,-725396400.0,1947
+Toronto Huskies,New York Knicks,Toronto Huskies,11,15,26,-725223600.0,1947
+Toronto Huskies,Philadelphia Warriors,Toronto Huskies,11,16,27,-725137200.0,1947
+Toronto Huskies,Washington Capitols,Toronto Huskies,11,17,28,-724964400.0,1947
+Toronto Huskies,Toronto Huskies,Philadelphia Warriors,11,18,29,-724705200.0,1947
+Toronto Huskies,Toronto Huskies,Detroit Falcons,11,19,30,-724446000.0,1947
+Toronto Huskies,Toronto Huskies,St. Louis Bombers,12,19,31,-724100400.0,1947
+Toronto Huskies,Toronto Huskies,Providence Steamrollers,12,20,32,-723841200.0,1947
+Toronto Huskies,Toronto Huskies,Cleveland Rebels,12,21,33,-723582000.0,1947
+Toronto Huskies,Cleveland Rebels,Toronto Huskies,12,22,34,-723495600.0,1947
+Toronto Huskies,Toronto Huskies,Washington Capitols,13,22,35,-723236400.0,1947
+Toronto Huskies,Chicago Stags,Toronto Huskies,13,23,36,-723063600.0,1947
+Toronto Huskies,Pittsburgh Ironmen,Toronto Huskies,14,23,37,-722804400.0,1947
+Toronto Huskies,Philadelphia Warriors,Toronto Huskies,14,24,38,-722718000.0,1947
+Toronto Huskies,New York Knicks,Toronto Huskies,14,25,39,-722545200.0,1947
+Toronto Huskies,Toronto Huskies,Pittsburgh Ironmen,15,25,40,-722026800.0,1947
+Toronto Huskies,St. Louis Bombers,Toronto Huskies,15,26,41,-721854000.0,1947
+Toronto Huskies,Toronto Huskies,St. Louis Bombers,16,26,42,-721681200.0,1947
+Toronto Huskies,Washington Capitols,Toronto Huskies,16,27,43,-721594800.0,1947
+Toronto Huskies,Toronto Huskies,Boston Celtics,17,27,44,-721422000.0,1947
+Toronto Huskies,Detroit Falcons,Toronto Huskies,17,28,45,-721249200.0,1947
+Toronto Huskies,Toronto Huskies,Providence Steamrollers,18,28,46,-721076400.0,1947
+Toronto Huskies,Toronto Huskies,Philadelphia Warriors,19,28,47,-720817200.0,1947
+Toronto Huskies,New York Knicks,Toronto Huskies,19,29,48,-720730800.0,1947
+Toronto Huskies,Philadelphia Warriors,Toronto Huskies,19,30,49,-720558000.0,1947
+Toronto Huskies,Pittsburgh Ironmen,Toronto Huskies,20,30,50,-720385200.0,1947
+Toronto Huskies,Toronto Huskies,Washington Capitols,20,31,51,-720212400.0,1947
+Toronto Huskies,Boston Celtics,Toronto Huskies,20,32,52,-720126000.0,1947
+Toronto Huskies,Toronto Huskies,St. Louis Bombers,21,32,53,-719866800.0,1947
+Toronto Huskies,Boston Celtics,Toronto Huskies,21,33,54,-719780400.0,1947
+Toronto Huskies,Providence Steamrollers,Toronto Huskies,21,34,55,-719694000.0,1947
+Toronto Huskies,Toronto Huskies,Pittsburgh Ironmen,21,35,56,-719262000.0,1947
+Toronto Huskies,Toronto Huskies,Chicago Stags,21,36,57,-719002800.0,1947
+Toronto Huskies,St. Louis Bombers,Toronto Huskies,21,37,58,-718830000.0,1947
+Toronto Huskies,Toronto Huskies,New York Knicks,22,37,59,-718398000.0,1947
+Toronto Huskies,Detroit Falcons,Toronto Huskies,22,38,60,-718311600.0,1947
+Washington Capitols,Detroit Falcons,Washington Capitols,1,0,1,-731012400.0,1947
+Washington Capitols,Pittsburgh Ironmen,Washington Capitols,2,0,2,-730839600.0,1947
+Washington Capitols,St. Louis Bombers,Washington Capitols,2,1,3,-730407600.0,1947
+Washington Capitols,Cleveland Rebels,Washington Capitols,2,2,4,-730321200.0,1947
+Washington Capitols,Philadelphia Warriors,Washington Capitols,2,3,5,-729975600.0,1947
+Washington Capitols,Chicago Stags,Washington Capitols,3,3,6,-729802800.0,1947
+Washington Capitols,Washington Capitols,St. Louis Bombers,4,3,7,-729457200.0,1947
+Washington Capitols,Providence Steamrollers,Washington Capitols,5,3,8,-729370800.0,1947
+Washington Capitols,Washington Capitols,Toronto Huskies,6,3,9,-729198000.0,1947
+Washington Capitols,Toronto Huskies,Washington Capitols,7,3,10,-728938800.0,1947
+Washington Capitols,Washington Capitols,Chicago Stags,8,3,11,-728852400.0,1947
+Washington Capitols,Washington Capitols,Pittsburgh Ironmen,9,3,12,-728593200.0,1947
+Washington Capitols,Washington Capitols,Providence Steamrollers,10,3,13,-728247600.0,1947
+Washington Capitols,Washington Capitols,Detroit Falcons,11,3,14,-727988400.0,1947
+Washington Capitols,Washington Capitols,Detroit Falcons,12,3,15,-727642800.0,1947
+Washington Capitols,Philadelphia Warriors,Washington Capitols,13,3,16,-727556400.0,1947
+Washington Capitols,Washington Capitols,Cleveland Rebels,14,3,17,-727383600.0,1947
+Washington Capitols,Washington Capitols,St. Louis Bombers,15,3,18,-727038000.0,1947
+Washington Capitols,Washington Capitols,Philadelphia Warriors,16,3,19,-726778800.0,1947
+Washington Capitols,Providence Steamrollers,Washington Capitols,17,3,20,-726346800.0,1947
+Washington Capitols,Washington Capitols,New York Knicks,18,3,21,-726174000.0,1947
+Washington Capitols,Boston Celtics,Washington Capitols,19,3,22,-726001200.0,1947
+Washington Capitols,Detroit Falcons,Washington Capitols,19,4,23,-725828400.0,1947
+Washington Capitols,St. Louis Bombers,Washington Capitols,19,5,24,-725742000.0,1947
+Washington Capitols,Washington Capitols,Cleveland Rebels,20,5,25,-725569200.0,1947
+Washington Capitols,Pittsburgh Ironmen,Washington Capitols,21,5,26,-725396400.0,1947
+Washington Capitols,Washington Capitols,Providence Steamrollers,22,5,27,-725223600.0,1947
+Washington Capitols,Washington Capitols,Toronto Huskies,23,5,28,-724964400.0,1947
+Washington Capitols,New York Knicks,Washington Capitols,24,5,29,-724618800.0,1947
+Washington Capitols,Boston Celtics,Washington Capitols,24,6,30,-724532400.0,1947
+Washington Capitols,Washington Capitols,Chicago Stags,25,6,31,-724359600.0,1947
+Washington Capitols,Washington Capitols,Philadelphia Warriors,26,6,32,-724014000.0,1947
+Washington Capitols,Washington Capitols,Pittsburgh Ironmen,27,6,33,-723754800.0,1947
+Washington Capitols,Boston Celtics,Washington Capitols,28,6,34,-723582000.0,1947
+Washington Capitols,Washington Capitols,Boston Celtics,29,6,35,-723409200.0,1947
+Washington Capitols,Toronto Huskies,Washington Capitols,29,7,36,-723236400.0,1947
+Washington Capitols,Cleveland Rebels,Washington Capitols,30,7,37,-723063600.0,1947
+Washington Capitols,Detroit Falcons,Washington Capitols,31,7,38,-722804400.0,1947
+Washington Capitols,St. Louis Bombers,Washington Capitols,32,7,39,-722545200.0,1947
+Washington Capitols,Chicago Stags,Washington Capitols,32,8,40,-722458800.0,1947
+Washington Capitols,Pittsburgh Ironmen,Washington Capitols,32,9,41,-722372400.0,1947
+Washington Capitols,New York Knicks,Washington Capitols,32,10,42,-722199600.0,1947
+Washington Capitols,Washington Capitols,Philadelphia Warriors,33,10,43,-721940400.0,1947
+Washington Capitols,Washington Capitols,Toronto Huskies,34,10,44,-721594800.0,1947
+Washington Capitols,Providence Steamrollers,Washington Capitols,35,10,45,-721508400.0,1947
+Washington Capitols,Washington Capitols,Pittsburgh Ironmen,36,10,46,-721335600.0,1947
+Washington Capitols,Cleveland Rebels,Washington Capitols,37,10,47,-721249200.0,1947
+Washington Capitols,Washington Capitols,Boston Celtics,38,10,48,-721162800.0,1947
+Washington Capitols,New York Knicks,Washington Capitols,39,10,49,-720990000.0,1947
+Washington Capitols,Washington Capitols,Boston Celtics,40,10,50,-720730800.0,1947
+Washington Capitols,Washington Capitols,Detroit Falcons,41,10,51,-720385200.0,1947
+Washington Capitols,Toronto Huskies,Washington Capitols,42,10,52,-720212400.0,1947
+Washington Capitols,Washington Capitols,St. Louis Bombers,43,10,53,-720126000.0,1947
+Washington Capitols,Philadelphia Warriors,Washington Capitols,44,10,54,-719866800.0,1947
+Washington Capitols,Chicago Stags,Washington Capitols,45,10,55,-719694000.0,1947
+Washington Capitols,Washington Capitols,New York Knicks,46,10,56,-719521200.0,1947
+Washington Capitols,Washington Capitols,Providence Steamrollers,47,10,57,-719175600.0,1947
+Washington Capitols,Washington Capitols,New York Knicks,47,11,58,-718916400.0,1947
+Washington Capitols,Washington Capitols,Chicago Stags,48,11,59,-718570800.0,1947
+Washington Capitols,Washington Capitols,Cleveland Rebels,49,11,60,-718311600.0,1947

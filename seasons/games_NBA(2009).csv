@@ -1,0 +1,2461 @@
+id,home_team,away_team,win,loss,game_number,date,year
+Atlanta Hawks,Orlando Magic,Atlanta Hawks,1,0,1,1225321200.0,2009
+Atlanta Hawks,Atlanta Hawks,Philadelphia 76ers,2,0,2,1225580400.0,2009
+Atlanta Hawks,New Orleans Hornets,Atlanta Hawks,3,0,3,1225933200.0,2009
+Atlanta Hawks,Atlanta Hawks,Toronto Raptors,4,0,4,1226104200.0,2009
+Atlanta Hawks,Oklahoma City Thunder,Atlanta Hawks,5,0,5,1226275200.0,2009
+Atlanta Hawks,Chicago Bulls,Atlanta Hawks,6,0,6,1226453400.0,2009
+Atlanta Hawks,Boston Celtics,Atlanta Hawks,6,1,7,1226536200.0,2009
+Atlanta Hawks,New Jersey Nets,Atlanta Hawks,6,2,8,1226709000.0,2009
+Atlanta Hawks,Atlanta Hawks,New Jersey Nets,6,3,9,1226793600.0,2009
+Atlanta Hawks,Indiana Pacers,Atlanta Hawks,6,4,10,1227052800.0,2009
+Atlanta Hawks,Atlanta Hawks,Washington Wizards,7,4,11,1227139200.0,2009
+Atlanta Hawks,Atlanta Hawks,Charlotte Bobcats,8,4,12,1227313800.0,2009
+Atlanta Hawks,Cleveland Cavaliers,Atlanta Hawks,8,5,13,1227400200.0,2009
+Atlanta Hawks,Atlanta Hawks,Milwaukee Bucks,9,5,14,1227744000.0,2009
+Atlanta Hawks,Toronto Raptors,Atlanta Hawks,9,6,15,1227916800.0,2009
+Atlanta Hawks,Washington Wizards,Atlanta Hawks,10,6,16,1228003200.0,2009
+Atlanta Hawks,Atlanta Hawks,Memphis Grizzlies,11,6,17,1228348800.0,2009
+Atlanta Hawks,Atlanta Hawks,New York Knicks,12,6,18,1228523400.0,2009
+Atlanta Hawks,Dallas Mavericks,Atlanta Hawks,12,7,19,1228613400.0,2009
+Atlanta Hawks,Houston Rockets,Atlanta Hawks,12,8,20,1228872600.0,2009
+Atlanta Hawks,San Antonio Spurs,Atlanta Hawks,12,9,21,1228959000.0,2009
+Atlanta Hawks,Miami Heat,Atlanta Hawks,13,9,22,1229128200.0,2009
+Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,14,9,23,1229212800.0,2009
+Atlanta Hawks,Atlanta Hawks,Charlotte Bobcats,15,9,24,1229385600.0,2009
+Atlanta Hawks,Atlanta Hawks,Boston Celtics,15,10,25,1229558400.0,2009
+Atlanta Hawks,Atlanta Hawks,Golden State Warriors,16,10,26,1229733000.0,2009
+Atlanta Hawks,Atlanta Hawks,Detroit Pistons,17,10,27,1229886000.0,2009
+Atlanta Hawks,Atlanta Hawks,Oklahoma City Thunder,18,10,28,1230076800.0,2009
+Atlanta Hawks,Atlanta Hawks,Chicago Bulls,19,10,29,1230422400.0,2009
+Atlanta Hawks,Atlanta Hawks,Denver Nuggets,20,10,30,1230595200.0,2009
+Atlanta Hawks,Indiana Pacers,Atlanta Hawks,21,10,31,1230681600.0,2009
+Atlanta Hawks,New Jersey Nets,Atlanta Hawks,21,11,32,1230942600.0,2009
+Atlanta Hawks,Atlanta Hawks,Houston Rockets,22,11,33,1231027200.0,2009
+Atlanta Hawks,Atlanta Hawks,Orlando Magic,22,12,34,1231372800.0,2009
+Atlanta Hawks,Orlando Magic,Atlanta Hawks,22,13,35,1231545600.0,2009
+Atlanta Hawks,Atlanta Hawks,Philadelphia 76ers,22,14,36,1231700400.0,2009
+Atlanta Hawks,Phoenix Suns,Atlanta Hawks,22,15,37,1231898400.0,2009
+Atlanta Hawks,Los Angeles Clippers,Atlanta Hawks,23,15,38,1231990200.0,2009
+Atlanta Hawks,Golden State Warriors,Atlanta Hawks,23,16,39,1232163000.0,2009
+Atlanta Hawks,Atlanta Hawks,Toronto Raptors,24,16,40,1232391600.0,2009
+Atlanta Hawks,Chicago Bulls,Atlanta Hawks,25,16,41,1232501400.0,2009
+Atlanta Hawks,Atlanta Hawks,Milwaukee Bucks,26,16,42,1232757000.0,2009
+Atlanta Hawks,Atlanta Hawks,Phoenix Suns,26,17,43,1232924400.0,2009
+Atlanta Hawks,Miami Heat,Atlanta Hawks,26,18,44,1233016200.0,2009
+Atlanta Hawks,New York Knicks,Atlanta Hawks,26,19,45,1233189000.0,2009
+Atlanta Hawks,Atlanta Hawks,New Jersey Nets,27,19,46,1233361800.0,2009
+Atlanta Hawks,Milwaukee Bucks,Atlanta Hawks,27,20,47,1233451800.0,2009
+Atlanta Hawks,Minnesota Timberwolves,Atlanta Hawks,28,20,48,1233795600.0,2009
+Atlanta Hawks,Charlotte Bobcats,Atlanta Hawks,29,20,49,1233964800.0,2009
+Atlanta Hawks,Atlanta Hawks,Los Angeles Clippers,29,21,50,1234051200.0,2009
+Atlanta Hawks,Atlanta Hawks,Washington Wizards,30,21,51,1234310400.0,2009
+Atlanta Hawks,Detroit Pistons,Atlanta Hawks,31,21,52,1234398600.0,2009
+Atlanta Hawks,Los Angeles Lakers,Atlanta Hawks,31,22,53,1234927800.0,2009
+Atlanta Hawks,Sacramento Kings,Atlanta Hawks,32,22,54,1235012400.0,2009
+Atlanta Hawks,Portland Trail Blazers,Atlanta Hawks,32,23,55,1235185200.0,2009
+Atlanta Hawks,Utah Jazz,Atlanta Hawks,32,24,56,1235440800.0,2009
+Atlanta Hawks,Denver Nuggets,Atlanta Hawks,32,25,57,1235613600.0,2009
+Atlanta Hawks,Atlanta Hawks,Miami Heat,33,25,58,1235781000.0,2009
+Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,33,26,59,1235955600.0,2009
+Atlanta Hawks,Washington Wizards,Atlanta Hawks,34,26,60,1236038400.0,2009
+Atlanta Hawks,New York Knicks,Atlanta Hawks,34,27,61,1236213000.0,2009
+Atlanta Hawks,Charlotte Bobcats,Atlanta Hawks,34,28,62,1236384000.0,2009
+Atlanta Hawks,Atlanta Hawks,Detroit Pistons,35,28,63,1236470400.0,2009
+Atlanta Hawks,Atlanta Hawks,New Orleans Hornets,36,28,64,1236639600.0,2009
+Atlanta Hawks,Atlanta Hawks,Utah Jazz,37,28,65,1236812400.0,2009
+Atlanta Hawks,Atlanta Hawks,Indiana Pacers,38,28,66,1236987000.0,2009
+Atlanta Hawks,Atlanta Hawks,Portland Trail Blazers,39,28,67,1237136400.0,2009
+Atlanta Hawks,Atlanta Hawks,Sacramento Kings,40,28,68,1237330800.0,2009
+Atlanta Hawks,Atlanta Hawks,Dallas Mavericks,41,28,69,1237503600.0,2009
+Atlanta Hawks,Cleveland Cavaliers,Atlanta Hawks,41,29,70,1237654800.0,2009
+Atlanta Hawks,Atlanta Hawks,Minnesota Timberwolves,42,29,71,1237849200.0,2009
+Atlanta Hawks,Atlanta Hawks,San Antonio Spurs,42,30,72,1238022000.0,2009
+Atlanta Hawks,Atlanta Hawks,Boston Celtics,42,31,73,1238196600.0,2009
+Atlanta Hawks,Atlanta Hawks,Los Angeles Lakers,43,31,74,1238355000.0,2009
+Atlanta Hawks,Philadelphia 76ers,Atlanta Hawks,43,32,75,1238540400.0,2009
+Atlanta Hawks,Boston Celtics,Atlanta Hawks,43,33,76,1238801400.0,2009
+Atlanta Hawks,Atlanta Hawks,Orlando Magic,43,34,77,1238886000.0,2009
+Atlanta Hawks,Toronto Raptors,Atlanta Hawks,44,34,78,1239145200.0,2009
+Atlanta Hawks,Milwaukee Bucks,Atlanta Hawks,45,34,79,1239235200.0,2009
+Atlanta Hawks,Atlanta Hawks,Indiana Pacers,46,34,80,1239406200.0,2009
+Atlanta Hawks,Atlanta Hawks,Miami Heat,47,34,81,1239750000.0,2009
+Atlanta Hawks,Memphis Grizzlies,Atlanta Hawks,47,35,82,1239840000.0,2009
+Boston Celtics,Boston Celtics,Cleveland Cavaliers,1,0,1,1225238400.0,2009
+Boston Celtics,Boston Celtics,Chicago Bulls,2,0,2,1225497600.0,2009
+Boston Celtics,Indiana Pacers,Boston Celtics,2,1,3,1225580400.0,2009
+Boston Celtics,Houston Rockets,Boston Celtics,3,1,4,1225848600.0,2009
+Boston Celtics,Oklahoma City Thunder,Boston Celtics,4,1,5,1225933200.0,2009
+Boston Celtics,Boston Celtics,Milwaukee Bucks,5,1,6,1226104200.0,2009
+Boston Celtics,Detroit Pistons,Boston Celtics,6,1,7,1226271600.0,2009
+Boston Celtics,Boston Celtics,Toronto Raptors,7,1,8,1226363400.0,2009
+Boston Celtics,Boston Celtics,Atlanta Hawks,8,1,9,1226536200.0,2009
+Boston Celtics,Boston Celtics,Denver Nuggets,8,2,10,1226710800.0,2009
+Boston Celtics,Milwaukee Bucks,Boston Celtics,9,2,11,1226799000.0,2009
+Boston Celtics,Boston Celtics,New York Knicks,10,2,12,1227054600.0,2009
+Boston Celtics,Boston Celtics,Detroit Pistons,11,2,13,1227229200.0,2009
+Boston Celtics,Minnesota Timberwolves,Boston Celtics,12,2,14,1227315600.0,2009
+Boston Celtics,Toronto Raptors,Boston Celtics,13,2,15,1227461400.0,2009
+Boston Celtics,Boston Celtics,Golden State Warriors,14,2,16,1227745800.0,2009
+Boston Celtics,Boston Celtics,Philadelphia 76ers,15,2,17,1227918600.0,2009
+Boston Celtics,Charlotte Bobcats,Boston Celtics,16,2,18,1228003200.0,2009
+Boston Celtics,Boston Celtics,Orlando Magic,17,2,19,1228177800.0,2009
+Boston Celtics,Boston Celtics,Indiana Pacers,18,2,20,1228350600.0,2009
+Boston Celtics,Boston Celtics,Portland Trail Blazers,19,2,21,1228525200.0,2009
+Boston Celtics,Indiana Pacers,Boston Celtics,20,2,22,1228690800.0,2009
+Boston Celtics,Washington Wizards,Boston Celtics,21,2,23,1229043600.0,2009
+Boston Celtics,Boston Celtics,New Orleans Hornets,22,2,24,1229130000.0,2009
+Boston Celtics,Boston Celtics,Utah Jazz,23,2,25,1229387400.0,2009
+Boston Celtics,Atlanta Hawks,Boston Celtics,24,2,26,1229558400.0,2009
+Boston Celtics,Boston Celtics,Chicago Bulls,25,2,27,1229733000.0,2009
+Boston Celtics,Boston Celtics,New York Knicks,26,2,28,1229900400.0,2009
+Boston Celtics,Boston Celtics,Philadelphia 76ers,27,2,29,1230078600.0,2009
+Boston Celtics,Los Angeles Lakers,Boston Celtics,27,3,30,1230242400.0,2009
+Boston Celtics,Golden State Warriors,Boston Celtics,27,4,31,1230348600.0,2009
+Boston Celtics,Sacramento Kings,Boston Celtics,28,4,32,1230516000.0,2009
+Boston Celtics,Portland Trail Blazers,Boston Celtics,28,5,33,1230692400.0,2009
+Boston Celtics,Boston Celtics,Washington Wizards,29,5,34,1230942600.0,2009
+Boston Celtics,New York Knicks,Boston Celtics,29,6,35,1231110000.0,2009
+Boston Celtics,Charlotte Bobcats,Boston Celtics,29,7,36,1231286400.0,2009
+Boston Celtics,Boston Celtics,Houston Rockets,29,8,37,1231374600.0,2009
+Boston Celtics,Cleveland Cavaliers,Boston Celtics,29,9,38,1231549200.0,2009
+Boston Celtics,Toronto Raptors,Boston Celtics,30,9,39,1231695000.0,2009
+Boston Celtics,Boston Celtics,Toronto Raptors,31,9,40,1231806600.0,2009
+Boston Celtics,Boston Celtics,New Jersey Nets,32,9,41,1231979400.0,2009
+Boston Celtics,New Jersey Nets,Boston Celtics,33,9,42,1232215200.0,2009
+Boston Celtics,Boston Celtics,Phoenix Suns,34,9,43,1232413200.0,2009
+Boston Celtics,Miami Heat,Boston Celtics,35,9,44,1232584200.0,2009
+Boston Celtics,Orlando Magic,Boston Celtics,36,9,45,1232672400.0,2009
+Boston Celtics,Boston Celtics,Dallas Mavericks,37,9,46,1232906400.0,2009
+Boston Celtics,Boston Celtics,Sacramento Kings,38,9,47,1233189000.0,2009
+Boston Celtics,Detroit Pistons,Boston Celtics,39,9,48,1233360000.0,2009
+Boston Celtics,Boston Celtics,Minnesota Timberwolves,40,9,49,1233507600.0,2009
+Boston Celtics,Philadelphia 76ers,Boston Celtics,41,9,50,1233705600.0,2009
+Boston Celtics,Boston Celtics,Los Angeles Lakers,41,10,51,1233882000.0,2009
+Boston Celtics,New York Knicks,Boston Celtics,42,10,52,1233966600.0,2009
+Boston Celtics,Boston Celtics,San Antonio Spurs,42,11,53,1234116000.0,2009
+Boston Celtics,New Orleans Hornets,Boston Celtics,43,11,54,1234400400.0,2009
+Boston Celtics,Dallas Mavericks,Boston Celtics,44,11,55,1234492200.0,2009
+Boston Celtics,Utah Jazz,Boston Celtics,44,12,56,1235100600.0,2009
+Boston Celtics,Phoenix Suns,Boston Celtics,45,12,57,1235331000.0,2009
+Boston Celtics,Denver Nuggets,Boston Celtics,46,12,58,1235440800.0,2009
+Boston Celtics,Los Angeles Clippers,Boston Celtics,46,13,59,1235619000.0,2009
+Boston Celtics,Boston Celtics,Indiana Pacers,47,13,60,1235781000.0,2009
+Boston Celtics,Boston Celtics,Detroit Pistons,47,14,61,1235930400.0,2009
+Boston Celtics,New Jersey Nets,Boston Celtics,48,14,62,1236213000.0,2009
+Boston Celtics,Boston Celtics,Cleveland Cavaliers,49,14,63,1236387600.0,2009
+Boston Celtics,Boston Celtics,Orlando Magic,49,15,64,1236531600.0,2009
+Boston Celtics,Miami Heat,Boston Celtics,49,16,65,1236814200.0,2009
+Boston Celtics,Boston Celtics,Memphis Grizzlies,50,16,66,1236987000.0,2009
+Boston Celtics,Milwaukee Bucks,Boston Celtics,50,17,67,1237136400.0,2009
+Boston Celtics,Chicago Bulls,Boston Celtics,50,18,68,1237336200.0,2009
+Boston Celtics,Boston Celtics,Miami Heat,51,18,69,1237417200.0,2009
+Boston Celtics,San Antonio Spurs,Boston Celtics,52,18,70,1237595400.0,2009
+Boston Celtics,Memphis Grizzlies,Boston Celtics,53,18,71,1237680000.0,2009
+Boston Celtics,Boston Celtics,Los Angeles Clippers,54,18,72,1237851000.0,2009
+Boston Celtics,Orlando Magic,Boston Celtics,54,19,73,1238025600.0,2009
+Boston Celtics,Atlanta Hawks,Boston Celtics,55,19,74,1238196600.0,2009
+Boston Celtics,Boston Celtics,Oklahoma City Thunder,56,19,75,1238367600.0,2009
+Boston Celtics,Boston Celtics,Charlotte Bobcats,57,19,76,1238628600.0,2009
+Boston Celtics,Boston Celtics,Atlanta Hawks,58,19,77,1238801400.0,2009
+Boston Celtics,Boston Celtics,New Jersey Nets,59,19,78,1239233400.0,2009
+Boston Celtics,Boston Celtics,Miami Heat,60,19,79,1239406200.0,2009
+Boston Celtics,Cleveland Cavaliers,Boston Celtics,60,20,80,1239564600.0,2009
+Boston Celtics,Philadelphia 76ers,Boston Celtics,61,20,81,1239753600.0,2009
+Boston Celtics,Boston Celtics,Washington Wizards,62,20,82,1239840000.0,2009
+Charlotte Bobcats,Cleveland Cavaliers,Charlotte Bobcats,0,1,1,1225407600.0,2009
+Charlotte Bobcats,Charlotte Bobcats,Miami Heat,1,1,2,1225580400.0,2009
+Charlotte Bobcats,Charlotte Bobcats,Detroit Pistons,1,2,3,1225756800.0,2009
+Charlotte Bobcats,New York Knicks,Charlotte Bobcats,1,3,4,1225931400.0,2009
+Charlotte Bobcats,Charlotte Bobcats,New Orleans Hornets,2,3,5,1226102400.0,2009
+Charlotte Bobcats,Charlotte Bobcats,Toronto Raptors,2,4,6,1226253600.0,2009
+Charlotte Bobcats,Charlotte Bobcats,Denver Nuggets,2,5,7,1226448000.0,2009
+Charlotte Bobcats,Charlotte Bobcats,Utah Jazz,3,5,8,1226707200.0,2009
+Charlotte Bobcats,Charlotte Bobcats,Orlando Magic,3,6,9,1226874600.0,2009
+Charlotte Bobcats,Charlotte Bobcats,Dallas Mavericks,3,7,10,1227052800.0,2009
+Charlotte Bobcats,Atlanta Hawks,Charlotte Bobcats,3,8,11,1227313800.0,2009
+Charlotte Bobcats,Charlotte Bobcats,Milwaukee Bucks,3,9,12,1227398400.0,2009
+Charlotte Bobcats,Charlotte Bobcats,Philadelphia 76ers,4,9,13,1227571200.0,2009
+Charlotte Bobcats,Toronto Raptors,Charlotte Bobcats,4,10,14,1227744000.0,2009
+Charlotte Bobcats,Indiana Pacers,Charlotte Bobcats,5,10,15,1227920400.0,2009
+Charlotte Bobcats,Charlotte Bobcats,Boston Celtics,5,11,16,1228003200.0,2009
+Charlotte Bobcats,Charlotte Bobcats,Minnesota Timberwolves,6,11,17,1228176000.0,2009
+Charlotte Bobcats,Charlotte Bobcats,Oklahoma City Thunder,7,11,18,1228348800.0,2009
+Charlotte Bobcats,Milwaukee Bucks,Charlotte Bobcats,7,12,19,1228527000.0,2009
+Charlotte Bobcats,Charlotte Bobcats,Cleveland Cavaliers,7,13,20,1228608000.0,2009
+Charlotte Bobcats,Miami Heat,Charlotte Bobcats,7,14,21,1228782600.0,2009
+Charlotte Bobcats,New Orleans Hornets,Charlotte Bobcats,7,15,22,1228957200.0,2009
+Charlotte Bobcats,Dallas Mavericks,Charlotte Bobcats,7,16,23,1229045400.0,2009
+Charlotte Bobcats,Charlotte Bobcats,Detroit Pistons,7,17,24,1229212800.0,2009
+Charlotte Bobcats,Atlanta Hawks,Charlotte Bobcats,7,18,25,1229385600.0,2009
+Charlotte Bobcats,Charlotte Bobcats,Chicago Bulls,8,18,26,1229472000.0,2009
+Charlotte Bobcats,Memphis Grizzlies,Charlotte Bobcats,9,18,27,1229734800.0,2009
+Charlotte Bobcats,Charlotte Bobcats,Golden State Warriors,9,19,28,1229817600.0,2009
+Charlotte Bobcats,Charlotte Bobcats,Washington Wizards,10,19,29,1230076800.0,2009
+Charlotte Bobcats,New Jersey Nets,Charlotte Bobcats,11,19,30,1230337800.0,2009
+Charlotte Bobcats,Charlotte Bobcats,New Jersey Nets,11,20,31,1230422400.0,2009
+Charlotte Bobcats,Charlotte Bobcats,New York Knicks,11,21,32,1230681600.0,2009
+Charlotte Bobcats,Milwaukee Bucks,Charlotte Bobcats,11,22,33,1230946200.0,2009
+Charlotte Bobcats,Charlotte Bobcats,Milwaukee Bucks,12,22,34,1231027200.0,2009
+Charlotte Bobcats,Charlotte Bobcats,Boston Celtics,13,22,35,1231286400.0,2009
+Charlotte Bobcats,Cleveland Cavaliers,Charlotte Bobcats,13,23,36,1231372800.0,2009
+Charlotte Bobcats,Philadelphia 76ers,Charlotte Bobcats,13,24,37,1231545600.0,2009
+Charlotte Bobcats,Washington Wizards,Charlotte Bobcats,14,24,38,1231632000.0,2009
+Charlotte Bobcats,Detroit Pistons,Charlotte Bobcats,15,24,39,1231893000.0,2009
+Charlotte Bobcats,Charlotte Bobcats,Portland Trail Blazers,16,24,40,1232236800.0,2009
+Charlotte Bobcats,Charlotte Bobcats,San Antonio Spurs,16,25,41,1232391600.0,2009
+Charlotte Bobcats,Charlotte Bobcats,Memphis Grizzlies,17,25,42,1232582400.0,2009
+Charlotte Bobcats,Charlotte Bobcats,Phoenix Suns,18,25,43,1232755200.0,2009
+Charlotte Bobcats,Indiana Pacers,Charlotte Bobcats,18,26,44,1232928000.0,2009
+Charlotte Bobcats,Los Angeles Lakers,Charlotte Bobcats,19,26,45,1233113400.0,2009
+Charlotte Bobcats,Portland Trail Blazers,Charlotte Bobcats,19,27,46,1233198000.0,2009
+Charlotte Bobcats,Denver Nuggets,Charlotte Bobcats,19,28,47,1233367200.0,2009
+Charlotte Bobcats,Utah Jazz,Charlotte Bobcats,19,29,48,1233626400.0,2009
+Charlotte Bobcats,Charlotte Bobcats,Atlanta Hawks,19,30,49,1233964800.0,2009
+Charlotte Bobcats,Miami Heat,Charlotte Bobcats,19,31,50,1234134000.0,2009
+Charlotte Bobcats,Charlotte Bobcats,Los Angeles Clippers,20,31,51,1234224000.0,2009
+Charlotte Bobcats,Charlotte Bobcats,Washington Wizards,21,31,52,1234396800.0,2009
+Charlotte Bobcats,Orlando Magic,Charlotte Bobcats,21,32,53,1234915200.0,2009
+Charlotte Bobcats,Charlotte Bobcats,Indiana Pacers,22,32,54,1235001600.0,2009
+Charlotte Bobcats,Charlotte Bobcats,Orlando Magic,22,33,55,1235174400.0,2009
+Charlotte Bobcats,Houston Rockets,Charlotte Bobcats,22,34,56,1235340000.0,2009
+Charlotte Bobcats,Phoenix Suns,Charlotte Bobcats,22,35,57,1235527200.0,2009
+Charlotte Bobcats,Sacramento Kings,Charlotte Bobcats,23,35,58,1235617200.0,2009
+Charlotte Bobcats,Golden State Warriors,Charlotte Bobcats,24,35,59,1235791800.0,2009
+Charlotte Bobcats,Los Angeles Clippers,Charlotte Bobcats,25,35,60,1235878200.0,2009
+Charlotte Bobcats,Charlotte Bobcats,Chicago Bulls,26,35,61,1236124800.0,2009
+Charlotte Bobcats,Charlotte Bobcats,Atlanta Hawks,27,35,62,1236384000.0,2009
+Charlotte Bobcats,New York Knicks,Charlotte Bobcats,28,35,63,1236472200.0,2009
+Charlotte Bobcats,San Antonio Spurs,Charlotte Bobcats,28,36,64,1236731400.0,2009
+Charlotte Bobcats,Charlotte Bobcats,Houston Rockets,28,37,65,1236985200.0,2009
+Charlotte Bobcats,Minnesota Timberwolves,Charlotte Bobcats,28,38,66,1237075200.0,2009
+Charlotte Bobcats,Charlotte Bobcats,Toronto Raptors,29,38,67,1237244400.0,2009
+Charlotte Bobcats,Charlotte Bobcats,Sacramento Kings,30,38,68,1237417200.0,2009
+Charlotte Bobcats,Toronto Raptors,Charlotte Bobcats,31,38,69,1237590000.0,2009
+Charlotte Bobcats,Charlotte Bobcats,Indiana Pacers,31,39,70,1237676400.0,2009
+Charlotte Bobcats,Washington Wizards,Charlotte Bobcats,31,40,71,1238022000.0,2009
+Charlotte Bobcats,Philadelphia 76ers,Charlotte Bobcats,32,40,72,1238194800.0,2009
+Charlotte Bobcats,Charlotte Bobcats,New York Knicks,33,40,73,1238281200.0,2009
+Charlotte Bobcats,Charlotte Bobcats,Los Angeles Lakers,34,40,74,1238540400.0,2009
+Charlotte Bobcats,Boston Celtics,Charlotte Bobcats,34,41,75,1238628600.0,2009
+Charlotte Bobcats,Charlotte Bobcats,Miami Heat,34,42,76,1238799600.0,2009
+Charlotte Bobcats,Detroit Pistons,Charlotte Bobcats,34,43,77,1238968800.0,2009
+Charlotte Bobcats,Charlotte Bobcats,Philadelphia 76ers,35,43,78,1239145200.0,2009
+Charlotte Bobcats,Oklahoma City Thunder,Charlotte Bobcats,35,44,79,1239408000.0,2009
+Charlotte Bobcats,Chicago Bulls,Charlotte Bobcats,35,45,80,1239496200.0,2009
+Charlotte Bobcats,New Jersey Nets,Charlotte Bobcats,35,46,81,1239665400.0,2009
+Charlotte Bobcats,Orlando Magic,Charlotte Bobcats,35,47,82,1239840000.0,2009
+Chicago Bulls,Chicago Bulls,Milwaukee Bucks,1,0,1,1225240200.0,2009
+Chicago Bulls,Boston Celtics,Chicago Bulls,1,1,2,1225497600.0,2009
+Chicago Bulls,Chicago Bulls,Memphis Grizzlies,2,1,3,1225585800.0,2009
+Chicago Bulls,Orlando Magic,Chicago Bulls,2,2,4,1225756800.0,2009
+Chicago Bulls,Cleveland Cavaliers,Chicago Bulls,2,3,5,1225933200.0,2009
+Chicago Bulls,Chicago Bulls,Phoenix Suns,3,3,6,1226107800.0,2009
+Chicago Bulls,Chicago Bulls,Cleveland Cavaliers,3,4,7,1226194200.0,2009
+Chicago Bulls,Chicago Bulls,Atlanta Hawks,3,5,8,1226453400.0,2009
+Chicago Bulls,Chicago Bulls,Dallas Mavericks,4,5,9,1226626200.0,2009
+Chicago Bulls,Chicago Bulls,Indiana Pacers,5,5,10,1226799000.0,2009
+Chicago Bulls,Los Angeles Lakers,Chicago Bulls,5,6,11,1227065400.0,2009
+Chicago Bulls,Portland Trail Blazers,Chicago Bulls,5,7,12,1227151800.0,2009
+Chicago Bulls,Golden State Warriors,Chicago Bulls,6,7,13,1227324600.0,2009
+Chicago Bulls,Denver Nuggets,Chicago Bulls,6,8,14,1227492000.0,2009
+Chicago Bulls,Utah Jazz,Chicago Bulls,7,8,15,1227578400.0,2009
+Chicago Bulls,San Antonio Spurs,Chicago Bulls,7,9,16,1227749400.0,2009
+Chicago Bulls,Philadelphia 76ers,Chicago Bulls,8,9,17,1228082400.0,2009
+Chicago Bulls,Chicago Bulls,Philadelphia 76ers,8,10,18,1228267800.0,2009
+Chicago Bulls,Milwaukee Bucks,Chicago Bulls,8,11,19,1228352400.0,2009
+Chicago Bulls,Chicago Bulls,Washington Wizards,9,11,20,1228613400.0,2009
+Chicago Bulls,Chicago Bulls,New York Knicks,10,11,21,1228872600.0,2009
+Chicago Bulls,Memphis Grizzlies,Chicago Bulls,10,12,22,1229130000.0,2009
+Chicago Bulls,Chicago Bulls,New Jersey Nets,11,12,23,1229218200.0,2009
+Chicago Bulls,Charlotte Bobcats,Chicago Bulls,11,13,24,1229472000.0,2009
+Chicago Bulls,Chicago Bulls,Los Angeles Clippers,12,13,25,1229563800.0,2009
+Chicago Bulls,Boston Celtics,Chicago Bulls,12,14,26,1229733000.0,2009
+Chicago Bulls,Chicago Bulls,Utah Jazz,13,14,27,1229823000.0,2009
+Chicago Bulls,Detroit Pistons,Chicago Bulls,13,15,28,1230080400.0,2009
+Chicago Bulls,Miami Heat,Chicago Bulls,13,16,29,1230328800.0,2009
+Chicago Bulls,Atlanta Hawks,Chicago Bulls,13,17,30,1230422400.0,2009
+Chicago Bulls,New Jersey Nets,Chicago Bulls,14,17,31,1230597000.0,2009
+Chicago Bulls,Chicago Bulls,Orlando Magic,14,18,32,1230750000.0,2009
+Chicago Bulls,Cleveland Cavaliers,Chicago Bulls,14,19,33,1230942600.0,2009
+Chicago Bulls,Chicago Bulls,Minnesota Timberwolves,14,20,34,1231032600.0,2009
+Chicago Bulls,Chicago Bulls,Sacramento Kings,15,20,35,1231291800.0,2009
+Chicago Bulls,Chicago Bulls,Washington Wizards,16,20,36,1231551000.0,2009
+Chicago Bulls,Chicago Bulls,Oklahoma City Thunder,16,21,37,1231637400.0,2009
+Chicago Bulls,Chicago Bulls,Portland Trail Blazers,16,22,38,1231810200.0,2009
+Chicago Bulls,Toronto Raptors,Chicago Bulls,17,22,39,1231977600.0,2009
+Chicago Bulls,Chicago Bulls,Cleveland Cavaliers,18,22,40,1232067600.0,2009
+Chicago Bulls,Chicago Bulls,San Antonio Spurs,18,23,41,1232242200.0,2009
+Chicago Bulls,New York Knicks,Chicago Bulls,18,24,42,1232388000.0,2009
+Chicago Bulls,Chicago Bulls,Atlanta Hawks,18,25,43,1232501400.0,2009
+Chicago Bulls,Chicago Bulls,Toronto Raptors,18,26,44,1232760600.0,2009
+Chicago Bulls,Minnesota Timberwolves,Chicago Bulls,18,27,45,1232928000.0,2009
+Chicago Bulls,Los Angeles Clippers,Chicago Bulls,19,27,46,1233199800.0,2009
+Chicago Bulls,Sacramento Kings,Chicago Bulls,20,27,47,1233370800.0,2009
+Chicago Bulls,Phoenix Suns,Chicago Bulls,21,27,48,1233453600.0,2009
+Chicago Bulls,Houston Rockets,Chicago Bulls,21,28,49,1233711000.0,2009
+Chicago Bulls,New Orleans Hornets,Chicago Bulls,22,28,50,1233795600.0,2009
+Chicago Bulls,Dallas Mavericks,Chicago Bulls,22,29,51,1234056600.0,2009
+Chicago Bulls,Chicago Bulls,Detroit Pistons,23,29,52,1234315800.0,2009
+Chicago Bulls,Chicago Bulls,Miami Heat,23,30,53,1234483200.0,2009
+Chicago Bulls,Milwaukee Bucks,Chicago Bulls,24,30,54,1235005200.0,2009
+Chicago Bulls,Chicago Bulls,Denver Nuggets,25,30,55,1235179800.0,2009
+Chicago Bulls,Indiana Pacers,Chicago Bulls,25,31,56,1235322000.0,2009
+Chicago Bulls,Chicago Bulls,Orlando Magic,26,31,57,1235523600.0,2009
+Chicago Bulls,New Jersey Nets,Chicago Bulls,26,32,58,1235608200.0,2009
+Chicago Bulls,Washington Wizards,Chicago Bulls,26,33,59,1235779200.0,2009
+Chicago Bulls,Chicago Bulls,Houston Rockets,27,33,60,1235871000.0,2009
+Chicago Bulls,Charlotte Bobcats,Chicago Bulls,27,34,61,1236124800.0,2009
+Chicago Bulls,Chicago Bulls,Golden State Warriors,28,34,62,1236216600.0,2009
+Chicago Bulls,Chicago Bulls,Milwaukee Bucks,29,34,63,1236389400.0,2009
+Chicago Bulls,Miami Heat,Chicago Bulls,29,35,64,1236641400.0,2009
+Chicago Bulls,Orlando Magic,Chicago Bulls,29,36,65,1236812400.0,2009
+Chicago Bulls,Philadelphia 76ers,Chicago Bulls,29,37,66,1236985200.0,2009
+Chicago Bulls,Chicago Bulls,New Orleans Hornets,30,37,67,1237077000.0,2009
+Chicago Bulls,Chicago Bulls,Boston Celtics,31,37,68,1237336200.0,2009
+Chicago Bulls,Oklahoma City Thunder,Chicago Bulls,32,37,69,1237420800.0,2009
+Chicago Bulls,Chicago Bulls,Los Angeles Lakers,32,38,70,1237681800.0,2009
+Chicago Bulls,Washington Wizards,Chicago Bulls,33,38,71,1237849200.0,2009
+Chicago Bulls,Chicago Bulls,Detroit Pistons,34,38,72,1237939200.0,2009
+Chicago Bulls,Chicago Bulls,Miami Heat,35,38,73,1238112000.0,2009
+Chicago Bulls,Chicago Bulls,Indiana Pacers,36,38,74,1238263200.0,2009
+Chicago Bulls,Toronto Raptors,Chicago Bulls,36,39,75,1238355000.0,2009
+Chicago Bulls,Indiana Pacers,Chicago Bulls,36,40,76,1238540400.0,2009
+Chicago Bulls,Chicago Bulls,New Jersey Nets,37,40,77,1238868000.0,2009
+Chicago Bulls,Chicago Bulls,New York Knicks,38,40,78,1239150600.0,2009
+Chicago Bulls,Chicago Bulls,Philadelphia 76ers,39,40,79,1239321600.0,2009
+Chicago Bulls,Chicago Bulls,Charlotte Bobcats,40,40,80,1239496200.0,2009
+Chicago Bulls,Detroit Pistons,Chicago Bulls,41,40,81,1239665400.0,2009
+Chicago Bulls,Chicago Bulls,Toronto Raptors,41,41,82,1239840000.0,2009
+Cleveland Cavaliers,Boston Celtics,Cleveland Cavaliers,0,1,1,1225238400.0,2009
+Cleveland Cavaliers,Cleveland Cavaliers,Charlotte Bobcats,1,1,2,1225407600.0,2009
+Cleveland Cavaliers,New Orleans Hornets,Cleveland Cavaliers,1,2,3,1225584000.0,2009
+Cleveland Cavaliers,Dallas Mavericks,Cleveland Cavaliers,2,2,4,1225762200.0,2009
+Cleveland Cavaliers,Cleveland Cavaliers,Chicago Bulls,3,2,5,1225933200.0,2009
+Cleveland Cavaliers,Cleveland Cavaliers,Indiana Pacers,4,2,6,1226104200.0,2009
+Cleveland Cavaliers,Chicago Bulls,Cleveland Cavaliers,5,2,7,1226194200.0,2009
+Cleveland Cavaliers,Cleveland Cavaliers,Milwaukee Bucks,6,2,8,1226448000.0,2009
+Cleveland Cavaliers,Cleveland Cavaliers,Denver Nuggets,7,2,9,1226624400.0,2009
+Cleveland Cavaliers,Cleveland Cavaliers,Utah Jazz,8,2,10,1226795400.0,2009
+Cleveland Cavaliers,New Jersey Nets,Cleveland Cavaliers,9,2,11,1227054600.0,2009
+Cleveland Cavaliers,Detroit Pistons,Cleveland Cavaliers,9,3,12,1227141000.0,2009
+Cleveland Cavaliers,Cleveland Cavaliers,Atlanta Hawks,10,3,13,1227400200.0,2009
+Cleveland Cavaliers,New York Knicks,Cleveland Cavaliers,11,3,14,1227659400.0,2009
+Cleveland Cavaliers,Cleveland Cavaliers,Oklahoma City Thunder,12,3,15,1227744000.0,2009
+Cleveland Cavaliers,Cleveland Cavaliers,Golden State Warriors,13,3,16,1227918600.0,2009
+Cleveland Cavaliers,Milwaukee Bucks,Cleveland Cavaliers,14,3,17,1228010400.0,2009
+Cleveland Cavaliers,Cleveland Cavaliers,New York Knicks,15,3,18,1228348800.0,2009
+Cleveland Cavaliers,Cleveland Cavaliers,Indiana Pacers,16,3,19,1228523400.0,2009
+Cleveland Cavaliers,Charlotte Bobcats,Cleveland Cavaliers,17,3,20,1228608000.0,2009
+Cleveland Cavaliers,Cleveland Cavaliers,Toronto Raptors,18,3,21,1228867200.0,2009
+Cleveland Cavaliers,Philadelphia 76ers,Cleveland Cavaliers,19,3,22,1228957200.0,2009
+Cleveland Cavaliers,Cleveland Cavaliers,Philadelphia 76ers,20,3,23,1229128200.0,2009
+Cleveland Cavaliers,Atlanta Hawks,Cleveland Cavaliers,20,4,24,1229212800.0,2009
+Cleveland Cavaliers,Minnesota Timberwolves,Cleveland Cavaliers,21,4,25,1229562000.0,2009
+Cleveland Cavaliers,Denver Nuggets,Cleveland Cavaliers,22,4,26,1229743800.0,2009
+Cleveland Cavaliers,Oklahoma City Thunder,Cleveland Cavaliers,23,4,27,1229904000.0,2009
+Cleveland Cavaliers,Cleveland Cavaliers,Houston Rockets,24,4,28,1230076800.0,2009
+Cleveland Cavaliers,Cleveland Cavaliers,Washington Wizards,25,4,29,1230253200.0,2009
+Cleveland Cavaliers,Cleveland Cavaliers,Miami Heat,26,4,30,1230508800.0,2009
+Cleveland Cavaliers,Miami Heat,Cleveland Cavaliers,26,5,31,1230683400.0,2009
+Cleveland Cavaliers,Cleveland Cavaliers,Chicago Bulls,27,5,32,1230942600.0,2009
+Cleveland Cavaliers,Washington Wizards,Cleveland Cavaliers,27,6,33,1231092000.0,2009
+Cleveland Cavaliers,Cleveland Cavaliers,Charlotte Bobcats,28,6,34,1231372800.0,2009
+Cleveland Cavaliers,Cleveland Cavaliers,Boston Celtics,29,6,35,1231549200.0,2009
+Cleveland Cavaliers,Memphis Grizzlies,Cleveland Cavaliers,30,6,36,1231894800.0,2009
+Cleveland Cavaliers,Chicago Bulls,Cleveland Cavaliers,30,7,37,1232067600.0,2009
+Cleveland Cavaliers,Cleveland Cavaliers,New Orleans Hornets,31,7,38,1232154000.0,2009
+Cleveland Cavaliers,Los Angeles Lakers,Cleveland Cavaliers,31,8,39,1232422200.0,2009
+Cleveland Cavaliers,Portland Trail Blazers,Cleveland Cavaliers,32,8,40,1232593200.0,2009
+Cleveland Cavaliers,Golden State Warriors,Cleveland Cavaliers,33,8,41,1232767800.0,2009
+Cleveland Cavaliers,Utah Jazz,Cleveland Cavaliers,34,8,42,1232848800.0,2009
+Cleveland Cavaliers,Cleveland Cavaliers,Sacramento Kings,35,8,43,1233100800.0,2009
+Cleveland Cavaliers,Orlando Magic,Cleveland Cavaliers,35,9,44,1233277200.0,2009
+Cleveland Cavaliers,Cleveland Cavaliers,Los Angeles Clippers,36,9,45,1233361800.0,2009
+Cleveland Cavaliers,Detroit Pistons,Cleveland Cavaliers,37,9,46,1233516600.0,2009
+Cleveland Cavaliers,Cleveland Cavaliers,Toronto Raptors,38,9,47,1233705600.0,2009
+Cleveland Cavaliers,New York Knicks,Cleveland Cavaliers,39,9,48,1233793800.0,2009
+Cleveland Cavaliers,Cleveland Cavaliers,Los Angeles Lakers,39,10,49,1234125000.0,2009
+Cleveland Cavaliers,Indiana Pacers,Cleveland Cavaliers,39,11,50,1234310400.0,2009
+Cleveland Cavaliers,Cleveland Cavaliers,Phoenix Suns,40,11,51,1234396800.0,2009
+Cleveland Cavaliers,Toronto Raptors,Cleveland Cavaliers,41,11,52,1235001600.0,2009
+Cleveland Cavaliers,Milwaukee Bucks,Cleveland Cavaliers,42,11,53,1235179800.0,2009
+Cleveland Cavaliers,Cleveland Cavaliers,Detroit Pistons,43,11,54,1235350800.0,2009
+Cleveland Cavaliers,Cleveland Cavaliers,Memphis Grizzlies,44,11,55,1235520000.0,2009
+Cleveland Cavaliers,Houston Rockets,Cleveland Cavaliers,44,12,56,1235696400.0,2009
+Cleveland Cavaliers,San Antonio Spurs,Cleveland Cavaliers,45,12,57,1235788200.0,2009
+Cleveland Cavaliers,Atlanta Hawks,Cleveland Cavaliers,46,12,58,1235955600.0,2009
+Cleveland Cavaliers,Miami Heat,Cleveland Cavaliers,47,12,59,1236040200.0,2009
+Cleveland Cavaliers,Cleveland Cavaliers,Milwaukee Bucks,48,12,60,1236211200.0,2009
+Cleveland Cavaliers,Boston Celtics,Cleveland Cavaliers,48,13,61,1236387600.0,2009
+Cleveland Cavaliers,Cleveland Cavaliers,Miami Heat,49,13,62,1236472200.0,2009
+Cleveland Cavaliers,Los Angeles Clippers,Cleveland Cavaliers,50,13,63,1236738600.0,2009
+Cleveland Cavaliers,Phoenix Suns,Cleveland Cavaliers,51,13,64,1236911400.0,2009
+Cleveland Cavaliers,Sacramento Kings,Cleveland Cavaliers,52,13,65,1236996000.0,2009
+Cleveland Cavaliers,Cleveland Cavaliers,New York Knicks,53,13,66,1237154400.0,2009
+Cleveland Cavaliers,Cleveland Cavaliers,Orlando Magic,54,13,67,1237330800.0,2009
+Cleveland Cavaliers,Cleveland Cavaliers,Portland Trail Blazers,55,13,68,1237507200.0,2009
+Cleveland Cavaliers,Cleveland Cavaliers,Atlanta Hawks,56,13,69,1237654800.0,2009
+Cleveland Cavaliers,New Jersey Nets,Cleveland Cavaliers,57,13,70,1237759200.0,2009
+Cleveland Cavaliers,Cleveland Cavaliers,New Jersey Nets,58,13,71,1238022000.0,2009
+Cleveland Cavaliers,Cleveland Cavaliers,Minnesota Timberwolves,59,13,72,1238196600.0,2009
+Cleveland Cavaliers,Cleveland Cavaliers,Dallas Mavericks,60,13,73,1238346000.0,2009
+Cleveland Cavaliers,Cleveland Cavaliers,Detroit Pistons,61,13,74,1238540400.0,2009
+Cleveland Cavaliers,Washington Wizards,Cleveland Cavaliers,61,14,75,1238716800.0,2009
+Cleveland Cavaliers,Orlando Magic,Cleveland Cavaliers,61,15,76,1238803200.0,2009
+Cleveland Cavaliers,Cleveland Cavaliers,San Antonio Spurs,62,15,77,1238950800.0,2009
+Cleveland Cavaliers,Cleveland Cavaliers,Washington Wizards,63,15,78,1239231600.0,2009
+Cleveland Cavaliers,Philadelphia 76ers,Cleveland Cavaliers,64,15,79,1239404400.0,2009
+Cleveland Cavaliers,Cleveland Cavaliers,Boston Celtics,65,15,80,1239564600.0,2009
+Cleveland Cavaliers,Indiana Pacers,Cleveland Cavaliers,66,15,81,1239663600.0,2009
+Cleveland Cavaliers,Cleveland Cavaliers,Philadelphia 76ers,66,16,82,1239840000.0,2009
+Dallas Mavericks,Dallas Mavericks,Houston Rockets,0,1,1,1225411200.0,2009
+Dallas Mavericks,Minnesota Timberwolves,Dallas Mavericks,1,1,2,1225584000.0,2009
+Dallas Mavericks,Dallas Mavericks,Cleveland Cavaliers,1,2,3,1225762200.0,2009
+Dallas Mavericks,San Antonio Spurs,Dallas Mavericks,2,2,4,1225848600.0,2009
+Dallas Mavericks,Denver Nuggets,Dallas Mavericks,2,3,5,1226115000.0,2009
+Dallas Mavericks,Los Angeles Clippers,Dallas Mavericks,2,4,6,1226262600.0,2009
+Dallas Mavericks,Dallas Mavericks,Los Angeles Lakers,2,5,7,1226453400.0,2009
+Dallas Mavericks,Chicago Bulls,Dallas Mavericks,2,6,8,1226626200.0,2009
+Dallas Mavericks,Dallas Mavericks,Orlando Magic,2,7,9,1226712600.0,2009
+Dallas Mavericks,New York Knicks,Dallas Mavericks,3,7,10,1226876400.0,2009
+Dallas Mavericks,Charlotte Bobcats,Dallas Mavericks,4,7,11,1227052800.0,2009
+Dallas Mavericks,Houston Rockets,Dallas Mavericks,5,7,12,1227142800.0,2009
+Dallas Mavericks,Dallas Mavericks,Memphis Grizzlies,6,7,13,1227317400.0,2009
+Dallas Mavericks,Dallas Mavericks,Indiana Pacers,7,7,14,1227663000.0,2009
+Dallas Mavericks,Los Angeles Lakers,Dallas Mavericks,7,8,15,1227929400.0,2009
+Dallas Mavericks,Sacramento Kings,Dallas Mavericks,8,8,16,1228014000.0,2009
+Dallas Mavericks,Dallas Mavericks,Los Angeles Clippers,9,8,17,1228267800.0,2009
+Dallas Mavericks,Dallas Mavericks,Phoenix Suns,10,8,18,1228438800.0,2009
+Dallas Mavericks,Dallas Mavericks,Atlanta Hawks,11,8,19,1228613400.0,2009
+Dallas Mavericks,Dallas Mavericks,San Antonio Spurs,11,9,20,1228872600.0,2009
+Dallas Mavericks,Dallas Mavericks,Charlotte Bobcats,12,9,21,1229045400.0,2009
+Dallas Mavericks,Dallas Mavericks,Oklahoma City Thunder,13,9,22,1229218200.0,2009
+Dallas Mavericks,Dallas Mavericks,Denver Nuggets,13,10,23,1229391000.0,2009
+Dallas Mavericks,Toronto Raptors,Dallas Mavericks,14,10,24,1229558400.0,2009
+Dallas Mavericks,New Jersey Nets,Dallas Mavericks,14,11,25,1229733000.0,2009
+Dallas Mavericks,Washington Wizards,Dallas Mavericks,15,11,26,1229900400.0,2009
+Dallas Mavericks,Dallas Mavericks,Memphis Grizzlies,16,11,27,1230082200.0,2009
+Dallas Mavericks,Portland Trail Blazers,Dallas Mavericks,17,11,28,1230262200.0,2009
+Dallas Mavericks,Utah Jazz,Dallas Mavericks,17,12,29,1230343200.0,2009
+Dallas Mavericks,Los Angeles Clippers,Dallas Mavericks,18,12,30,1230496200.0,2009
+Dallas Mavericks,Dallas Mavericks,Minnesota Timberwolves,19,12,31,1230687000.0,2009
+Dallas Mavericks,Dallas Mavericks,Philadelphia 76ers,20,12,32,1230946200.0,2009
+Dallas Mavericks,Memphis Grizzlies,Dallas Mavericks,20,13,33,1231102800.0,2009
+Dallas Mavericks,Dallas Mavericks,Los Angeles Clippers,21,13,34,1231291800.0,2009
+Dallas Mavericks,Dallas Mavericks,New York Knicks,22,13,35,1231464600.0,2009
+Dallas Mavericks,Phoenix Suns,Dallas Mavericks,22,14,36,1231558200.0,2009
+Dallas Mavericks,Sacramento Kings,Dallas Mavericks,22,15,37,1231725600.0,2009
+Dallas Mavericks,Denver Nuggets,Dallas Mavericks,22,16,38,1231898400.0,2009
+Dallas Mavericks,Dallas Mavericks,New Orleans Hornets,22,17,39,1231983000.0,2009
+Dallas Mavericks,Dallas Mavericks,Utah Jazz,23,17,40,1232244000.0,2009
+Dallas Mavericks,Philadelphia 76ers,Dallas Mavericks,24,17,41,1232388000.0,2009
+Dallas Mavericks,Milwaukee Bucks,Dallas Mavericks,24,18,42,1232586000.0,2009
+Dallas Mavericks,Detroit Pistons,Dallas Mavericks,25,18,43,1232755200.0,2009
+Dallas Mavericks,Boston Celtics,Dallas Mavericks,25,19,44,1232906400.0,2009
+Dallas Mavericks,Dallas Mavericks,Golden State Warriors,26,19,45,1233194400.0,2009
+Dallas Mavericks,Miami Heat,Dallas Mavericks,27,19,46,1233448200.0,2009
+Dallas Mavericks,Orlando Magic,Dallas Mavericks,28,19,47,1233619200.0,2009
+Dallas Mavericks,Dallas Mavericks,Portland Trail Blazers,29,19,48,1233797400.0,2009
+Dallas Mavericks,Utah Jazz,Dallas Mavericks,29,20,49,1233891000.0,2009
+Dallas Mavericks,Dallas Mavericks,Chicago Bulls,30,20,50,1234056600.0,2009
+Dallas Mavericks,Dallas Mavericks,Sacramento Kings,31,20,51,1234315800.0,2009
+Dallas Mavericks,Dallas Mavericks,Boston Celtics,31,21,52,1234492200.0,2009
+Dallas Mavericks,Dallas Mavericks,New Jersey Nets,32,21,53,1235007000.0,2009
+Dallas Mavericks,Houston Rockets,Dallas Mavericks,32,22,54,1235178000.0,2009
+Dallas Mavericks,Dallas Mavericks,Sacramento Kings,33,22,55,1235268000.0,2009
+Dallas Mavericks,San Antonio Spurs,Dallas Mavericks,33,23,56,1235525400.0,2009
+Dallas Mavericks,Dallas Mavericks,Milwaukee Bucks,34,23,57,1235611800.0,2009
+Dallas Mavericks,Dallas Mavericks,Oklahoma City Thunder,35,23,58,1235784600.0,2009
+Dallas Mavericks,Dallas Mavericks,Toronto Raptors,36,23,59,1235959200.0,2009
+Dallas Mavericks,Oklahoma City Thunder,Dallas Mavericks,36,24,60,1236042000.0,2009
+Dallas Mavericks,Dallas Mavericks,San Antonio Spurs,37,24,61,1236218400.0,2009
+Dallas Mavericks,New Orleans Hornets,Dallas Mavericks,37,25,62,1236301200.0,2009
+Dallas Mavericks,Dallas Mavericks,Washington Wizards,38,25,63,1236475800.0,2009
+Dallas Mavericks,Phoenix Suns,Dallas Mavericks,39,25,64,1236736800.0,2009
+Dallas Mavericks,Portland Trail Blazers,Dallas Mavericks,40,25,65,1236823200.0,2009
+Dallas Mavericks,Golden State Warriors,Dallas Mavericks,40,26,66,1236997800.0,2009
+Dallas Mavericks,Los Angeles Lakers,Dallas Mavericks,40,27,67,1237145400.0,2009
+Dallas Mavericks,Dallas Mavericks,Detroit Pistons,41,27,68,1237336200.0,2009
+Dallas Mavericks,Atlanta Hawks,Dallas Mavericks,41,28,69,1237503600.0,2009
+Dallas Mavericks,Indiana Pacers,Dallas Mavericks,42,28,70,1237590000.0,2009
+Dallas Mavericks,Dallas Mavericks,Golden State Warriors,43,28,71,1238027400.0,2009
+Dallas Mavericks,Dallas Mavericks,Denver Nuggets,43,29,72,1238200200.0,2009
+Dallas Mavericks,Cleveland Cavaliers,Dallas Mavericks,43,30,73,1238346000.0,2009
+Dallas Mavericks,Minnesota Timberwolves,Dallas Mavericks,44,30,74,1238544000.0,2009
+Dallas Mavericks,Dallas Mavericks,Miami Heat,45,30,75,1238632200.0,2009
+Dallas Mavericks,Memphis Grizzlies,Dallas Mavericks,45,31,76,1238803200.0,2009
+Dallas Mavericks,Dallas Mavericks,Phoenix Suns,46,31,77,1238959800.0,2009
+Dallas Mavericks,Dallas Mavericks,Utah Jazz,47,31,78,1239240600.0,2009
+Dallas Mavericks,Dallas Mavericks,New Orleans Hornets,48,31,79,1239409800.0,2009
+Dallas Mavericks,New Orleans Hornets,Dallas Mavericks,48,32,80,1239555600.0,2009
+Dallas Mavericks,Dallas Mavericks,Minnesota Timberwolves,49,32,81,1239669000.0,2009
+Dallas Mavericks,Dallas Mavericks,Houston Rockets,50,32,82,1239840000.0,2009
+Denver Nuggets,Utah Jazz,Denver Nuggets,0,1,1,1225328400.0,2009
+Denver Nuggets,Los Angeles Clippers,Denver Nuggets,1,1,2,1225506600.0,2009
+Denver Nuggets,Denver Nuggets,Los Angeles Lakers,1,2,3,1225587600.0,2009
+Denver Nuggets,Golden State Warriors,Denver Nuggets,1,3,4,1225942200.0,2009
+Denver Nuggets,Denver Nuggets,Dallas Mavericks,2,3,5,1226115000.0,2009
+Denver Nuggets,Denver Nuggets,Memphis Grizzlies,3,3,6,1226278800.0,2009
+Denver Nuggets,Charlotte Bobcats,Denver Nuggets,4,3,7,1226448000.0,2009
+Denver Nuggets,Cleveland Cavaliers,Denver Nuggets,4,4,8,1226624400.0,2009
+Denver Nuggets,Boston Celtics,Denver Nuggets,5,4,9,1226710800.0,2009
+Denver Nuggets,Denver Nuggets,Minnesota Timberwolves,6,4,10,1226883600.0,2009
+Denver Nuggets,Denver Nuggets,Milwaukee Bucks,7,4,11,1227060000.0,2009
+Denver Nuggets,San Antonio Spurs,Denver Nuggets,8,4,12,1227144600.0,2009
+Denver Nuggets,Los Angeles Lakers,Denver Nuggets,8,5,13,1227324600.0,2009
+Denver Nuggets,Denver Nuggets,Chicago Bulls,9,5,14,1227492000.0,2009
+Denver Nuggets,Los Angeles Clippers,Denver Nuggets,10,5,15,1227756600.0,2009
+Denver Nuggets,Denver Nuggets,New Orleans Hornets,10,6,16,1227843000.0,2009
+Denver Nuggets,Minnesota Timberwolves,Denver Nuggets,11,6,17,1228006800.0,2009
+Denver Nuggets,Denver Nuggets,Houston Rockets,12,6,18,1228093200.0,2009
+Denver Nuggets,Denver Nuggets,Toronto Raptors,13,6,19,1228269600.0,2009
+Denver Nuggets,Denver Nuggets,San Antonio Spurs,13,7,20,1228447800.0,2009
+Denver Nuggets,Sacramento Kings,Denver Nuggets,14,7,21,1228618800.0,2009
+Denver Nuggets,Denver Nuggets,Minnesota Timberwolves,15,7,22,1228960800.0,2009
+Denver Nuggets,Denver Nuggets,Golden State Warriors,16,7,23,1229220000.0,2009
+Denver Nuggets,Dallas Mavericks,Denver Nuggets,17,7,24,1229391000.0,2009
+Denver Nuggets,Houston Rockets,Denver Nuggets,17,8,25,1229477400.0,2009
+Denver Nuggets,Denver Nuggets,Cleveland Cavaliers,17,9,26,1229743800.0,2009
+Denver Nuggets,Phoenix Suns,Denver Nuggets,17,10,27,1229824800.0,2009
+Denver Nuggets,Denver Nuggets,Portland Trail Blazers,18,10,28,1229997600.0,2009
+Denver Nuggets,Portland Trail Blazers,Denver Nuggets,18,11,29,1230087600.0,2009
+Denver Nuggets,Denver Nuggets,Philadelphia 76ers,19,11,30,1230343200.0,2009
+Denver Nuggets,New York Knicks,Denver Nuggets,20,11,31,1230487200.0,2009
+Denver Nuggets,Atlanta Hawks,Denver Nuggets,20,12,32,1230595200.0,2009
+Denver Nuggets,Toronto Raptors,Denver Nuggets,21,12,33,1230768000.0,2009
+Denver Nuggets,Oklahoma City Thunder,Denver Nuggets,22,12,34,1230944400.0,2009
+Denver Nuggets,Denver Nuggets,New Orleans Hornets,23,12,35,1231034400.0,2009
+Denver Nuggets,Denver Nuggets,Indiana Pacers,24,12,36,1231207200.0,2009
+Denver Nuggets,Denver Nuggets,Miami Heat,25,12,37,1231380000.0,2009
+Denver Nuggets,Denver Nuggets,Detroit Pistons,25,13,38,1231552800.0,2009
+Denver Nuggets,Denver Nuggets,Dallas Mavericks,26,13,39,1231898400.0,2009
+Denver Nuggets,Denver Nuggets,Phoenix Suns,27,13,40,1232076600.0,2009
+Denver Nuggets,Denver Nuggets,Orlando Magic,27,14,41,1232244000.0,2009
+Denver Nuggets,Houston Rockets,Denver Nuggets,27,15,42,1232391600.0,2009
+Denver Nuggets,Denver Nuggets,Sacramento Kings,28,15,43,1232503200.0,2009
+Denver Nuggets,Denver Nuggets,Utah Jazz,29,15,44,1232931600.0,2009
+Denver Nuggets,Memphis Grizzlies,Denver Nuggets,30,15,45,1233104400.0,2009
+Denver Nuggets,New Orleans Hornets,Denver Nuggets,30,16,46,1233190800.0,2009
+Denver Nuggets,Denver Nuggets,Charlotte Bobcats,31,16,47,1233367200.0,2009
+Denver Nuggets,Denver Nuggets,San Antonio Spurs,32,16,48,1233712800.0,2009
+Denver Nuggets,Oklahoma City Thunder,Denver Nuggets,33,16,49,1233795600.0,2009
+Denver Nuggets,Washington Wizards,Denver Nuggets,34,16,50,1233968400.0,2009
+Denver Nuggets,New Jersey Nets,Denver Nuggets,34,17,51,1234053000.0,2009
+Denver Nuggets,Miami Heat,Denver Nuggets,35,17,52,1234312200.0,2009
+Denver Nuggets,Orlando Magic,Denver Nuggets,36,17,53,1234396800.0,2009
+Denver Nuggets,Philadelphia 76ers,Denver Nuggets,37,17,54,1235001600.0,2009
+Denver Nuggets,Chicago Bulls,Denver Nuggets,37,18,55,1235179800.0,2009
+Denver Nuggets,Milwaukee Bucks,Denver Nuggets,37,19,56,1235340000.0,2009
+Denver Nuggets,Denver Nuggets,Boston Celtics,37,20,57,1235440800.0,2009
+Denver Nuggets,Denver Nuggets,Atlanta Hawks,38,20,58,1235613600.0,2009
+Denver Nuggets,Denver Nuggets,Los Angeles Lakers,39,20,59,1235786400.0,2009
+Denver Nuggets,Indiana Pacers,Denver Nuggets,39,21,60,1235952000.0,2009
+Denver Nuggets,Detroit Pistons,Denver Nuggets,39,22,61,1236126600.0,2009
+Denver Nuggets,Denver Nuggets,Portland Trail Blazers,40,22,62,1236310200.0,2009
+Denver Nuggets,Utah Jazz,Denver Nuggets,40,23,63,1236396600.0,2009
+Denver Nuggets,Sacramento Kings,Denver Nuggets,40,24,64,1236560400.0,2009
+Denver Nuggets,Denver Nuggets,Houston Rockets,40,25,65,1236646800.0,2009
+Denver Nuggets,Denver Nuggets,Oklahoma City Thunder,41,25,66,1236819600.0,2009
+Denver Nuggets,Denver Nuggets,Los Angeles Clippers,42,25,67,1237078800.0,2009
+Denver Nuggets,Denver Nuggets,New Jersey Nets,43,25,68,1237251600.0,2009
+Denver Nuggets,Memphis Grizzlies,Denver Nuggets,44,25,69,1237420800.0,2009
+Denver Nuggets,Denver Nuggets,Washington Wizards,45,25,70,1237597200.0,2009
+Denver Nuggets,Phoenix Suns,Denver Nuggets,45,26,71,1237860000.0,2009
+Denver Nuggets,New Orleans Hornets,Denver Nuggets,46,26,72,1238025600.0,2009
+Denver Nuggets,Dallas Mavericks,Denver Nuggets,47,26,73,1238200200.0,2009
+Denver Nuggets,Denver Nuggets,Golden State Warriors,48,26,74,1238288400.0,2009
+Denver Nuggets,Denver Nuggets,New York Knicks,49,26,75,1238547600.0,2009
+Denver Nuggets,Denver Nuggets,Utah Jazz,50,26,76,1238725800.0,2009
+Denver Nuggets,Denver Nuggets,Los Angeles Clippers,51,26,77,1238893200.0,2009
+Denver Nuggets,Minnesota Timberwolves,Denver Nuggets,52,26,78,1238972400.0,2009
+Denver Nuggets,Denver Nuggets,Oklahoma City Thunder,53,26,79,1239238800.0,2009
+Denver Nuggets,Los Angeles Lakers,Denver Nuggets,53,27,80,1239330600.0,2009
+Denver Nuggets,Denver Nuggets,Sacramento Kings,54,27,81,1239670800.0,2009
+Denver Nuggets,Portland Trail Blazers,Denver Nuggets,54,28,82,1239849000.0,2009
+Detroit Pistons,Detroit Pistons,Indiana Pacers,1,0,1,1225324800.0,2009
+Detroit Pistons,Detroit Pistons,Washington Wizards,2,0,2,1225582200.0,2009
+Detroit Pistons,Charlotte Bobcats,Detroit Pistons,3,0,3,1225756800.0,2009
+Detroit Pistons,Toronto Raptors,Detroit Pistons,4,0,4,1225929600.0,2009
+Detroit Pistons,New Jersey Nets,Detroit Pistons,4,1,5,1226104200.0,2009
+Detroit Pistons,Detroit Pistons,Boston Celtics,4,2,6,1226271600.0,2009
+Detroit Pistons,Sacramento Kings,Detroit Pistons,5,2,7,1226458800.0,2009
+Detroit Pistons,Golden State Warriors,Detroit Pistons,6,2,8,1226633400.0,2009
+Detroit Pistons,Los Angeles Lakers,Detroit Pistons,7,2,9,1226719800.0,2009
+Detroit Pistons,Phoenix Suns,Detroit Pistons,7,3,10,1226883600.0,2009
+Detroit Pistons,Detroit Pistons,Cleveland Cavaliers,8,3,11,1227141000.0,2009
+Detroit Pistons,Boston Celtics,Detroit Pistons,8,4,12,1227229200.0,2009
+Detroit Pistons,Detroit Pistons,Minnesota Timberwolves,8,5,13,1227481200.0,2009
+Detroit Pistons,Detroit Pistons,New York Knicks,9,5,14,1227747600.0,2009
+Detroit Pistons,Detroit Pistons,Milwaukee Bucks,10,5,15,1227920400.0,2009
+Detroit Pistons,Detroit Pistons,Portland Trail Blazers,10,6,16,1228075200.0,2009
+Detroit Pistons,San Antonio Spurs,Detroit Pistons,11,6,17,1228267800.0,2009
+Detroit Pistons,Detroit Pistons,Philadelphia 76ers,11,7,18,1228525200.0,2009
+Detroit Pistons,New York Knicks,Detroit Pistons,11,8,19,1228669200.0,2009
+Detroit Pistons,Washington Wizards,Detroit Pistons,11,9,20,1228867200.0,2009
+Detroit Pistons,Detroit Pistons,Indiana Pacers,12,9,21,1229130000.0,2009
+Detroit Pistons,Charlotte Bobcats,Detroit Pistons,13,9,22,1229212800.0,2009
+Detroit Pistons,Detroit Pistons,Washington Wizards,14,9,23,1229560200.0,2009
+Detroit Pistons,Detroit Pistons,Utah Jazz,14,10,24,1229734800.0,2009
+Detroit Pistons,Atlanta Hawks,Detroit Pistons,14,11,25,1229886000.0,2009
+Detroit Pistons,Detroit Pistons,Chicago Bulls,15,11,26,1230080400.0,2009
+Detroit Pistons,Detroit Pistons,Oklahoma City Thunder,16,11,27,1230339600.0,2009
+Detroit Pistons,Milwaukee Bucks,Detroit Pistons,17,11,28,1230427800.0,2009
+Detroit Pistons,Detroit Pistons,Orlando Magic,18,11,29,1230597000.0,2009
+Detroit Pistons,Detroit Pistons,New Jersey Nets,19,11,30,1230753600.0,2009
+Detroit Pistons,Detroit Pistons,Sacramento Kings,20,11,31,1230944400.0,2009
+Detroit Pistons,Los Angeles Clippers,Detroit Pistons,21,11,32,1231101000.0,2009
+Detroit Pistons,Portland Trail Blazers,Detroit Pistons,21,12,33,1231383600.0,2009
+Detroit Pistons,Denver Nuggets,Detroit Pistons,22,12,34,1231552800.0,2009
+Detroit Pistons,Utah Jazz,Detroit Pistons,22,13,35,1231639200.0,2009
+Detroit Pistons,Detroit Pistons,Charlotte Bobcats,22,14,36,1231893000.0,2009
+Detroit Pistons,Indiana Pacers,Detroit Pistons,22,15,37,1231977600.0,2009
+Detroit Pistons,Oklahoma City Thunder,Detroit Pistons,22,16,38,1232154000.0,2009
+Detroit Pistons,Detroit Pistons,New Orleans Hornets,22,17,39,1232238600.0,2009
+Detroit Pistons,Memphis Grizzlies,Detroit Pistons,23,17,40,1232404200.0,2009
+Detroit Pistons,Detroit Pistons,Toronto Raptors,24,17,41,1232584200.0,2009
+Detroit Pistons,Detroit Pistons,Dallas Mavericks,24,18,42,1232755200.0,2009
+Detroit Pistons,Detroit Pistons,Houston Rockets,24,19,43,1232926200.0,2009
+Detroit Pistons,Minnesota Timberwolves,Detroit Pistons,25,19,44,1233190800.0,2009
+Detroit Pistons,Detroit Pistons,Boston Celtics,25,20,45,1233360000.0,2009
+Detroit Pistons,Detroit Pistons,Cleveland Cavaliers,25,21,46,1233516600.0,2009
+Detroit Pistons,Detroit Pistons,Miami Heat,26,21,47,1233793800.0,2009
+Detroit Pistons,Milwaukee Bucks,Detroit Pistons,27,21,48,1234056600.0,2009
+Detroit Pistons,Detroit Pistons,Phoenix Suns,27,22,49,1234141200.0,2009
+Detroit Pistons,Chicago Bulls,Detroit Pistons,27,23,50,1234315800.0,2009
+Detroit Pistons,Detroit Pistons,Atlanta Hawks,27,24,51,1234398600.0,2009
+Detroit Pistons,Detroit Pistons,Milwaukee Bucks,27,25,52,1234917000.0,2009
+Detroit Pistons,Detroit Pistons,San Antonio Spurs,27,26,53,1235091600.0,2009
+Detroit Pistons,Cleveland Cavaliers,Detroit Pistons,27,27,54,1235350800.0,2009
+Detroit Pistons,Miami Heat,Detroit Pistons,27,28,55,1235521800.0,2009
+Detroit Pistons,New Orleans Hornets,Detroit Pistons,27,29,56,1235610000.0,2009
+Detroit Pistons,Orlando Magic,Detroit Pistons,28,29,57,1235779200.0,2009
+Detroit Pistons,Boston Celtics,Detroit Pistons,29,29,58,1235930400.0,2009
+Detroit Pistons,Detroit Pistons,Denver Nuggets,30,29,59,1236126600.0,2009
+Detroit Pistons,Detroit Pistons,Golden State Warriors,31,29,60,1236387600.0,2009
+Detroit Pistons,Atlanta Hawks,Detroit Pistons,31,30,61,1236470400.0,2009
+Detroit Pistons,Detroit Pistons,Orlando Magic,32,30,62,1236641400.0,2009
+Detroit Pistons,Detroit Pistons,New York Knicks,32,31,63,1236814200.0,2009
+Detroit Pistons,Toronto Raptors,Detroit Pistons,33,31,64,1236985200.0,2009
+Detroit Pistons,Detroit Pistons,Memphis Grizzlies,33,32,65,1237136400.0,2009
+Detroit Pistons,Dallas Mavericks,Detroit Pistons,33,33,66,1237336200.0,2009
+Detroit Pistons,Houston Rockets,Detroit Pistons,33,34,67,1237426200.0,2009
+Detroit Pistons,Detroit Pistons,Los Angeles Clippers,34,34,68,1237593600.0,2009
+Detroit Pistons,Detroit Pistons,Miami Heat,34,35,69,1237741200.0,2009
+Detroit Pistons,Chicago Bulls,Detroit Pistons,34,36,70,1237939200.0,2009
+Detroit Pistons,Detroit Pistons,Los Angeles Lakers,34,37,71,1238110200.0,2009
+Detroit Pistons,Washington Wizards,Detroit Pistons,35,37,72,1238281200.0,2009
+Detroit Pistons,Detroit Pistons,Philadelphia 76ers,36,37,73,1238364000.0,2009
+Detroit Pistons,Cleveland Cavaliers,Detroit Pistons,36,38,74,1238540400.0,2009
+Detroit Pistons,New Jersey Nets,Detroit Pistons,36,39,75,1238628600.0,2009
+Detroit Pistons,Philadelphia 76ers,Detroit Pistons,36,40,76,1238871600.0,2009
+Detroit Pistons,Detroit Pistons,Charlotte Bobcats,37,40,77,1238968800.0,2009
+Detroit Pistons,New York Knicks,Detroit Pistons,38,40,78,1239233400.0,2009
+Detroit Pistons,Detroit Pistons,New Jersey Nets,39,40,79,1239408000.0,2009
+Detroit Pistons,Indiana Pacers,Detroit Pistons,39,41,80,1239490800.0,2009
+Detroit Pistons,Detroit Pistons,Chicago Bulls,39,42,81,1239665400.0,2009
+Detroit Pistons,Miami Heat,Detroit Pistons,39,43,82,1239840000.0,2009
+Golden State Warriors,Golden State Warriors,New Orleans Hornets,0,1,1,1225333800.0,2009
+Golden State Warriors,Toronto Raptors,Golden State Warriors,0,2,2,1225494000.0,2009
+Golden State Warriors,New Jersey Nets,Golden State Warriors,1,2,3,1225582200.0,2009
+Golden State Warriors,Memphis Grizzlies,Golden State Warriors,1,3,4,1225760400.0,2009
+Golden State Warriors,Golden State Warriors,Denver Nuggets,2,3,5,1225942200.0,2009
+Golden State Warriors,Golden State Warriors,Memphis Grizzlies,2,4,6,1226115000.0,2009
+Golden State Warriors,Sacramento Kings,Golden State Warriors,2,5,7,1226282400.0,2009
+Golden State Warriors,Golden State Warriors,Minnesota Timberwolves,3,5,8,1226460600.0,2009
+Golden State Warriors,Golden State Warriors,Detroit Pistons,3,6,9,1226633400.0,2009
+Golden State Warriors,Los Angeles Clippers,Golden State Warriors,4,6,10,1226781000.0,2009
+Golden State Warriors,Golden State Warriors,Portland Trail Blazers,5,6,11,1227065400.0,2009
+Golden State Warriors,Golden State Warriors,Chicago Bulls,5,7,12,1227324600.0,2009
+Golden State Warriors,Philadelphia 76ers,Golden State Warriors,5,8,13,1227477600.0,2009
+Golden State Warriors,Washington Wizards,Golden State Warriors,5,9,14,1227657600.0,2009
+Golden State Warriors,Boston Celtics,Golden State Warriors,5,10,15,1227745800.0,2009
+Golden State Warriors,Cleveland Cavaliers,Golden State Warriors,5,11,16,1227918600.0,2009
+Golden State Warriors,New York Knicks,Golden State Warriors,5,12,17,1228005000.0,2009
+Golden State Warriors,Golden State Warriors,Miami Heat,5,13,18,1228188600.0,2009
+Golden State Warriors,Houston Rockets,Golden State Warriors,5,14,19,1228527000.0,2009
+Golden State Warriors,San Antonio Spurs,Golden State Warriors,5,15,20,1228613400.0,2009
+Golden State Warriors,Oklahoma City Thunder,Golden State Warriors,6,15,21,1228784400.0,2009
+Golden State Warriors,Golden State Warriors,Milwaukee Bucks,7,15,22,1228966200.0,2009
+Golden State Warriors,Golden State Warriors,Houston Rockets,7,16,23,1229139000.0,2009
+Golden State Warriors,Denver Nuggets,Golden State Warriors,7,17,24,1229220000.0,2009
+Golden State Warriors,Golden State Warriors,Orlando Magic,7,18,25,1229398200.0,2009
+Golden State Warriors,Indiana Pacers,Golden State Warriors,7,19,26,1229558400.0,2009
+Golden State Warriors,Atlanta Hawks,Golden State Warriors,7,20,27,1229733000.0,2009
+Golden State Warriors,Charlotte Bobcats,Golden State Warriors,8,20,28,1229817600.0,2009
+Golden State Warriors,Orlando Magic,Golden State Warriors,8,21,29,1229990400.0,2009
+Golden State Warriors,Miami Heat,Golden State Warriors,8,22,30,1230078600.0,2009
+Golden State Warriors,Golden State Warriors,Boston Celtics,9,22,31,1230348600.0,2009
+Golden State Warriors,Los Angeles Lakers,Golden State Warriors,9,23,32,1230517800.0,2009
+Golden State Warriors,Golden State Warriors,Toronto Raptors,10,23,33,1230607800.0,2009
+Golden State Warriors,Oklahoma City Thunder,Golden State Warriors,10,24,34,1230771600.0,2009
+Golden State Warriors,Minnesota Timberwolves,Golden State Warriors,10,25,35,1230944400.0,2009
+Golden State Warriors,Utah Jazz,Golden State Warriors,10,26,36,1231207200.0,2009
+Golden State Warriors,Golden State Warriors,Los Angeles Lakers,10,27,37,1231385400.0,2009
+Golden State Warriors,Portland Trail Blazers,Golden State Warriors,10,28,38,1231642800.0,2009
+Golden State Warriors,Golden State Warriors,Indiana Pacers,11,28,39,1231725600.0,2009
+Golden State Warriors,Golden State Warriors,Sacramento Kings,11,29,40,1231990200.0,2009
+Golden State Warriors,Golden State Warriors,Atlanta Hawks,12,29,41,1232163000.0,2009
+Golden State Warriors,Golden State Warriors,Washington Wizards,13,29,42,1232398800.0,2009
+Golden State Warriors,Golden State Warriors,Oklahoma City Thunder,13,30,43,1232595000.0,2009
+Golden State Warriors,Golden State Warriors,Cleveland Cavaliers,13,31,44,1232767800.0,2009
+Golden State Warriors,Golden State Warriors,Los Angeles Clippers,14,31,45,1232935200.0,2009
+Golden State Warriors,Dallas Mavericks,Golden State Warriors,14,32,46,1233194400.0,2009
+Golden State Warriors,New Orleans Hornets,Golden State Warriors,15,32,47,1233369000.0,2009
+Golden State Warriors,Houston Rockets,Golden State Warriors,15,33,48,1233451800.0,2009
+Golden State Warriors,Golden State Warriors,San Antonio Spurs,15,34,49,1233631800.0,2009
+Golden State Warriors,Golden State Warriors,Phoenix Suns,16,34,50,1233804600.0,2009
+Golden State Warriors,Phoenix Suns,Golden State Warriors,16,35,51,1233977400.0,2009
+Golden State Warriors,Golden State Warriors,Utah Jazz,17,35,52,1234144800.0,2009
+Golden State Warriors,Golden State Warriors,New York Knicks,18,35,53,1234323000.0,2009
+Golden State Warriors,Golden State Warriors,Portland Trail Blazers,19,35,54,1234495800.0,2009
+Golden State Warriors,Golden State Warriors,Los Angeles Lakers,19,36,55,1235014200.0,2009
+Golden State Warriors,Golden State Warriors,Oklahoma City Thunder,20,36,56,1235273400.0,2009
+Golden State Warriors,Los Angeles Clippers,Golden State Warriors,20,37,57,1235446200.0,2009
+Golden State Warriors,Golden State Warriors,Charlotte Bobcats,20,38,58,1235791800.0,2009
+Golden State Warriors,Golden State Warriors,Utah Jazz,20,39,59,1235959200.0,2009
+Golden State Warriors,Minnesota Timberwolves,Golden State Warriors,21,39,60,1236128400.0,2009
+Golden State Warriors,Chicago Bulls,Golden State Warriors,21,40,61,1236216600.0,2009
+Golden State Warriors,Detroit Pistons,Golden State Warriors,21,41,62,1236387600.0,2009
+Golden State Warriors,Milwaukee Bucks,Golden State Warriors,21,42,63,1236475800.0,2009
+Golden State Warriors,Golden State Warriors,New Jersey Nets,22,42,64,1236825000.0,2009
+Golden State Warriors,Golden State Warriors,Dallas Mavericks,23,42,65,1236997800.0,2009
+Golden State Warriors,Golden State Warriors,Phoenix Suns,23,43,66,1237165200.0,2009
+Golden State Warriors,Golden State Warriors,Los Angeles Clippers,24,43,67,1237343400.0,2009
+Golden State Warriors,Los Angeles Lakers,Golden State Warriors,24,44,68,1237516200.0,2009
+Golden State Warriors,Golden State Warriors,Philadelphia 76ers,25,44,69,1237602600.0,2009
+Golden State Warriors,New Orleans Hornets,Golden State Warriors,25,45,70,1237762800.0,2009
+Golden State Warriors,San Antonio Spurs,Golden State Warriors,25,46,71,1237941000.0,2009
+Golden State Warriors,Dallas Mavericks,Golden State Warriors,25,47,72,1238027400.0,2009
+Golden State Warriors,Denver Nuggets,Golden State Warriors,25,48,73,1238288400.0,2009
+Golden State Warriors,Golden State Warriors,Memphis Grizzlies,25,49,74,1238466600.0,2009
+Golden State Warriors,Golden State Warriors,Sacramento Kings,26,49,75,1238639400.0,2009
+Golden State Warriors,Golden State Warriors,New Orleans Hornets,27,49,76,1238812200.0,2009
+Golden State Warriors,Sacramento Kings,Golden State Warriors,28,49,77,1238979600.0,2009
+Golden State Warriors,Golden State Warriors,Minnesota Timberwolves,28,50,78,1239244200.0,2009
+Golden State Warriors,Golden State Warriors,Houston Rockets,28,51,79,1239417000.0,2009
+Golden State Warriors,Utah Jazz,Golden State Warriors,29,51,80,1239498000.0,2009
+Golden State Warriors,Golden State Warriors,San Antonio Spurs,29,52,81,1239676200.0,2009
+Golden State Warriors,Phoenix Suns,Golden State Warriors,29,53,82,1239849000.0,2009
+Houston Rockets,Houston Rockets,Memphis Grizzlies,1,0,1,1225326600.0,2009
+Houston Rockets,Dallas Mavericks,Houston Rockets,2,0,2,1225411200.0,2009
+Houston Rockets,Houston Rockets,Oklahoma City Thunder,3,0,3,1225585800.0,2009
+Houston Rockets,Houston Rockets,Boston Celtics,3,1,4,1225848600.0,2009
+Houston Rockets,Portland Trail Blazers,Houston Rockets,3,2,5,1226028600.0,2009
+Houston Rockets,Los Angeles Clippers,Houston Rockets,4,2,6,1226115000.0,2009
+Houston Rockets,Los Angeles Lakers,Houston Rockets,4,3,7,1226284200.0,2009
+Houston Rockets,Phoenix Suns,Houston Rockets,5,3,8,1226547000.0,2009
+Houston Rockets,San Antonio Spurs,Houston Rockets,5,4,9,1226712600.0,2009
+Houston Rockets,Houston Rockets,New Orleans Hornets,6,4,10,1226799000.0,2009
+Houston Rockets,Oklahoma City Thunder,Houston Rockets,7,4,11,1226970000.0,2009
+Houston Rockets,Houston Rockets,Dallas Mavericks,7,5,12,1227142800.0,2009
+Houston Rockets,Washington Wizards,Houston Rockets,8,5,13,1227312000.0,2009
+Houston Rockets,Orlando Magic,Houston Rockets,9,5,14,1227398400.0,2009
+Houston Rockets,Miami Heat,Houston Rockets,10,5,15,1227573000.0,2009
+Houston Rockets,Houston Rockets,Indiana Pacers,10,6,16,1227749400.0,2009
+Houston Rockets,Houston Rockets,San Antonio Spurs,11,6,17,1228008600.0,2009
+Houston Rockets,Denver Nuggets,Houston Rockets,11,7,18,1228093200.0,2009
+Houston Rockets,Houston Rockets,Los Angeles Clippers,12,7,19,1228354200.0,2009
+Houston Rockets,Houston Rockets,Golden State Warriors,13,7,20,1228527000.0,2009
+Houston Rockets,Memphis Grizzlies,Houston Rockets,13,8,21,1228784400.0,2009
+Houston Rockets,Houston Rockets,Atlanta Hawks,14,8,22,1228872600.0,2009
+Houston Rockets,Golden State Warriors,Houston Rockets,15,8,23,1229139000.0,2009
+Houston Rockets,Los Angeles Clippers,Houston Rockets,15,9,24,1229225400.0,2009
+Houston Rockets,Houston Rockets,Denver Nuggets,16,9,25,1229477400.0,2009
+Houston Rockets,Houston Rockets,Sacramento Kings,17,9,26,1229736600.0,2009
+Houston Rockets,Minnesota Timberwolves,Houston Rockets,18,9,27,1229821200.0,2009
+Houston Rockets,New Jersey Nets,Houston Rockets,19,9,28,1229992200.0,2009
+Houston Rockets,Cleveland Cavaliers,Houston Rockets,19,10,29,1230076800.0,2009
+Houston Rockets,New Orleans Hornets,Houston Rockets,19,11,30,1230339600.0,2009
+Houston Rockets,Houston Rockets,Utah Jazz,20,11,31,1230427800.0,2009
+Houston Rockets,Houston Rockets,Washington Wizards,20,12,32,1230600600.0,2009
+Houston Rockets,Houston Rockets,Milwaukee Bucks,21,12,33,1230768000.0,2009
+Houston Rockets,Toronto Raptors,Houston Rockets,21,13,34,1230940800.0,2009
+Houston Rockets,Atlanta Hawks,Houston Rockets,21,14,35,1231027200.0,2009
+Houston Rockets,Philadelphia 76ers,Houston Rockets,21,15,36,1231286400.0,2009
+Houston Rockets,Boston Celtics,Houston Rockets,22,15,37,1231374600.0,2009
+Houston Rockets,Oklahoma City Thunder,Houston Rockets,23,15,38,1231549200.0,2009
+Houston Rockets,Houston Rockets,New York Knicks,24,15,39,1231637400.0,2009
+Houston Rockets,Houston Rockets,Los Angeles Lakers,24,16,40,1231896600.0,2009
+Houston Rockets,Houston Rockets,Miami Heat,25,16,41,1232242200.0,2009
+Houston Rockets,Houston Rockets,Denver Nuggets,26,16,42,1232391600.0,2009
+Houston Rockets,Houston Rockets,Utah Jazz,27,16,43,1232587800.0,2009
+Houston Rockets,Indiana Pacers,Houston Rockets,27,17,44,1232755200.0,2009
+Houston Rockets,Detroit Pistons,Houston Rockets,28,17,45,1232926200.0,2009
+Houston Rockets,New York Knicks,Houston Rockets,28,18,46,1233016200.0,2009
+Houston Rockets,Houston Rockets,Philadelphia 76ers,28,19,47,1233192600.0,2009
+Houston Rockets,Houston Rockets,Golden State Warriors,29,19,48,1233451800.0,2009
+Houston Rockets,Houston Rockets,Chicago Bulls,30,19,49,1233711000.0,2009
+Houston Rockets,Memphis Grizzlies,Houston Rockets,30,20,50,1233795600.0,2009
+Houston Rockets,Houston Rockets,Minnesota Timberwolves,31,20,51,1234056600.0,2009
+Houston Rockets,Milwaukee Bucks,Houston Rockets,31,21,52,1234227600.0,2009
+Houston Rockets,Houston Rockets,Sacramento Kings,32,21,53,1234402200.0,2009
+Houston Rockets,Houston Rockets,New Jersey Nets,33,21,54,1234920600.0,2009
+Houston Rockets,Houston Rockets,Dallas Mavericks,34,21,55,1235178000.0,2009
+Houston Rockets,Houston Rockets,Charlotte Bobcats,35,21,56,1235340000.0,2009
+Houston Rockets,Houston Rockets,Portland Trail Blazers,36,21,57,1235525400.0,2009
+Houston Rockets,Houston Rockets,Cleveland Cavaliers,37,21,58,1235696400.0,2009
+Houston Rockets,Chicago Bulls,Houston Rockets,37,22,59,1235871000.0,2009
+Houston Rockets,Minnesota Timberwolves,Houston Rockets,38,22,60,1235952000.0,2009
+Houston Rockets,Houston Rockets,Toronto Raptors,39,22,61,1236130200.0,2009
+Houston Rockets,Utah Jazz,Houston Rockets,39,23,62,1236218400.0,2009
+Houston Rockets,Houston Rockets,Phoenix Suns,40,23,63,1236389400.0,2009
+Houston Rockets,Houston Rockets,Memphis Grizzlies,41,23,64,1236553200.0,2009
+Houston Rockets,Denver Nuggets,Houston Rockets,42,23,65,1236646800.0,2009
+Houston Rockets,Houston Rockets,Los Angeles Lakers,42,24,66,1236817800.0,2009
+Houston Rockets,Charlotte Bobcats,Houston Rockets,43,24,67,1236985200.0,2009
+Houston Rockets,Houston Rockets,San Antonio Spurs,43,25,68,1237077000.0,2009
+Houston Rockets,New Orleans Hornets,Houston Rockets,44,25,69,1237248000.0,2009
+Houston Rockets,Houston Rockets,Detroit Pistons,45,25,70,1237426200.0,2009
+Houston Rockets,Houston Rockets,Minnesota Timberwolves,46,25,71,1237595400.0,2009
+Houston Rockets,San Antonio Spurs,Houston Rockets,47,25,72,1237750200.0,2009
+Houston Rockets,Utah Jazz,Houston Rockets,47,26,73,1237948200.0,2009
+Houston Rockets,Houston Rockets,Los Angeles Clippers,48,26,74,1238286600.0,2009
+Houston Rockets,Phoenix Suns,Houston Rockets,48,27,75,1238637600.0,2009
+Houston Rockets,Los Angeles Lakers,Houston Rockets,48,28,76,1238812200.0,2009
+Houston Rockets,Houston Rockets,Portland Trail Blazers,49,28,77,1238972400.0,2009
+Houston Rockets,Houston Rockets,Orlando Magic,50,28,78,1239150600.0,2009
+Houston Rockets,Sacramento Kings,Houston Rockets,51,28,79,1239328800.0,2009
+Houston Rockets,Golden State Warriors,Houston Rockets,52,28,80,1239417000.0,2009
+Houston Rockets,Houston Rockets,New Orleans Hornets,53,28,81,1239669000.0,2009
+Houston Rockets,Dallas Mavericks,Houston Rockets,53,29,82,1239840000.0,2009
+Indiana Pacers,Detroit Pistons,Indiana Pacers,0,1,1,1225324800.0,2009
+Indiana Pacers,Indiana Pacers,Boston Celtics,1,1,2,1225580400.0,2009
+Indiana Pacers,Indiana Pacers,Phoenix Suns,1,2,3,1225929600.0,2009
+Indiana Pacers,Cleveland Cavaliers,Indiana Pacers,1,3,4,1226104200.0,2009
+Indiana Pacers,Indiana Pacers,New Jersey Nets,2,3,5,1226188800.0,2009
+Indiana Pacers,Indiana Pacers,Oklahoma City Thunder,3,3,6,1226361600.0,2009
+Indiana Pacers,New Jersey Nets,Indiana Pacers,4,3,7,1226536200.0,2009
+Indiana Pacers,Indiana Pacers,Philadelphia 76ers,4,4,8,1226707200.0,2009
+Indiana Pacers,Chicago Bulls,Indiana Pacers,4,5,9,1226799000.0,2009
+Indiana Pacers,Indiana Pacers,Atlanta Hawks,5,5,10,1227052800.0,2009
+Indiana Pacers,Indiana Pacers,Orlando Magic,5,6,11,1227312000.0,2009
+Indiana Pacers,Miami Heat,Indiana Pacers,5,7,12,1227400200.0,2009
+Indiana Pacers,Dallas Mavericks,Indiana Pacers,5,8,13,1227663000.0,2009
+Indiana Pacers,Houston Rockets,Indiana Pacers,6,8,14,1227749400.0,2009
+Indiana Pacers,Indiana Pacers,Charlotte Bobcats,6,9,15,1227920400.0,2009
+Indiana Pacers,Orlando Magic,Indiana Pacers,6,10,16,1228003200.0,2009
+Indiana Pacers,Indiana Pacers,Los Angeles Lakers,7,10,17,1228262400.0,2009
+Indiana Pacers,Boston Celtics,Indiana Pacers,7,11,18,1228350600.0,2009
+Indiana Pacers,Cleveland Cavaliers,Indiana Pacers,7,12,19,1228523400.0,2009
+Indiana Pacers,Indiana Pacers,Boston Celtics,7,13,20,1228690800.0,2009
+Indiana Pacers,Toronto Raptors,Indiana Pacers,7,14,21,1228953600.0,2009
+Indiana Pacers,Detroit Pistons,Indiana Pacers,7,15,22,1229130000.0,2009
+Indiana Pacers,Milwaukee Bucks,Indiana Pacers,7,16,23,1229218200.0,2009
+Indiana Pacers,Washington Wizards,Indiana Pacers,8,16,24,1229385600.0,2009
+Indiana Pacers,Indiana Pacers,Golden State Warriors,9,16,25,1229558400.0,2009
+Indiana Pacers,Indiana Pacers,Los Angeles Clippers,9,17,26,1229731200.0,2009
+Indiana Pacers,Philadelphia 76ers,Indiana Pacers,10,17,27,1229819400.0,2009
+Indiana Pacers,Indiana Pacers,New Jersey Nets,10,18,28,1230076800.0,2009
+Indiana Pacers,Memphis Grizzlies,Indiana Pacers,10,19,29,1230339600.0,2009
+Indiana Pacers,Indiana Pacers,New Orleans Hornets,10,20,30,1230508800.0,2009
+Indiana Pacers,Indiana Pacers,Atlanta Hawks,10,21,31,1230681600.0,2009
+Indiana Pacers,New York Knicks,Indiana Pacers,11,21,32,1230942600.0,2009
+Indiana Pacers,Indiana Pacers,Sacramento Kings,12,21,33,1231023600.0,2009
+Indiana Pacers,Denver Nuggets,Indiana Pacers,12,22,34,1231207200.0,2009
+Indiana Pacers,Phoenix Suns,Indiana Pacers,13,22,35,1231380000.0,2009
+Indiana Pacers,Los Angeles Lakers,Indiana Pacers,13,23,36,1231558200.0,2009
+Indiana Pacers,Golden State Warriors,Indiana Pacers,13,24,37,1231725600.0,2009
+Indiana Pacers,Utah Jazz,Indiana Pacers,13,25,38,1231812000.0,2009
+Indiana Pacers,Indiana Pacers,Detroit Pistons,14,25,39,1231977600.0,2009
+Indiana Pacers,Indiana Pacers,Toronto Raptors,15,25,40,1232150400.0,2009
+Indiana Pacers,New Orleans Hornets,Indiana Pacers,15,26,41,1232397000.0,2009
+Indiana Pacers,San Antonio Spurs,Indiana Pacers,15,27,42,1232501400.0,2009
+Indiana Pacers,Indiana Pacers,Houston Rockets,16,27,43,1232755200.0,2009
+Indiana Pacers,Indiana Pacers,Charlotte Bobcats,17,27,44,1232928000.0,2009
+Indiana Pacers,Orlando Magic,Indiana Pacers,17,28,45,1233100800.0,2009
+Indiana Pacers,Indiana Pacers,Milwaukee Bucks,18,28,46,1233187200.0,2009
+Indiana Pacers,Indiana Pacers,Miami Heat,19,28,47,1233360000.0,2009
+Indiana Pacers,Indiana Pacers,New York Knicks,19,29,48,1233446400.0,2009
+Indiana Pacers,Indiana Pacers,Minnesota Timberwolves,19,30,49,1233705600.0,2009
+Indiana Pacers,Philadelphia 76ers,Indiana Pacers,19,31,50,1233878400.0,2009
+Indiana Pacers,Indiana Pacers,Orlando Magic,20,31,51,1233964800.0,2009
+Indiana Pacers,Washington Wizards,Indiana Pacers,20,32,52,1234134000.0,2009
+Indiana Pacers,Indiana Pacers,Cleveland Cavaliers,21,32,53,1234310400.0,2009
+Indiana Pacers,Milwaukee Bucks,Indiana Pacers,21,33,54,1234400400.0,2009
+Indiana Pacers,Indiana Pacers,Philadelphia 76ers,22,33,55,1234915200.0,2009
+Indiana Pacers,Charlotte Bobcats,Indiana Pacers,22,34,56,1235001600.0,2009
+Indiana Pacers,Minnesota Timberwolves,Indiana Pacers,23,34,57,1235178000.0,2009
+Indiana Pacers,Indiana Pacers,Chicago Bulls,24,34,58,1235322000.0,2009
+Indiana Pacers,New York Knicks,Indiana Pacers,24,35,59,1235435400.0,2009
+Indiana Pacers,Indiana Pacers,Memphis Grizzlies,25,35,60,1235606400.0,2009
+Indiana Pacers,Boston Celtics,Indiana Pacers,25,36,61,1235781000.0,2009
+Indiana Pacers,Indiana Pacers,Denver Nuggets,26,36,62,1235952000.0,2009
+Indiana Pacers,Sacramento Kings,Indiana Pacers,27,36,63,1236135600.0,2009
+Indiana Pacers,Portland Trail Blazers,Indiana Pacers,27,37,64,1236222000.0,2009
+Indiana Pacers,Los Angeles Clippers,Indiana Pacers,28,37,65,1236483000.0,2009
+Indiana Pacers,Indiana Pacers,Utah Jazz,28,38,66,1236726000.0,2009
+Indiana Pacers,Atlanta Hawks,Indiana Pacers,28,39,67,1236987000.0,2009
+Indiana Pacers,Toronto Raptors,Indiana Pacers,28,40,68,1237134600.0,2009
+Indiana Pacers,Indiana Pacers,Portland Trail Blazers,28,41,69,1237417200.0,2009
+Indiana Pacers,Indiana Pacers,Dallas Mavericks,28,42,70,1237590000.0,2009
+Indiana Pacers,Charlotte Bobcats,Indiana Pacers,29,42,71,1237676400.0,2009
+Indiana Pacers,Indiana Pacers,Miami Heat,30,42,72,1238022000.0,2009
+Indiana Pacers,Chicago Bulls,Indiana Pacers,30,43,73,1238263200.0,2009
+Indiana Pacers,Indiana Pacers,Washington Wizards,31,43,74,1238367600.0,2009
+Indiana Pacers,Indiana Pacers,Chicago Bulls,32,43,75,1238540400.0,2009
+Indiana Pacers,Indiana Pacers,San Antonio Spurs,32,44,76,1238799600.0,2009
+Indiana Pacers,Oklahoma City Thunder,Indiana Pacers,33,44,77,1238972400.0,2009
+Indiana Pacers,Indiana Pacers,Toronto Raptors,34,44,78,1239231600.0,2009
+Indiana Pacers,Atlanta Hawks,Indiana Pacers,34,45,79,1239406200.0,2009
+Indiana Pacers,Indiana Pacers,Detroit Pistons,35,45,80,1239490800.0,2009
+Indiana Pacers,Indiana Pacers,Cleveland Cavaliers,35,46,81,1239663600.0,2009
+Indiana Pacers,Indiana Pacers,Milwaukee Bucks,36,46,82,1239840000.0,2009
+Los Angeles Clippers,Los Angeles Clippers,Los Angeles Lakers,0,1,1,1225333800.0,2009
+Los Angeles Clippers,Los Angeles Clippers,Denver Nuggets,0,2,2,1225506600.0,2009
+Los Angeles Clippers,Utah Jazz,Los Angeles Clippers,0,3,3,1225587600.0,2009
+Los Angeles Clippers,Los Angeles Clippers,Utah Jazz,0,4,4,1225769400.0,2009
+Los Angeles Clippers,Los Angeles Lakers,Los Angeles Clippers,0,5,5,1225942200.0,2009
+Los Angeles Clippers,Los Angeles Clippers,Houston Rockets,0,6,6,1226115000.0,2009
+Los Angeles Clippers,Los Angeles Clippers,Dallas Mavericks,1,6,7,1226262600.0,2009
+Los Angeles Clippers,Los Angeles Clippers,Sacramento Kings,1,7,8,1226547000.0,2009
+Los Angeles Clippers,Los Angeles Clippers,Golden State Warriors,1,8,9,1226781000.0,2009
+Los Angeles Clippers,Los Angeles Clippers,San Antonio Spurs,1,9,10,1226979000.0,2009
+Los Angeles Clippers,Oklahoma City Thunder,Los Angeles Clippers,2,9,11,1227142800.0,2009
+Los Angeles Clippers,Philadelphia 76ers,Los Angeles Clippers,2,10,12,1227312000.0,2009
+Los Angeles Clippers,New Jersey Nets,Los Angeles Clippers,2,11,13,1227400200.0,2009
+Los Angeles Clippers,Los Angeles Clippers,New Orleans Hornets,2,12,14,1227583800.0,2009
+Los Angeles Clippers,Los Angeles Clippers,Denver Nuggets,2,13,15,1227756600.0,2009
+Los Angeles Clippers,Los Angeles Clippers,Miami Heat,3,13,16,1228015800.0,2009
+Los Angeles Clippers,Dallas Mavericks,Los Angeles Clippers,3,14,17,1228267800.0,2009
+Los Angeles Clippers,Houston Rockets,Los Angeles Clippers,3,15,18,1228354200.0,2009
+Los Angeles Clippers,Memphis Grizzlies,Los Angeles Clippers,3,16,19,1228525200.0,2009
+Los Angeles Clippers,Minnesota Timberwolves,Los Angeles Clippers,4,16,20,1228611600.0,2009
+Los Angeles Clippers,Los Angeles Clippers,Orlando Magic,4,17,21,1228793400.0,2009
+Los Angeles Clippers,Portland Trail Blazers,Los Angeles Clippers,5,17,22,1229137200.0,2009
+Los Angeles Clippers,Los Angeles Clippers,Houston Rockets,6,17,23,1229225400.0,2009
+Los Angeles Clippers,Oklahoma City Thunder,Los Angeles Clippers,7,17,24,1229475600.0,2009
+Los Angeles Clippers,Chicago Bulls,Los Angeles Clippers,7,18,25,1229563800.0,2009
+Los Angeles Clippers,Indiana Pacers,Los Angeles Clippers,8,18,26,1229731200.0,2009
+Los Angeles Clippers,Milwaukee Bucks,Los Angeles Clippers,8,19,27,1229823000.0,2009
+Los Angeles Clippers,Los Angeles Clippers,Toronto Raptors,8,20,28,1230003000.0,2009
+Los Angeles Clippers,Los Angeles Clippers,Dallas Mavericks,8,21,29,1230496200.0,2009
+Los Angeles Clippers,Sacramento Kings,Los Angeles Clippers,8,22,30,1230692400.0,2009
+Los Angeles Clippers,Los Angeles Clippers,Philadelphia 76ers,8,23,31,1230777000.0,2009
+Los Angeles Clippers,Phoenix Suns,Los Angeles Clippers,8,24,32,1230948000.0,2009
+Los Angeles Clippers,Los Angeles Clippers,Detroit Pistons,8,25,33,1231101000.0,2009
+Los Angeles Clippers,Dallas Mavericks,Los Angeles Clippers,8,26,34,1231291800.0,2009
+Los Angeles Clippers,San Antonio Spurs,Los Angeles Clippers,8,27,35,1231464600.0,2009
+Los Angeles Clippers,New Orleans Hornets,Los Angeles Clippers,8,28,36,1231549200.0,2009
+Los Angeles Clippers,Los Angeles Clippers,Phoenix Suns,8,29,37,1231705800.0,2009
+Los Angeles Clippers,Los Angeles Clippers,Atlanta Hawks,8,30,38,1231990200.0,2009
+Los Angeles Clippers,Los Angeles Clippers,Milwaukee Bucks,9,30,39,1232249400.0,2009
+Los Angeles Clippers,Los Angeles Clippers,Minnesota Timberwolves,9,31,40,1232397000.0,2009
+Los Angeles Clippers,Los Angeles Clippers,Los Angeles Lakers,9,32,41,1232595000.0,2009
+Los Angeles Clippers,Los Angeles Clippers,Oklahoma City Thunder,10,32,42,1232767800.0,2009
+Los Angeles Clippers,Golden State Warriors,Los Angeles Clippers,10,33,43,1232935200.0,2009
+Los Angeles Clippers,Los Angeles Clippers,Portland Trail Blazers,10,34,44,1233027000.0,2009
+Los Angeles Clippers,Los Angeles Clippers,Chicago Bulls,10,35,45,1233199800.0,2009
+Los Angeles Clippers,Cleveland Cavaliers,Los Angeles Clippers,10,36,46,1233361800.0,2009
+Los Angeles Clippers,Washington Wizards,Los Angeles Clippers,10,37,47,1233450000.0,2009
+Los Angeles Clippers,Miami Heat,Los Angeles Clippers,10,38,48,1233621000.0,2009
+Los Angeles Clippers,Orlando Magic,Los Angeles Clippers,10,39,49,1233792000.0,2009
+Los Angeles Clippers,Memphis Grizzlies,Los Angeles Clippers,11,39,50,1233968400.0,2009
+Los Angeles Clippers,Atlanta Hawks,Los Angeles Clippers,12,39,51,1234051200.0,2009
+Los Angeles Clippers,Charlotte Bobcats,Los Angeles Clippers,12,40,52,1234224000.0,2009
+Los Angeles Clippers,Los Angeles Clippers,New York Knicks,13,40,53,1234409400.0,2009
+Los Angeles Clippers,Phoenix Suns,Los Angeles Clippers,13,41,54,1234922400.0,2009
+Los Angeles Clippers,Los Angeles Clippers,Phoenix Suns,13,42,55,1235014200.0,2009
+Los Angeles Clippers,Portland Trail Blazers,Los Angeles Clippers,13,43,56,1235343600.0,2009
+Los Angeles Clippers,Los Angeles Clippers,Golden State Warriors,14,43,57,1235446200.0,2009
+Los Angeles Clippers,Los Angeles Clippers,Boston Celtics,15,43,58,1235619000.0,2009
+Los Angeles Clippers,Sacramento Kings,Los Angeles Clippers,15,44,59,1235790000.0,2009
+Los Angeles Clippers,Los Angeles Clippers,Charlotte Bobcats,15,45,60,1235878200.0,2009
+Los Angeles Clippers,Los Angeles Clippers,San Antonio Spurs,15,46,61,1236051000.0,2009
+Los Angeles Clippers,Los Angeles Clippers,Memphis Grizzlies,15,47,62,1236223800.0,2009
+Los Angeles Clippers,Los Angeles Clippers,Indiana Pacers,15,48,63,1236483000.0,2009
+Los Angeles Clippers,Los Angeles Clippers,Cleveland Cavaliers,15,49,64,1236738600.0,2009
+Los Angeles Clippers,Denver Nuggets,Los Angeles Clippers,15,50,65,1237078800.0,2009
+Los Angeles Clippers,Los Angeles Clippers,New Jersey Nets,16,50,66,1237167000.0,2009
+Los Angeles Clippers,Golden State Warriors,Los Angeles Clippers,16,51,67,1237343400.0,2009
+Los Angeles Clippers,Los Angeles Clippers,Washington Wizards,17,51,68,1237429800.0,2009
+Los Angeles Clippers,Detroit Pistons,Los Angeles Clippers,17,52,69,1237593600.0,2009
+Los Angeles Clippers,Toronto Raptors,Los Angeles Clippers,17,53,70,1237750200.0,2009
+Los Angeles Clippers,Boston Celtics,Los Angeles Clippers,17,54,71,1237851000.0,2009
+Los Angeles Clippers,New York Knicks,Los Angeles Clippers,18,54,72,1238023800.0,2009
+Los Angeles Clippers,San Antonio Spurs,Los Angeles Clippers,18,55,73,1238200200.0,2009
+Los Angeles Clippers,Houston Rockets,Los Angeles Clippers,18,56,74,1238286600.0,2009
+Los Angeles Clippers,Los Angeles Clippers,New Orleans Hornets,18,57,75,1238639400.0,2009
+Los Angeles Clippers,Denver Nuggets,Los Angeles Clippers,18,58,76,1238893200.0,2009
+Los Angeles Clippers,Los Angeles Lakers,Los Angeles Clippers,18,59,77,1238981400.0,2009
+Los Angeles Clippers,Los Angeles Clippers,Minnesota Timberwolves,18,60,78,1239157800.0,2009
+Los Angeles Clippers,Los Angeles Clippers,Sacramento Kings,19,60,79,1239417000.0,2009
+Los Angeles Clippers,Los Angeles Clippers,Portland Trail Blazers,19,61,80,1239503400.0,2009
+Los Angeles Clippers,Utah Jazz,Los Angeles Clippers,19,62,81,1239670800.0,2009
+Los Angeles Clippers,Los Angeles Clippers,Oklahoma City Thunder,19,63,82,1239849000.0,2009
+Los Angeles Lakers,Los Angeles Lakers,Portland Trail Blazers,1,0,1,1225247400.0,2009
+Los Angeles Lakers,Los Angeles Clippers,Los Angeles Lakers,2,0,2,1225333800.0,2009
+Los Angeles Lakers,Denver Nuggets,Los Angeles Lakers,3,0,3,1225587600.0,2009
+Los Angeles Lakers,Los Angeles Lakers,Los Angeles Clippers,4,0,4,1225942200.0,2009
+Los Angeles Lakers,Los Angeles Lakers,Houston Rockets,5,0,5,1226284200.0,2009
+Los Angeles Lakers,Dallas Mavericks,Los Angeles Lakers,6,0,6,1226453400.0,2009
+Los Angeles Lakers,New Orleans Hornets,Los Angeles Lakers,7,0,7,1226538000.0,2009
+Los Angeles Lakers,Los Angeles Lakers,Detroit Pistons,7,1,8,1226719800.0,2009
+Los Angeles Lakers,Los Angeles Lakers,Chicago Bulls,8,1,9,1227065400.0,2009
+Los Angeles Lakers,Phoenix Suns,Los Angeles Lakers,9,1,10,1227238200.0,2009
+Los Angeles Lakers,Los Angeles Lakers,Denver Nuggets,10,1,11,1227324600.0,2009
+Los Angeles Lakers,Los Angeles Lakers,Sacramento Kings,11,1,12,1227493800.0,2009
+Los Angeles Lakers,Los Angeles Lakers,New Jersey Nets,12,1,13,1227670200.0,2009
+Los Angeles Lakers,Los Angeles Lakers,Dallas Mavericks,13,1,14,1227929400.0,2009
+Los Angeles Lakers,Los Angeles Lakers,Toronto Raptors,14,1,15,1228098600.0,2009
+Los Angeles Lakers,Indiana Pacers,Los Angeles Lakers,14,2,16,1228262400.0,2009
+Los Angeles Lakers,Philadelphia 76ers,Los Angeles Lakers,15,2,17,1228348800.0,2009
+Los Angeles Lakers,Washington Wizards,Los Angeles Lakers,16,2,18,1228521600.0,2009
+Los Angeles Lakers,Los Angeles Lakers,Milwaukee Bucks,17,2,19,1228703400.0,2009
+Los Angeles Lakers,Sacramento Kings,Los Angeles Lakers,17,3,20,1228878000.0,2009
+Los Angeles Lakers,Los Angeles Lakers,Phoenix Suns,18,3,21,1228966200.0,2009
+Los Angeles Lakers,Los Angeles Lakers,Sacramento Kings,19,3,22,1229139000.0,2009
+Los Angeles Lakers,Los Angeles Lakers,Minnesota Timberwolves,20,3,23,1229308200.0,2009
+Los Angeles Lakers,Los Angeles Lakers,New York Knicks,21,3,24,1229484600.0,2009
+Los Angeles Lakers,Miami Heat,Los Angeles Lakers,21,4,25,1229734800.0,2009
+Los Angeles Lakers,Orlando Magic,Los Angeles Lakers,21,5,26,1229817600.0,2009
+Los Angeles Lakers,Memphis Grizzlies,Los Angeles Lakers,22,5,27,1229994000.0,2009
+Los Angeles Lakers,New Orleans Hornets,Los Angeles Lakers,23,5,28,1230080400.0,2009
+Los Angeles Lakers,Los Angeles Lakers,Boston Celtics,24,5,29,1230242400.0,2009
+Los Angeles Lakers,Los Angeles Lakers,Golden State Warriors,25,5,30,1230517800.0,2009
+Los Angeles Lakers,Los Angeles Lakers,Utah Jazz,26,5,31,1230953400.0,2009
+Los Angeles Lakers,Los Angeles Lakers,Portland Trail Blazers,27,5,32,1231122600.0,2009
+Los Angeles Lakers,Los Angeles Lakers,New Orleans Hornets,27,6,33,1231299000.0,2009
+Los Angeles Lakers,Golden State Warriors,Los Angeles Lakers,28,6,34,1231385400.0,2009
+Los Angeles Lakers,Los Angeles Lakers,Indiana Pacers,29,6,35,1231558200.0,2009
+Los Angeles Lakers,Los Angeles Lakers,Miami Heat,30,6,36,1231727400.0,2009
+Los Angeles Lakers,Houston Rockets,Los Angeles Lakers,31,6,37,1231896600.0,2009
+Los Angeles Lakers,San Antonio Spurs,Los Angeles Lakers,31,7,38,1231984800.0,2009
+Los Angeles Lakers,Los Angeles Lakers,Orlando Magic,31,8,39,1232163000.0,2009
+Los Angeles Lakers,Los Angeles Lakers,Cleveland Cavaliers,32,8,40,1232422200.0,2009
+Los Angeles Lakers,Los Angeles Clippers,Los Angeles Lakers,33,8,41,1232595000.0,2009
+Los Angeles Lakers,Los Angeles Lakers,Washington Wizards,34,8,42,1232681400.0,2009
+Los Angeles Lakers,Los Angeles Lakers,San Antonio Spurs,35,8,43,1232915400.0,2009
+Los Angeles Lakers,Los Angeles Lakers,Charlotte Bobcats,35,9,44,1233113400.0,2009
+Los Angeles Lakers,Minnesota Timberwolves,Los Angeles Lakers,36,9,45,1233363600.0,2009
+Los Angeles Lakers,Memphis Grizzlies,Los Angeles Lakers,37,9,46,1233450000.0,2009
+Los Angeles Lakers,New York Knicks,Los Angeles Lakers,38,9,47,1233621000.0,2009
+Los Angeles Lakers,Toronto Raptors,Los Angeles Lakers,39,9,48,1233792000.0,2009
+Los Angeles Lakers,Boston Celtics,Los Angeles Lakers,40,9,49,1233882000.0,2009
+Los Angeles Lakers,Cleveland Cavaliers,Los Angeles Lakers,41,9,50,1234125000.0,2009
+Los Angeles Lakers,Los Angeles Lakers,Oklahoma City Thunder,42,9,51,1234323000.0,2009
+Los Angeles Lakers,Utah Jazz,Los Angeles Lakers,42,10,52,1234404000.0,2009
+Los Angeles Lakers,Los Angeles Lakers,Atlanta Hawks,43,10,53,1234927800.0,2009
+Los Angeles Lakers,Golden State Warriors,Los Angeles Lakers,44,10,54,1235014200.0,2009
+Los Angeles Lakers,Los Angeles Lakers,New Orleans Hornets,45,10,55,1235187000.0,2009
+Los Angeles Lakers,Minnesota Timberwolves,Los Angeles Lakers,46,10,56,1235347200.0,2009
+Los Angeles Lakers,Oklahoma City Thunder,Los Angeles Lakers,47,10,57,1235523600.0,2009
+Los Angeles Lakers,Los Angeles Lakers,Phoenix Suns,48,10,58,1235705400.0,2009
+Los Angeles Lakers,Denver Nuggets,Los Angeles Lakers,48,11,59,1235786400.0,2009
+Los Angeles Lakers,Phoenix Suns,Los Angeles Lakers,48,12,60,1235939400.0,2009
+Los Angeles Lakers,Los Angeles Lakers,Memphis Grizzlies,49,12,61,1236137400.0,2009
+Los Angeles Lakers,Los Angeles Lakers,Minnesota Timberwolves,50,12,62,1236396600.0,2009
+Los Angeles Lakers,Portland Trail Blazers,Los Angeles Lakers,50,13,63,1236650400.0,2009
+Los Angeles Lakers,Houston Rockets,Los Angeles Lakers,51,13,64,1236817800.0,2009
+Los Angeles Lakers,San Antonio Spurs,Los Angeles Lakers,52,13,65,1236902400.0,2009
+Los Angeles Lakers,Los Angeles Lakers,Dallas Mavericks,53,13,66,1237145400.0,2009
+Los Angeles Lakers,Los Angeles Lakers,Philadelphia 76ers,53,14,67,1237343400.0,2009
+Los Angeles Lakers,Los Angeles Lakers,Golden State Warriors,54,14,68,1237516200.0,2009
+Los Angeles Lakers,Chicago Bulls,Los Angeles Lakers,55,14,69,1237681800.0,2009
+Los Angeles Lakers,Oklahoma City Thunder,Los Angeles Lakers,56,14,70,1237939200.0,2009
+Los Angeles Lakers,Detroit Pistons,Los Angeles Lakers,57,14,71,1238110200.0,2009
+Los Angeles Lakers,New Jersey Nets,Los Angeles Lakers,58,14,72,1238196600.0,2009
+Los Angeles Lakers,Atlanta Hawks,Los Angeles Lakers,58,15,73,1238355000.0,2009
+Los Angeles Lakers,Charlotte Bobcats,Los Angeles Lakers,58,16,74,1238540400.0,2009
+Los Angeles Lakers,Milwaukee Bucks,Los Angeles Lakers,59,16,75,1238630400.0,2009
+Los Angeles Lakers,Los Angeles Lakers,Houston Rockets,60,16,76,1238812200.0,2009
+Los Angeles Lakers,Los Angeles Lakers,Los Angeles Clippers,61,16,77,1238981400.0,2009
+Los Angeles Lakers,Sacramento Kings,Los Angeles Lakers,62,16,78,1239156000.0,2009
+Los Angeles Lakers,Los Angeles Lakers,Denver Nuggets,63,16,79,1239330600.0,2009
+Los Angeles Lakers,Portland Trail Blazers,Los Angeles Lakers,63,17,80,1239415200.0,2009
+Los Angeles Lakers,Los Angeles Lakers,Memphis Grizzlies,64,17,81,1239586200.0,2009
+Los Angeles Lakers,Los Angeles Lakers,Utah Jazz,65,17,82,1239762600.0,2009
+Memphis Grizzlies,Houston Rockets,Memphis Grizzlies,0,1,1,1225326600.0,2009
+Memphis Grizzlies,Memphis Grizzlies,Orlando Magic,1,1,2,1225497600.0,2009
+Memphis Grizzlies,Chicago Bulls,Memphis Grizzlies,1,2,3,1225585800.0,2009
+Memphis Grizzlies,Memphis Grizzlies,Golden State Warriors,2,2,4,1225760400.0,2009
+Memphis Grizzlies,Sacramento Kings,Memphis Grizzlies,2,3,5,1225940400.0,2009
+Memphis Grizzlies,Golden State Warriors,Memphis Grizzlies,3,3,6,1226115000.0,2009
+Memphis Grizzlies,Denver Nuggets,Memphis Grizzlies,3,4,7,1226278800.0,2009
+Memphis Grizzlies,Phoenix Suns,Memphis Grizzlies,3,5,8,1226368800.0,2009
+Memphis Grizzlies,Memphis Grizzlies,New York Knicks,3,6,9,1226538000.0,2009
+Memphis Grizzlies,Memphis Grizzlies,Milwaukee Bucks,3,7,10,1226710800.0,2009
+Memphis Grizzlies,Memphis Grizzlies,Sacramento Kings,4,7,11,1227056400.0,2009
+Memphis Grizzlies,Dallas Mavericks,Memphis Grizzlies,4,8,12,1227317400.0,2009
+Memphis Grizzlies,Memphis Grizzlies,Utah Jazz,4,9,13,1227402000.0,2009
+Memphis Grizzlies,Memphis Grizzlies,San Antonio Spurs,4,10,14,1227574800.0,2009
+Memphis Grizzlies,Utah Jazz,Memphis Grizzlies,4,11,15,1227751200.0,2009
+Memphis Grizzlies,San Antonio Spurs,Memphis Grizzlies,4,12,16,1227922200.0,2009
+Memphis Grizzlies,Memphis Grizzlies,Oklahoma City Thunder,4,13,17,1228006800.0,2009
+Memphis Grizzlies,Atlanta Hawks,Memphis Grizzlies,4,14,18,1228348800.0,2009
+Memphis Grizzlies,Memphis Grizzlies,Los Angeles Clippers,5,14,19,1228525200.0,2009
+Memphis Grizzlies,New Orleans Hornets,Memphis Grizzlies,5,15,20,1228611600.0,2009
+Memphis Grizzlies,Memphis Grizzlies,Houston Rockets,6,15,21,1228784400.0,2009
+Memphis Grizzlies,Oklahoma City Thunder,Memphis Grizzlies,7,15,22,1228957200.0,2009
+Memphis Grizzlies,Memphis Grizzlies,Chicago Bulls,8,15,23,1229130000.0,2009
+Memphis Grizzlies,Memphis Grizzlies,Miami Heat,9,15,24,1229288400.0,2009
+Memphis Grizzlies,Memphis Grizzlies,New Orleans Hornets,9,16,25,1229475600.0,2009
+Memphis Grizzlies,Memphis Grizzlies,Charlotte Bobcats,9,17,26,1229734800.0,2009
+Memphis Grizzlies,Memphis Grizzlies,Los Angeles Lakers,9,18,27,1229994000.0,2009
+Memphis Grizzlies,Dallas Mavericks,Memphis Grizzlies,9,19,28,1230082200.0,2009
+Memphis Grizzlies,Memphis Grizzlies,Indiana Pacers,10,19,29,1230339600.0,2009
+Memphis Grizzlies,San Antonio Spurs,Memphis Grizzlies,10,20,30,1230427800.0,2009
+Memphis Grizzlies,Minnesota Timberwolves,Memphis Grizzlies,10,21,31,1230598800.0,2009
+Memphis Grizzlies,Memphis Grizzlies,Phoenix Suns,10,22,32,1230685200.0,2009
+Memphis Grizzlies,Memphis Grizzlies,San Antonio Spurs,10,23,33,1230944400.0,2009
+Memphis Grizzlies,Memphis Grizzlies,Dallas Mavericks,11,23,34,1231102800.0,2009
+Memphis Grizzlies,Memphis Grizzlies,Minnesota Timberwolves,11,24,35,1231290000.0,2009
+Memphis Grizzlies,New Jersey Nets,Memphis Grizzlies,11,25,36,1231374600.0,2009
+Memphis Grizzlies,Toronto Raptors,Memphis Grizzlies,11,26,37,1231545600.0,2009
+Memphis Grizzlies,Memphis Grizzlies,Cleveland Cavaliers,11,27,38,1231894800.0,2009
+Memphis Grizzlies,Memphis Grizzlies,Utah Jazz,11,28,39,1232154000.0,2009
+Memphis Grizzlies,Memphis Grizzlies,Detroit Pistons,11,29,40,1232404200.0,2009
+Memphis Grizzlies,Charlotte Bobcats,Memphis Grizzlies,11,30,41,1232582400.0,2009
+Memphis Grizzlies,New York Knicks,Memphis Grizzlies,11,31,42,1232757000.0,2009
+Memphis Grizzlies,Memphis Grizzlies,New Jersey Nets,11,32,43,1232845200.0,2009
+Memphis Grizzlies,Memphis Grizzlies,Denver Nuggets,11,33,44,1233104400.0,2009
+Memphis Grizzlies,Oklahoma City Thunder,Memphis Grizzlies,11,34,45,1233190800.0,2009
+Memphis Grizzlies,Memphis Grizzlies,Los Angeles Lakers,11,35,46,1233450000.0,2009
+Memphis Grizzlies,Washington Wizards,Memphis Grizzlies,12,35,47,1233619200.0,2009
+Memphis Grizzlies,Memphis Grizzlies,Houston Rockets,13,35,48,1233795600.0,2009
+Memphis Grizzlies,Memphis Grizzlies,Los Angeles Clippers,13,36,49,1233968400.0,2009
+Memphis Grizzlies,Memphis Grizzlies,Toronto Raptors,14,36,50,1234054800.0,2009
+Memphis Grizzlies,Memphis Grizzlies,New Orleans Hornets,15,36,51,1234227600.0,2009
+Memphis Grizzlies,Philadelphia 76ers,Memphis Grizzlies,15,37,52,1234396800.0,2009
+Memphis Grizzlies,Utah Jazz,Memphis Grizzlies,15,38,53,1234922400.0,2009
+Memphis Grizzlies,Portland Trail Blazers,Memphis Grizzlies,15,39,54,1235012400.0,2009
+Memphis Grizzlies,Memphis Grizzlies,Sacramento Kings,15,40,55,1235178000.0,2009
+Memphis Grizzlies,Cleveland Cavaliers,Memphis Grizzlies,15,41,56,1235520000.0,2009
+Memphis Grizzlies,Indiana Pacers,Memphis Grizzlies,15,42,57,1235606400.0,2009
+Memphis Grizzlies,Memphis Grizzlies,Oklahoma City Thunder,15,43,58,1235869200.0,2009
+Memphis Grizzlies,Los Angeles Lakers,Memphis Grizzlies,15,44,59,1236137400.0,2009
+Memphis Grizzlies,Los Angeles Clippers,Memphis Grizzlies,16,44,60,1236223800.0,2009
+Memphis Grizzlies,Memphis Grizzlies,Philadelphia 76ers,16,45,61,1236474000.0,2009
+Memphis Grizzlies,Houston Rockets,Memphis Grizzlies,16,46,62,1236553200.0,2009
+Memphis Grizzlies,Minnesota Timberwolves,Memphis Grizzlies,16,47,63,1236816000.0,2009
+Memphis Grizzlies,Boston Celtics,Memphis Grizzlies,16,48,64,1236987000.0,2009
+Memphis Grizzlies,Detroit Pistons,Memphis Grizzlies,17,48,65,1237136400.0,2009
+Memphis Grizzlies,Memphis Grizzlies,Portland Trail Blazers,17,49,66,1237248000.0,2009
+Memphis Grizzlies,Memphis Grizzlies,Denver Nuggets,17,50,67,1237420800.0,2009
+Memphis Grizzlies,New Orleans Hornets,Memphis Grizzlies,17,51,68,1237593600.0,2009
+Memphis Grizzlies,Memphis Grizzlies,Boston Celtics,17,52,69,1237680000.0,2009
+Memphis Grizzlies,Miami Heat,Memphis Grizzlies,17,53,70,1237851000.0,2009
+Memphis Grizzlies,Sacramento Kings,Memphis Grizzlies,18,53,71,1238205600.0,2009
+Memphis Grizzlies,Portland Trail Blazers,Memphis Grizzlies,18,54,72,1238292000.0,2009
+Memphis Grizzlies,Golden State Warriors,Memphis Grizzlies,19,54,73,1238466600.0,2009
+Memphis Grizzlies,Memphis Grizzlies,Washington Wizards,20,54,74,1238630400.0,2009
+Memphis Grizzlies,Memphis Grizzlies,Dallas Mavericks,21,54,75,1238803200.0,2009
+Memphis Grizzlies,Milwaukee Bucks,Memphis Grizzlies,22,54,76,1238891400.0,2009
+Memphis Grizzlies,Memphis Grizzlies,Portland Trail Blazers,22,55,77,1239148800.0,2009
+Memphis Grizzlies,Orlando Magic,Memphis Grizzlies,22,56,78,1239231600.0,2009
+Memphis Grizzlies,Memphis Grizzlies,Phoenix Suns,23,56,79,1239408000.0,2009
+Memphis Grizzlies,Los Angeles Lakers,Memphis Grizzlies,23,57,80,1239586200.0,2009
+Memphis Grizzlies,Phoenix Suns,Memphis Grizzlies,23,58,81,1239674400.0,2009
+Memphis Grizzlies,Memphis Grizzlies,Atlanta Hawks,24,58,82,1239840000.0,2009
+Miami Heat,New York Knicks,Miami Heat,0,1,1,1225323000.0,2009
+Miami Heat,Miami Heat,Sacramento Kings,1,1,2,1225495800.0,2009
+Miami Heat,Charlotte Bobcats,Miami Heat,1,2,3,1225580400.0,2009
+Miami Heat,Miami Heat,Philadelphia 76ers,2,2,4,1225931400.0,2009
+Miami Heat,San Antonio Spurs,Miami Heat,3,2,5,1226106000.0,2009
+Miami Heat,New Orleans Hornets,Miami Heat,3,3,6,1226192400.0,2009
+Miami Heat,Miami Heat,New Jersey Nets,4,3,7,1226363400.0,2009
+Miami Heat,Miami Heat,Portland Trail Blazers,4,4,8,1226538000.0,2009
+Miami Heat,Miami Heat,Washington Wizards,5,4,9,1226709000.0,2009
+Miami Heat,Toronto Raptors,Miami Heat,5,5,10,1226858400.0,2009
+Miami Heat,Washington Wizards,Miami Heat,6,5,11,1227052800.0,2009
+Miami Heat,Miami Heat,Toronto Raptors,6,6,12,1227141000.0,2009
+Miami Heat,Miami Heat,Indiana Pacers,7,6,13,1227400200.0,2009
+Miami Heat,Miami Heat,Houston Rockets,7,7,14,1227573000.0,2009
+Miami Heat,Portland Trail Blazers,Miami Heat,7,8,15,1227754800.0,2009
+Miami Heat,Phoenix Suns,Miami Heat,8,8,16,1227920400.0,2009
+Miami Heat,Los Angeles Clippers,Miami Heat,8,9,17,1228015800.0,2009
+Miami Heat,Golden State Warriors,Miami Heat,9,9,18,1228188600.0,2009
+Miami Heat,Utah Jazz,Miami Heat,10,9,19,1228356000.0,2009
+Miami Heat,Miami Heat,Oklahoma City Thunder,11,9,20,1228609800.0,2009
+Miami Heat,Miami Heat,Charlotte Bobcats,12,9,21,1228782600.0,2009
+Miami Heat,Miami Heat,Atlanta Hawks,12,10,22,1229128200.0,2009
+Miami Heat,Memphis Grizzlies,Miami Heat,12,11,23,1229288400.0,2009
+Miami Heat,Miami Heat,Milwaukee Bucks,12,12,24,1229387400.0,2009
+Miami Heat,Miami Heat,Los Angeles Lakers,13,12,25,1229734800.0,2009
+Miami Heat,New Jersey Nets,Miami Heat,14,12,26,1229821200.0,2009
+Miami Heat,Miami Heat,Golden State Warriors,15,12,27,1230078600.0,2009
+Miami Heat,Miami Heat,Chicago Bulls,16,12,28,1230328800.0,2009
+Miami Heat,Cleveland Cavaliers,Miami Heat,16,13,29,1230508800.0,2009
+Miami Heat,Miami Heat,Cleveland Cavaliers,17,13,30,1230683400.0,2009
+Miami Heat,Orlando Magic,Miami Heat,17,14,31,1230940800.0,2009
+Miami Heat,Miami Heat,New Jersey Nets,18,14,32,1231029000.0,2009
+Miami Heat,Miami Heat,San Antonio Spurs,18,15,33,1231201800.0,2009
+Miami Heat,Denver Nuggets,Miami Heat,18,16,34,1231380000.0,2009
+Miami Heat,Sacramento Kings,Miami Heat,19,16,35,1231556400.0,2009
+Miami Heat,Los Angeles Lakers,Miami Heat,19,17,36,1231727400.0,2009
+Miami Heat,Minnesota Timberwolves,Miami Heat,20,17,37,1231894800.0,2009
+Miami Heat,Milwaukee Bucks,Miami Heat,21,17,38,1231981200.0,2009
+Miami Heat,Houston Rockets,Miami Heat,21,18,39,1232242200.0,2009
+Miami Heat,Oklahoma City Thunder,Miami Heat,22,18,40,1232323200.0,2009
+Miami Heat,Miami Heat,Boston Celtics,22,19,41,1232584200.0,2009
+Miami Heat,Miami Heat,Orlando Magic,23,19,42,1232843400.0,2009
+Miami Heat,Miami Heat,Atlanta Hawks,24,19,43,1233016200.0,2009
+Miami Heat,Miami Heat,Washington Wizards,25,19,44,1233189000.0,2009
+Miami Heat,Indiana Pacers,Miami Heat,25,20,45,1233360000.0,2009
+Miami Heat,Miami Heat,Dallas Mavericks,25,21,46,1233448200.0,2009
+Miami Heat,Miami Heat,Los Angeles Clippers,26,21,47,1233621000.0,2009
+Miami Heat,Detroit Pistons,Miami Heat,26,22,48,1233793800.0,2009
+Miami Heat,Philadelphia 76ers,Miami Heat,26,23,49,1234051200.0,2009
+Miami Heat,Miami Heat,Charlotte Bobcats,27,23,50,1234134000.0,2009
+Miami Heat,Miami Heat,Denver Nuggets,27,24,51,1234312200.0,2009
+Miami Heat,Chicago Bulls,Miami Heat,28,24,52,1234483200.0,2009
+Miami Heat,Miami Heat,Minnesota Timberwolves,28,25,53,1235003400.0,2009
+Miami Heat,Miami Heat,Philadelphia 76ers,29,25,54,1235248200.0,2009
+Miami Heat,Orlando Magic,Miami Heat,29,26,55,1235341800.0,2009
+Miami Heat,Miami Heat,Detroit Pistons,30,26,56,1235521800.0,2009
+Miami Heat,Atlanta Hawks,Miami Heat,30,27,57,1235781000.0,2009
+Miami Heat,Miami Heat,New York Knicks,31,27,58,1235867400.0,2009
+Miami Heat,Miami Heat,Cleveland Cavaliers,31,28,59,1236040200.0,2009
+Miami Heat,Miami Heat,Phoenix Suns,32,28,60,1236213000.0,2009
+Miami Heat,Toronto Raptors,Miami Heat,33,28,61,1236384000.0,2009
+Miami Heat,Cleveland Cavaliers,Miami Heat,33,29,62,1236472200.0,2009
+Miami Heat,Miami Heat,Chicago Bulls,34,29,63,1236641400.0,2009
+Miami Heat,Miami Heat,Boston Celtics,35,29,64,1236814200.0,2009
+Miami Heat,Miami Heat,Utah Jazz,36,29,65,1237050000.0,2009
+Miami Heat,Philadelphia 76ers,Miami Heat,36,30,66,1237136400.0,2009
+Miami Heat,Boston Celtics,Miami Heat,36,31,67,1237417200.0,2009
+Miami Heat,New Jersey Nets,Miami Heat,36,32,68,1237591800.0,2009
+Miami Heat,Detroit Pistons,Miami Heat,37,32,69,1237741200.0,2009
+Miami Heat,Miami Heat,Memphis Grizzlies,38,32,70,1237851000.0,2009
+Miami Heat,Indiana Pacers,Miami Heat,38,33,71,1238022000.0,2009
+Miami Heat,Chicago Bulls,Miami Heat,38,34,72,1238112000.0,2009
+Miami Heat,Miami Heat,Milwaukee Bucks,39,34,73,1238283000.0,2009
+Miami Heat,Miami Heat,Orlando Magic,39,35,74,1238455800.0,2009
+Miami Heat,Dallas Mavericks,Miami Heat,39,36,75,1238632200.0,2009
+Miami Heat,Charlotte Bobcats,Miami Heat,40,36,76,1238799600.0,2009
+Miami Heat,Washington Wizards,Miami Heat,41,36,77,1238886000.0,2009
+Miami Heat,Miami Heat,New Orleans Hornets,41,37,78,1239147000.0,2009
+Miami Heat,Boston Celtics,Miami Heat,41,38,79,1239406200.0,2009
+Miami Heat,Miami Heat,New York Knicks,42,38,80,1239573600.0,2009
+Miami Heat,Atlanta Hawks,Miami Heat,42,39,81,1239750000.0,2009
+Miami Heat,Miami Heat,Detroit Pistons,43,39,82,1239840000.0,2009
+Milwaukee Bucks,Chicago Bulls,Milwaukee Bucks,0,1,1,1225240200.0,2009
+Milwaukee Bucks,Oklahoma City Thunder,Milwaukee Bucks,1,1,2,1225324800.0,2009
+Milwaukee Bucks,Milwaukee Bucks,Toronto Raptors,1,2,3,1225585800.0,2009
+Milwaukee Bucks,New York Knicks,Milwaukee Bucks,2,2,4,1225666800.0,2009
+Milwaukee Bucks,Milwaukee Bucks,Washington Wizards,3,2,5,1225933200.0,2009
+Milwaukee Bucks,Boston Celtics,Milwaukee Bucks,3,3,6,1226104200.0,2009
+Milwaukee Bucks,Milwaukee Bucks,Phoenix Suns,3,4,7,1226194200.0,2009
+Milwaukee Bucks,Cleveland Cavaliers,Milwaukee Bucks,3,5,8,1226448000.0,2009
+Milwaukee Bucks,Milwaukee Bucks,San Antonio Spurs,4,5,9,1226538000.0,2009
+Milwaukee Bucks,Memphis Grizzlies,Milwaukee Bucks,5,5,10,1226710800.0,2009
+Milwaukee Bucks,Milwaukee Bucks,Boston Celtics,5,6,11,1226799000.0,2009
+Milwaukee Bucks,Denver Nuggets,Milwaukee Bucks,5,7,12,1227060000.0,2009
+Milwaukee Bucks,Utah Jazz,Milwaukee Bucks,5,8,13,1227146400.0,2009
+Milwaukee Bucks,Milwaukee Bucks,New York Knicks,6,8,14,1227317400.0,2009
+Milwaukee Bucks,Charlotte Bobcats,Milwaukee Bucks,7,8,15,1227398400.0,2009
+Milwaukee Bucks,Orlando Magic,Milwaukee Bucks,7,9,16,1227571200.0,2009
+Milwaukee Bucks,Atlanta Hawks,Milwaukee Bucks,7,10,17,1227744000.0,2009
+Milwaukee Bucks,Detroit Pistons,Milwaukee Bucks,7,11,18,1227920400.0,2009
+Milwaukee Bucks,Milwaukee Bucks,Cleveland Cavaliers,7,12,19,1228010400.0,2009
+Milwaukee Bucks,Milwaukee Bucks,Chicago Bulls,8,12,20,1228352400.0,2009
+Milwaukee Bucks,Milwaukee Bucks,Charlotte Bobcats,9,12,21,1228527000.0,2009
+Milwaukee Bucks,Los Angeles Lakers,Milwaukee Bucks,9,13,22,1228703400.0,2009
+Milwaukee Bucks,Phoenix Suns,Milwaukee Bucks,9,14,23,1228874400.0,2009
+Milwaukee Bucks,Golden State Warriors,Milwaukee Bucks,9,15,24,1228966200.0,2009
+Milwaukee Bucks,Milwaukee Bucks,Indiana Pacers,10,15,25,1229218200.0,2009
+Milwaukee Bucks,Miami Heat,Milwaukee Bucks,11,15,26,1229387400.0,2009
+Milwaukee Bucks,Philadelphia 76ers,Milwaukee Bucks,11,16,27,1229558400.0,2009
+Milwaukee Bucks,New York Knicks,Milwaukee Bucks,12,16,28,1229733000.0,2009
+Milwaukee Bucks,Milwaukee Bucks,Los Angeles Clippers,13,16,29,1229823000.0,2009
+Milwaukee Bucks,Milwaukee Bucks,Utah Jazz,14,16,30,1230080400.0,2009
+Milwaukee Bucks,Milwaukee Bucks,Detroit Pistons,14,17,31,1230427800.0,2009
+Milwaukee Bucks,San Antonio Spurs,Milwaukee Bucks,15,17,32,1230687000.0,2009
+Milwaukee Bucks,Houston Rockets,Milwaukee Bucks,15,18,33,1230768000.0,2009
+Milwaukee Bucks,Milwaukee Bucks,Charlotte Bobcats,16,18,34,1230946200.0,2009
+Milwaukee Bucks,Charlotte Bobcats,Milwaukee Bucks,16,19,35,1231027200.0,2009
+Milwaukee Bucks,Milwaukee Bucks,Toronto Raptors,17,19,36,1231203600.0,2009
+Milwaukee Bucks,Milwaukee Bucks,Philadelphia 76ers,17,20,37,1231376400.0,2009
+Milwaukee Bucks,Milwaukee Bucks,New Jersey Nets,18,20,38,1231551000.0,2009
+Milwaukee Bucks,Minnesota Timberwolves,Milwaukee Bucks,18,21,39,1231635600.0,2009
+Milwaukee Bucks,Washington Wizards,Milwaukee Bucks,19,21,40,1231804800.0,2009
+Milwaukee Bucks,Milwaukee Bucks,Miami Heat,19,22,41,1231981200.0,2009
+Milwaukee Bucks,Sacramento Kings,Milwaukee Bucks,20,22,42,1232161200.0,2009
+Milwaukee Bucks,Los Angeles Clippers,Milwaukee Bucks,20,23,43,1232249400.0,2009
+Milwaukee Bucks,Portland Trail Blazers,Milwaukee Bucks,20,24,44,1232420400.0,2009
+Milwaukee Bucks,Milwaukee Bucks,Dallas Mavericks,21,24,45,1232586000.0,2009
+Milwaukee Bucks,Atlanta Hawks,Milwaukee Bucks,21,25,46,1232757000.0,2009
+Milwaukee Bucks,Milwaukee Bucks,Sacramento Kings,22,25,47,1232847000.0,2009
+Milwaukee Bucks,Milwaukee Bucks,Minnesota Timberwolves,22,26,48,1233018000.0,2009
+Milwaukee Bucks,Indiana Pacers,Milwaukee Bucks,22,27,49,1233187200.0,2009
+Milwaukee Bucks,Toronto Raptors,Milwaukee Bucks,23,27,50,1233360000.0,2009
+Milwaukee Bucks,Milwaukee Bucks,Atlanta Hawks,24,27,51,1233451800.0,2009
+Milwaukee Bucks,New Jersey Nets,Milwaukee Bucks,24,28,52,1233707400.0,2009
+Milwaukee Bucks,Milwaukee Bucks,Detroit Pistons,24,29,53,1234056600.0,2009
+Milwaukee Bucks,Milwaukee Bucks,Houston Rockets,25,29,54,1234227600.0,2009
+Milwaukee Bucks,Milwaukee Bucks,Indiana Pacers,26,29,55,1234400400.0,2009
+Milwaukee Bucks,Detroit Pistons,Milwaukee Bucks,27,29,56,1234917000.0,2009
+Milwaukee Bucks,Milwaukee Bucks,Chicago Bulls,27,30,57,1235005200.0,2009
+Milwaukee Bucks,Milwaukee Bucks,Cleveland Cavaliers,27,31,58,1235179800.0,2009
+Milwaukee Bucks,Milwaukee Bucks,Denver Nuggets,28,31,59,1235340000.0,2009
+Milwaukee Bucks,Dallas Mavericks,Milwaukee Bucks,28,32,60,1235611800.0,2009
+Milwaukee Bucks,New Orleans Hornets,Milwaukee Bucks,28,33,61,1235782800.0,2009
+Milwaukee Bucks,Milwaukee Bucks,Washington Wizards,29,33,62,1235871000.0,2009
+Milwaukee Bucks,Milwaukee Bucks,New Jersey Nets,29,34,63,1236128400.0,2009
+Milwaukee Bucks,Cleveland Cavaliers,Milwaukee Bucks,29,35,64,1236211200.0,2009
+Milwaukee Bucks,Chicago Bulls,Milwaukee Bucks,29,36,65,1236389400.0,2009
+Milwaukee Bucks,Milwaukee Bucks,Golden State Warriors,30,36,66,1236475800.0,2009
+Milwaukee Bucks,Milwaukee Bucks,New York Knicks,30,37,67,1236729600.0,2009
+Milwaukee Bucks,Milwaukee Bucks,New Orleans Hornets,30,38,68,1236990600.0,2009
+Milwaukee Bucks,Milwaukee Bucks,Boston Celtics,31,38,69,1237136400.0,2009
+Milwaukee Bucks,Milwaukee Bucks,Orlando Magic,31,39,70,1237420800.0,2009
+Milwaukee Bucks,Milwaukee Bucks,Portland Trail Blazers,31,40,71,1237681800.0,2009
+Milwaukee Bucks,Toronto Raptors,Milwaukee Bucks,31,41,72,1238022000.0,2009
+Milwaukee Bucks,Orlando Magic,Milwaukee Bucks,31,42,73,1238194800.0,2009
+Milwaukee Bucks,Miami Heat,Milwaukee Bucks,31,43,74,1238283000.0,2009
+Milwaukee Bucks,New Jersey Nets,Milwaukee Bucks,32,43,75,1238455800.0,2009
+Milwaukee Bucks,Milwaukee Bucks,Los Angeles Lakers,32,44,76,1238630400.0,2009
+Milwaukee Bucks,Philadelphia 76ers,Milwaukee Bucks,32,45,77,1238713200.0,2009
+Milwaukee Bucks,Milwaukee Bucks,Memphis Grizzlies,32,46,78,1238891400.0,2009
+Milwaukee Bucks,Milwaukee Bucks,Atlanta Hawks,32,47,79,1239235200.0,2009
+Milwaukee Bucks,Milwaukee Bucks,Oklahoma City Thunder,33,47,80,1239496200.0,2009
+Milwaukee Bucks,Milwaukee Bucks,Orlando Magic,34,47,81,1239667200.0,2009
+Milwaukee Bucks,Indiana Pacers,Milwaukee Bucks,34,48,82,1239840000.0,2009
+Minnesota Timberwolves,Minnesota Timberwolves,Sacramento Kings,1,0,1,1225324800.0,2009
+Minnesota Timberwolves,Minnesota Timberwolves,Dallas Mavericks,1,1,2,1225584000.0,2009
+Minnesota Timberwolves,Oklahoma City Thunder,Minnesota Timberwolves,1,2,3,1225670400.0,2009
+Minnesota Timberwolves,Minnesota Timberwolves,San Antonio Spurs,1,3,4,1225933200.0,2009
+Minnesota Timberwolves,Sacramento Kings,Minnesota Timberwolves,1,4,5,1226113200.0,2009
+Minnesota Timberwolves,Portland Trail Blazers,Minnesota Timberwolves,1,5,6,1226199600.0,2009
+Minnesota Timberwolves,Golden State Warriors,Minnesota Timberwolves,1,6,7,1226460600.0,2009
+Minnesota Timberwolves,Minnesota Timberwolves,Portland Trail Blazers,1,7,8,1226797200.0,2009
+Minnesota Timberwolves,Denver Nuggets,Minnesota Timberwolves,1,8,9,1226883600.0,2009
+Minnesota Timberwolves,Minnesota Timberwolves,Philadelphia 76ers,2,8,10,1227142800.0,2009
+Minnesota Timberwolves,Minnesota Timberwolves,Boston Celtics,2,9,11,1227315600.0,2009
+Minnesota Timberwolves,Detroit Pistons,Minnesota Timberwolves,3,9,12,1227481200.0,2009
+Minnesota Timberwolves,Minnesota Timberwolves,Phoenix Suns,3,10,13,1227747600.0,2009
+Minnesota Timberwolves,Oklahoma City Thunder,Minnesota Timberwolves,4,10,14,1227920400.0,2009
+Minnesota Timberwolves,Minnesota Timberwolves,Denver Nuggets,4,11,15,1228006800.0,2009
+Minnesota Timberwolves,Charlotte Bobcats,Minnesota Timberwolves,4,12,16,1228176000.0,2009
+Minnesota Timberwolves,Orlando Magic,Minnesota Timberwolves,4,13,17,1228348800.0,2009
+Minnesota Timberwolves,New Jersey Nets,Minnesota Timberwolves,4,14,18,1228523400.0,2009
+Minnesota Timberwolves,Minnesota Timberwolves,Los Angeles Clippers,4,15,19,1228611600.0,2009
+Minnesota Timberwolves,Minnesota Timberwolves,Utah Jazz,4,16,20,1228870800.0,2009
+Minnesota Timberwolves,Denver Nuggets,Minnesota Timberwolves,4,17,21,1228960800.0,2009
+Minnesota Timberwolves,Minnesota Timberwolves,San Antonio Spurs,4,18,22,1229130000.0,2009
+Minnesota Timberwolves,Los Angeles Lakers,Minnesota Timberwolves,4,19,23,1229308200.0,2009
+Minnesota Timberwolves,Sacramento Kings,Minnesota Timberwolves,4,20,24,1229396400.0,2009
+Minnesota Timberwolves,Minnesota Timberwolves,Cleveland Cavaliers,4,21,25,1229562000.0,2009
+Minnesota Timberwolves,Minnesota Timberwolves,Houston Rockets,4,22,26,1229821200.0,2009
+Minnesota Timberwolves,San Antonio Spurs,Minnesota Timberwolves,4,23,27,1230082200.0,2009
+Minnesota Timberwolves,New York Knicks,Minnesota Timberwolves,5,23,28,1230337800.0,2009
+Minnesota Timberwolves,Minnesota Timberwolves,Orlando Magic,5,24,29,1230426000.0,2009
+Minnesota Timberwolves,Minnesota Timberwolves,Memphis Grizzlies,6,24,30,1230598800.0,2009
+Minnesota Timberwolves,Dallas Mavericks,Minnesota Timberwolves,6,25,31,1230687000.0,2009
+Minnesota Timberwolves,Minnesota Timberwolves,Golden State Warriors,7,25,32,1230944400.0,2009
+Minnesota Timberwolves,Chicago Bulls,Minnesota Timberwolves,8,25,33,1231032600.0,2009
+Minnesota Timberwolves,Memphis Grizzlies,Minnesota Timberwolves,9,25,34,1231290000.0,2009
+Minnesota Timberwolves,Minnesota Timberwolves,Oklahoma City Thunder,10,25,35,1231376400.0,2009
+Minnesota Timberwolves,Minnesota Timberwolves,Milwaukee Bucks,11,25,36,1231635600.0,2009
+Minnesota Timberwolves,Minnesota Timberwolves,Miami Heat,11,26,37,1231894800.0,2009
+Minnesota Timberwolves,Phoenix Suns,Minnesota Timberwolves,12,26,38,1232157600.0,2009
+Minnesota Timberwolves,Los Angeles Clippers,Minnesota Timberwolves,13,26,39,1232397000.0,2009
+Minnesota Timberwolves,Utah Jazz,Minnesota Timberwolves,13,27,40,1232503200.0,2009
+Minnesota Timberwolves,Minnesota Timberwolves,New Orleans Hornets,14,27,41,1232758800.0,2009
+Minnesota Timberwolves,Minnesota Timberwolves,Chicago Bulls,15,27,42,1232928000.0,2009
+Minnesota Timberwolves,Milwaukee Bucks,Minnesota Timberwolves,16,27,43,1233018000.0,2009
+Minnesota Timberwolves,Minnesota Timberwolves,Detroit Pistons,16,28,44,1233190800.0,2009
+Minnesota Timberwolves,Minnesota Timberwolves,Los Angeles Lakers,16,29,45,1233363600.0,2009
+Minnesota Timberwolves,Boston Celtics,Minnesota Timberwolves,16,30,46,1233507600.0,2009
+Minnesota Timberwolves,Indiana Pacers,Minnesota Timberwolves,17,30,47,1233705600.0,2009
+Minnesota Timberwolves,Minnesota Timberwolves,Atlanta Hawks,17,31,48,1233795600.0,2009
+Minnesota Timberwolves,Houston Rockets,Minnesota Timberwolves,17,32,49,1234056600.0,2009
+Minnesota Timberwolves,New Orleans Hornets,Minnesota Timberwolves,17,33,50,1234137600.0,2009
+Minnesota Timberwolves,Minnesota Timberwolves,Toronto Raptors,17,34,51,1234314000.0,2009
+Minnesota Timberwolves,Washington Wizards,Minnesota Timberwolves,17,35,52,1234915200.0,2009
+Minnesota Timberwolves,Miami Heat,Minnesota Timberwolves,18,35,53,1235003400.0,2009
+Minnesota Timberwolves,Minnesota Timberwolves,Indiana Pacers,18,36,54,1235178000.0,2009
+Minnesota Timberwolves,Minnesota Timberwolves,Los Angeles Lakers,18,37,55,1235347200.0,2009
+Minnesota Timberwolves,Toronto Raptors,Minnesota Timberwolves,18,38,56,1235520000.0,2009
+Minnesota Timberwolves,Minnesota Timberwolves,Utah Jazz,18,39,57,1235610000.0,2009
+Minnesota Timberwolves,Minnesota Timberwolves,Portland Trail Blazers,18,40,58,1235782800.0,2009
+Minnesota Timberwolves,Minnesota Timberwolves,Houston Rockets,18,41,59,1235952000.0,2009
+Minnesota Timberwolves,Minnesota Timberwolves,Golden State Warriors,18,42,60,1236128400.0,2009
+Minnesota Timberwolves,Los Angeles Lakers,Minnesota Timberwolves,18,43,61,1236396600.0,2009
+Minnesota Timberwolves,Portland Trail Blazers,Minnesota Timberwolves,18,44,62,1236481200.0,2009
+Minnesota Timberwolves,Minnesota Timberwolves,Washington Wizards,18,45,63,1236643200.0,2009
+Minnesota Timberwolves,Minnesota Timberwolves,Memphis Grizzlies,19,45,64,1236816000.0,2009
+Minnesota Timberwolves,Minnesota Timberwolves,New York Knicks,19,46,65,1236988800.0,2009
+Minnesota Timberwolves,Minnesota Timberwolves,Charlotte Bobcats,20,46,66,1237075200.0,2009
+Minnesota Timberwolves,San Antonio Spurs,Minnesota Timberwolves,20,47,67,1237336200.0,2009
+Minnesota Timberwolves,New Orleans Hornets,Minnesota Timberwolves,20,48,68,1237420800.0,2009
+Minnesota Timberwolves,Houston Rockets,Minnesota Timberwolves,20,49,69,1237595400.0,2009
+Minnesota Timberwolves,Minnesota Timberwolves,Oklahoma City Thunder,20,50,70,1237750200.0,2009
+Minnesota Timberwolves,Atlanta Hawks,Minnesota Timberwolves,20,51,71,1237849200.0,2009
+Minnesota Timberwolves,Philadelphia 76ers,Minnesota Timberwolves,20,52,72,1238022000.0,2009
+Minnesota Timberwolves,Cleveland Cavaliers,Minnesota Timberwolves,20,53,73,1238196600.0,2009
+Minnesota Timberwolves,Minnesota Timberwolves,New Jersey Nets,21,53,74,1238355000.0,2009
+Minnesota Timberwolves,Minnesota Timberwolves,Dallas Mavericks,21,54,75,1238544000.0,2009
+Minnesota Timberwolves,Utah Jazz,Minnesota Timberwolves,22,54,76,1238806800.0,2009
+Minnesota Timberwolves,Minnesota Timberwolves,Denver Nuggets,22,55,77,1238972400.0,2009
+Minnesota Timberwolves,Los Angeles Clippers,Minnesota Timberwolves,23,55,78,1239157800.0,2009
+Minnesota Timberwolves,Golden State Warriors,Minnesota Timberwolves,24,55,79,1239244200.0,2009
+Minnesota Timberwolves,Minnesota Timberwolves,Phoenix Suns,24,56,80,1239494400.0,2009
+Minnesota Timberwolves,Dallas Mavericks,Minnesota Timberwolves,24,57,81,1239669000.0,2009
+Minnesota Timberwolves,Minnesota Timberwolves,Sacramento Kings,24,58,82,1239840000.0,2009
+New Jersey Nets,Washington Wizards,New Jersey Nets,1,0,1,1225321200.0,2009
+New Jersey Nets,New Jersey Nets,Golden State Warriors,1,1,2,1225582200.0,2009
+New Jersey Nets,New Jersey Nets,Phoenix Suns,1,2,3,1225845000.0,2009
+New Jersey Nets,New Jersey Nets,Detroit Pistons,2,2,4,1226104200.0,2009
+New Jersey Nets,Indiana Pacers,New Jersey Nets,2,3,5,1226188800.0,2009
+New Jersey Nets,Miami Heat,New Jersey Nets,2,4,6,1226363400.0,2009
+New Jersey Nets,New Jersey Nets,Indiana Pacers,2,5,7,1226536200.0,2009
+New Jersey Nets,New Jersey Nets,Atlanta Hawks,3,5,8,1226709000.0,2009
+New Jersey Nets,Atlanta Hawks,New Jersey Nets,4,5,9,1226793600.0,2009
+New Jersey Nets,New Jersey Nets,Cleveland Cavaliers,4,6,10,1227054600.0,2009
+New Jersey Nets,Toronto Raptors,New Jersey Nets,5,6,11,1227312000.0,2009
+New Jersey Nets,New Jersey Nets,Los Angeles Clippers,6,6,12,1227400200.0,2009
+New Jersey Nets,Los Angeles Lakers,New Jersey Nets,6,7,13,1227670200.0,2009
+New Jersey Nets,Sacramento Kings,New Jersey Nets,7,7,14,1227754800.0,2009
+New Jersey Nets,Utah Jazz,New Jersey Nets,8,7,15,1228010400.0,2009
+New Jersey Nets,Phoenix Suns,New Jersey Nets,9,7,16,1228093200.0,2009
+New Jersey Nets,New Jersey Nets,Washington Wizards,9,8,17,1228264200.0,2009
+New Jersey Nets,New Jersey Nets,Minnesota Timberwolves,10,8,18,1228523400.0,2009
+New Jersey Nets,Philadelphia 76ers,New Jersey Nets,11,8,19,1228609800.0,2009
+New Jersey Nets,New Jersey Nets,New York Knicks,11,9,20,1228955400.0,2009
+New Jersey Nets,New Jersey Nets,Toronto Raptors,11,10,21,1229128200.0,2009
+New Jersey Nets,Chicago Bulls,New Jersey Nets,11,11,22,1229218200.0,2009
+New Jersey Nets,Toronto Raptors,New Jersey Nets,12,11,23,1229385600.0,2009
+New Jersey Nets,New Jersey Nets,Utah Jazz,12,12,24,1229560200.0,2009
+New Jersey Nets,New Jersey Nets,Dallas Mavericks,13,12,25,1229733000.0,2009
+New Jersey Nets,New Jersey Nets,Miami Heat,13,13,26,1229821200.0,2009
+New Jersey Nets,New Jersey Nets,Houston Rockets,13,14,27,1229992200.0,2009
+New Jersey Nets,Indiana Pacers,New Jersey Nets,14,14,28,1230076800.0,2009
+New Jersey Nets,New Jersey Nets,Charlotte Bobcats,14,15,29,1230337800.0,2009
+New Jersey Nets,Charlotte Bobcats,New Jersey Nets,15,15,30,1230422400.0,2009
+New Jersey Nets,New Jersey Nets,Chicago Bulls,15,16,31,1230597000.0,2009
+New Jersey Nets,Detroit Pistons,New Jersey Nets,15,17,32,1230753600.0,2009
+New Jersey Nets,New Jersey Nets,Atlanta Hawks,16,17,33,1230942600.0,2009
+New Jersey Nets,Miami Heat,New Jersey Nets,16,18,34,1231029000.0,2009
+New Jersey Nets,New Jersey Nets,Sacramento Kings,17,18,35,1231201800.0,2009
+New Jersey Nets,New Jersey Nets,Memphis Grizzlies,18,18,36,1231374600.0,2009
+New Jersey Nets,Milwaukee Bucks,New Jersey Nets,18,19,37,1231551000.0,2009
+New Jersey Nets,New Jersey Nets,Oklahoma City Thunder,19,19,38,1231806600.0,2009
+New Jersey Nets,Boston Celtics,New Jersey Nets,19,20,39,1231979400.0,2009
+New Jersey Nets,New Jersey Nets,Portland Trail Blazers,19,21,40,1232065800.0,2009
+New Jersey Nets,New Jersey Nets,Boston Celtics,19,22,41,1232215200.0,2009
+New Jersey Nets,New Orleans Hornets,New Jersey Nets,19,23,42,1232586000.0,2009
+New Jersey Nets,San Antonio Spurs,New Jersey Nets,19,24,43,1232760600.0,2009
+New Jersey Nets,Memphis Grizzlies,New Jersey Nets,20,24,44,1232845200.0,2009
+New Jersey Nets,Oklahoma City Thunder,New Jersey Nets,20,25,45,1233018000.0,2009
+New Jersey Nets,New Jersey Nets,Toronto Raptors,20,26,46,1233189000.0,2009
+New Jersey Nets,Atlanta Hawks,New Jersey Nets,20,27,47,1233361800.0,2009
+New Jersey Nets,Philadelphia 76ers,New Jersey Nets,21,27,48,1233446400.0,2009
+New Jersey Nets,New Jersey Nets,Milwaukee Bucks,22,27,49,1233707400.0,2009
+New Jersey Nets,Washington Wizards,New Jersey Nets,23,27,50,1233792000.0,2009
+New Jersey Nets,New Jersey Nets,Denver Nuggets,24,27,51,1234053000.0,2009
+New Jersey Nets,Orlando Magic,New Jersey Nets,24,28,52,1234134000.0,2009
+New Jersey Nets,New Jersey Nets,San Antonio Spurs,24,29,53,1234312200.0,2009
+New Jersey Nets,Houston Rockets,New Jersey Nets,24,30,54,1234920600.0,2009
+New Jersey Nets,Dallas Mavericks,New Jersey Nets,24,31,55,1235007000.0,2009
+New Jersey Nets,New Jersey Nets,Washington Wizards,24,32,56,1235178000.0,2009
+New Jersey Nets,New Jersey Nets,Philadelphia 76ers,25,32,57,1235435400.0,2009
+New Jersey Nets,New Jersey Nets,Chicago Bulls,26,32,58,1235608200.0,2009
+New Jersey Nets,New Jersey Nets,New Orleans Hornets,26,33,59,1235948400.0,2009
+New Jersey Nets,Milwaukee Bucks,New Jersey Nets,27,33,60,1236128400.0,2009
+New Jersey Nets,New Jersey Nets,Boston Celtics,27,34,61,1236213000.0,2009
+New Jersey Nets,Orlando Magic,New Jersey Nets,27,35,62,1236384000.0,2009
+New Jersey Nets,New Jersey Nets,New York Knicks,28,35,63,1236549600.0,2009
+New Jersey Nets,Golden State Warriors,New Jersey Nets,28,36,64,1236825000.0,2009
+New Jersey Nets,Portland Trail Blazers,New Jersey Nets,28,37,65,1236996000.0,2009
+New Jersey Nets,Los Angeles Clippers,New Jersey Nets,28,38,66,1237167000.0,2009
+New Jersey Nets,Denver Nuggets,New Jersey Nets,28,39,67,1237251600.0,2009
+New Jersey Nets,New York Knicks,New Jersey Nets,29,39,68,1237419000.0,2009
+New Jersey Nets,New Jersey Nets,Miami Heat,30,39,69,1237591800.0,2009
+New Jersey Nets,New Jersey Nets,Cleveland Cavaliers,30,40,70,1237759200.0,2009
+New Jersey Nets,Cleveland Cavaliers,New Jersey Nets,30,41,71,1238022000.0,2009
+New Jersey Nets,New Jersey Nets,Los Angeles Lakers,30,42,72,1238196600.0,2009
+New Jersey Nets,Minnesota Timberwolves,New Jersey Nets,30,43,73,1238355000.0,2009
+New Jersey Nets,New Jersey Nets,Milwaukee Bucks,30,44,74,1238455800.0,2009
+New Jersey Nets,New Jersey Nets,Detroit Pistons,31,44,75,1238628600.0,2009
+New Jersey Nets,Chicago Bulls,New Jersey Nets,31,45,76,1238868000.0,2009
+New Jersey Nets,New Jersey Nets,Philadelphia 76ers,32,45,77,1238974200.0,2009
+New Jersey Nets,Boston Celtics,New Jersey Nets,32,46,78,1239233400.0,2009
+New Jersey Nets,Detroit Pistons,New Jersey Nets,32,47,79,1239408000.0,2009
+New Jersey Nets,New Jersey Nets,Orlando Magic,33,47,80,1239492600.0,2009
+New Jersey Nets,New Jersey Nets,Charlotte Bobcats,34,47,81,1239665400.0,2009
+New Jersey Nets,New York Knicks,New Jersey Nets,34,48,82,1239840000.0,2009
+New Orleans Hornets,Golden State Warriors,New Orleans Hornets,1,0,1,1225333800.0,2009
+New Orleans Hornets,Phoenix Suns,New Orleans Hornets,2,0,2,1225420200.0,2009
+New Orleans Hornets,New Orleans Hornets,Cleveland Cavaliers,3,0,3,1225584000.0,2009
+New Orleans Hornets,New Orleans Hornets,Atlanta Hawks,3,1,4,1225933200.0,2009
+New Orleans Hornets,Charlotte Bobcats,New Orleans Hornets,3,2,5,1226102400.0,2009
+New Orleans Hornets,New Orleans Hornets,Miami Heat,4,2,6,1226192400.0,2009
+New Orleans Hornets,New Orleans Hornets,Los Angeles Lakers,4,3,7,1226538000.0,2009
+New Orleans Hornets,New Orleans Hornets,Portland Trail Blazers,5,3,8,1226710800.0,2009
+New Orleans Hornets,Houston Rockets,New Orleans Hornets,5,4,9,1226799000.0,2009
+New Orleans Hornets,New Orleans Hornets,Sacramento Kings,5,5,10,1227142800.0,2009
+New Orleans Hornets,Oklahoma City Thunder,New Orleans Hornets,6,5,11,1227321000.0,2009
+New Orleans Hornets,New Orleans Hornets,Oklahoma City Thunder,7,5,12,1227402000.0,2009
+New Orleans Hornets,Los Angeles Clippers,New Orleans Hornets,8,5,13,1227583800.0,2009
+New Orleans Hornets,Denver Nuggets,New Orleans Hornets,9,5,14,1227843000.0,2009
+New Orleans Hornets,Portland Trail Blazers,New Orleans Hornets,9,6,15,1227927600.0,2009
+New Orleans Hornets,New Orleans Hornets,Phoenix Suns,10,6,16,1228352400.0,2009
+New Orleans Hornets,New Orleans Hornets,Memphis Grizzlies,11,6,17,1228611600.0,2009
+New Orleans Hornets,New Orleans Hornets,Charlotte Bobcats,12,6,18,1228957200.0,2009
+New Orleans Hornets,Boston Celtics,New Orleans Hornets,12,7,19,1229130000.0,2009
+New Orleans Hornets,Toronto Raptors,New Orleans Hornets,13,7,20,1229275800.0,2009
+New Orleans Hornets,Memphis Grizzlies,New Orleans Hornets,14,7,21,1229475600.0,2009
+New Orleans Hornets,New Orleans Hornets,San Antonio Spurs,15,7,22,1229567400.0,2009
+New Orleans Hornets,New Orleans Hornets,Sacramento Kings,16,7,23,1229821200.0,2009
+New Orleans Hornets,New Orleans Hornets,Los Angeles Lakers,16,8,24,1230080400.0,2009
+New Orleans Hornets,Orlando Magic,New Orleans Hornets,16,9,25,1230224400.0,2009
+New Orleans Hornets,New Orleans Hornets,Houston Rockets,17,9,26,1230339600.0,2009
+New Orleans Hornets,Indiana Pacers,New Orleans Hornets,18,9,27,1230508800.0,2009
+New Orleans Hornets,New Orleans Hornets,Washington Wizards,19,9,28,1230685200.0,2009
+New Orleans Hornets,Portland Trail Blazers,New Orleans Hornets,20,9,29,1230951600.0,2009
+New Orleans Hornets,Denver Nuggets,New Orleans Hornets,20,10,30,1231034400.0,2009
+New Orleans Hornets,Los Angeles Lakers,New Orleans Hornets,21,10,31,1231299000.0,2009
+New Orleans Hornets,Utah Jazz,New Orleans Hornets,21,11,32,1231380000.0,2009
+New Orleans Hornets,New Orleans Hornets,Los Angeles Clippers,22,11,33,1231549200.0,2009
+New Orleans Hornets,New Orleans Hornets,New York Knicks,22,12,34,1231808400.0,2009
+New Orleans Hornets,Dallas Mavericks,New Orleans Hornets,23,12,35,1231983000.0,2009
+New Orleans Hornets,Cleveland Cavaliers,New Orleans Hornets,23,13,36,1232154000.0,2009
+New Orleans Hornets,Detroit Pistons,New Orleans Hornets,24,13,37,1232238600.0,2009
+New Orleans Hornets,New Orleans Hornets,Indiana Pacers,25,13,38,1232397000.0,2009
+New Orleans Hornets,New Orleans Hornets,New Jersey Nets,26,13,39,1232586000.0,2009
+New Orleans Hornets,Minnesota Timberwolves,New Orleans Hornets,26,14,40,1232758800.0,2009
+New Orleans Hornets,New Orleans Hornets,Philadelphia 76ers,27,14,41,1233018000.0,2009
+New Orleans Hornets,New Orleans Hornets,Denver Nuggets,28,14,42,1233190800.0,2009
+New Orleans Hornets,New Orleans Hornets,Golden State Warriors,28,15,43,1233369000.0,2009
+New Orleans Hornets,San Antonio Spurs,New Orleans Hornets,28,16,44,1233451800.0,2009
+New Orleans Hornets,New Orleans Hornets,Portland Trail Blazers,28,17,45,1233622800.0,2009
+New Orleans Hornets,New Orleans Hornets,Chicago Bulls,28,18,46,1233795600.0,2009
+New Orleans Hornets,New Orleans Hornets,Toronto Raptors,29,18,47,1233968400.0,2009
+New Orleans Hornets,New Orleans Hornets,Minnesota Timberwolves,30,18,48,1234137600.0,2009
+New Orleans Hornets,Memphis Grizzlies,New Orleans Hornets,30,19,49,1234227600.0,2009
+New Orleans Hornets,New Orleans Hornets,Boston Celtics,30,20,50,1234400400.0,2009
+New Orleans Hornets,Oklahoma City Thunder,New Orleans Hornets,31,20,51,1234918800.0,2009
+New Orleans Hornets,New Orleans Hornets,Orlando Magic,32,20,52,1235005200.0,2009
+New Orleans Hornets,Los Angeles Lakers,New Orleans Hornets,32,21,53,1235187000.0,2009
+New Orleans Hornets,Utah Jazz,New Orleans Hornets,32,22,54,1235268000.0,2009
+New Orleans Hornets,Sacramento Kings,New Orleans Hornets,33,22,55,1235444400.0,2009
+New Orleans Hornets,New Orleans Hornets,Detroit Pistons,34,22,56,1235610000.0,2009
+New Orleans Hornets,New Orleans Hornets,Milwaukee Bucks,35,22,57,1235782800.0,2009
+New Orleans Hornets,New Jersey Nets,New Orleans Hornets,36,22,58,1235948400.0,2009
+New Orleans Hornets,Philadelphia 76ers,New Orleans Hornets,37,22,59,1236038400.0,2009
+New Orleans Hornets,New Orleans Hornets,Dallas Mavericks,38,22,60,1236301200.0,2009
+New Orleans Hornets,New Orleans Hornets,Oklahoma City Thunder,39,22,61,1236474000.0,2009
+New Orleans Hornets,Atlanta Hawks,New Orleans Hornets,39,23,62,1236639600.0,2009
+New Orleans Hornets,Washington Wizards,New Orleans Hornets,40,23,63,1236812400.0,2009
+New Orleans Hornets,Milwaukee Bucks,New Orleans Hornets,41,23,64,1236990600.0,2009
+New Orleans Hornets,Chicago Bulls,New Orleans Hornets,41,24,65,1237077000.0,2009
+New Orleans Hornets,New Orleans Hornets,Houston Rockets,41,25,66,1237248000.0,2009
+New Orleans Hornets,New Orleans Hornets,Minnesota Timberwolves,42,25,67,1237420800.0,2009
+New Orleans Hornets,New Orleans Hornets,Memphis Grizzlies,43,25,68,1237593600.0,2009
+New Orleans Hornets,New Orleans Hornets,Golden State Warriors,44,25,69,1237762800.0,2009
+New Orleans Hornets,New Orleans Hornets,Denver Nuggets,44,26,70,1238025600.0,2009
+New Orleans Hornets,New York Knicks,New Orleans Hornets,44,27,71,1238196600.0,2009
+New Orleans Hornets,New Orleans Hornets,San Antonio Spurs,45,27,72,1238371200.0,2009
+New Orleans Hornets,Sacramento Kings,New Orleans Hornets,46,27,73,1238551200.0,2009
+New Orleans Hornets,Los Angeles Clippers,New Orleans Hornets,47,27,74,1238639400.0,2009
+New Orleans Hornets,Golden State Warriors,New Orleans Hornets,47,28,75,1238812200.0,2009
+New Orleans Hornets,New Orleans Hornets,Utah Jazz,47,29,76,1238972400.0,2009
+New Orleans Hornets,Miami Heat,New Orleans Hornets,48,29,77,1239147000.0,2009
+New Orleans Hornets,New Orleans Hornets,Phoenix Suns,48,30,78,1239235200.0,2009
+New Orleans Hornets,Dallas Mavericks,New Orleans Hornets,48,31,79,1239409800.0,2009
+New Orleans Hornets,New Orleans Hornets,Dallas Mavericks,49,31,80,1239555600.0,2009
+New Orleans Hornets,Houston Rockets,New Orleans Hornets,49,32,81,1239669000.0,2009
+New Orleans Hornets,San Antonio Spurs,New Orleans Hornets,49,33,82,1239840000.0,2009
+New York Knicks,New York Knicks,Miami Heat,1,0,1,1225323000.0,2009
+New York Knicks,Philadelphia 76ers,New York Knicks,1,1,2,1225494000.0,2009
+New York Knicks,New York Knicks,Milwaukee Bucks,1,2,3,1225666800.0,2009
+New York Knicks,New York Knicks,Charlotte Bobcats,2,2,4,1225931400.0,2009
+New York Knicks,Washington Wizards,New York Knicks,3,2,5,1226102400.0,2009
+New York Knicks,New York Knicks,Utah Jazz,4,2,6,1226260800.0,2009
+New York Knicks,San Antonio Spurs,New York Knicks,4,3,7,1226453400.0,2009
+New York Knicks,Memphis Grizzlies,New York Knicks,5,3,8,1226538000.0,2009
+New York Knicks,New York Knicks,Oklahoma City Thunder,6,3,9,1226709000.0,2009
+New York Knicks,New York Knicks,Dallas Mavericks,6,4,10,1226876400.0,2009
+New York Knicks,Boston Celtics,New York Knicks,6,5,11,1227054600.0,2009
+New York Knicks,Milwaukee Bucks,New York Knicks,6,6,12,1227317400.0,2009
+New York Knicks,New York Knicks,Washington Wizards,7,6,13,1227400200.0,2009
+New York Knicks,New York Knicks,Cleveland Cavaliers,7,7,14,1227659400.0,2009
+New York Knicks,Detroit Pistons,New York Knicks,7,8,15,1227747600.0,2009
+New York Knicks,New York Knicks,Golden State Warriors,8,8,16,1228005000.0,2009
+New York Knicks,New York Knicks,Portland Trail Blazers,8,9,17,1228264200.0,2009
+New York Knicks,Cleveland Cavaliers,New York Knicks,8,10,18,1228348800.0,2009
+New York Knicks,Atlanta Hawks,New York Knicks,8,11,19,1228523400.0,2009
+New York Knicks,New York Knicks,Detroit Pistons,9,11,20,1228669200.0,2009
+New York Knicks,Chicago Bulls,New York Knicks,9,12,21,1228872600.0,2009
+New York Knicks,New Jersey Nets,New York Knicks,10,12,22,1228955400.0,2009
+New York Knicks,Sacramento Kings,New York Knicks,11,12,23,1229223600.0,2009
+New York Knicks,Phoenix Suns,New York Knicks,11,13,24,1229392800.0,2009
+New York Knicks,Los Angeles Lakers,New York Knicks,11,14,25,1229484600.0,2009
+New York Knicks,New York Knicks,Milwaukee Bucks,11,15,26,1229733000.0,2009
+New York Knicks,Boston Celtics,New York Knicks,11,16,27,1229900400.0,2009
+New York Knicks,New York Knicks,Minnesota Timberwolves,11,17,28,1230337800.0,2009
+New York Knicks,New York Knicks,Denver Nuggets,11,18,29,1230487200.0,2009
+New York Knicks,Charlotte Bobcats,New York Knicks,12,18,30,1230681600.0,2009
+New York Knicks,New York Knicks,Indiana Pacers,12,19,31,1230942600.0,2009
+New York Knicks,New York Knicks,Boston Celtics,13,19,32,1231110000.0,2009
+New York Knicks,Oklahoma City Thunder,New York Knicks,13,20,33,1231290000.0,2009
+New York Knicks,Dallas Mavericks,New York Knicks,13,21,34,1231464600.0,2009
+New York Knicks,Houston Rockets,New York Knicks,13,22,35,1231637400.0,2009
+New York Knicks,New Orleans Hornets,New York Knicks,14,22,36,1231808400.0,2009
+New York Knicks,New York Knicks,Washington Wizards,15,22,37,1231979400.0,2009
+New York Knicks,Washington Wizards,New York Knicks,15,23,38,1232150400.0,2009
+New York Knicks,New York Knicks,Philadelphia 76ers,15,24,39,1232238600.0,2009
+New York Knicks,New York Knicks,Chicago Bulls,16,24,40,1232388000.0,2009
+New York Knicks,New York Knicks,Phoenix Suns,17,24,41,1232584200.0,2009
+New York Knicks,New York Knicks,Memphis Grizzlies,18,24,42,1232757000.0,2009
+New York Knicks,Philadelphia 76ers,New York Knicks,18,25,43,1232841600.0,2009
+New York Knicks,New York Knicks,Houston Rockets,19,25,44,1233016200.0,2009
+New York Knicks,New York Knicks,Atlanta Hawks,20,25,45,1233189000.0,2009
+New York Knicks,Indiana Pacers,New York Knicks,21,25,46,1233446400.0,2009
+New York Knicks,New York Knicks,Los Angeles Lakers,21,26,47,1233621000.0,2009
+New York Knicks,New York Knicks,Cleveland Cavaliers,21,27,48,1233793800.0,2009
+New York Knicks,New York Knicks,Boston Celtics,21,28,49,1233966600.0,2009
+New York Knicks,Portland Trail Blazers,New York Knicks,21,29,50,1234134000.0,2009
+New York Knicks,Golden State Warriors,New York Knicks,21,30,51,1234323000.0,2009
+New York Knicks,Los Angeles Clippers,New York Knicks,21,31,52,1234409400.0,2009
+New York Knicks,New York Knicks,San Antonio Spurs,22,31,53,1234917000.0,2009
+New York Knicks,New York Knicks,Toronto Raptors,23,31,54,1235176200.0,2009
+New York Knicks,Toronto Raptors,New York Knicks,23,32,55,1235322000.0,2009
+New York Knicks,New York Knicks,Indiana Pacers,24,32,56,1235435400.0,2009
+New York Knicks,New York Knicks,Orlando Magic,24,33,57,1235608200.0,2009
+New York Knicks,New York Knicks,Philadelphia 76ers,24,34,58,1235781000.0,2009
+New York Knicks,Miami Heat,New York Knicks,24,35,59,1235867400.0,2009
+New York Knicks,New York Knicks,Atlanta Hawks,25,35,60,1236213000.0,2009
+New York Knicks,New York Knicks,Charlotte Bobcats,25,36,61,1236472200.0,2009
+New York Knicks,New Jersey Nets,New York Knicks,25,37,62,1236549600.0,2009
+New York Knicks,Milwaukee Bucks,New York Knicks,26,37,63,1236729600.0,2009
+New York Knicks,Detroit Pistons,New York Knicks,27,37,64,1236814200.0,2009
+New York Knicks,Minnesota Timberwolves,New York Knicks,28,37,65,1236988800.0,2009
+New York Knicks,Cleveland Cavaliers,New York Knicks,28,38,66,1237154400.0,2009
+New York Knicks,New York Knicks,New Jersey Nets,28,39,67,1237419000.0,2009
+New York Knicks,New York Knicks,Sacramento Kings,28,40,68,1237591800.0,2009
+New York Knicks,Orlando Magic,New York Knicks,28,41,69,1237676400.0,2009
+New York Knicks,New York Knicks,Orlando Magic,28,42,70,1237851000.0,2009
+New York Knicks,New York Knicks,Los Angeles Clippers,28,43,71,1238023800.0,2009
+New York Knicks,New York Knicks,New Orleans Hornets,29,43,72,1238196600.0,2009
+New York Knicks,Charlotte Bobcats,New York Knicks,29,44,73,1238281200.0,2009
+New York Knicks,Utah Jazz,New York Knicks,29,45,74,1238461200.0,2009
+New York Knicks,Denver Nuggets,New York Knicks,29,46,75,1238547600.0,2009
+New York Knicks,New York Knicks,Toronto Raptors,29,47,76,1238864400.0,2009
+New York Knicks,Toronto Raptors,New York Knicks,30,47,77,1238968800.0,2009
+New York Knicks,Chicago Bulls,New York Knicks,30,48,78,1239150600.0,2009
+New York Knicks,New York Knicks,Detroit Pistons,30,49,79,1239233400.0,2009
+New York Knicks,Orlando Magic,New York Knicks,31,49,80,1239408000.0,2009
+New York Knicks,Miami Heat,New York Knicks,31,50,81,1239573600.0,2009
+New York Knicks,New York Knicks,New Jersey Nets,32,50,82,1239840000.0,2009
+Oklahoma City Thunder,Oklahoma City Thunder,Milwaukee Bucks,0,1,1,1225324800.0,2009
+Oklahoma City Thunder,Houston Rockets,Oklahoma City Thunder,0,2,2,1225585800.0,2009
+Oklahoma City Thunder,Oklahoma City Thunder,Minnesota Timberwolves,1,2,3,1225670400.0,2009
+Oklahoma City Thunder,Oklahoma City Thunder,Boston Celtics,1,3,4,1225933200.0,2009
+Oklahoma City Thunder,Utah Jazz,Oklahoma City Thunder,1,4,5,1226109600.0,2009
+Oklahoma City Thunder,Oklahoma City Thunder,Atlanta Hawks,1,5,6,1226275200.0,2009
+Oklahoma City Thunder,Indiana Pacers,Oklahoma City Thunder,1,6,7,1226361600.0,2009
+Oklahoma City Thunder,Oklahoma City Thunder,Orlando Magic,1,7,8,1226538000.0,2009
+Oklahoma City Thunder,New York Knicks,Oklahoma City Thunder,1,8,9,1226709000.0,2009
+Oklahoma City Thunder,Philadelphia 76ers,Oklahoma City Thunder,1,9,10,1226793600.0,2009
+Oklahoma City Thunder,Oklahoma City Thunder,Houston Rockets,1,10,11,1226970000.0,2009
+Oklahoma City Thunder,Oklahoma City Thunder,Los Angeles Clippers,1,11,12,1227142800.0,2009
+Oklahoma City Thunder,Oklahoma City Thunder,New Orleans Hornets,1,12,13,1227321000.0,2009
+Oklahoma City Thunder,New Orleans Hornets,Oklahoma City Thunder,1,13,14,1227402000.0,2009
+Oklahoma City Thunder,Oklahoma City Thunder,Phoenix Suns,1,14,15,1227661200.0,2009
+Oklahoma City Thunder,Cleveland Cavaliers,Oklahoma City Thunder,1,15,16,1227744000.0,2009
+Oklahoma City Thunder,Oklahoma City Thunder,Minnesota Timberwolves,1,16,17,1227920400.0,2009
+Oklahoma City Thunder,Memphis Grizzlies,Oklahoma City Thunder,2,16,18,1228006800.0,2009
+Oklahoma City Thunder,Charlotte Bobcats,Oklahoma City Thunder,2,17,19,1228348800.0,2009
+Oklahoma City Thunder,Orlando Magic,Oklahoma City Thunder,2,18,20,1228521600.0,2009
+Oklahoma City Thunder,Miami Heat,Oklahoma City Thunder,2,19,21,1228609800.0,2009
+Oklahoma City Thunder,Oklahoma City Thunder,Golden State Warriors,2,20,22,1228784400.0,2009
+Oklahoma City Thunder,Oklahoma City Thunder,Memphis Grizzlies,2,21,23,1228957200.0,2009
+Oklahoma City Thunder,Dallas Mavericks,Oklahoma City Thunder,2,22,24,1229218200.0,2009
+Oklahoma City Thunder,San Antonio Spurs,Oklahoma City Thunder,2,23,25,1229299200.0,2009
+Oklahoma City Thunder,Oklahoma City Thunder,Los Angeles Clippers,2,24,26,1229475600.0,2009
+Oklahoma City Thunder,Oklahoma City Thunder,Toronto Raptors,3,24,27,1229734800.0,2009
+Oklahoma City Thunder,Oklahoma City Thunder,Cleveland Cavaliers,3,25,28,1229904000.0,2009
+Oklahoma City Thunder,Atlanta Hawks,Oklahoma City Thunder,3,26,29,1230076800.0,2009
+Oklahoma City Thunder,Detroit Pistons,Oklahoma City Thunder,3,27,30,1230339600.0,2009
+Oklahoma City Thunder,Washington Wizards,Oklahoma City Thunder,3,28,31,1230422400.0,2009
+Oklahoma City Thunder,Oklahoma City Thunder,Phoenix Suns,3,29,32,1230598800.0,2009
+Oklahoma City Thunder,Oklahoma City Thunder,Golden State Warriors,4,29,33,1230771600.0,2009
+Oklahoma City Thunder,Oklahoma City Thunder,Denver Nuggets,4,30,34,1230944400.0,2009
+Oklahoma City Thunder,Oklahoma City Thunder,New York Knicks,5,30,35,1231290000.0,2009
+Oklahoma City Thunder,Minnesota Timberwolves,Oklahoma City Thunder,5,31,36,1231376400.0,2009
+Oklahoma City Thunder,Oklahoma City Thunder,Houston Rockets,5,32,37,1231549200.0,2009
+Oklahoma City Thunder,Chicago Bulls,Oklahoma City Thunder,6,32,38,1231637400.0,2009
+Oklahoma City Thunder,New Jersey Nets,Oklahoma City Thunder,6,33,39,1231806600.0,2009
+Oklahoma City Thunder,Oklahoma City Thunder,Utah Jazz,7,33,40,1231981200.0,2009
+Oklahoma City Thunder,Oklahoma City Thunder,Detroit Pistons,8,33,41,1232154000.0,2009
+Oklahoma City Thunder,Oklahoma City Thunder,Miami Heat,8,34,42,1232323200.0,2009
+Oklahoma City Thunder,Golden State Warriors,Oklahoma City Thunder,9,34,43,1232595000.0,2009
+Oklahoma City Thunder,Los Angeles Clippers,Oklahoma City Thunder,9,35,44,1232767800.0,2009
+Oklahoma City Thunder,Oklahoma City Thunder,New Jersey Nets,10,35,45,1233018000.0,2009
+Oklahoma City Thunder,Oklahoma City Thunder,Memphis Grizzlies,11,35,46,1233190800.0,2009
+Oklahoma City Thunder,Utah Jazz,Oklahoma City Thunder,11,36,47,1233367200.0,2009
+Oklahoma City Thunder,Sacramento Kings,Oklahoma City Thunder,11,37,48,1233518400.0,2009
+Oklahoma City Thunder,Oklahoma City Thunder,Denver Nuggets,11,38,49,1233795600.0,2009
+Oklahoma City Thunder,Oklahoma City Thunder,Portland Trail Blazers,12,38,50,1233968400.0,2009
+Oklahoma City Thunder,Oklahoma City Thunder,Sacramento Kings,13,38,51,1234137600.0,2009
+Oklahoma City Thunder,Los Angeles Lakers,Oklahoma City Thunder,13,39,52,1234323000.0,2009
+Oklahoma City Thunder,Portland Trail Blazers,Oklahoma City Thunder,13,40,53,1234407600.0,2009
+Oklahoma City Thunder,Oklahoma City Thunder,New Orleans Hornets,13,41,54,1234918800.0,2009
+Oklahoma City Thunder,Phoenix Suns,Oklahoma City Thunder,13,42,55,1235181600.0,2009
+Oklahoma City Thunder,Golden State Warriors,Oklahoma City Thunder,13,43,56,1235273400.0,2009
+Oklahoma City Thunder,Oklahoma City Thunder,Los Angeles Lakers,13,44,57,1235523600.0,2009
+Oklahoma City Thunder,Dallas Mavericks,Oklahoma City Thunder,13,45,58,1235784600.0,2009
+Oklahoma City Thunder,Memphis Grizzlies,Oklahoma City Thunder,14,45,59,1235869200.0,2009
+Oklahoma City Thunder,Oklahoma City Thunder,Dallas Mavericks,15,45,60,1236042000.0,2009
+Oklahoma City Thunder,Oklahoma City Thunder,Washington Wizards,16,45,61,1236214800.0,2009
+Oklahoma City Thunder,New Orleans Hornets,Oklahoma City Thunder,16,46,62,1236474000.0,2009
+Oklahoma City Thunder,Oklahoma City Thunder,Philadelphia 76ers,17,46,63,1236553200.0,2009
+Oklahoma City Thunder,Sacramento Kings,Oklahoma City Thunder,18,46,64,1236736800.0,2009
+Oklahoma City Thunder,Denver Nuggets,Oklahoma City Thunder,18,47,65,1236819600.0,2009
+Oklahoma City Thunder,Phoenix Suns,Oklahoma City Thunder,18,48,66,1237082400.0,2009
+Oklahoma City Thunder,Oklahoma City Thunder,San Antonio Spurs,19,48,67,1237248000.0,2009
+Oklahoma City Thunder,Oklahoma City Thunder,Chicago Bulls,19,49,68,1237420800.0,2009
+Oklahoma City Thunder,Oklahoma City Thunder,Utah Jazz,19,50,69,1237593600.0,2009
+Oklahoma City Thunder,Minnesota Timberwolves,Oklahoma City Thunder,20,50,70,1237750200.0,2009
+Oklahoma City Thunder,Oklahoma City Thunder,Los Angeles Lakers,20,51,71,1237939200.0,2009
+Oklahoma City Thunder,Toronto Raptors,Oklahoma City Thunder,20,52,72,1238194800.0,2009
+Oklahoma City Thunder,Boston Celtics,Oklahoma City Thunder,20,53,73,1238367600.0,2009
+Oklahoma City Thunder,San Antonio Spurs,Oklahoma City Thunder,21,53,74,1238545800.0,2009
+Oklahoma City Thunder,Oklahoma City Thunder,Portland Trail Blazers,21,54,75,1238803200.0,2009
+Oklahoma City Thunder,Oklahoma City Thunder,Indiana Pacers,21,55,76,1238972400.0,2009
+Oklahoma City Thunder,Oklahoma City Thunder,San Antonio Spurs,21,56,77,1239148800.0,2009
+Oklahoma City Thunder,Denver Nuggets,Oklahoma City Thunder,21,57,78,1239238800.0,2009
+Oklahoma City Thunder,Oklahoma City Thunder,Charlotte Bobcats,22,57,79,1239408000.0,2009
+Oklahoma City Thunder,Milwaukee Bucks,Oklahoma City Thunder,22,58,80,1239496200.0,2009
+Oklahoma City Thunder,Portland Trail Blazers,Oklahoma City Thunder,22,59,81,1239674400.0,2009
+Oklahoma City Thunder,Los Angeles Clippers,Oklahoma City Thunder,23,59,82,1239849000.0,2009
+Orlando Magic,Orlando Magic,Atlanta Hawks,0,1,1,1225321200.0,2009
+Orlando Magic,Memphis Grizzlies,Orlando Magic,0,2,2,1225497600.0,2009
+Orlando Magic,Orlando Magic,Sacramento Kings,1,2,3,1225580400.0,2009
+Orlando Magic,Orlando Magic,Chicago Bulls,2,2,4,1225756800.0,2009
+Orlando Magic,Orlando Magic,Philadelphia 76ers,3,2,5,1226019600.0,2009
+Orlando Magic,Orlando Magic,Washington Wizards,4,2,6,1226188800.0,2009
+Orlando Magic,Orlando Magic,Portland Trail Blazers,4,3,7,1226361600.0,2009
+Orlando Magic,Oklahoma City Thunder,Orlando Magic,5,3,8,1226538000.0,2009
+Orlando Magic,Dallas Mavericks,Orlando Magic,6,3,9,1226712600.0,2009
+Orlando Magic,Charlotte Bobcats,Orlando Magic,7,3,10,1226874600.0,2009
+Orlando Magic,Orlando Magic,Toronto Raptors,8,3,11,1227052800.0,2009
+Orlando Magic,Indiana Pacers,Orlando Magic,9,3,12,1227312000.0,2009
+Orlando Magic,Orlando Magic,Houston Rockets,9,4,13,1227398400.0,2009
+Orlando Magic,Orlando Magic,Milwaukee Bucks,10,4,14,1227571200.0,2009
+Orlando Magic,Philadelphia 76ers,Orlando Magic,11,4,15,1227745800.0,2009
+Orlando Magic,Washington Wizards,Orlando Magic,12,4,16,1227834000.0,2009
+Orlando Magic,Orlando Magic,Indiana Pacers,13,4,17,1228003200.0,2009
+Orlando Magic,Boston Celtics,Orlando Magic,13,5,18,1228177800.0,2009
+Orlando Magic,Orlando Magic,Minnesota Timberwolves,14,5,19,1228348800.0,2009
+Orlando Magic,Orlando Magic,Oklahoma City Thunder,15,5,20,1228521600.0,2009
+Orlando Magic,Los Angeles Clippers,Orlando Magic,16,5,21,1228793400.0,2009
+Orlando Magic,Portland Trail Blazers,Orlando Magic,17,5,22,1228878000.0,2009
+Orlando Magic,Phoenix Suns,Orlando Magic,17,6,23,1229133600.0,2009
+Orlando Magic,Utah Jazz,Orlando Magic,18,6,24,1229220000.0,2009
+Orlando Magic,Golden State Warriors,Orlando Magic,19,6,25,1229398200.0,2009
+Orlando Magic,Orlando Magic,San Antonio Spurs,20,6,26,1229648400.0,2009
+Orlando Magic,Orlando Magic,Los Angeles Lakers,21,6,27,1229817600.0,2009
+Orlando Magic,Orlando Magic,Golden State Warriors,22,6,28,1229990400.0,2009
+Orlando Magic,Orlando Magic,New Orleans Hornets,23,6,29,1230224400.0,2009
+Orlando Magic,Minnesota Timberwolves,Orlando Magic,24,6,30,1230426000.0,2009
+Orlando Magic,Detroit Pistons,Orlando Magic,24,7,31,1230597000.0,2009
+Orlando Magic,Chicago Bulls,Orlando Magic,25,7,32,1230750000.0,2009
+Orlando Magic,Orlando Magic,Miami Heat,26,7,33,1230940800.0,2009
+Orlando Magic,Toronto Raptors,Orlando Magic,26,8,34,1231090200.0,2009
+Orlando Magic,Orlando Magic,Washington Wizards,27,8,35,1231286400.0,2009
+Orlando Magic,Atlanta Hawks,Orlando Magic,28,8,36,1231372800.0,2009
+Orlando Magic,Orlando Magic,Atlanta Hawks,29,8,37,1231545600.0,2009
+Orlando Magic,San Antonio Spurs,Orlando Magic,30,8,38,1231723800.0,2009
+Orlando Magic,Sacramento Kings,Orlando Magic,31,8,39,1231902000.0,2009
+Orlando Magic,Los Angeles Lakers,Orlando Magic,32,8,40,1232163000.0,2009
+Orlando Magic,Denver Nuggets,Orlando Magic,33,8,41,1232244000.0,2009
+Orlando Magic,Orlando Magic,Boston Celtics,33,9,42,1232672400.0,2009
+Orlando Magic,Miami Heat,Orlando Magic,33,10,43,1232843400.0,2009
+Orlando Magic,Orlando Magic,Indiana Pacers,34,10,44,1233100800.0,2009
+Orlando Magic,Orlando Magic,Cleveland Cavaliers,35,10,45,1233277200.0,2009
+Orlando Magic,Toronto Raptors,Orlando Magic,36,10,46,1233507600.0,2009
+Orlando Magic,Orlando Magic,Dallas Mavericks,36,11,47,1233619200.0,2009
+Orlando Magic,Orlando Magic,Los Angeles Clippers,37,11,48,1233792000.0,2009
+Orlando Magic,Indiana Pacers,Orlando Magic,37,12,49,1233964800.0,2009
+Orlando Magic,Orlando Magic,New Jersey Nets,38,12,50,1234134000.0,2009
+Orlando Magic,Orlando Magic,Denver Nuggets,38,13,51,1234396800.0,2009
+Orlando Magic,Orlando Magic,Charlotte Bobcats,39,13,52,1234915200.0,2009
+Orlando Magic,New Orleans Hornets,Orlando Magic,39,14,53,1235005200.0,2009
+Orlando Magic,Charlotte Bobcats,Orlando Magic,40,14,54,1235174400.0,2009
+Orlando Magic,Orlando Magic,Miami Heat,41,14,55,1235341800.0,2009
+Orlando Magic,Chicago Bulls,Orlando Magic,41,15,56,1235523600.0,2009
+Orlando Magic,New York Knicks,Orlando Magic,42,15,57,1235608200.0,2009
+Orlando Magic,Orlando Magic,Detroit Pistons,42,16,58,1235779200.0,2009
+Orlando Magic,Philadelphia 76ers,Orlando Magic,43,16,59,1235865600.0,2009
+Orlando Magic,Orlando Magic,Phoenix Suns,44,16,60,1236124800.0,2009
+Orlando Magic,Orlando Magic,New Jersey Nets,45,16,61,1236384000.0,2009
+Orlando Magic,Boston Celtics,Orlando Magic,46,16,62,1236531600.0,2009
+Orlando Magic,Detroit Pistons,Orlando Magic,46,17,63,1236641400.0,2009
+Orlando Magic,Orlando Magic,Chicago Bulls,47,17,64,1236812400.0,2009
+Orlando Magic,Washington Wizards,Orlando Magic,48,17,65,1236985200.0,2009
+Orlando Magic,Orlando Magic,Utah Jazz,49,17,66,1237154400.0,2009
+Orlando Magic,Cleveland Cavaliers,Orlando Magic,49,18,67,1237330800.0,2009
+Orlando Magic,Milwaukee Bucks,Orlando Magic,50,18,68,1237420800.0,2009
+Orlando Magic,Orlando Magic,New York Knicks,51,18,69,1237676400.0,2009
+Orlando Magic,New York Knicks,Orlando Magic,52,18,70,1237851000.0,2009
+Orlando Magic,Orlando Magic,Boston Celtics,53,18,71,1238025600.0,2009
+Orlando Magic,Orlando Magic,Milwaukee Bucks,54,18,72,1238194800.0,2009
+Orlando Magic,Miami Heat,Orlando Magic,55,18,73,1238455800.0,2009
+Orlando Magic,Orlando Magic,Toronto Raptors,55,19,74,1238626800.0,2009
+Orlando Magic,Orlando Magic,Cleveland Cavaliers,56,19,75,1238803200.0,2009
+Orlando Magic,Atlanta Hawks,Orlando Magic,57,19,76,1238886000.0,2009
+Orlando Magic,Houston Rockets,Orlando Magic,57,20,77,1239150600.0,2009
+Orlando Magic,Orlando Magic,Memphis Grizzlies,58,20,78,1239231600.0,2009
+Orlando Magic,Orlando Magic,New York Knicks,58,21,79,1239408000.0,2009
+Orlando Magic,New Jersey Nets,Orlando Magic,58,22,80,1239492600.0,2009
+Orlando Magic,Milwaukee Bucks,Orlando Magic,58,23,81,1239667200.0,2009
+Orlando Magic,Orlando Magic,Charlotte Bobcats,59,23,82,1239840000.0,2009
+Philadelphia 76ers,Philadelphia 76ers,Toronto Raptors,0,1,1,1225317600.0,2009
+Philadelphia 76ers,Philadelphia 76ers,New York Knicks,1,1,2,1225494000.0,2009
+Philadelphia 76ers,Atlanta Hawks,Philadelphia 76ers,1,2,3,1225580400.0,2009
+Philadelphia 76ers,Philadelphia 76ers,Sacramento Kings,2,2,4,1225756800.0,2009
+Philadelphia 76ers,Miami Heat,Philadelphia 76ers,2,3,5,1225931400.0,2009
+Philadelphia 76ers,Orlando Magic,Philadelphia 76ers,2,4,6,1226019600.0,2009
+Philadelphia 76ers,Philadelphia 76ers,Utah Jazz,2,5,7,1226448000.0,2009
+Philadelphia 76ers,Toronto Raptors,Philadelphia 76ers,3,5,8,1226534400.0,2009
+Philadelphia 76ers,Indiana Pacers,Philadelphia 76ers,4,5,9,1226707200.0,2009
+Philadelphia 76ers,Philadelphia 76ers,Oklahoma City Thunder,5,5,10,1226793600.0,2009
+Philadelphia 76ers,Minnesota Timberwolves,Philadelphia 76ers,5,6,11,1227142800.0,2009
+Philadelphia 76ers,Philadelphia 76ers,Los Angeles Clippers,6,6,12,1227312000.0,2009
+Philadelphia 76ers,Philadelphia 76ers,Golden State Warriors,7,6,13,1227477600.0,2009
+Philadelphia 76ers,Charlotte Bobcats,Philadelphia 76ers,7,7,14,1227571200.0,2009
+Philadelphia 76ers,Philadelphia 76ers,Orlando Magic,7,8,15,1227745800.0,2009
+Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,7,9,16,1227918600.0,2009
+Philadelphia 76ers,Philadelphia 76ers,Chicago Bulls,7,10,17,1228082400.0,2009
+Philadelphia 76ers,Chicago Bulls,Philadelphia 76ers,8,10,18,1228267800.0,2009
+Philadelphia 76ers,Philadelphia 76ers,Los Angeles Lakers,8,11,19,1228348800.0,2009
+Philadelphia 76ers,Detroit Pistons,Philadelphia 76ers,9,11,20,1228525200.0,2009
+Philadelphia 76ers,Philadelphia 76ers,New Jersey Nets,9,12,21,1228609800.0,2009
+Philadelphia 76ers,Philadelphia 76ers,Cleveland Cavaliers,9,13,22,1228957200.0,2009
+Philadelphia 76ers,Cleveland Cavaliers,Philadelphia 76ers,9,14,23,1229128200.0,2009
+Philadelphia 76ers,Philadelphia 76ers,Washington Wizards,10,14,24,1229214600.0,2009
+Philadelphia 76ers,Philadelphia 76ers,Milwaukee Bucks,11,14,25,1229558400.0,2009
+Philadelphia 76ers,Washington Wizards,Philadelphia 76ers,12,14,26,1229731200.0,2009
+Philadelphia 76ers,Philadelphia 76ers,Indiana Pacers,12,15,27,1229819400.0,2009
+Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,12,16,28,1230078600.0,2009
+Philadelphia 76ers,Denver Nuggets,Philadelphia 76ers,12,17,29,1230343200.0,2009
+Philadelphia 76ers,Utah Jazz,Philadelphia 76ers,12,18,30,1230602400.0,2009
+Philadelphia 76ers,Los Angeles Clippers,Philadelphia 76ers,13,18,31,1230777000.0,2009
+Philadelphia 76ers,Dallas Mavericks,Philadelphia 76ers,13,19,32,1230946200.0,2009
+Philadelphia 76ers,San Antonio Spurs,Philadelphia 76ers,13,20,33,1231032600.0,2009
+Philadelphia 76ers,Philadelphia 76ers,Houston Rockets,14,20,34,1231286400.0,2009
+Philadelphia 76ers,Milwaukee Bucks,Philadelphia 76ers,15,20,35,1231376400.0,2009
+Philadelphia 76ers,Philadelphia 76ers,Charlotte Bobcats,16,20,36,1231545600.0,2009
+Philadelphia 76ers,Atlanta Hawks,Philadelphia 76ers,17,20,37,1231700400.0,2009
+Philadelphia 76ers,Philadelphia 76ers,Portland Trail Blazers,18,20,38,1231977600.0,2009
+Philadelphia 76ers,Philadelphia 76ers,San Antonio Spurs,19,20,39,1232150400.0,2009
+Philadelphia 76ers,New York Knicks,Philadelphia 76ers,20,20,40,1232238600.0,2009
+Philadelphia 76ers,Philadelphia 76ers,Dallas Mavericks,20,21,41,1232388000.0,2009
+Philadelphia 76ers,Philadelphia 76ers,New York Knicks,21,21,42,1232841600.0,2009
+Philadelphia 76ers,New Orleans Hornets,Philadelphia 76ers,21,22,43,1233018000.0,2009
+Philadelphia 76ers,Houston Rockets,Philadelphia 76ers,22,22,44,1233192600.0,2009
+Philadelphia 76ers,Philadelphia 76ers,Washington Wizards,23,22,45,1233360000.0,2009
+Philadelphia 76ers,Philadelphia 76ers,New Jersey Nets,23,23,46,1233446400.0,2009
+Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,23,24,47,1233705600.0,2009
+Philadelphia 76ers,Philadelphia 76ers,Indiana Pacers,24,24,48,1233878400.0,2009
+Philadelphia 76ers,Philadelphia 76ers,Miami Heat,25,24,49,1234051200.0,2009
+Philadelphia 76ers,Philadelphia 76ers,Phoenix Suns,26,24,50,1234224000.0,2009
+Philadelphia 76ers,Philadelphia 76ers,Memphis Grizzlies,27,24,51,1234396800.0,2009
+Philadelphia 76ers,Indiana Pacers,Philadelphia 76ers,27,25,52,1234915200.0,2009
+Philadelphia 76ers,Philadelphia 76ers,Denver Nuggets,27,26,53,1235001600.0,2009
+Philadelphia 76ers,Miami Heat,Philadelphia 76ers,27,27,54,1235248200.0,2009
+Philadelphia 76ers,New Jersey Nets,Philadelphia 76ers,27,28,55,1235435400.0,2009
+Philadelphia 76ers,Washington Wizards,Philadelphia 76ers,28,28,56,1235606400.0,2009
+Philadelphia 76ers,New York Knicks,Philadelphia 76ers,29,28,57,1235781000.0,2009
+Philadelphia 76ers,Philadelphia 76ers,Orlando Magic,29,29,58,1235865600.0,2009
+Philadelphia 76ers,Philadelphia 76ers,New Orleans Hornets,29,30,59,1236038400.0,2009
+Philadelphia 76ers,Memphis Grizzlies,Philadelphia 76ers,30,30,60,1236474000.0,2009
+Philadelphia 76ers,Oklahoma City Thunder,Philadelphia 76ers,30,31,61,1236553200.0,2009
+Philadelphia 76ers,Philadelphia 76ers,Toronto Raptors,31,31,62,1236812400.0,2009
+Philadelphia 76ers,Philadelphia 76ers,Chicago Bulls,32,31,63,1236985200.0,2009
+Philadelphia 76ers,Philadelphia 76ers,Miami Heat,33,31,64,1237136400.0,2009
+Philadelphia 76ers,Los Angeles Lakers,Philadelphia 76ers,34,31,65,1237343400.0,2009
+Philadelphia 76ers,Phoenix Suns,Philadelphia 76ers,34,32,66,1237428000.0,2009
+Philadelphia 76ers,Golden State Warriors,Philadelphia 76ers,34,33,67,1237602600.0,2009
+Philadelphia 76ers,Sacramento Kings,Philadelphia 76ers,35,33,68,1237770000.0,2009
+Philadelphia 76ers,Portland Trail Blazers,Philadelphia 76ers,36,33,69,1237860000.0,2009
+Philadelphia 76ers,Philadelphia 76ers,Minnesota Timberwolves,37,33,70,1238022000.0,2009
+Philadelphia 76ers,Philadelphia 76ers,Charlotte Bobcats,37,34,71,1238194800.0,2009
+Philadelphia 76ers,Detroit Pistons,Philadelphia 76ers,37,35,72,1238364000.0,2009
+Philadelphia 76ers,Philadelphia 76ers,Atlanta Hawks,38,35,73,1238540400.0,2009
+Philadelphia 76ers,Philadelphia 76ers,Milwaukee Bucks,39,35,74,1238713200.0,2009
+Philadelphia 76ers,Philadelphia 76ers,Detroit Pistons,40,35,75,1238871600.0,2009
+Philadelphia 76ers,New Jersey Nets,Philadelphia 76ers,40,36,76,1238974200.0,2009
+Philadelphia 76ers,Charlotte Bobcats,Philadelphia 76ers,40,37,77,1239145200.0,2009
+Philadelphia 76ers,Chicago Bulls,Philadelphia 76ers,40,38,78,1239321600.0,2009
+Philadelphia 76ers,Philadelphia 76ers,Cleveland Cavaliers,40,39,79,1239404400.0,2009
+Philadelphia 76ers,Toronto Raptors,Philadelphia 76ers,40,40,80,1239573600.0,2009
+Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,40,41,81,1239753600.0,2009
+Philadelphia 76ers,Cleveland Cavaliers,Philadelphia 76ers,41,41,82,1239840000.0,2009
+Phoenix Suns,San Antonio Spurs,Phoenix Suns,1,0,1,1225324800.0,2009
+Phoenix Suns,Phoenix Suns,New Orleans Hornets,1,1,2,1225420200.0,2009
+Phoenix Suns,Phoenix Suns,Portland Trail Blazers,2,1,3,1225591200.0,2009
+Phoenix Suns,New Jersey Nets,Phoenix Suns,3,1,4,1225845000.0,2009
+Phoenix Suns,Indiana Pacers,Phoenix Suns,4,1,5,1225929600.0,2009
+Phoenix Suns,Chicago Bulls,Phoenix Suns,4,2,6,1226107800.0,2009
+Phoenix Suns,Milwaukee Bucks,Phoenix Suns,5,2,7,1226194200.0,2009
+Phoenix Suns,Phoenix Suns,Memphis Grizzlies,6,2,8,1226368800.0,2009
+Phoenix Suns,Phoenix Suns,Houston Rockets,6,3,9,1226547000.0,2009
+Phoenix Suns,Sacramento Kings,Phoenix Suns,7,3,10,1226718000.0,2009
+Phoenix Suns,Phoenix Suns,Detroit Pistons,8,3,11,1226883600.0,2009
+Phoenix Suns,Utah Jazz,Phoenix Suns,8,4,12,1226973600.0,2009
+Phoenix Suns,Phoenix Suns,Los Angeles Lakers,8,5,13,1227238200.0,2009
+Phoenix Suns,Phoenix Suns,Portland Trail Blazers,9,5,14,1227405600.0,2009
+Phoenix Suns,Oklahoma City Thunder,Phoenix Suns,10,5,15,1227661200.0,2009
+Phoenix Suns,Minnesota Timberwolves,Phoenix Suns,11,5,16,1227747600.0,2009
+Phoenix Suns,Phoenix Suns,Miami Heat,11,6,17,1227920400.0,2009
+Phoenix Suns,Phoenix Suns,New Jersey Nets,11,7,18,1228093200.0,2009
+Phoenix Suns,New Orleans Hornets,Phoenix Suns,11,8,19,1228352400.0,2009
+Phoenix Suns,Dallas Mavericks,Phoenix Suns,11,9,20,1228438800.0,2009
+Phoenix Suns,Phoenix Suns,Utah Jazz,12,9,21,1228615200.0,2009
+Phoenix Suns,Phoenix Suns,Milwaukee Bucks,13,9,22,1228874400.0,2009
+Phoenix Suns,Los Angeles Lakers,Phoenix Suns,13,10,23,1228966200.0,2009
+Phoenix Suns,Phoenix Suns,Orlando Magic,14,10,24,1229133600.0,2009
+Phoenix Suns,Phoenix Suns,New York Knicks,15,10,25,1229392800.0,2009
+Phoenix Suns,Portland Trail Blazers,Phoenix Suns,15,11,26,1229657400.0,2009
+Phoenix Suns,Phoenix Suns,Denver Nuggets,16,11,27,1229824800.0,2009
+Phoenix Suns,Phoenix Suns,San Antonio Spurs,16,12,28,1230233400.0,2009
+Phoenix Suns,Oklahoma City Thunder,Phoenix Suns,17,12,29,1230598800.0,2009
+Phoenix Suns,Memphis Grizzlies,Phoenix Suns,18,12,30,1230685200.0,2009
+Phoenix Suns,Phoenix Suns,Los Angeles Clippers,19,12,31,1230948000.0,2009
+Phoenix Suns,Phoenix Suns,Indiana Pacers,19,13,32,1231380000.0,2009
+Phoenix Suns,Phoenix Suns,Dallas Mavericks,20,13,33,1231558200.0,2009
+Phoenix Suns,Los Angeles Clippers,Phoenix Suns,21,13,34,1231705800.0,2009
+Phoenix Suns,Phoenix Suns,Atlanta Hawks,22,13,35,1231898400.0,2009
+Phoenix Suns,Denver Nuggets,Phoenix Suns,22,14,36,1232076600.0,2009
+Phoenix Suns,Phoenix Suns,Minnesota Timberwolves,22,15,37,1232157600.0,2009
+Phoenix Suns,Toronto Raptors,Phoenix Suns,23,15,38,1232299800.0,2009
+Phoenix Suns,Boston Celtics,Phoenix Suns,23,16,39,1232413200.0,2009
+Phoenix Suns,New York Knicks,Phoenix Suns,23,17,40,1232584200.0,2009
+Phoenix Suns,Charlotte Bobcats,Phoenix Suns,23,18,41,1232755200.0,2009
+Phoenix Suns,Atlanta Hawks,Phoenix Suns,24,18,42,1232924400.0,2009
+Phoenix Suns,Washington Wizards,Phoenix Suns,25,18,43,1233014400.0,2009
+Phoenix Suns,Phoenix Suns,San Antonio Spurs,25,19,44,1233286200.0,2009
+Phoenix Suns,Phoenix Suns,Chicago Bulls,25,20,45,1233453600.0,2009
+Phoenix Suns,Phoenix Suns,Sacramento Kings,26,20,46,1233626400.0,2009
+Phoenix Suns,Golden State Warriors,Phoenix Suns,26,21,47,1233804600.0,2009
+Phoenix Suns,Phoenix Suns,Golden State Warriors,27,21,48,1233977400.0,2009
+Phoenix Suns,Detroit Pistons,Phoenix Suns,28,21,49,1234141200.0,2009
+Phoenix Suns,Philadelphia 76ers,Phoenix Suns,28,22,50,1234224000.0,2009
+Phoenix Suns,Cleveland Cavaliers,Phoenix Suns,28,23,51,1234396800.0,2009
+Phoenix Suns,Phoenix Suns,Los Angeles Clippers,29,23,52,1234922400.0,2009
+Phoenix Suns,Los Angeles Clippers,Phoenix Suns,30,23,53,1235014200.0,2009
+Phoenix Suns,Phoenix Suns,Oklahoma City Thunder,31,23,54,1235181600.0,2009
+Phoenix Suns,Phoenix Suns,Boston Celtics,31,24,55,1235331000.0,2009
+Phoenix Suns,Phoenix Suns,Charlotte Bobcats,32,24,56,1235527200.0,2009
+Phoenix Suns,Los Angeles Lakers,Phoenix Suns,32,25,57,1235705400.0,2009
+Phoenix Suns,Phoenix Suns,Toronto Raptors,33,25,58,1235786400.0,2009
+Phoenix Suns,Phoenix Suns,Los Angeles Lakers,34,25,59,1235939400.0,2009
+Phoenix Suns,Orlando Magic,Phoenix Suns,34,26,60,1236124800.0,2009
+Phoenix Suns,Miami Heat,Phoenix Suns,34,27,61,1236213000.0,2009
+Phoenix Suns,Houston Rockets,Phoenix Suns,34,28,62,1236389400.0,2009
+Phoenix Suns,San Antonio Spurs,Phoenix Suns,34,29,63,1236540600.0,2009
+Phoenix Suns,Phoenix Suns,Dallas Mavericks,34,30,64,1236736800.0,2009
+Phoenix Suns,Phoenix Suns,Cleveland Cavaliers,34,31,65,1236911400.0,2009
+Phoenix Suns,Phoenix Suns,Oklahoma City Thunder,35,31,66,1237082400.0,2009
+Phoenix Suns,Golden State Warriors,Phoenix Suns,36,31,67,1237165200.0,2009
+Phoenix Suns,Phoenix Suns,Philadelphia 76ers,37,31,68,1237428000.0,2009
+Phoenix Suns,Phoenix Suns,Washington Wizards,38,31,69,1237687200.0,2009
+Phoenix Suns,Phoenix Suns,Denver Nuggets,39,31,70,1237860000.0,2009
+Phoenix Suns,Phoenix Suns,Utah Jazz,40,31,71,1238034600.0,2009
+Phoenix Suns,Portland Trail Blazers,Phoenix Suns,40,32,72,1238121000.0,2009
+Phoenix Suns,Utah Jazz,Phoenix Suns,40,33,73,1238288400.0,2009
+Phoenix Suns,Sacramento Kings,Phoenix Suns,40,34,74,1238374800.0,2009
+Phoenix Suns,Phoenix Suns,Houston Rockets,41,34,75,1238637600.0,2009
+Phoenix Suns,Phoenix Suns,Sacramento Kings,42,34,76,1238810400.0,2009
+Phoenix Suns,Dallas Mavericks,Phoenix Suns,42,35,77,1238959800.0,2009
+Phoenix Suns,New Orleans Hornets,Phoenix Suns,43,35,78,1239235200.0,2009
+Phoenix Suns,Memphis Grizzlies,Phoenix Suns,43,36,79,1239408000.0,2009
+Phoenix Suns,Minnesota Timberwolves,Phoenix Suns,44,36,80,1239494400.0,2009
+Phoenix Suns,Phoenix Suns,Memphis Grizzlies,45,36,81,1239674400.0,2009
+Phoenix Suns,Phoenix Suns,Golden State Warriors,46,36,82,1239849000.0,2009
+Portland Trail Blazers,Los Angeles Lakers,Portland Trail Blazers,0,1,1,1225247400.0,2009
+Portland Trail Blazers,Portland Trail Blazers,San Antonio Spurs,1,1,2,1225506600.0,2009
+Portland Trail Blazers,Phoenix Suns,Portland Trail Blazers,1,2,3,1225591200.0,2009
+Portland Trail Blazers,Utah Jazz,Portland Trail Blazers,1,3,4,1225936800.0,2009
+Portland Trail Blazers,Portland Trail Blazers,Houston Rockets,2,3,5,1226028600.0,2009
+Portland Trail Blazers,Portland Trail Blazers,Minnesota Timberwolves,3,3,6,1226199600.0,2009
+Portland Trail Blazers,Orlando Magic,Portland Trail Blazers,4,3,7,1226361600.0,2009
+Portland Trail Blazers,Miami Heat,Portland Trail Blazers,5,3,8,1226538000.0,2009
+Portland Trail Blazers,New Orleans Hornets,Portland Trail Blazers,5,4,9,1226710800.0,2009
+Portland Trail Blazers,Minnesota Timberwolves,Portland Trail Blazers,6,4,10,1226797200.0,2009
+Portland Trail Blazers,Golden State Warriors,Portland Trail Blazers,6,5,11,1227065400.0,2009
+Portland Trail Blazers,Portland Trail Blazers,Chicago Bulls,7,5,12,1227151800.0,2009
+Portland Trail Blazers,Sacramento Kings,Portland Trail Blazers,8,5,13,1227322800.0,2009
+Portland Trail Blazers,Phoenix Suns,Portland Trail Blazers,8,6,14,1227405600.0,2009
+Portland Trail Blazers,Portland Trail Blazers,Sacramento Kings,9,6,15,1227582000.0,2009
+Portland Trail Blazers,Portland Trail Blazers,Miami Heat,10,6,16,1227754800.0,2009
+Portland Trail Blazers,Portland Trail Blazers,New Orleans Hornets,11,6,17,1227927600.0,2009
+Portland Trail Blazers,Detroit Pistons,Portland Trail Blazers,12,6,18,1228075200.0,2009
+Portland Trail Blazers,New York Knicks,Portland Trail Blazers,13,6,19,1228264200.0,2009
+Portland Trail Blazers,Washington Wizards,Portland Trail Blazers,14,6,20,1228348800.0,2009
+Portland Trail Blazers,Boston Celtics,Portland Trail Blazers,14,7,21,1228525200.0,2009
+Portland Trail Blazers,Toronto Raptors,Portland Trail Blazers,15,7,22,1228672800.0,2009
+Portland Trail Blazers,Portland Trail Blazers,Orlando Magic,15,8,23,1228878000.0,2009
+Portland Trail Blazers,Utah Jazz,Portland Trail Blazers,15,9,24,1229052600.0,2009
+Portland Trail Blazers,Portland Trail Blazers,Los Angeles Clippers,15,10,25,1229137200.0,2009
+Portland Trail Blazers,Portland Trail Blazers,Sacramento Kings,16,10,26,1229482800.0,2009
+Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,17,10,27,1229657400.0,2009
+Portland Trail Blazers,Denver Nuggets,Portland Trail Blazers,17,11,28,1229997600.0,2009
+Portland Trail Blazers,Portland Trail Blazers,Denver Nuggets,18,11,29,1230087600.0,2009
+Portland Trail Blazers,Portland Trail Blazers,Dallas Mavericks,18,12,30,1230262200.0,2009
+Portland Trail Blazers,Portland Trail Blazers,Toronto Raptors,19,12,31,1230433200.0,2009
+Portland Trail Blazers,Portland Trail Blazers,Boston Celtics,20,12,32,1230692400.0,2009
+Portland Trail Blazers,Portland Trail Blazers,New Orleans Hornets,20,13,33,1230951600.0,2009
+Portland Trail Blazers,Los Angeles Lakers,Portland Trail Blazers,20,14,34,1231122600.0,2009
+Portland Trail Blazers,Portland Trail Blazers,Detroit Pistons,21,14,35,1231383600.0,2009
+Portland Trail Blazers,Portland Trail Blazers,Golden State Warriors,22,14,36,1231642800.0,2009
+Portland Trail Blazers,Chicago Bulls,Portland Trail Blazers,23,14,37,1231810200.0,2009
+Portland Trail Blazers,Philadelphia 76ers,Portland Trail Blazers,23,15,38,1231977600.0,2009
+Portland Trail Blazers,New Jersey Nets,Portland Trail Blazers,24,15,39,1232065800.0,2009
+Portland Trail Blazers,Charlotte Bobcats,Portland Trail Blazers,24,16,40,1232236800.0,2009
+Portland Trail Blazers,Portland Trail Blazers,Milwaukee Bucks,25,16,41,1232420400.0,2009
+Portland Trail Blazers,Portland Trail Blazers,Cleveland Cavaliers,25,17,42,1232593200.0,2009
+Portland Trail Blazers,Portland Trail Blazers,Washington Wizards,26,17,43,1232852400.0,2009
+Portland Trail Blazers,Los Angeles Clippers,Portland Trail Blazers,27,17,44,1233027000.0,2009
+Portland Trail Blazers,Portland Trail Blazers,Charlotte Bobcats,28,17,45,1233198000.0,2009
+Portland Trail Blazers,Portland Trail Blazers,Utah Jazz,29,17,46,1233457200.0,2009
+Portland Trail Blazers,New Orleans Hornets,Portland Trail Blazers,30,17,47,1233622800.0,2009
+Portland Trail Blazers,Dallas Mavericks,Portland Trail Blazers,30,18,48,1233797400.0,2009
+Portland Trail Blazers,Oklahoma City Thunder,Portland Trail Blazers,30,19,49,1233968400.0,2009
+Portland Trail Blazers,Portland Trail Blazers,New York Knicks,31,19,50,1234134000.0,2009
+Portland Trail Blazers,Portland Trail Blazers,Oklahoma City Thunder,32,19,51,1234407600.0,2009
+Portland Trail Blazers,Golden State Warriors,Portland Trail Blazers,32,20,52,1234495800.0,2009
+Portland Trail Blazers,Portland Trail Blazers,Memphis Grizzlies,33,20,53,1235012400.0,2009
+Portland Trail Blazers,Portland Trail Blazers,Atlanta Hawks,34,20,54,1235185200.0,2009
+Portland Trail Blazers,Portland Trail Blazers,Los Angeles Clippers,35,20,55,1235343600.0,2009
+Portland Trail Blazers,Houston Rockets,Portland Trail Blazers,35,21,56,1235525400.0,2009
+Portland Trail Blazers,San Antonio Spurs,Portland Trail Blazers,35,22,57,1235611800.0,2009
+Portland Trail Blazers,Minnesota Timberwolves,Portland Trail Blazers,36,22,58,1235782800.0,2009
+Portland Trail Blazers,Portland Trail Blazers,San Antonio Spurs,37,22,59,1235955600.0,2009
+Portland Trail Blazers,Portland Trail Blazers,Indiana Pacers,38,22,60,1236222000.0,2009
+Portland Trail Blazers,Denver Nuggets,Portland Trail Blazers,38,23,61,1236310200.0,2009
+Portland Trail Blazers,Portland Trail Blazers,Minnesota Timberwolves,39,23,62,1236481200.0,2009
+Portland Trail Blazers,Portland Trail Blazers,Los Angeles Lakers,40,23,63,1236650400.0,2009
+Portland Trail Blazers,Portland Trail Blazers,Dallas Mavericks,40,24,64,1236823200.0,2009
+Portland Trail Blazers,Portland Trail Blazers,New Jersey Nets,41,24,65,1236996000.0,2009
+Portland Trail Blazers,Atlanta Hawks,Portland Trail Blazers,41,25,66,1237136400.0,2009
+Portland Trail Blazers,Memphis Grizzlies,Portland Trail Blazers,42,25,67,1237248000.0,2009
+Portland Trail Blazers,Indiana Pacers,Portland Trail Blazers,43,25,68,1237417200.0,2009
+Portland Trail Blazers,Cleveland Cavaliers,Portland Trail Blazers,43,26,69,1237507200.0,2009
+Portland Trail Blazers,Milwaukee Bucks,Portland Trail Blazers,44,26,70,1237681800.0,2009
+Portland Trail Blazers,Portland Trail Blazers,Philadelphia 76ers,44,27,71,1237860000.0,2009
+Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,45,27,72,1238121000.0,2009
+Portland Trail Blazers,Portland Trail Blazers,Memphis Grizzlies,46,27,73,1238292000.0,2009
+Portland Trail Blazers,Portland Trail Blazers,Utah Jazz,47,27,74,1238551200.0,2009
+Portland Trail Blazers,Oklahoma City Thunder,Portland Trail Blazers,48,27,75,1238803200.0,2009
+Portland Trail Blazers,Houston Rockets,Portland Trail Blazers,48,28,76,1238972400.0,2009
+Portland Trail Blazers,Memphis Grizzlies,Portland Trail Blazers,49,28,77,1239148800.0,2009
+Portland Trail Blazers,San Antonio Spurs,Portland Trail Blazers,50,28,78,1239231600.0,2009
+Portland Trail Blazers,Portland Trail Blazers,Los Angeles Lakers,51,28,79,1239415200.0,2009
+Portland Trail Blazers,Los Angeles Clippers,Portland Trail Blazers,52,28,80,1239503400.0,2009
+Portland Trail Blazers,Portland Trail Blazers,Oklahoma City Thunder,53,28,81,1239674400.0,2009
+Portland Trail Blazers,Portland Trail Blazers,Denver Nuggets,54,28,82,1239849000.0,2009
+Sacramento Kings,Minnesota Timberwolves,Sacramento Kings,0,1,1,1225324800.0,2009
+Sacramento Kings,Miami Heat,Sacramento Kings,0,2,2,1225495800.0,2009
+Sacramento Kings,Orlando Magic,Sacramento Kings,0,3,3,1225580400.0,2009
+Sacramento Kings,Philadelphia 76ers,Sacramento Kings,0,4,4,1225756800.0,2009
+Sacramento Kings,Sacramento Kings,Memphis Grizzlies,1,4,5,1225940400.0,2009
+Sacramento Kings,Sacramento Kings,Minnesota Timberwolves,2,4,6,1226113200.0,2009
+Sacramento Kings,Sacramento Kings,Golden State Warriors,3,4,7,1226282400.0,2009
+Sacramento Kings,Sacramento Kings,Detroit Pistons,3,5,8,1226458800.0,2009
+Sacramento Kings,Los Angeles Clippers,Sacramento Kings,4,5,9,1226547000.0,2009
+Sacramento Kings,Sacramento Kings,Phoenix Suns,4,6,10,1226718000.0,2009
+Sacramento Kings,Sacramento Kings,San Antonio Spurs,4,7,11,1226887200.0,2009
+Sacramento Kings,Memphis Grizzlies,Sacramento Kings,4,8,12,1227056400.0,2009
+Sacramento Kings,New Orleans Hornets,Sacramento Kings,5,8,13,1227142800.0,2009
+Sacramento Kings,Sacramento Kings,Portland Trail Blazers,5,9,14,1227322800.0,2009
+Sacramento Kings,Los Angeles Lakers,Sacramento Kings,5,10,15,1227493800.0,2009
+Sacramento Kings,Portland Trail Blazers,Sacramento Kings,5,11,16,1227582000.0,2009
+Sacramento Kings,Sacramento Kings,New Jersey Nets,5,12,17,1227754800.0,2009
+Sacramento Kings,Utah Jazz,Sacramento Kings,5,13,18,1227924000.0,2009
+Sacramento Kings,Sacramento Kings,Dallas Mavericks,5,14,19,1228014000.0,2009
+Sacramento Kings,Sacramento Kings,Utah Jazz,5,15,20,1228273200.0,2009
+Sacramento Kings,Sacramento Kings,Denver Nuggets,5,16,21,1228618800.0,2009
+Sacramento Kings,Sacramento Kings,Los Angeles Lakers,6,16,22,1228878000.0,2009
+Sacramento Kings,Los Angeles Lakers,Sacramento Kings,6,17,23,1229139000.0,2009
+Sacramento Kings,Sacramento Kings,New York Knicks,6,18,24,1229223600.0,2009
+Sacramento Kings,Sacramento Kings,Minnesota Timberwolves,7,18,25,1229396400.0,2009
+Sacramento Kings,Portland Trail Blazers,Sacramento Kings,7,19,26,1229482800.0,2009
+Sacramento Kings,Houston Rockets,Sacramento Kings,7,20,27,1229736600.0,2009
+Sacramento Kings,New Orleans Hornets,Sacramento Kings,7,21,28,1229821200.0,2009
+Sacramento Kings,San Antonio Spurs,Sacramento Kings,7,22,29,1229995800.0,2009
+Sacramento Kings,Sacramento Kings,Toronto Raptors,7,23,30,1230346800.0,2009
+Sacramento Kings,Sacramento Kings,Boston Celtics,7,24,31,1230516000.0,2009
+Sacramento Kings,Sacramento Kings,Los Angeles Clippers,8,24,32,1230692400.0,2009
+Sacramento Kings,Detroit Pistons,Sacramento Kings,8,25,33,1230944400.0,2009
+Sacramento Kings,Indiana Pacers,Sacramento Kings,8,26,34,1231023600.0,2009
+Sacramento Kings,New Jersey Nets,Sacramento Kings,8,27,35,1231201800.0,2009
+Sacramento Kings,Chicago Bulls,Sacramento Kings,8,28,36,1231291800.0,2009
+Sacramento Kings,Sacramento Kings,Miami Heat,8,29,37,1231556400.0,2009
+Sacramento Kings,Sacramento Kings,Dallas Mavericks,9,29,38,1231725600.0,2009
+Sacramento Kings,Sacramento Kings,Orlando Magic,9,30,39,1231902000.0,2009
+Sacramento Kings,Golden State Warriors,Sacramento Kings,10,30,40,1231990200.0,2009
+Sacramento Kings,Sacramento Kings,Milwaukee Bucks,10,31,41,1232161200.0,2009
+Sacramento Kings,Denver Nuggets,Sacramento Kings,10,32,42,1232503200.0,2009
+Sacramento Kings,Sacramento Kings,Washington Wizards,10,33,43,1232593200.0,2009
+Sacramento Kings,Milwaukee Bucks,Sacramento Kings,10,34,44,1232847000.0,2009
+Sacramento Kings,Toronto Raptors,Sacramento Kings,10,35,45,1232924400.0,2009
+Sacramento Kings,Cleveland Cavaliers,Sacramento Kings,10,36,46,1233100800.0,2009
+Sacramento Kings,Boston Celtics,Sacramento Kings,10,37,47,1233189000.0,2009
+Sacramento Kings,Sacramento Kings,Chicago Bulls,10,38,48,1233370800.0,2009
+Sacramento Kings,Sacramento Kings,Oklahoma City Thunder,11,38,49,1233518400.0,2009
+Sacramento Kings,Phoenix Suns,Sacramento Kings,11,39,50,1233626400.0,2009
+Sacramento Kings,Sacramento Kings,Utah Jazz,11,40,51,1233975600.0,2009
+Sacramento Kings,Oklahoma City Thunder,Sacramento Kings,11,41,52,1234137600.0,2009
+Sacramento Kings,Dallas Mavericks,Sacramento Kings,11,42,53,1234315800.0,2009
+Sacramento Kings,Houston Rockets,Sacramento Kings,11,43,54,1234402200.0,2009
+Sacramento Kings,Sacramento Kings,Atlanta Hawks,11,44,55,1235012400.0,2009
+Sacramento Kings,Memphis Grizzlies,Sacramento Kings,12,44,56,1235178000.0,2009
+Sacramento Kings,Dallas Mavericks,Sacramento Kings,12,45,57,1235268000.0,2009
+Sacramento Kings,Sacramento Kings,New Orleans Hornets,12,46,58,1235444400.0,2009
+Sacramento Kings,Sacramento Kings,Charlotte Bobcats,12,47,59,1235617200.0,2009
+Sacramento Kings,Sacramento Kings,Los Angeles Clippers,13,47,60,1235790000.0,2009
+Sacramento Kings,Utah Jazz,Sacramento Kings,13,48,61,1235872800.0,2009
+Sacramento Kings,Sacramento Kings,Indiana Pacers,13,49,62,1236135600.0,2009
+Sacramento Kings,Sacramento Kings,Denver Nuggets,14,49,63,1236560400.0,2009
+Sacramento Kings,Sacramento Kings,Oklahoma City Thunder,14,50,64,1236736800.0,2009
+Sacramento Kings,Sacramento Kings,Cleveland Cavaliers,14,51,65,1236996000.0,2009
+Sacramento Kings,Washington Wizards,Sacramento Kings,14,52,66,1237154400.0,2009
+Sacramento Kings,Atlanta Hawks,Sacramento Kings,14,53,67,1237330800.0,2009
+Sacramento Kings,Charlotte Bobcats,Sacramento Kings,14,54,68,1237417200.0,2009
+Sacramento Kings,New York Knicks,Sacramento Kings,15,54,69,1237591800.0,2009
+Sacramento Kings,Sacramento Kings,Philadelphia 76ers,15,55,70,1237770000.0,2009
+Sacramento Kings,Sacramento Kings,Memphis Grizzlies,15,56,71,1238205600.0,2009
+Sacramento Kings,Sacramento Kings,Phoenix Suns,16,56,72,1238374800.0,2009
+Sacramento Kings,Sacramento Kings,New Orleans Hornets,16,57,73,1238551200.0,2009
+Sacramento Kings,Golden State Warriors,Sacramento Kings,16,58,74,1238639400.0,2009
+Sacramento Kings,Phoenix Suns,Sacramento Kings,16,59,75,1238810400.0,2009
+Sacramento Kings,Sacramento Kings,Golden State Warriors,16,60,76,1238979600.0,2009
+Sacramento Kings,Sacramento Kings,Los Angeles Lakers,16,61,77,1239156000.0,2009
+Sacramento Kings,Sacramento Kings,Houston Rockets,16,62,78,1239328800.0,2009
+Sacramento Kings,Los Angeles Clippers,Sacramento Kings,16,63,79,1239417000.0,2009
+Sacramento Kings,Sacramento Kings,San Antonio Spurs,16,64,80,1239584400.0,2009
+Sacramento Kings,Denver Nuggets,Sacramento Kings,16,65,81,1239670800.0,2009
+Sacramento Kings,Minnesota Timberwolves,Sacramento Kings,17,65,82,1239840000.0,2009
+San Antonio Spurs,San Antonio Spurs,Phoenix Suns,0,1,1,1225324800.0,2009
+San Antonio Spurs,Portland Trail Blazers,San Antonio Spurs,0,2,2,1225506600.0,2009
+San Antonio Spurs,San Antonio Spurs,Dallas Mavericks,0,3,3,1225848600.0,2009
+San Antonio Spurs,Minnesota Timberwolves,San Antonio Spurs,1,3,4,1225933200.0,2009
+San Antonio Spurs,San Antonio Spurs,Miami Heat,1,4,5,1226106000.0,2009
+San Antonio Spurs,San Antonio Spurs,New York Knicks,2,4,6,1226453400.0,2009
+San Antonio Spurs,Milwaukee Bucks,San Antonio Spurs,2,5,7,1226538000.0,2009
+San Antonio Spurs,San Antonio Spurs,Houston Rockets,3,5,8,1226712600.0,2009
+San Antonio Spurs,Sacramento Kings,San Antonio Spurs,4,5,9,1226887200.0,2009
+San Antonio Spurs,Los Angeles Clippers,San Antonio Spurs,5,5,10,1226979000.0,2009
+San Antonio Spurs,San Antonio Spurs,Denver Nuggets,5,6,11,1227144600.0,2009
+San Antonio Spurs,San Antonio Spurs,Utah Jazz,6,6,12,1227317400.0,2009
+San Antonio Spurs,Memphis Grizzlies,San Antonio Spurs,7,6,13,1227574800.0,2009
+San Antonio Spurs,San Antonio Spurs,Chicago Bulls,8,6,14,1227749400.0,2009
+San Antonio Spurs,San Antonio Spurs,Memphis Grizzlies,9,6,15,1227922200.0,2009
+San Antonio Spurs,Houston Rockets,San Antonio Spurs,9,7,16,1228008600.0,2009
+San Antonio Spurs,San Antonio Spurs,Detroit Pistons,9,8,17,1228267800.0,2009
+San Antonio Spurs,Denver Nuggets,San Antonio Spurs,10,8,18,1228447800.0,2009
+San Antonio Spurs,San Antonio Spurs,Golden State Warriors,11,8,19,1228613400.0,2009
+San Antonio Spurs,Dallas Mavericks,San Antonio Spurs,12,8,20,1228872600.0,2009
+San Antonio Spurs,San Antonio Spurs,Atlanta Hawks,13,8,21,1228959000.0,2009
+San Antonio Spurs,Minnesota Timberwolves,San Antonio Spurs,14,8,22,1229130000.0,2009
+San Antonio Spurs,San Antonio Spurs,Oklahoma City Thunder,15,8,23,1229299200.0,2009
+San Antonio Spurs,New Orleans Hornets,San Antonio Spurs,15,9,24,1229567400.0,2009
+San Antonio Spurs,Orlando Magic,San Antonio Spurs,15,10,25,1229648400.0,2009
+San Antonio Spurs,San Antonio Spurs,Toronto Raptors,16,10,26,1229823000.0,2009
+San Antonio Spurs,San Antonio Spurs,Sacramento Kings,17,10,27,1229995800.0,2009
+San Antonio Spurs,San Antonio Spurs,Minnesota Timberwolves,18,10,28,1230082200.0,2009
+San Antonio Spurs,Phoenix Suns,San Antonio Spurs,19,10,29,1230233400.0,2009
+San Antonio Spurs,San Antonio Spurs,Memphis Grizzlies,20,10,30,1230427800.0,2009
+San Antonio Spurs,San Antonio Spurs,Milwaukee Bucks,20,11,31,1230687000.0,2009
+San Antonio Spurs,Memphis Grizzlies,San Antonio Spurs,21,11,32,1230944400.0,2009
+San Antonio Spurs,San Antonio Spurs,Philadelphia 76ers,22,11,33,1231032600.0,2009
+San Antonio Spurs,Miami Heat,San Antonio Spurs,23,11,34,1231201800.0,2009
+San Antonio Spurs,San Antonio Spurs,Los Angeles Clippers,24,11,35,1231464600.0,2009
+San Antonio Spurs,San Antonio Spurs,Orlando Magic,24,12,36,1231723800.0,2009
+San Antonio Spurs,San Antonio Spurs,Los Angeles Lakers,25,12,37,1231984800.0,2009
+San Antonio Spurs,Philadelphia 76ers,San Antonio Spurs,25,13,38,1232150400.0,2009
+San Antonio Spurs,Chicago Bulls,San Antonio Spurs,26,13,39,1232242200.0,2009
+San Antonio Spurs,Charlotte Bobcats,San Antonio Spurs,27,13,40,1232391600.0,2009
+San Antonio Spurs,San Antonio Spurs,Indiana Pacers,28,13,41,1232501400.0,2009
+San Antonio Spurs,San Antonio Spurs,New Jersey Nets,29,13,42,1232760600.0,2009
+San Antonio Spurs,Los Angeles Lakers,San Antonio Spurs,29,14,43,1232915400.0,2009
+San Antonio Spurs,Utah Jazz,San Antonio Spurs,30,14,44,1233108000.0,2009
+San Antonio Spurs,Phoenix Suns,San Antonio Spurs,31,14,45,1233286200.0,2009
+San Antonio Spurs,San Antonio Spurs,New Orleans Hornets,32,14,46,1233451800.0,2009
+San Antonio Spurs,Golden State Warriors,San Antonio Spurs,33,14,47,1233631800.0,2009
+San Antonio Spurs,Denver Nuggets,San Antonio Spurs,33,15,48,1233712800.0,2009
+San Antonio Spurs,Boston Celtics,San Antonio Spurs,34,15,49,1234116000.0,2009
+San Antonio Spurs,New Jersey Nets,San Antonio Spurs,35,15,50,1234312200.0,2009
+San Antonio Spurs,Toronto Raptors,San Antonio Spurs,35,16,51,1234396800.0,2009
+San Antonio Spurs,New York Knicks,San Antonio Spurs,35,17,52,1234917000.0,2009
+San Antonio Spurs,Detroit Pistons,San Antonio Spurs,36,17,53,1235091600.0,2009
+San Antonio Spurs,Washington Wizards,San Antonio Spurs,37,17,54,1235264400.0,2009
+San Antonio Spurs,San Antonio Spurs,Dallas Mavericks,38,17,55,1235525400.0,2009
+San Antonio Spurs,San Antonio Spurs,Portland Trail Blazers,39,17,56,1235611800.0,2009
+San Antonio Spurs,San Antonio Spurs,Cleveland Cavaliers,39,18,57,1235788200.0,2009
+San Antonio Spurs,Portland Trail Blazers,San Antonio Spurs,39,19,58,1235955600.0,2009
+San Antonio Spurs,Los Angeles Clippers,San Antonio Spurs,40,19,59,1236051000.0,2009
+San Antonio Spurs,Dallas Mavericks,San Antonio Spurs,40,20,60,1236218400.0,2009
+San Antonio Spurs,San Antonio Spurs,Washington Wizards,41,20,61,1236389400.0,2009
+San Antonio Spurs,San Antonio Spurs,Phoenix Suns,42,20,62,1236540600.0,2009
+San Antonio Spurs,San Antonio Spurs,Charlotte Bobcats,43,20,63,1236731400.0,2009
+San Antonio Spurs,San Antonio Spurs,Los Angeles Lakers,43,21,64,1236902400.0,2009
+San Antonio Spurs,Houston Rockets,San Antonio Spurs,44,21,65,1237077000.0,2009
+San Antonio Spurs,Oklahoma City Thunder,San Antonio Spurs,44,22,66,1237248000.0,2009
+San Antonio Spurs,San Antonio Spurs,Minnesota Timberwolves,45,22,67,1237336200.0,2009
+San Antonio Spurs,San Antonio Spurs,Boston Celtics,45,23,68,1237595400.0,2009
+San Antonio Spurs,San Antonio Spurs,Houston Rockets,45,24,69,1237750200.0,2009
+San Antonio Spurs,San Antonio Spurs,Golden State Warriors,46,24,70,1237941000.0,2009
+San Antonio Spurs,Atlanta Hawks,San Antonio Spurs,47,24,71,1238022000.0,2009
+San Antonio Spurs,San Antonio Spurs,Los Angeles Clippers,48,24,72,1238200200.0,2009
+San Antonio Spurs,New Orleans Hornets,San Antonio Spurs,48,25,73,1238371200.0,2009
+San Antonio Spurs,San Antonio Spurs,Oklahoma City Thunder,48,26,74,1238545800.0,2009
+San Antonio Spurs,Indiana Pacers,San Antonio Spurs,49,26,75,1238799600.0,2009
+San Antonio Spurs,Cleveland Cavaliers,San Antonio Spurs,49,27,76,1238950800.0,2009
+San Antonio Spurs,Oklahoma City Thunder,San Antonio Spurs,50,27,77,1239148800.0,2009
+San Antonio Spurs,San Antonio Spurs,Portland Trail Blazers,50,28,78,1239231600.0,2009
+San Antonio Spurs,San Antonio Spurs,Utah Jazz,51,28,79,1239409800.0,2009
+San Antonio Spurs,Sacramento Kings,San Antonio Spurs,52,28,80,1239584400.0,2009
+San Antonio Spurs,Golden State Warriors,San Antonio Spurs,53,28,81,1239676200.0,2009
+San Antonio Spurs,San Antonio Spurs,New Orleans Hornets,54,28,82,1239840000.0,2009
+Toronto Raptors,Philadelphia 76ers,Toronto Raptors,1,0,1,1225317600.0,2009
+Toronto Raptors,Toronto Raptors,Golden State Warriors,2,0,2,1225494000.0,2009
+Toronto Raptors,Milwaukee Bucks,Toronto Raptors,3,0,3,1225585800.0,2009
+Toronto Raptors,Toronto Raptors,Detroit Pistons,3,1,4,1225929600.0,2009
+Toronto Raptors,Atlanta Hawks,Toronto Raptors,3,2,5,1226104200.0,2009
+Toronto Raptors,Charlotte Bobcats,Toronto Raptors,4,2,6,1226253600.0,2009
+Toronto Raptors,Boston Celtics,Toronto Raptors,4,3,7,1226363400.0,2009
+Toronto Raptors,Toronto Raptors,Philadelphia 76ers,4,4,8,1226534400.0,2009
+Toronto Raptors,Toronto Raptors,Miami Heat,5,4,9,1226858400.0,2009
+Toronto Raptors,Orlando Magic,Toronto Raptors,5,5,10,1227052800.0,2009
+Toronto Raptors,Miami Heat,Toronto Raptors,6,5,11,1227141000.0,2009
+Toronto Raptors,Toronto Raptors,New Jersey Nets,6,6,12,1227312000.0,2009
+Toronto Raptors,Toronto Raptors,Boston Celtics,6,7,13,1227461400.0,2009
+Toronto Raptors,Toronto Raptors,Charlotte Bobcats,7,7,14,1227744000.0,2009
+Toronto Raptors,Toronto Raptors,Atlanta Hawks,8,7,15,1227916800.0,2009
+Toronto Raptors,Los Angeles Lakers,Toronto Raptors,8,8,16,1228098600.0,2009
+Toronto Raptors,Denver Nuggets,Toronto Raptors,8,9,17,1228269600.0,2009
+Toronto Raptors,Utah Jazz,Toronto Raptors,8,10,18,1228534200.0,2009
+Toronto Raptors,Toronto Raptors,Portland Trail Blazers,8,11,19,1228672800.0,2009
+Toronto Raptors,Cleveland Cavaliers,Toronto Raptors,8,12,20,1228867200.0,2009
+Toronto Raptors,Toronto Raptors,Indiana Pacers,9,12,21,1228953600.0,2009
+Toronto Raptors,New Jersey Nets,Toronto Raptors,10,12,22,1229128200.0,2009
+Toronto Raptors,Toronto Raptors,New Orleans Hornets,10,13,23,1229275800.0,2009
+Toronto Raptors,Toronto Raptors,New Jersey Nets,10,14,24,1229385600.0,2009
+Toronto Raptors,Toronto Raptors,Dallas Mavericks,10,15,25,1229558400.0,2009
+Toronto Raptors,Oklahoma City Thunder,Toronto Raptors,10,16,26,1229734800.0,2009
+Toronto Raptors,San Antonio Spurs,Toronto Raptors,10,17,27,1229823000.0,2009
+Toronto Raptors,Los Angeles Clippers,Toronto Raptors,11,17,28,1230003000.0,2009
+Toronto Raptors,Sacramento Kings,Toronto Raptors,12,17,29,1230346800.0,2009
+Toronto Raptors,Portland Trail Blazers,Toronto Raptors,12,18,30,1230433200.0,2009
+Toronto Raptors,Golden State Warriors,Toronto Raptors,12,19,31,1230607800.0,2009
+Toronto Raptors,Toronto Raptors,Denver Nuggets,12,20,32,1230768000.0,2009
+Toronto Raptors,Toronto Raptors,Houston Rockets,13,20,33,1230940800.0,2009
+Toronto Raptors,Toronto Raptors,Orlando Magic,14,20,34,1231090200.0,2009
+Toronto Raptors,Milwaukee Bucks,Toronto Raptors,14,21,35,1231203600.0,2009
+Toronto Raptors,Washington Wizards,Toronto Raptors,15,21,36,1231372800.0,2009
+Toronto Raptors,Toronto Raptors,Memphis Grizzlies,16,21,37,1231545600.0,2009
+Toronto Raptors,Toronto Raptors,Boston Celtics,16,22,38,1231695000.0,2009
+Toronto Raptors,Boston Celtics,Toronto Raptors,16,23,39,1231806600.0,2009
+Toronto Raptors,Toronto Raptors,Chicago Bulls,16,24,40,1231977600.0,2009
+Toronto Raptors,Indiana Pacers,Toronto Raptors,16,25,41,1232150400.0,2009
+Toronto Raptors,Toronto Raptors,Phoenix Suns,16,26,42,1232299800.0,2009
+Toronto Raptors,Atlanta Hawks,Toronto Raptors,16,27,43,1232391600.0,2009
+Toronto Raptors,Detroit Pistons,Toronto Raptors,16,28,44,1232584200.0,2009
+Toronto Raptors,Chicago Bulls,Toronto Raptors,17,28,45,1232760600.0,2009
+Toronto Raptors,Toronto Raptors,Sacramento Kings,18,28,46,1232924400.0,2009
+Toronto Raptors,New Jersey Nets,Toronto Raptors,19,28,47,1233189000.0,2009
+Toronto Raptors,Toronto Raptors,Milwaukee Bucks,19,29,48,1233360000.0,2009
+Toronto Raptors,Toronto Raptors,Orlando Magic,19,30,49,1233507600.0,2009
+Toronto Raptors,Cleveland Cavaliers,Toronto Raptors,19,31,50,1233705600.0,2009
+Toronto Raptors,Toronto Raptors,Los Angeles Lakers,19,32,51,1233792000.0,2009
+Toronto Raptors,New Orleans Hornets,Toronto Raptors,19,33,52,1233968400.0,2009
+Toronto Raptors,Memphis Grizzlies,Toronto Raptors,19,34,53,1234054800.0,2009
+Toronto Raptors,Minnesota Timberwolves,Toronto Raptors,20,34,54,1234314000.0,2009
+Toronto Raptors,Toronto Raptors,San Antonio Spurs,21,34,55,1234396800.0,2009
+Toronto Raptors,Toronto Raptors,Cleveland Cavaliers,21,35,56,1235001600.0,2009
+Toronto Raptors,New York Knicks,Toronto Raptors,21,36,57,1235176200.0,2009
+Toronto Raptors,Toronto Raptors,New York Knicks,22,36,58,1235322000.0,2009
+Toronto Raptors,Toronto Raptors,Minnesota Timberwolves,23,36,59,1235520000.0,2009
+Toronto Raptors,Phoenix Suns,Toronto Raptors,23,37,60,1235786400.0,2009
+Toronto Raptors,Dallas Mavericks,Toronto Raptors,23,38,61,1235959200.0,2009
+Toronto Raptors,Houston Rockets,Toronto Raptors,23,39,62,1236130200.0,2009
+Toronto Raptors,Toronto Raptors,Miami Heat,23,40,63,1236384000.0,2009
+Toronto Raptors,Toronto Raptors,Utah Jazz,23,41,64,1236529800.0,2009
+Toronto Raptors,Philadelphia 76ers,Toronto Raptors,23,42,65,1236812400.0,2009
+Toronto Raptors,Toronto Raptors,Detroit Pistons,23,43,66,1236985200.0,2009
+Toronto Raptors,Toronto Raptors,Indiana Pacers,24,43,67,1237134600.0,2009
+Toronto Raptors,Charlotte Bobcats,Toronto Raptors,24,44,68,1237244400.0,2009
+Toronto Raptors,Toronto Raptors,Charlotte Bobcats,24,45,69,1237590000.0,2009
+Toronto Raptors,Toronto Raptors,Los Angeles Clippers,25,45,70,1237750200.0,2009
+Toronto Raptors,Toronto Raptors,Milwaukee Bucks,26,45,71,1238022000.0,2009
+Toronto Raptors,Toronto Raptors,Oklahoma City Thunder,27,45,72,1238194800.0,2009
+Toronto Raptors,Toronto Raptors,Chicago Bulls,28,45,73,1238355000.0,2009
+Toronto Raptors,Orlando Magic,Toronto Raptors,29,45,74,1238626800.0,2009
+Toronto Raptors,New York Knicks,Toronto Raptors,30,45,75,1238864400.0,2009
+Toronto Raptors,Toronto Raptors,New York Knicks,30,46,76,1238968800.0,2009
+Toronto Raptors,Toronto Raptors,Atlanta Hawks,30,47,77,1239145200.0,2009
+Toronto Raptors,Indiana Pacers,Toronto Raptors,30,48,78,1239231600.0,2009
+Toronto Raptors,Toronto Raptors,Washington Wizards,30,49,79,1239408000.0,2009
+Toronto Raptors,Toronto Raptors,Philadelphia 76ers,31,49,80,1239573600.0,2009
+Toronto Raptors,Washington Wizards,Toronto Raptors,32,49,81,1239663600.0,2009
+Toronto Raptors,Chicago Bulls,Toronto Raptors,33,49,82,1239840000.0,2009
+Utah Jazz,Utah Jazz,Denver Nuggets,1,0,1,1225328400.0,2009
+Utah Jazz,Utah Jazz,Los Angeles Clippers,2,0,2,1225587600.0,2009
+Utah Jazz,Los Angeles Clippers,Utah Jazz,3,0,3,1225769400.0,2009
+Utah Jazz,Utah Jazz,Portland Trail Blazers,4,0,4,1225936800.0,2009
+Utah Jazz,Utah Jazz,Oklahoma City Thunder,5,0,5,1226109600.0,2009
+Utah Jazz,New York Knicks,Utah Jazz,5,1,6,1226260800.0,2009
+Utah Jazz,Philadelphia 76ers,Utah Jazz,6,1,7,1226448000.0,2009
+Utah Jazz,Washington Wizards,Utah Jazz,6,2,8,1226538000.0,2009
+Utah Jazz,Charlotte Bobcats,Utah Jazz,6,3,9,1226707200.0,2009
+Utah Jazz,Cleveland Cavaliers,Utah Jazz,6,4,10,1226795400.0,2009
+Utah Jazz,Utah Jazz,Phoenix Suns,7,4,11,1226973600.0,2009
+Utah Jazz,Utah Jazz,Milwaukee Bucks,8,4,12,1227146400.0,2009
+Utah Jazz,San Antonio Spurs,Utah Jazz,8,5,13,1227317400.0,2009
+Utah Jazz,Memphis Grizzlies,Utah Jazz,9,5,14,1227402000.0,2009
+Utah Jazz,Utah Jazz,Chicago Bulls,9,6,15,1227578400.0,2009
+Utah Jazz,Utah Jazz,Memphis Grizzlies,10,6,16,1227751200.0,2009
+Utah Jazz,Utah Jazz,Sacramento Kings,11,6,17,1227924000.0,2009
+Utah Jazz,Utah Jazz,New Jersey Nets,11,7,18,1228010400.0,2009
+Utah Jazz,Sacramento Kings,Utah Jazz,12,7,19,1228273200.0,2009
+Utah Jazz,Utah Jazz,Miami Heat,12,8,20,1228356000.0,2009
+Utah Jazz,Utah Jazz,Toronto Raptors,13,8,21,1228534200.0,2009
+Utah Jazz,Phoenix Suns,Utah Jazz,13,9,22,1228615200.0,2009
+Utah Jazz,Minnesota Timberwolves,Utah Jazz,14,9,23,1228870800.0,2009
+Utah Jazz,Utah Jazz,Portland Trail Blazers,15,9,24,1229052600.0,2009
+Utah Jazz,Utah Jazz,Orlando Magic,15,10,25,1229220000.0,2009
+Utah Jazz,Boston Celtics,Utah Jazz,15,11,26,1229387400.0,2009
+Utah Jazz,New Jersey Nets,Utah Jazz,16,11,27,1229560200.0,2009
+Utah Jazz,Detroit Pistons,Utah Jazz,17,11,28,1229734800.0,2009
+Utah Jazz,Chicago Bulls,Utah Jazz,17,12,29,1229823000.0,2009
+Utah Jazz,Milwaukee Bucks,Utah Jazz,17,13,30,1230080400.0,2009
+Utah Jazz,Utah Jazz,Dallas Mavericks,18,13,31,1230343200.0,2009
+Utah Jazz,Houston Rockets,Utah Jazz,18,14,32,1230427800.0,2009
+Utah Jazz,Utah Jazz,Philadelphia 76ers,19,14,33,1230602400.0,2009
+Utah Jazz,Los Angeles Lakers,Utah Jazz,19,15,34,1230953400.0,2009
+Utah Jazz,Utah Jazz,Golden State Warriors,20,15,35,1231207200.0,2009
+Utah Jazz,Utah Jazz,New Orleans Hornets,21,15,36,1231380000.0,2009
+Utah Jazz,Utah Jazz,Detroit Pistons,22,15,37,1231639200.0,2009
+Utah Jazz,Utah Jazz,Indiana Pacers,23,15,38,1231812000.0,2009
+Utah Jazz,Oklahoma City Thunder,Utah Jazz,23,16,39,1231981200.0,2009
+Utah Jazz,Memphis Grizzlies,Utah Jazz,24,16,40,1232154000.0,2009
+Utah Jazz,Dallas Mavericks,Utah Jazz,24,17,41,1232244000.0,2009
+Utah Jazz,Utah Jazz,Minnesota Timberwolves,25,17,42,1232503200.0,2009
+Utah Jazz,Houston Rockets,Utah Jazz,25,18,43,1232587800.0,2009
+Utah Jazz,Utah Jazz,Cleveland Cavaliers,25,19,44,1232848800.0,2009
+Utah Jazz,Denver Nuggets,Utah Jazz,25,20,45,1232931600.0,2009
+Utah Jazz,Utah Jazz,San Antonio Spurs,25,21,46,1233108000.0,2009
+Utah Jazz,Utah Jazz,Oklahoma City Thunder,26,21,47,1233367200.0,2009
+Utah Jazz,Portland Trail Blazers,Utah Jazz,26,22,48,1233457200.0,2009
+Utah Jazz,Utah Jazz,Charlotte Bobcats,27,22,49,1233626400.0,2009
+Utah Jazz,Utah Jazz,Dallas Mavericks,28,22,50,1233891000.0,2009
+Utah Jazz,Sacramento Kings,Utah Jazz,29,22,51,1233975600.0,2009
+Utah Jazz,Golden State Warriors,Utah Jazz,29,23,52,1234144800.0,2009
+Utah Jazz,Utah Jazz,Los Angeles Lakers,30,23,53,1234404000.0,2009
+Utah Jazz,Utah Jazz,Memphis Grizzlies,31,23,54,1234922400.0,2009
+Utah Jazz,Utah Jazz,Boston Celtics,32,23,55,1235100600.0,2009
+Utah Jazz,Utah Jazz,New Orleans Hornets,33,23,56,1235268000.0,2009
+Utah Jazz,Utah Jazz,Atlanta Hawks,34,23,57,1235440800.0,2009
+Utah Jazz,Minnesota Timberwolves,Utah Jazz,35,23,58,1235610000.0,2009
+Utah Jazz,Utah Jazz,Sacramento Kings,36,23,59,1235872800.0,2009
+Utah Jazz,Golden State Warriors,Utah Jazz,37,23,60,1235959200.0,2009
+Utah Jazz,Utah Jazz,Houston Rockets,38,23,61,1236218400.0,2009
+Utah Jazz,Utah Jazz,Denver Nuggets,39,23,62,1236396600.0,2009
+Utah Jazz,Toronto Raptors,Utah Jazz,40,23,63,1236529800.0,2009
+Utah Jazz,Indiana Pacers,Utah Jazz,41,23,64,1236726000.0,2009
+Utah Jazz,Atlanta Hawks,Utah Jazz,41,24,65,1236812400.0,2009
+Utah Jazz,Miami Heat,Utah Jazz,41,25,66,1237050000.0,2009
+Utah Jazz,Orlando Magic,Utah Jazz,41,26,67,1237154400.0,2009
+Utah Jazz,Utah Jazz,Washington Wizards,42,26,68,1237338000.0,2009
+Utah Jazz,Oklahoma City Thunder,Utah Jazz,43,26,69,1237593600.0,2009
+Utah Jazz,Utah Jazz,Houston Rockets,44,26,70,1237948200.0,2009
+Utah Jazz,Phoenix Suns,Utah Jazz,44,27,71,1238034600.0,2009
+Utah Jazz,Utah Jazz,Phoenix Suns,45,27,72,1238288400.0,2009
+Utah Jazz,Utah Jazz,New York Knicks,46,27,73,1238461200.0,2009
+Utah Jazz,Portland Trail Blazers,Utah Jazz,46,28,74,1238551200.0,2009
+Utah Jazz,Denver Nuggets,Utah Jazz,46,29,75,1238725800.0,2009
+Utah Jazz,Utah Jazz,Minnesota Timberwolves,46,30,76,1238806800.0,2009
+Utah Jazz,New Orleans Hornets,Utah Jazz,47,30,77,1238972400.0,2009
+Utah Jazz,Dallas Mavericks,Utah Jazz,47,31,78,1239240600.0,2009
+Utah Jazz,San Antonio Spurs,Utah Jazz,47,32,79,1239409800.0,2009
+Utah Jazz,Utah Jazz,Golden State Warriors,47,33,80,1239498000.0,2009
+Utah Jazz,Utah Jazz,Los Angeles Clippers,48,33,81,1239670800.0,2009
+Utah Jazz,Los Angeles Lakers,Utah Jazz,48,34,82,1239762600.0,2009
+Washington Wizards,Washington Wizards,New Jersey Nets,0,1,1,1225321200.0,2009
+Washington Wizards,Detroit Pistons,Washington Wizards,0,2,2,1225582200.0,2009
+Washington Wizards,Milwaukee Bucks,Washington Wizards,0,3,3,1225933200.0,2009
+Washington Wizards,Washington Wizards,New York Knicks,0,4,4,1226102400.0,2009
+Washington Wizards,Orlando Magic,Washington Wizards,0,5,5,1226188800.0,2009
+Washington Wizards,Washington Wizards,Utah Jazz,1,5,6,1226538000.0,2009
+Washington Wizards,Miami Heat,Washington Wizards,1,6,7,1226709000.0,2009
+Washington Wizards,Washington Wizards,Miami Heat,1,7,8,1227052800.0,2009
+Washington Wizards,Atlanta Hawks,Washington Wizards,1,8,9,1227139200.0,2009
+Washington Wizards,Washington Wizards,Houston Rockets,1,9,10,1227312000.0,2009
+Washington Wizards,New York Knicks,Washington Wizards,1,10,11,1227400200.0,2009
+Washington Wizards,Washington Wizards,Golden State Warriors,2,10,12,1227657600.0,2009
+Washington Wizards,Washington Wizards,Orlando Magic,2,11,13,1227834000.0,2009
+Washington Wizards,Washington Wizards,Atlanta Hawks,2,12,14,1228003200.0,2009
+Washington Wizards,New Jersey Nets,Washington Wizards,3,12,15,1228264200.0,2009
+Washington Wizards,Washington Wizards,Portland Trail Blazers,3,13,16,1228348800.0,2009
+Washington Wizards,Washington Wizards,Los Angeles Lakers,3,14,17,1228521600.0,2009
+Washington Wizards,Chicago Bulls,Washington Wizards,3,15,18,1228613400.0,2009
+Washington Wizards,Washington Wizards,Detroit Pistons,4,15,19,1228867200.0,2009
+Washington Wizards,Washington Wizards,Boston Celtics,4,16,20,1229043600.0,2009
+Washington Wizards,Philadelphia 76ers,Washington Wizards,4,17,21,1229214600.0,2009
+Washington Wizards,Washington Wizards,Indiana Pacers,4,18,22,1229385600.0,2009
+Washington Wizards,Detroit Pistons,Washington Wizards,4,19,23,1229560200.0,2009
+Washington Wizards,Washington Wizards,Philadelphia 76ers,4,20,24,1229731200.0,2009
+Washington Wizards,Washington Wizards,Dallas Mavericks,4,21,25,1229900400.0,2009
+Washington Wizards,Charlotte Bobcats,Washington Wizards,4,22,26,1230076800.0,2009
+Washington Wizards,Cleveland Cavaliers,Washington Wizards,4,23,27,1230253200.0,2009
+Washington Wizards,Washington Wizards,Oklahoma City Thunder,5,23,28,1230422400.0,2009
+Washington Wizards,Houston Rockets,Washington Wizards,6,23,29,1230600600.0,2009
+Washington Wizards,New Orleans Hornets,Washington Wizards,6,24,30,1230685200.0,2009
+Washington Wizards,Boston Celtics,Washington Wizards,6,25,31,1230942600.0,2009
+Washington Wizards,Washington Wizards,Cleveland Cavaliers,7,25,32,1231092000.0,2009
+Washington Wizards,Orlando Magic,Washington Wizards,7,26,33,1231286400.0,2009
+Washington Wizards,Washington Wizards,Toronto Raptors,7,27,34,1231372800.0,2009
+Washington Wizards,Chicago Bulls,Washington Wizards,7,28,35,1231551000.0,2009
+Washington Wizards,Washington Wizards,Charlotte Bobcats,7,29,36,1231632000.0,2009
+Washington Wizards,Washington Wizards,Milwaukee Bucks,7,30,37,1231804800.0,2009
+Washington Wizards,New York Knicks,Washington Wizards,7,31,38,1231979400.0,2009
+Washington Wizards,Washington Wizards,New York Knicks,8,31,39,1232150400.0,2009
+Washington Wizards,Golden State Warriors,Washington Wizards,8,32,40,1232398800.0,2009
+Washington Wizards,Sacramento Kings,Washington Wizards,9,32,41,1232593200.0,2009
+Washington Wizards,Los Angeles Lakers,Washington Wizards,9,33,42,1232681400.0,2009
+Washington Wizards,Portland Trail Blazers,Washington Wizards,9,34,43,1232852400.0,2009
+Washington Wizards,Washington Wizards,Phoenix Suns,9,35,44,1233014400.0,2009
+Washington Wizards,Miami Heat,Washington Wizards,9,36,45,1233189000.0,2009
+Washington Wizards,Philadelphia 76ers,Washington Wizards,9,37,46,1233360000.0,2009
+Washington Wizards,Washington Wizards,Los Angeles Clippers,10,37,47,1233450000.0,2009
+Washington Wizards,Washington Wizards,Memphis Grizzlies,10,38,48,1233619200.0,2009
+Washington Wizards,Washington Wizards,New Jersey Nets,10,39,49,1233792000.0,2009
+Washington Wizards,Washington Wizards,Denver Nuggets,10,40,50,1233968400.0,2009
+Washington Wizards,Washington Wizards,Indiana Pacers,11,40,51,1234134000.0,2009
+Washington Wizards,Atlanta Hawks,Washington Wizards,11,41,52,1234310400.0,2009
+Washington Wizards,Charlotte Bobcats,Washington Wizards,11,42,53,1234396800.0,2009
+Washington Wizards,Washington Wizards,Minnesota Timberwolves,12,42,54,1234915200.0,2009
+Washington Wizards,New Jersey Nets,Washington Wizards,13,42,55,1235178000.0,2009
+Washington Wizards,Washington Wizards,San Antonio Spurs,13,43,56,1235264400.0,2009
+Washington Wizards,Washington Wizards,Philadelphia 76ers,13,44,57,1235606400.0,2009
+Washington Wizards,Washington Wizards,Chicago Bulls,14,44,58,1235779200.0,2009
+Washington Wizards,Milwaukee Bucks,Washington Wizards,14,45,59,1235871000.0,2009
+Washington Wizards,Washington Wizards,Atlanta Hawks,14,46,60,1236038400.0,2009
+Washington Wizards,Oklahoma City Thunder,Washington Wizards,14,47,61,1236214800.0,2009
+Washington Wizards,San Antonio Spurs,Washington Wizards,14,48,62,1236389400.0,2009
+Washington Wizards,Dallas Mavericks,Washington Wizards,14,49,63,1236475800.0,2009
+Washington Wizards,Minnesota Timberwolves,Washington Wizards,15,49,64,1236643200.0,2009
+Washington Wizards,Washington Wizards,New Orleans Hornets,15,50,65,1236812400.0,2009
+Washington Wizards,Washington Wizards,Orlando Magic,15,51,66,1236985200.0,2009
+Washington Wizards,Washington Wizards,Sacramento Kings,16,51,67,1237154400.0,2009
+Washington Wizards,Utah Jazz,Washington Wizards,16,52,68,1237338000.0,2009
+Washington Wizards,Los Angeles Clippers,Washington Wizards,16,53,69,1237429800.0,2009
+Washington Wizards,Denver Nuggets,Washington Wizards,16,54,70,1237597200.0,2009
+Washington Wizards,Phoenix Suns,Washington Wizards,16,55,71,1237687200.0,2009
+Washington Wizards,Washington Wizards,Chicago Bulls,16,56,72,1237849200.0,2009
+Washington Wizards,Washington Wizards,Charlotte Bobcats,17,56,73,1238022000.0,2009
+Washington Wizards,Washington Wizards,Detroit Pistons,17,57,74,1238281200.0,2009
+Washington Wizards,Indiana Pacers,Washington Wizards,17,58,75,1238367600.0,2009
+Washington Wizards,Memphis Grizzlies,Washington Wizards,17,59,76,1238630400.0,2009
+Washington Wizards,Washington Wizards,Cleveland Cavaliers,18,59,77,1238716800.0,2009
+Washington Wizards,Washington Wizards,Miami Heat,18,60,78,1238886000.0,2009
+Washington Wizards,Cleveland Cavaliers,Washington Wizards,18,61,79,1239231600.0,2009
+Washington Wizards,Toronto Raptors,Washington Wizards,19,61,80,1239408000.0,2009
+Washington Wizards,Washington Wizards,Toronto Raptors,19,62,81,1239663600.0,2009
+Washington Wizards,Boston Celtics,Washington Wizards,19,63,82,1239840000.0,2009

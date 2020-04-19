@@ -1,0 +1,633 @@
+id,home_team,away_team,win,loss,game_number,date,year
+Boston Celtics,Boston Celtics,Detroit Pistons,1,0,1,-290116800.0,1961
+Boston Celtics,New York Knicks,Boston Celtics,2,0,2,-289598400.0,1961
+Boston Celtics,Boston Celtics,Philadelphia Warriors,2,1,3,-289512000.0,1961
+Boston Celtics,Boston Celtics,Cincinnati Royals,2,2,4,-288903600.0,1961
+Boston Celtics,Cincinnati Royals,Boston Celtics,3,2,5,-288644400.0,1961
+Boston Celtics,Boston Celtics,Cincinnati Royals,4,2,6,-288385200.0,1961
+Boston Celtics,Boston Celtics,Los Angeles Lakers,5,2,7,-288298800.0,1961
+Boston Celtics,Boston Celtics,Detroit Pistons,5,3,8,-288039600.0,1961
+Boston Celtics,Boston Celtics,St. Louis Hawks,6,3,9,-287953200.0,1961
+Boston Celtics,Syracuse Nationals,Boston Celtics,7,3,10,-287694000.0,1961
+Boston Celtics,Cincinnati Royals,Boston Celtics,8,3,11,-287607600.0,1961
+Boston Celtics,Boston Celtics,New York Knicks,9,3,12,-287348400.0,1961
+Boston Celtics,Philadelphia Warriors,Boston Celtics,10,3,13,-287262000.0,1961
+Boston Celtics,New York Knicks,Boston Celtics,11,3,14,-287175600.0,1961
+Boston Celtics,Boston Celtics,Syracuse Nationals,12,3,15,-287089200.0,1961
+Boston Celtics,St. Louis Hawks,Boston Celtics,13,3,16,-286830000.0,1961
+Boston Celtics,Detroit Pistons,Boston Celtics,14,3,17,-286743600.0,1961
+Boston Celtics,Boston Celtics,New York Knicks,14,4,18,-286657200.0,1961
+Boston Celtics,Boston Celtics,Los Angeles Lakers,14,5,19,-286570800.0,1961
+Boston Celtics,Los Angeles Lakers,Boston Celtics,15,5,20,-286398000.0,1961
+Boston Celtics,Los Angeles Lakers,Boston Celtics,16,5,21,-286311600.0,1961
+Boston Celtics,Boston Celtics,Syracuse Nationals,16,6,22,-286138800.0,1961
+Boston Celtics,Boston Celtics,Cincinnati Royals,16,7,23,-286052400.0,1961
+Boston Celtics,Boston Celtics,Cincinnati Royals,17,7,24,-285966000.0,1961
+Boston Celtics,Philadelphia Warriors,Boston Celtics,17,8,25,-285879600.0,1961
+Boston Celtics,New York Knicks,Boston Celtics,17,9,26,-285620400.0,1961
+Boston Celtics,Boston Celtics,Syracuse Nationals,18,9,27,-285447600.0,1961
+Boston Celtics,Boston Celtics,Los Angeles Lakers,19,9,28,-285274800.0,1961
+Boston Celtics,Boston Celtics,Cincinnati Royals,20,9,29,-285015600.0,1961
+Boston Celtics,Boston Celtics,St. Louis Hawks,21,9,30,-284929200.0,1961
+Boston Celtics,Boston Celtics,Detroit Pistons,22,9,31,-284670000.0,1961
+Boston Celtics,Boston Celtics,Philadelphia Warriors,23,9,32,-284497200.0,1961
+Boston Celtics,Philadelphia Warriors,Boston Celtics,23,10,33,-284410800.0,1961
+Boston Celtics,St. Louis Hawks,Boston Celtics,23,11,34,-284324400.0,1961
+Boston Celtics,New York Knicks,Boston Celtics,24,11,35,-284151600.0,1961
+Boston Celtics,Syracuse Nationals,Boston Celtics,25,11,36,-283978800.0,1961
+Boston Celtics,Los Angeles Lakers,Boston Celtics,26,11,37,-283806000.0,1961
+Boston Celtics,Cincinnati Royals,Boston Celtics,27,11,38,-283633200.0,1961
+Boston Celtics,Detroit Pistons,Boston Celtics,28,11,39,-283546800.0,1961
+Boston Celtics,St. Louis Hawks,Boston Celtics,28,12,40,-283374000.0,1961
+Boston Celtics,Boston Celtics,Detroit Pistons,29,12,41,-283201200.0,1961
+Boston Celtics,Boston Celtics,Syracuse Nationals,30,12,42,-283028400.0,1961
+Boston Celtics,Boston Celtics,Philadelphia Warriors,31,12,43,-282942000.0,1961
+Boston Celtics,Philadelphia Warriors,Boston Celtics,31,13,44,-282855600.0,1961
+Boston Celtics,Boston Celtics,New York Knicks,32,13,45,-282769200.0,1961
+Boston Celtics,Boston Celtics,St. Louis Hawks,32,14,46,-282510000.0,1961
+Boston Celtics,Boston Celtics,Los Angeles Lakers,33,14,47,-282423600.0,1961
+Boston Celtics,Syracuse Nationals,Boston Celtics,33,15,48,-282250800.0,1961
+Boston Celtics,New York Knicks,Boston Celtics,34,15,49,-281991600.0,1961
+Boston Celtics,Philadelphia Warriors,Boston Celtics,35,15,50,-281818800.0,1961
+Boston Celtics,Boston Celtics,Detroit Pistons,36,15,51,-281732400.0,1961
+Boston Celtics,Boston Celtics,Philadelphia Warriors,37,15,52,-281559600.0,1961
+Boston Celtics,Cincinnati Royals,Boston Celtics,37,16,53,-281473200.0,1961
+Boston Celtics,St. Louis Hawks,Boston Celtics,38,16,54,-281386800.0,1961
+Boston Celtics,Boston Celtics,New York Knicks,39,16,55,-281300400.0,1961
+Boston Celtics,Boston Celtics,New York Knicks,40,16,56,-281127600.0,1961
+Boston Celtics,Boston Celtics,St. Louis Hawks,41,16,57,-280954800.0,1961
+Boston Celtics,Boston Celtics,Los Angeles Lakers,42,16,58,-280782000.0,1961
+Boston Celtics,Syracuse Nationals,Boston Celtics,42,17,59,-280695600.0,1961
+Boston Celtics,Detroit Pistons,Boston Celtics,42,18,60,-280522800.0,1961
+Boston Celtics,Boston Celtics,New York Knicks,42,19,61,-280436400.0,1961
+Boston Celtics,Boston Celtics,Philadelphia Warriors,43,19,62,-280350000.0,1961
+Boston Celtics,Boston Celtics,Los Angeles Lakers,44,19,63,-280177200.0,1961
+Boston Celtics,Boston Celtics,Philadelphia Warriors,44,20,64,-280004400.0,1961
+Boston Celtics,Philadelphia Warriors,Boston Celtics,45,20,65,-279918000.0,1961
+Boston Celtics,Syracuse Nationals,Boston Celtics,46,20,66,-279745200.0,1961
+Boston Celtics,Los Angeles Lakers,Boston Celtics,46,21,67,-279486000.0,1961
+Boston Celtics,Boston Celtics,Syracuse Nationals,47,21,68,-279313200.0,1961
+Boston Celtics,St. Louis Hawks,Boston Celtics,48,21,69,-279226800.0,1961
+Boston Celtics,Detroit Pistons,Boston Celtics,49,21,70,-279140400.0,1961
+Boston Celtics,New York Knicks,Boston Celtics,50,21,71,-278967600.0,1961
+Boston Celtics,Boston Celtics,St. Louis Hawks,50,22,72,-278881200.0,1961
+Boston Celtics,Boston Celtics,New York Knicks,51,22,73,-278622000.0,1961
+Boston Celtics,Boston Celtics,Philadelphia Warriors,52,22,74,-278535600.0,1961
+Boston Celtics,Boston Celtics,Cincinnati Royals,53,22,75,-278362800.0,1961
+Boston Celtics,Boston Celtics,Syracuse Nationals,54,22,76,-278276400.0,1961
+Boston Celtics,Boston Celtics,Detroit Pistons,55,22,77,-278190000.0,1961
+Boston Celtics,Boston Celtics,Syracuse Nationals,56,22,78,-278017200.0,1961
+Boston Celtics,Syracuse Nationals,Boston Celtics,57,22,79,-277930800.0,1961
+Cincinnati Royals,Cincinnati Royals,Los Angeles Lakers,1,0,1,-290376000.0,1961
+Cincinnati Royals,New York Knicks,Cincinnati Royals,2,0,2,-290289600.0,1961
+Cincinnati Royals,Cincinnati Royals,New York Knicks,3,0,3,-290116800.0,1961
+Cincinnati Royals,Cincinnati Royals,St. Louis Hawks,4,0,4,-290030400.0,1961
+Cincinnati Royals,Detroit Pistons,Cincinnati Royals,4,1,5,-289771200.0,1961
+Cincinnati Royals,Cincinnati Royals,Syracuse Nationals,5,1,6,-289684800.0,1961
+Cincinnati Royals,St. Louis Hawks,Cincinnati Royals,5,2,7,-289512000.0,1961
+Cincinnati Royals,Cincinnati Royals,Philadelphia Warriors,5,3,8,-289249200.0,1961
+Cincinnati Royals,Boston Celtics,Cincinnati Royals,6,3,9,-288903600.0,1961
+Cincinnati Royals,Cincinnati Royals,Boston Celtics,6,4,10,-288644400.0,1961
+Cincinnati Royals,Boston Celtics,Cincinnati Royals,6,5,11,-288385200.0,1961
+Cincinnati Royals,Detroit Pistons,Cincinnati Royals,6,6,12,-288298800.0,1961
+Cincinnati Royals,Cincinnati Royals,Detroit Pistons,6,7,13,-288212400.0,1961
+Cincinnati Royals,Cincinnati Royals,Philadelphia Warriors,7,7,14,-288039600.0,1961
+Cincinnati Royals,Syracuse Nationals,Cincinnati Royals,7,8,15,-287953200.0,1961
+Cincinnati Royals,Cincinnati Royals,St. Louis Hawks,8,8,16,-287780400.0,1961
+Cincinnati Royals,St. Louis Hawks,Cincinnati Royals,8,9,17,-287694000.0,1961
+Cincinnati Royals,Cincinnati Royals,Boston Celtics,8,10,18,-287607600.0,1961
+Cincinnati Royals,Cincinnati Royals,Los Angeles Lakers,8,11,19,-287434800.0,1961
+Cincinnati Royals,Cincinnati Royals,Los Angeles Lakers,9,11,20,-287348400.0,1961
+Cincinnati Royals,Cincinnati Royals,Los Angeles Lakers,9,12,21,-287262000.0,1961
+Cincinnati Royals,Philadelphia Warriors,Cincinnati Royals,9,13,22,-287089200.0,1961
+Cincinnati Royals,Cincinnati Royals,New York Knicks,9,14,23,-287002800.0,1961
+Cincinnati Royals,Cincinnati Royals,Syracuse Nationals,9,15,24,-286830000.0,1961
+Cincinnati Royals,Cincinnati Royals,Syracuse Nationals,9,16,25,-286657200.0,1961
+Cincinnati Royals,Cincinnati Royals,Detroit Pistons,9,17,26,-286398000.0,1961
+Cincinnati Royals,New York Knicks,Cincinnati Royals,10,17,27,-286225200.0,1961
+Cincinnati Royals,Cincinnati Royals,Los Angeles Lakers,11,17,28,-286138800.0,1961
+Cincinnati Royals,Boston Celtics,Cincinnati Royals,12,17,29,-286052400.0,1961
+Cincinnati Royals,Boston Celtics,Cincinnati Royals,12,18,30,-285966000.0,1961
+Cincinnati Royals,Cincinnati Royals,Syracuse Nationals,12,19,31,-285620400.0,1961
+Cincinnati Royals,Cincinnati Royals,New York Knicks,13,19,32,-285534000.0,1961
+Cincinnati Royals,Cincinnati Royals,Los Angeles Lakers,14,19,33,-285361200.0,1961
+Cincinnati Royals,Cincinnati Royals,Philadelphia Warriors,14,20,34,-285188400.0,1961
+Cincinnati Royals,Boston Celtics,Cincinnati Royals,14,21,35,-285015600.0,1961
+Cincinnati Royals,Cincinnati Royals,Detroit Pistons,15,21,36,-284583600.0,1961
+Cincinnati Royals,Detroit Pistons,Cincinnati Royals,15,22,37,-284497200.0,1961
+Cincinnati Royals,Cincinnati Royals,Syracuse Nationals,16,22,38,-284410800.0,1961
+Cincinnati Royals,Cincinnati Royals,New York Knicks,17,22,39,-284324400.0,1961
+Cincinnati Royals,Philadelphia Warriors,Cincinnati Royals,17,23,40,-284238000.0,1961
+Cincinnati Royals,Cincinnati Royals,Philadelphia Warriors,18,23,41,-284151600.0,1961
+Cincinnati Royals,Cincinnati Royals,St. Louis Hawks,19,23,42,-283978800.0,1961
+Cincinnati Royals,Cincinnati Royals,Syracuse Nationals,20,23,43,-283892400.0,1961
+Cincinnati Royals,Syracuse Nationals,Cincinnati Royals,21,23,44,-283719600.0,1961
+Cincinnati Royals,Cincinnati Royals,Boston Celtics,21,24,45,-283633200.0,1961
+Cincinnati Royals,St. Louis Hawks,Cincinnati Royals,21,25,46,-283201200.0,1961
+Cincinnati Royals,Detroit Pistons,Cincinnati Royals,21,26,47,-283114800.0,1961
+Cincinnati Royals,Cincinnati Royals,Detroit Pistons,21,27,48,-283028400.0,1961
+Cincinnati Royals,Los Angeles Lakers,Cincinnati Royals,21,28,49,-282855600.0,1961
+Cincinnati Royals,Los Angeles Lakers,Cincinnati Royals,22,28,50,-282769200.0,1961
+Cincinnati Royals,Cincinnati Royals,Detroit Pistons,22,29,51,-282510000.0,1961
+Cincinnati Royals,Cincinnati Royals,New York Knicks,22,30,52,-282423600.0,1961
+Cincinnati Royals,Cincinnati Royals,Detroit Pistons,22,31,53,-282250800.0,1961
+Cincinnati Royals,Cincinnati Royals,St. Louis Hawks,23,31,54,-282164400.0,1961
+Cincinnati Royals,Cincinnati Royals,Detroit Pistons,23,32,55,-281991600.0,1961
+Cincinnati Royals,Detroit Pistons,Cincinnati Royals,23,33,56,-281905200.0,1961
+Cincinnati Royals,Cincinnati Royals,Syracuse Nationals,23,34,57,-281732400.0,1961
+Cincinnati Royals,St. Louis Hawks,Cincinnati Royals,23,35,58,-281646000.0,1961
+Cincinnati Royals,Cincinnati Royals,Boston Celtics,24,35,59,-281473200.0,1961
+Cincinnati Royals,Philadelphia Warriors,Cincinnati Royals,24,36,60,-281214000.0,1961
+Cincinnati Royals,Cincinnati Royals,Philadelphia Warriors,24,37,61,-281127600.0,1961
+Cincinnati Royals,Syracuse Nationals,Cincinnati Royals,24,38,62,-280954800.0,1961
+Cincinnati Royals,Cincinnati Royals,Los Angeles Lakers,24,39,63,-280868400.0,1961
+Cincinnati Royals,Cincinnati Royals,New York Knicks,25,39,64,-280609200.0,1961
+Cincinnati Royals,St. Louis Hawks,Cincinnati Royals,25,40,65,-280436400.0,1961
+Cincinnati Royals,New York Knicks,Cincinnati Royals,26,40,66,-280350000.0,1961
+Cincinnati Royals,Cincinnati Royals,Los Angeles Lakers,27,40,67,-280263600.0,1961
+Cincinnati Royals,Cincinnati Royals,St. Louis Hawks,28,40,68,-280004400.0,1961
+Cincinnati Royals,Cincinnati Royals,Los Angeles Lakers,29,40,69,-279745200.0,1961
+Cincinnati Royals,St. Louis Hawks,Cincinnati Royals,29,41,70,-279572400.0,1961
+Cincinnati Royals,Cincinnati Royals,Philadelphia Warriors,29,42,71,-279486000.0,1961
+Cincinnati Royals,Cincinnati Royals,Philadelphia Warriors,29,43,72,-279226800.0,1961
+Cincinnati Royals,Cincinnati Royals,St. Louis Hawks,29,44,73,-279140400.0,1961
+Cincinnati Royals,Cincinnati Royals,St. Louis Hawks,30,44,74,-278967600.0,1961
+Cincinnati Royals,Cincinnati Royals,Detroit Pistons,31,44,75,-278881200.0,1961
+Cincinnati Royals,New York Knicks,Cincinnati Royals,32,44,76,-278535600.0,1961
+Cincinnati Royals,Boston Celtics,Cincinnati Royals,32,45,77,-278362800.0,1961
+Cincinnati Royals,Los Angeles Lakers,Cincinnati Royals,33,45,78,-278017200.0,1961
+Cincinnati Royals,Los Angeles Lakers,Cincinnati Royals,33,46,79,-277930800.0,1961
+Detroit Pistons,Boston Celtics,Detroit Pistons,0,1,1,-290116800.0,1961
+Detroit Pistons,Detroit Pistons,Cincinnati Royals,1,1,2,-289771200.0,1961
+Detroit Pistons,Detroit Pistons,New York Knicks,2,1,3,-289512000.0,1961
+Detroit Pistons,Detroit Pistons,St. Louis Hawks,2,2,4,-289162800.0,1961
+Detroit Pistons,Philadelphia Warriors,Detroit Pistons,2,3,5,-288990000.0,1961
+Detroit Pistons,Detroit Pistons,Philadelphia Warriors,2,4,6,-288903600.0,1961
+Detroit Pistons,St. Louis Hawks,Detroit Pistons,2,5,7,-288558000.0,1961
+Detroit Pistons,Detroit Pistons,Cincinnati Royals,3,5,8,-288298800.0,1961
+Detroit Pistons,Cincinnati Royals,Detroit Pistons,4,5,9,-288212400.0,1961
+Detroit Pistons,Boston Celtics,Detroit Pistons,5,5,10,-288039600.0,1961
+Detroit Pistons,Detroit Pistons,Philadelphia Warriors,6,5,11,-287953200.0,1961
+Detroit Pistons,Detroit Pistons,St. Louis Hawks,6,6,12,-287866800.0,1961
+Detroit Pistons,Los Angeles Lakers,Detroit Pistons,6,7,13,-287694000.0,1961
+Detroit Pistons,Detroit Pistons,Los Angeles Lakers,6,8,14,-287607600.0,1961
+Detroit Pistons,Detroit Pistons,Syracuse Nationals,7,8,15,-287348400.0,1961
+Detroit Pistons,Detroit Pistons,Los Angeles Lakers,7,9,16,-287175600.0,1961
+Detroit Pistons,Detroit Pistons,New York Knicks,7,10,17,-287089200.0,1961
+Detroit Pistons,New York Knicks,Detroit Pistons,7,11,18,-286830000.0,1961
+Detroit Pistons,Detroit Pistons,Boston Celtics,7,12,19,-286743600.0,1961
+Detroit Pistons,Cincinnati Royals,Detroit Pistons,8,12,20,-286398000.0,1961
+Detroit Pistons,St. Louis Hawks,Detroit Pistons,8,13,21,-286225200.0,1961
+Detroit Pistons,Detroit Pistons,St. Louis Hawks,9,13,22,-286138800.0,1961
+Detroit Pistons,Detroit Pistons,Syracuse Nationals,9,14,23,-285879600.0,1961
+Detroit Pistons,Detroit Pistons,Philadelphia Warriors,9,15,24,-285620400.0,1961
+Detroit Pistons,Detroit Pistons,Philadelphia Warriors,10,15,25,-285534000.0,1961
+Detroit Pistons,Detroit Pistons,New York Knicks,10,16,26,-285361200.0,1961
+Detroit Pistons,Detroit Pistons,Los Angeles Lakers,10,17,27,-285102000.0,1961
+Detroit Pistons,Detroit Pistons,Los Angeles Lakers,11,17,28,-285015600.0,1961
+Detroit Pistons,Boston Celtics,Detroit Pistons,11,18,29,-284670000.0,1961
+Detroit Pistons,Cincinnati Royals,Detroit Pistons,11,19,30,-284583600.0,1961
+Detroit Pistons,Detroit Pistons,Cincinnati Royals,12,19,31,-284497200.0,1961
+Detroit Pistons,Detroit Pistons,St. Louis Hawks,13,19,32,-284238000.0,1961
+Detroit Pistons,Detroit Pistons,Syracuse Nationals,14,19,33,-284151600.0,1961
+Detroit Pistons,Detroit Pistons,Los Angeles Lakers,15,19,34,-283978800.0,1961
+Detroit Pistons,Detroit Pistons,Los Angeles Lakers,15,20,35,-283892400.0,1961
+Detroit Pistons,Detroit Pistons,Philadelphia Warriors,15,21,36,-283806000.0,1961
+Detroit Pistons,Detroit Pistons,New York Knicks,15,22,37,-283633200.0,1961
+Detroit Pistons,Detroit Pistons,Boston Celtics,15,23,38,-283546800.0,1961
+Detroit Pistons,Syracuse Nationals,Detroit Pistons,15,24,39,-283374000.0,1961
+Detroit Pistons,Boston Celtics,Detroit Pistons,15,25,40,-283201200.0,1961
+Detroit Pistons,Detroit Pistons,Cincinnati Royals,16,25,41,-283114800.0,1961
+Detroit Pistons,Cincinnati Royals,Detroit Pistons,17,25,42,-283028400.0,1961
+Detroit Pistons,St. Louis Hawks,Detroit Pistons,17,26,43,-282855600.0,1961
+Detroit Pistons,Detroit Pistons,St. Louis Hawks,18,26,44,-282769200.0,1961
+Detroit Pistons,Cincinnati Royals,Detroit Pistons,19,26,45,-282510000.0,1961
+Detroit Pistons,Detroit Pistons,New York Knicks,20,26,46,-282337200.0,1961
+Detroit Pistons,Cincinnati Royals,Detroit Pistons,21,26,47,-282250800.0,1961
+Detroit Pistons,Detroit Pistons,Philadelphia Warriors,22,26,48,-282164400.0,1961
+Detroit Pistons,Cincinnati Royals,Detroit Pistons,23,26,49,-281991600.0,1961
+Detroit Pistons,Detroit Pistons,Cincinnati Royals,24,26,50,-281905200.0,1961
+Detroit Pistons,Boston Celtics,Detroit Pistons,24,27,51,-281732400.0,1961
+Detroit Pistons,Los Angeles Lakers,Detroit Pistons,24,28,52,-281559600.0,1961
+Detroit Pistons,Los Angeles Lakers,Detroit Pistons,24,29,53,-281473200.0,1961
+Detroit Pistons,Detroit Pistons,Los Angeles Lakers,25,29,54,-281386800.0,1961
+Detroit Pistons,Detroit Pistons,St. Louis Hawks,25,30,55,-281300400.0,1961
+Detroit Pistons,Detroit Pistons,Syracuse Nationals,26,30,56,-281127600.0,1961
+Detroit Pistons,Detroit Pistons,Syracuse Nationals,27,30,57,-281041200.0,1961
+Detroit Pistons,Detroit Pistons,Los Angeles Lakers,27,31,58,-280954800.0,1961
+Detroit Pistons,New York Knicks,Detroit Pistons,27,32,59,-280782000.0,1961
+Detroit Pistons,Detroit Pistons,Philadelphia Warriors,28,32,60,-280695600.0,1961
+Detroit Pistons,Detroit Pistons,Boston Celtics,29,32,61,-280522800.0,1961
+Detroit Pistons,Detroit Pistons,Syracuse Nationals,29,33,62,-280436400.0,1961
+Detroit Pistons,Syracuse Nationals,Detroit Pistons,29,34,63,-280350000.0,1961
+Detroit Pistons,St. Louis Hawks,Detroit Pistons,29,35,64,-280177200.0,1961
+Detroit Pistons,Detroit Pistons,Los Angeles Lakers,29,36,65,-280004400.0,1961
+Detroit Pistons,Detroit Pistons,Syracuse Nationals,29,37,66,-279918000.0,1961
+Detroit Pistons,Detroit Pistons,St. Louis Hawks,29,38,67,-279831600.0,1961
+Detroit Pistons,Detroit Pistons,Syracuse Nationals,29,39,68,-279572400.0,1961
+Detroit Pistons,Detroit Pistons,New York Knicks,30,39,69,-279486000.0,1961
+Detroit Pistons,Philadelphia Warriors,Detroit Pistons,30,40,70,-279399600.0,1961
+Detroit Pistons,Detroit Pistons,Boston Celtics,30,41,71,-279140400.0,1961
+Detroit Pistons,Cincinnati Royals,Detroit Pistons,30,42,72,-278881200.0,1961
+Detroit Pistons,Detroit Pistons,New York Knicks,31,42,73,-278708400.0,1961
+Detroit Pistons,St. Louis Hawks,Detroit Pistons,31,43,74,-278622000.0,1961
+Detroit Pistons,Detroit Pistons,St. Louis Hawks,31,44,75,-278535600.0,1961
+Detroit Pistons,Detroit Pistons,Los Angeles Lakers,32,44,76,-278276400.0,1961
+Detroit Pistons,Boston Celtics,Detroit Pistons,32,45,77,-278190000.0,1961
+Detroit Pistons,Detroit Pistons,Philadelphia Warriors,33,45,78,-278103600.0,1961
+Detroit Pistons,New York Knicks,Detroit Pistons,34,45,79,-277930800.0,1961
+Los Angeles Lakers,Cincinnati Royals,Los Angeles Lakers,0,1,1,-290376000.0,1961
+Los Angeles Lakers,St. Louis Hawks,Los Angeles Lakers,0,2,2,-290116800.0,1961
+Los Angeles Lakers,Los Angeles Lakers,New York Knicks,0,3,3,-289944000.0,1961
+Los Angeles Lakers,Los Angeles Lakers,New York Knicks,1,3,4,-289857600.0,1961
+Los Angeles Lakers,Philadelphia Warriors,Los Angeles Lakers,1,4,5,-289598400.0,1961
+Los Angeles Lakers,Syracuse Nationals,Los Angeles Lakers,1,5,6,-289512000.0,1961
+Los Angeles Lakers,Los Angeles Lakers,New York Knicks,2,5,7,-289162800.0,1961
+Los Angeles Lakers,Los Angeles Lakers,Syracuse Nationals,3,5,8,-288903600.0,1961
+Los Angeles Lakers,Los Angeles Lakers,Syracuse Nationals,4,5,9,-288817200.0,1961
+Los Angeles Lakers,Los Angeles Lakers,Philadelphia Warriors,4,6,10,-288558000.0,1961
+Los Angeles Lakers,Boston Celtics,Los Angeles Lakers,4,7,11,-288298800.0,1961
+Los Angeles Lakers,New York Knicks,Los Angeles Lakers,5,7,12,-288039600.0,1961
+Los Angeles Lakers,Los Angeles Lakers,Detroit Pistons,6,7,13,-287694000.0,1961
+Los Angeles Lakers,Detroit Pistons,Los Angeles Lakers,7,7,14,-287607600.0,1961
+Los Angeles Lakers,Cincinnati Royals,Los Angeles Lakers,8,7,15,-287434800.0,1961
+Los Angeles Lakers,Cincinnati Royals,Los Angeles Lakers,8,8,16,-287348400.0,1961
+Los Angeles Lakers,Cincinnati Royals,Los Angeles Lakers,9,8,17,-287262000.0,1961
+Los Angeles Lakers,Detroit Pistons,Los Angeles Lakers,10,8,18,-287175600.0,1961
+Los Angeles Lakers,St. Louis Hawks,Los Angeles Lakers,10,9,19,-287089200.0,1961
+Los Angeles Lakers,Los Angeles Lakers,Philadelphia Warriors,10,10,20,-287002800.0,1961
+Los Angeles Lakers,Los Angeles Lakers,Philadelphia Warriors,11,10,21,-286916400.0,1961
+Los Angeles Lakers,Los Angeles Lakers,Philadelphia Warriors,11,11,22,-286830000.0,1961
+Los Angeles Lakers,Philadelphia Warriors,Los Angeles Lakers,11,12,23,-286657200.0,1961
+Los Angeles Lakers,Boston Celtics,Los Angeles Lakers,12,12,24,-286570800.0,1961
+Los Angeles Lakers,Los Angeles Lakers,Boston Celtics,12,13,25,-286398000.0,1961
+Los Angeles Lakers,Los Angeles Lakers,Boston Celtics,12,14,26,-286311600.0,1961
+Los Angeles Lakers,Cincinnati Royals,Los Angeles Lakers,12,15,27,-286138800.0,1961
+Los Angeles Lakers,St. Louis Hawks,Los Angeles Lakers,12,16,28,-285879600.0,1961
+Los Angeles Lakers,Los Angeles Lakers,St. Louis Hawks,12,17,29,-285706800.0,1961
+Los Angeles Lakers,Los Angeles Lakers,St. Louis Hawks,13,17,30,-285534000.0,1961
+Los Angeles Lakers,Cincinnati Royals,Los Angeles Lakers,13,18,31,-285361200.0,1961
+Los Angeles Lakers,Boston Celtics,Los Angeles Lakers,13,19,32,-285274800.0,1961
+Los Angeles Lakers,Detroit Pistons,Los Angeles Lakers,14,19,33,-285102000.0,1961
+Los Angeles Lakers,Detroit Pistons,Los Angeles Lakers,14,20,34,-285015600.0,1961
+Los Angeles Lakers,New York Knicks,Los Angeles Lakers,14,21,35,-284497200.0,1961
+Los Angeles Lakers,Syracuse Nationals,Los Angeles Lakers,14,22,36,-284324400.0,1961
+Los Angeles Lakers,Los Angeles Lakers,New York Knicks,15,22,37,-284238000.0,1961
+Los Angeles Lakers,St. Louis Hawks,Los Angeles Lakers,15,23,38,-284151600.0,1961
+Los Angeles Lakers,Detroit Pistons,Los Angeles Lakers,15,24,39,-283978800.0,1961
+Los Angeles Lakers,Detroit Pistons,Los Angeles Lakers,16,24,40,-283892400.0,1961
+Los Angeles Lakers,Los Angeles Lakers,Boston Celtics,16,25,41,-283806000.0,1961
+Los Angeles Lakers,Los Angeles Lakers,St. Louis Hawks,17,25,42,-283633200.0,1961
+Los Angeles Lakers,Los Angeles Lakers,St. Louis Hawks,17,26,43,-283546800.0,1961
+Los Angeles Lakers,Los Angeles Lakers,New York Knicks,18,26,44,-283201200.0,1961
+Los Angeles Lakers,Los Angeles Lakers,New York Knicks,18,27,45,-283114800.0,1961
+Los Angeles Lakers,Los Angeles Lakers,Cincinnati Royals,19,27,46,-282855600.0,1961
+Los Angeles Lakers,Los Angeles Lakers,Cincinnati Royals,19,28,47,-282769200.0,1961
+Los Angeles Lakers,Boston Celtics,Los Angeles Lakers,19,29,48,-282423600.0,1961
+Los Angeles Lakers,Philadelphia Warriors,Los Angeles Lakers,19,30,49,-282250800.0,1961
+Los Angeles Lakers,Los Angeles Lakers,Syracuse Nationals,19,31,50,-282164400.0,1961
+Los Angeles Lakers,Los Angeles Lakers,Syracuse Nationals,20,31,51,-281991600.0,1961
+Los Angeles Lakers,Los Angeles Lakers,Syracuse Nationals,21,31,52,-281905200.0,1961
+Los Angeles Lakers,Los Angeles Lakers,Detroit Pistons,22,31,53,-281559600.0,1961
+Los Angeles Lakers,Los Angeles Lakers,Detroit Pistons,23,31,54,-281473200.0,1961
+Los Angeles Lakers,Detroit Pistons,Los Angeles Lakers,23,32,55,-281386800.0,1961
+Los Angeles Lakers,Los Angeles Lakers,St. Louis Hawks,24,32,56,-281214000.0,1961
+Los Angeles Lakers,Detroit Pistons,Los Angeles Lakers,25,32,57,-280954800.0,1961
+Los Angeles Lakers,Cincinnati Royals,Los Angeles Lakers,26,32,58,-280868400.0,1961
+Los Angeles Lakers,Boston Celtics,Los Angeles Lakers,26,33,59,-280782000.0,1961
+Los Angeles Lakers,Los Angeles Lakers,St. Louis Hawks,27,33,60,-280695600.0,1961
+Los Angeles Lakers,Los Angeles Lakers,St. Louis Hawks,27,34,61,-280609200.0,1961
+Los Angeles Lakers,St. Louis Hawks,Los Angeles Lakers,28,34,62,-280350000.0,1961
+Los Angeles Lakers,Cincinnati Royals,Los Angeles Lakers,28,35,63,-280263600.0,1961
+Los Angeles Lakers,Boston Celtics,Los Angeles Lakers,28,36,64,-280177200.0,1961
+Los Angeles Lakers,Detroit Pistons,Los Angeles Lakers,29,36,65,-280004400.0,1961
+Los Angeles Lakers,New York Knicks,Los Angeles Lakers,30,36,66,-279831600.0,1961
+Los Angeles Lakers,Cincinnati Royals,Los Angeles Lakers,30,37,67,-279745200.0,1961
+Los Angeles Lakers,Los Angeles Lakers,Syracuse Nationals,30,38,68,-279658800.0,1961
+Los Angeles Lakers,Los Angeles Lakers,Boston Celtics,31,38,69,-279486000.0,1961
+Los Angeles Lakers,Los Angeles Lakers,Philadelphia Warriors,32,38,70,-279140400.0,1961
+Los Angeles Lakers,Los Angeles Lakers,Philadelphia Warriors,32,39,71,-279054000.0,1961
+Los Angeles Lakers,Philadelphia Warriors,Los Angeles Lakers,32,40,72,-278967600.0,1961
+Los Angeles Lakers,Los Angeles Lakers,New York Knicks,33,40,73,-278881200.0,1961
+Los Angeles Lakers,Los Angeles Lakers,Syracuse Nationals,34,40,74,-278794800.0,1961
+Los Angeles Lakers,Syracuse Nationals,Los Angeles Lakers,35,40,75,-278535600.0,1961
+Los Angeles Lakers,St. Louis Hawks,Los Angeles Lakers,35,41,76,-278362800.0,1961
+Los Angeles Lakers,Detroit Pistons,Los Angeles Lakers,35,42,77,-278276400.0,1961
+Los Angeles Lakers,Los Angeles Lakers,Cincinnati Royals,35,43,78,-278017200.0,1961
+Los Angeles Lakers,Los Angeles Lakers,Cincinnati Royals,36,43,79,-277930800.0,1961
+New York Knicks,New York Knicks,Cincinnati Royals,0,1,1,-290289600.0,1961
+New York Knicks,Cincinnati Royals,New York Knicks,0,2,2,-290116800.0,1961
+New York Knicks,Los Angeles Lakers,New York Knicks,1,2,3,-289944000.0,1961
+New York Knicks,Los Angeles Lakers,New York Knicks,1,3,4,-289857600.0,1961
+New York Knicks,New York Knicks,Boston Celtics,1,4,5,-289598400.0,1961
+New York Knicks,Detroit Pistons,New York Knicks,1,5,6,-289512000.0,1961
+New York Knicks,Los Angeles Lakers,New York Knicks,1,6,7,-289162800.0,1961
+New York Knicks,St. Louis Hawks,New York Knicks,1,7,8,-288903600.0,1961
+New York Knicks,New York Knicks,Philadelphia Warriors,1,8,9,-288471600.0,1961
+New York Knicks,New York Knicks,Syracuse Nationals,2,8,10,-288385200.0,1961
+New York Knicks,Syracuse Nationals,New York Knicks,2,9,11,-288298800.0,1961
+New York Knicks,New York Knicks,Los Angeles Lakers,2,10,12,-288039600.0,1961
+New York Knicks,New York Knicks,Philadelphia Warriors,2,11,13,-287780400.0,1961
+New York Knicks,Philadelphia Warriors,New York Knicks,2,12,14,-287694000.0,1961
+New York Knicks,New York Knicks,St. Louis Hawks,2,13,15,-287434800.0,1961
+New York Knicks,Boston Celtics,New York Knicks,2,14,16,-287348400.0,1961
+New York Knicks,New York Knicks,Boston Celtics,2,15,17,-287175600.0,1961
+New York Knicks,Detroit Pistons,New York Knicks,3,15,18,-287089200.0,1961
+New York Knicks,Cincinnati Royals,New York Knicks,4,15,19,-287002800.0,1961
+New York Knicks,New York Knicks,Detroit Pistons,5,15,20,-286830000.0,1961
+New York Knicks,Boston Celtics,New York Knicks,6,15,21,-286657200.0,1961
+New York Knicks,New York Knicks,St. Louis Hawks,6,16,22,-286570800.0,1961
+New York Knicks,Syracuse Nationals,New York Knicks,6,17,23,-286484400.0,1961
+New York Knicks,New York Knicks,Cincinnati Royals,6,18,24,-286225200.0,1961
+New York Knicks,Philadelphia Warriors,New York Knicks,6,19,25,-286052400.0,1961
+New York Knicks,New York Knicks,Boston Celtics,7,19,26,-285620400.0,1961
+New York Knicks,Cincinnati Royals,New York Knicks,7,20,27,-285534000.0,1961
+New York Knicks,Detroit Pistons,New York Knicks,8,20,28,-285361200.0,1961
+New York Knicks,St. Louis Hawks,New York Knicks,8,21,29,-285274800.0,1961
+New York Knicks,New York Knicks,Syracuse Nationals,9,21,30,-285015600.0,1961
+New York Knicks,New York Knicks,Philadelphia Warriors,9,22,31,-284929200.0,1961
+New York Knicks,Syracuse Nationals,New York Knicks,9,23,32,-284583600.0,1961
+New York Knicks,New York Knicks,Los Angeles Lakers,10,23,33,-284497200.0,1961
+New York Knicks,Cincinnati Royals,New York Knicks,10,24,34,-284324400.0,1961
+New York Knicks,Los Angeles Lakers,New York Knicks,10,25,35,-284238000.0,1961
+New York Knicks,New York Knicks,Boston Celtics,10,26,36,-284151600.0,1961
+New York Knicks,Philadelphia Warriors,New York Knicks,10,27,37,-283892400.0,1961
+New York Knicks,New York Knicks,Syracuse Nationals,10,28,38,-283806000.0,1961
+New York Knicks,Detroit Pistons,New York Knicks,11,28,39,-283633200.0,1961
+New York Knicks,New York Knicks,Syracuse Nationals,12,28,40,-283460400.0,1961
+New York Knicks,New York Knicks,Philadelphia Warriors,13,28,41,-283374000.0,1961
+New York Knicks,Los Angeles Lakers,New York Knicks,13,29,42,-283201200.0,1961
+New York Knicks,Los Angeles Lakers,New York Knicks,14,29,43,-283114800.0,1961
+New York Knicks,New York Knicks,Syracuse Nationals,14,30,44,-282942000.0,1961
+New York Knicks,Boston Celtics,New York Knicks,14,31,45,-282769200.0,1961
+New York Knicks,Cincinnati Royals,New York Knicks,15,31,46,-282423600.0,1961
+New York Knicks,Detroit Pistons,New York Knicks,15,32,47,-282337200.0,1961
+New York Knicks,St. Louis Hawks,New York Knicks,15,33,48,-282250800.0,1961
+New York Knicks,New York Knicks,Boston Celtics,15,34,49,-281991600.0,1961
+New York Knicks,New York Knicks,St. Louis Hawks,15,35,50,-281905200.0,1961
+New York Knicks,New York Knicks,Philadelphia Warriors,16,35,51,-281732400.0,1961
+New York Knicks,Philadelphia Warriors,New York Knicks,16,36,52,-281646000.0,1961
+New York Knicks,New York Knicks,Syracuse Nationals,16,37,53,-281386800.0,1961
+New York Knicks,Boston Celtics,New York Knicks,16,38,54,-281300400.0,1961
+New York Knicks,Boston Celtics,New York Knicks,16,39,55,-281127600.0,1961
+New York Knicks,New York Knicks,St. Louis Hawks,16,40,56,-281041200.0,1961
+New York Knicks,Philadelphia Warriors,New York Knicks,16,41,57,-280954800.0,1961
+New York Knicks,New York Knicks,Detroit Pistons,17,41,58,-280782000.0,1961
+New York Knicks,Cincinnati Royals,New York Knicks,17,42,59,-280609200.0,1961
+New York Knicks,New York Knicks,Philadelphia Warriors,17,43,60,-280522800.0,1961
+New York Knicks,Boston Celtics,New York Knicks,18,43,61,-280436400.0,1961
+New York Knicks,New York Knicks,Cincinnati Royals,18,44,62,-280350000.0,1961
+New York Knicks,New York Knicks,Syracuse Nationals,19,44,63,-280090800.0,1961
+New York Knicks,Syracuse Nationals,New York Knicks,19,45,64,-280004400.0,1961
+New York Knicks,New York Knicks,Los Angeles Lakers,19,46,65,-279831600.0,1961
+New York Knicks,St. Louis Hawks,New York Knicks,20,46,66,-279745200.0,1961
+New York Knicks,New York Knicks,Philadelphia Warriors,20,47,67,-279572400.0,1961
+New York Knicks,Detroit Pistons,New York Knicks,20,48,68,-279486000.0,1961
+New York Knicks,New York Knicks,St. Louis Hawks,20,49,69,-279313200.0,1961
+New York Knicks,Syracuse Nationals,New York Knicks,20,50,70,-279140400.0,1961
+New York Knicks,New York Knicks,Boston Celtics,20,51,71,-278967600.0,1961
+New York Knicks,Los Angeles Lakers,New York Knicks,20,52,72,-278881200.0,1961
+New York Knicks,Detroit Pistons,New York Knicks,20,53,73,-278708400.0,1961
+New York Knicks,Boston Celtics,New York Knicks,20,54,74,-278622000.0,1961
+New York Knicks,New York Knicks,Cincinnati Royals,20,55,75,-278535600.0,1961
+New York Knicks,New York Knicks,Syracuse Nationals,21,55,76,-278362800.0,1961
+New York Knicks,New York Knicks,St. Louis Hawks,21,56,77,-278276400.0,1961
+New York Knicks,Philadelphia Warriors,New York Knicks,21,57,78,-278190000.0,1961
+New York Knicks,New York Knicks,Detroit Pistons,21,58,79,-277930800.0,1961
+Philadelphia Warriors,Syracuse Nationals,Philadelphia Warriors,1,0,1,-290116800.0,1961
+Philadelphia Warriors,Philadelphia Warriors,Los Angeles Lakers,2,0,2,-289598400.0,1961
+Philadelphia Warriors,Boston Celtics,Philadelphia Warriors,3,0,3,-289512000.0,1961
+Philadelphia Warriors,Cincinnati Royals,Philadelphia Warriors,4,0,4,-289249200.0,1961
+Philadelphia Warriors,Philadelphia Warriors,Detroit Pistons,5,0,5,-288990000.0,1961
+Philadelphia Warriors,Detroit Pistons,Philadelphia Warriors,6,0,6,-288903600.0,1961
+Philadelphia Warriors,Los Angeles Lakers,Philadelphia Warriors,7,0,7,-288558000.0,1961
+Philadelphia Warriors,New York Knicks,Philadelphia Warriors,8,0,8,-288471600.0,1961
+Philadelphia Warriors,Philadelphia Warriors,St. Louis Hawks,9,0,9,-288385200.0,1961
+Philadelphia Warriors,St. Louis Hawks,Philadelphia Warriors,9,1,10,-288298800.0,1961
+Philadelphia Warriors,Cincinnati Royals,Philadelphia Warriors,9,2,11,-288039600.0,1961
+Philadelphia Warriors,Detroit Pistons,Philadelphia Warriors,9,3,12,-287953200.0,1961
+Philadelphia Warriors,Philadelphia Warriors,Syracuse Nationals,9,4,13,-287866800.0,1961
+Philadelphia Warriors,New York Knicks,Philadelphia Warriors,10,4,14,-287780400.0,1961
+Philadelphia Warriors,Philadelphia Warriors,New York Knicks,11,4,15,-287694000.0,1961
+Philadelphia Warriors,Philadelphia Warriors,Boston Celtics,11,5,16,-287262000.0,1961
+Philadelphia Warriors,Philadelphia Warriors,Cincinnati Royals,12,5,17,-287089200.0,1961
+Philadelphia Warriors,Los Angeles Lakers,Philadelphia Warriors,13,5,18,-287002800.0,1961
+Philadelphia Warriors,Los Angeles Lakers,Philadelphia Warriors,13,6,19,-286916400.0,1961
+Philadelphia Warriors,Los Angeles Lakers,Philadelphia Warriors,14,6,20,-286830000.0,1961
+Philadelphia Warriors,Philadelphia Warriors,Los Angeles Lakers,15,6,21,-286657200.0,1961
+Philadelphia Warriors,Philadelphia Warriors,St. Louis Hawks,15,7,22,-286484400.0,1961
+Philadelphia Warriors,Philadelphia Warriors,Syracuse Nationals,16,7,23,-286225200.0,1961
+Philadelphia Warriors,Philadelphia Warriors,New York Knicks,17,7,24,-286052400.0,1961
+Philadelphia Warriors,Philadelphia Warriors,Boston Celtics,18,7,25,-285879600.0,1961
+Philadelphia Warriors,Syracuse Nationals,Philadelphia Warriors,18,8,26,-285793200.0,1961
+Philadelphia Warriors,Detroit Pistons,Philadelphia Warriors,19,8,27,-285620400.0,1961
+Philadelphia Warriors,Detroit Pistons,Philadelphia Warriors,19,9,28,-285534000.0,1961
+Philadelphia Warriors,Philadelphia Warriors,St. Louis Hawks,19,10,29,-285361200.0,1961
+Philadelphia Warriors,Cincinnati Royals,Philadelphia Warriors,20,10,30,-285188400.0,1961
+Philadelphia Warriors,New York Knicks,Philadelphia Warriors,21,10,31,-284929200.0,1961
+Philadelphia Warriors,Boston Celtics,Philadelphia Warriors,21,11,32,-284497200.0,1961
+Philadelphia Warriors,Philadelphia Warriors,Boston Celtics,22,11,33,-284410800.0,1961
+Philadelphia Warriors,Philadelphia Warriors,Cincinnati Royals,23,11,34,-284238000.0,1961
+Philadelphia Warriors,Cincinnati Royals,Philadelphia Warriors,23,12,35,-284151600.0,1961
+Philadelphia Warriors,Philadelphia Warriors,New York Knicks,24,12,36,-283892400.0,1961
+Philadelphia Warriors,Detroit Pistons,Philadelphia Warriors,25,12,37,-283806000.0,1961
+Philadelphia Warriors,Philadelphia Warriors,Syracuse Nationals,26,12,38,-283633200.0,1961
+Philadelphia Warriors,New York Knicks,Philadelphia Warriors,26,13,39,-283374000.0,1961
+Philadelphia Warriors,Philadelphia Warriors,St. Louis Hawks,27,13,40,-283028400.0,1961
+Philadelphia Warriors,Boston Celtics,Philadelphia Warriors,27,14,41,-282942000.0,1961
+Philadelphia Warriors,Philadelphia Warriors,Boston Celtics,28,14,42,-282855600.0,1961
+Philadelphia Warriors,Syracuse Nationals,Philadelphia Warriors,28,15,43,-282769200.0,1961
+Philadelphia Warriors,Philadelphia Warriors,Syracuse Nationals,28,16,44,-282510000.0,1961
+Philadelphia Warriors,Philadelphia Warriors,St. Louis Hawks,29,16,45,-282423600.0,1961
+Philadelphia Warriors,Philadelphia Warriors,Los Angeles Lakers,30,16,46,-282250800.0,1961
+Philadelphia Warriors,Detroit Pistons,Philadelphia Warriors,30,17,47,-282164400.0,1961
+Philadelphia Warriors,St. Louis Hawks,Philadelphia Warriors,30,18,48,-281991600.0,1961
+Philadelphia Warriors,Philadelphia Warriors,Boston Celtics,30,19,49,-281818800.0,1961
+Philadelphia Warriors,New York Knicks,Philadelphia Warriors,30,20,50,-281732400.0,1961
+Philadelphia Warriors,Philadelphia Warriors,New York Knicks,31,20,51,-281646000.0,1961
+Philadelphia Warriors,Boston Celtics,Philadelphia Warriors,31,21,52,-281559600.0,1961
+Philadelphia Warriors,Syracuse Nationals,Philadelphia Warriors,32,21,53,-281300400.0,1961
+Philadelphia Warriors,Philadelphia Warriors,Cincinnati Royals,33,21,54,-281214000.0,1961
+Philadelphia Warriors,Cincinnati Royals,Philadelphia Warriors,34,21,55,-281127600.0,1961
+Philadelphia Warriors,Philadelphia Warriors,New York Knicks,35,21,56,-280954800.0,1961
+Philadelphia Warriors,St. Louis Hawks,Philadelphia Warriors,35,22,57,-280782000.0,1961
+Philadelphia Warriors,Detroit Pistons,Philadelphia Warriors,35,23,58,-280695600.0,1961
+Philadelphia Warriors,Philadelphia Warriors,Syracuse Nationals,35,24,59,-280609200.0,1961
+Philadelphia Warriors,New York Knicks,Philadelphia Warriors,36,24,60,-280522800.0,1961
+Philadelphia Warriors,Boston Celtics,Philadelphia Warriors,36,25,61,-280350000.0,1961
+Philadelphia Warriors,Philadelphia Warriors,St. Louis Hawks,36,26,62,-280090800.0,1961
+Philadelphia Warriors,Boston Celtics,Philadelphia Warriors,37,26,63,-280004400.0,1961
+Philadelphia Warriors,Philadelphia Warriors,Boston Celtics,37,27,64,-279918000.0,1961
+Philadelphia Warriors,Philadelphia Warriors,Syracuse Nationals,37,28,65,-279831600.0,1961
+Philadelphia Warriors,New York Knicks,Philadelphia Warriors,38,28,66,-279572400.0,1961
+Philadelphia Warriors,Cincinnati Royals,Philadelphia Warriors,39,28,67,-279486000.0,1961
+Philadelphia Warriors,Philadelphia Warriors,Detroit Pistons,40,28,68,-279399600.0,1961
+Philadelphia Warriors,Cincinnati Royals,Philadelphia Warriors,41,28,69,-279226800.0,1961
+Philadelphia Warriors,Los Angeles Lakers,Philadelphia Warriors,41,29,70,-279140400.0,1961
+Philadelphia Warriors,Los Angeles Lakers,Philadelphia Warriors,42,29,71,-279054000.0,1961
+Philadelphia Warriors,Philadelphia Warriors,Los Angeles Lakers,43,29,72,-278967600.0,1961
+Philadelphia Warriors,Syracuse Nationals,Philadelphia Warriors,43,30,73,-278881200.0,1961
+Philadelphia Warriors,Philadelphia Warriors,Syracuse Nationals,44,30,74,-278708400.0,1961
+Philadelphia Warriors,Philadelphia Warriors,Syracuse Nationals,45,30,75,-278622000.0,1961
+Philadelphia Warriors,Boston Celtics,Philadelphia Warriors,45,31,76,-278535600.0,1961
+Philadelphia Warriors,Philadelphia Warriors,New York Knicks,46,31,77,-278190000.0,1961
+Philadelphia Warriors,Detroit Pistons,Philadelphia Warriors,46,32,78,-278103600.0,1961
+Philadelphia Warriors,St. Louis Hawks,Philadelphia Warriors,46,33,79,-278017200.0,1961
+St. Louis Hawks,St. Louis Hawks,Los Angeles Lakers,1,0,1,-290116800.0,1961
+St. Louis Hawks,Cincinnati Royals,St. Louis Hawks,1,1,2,-290030400.0,1961
+St. Louis Hawks,St. Louis Hawks,Syracuse Nationals,2,1,3,-289857600.0,1961
+St. Louis Hawks,St. Louis Hawks,Cincinnati Royals,3,1,4,-289512000.0,1961
+St. Louis Hawks,Detroit Pistons,St. Louis Hawks,4,1,5,-289162800.0,1961
+St. Louis Hawks,St. Louis Hawks,New York Knicks,5,1,6,-288903600.0,1961
+St. Louis Hawks,St. Louis Hawks,Detroit Pistons,6,1,7,-288558000.0,1961
+St. Louis Hawks,Philadelphia Warriors,St. Louis Hawks,6,2,8,-288385200.0,1961
+St. Louis Hawks,St. Louis Hawks,Philadelphia Warriors,7,2,9,-288298800.0,1961
+St. Louis Hawks,Boston Celtics,St. Louis Hawks,7,3,10,-287953200.0,1961
+St. Louis Hawks,Detroit Pistons,St. Louis Hawks,8,3,11,-287866800.0,1961
+St. Louis Hawks,Cincinnati Royals,St. Louis Hawks,8,4,12,-287780400.0,1961
+St. Louis Hawks,St. Louis Hawks,Cincinnati Royals,9,4,13,-287694000.0,1961
+St. Louis Hawks,New York Knicks,St. Louis Hawks,10,4,14,-287434800.0,1961
+St. Louis Hawks,St. Louis Hawks,Syracuse Nationals,11,4,15,-287262000.0,1961
+St. Louis Hawks,St. Louis Hawks,Los Angeles Lakers,12,4,16,-287089200.0,1961
+St. Louis Hawks,St. Louis Hawks,Boston Celtics,12,5,17,-286830000.0,1961
+St. Louis Hawks,St. Louis Hawks,Syracuse Nationals,12,6,18,-286743600.0,1961
+St. Louis Hawks,New York Knicks,St. Louis Hawks,13,6,19,-286570800.0,1961
+St. Louis Hawks,Philadelphia Warriors,St. Louis Hawks,14,6,20,-286484400.0,1961
+St. Louis Hawks,St. Louis Hawks,Detroit Pistons,15,6,21,-286225200.0,1961
+St. Louis Hawks,Detroit Pistons,St. Louis Hawks,15,7,22,-286138800.0,1961
+St. Louis Hawks,St. Louis Hawks,Syracuse Nationals,16,7,23,-285966000.0,1961
+St. Louis Hawks,St. Louis Hawks,Los Angeles Lakers,17,7,24,-285879600.0,1961
+St. Louis Hawks,Los Angeles Lakers,St. Louis Hawks,18,7,25,-285706800.0,1961
+St. Louis Hawks,Los Angeles Lakers,St. Louis Hawks,18,8,26,-285534000.0,1961
+St. Louis Hawks,Philadelphia Warriors,St. Louis Hawks,19,8,27,-285361200.0,1961
+St. Louis Hawks,St. Louis Hawks,New York Knicks,20,8,28,-285274800.0,1961
+St. Louis Hawks,Syracuse Nationals,St. Louis Hawks,21,8,29,-285188400.0,1961
+St. Louis Hawks,Boston Celtics,St. Louis Hawks,21,9,30,-284929200.0,1961
+St. Louis Hawks,St. Louis Hawks,Syracuse Nationals,22,9,31,-284497200.0,1961
+St. Louis Hawks,St. Louis Hawks,Boston Celtics,23,9,32,-284324400.0,1961
+St. Louis Hawks,Detroit Pistons,St. Louis Hawks,23,10,33,-284238000.0,1961
+St. Louis Hawks,St. Louis Hawks,Los Angeles Lakers,24,10,34,-284151600.0,1961
+St. Louis Hawks,Cincinnati Royals,St. Louis Hawks,24,11,35,-283978800.0,1961
+St. Louis Hawks,Los Angeles Lakers,St. Louis Hawks,24,12,36,-283633200.0,1961
+St. Louis Hawks,Los Angeles Lakers,St. Louis Hawks,25,12,37,-283546800.0,1961
+St. Louis Hawks,St. Louis Hawks,Boston Celtics,26,12,38,-283374000.0,1961
+St. Louis Hawks,St. Louis Hawks,Cincinnati Royals,27,12,39,-283201200.0,1961
+St. Louis Hawks,Syracuse Nationals,St. Louis Hawks,27,13,40,-283114800.0,1961
+St. Louis Hawks,Philadelphia Warriors,St. Louis Hawks,27,14,41,-283028400.0,1961
+St. Louis Hawks,St. Louis Hawks,Detroit Pistons,28,14,42,-282855600.0,1961
+St. Louis Hawks,Detroit Pistons,St. Louis Hawks,28,15,43,-282769200.0,1961
+St. Louis Hawks,Boston Celtics,St. Louis Hawks,29,15,44,-282510000.0,1961
+St. Louis Hawks,Philadelphia Warriors,St. Louis Hawks,29,16,45,-282423600.0,1961
+St. Louis Hawks,St. Louis Hawks,New York Knicks,30,16,46,-282250800.0,1961
+St. Louis Hawks,Cincinnati Royals,St. Louis Hawks,30,17,47,-282164400.0,1961
+St. Louis Hawks,St. Louis Hawks,Philadelphia Warriors,31,17,48,-281991600.0,1961
+St. Louis Hawks,New York Knicks,St. Louis Hawks,32,17,49,-281905200.0,1961
+St. Louis Hawks,St. Louis Hawks,Cincinnati Royals,33,17,50,-281646000.0,1961
+St. Louis Hawks,St. Louis Hawks,Syracuse Nationals,34,17,51,-281559600.0,1961
+St. Louis Hawks,St. Louis Hawks,Boston Celtics,34,18,52,-281386800.0,1961
+St. Louis Hawks,Detroit Pistons,St. Louis Hawks,35,18,53,-281300400.0,1961
+St. Louis Hawks,Los Angeles Lakers,St. Louis Hawks,35,19,54,-281214000.0,1961
+St. Louis Hawks,New York Knicks,St. Louis Hawks,36,19,55,-281041200.0,1961
+St. Louis Hawks,Boston Celtics,St. Louis Hawks,36,20,56,-280954800.0,1961
+St. Louis Hawks,St. Louis Hawks,Philadelphia Warriors,37,20,57,-280782000.0,1961
+St. Louis Hawks,Los Angeles Lakers,St. Louis Hawks,37,21,58,-280695600.0,1961
+St. Louis Hawks,Los Angeles Lakers,St. Louis Hawks,38,21,59,-280609200.0,1961
+St. Louis Hawks,St. Louis Hawks,Cincinnati Royals,39,21,60,-280436400.0,1961
+St. Louis Hawks,St. Louis Hawks,Los Angeles Lakers,39,22,61,-280350000.0,1961
+St. Louis Hawks,St. Louis Hawks,Detroit Pistons,40,22,62,-280177200.0,1961
+St. Louis Hawks,Philadelphia Warriors,St. Louis Hawks,41,22,63,-280090800.0,1961
+St. Louis Hawks,Cincinnati Royals,St. Louis Hawks,41,23,64,-280004400.0,1961
+St. Louis Hawks,Detroit Pistons,St. Louis Hawks,42,23,65,-279831600.0,1961
+St. Louis Hawks,St. Louis Hawks,New York Knicks,42,24,66,-279745200.0,1961
+St. Louis Hawks,St. Louis Hawks,Cincinnati Royals,43,24,67,-279572400.0,1961
+St. Louis Hawks,Syracuse Nationals,St. Louis Hawks,43,25,68,-279399600.0,1961
+St. Louis Hawks,New York Knicks,St. Louis Hawks,44,25,69,-279313200.0,1961
+St. Louis Hawks,St. Louis Hawks,Boston Celtics,44,26,70,-279226800.0,1961
+St. Louis Hawks,Cincinnati Royals,St. Louis Hawks,45,26,71,-279140400.0,1961
+St. Louis Hawks,Cincinnati Royals,St. Louis Hawks,45,27,72,-278967600.0,1961
+St. Louis Hawks,Boston Celtics,St. Louis Hawks,46,27,73,-278881200.0,1961
+St. Louis Hawks,St. Louis Hawks,Detroit Pistons,47,27,74,-278622000.0,1961
+St. Louis Hawks,Detroit Pistons,St. Louis Hawks,48,27,75,-278535600.0,1961
+St. Louis Hawks,St. Louis Hawks,Los Angeles Lakers,49,27,76,-278362800.0,1961
+St. Louis Hawks,New York Knicks,St. Louis Hawks,50,27,77,-278276400.0,1961
+St. Louis Hawks,Syracuse Nationals,St. Louis Hawks,50,28,78,-278190000.0,1961
+St. Louis Hawks,St. Louis Hawks,Philadelphia Warriors,51,28,79,-278017200.0,1961
+Syracuse Nationals,Syracuse Nationals,Philadelphia Warriors,0,1,1,-290116800.0,1961
+Syracuse Nationals,St. Louis Hawks,Syracuse Nationals,0,2,2,-289857600.0,1961
+Syracuse Nationals,Cincinnati Royals,Syracuse Nationals,0,3,3,-289684800.0,1961
+Syracuse Nationals,Syracuse Nationals,Los Angeles Lakers,1,3,4,-289512000.0,1961
+Syracuse Nationals,Los Angeles Lakers,Syracuse Nationals,1,4,5,-288903600.0,1961
+Syracuse Nationals,Los Angeles Lakers,Syracuse Nationals,1,5,6,-288817200.0,1961
+Syracuse Nationals,New York Knicks,Syracuse Nationals,1,6,7,-288385200.0,1961
+Syracuse Nationals,Syracuse Nationals,New York Knicks,2,6,8,-288298800.0,1961
+Syracuse Nationals,Syracuse Nationals,Cincinnati Royals,3,6,9,-287953200.0,1961
+Syracuse Nationals,Philadelphia Warriors,Syracuse Nationals,4,6,10,-287866800.0,1961
+Syracuse Nationals,Syracuse Nationals,Boston Celtics,4,7,11,-287694000.0,1961
+Syracuse Nationals,Detroit Pistons,Syracuse Nationals,4,8,12,-287348400.0,1961
+Syracuse Nationals,St. Louis Hawks,Syracuse Nationals,4,9,13,-287262000.0,1961
+Syracuse Nationals,Boston Celtics,Syracuse Nationals,4,10,14,-287089200.0,1961
+Syracuse Nationals,Cincinnati Royals,Syracuse Nationals,5,10,15,-286830000.0,1961
+Syracuse Nationals,St. Louis Hawks,Syracuse Nationals,6,10,16,-286743600.0,1961
+Syracuse Nationals,Cincinnati Royals,Syracuse Nationals,7,10,17,-286657200.0,1961
+Syracuse Nationals,Syracuse Nationals,New York Knicks,8,10,18,-286484400.0,1961
+Syracuse Nationals,Philadelphia Warriors,Syracuse Nationals,8,11,19,-286225200.0,1961
+Syracuse Nationals,Boston Celtics,Syracuse Nationals,9,11,20,-286138800.0,1961
+Syracuse Nationals,St. Louis Hawks,Syracuse Nationals,9,12,21,-285966000.0,1961
+Syracuse Nationals,Detroit Pistons,Syracuse Nationals,10,12,22,-285879600.0,1961
+Syracuse Nationals,Syracuse Nationals,Philadelphia Warriors,11,12,23,-285793200.0,1961
+Syracuse Nationals,Cincinnati Royals,Syracuse Nationals,12,12,24,-285620400.0,1961
+Syracuse Nationals,Boston Celtics,Syracuse Nationals,12,13,25,-285447600.0,1961
+Syracuse Nationals,Syracuse Nationals,St. Louis Hawks,12,14,26,-285188400.0,1961
+Syracuse Nationals,New York Knicks,Syracuse Nationals,12,15,27,-285015600.0,1961
+Syracuse Nationals,Syracuse Nationals,New York Knicks,13,15,28,-284583600.0,1961
+Syracuse Nationals,St. Louis Hawks,Syracuse Nationals,13,16,29,-284497200.0,1961
+Syracuse Nationals,Cincinnati Royals,Syracuse Nationals,13,17,30,-284410800.0,1961
+Syracuse Nationals,Syracuse Nationals,Los Angeles Lakers,14,17,31,-284324400.0,1961
+Syracuse Nationals,Detroit Pistons,Syracuse Nationals,14,18,32,-284151600.0,1961
+Syracuse Nationals,Syracuse Nationals,Boston Celtics,14,19,33,-283978800.0,1961
+Syracuse Nationals,Cincinnati Royals,Syracuse Nationals,14,20,34,-283892400.0,1961
+Syracuse Nationals,New York Knicks,Syracuse Nationals,15,20,35,-283806000.0,1961
+Syracuse Nationals,Syracuse Nationals,Cincinnati Royals,15,21,36,-283719600.0,1961
+Syracuse Nationals,Philadelphia Warriors,Syracuse Nationals,15,22,37,-283633200.0,1961
+Syracuse Nationals,New York Knicks,Syracuse Nationals,15,23,38,-283460400.0,1961
+Syracuse Nationals,Syracuse Nationals,Detroit Pistons,16,23,39,-283374000.0,1961
+Syracuse Nationals,Syracuse Nationals,St. Louis Hawks,17,23,40,-283114800.0,1961
+Syracuse Nationals,Boston Celtics,Syracuse Nationals,17,24,41,-283028400.0,1961
+Syracuse Nationals,New York Knicks,Syracuse Nationals,18,24,42,-282942000.0,1961
+Syracuse Nationals,Syracuse Nationals,Philadelphia Warriors,19,24,43,-282769200.0,1961
+Syracuse Nationals,Philadelphia Warriors,Syracuse Nationals,20,24,44,-282510000.0,1961
+Syracuse Nationals,Syracuse Nationals,Boston Celtics,21,24,45,-282250800.0,1961
+Syracuse Nationals,Los Angeles Lakers,Syracuse Nationals,22,24,46,-282164400.0,1961
+Syracuse Nationals,Los Angeles Lakers,Syracuse Nationals,22,25,47,-281991600.0,1961
+Syracuse Nationals,Los Angeles Lakers,Syracuse Nationals,22,26,48,-281905200.0,1961
+Syracuse Nationals,Cincinnati Royals,Syracuse Nationals,23,26,49,-281732400.0,1961
+Syracuse Nationals,St. Louis Hawks,Syracuse Nationals,23,27,50,-281559600.0,1961
+Syracuse Nationals,New York Knicks,Syracuse Nationals,24,27,51,-281386800.0,1961
+Syracuse Nationals,Syracuse Nationals,Philadelphia Warriors,24,28,52,-281300400.0,1961
+Syracuse Nationals,Detroit Pistons,Syracuse Nationals,24,29,53,-281127600.0,1961
+Syracuse Nationals,Detroit Pistons,Syracuse Nationals,24,30,54,-281041200.0,1961
+Syracuse Nationals,Syracuse Nationals,Cincinnati Royals,25,30,55,-280954800.0,1961
+Syracuse Nationals,Syracuse Nationals,Boston Celtics,26,30,56,-280695600.0,1961
+Syracuse Nationals,Philadelphia Warriors,Syracuse Nationals,27,30,57,-280609200.0,1961
+Syracuse Nationals,Detroit Pistons,Syracuse Nationals,28,30,58,-280436400.0,1961
+Syracuse Nationals,Syracuse Nationals,Detroit Pistons,29,30,59,-280350000.0,1961
+Syracuse Nationals,New York Knicks,Syracuse Nationals,29,31,60,-280090800.0,1961
+Syracuse Nationals,Syracuse Nationals,New York Knicks,30,31,61,-280004400.0,1961
+Syracuse Nationals,Detroit Pistons,Syracuse Nationals,31,31,62,-279918000.0,1961
+Syracuse Nationals,Philadelphia Warriors,Syracuse Nationals,32,31,63,-279831600.0,1961
+Syracuse Nationals,Syracuse Nationals,Boston Celtics,32,32,64,-279745200.0,1961
+Syracuse Nationals,Los Angeles Lakers,Syracuse Nationals,33,32,65,-279658800.0,1961
+Syracuse Nationals,Detroit Pistons,Syracuse Nationals,34,32,66,-279572400.0,1961
+Syracuse Nationals,Syracuse Nationals,St. Louis Hawks,35,32,67,-279399600.0,1961
+Syracuse Nationals,Boston Celtics,Syracuse Nationals,35,33,68,-279313200.0,1961
+Syracuse Nationals,Syracuse Nationals,New York Knicks,36,33,69,-279140400.0,1961
+Syracuse Nationals,Syracuse Nationals,Philadelphia Warriors,37,33,70,-278881200.0,1961
+Syracuse Nationals,Los Angeles Lakers,Syracuse Nationals,37,34,71,-278794800.0,1961
+Syracuse Nationals,Philadelphia Warriors,Syracuse Nationals,37,35,72,-278708400.0,1961
+Syracuse Nationals,Philadelphia Warriors,Syracuse Nationals,37,36,73,-278622000.0,1961
+Syracuse Nationals,Syracuse Nationals,Los Angeles Lakers,37,37,74,-278535600.0,1961
+Syracuse Nationals,New York Knicks,Syracuse Nationals,37,38,75,-278362800.0,1961
+Syracuse Nationals,Boston Celtics,Syracuse Nationals,37,39,76,-278276400.0,1961
+Syracuse Nationals,Syracuse Nationals,St. Louis Hawks,38,39,77,-278190000.0,1961
+Syracuse Nationals,Boston Celtics,Syracuse Nationals,38,40,78,-278017200.0,1961
+Syracuse Nationals,Syracuse Nationals,Boston Celtics,38,41,79,-277930800.0,1961

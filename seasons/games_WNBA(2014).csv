@@ -1,0 +1,409 @@
+id,home_team,away_team,win,loss,game_number,date,year
+Atlanta Dream,Atlanta Dream,San Antonio Silver Stars,1,0,1,1400212800.0,2014
+Atlanta Dream,Indiana Fever,Atlanta Dream,2,0,2,1400299200.0,2014
+Atlanta Dream,Chicago Sky,Atlanta Dream,2,1,3,1400904000.0,2014
+Atlanta Dream,Atlanta Dream,Indiana Fever,2,2,4,1400990400.0,2014
+Atlanta Dream,Atlanta Dream,Seattle Storm,3,2,5,1401422400.0,2014
+Atlanta Dream,Connecticut Sun,Atlanta Dream,3,3,6,1401595200.0,2014
+Atlanta Dream,Atlanta Dream,Los Angeles Sparks,4,3,7,1401768000.0,2014
+Atlanta Dream,Atlanta Dream,Chicago Sky,5,3,8,1402113600.0,2014
+Atlanta Dream,Atlanta Dream,Minnesota Lynx,6,3,9,1402632000.0,2014
+Atlanta Dream,Washington Mystics,Atlanta Dream,7,3,10,1402804800.0,2014
+Atlanta Dream,Atlanta Dream,Washington Mystics,8,3,11,1403064000.0,2014
+Atlanta Dream,Atlanta Dream,New York Liberty,9,3,12,1403236800.0,2014
+Atlanta Dream,New York Liberty,Atlanta Dream,9,4,13,1403409600.0,2014
+Atlanta Dream,San Antonio Silver Stars,Atlanta Dream,10,4,14,1403755200.0,2014
+Atlanta Dream,Indiana Fever,Atlanta Dream,11,4,15,1404014400.0,2014
+Atlanta Dream,Atlanta Dream,Indiana Fever,11,5,16,1404187200.0,2014
+Atlanta Dream,Atlanta Dream,Washington Mystics,12,5,17,1404532800.0,2014
+Atlanta Dream,Atlanta Dream,Connecticut Sun,13,5,18,1404792000.0,2014
+Atlanta Dream,Indiana Fever,Atlanta Dream,14,5,19,1405137600.0,2014
+Atlanta Dream,Atlanta Dream,Chicago Sky,15,5,20,1405224000.0,2014
+Atlanta Dream,New York Liberty,Atlanta Dream,15,6,21,1405483200.0,2014
+Atlanta Dream,Minnesota Lynx,Atlanta Dream,15,7,22,1406001600.0,2014
+Atlanta Dream,Atlanta Dream,Chicago Sky,15,8,23,1406260800.0,2014
+Atlanta Dream,Washington Mystics,Atlanta Dream,15,9,24,1406433600.0,2014
+Atlanta Dream,Atlanta Dream,Connecticut Sun,16,9,25,1406606400.0,2014
+Atlanta Dream,Tulsa Shock,Atlanta Dream,17,9,26,1406779200.0,2014
+Atlanta Dream,Atlanta Dream,New York Liberty,17,10,27,1407038400.0,2014
+Atlanta Dream,Phoenix Mercury,Atlanta Dream,17,11,28,1407211200.0,2014
+Atlanta Dream,Seattle Storm,Atlanta Dream,17,12,29,1407384000.0,2014
+Atlanta Dream,Los Angeles Sparks,Atlanta Dream,17,13,30,1407470400.0,2014
+Atlanta Dream,Chicago Sky,Atlanta Dream,17,14,31,1407643200.0,2014
+Atlanta Dream,Atlanta Dream,Phoenix Mercury,18,14,32,1407902400.0,2014
+Atlanta Dream,Atlanta Dream,Tulsa Shock,19,14,33,1408075200.0,2014
+Atlanta Dream,Connecticut Sun,Atlanta Dream,19,15,34,1408248000.0,2014
+Chicago Sky,Chicago Sky,Indiana Fever,1,0,1,1400212800.0,2014
+Chicago Sky,New York Liberty,Chicago Sky,2,0,2,1400299200.0,2014
+Chicago Sky,Chicago Sky,Connecticut Sun,3,0,3,1400644800.0,2014
+Chicago Sky,Chicago Sky,Atlanta Dream,4,0,4,1400904000.0,2014
+Chicago Sky,Chicago Sky,Minnesota Lynx,4,1,5,1401076800.0,2014
+Chicago Sky,Chicago Sky,Connecticut Sun,5,1,6,1401422400.0,2014
+Chicago Sky,Chicago Sky,Los Angeles Sparks,5,2,7,1402027200.0,2014
+Chicago Sky,Atlanta Dream,Chicago Sky,5,3,8,1402113600.0,2014
+Chicago Sky,Chicago Sky,Seattle Storm,5,4,9,1402372800.0,2014
+Chicago Sky,Washington Mystics,Chicago Sky,5,5,10,1402632000.0,2014
+Chicago Sky,Chicago Sky,New York Liberty,6,5,11,1403064000.0,2014
+Chicago Sky,Chicago Sky,Indiana Fever,6,6,12,1403236800.0,2014
+Chicago Sky,Chicago Sky,Tulsa Shock,6,7,13,1403409600.0,2014
+Chicago Sky,Connecticut Sun,Chicago Sky,6,8,14,1403668800.0,2014
+Chicago Sky,New York Liberty,Chicago Sky,7,8,15,1403841600.0,2014
+Chicago Sky,Los Angeles Sparks,Chicago Sky,8,8,16,1404187200.0,2014
+Chicago Sky,Phoenix Mercury,Chicago Sky,8,9,17,1404273600.0,2014
+Chicago Sky,Seattle Storm,Chicago Sky,8,10,18,1404532800.0,2014
+Chicago Sky,Chicago Sky,Washington Mystics,8,11,19,1404878400.0,2014
+Chicago Sky,Chicago Sky,Phoenix Mercury,8,12,20,1405051200.0,2014
+Chicago Sky,Atlanta Dream,Chicago Sky,8,13,21,1405224000.0,2014
+Chicago Sky,Indiana Fever,Chicago Sky,8,14,22,1405569600.0,2014
+Chicago Sky,Chicago Sky,Indiana Fever,9,14,23,1406001600.0,2014
+Chicago Sky,Atlanta Dream,Chicago Sky,10,14,24,1406260800.0,2014
+Chicago Sky,Tulsa Shock,Chicago Sky,10,15,25,1406433600.0,2014
+Chicago Sky,San Antonio Silver Stars,Chicago Sky,10,16,26,1406606400.0,2014
+Chicago Sky,Chicago Sky,New York Liberty,11,16,27,1406779200.0,2014
+Chicago Sky,Chicago Sky,Washington Mystics,12,16,28,1407038400.0,2014
+Chicago Sky,Connecticut Sun,Chicago Sky,13,16,29,1407211200.0,2014
+Chicago Sky,Minnesota Lynx,Chicago Sky,13,17,30,1407384000.0,2014
+Chicago Sky,Chicago Sky,Atlanta Dream,14,17,31,1407643200.0,2014
+Chicago Sky,Washington Mystics,Chicago Sky,15,17,32,1407902400.0,2014
+Chicago Sky,Indiana Fever,Chicago Sky,15,18,33,1408161600.0,2014
+Chicago Sky,Chicago Sky,San Antonio Silver Stars,15,19,34,1408248000.0,2014
+Connecticut Sun,Connecticut Sun,New York Liberty,0,1,1,1400212800.0,2014
+Connecticut Sun,Minnesota Lynx,Connecticut Sun,0,2,2,1400385600.0,2014
+Connecticut Sun,Chicago Sky,Connecticut Sun,0,3,3,1400644800.0,2014
+Connecticut Sun,Connecticut Sun,Seattle Storm,1,3,4,1400817600.0,2014
+Connecticut Sun,Indiana Fever,Connecticut Sun,1,4,5,1401336000.0,2014
+Connecticut Sun,Chicago Sky,Connecticut Sun,1,5,6,1401422400.0,2014
+Connecticut Sun,Connecticut Sun,Atlanta Dream,2,5,7,1401595200.0,2014
+Connecticut Sun,Connecticut Sun,Washington Mystics,2,6,8,1401940800.0,2014
+Connecticut Sun,Connecticut Sun,Indiana Fever,3,6,9,1402113600.0,2014
+Connecticut Sun,Connecticut Sun,Phoenix Mercury,4,6,10,1402545600.0,2014
+Connecticut Sun,New York Liberty,Connecticut Sun,5,6,11,1402632000.0,2014
+Connecticut Sun,Connecticut Sun,New York Liberty,6,6,12,1402804800.0,2014
+Connecticut Sun,Connecticut Sun,Indiana Fever,7,6,13,1402977600.0,2014
+Connecticut Sun,Connecticut Sun,Chicago Sky,8,6,14,1403668800.0,2014
+Connecticut Sun,Washington Mystics,Connecticut Sun,8,7,15,1403841600.0,2014
+Connecticut Sun,New York Liberty,Connecticut Sun,8,8,16,1404014400.0,2014
+Connecticut Sun,Connecticut Sun,San Antonio Silver Stars,8,9,17,1404187200.0,2014
+Connecticut Sun,Connecticut Sun,Tulsa Shock,8,10,18,1404360000.0,2014
+Connecticut Sun,Tulsa Shock,Connecticut Sun,9,10,19,1404532800.0,2014
+Connecticut Sun,Atlanta Dream,Connecticut Sun,9,11,20,1404792000.0,2014
+Connecticut Sun,Indiana Fever,Connecticut Sun,9,12,21,1404964800.0,2014
+Connecticut Sun,Connecticut Sun,Los Angeles Sparks,9,13,22,1405224000.0,2014
+Connecticut Sun,Seattle Storm,Connecticut Sun,10,13,23,1405396800.0,2014
+Connecticut Sun,Phoenix Mercury,Connecticut Sun,10,14,24,1405569600.0,2014
+Connecticut Sun,Washington Mystics,Connecticut Sun,10,15,25,1406088000.0,2014
+Connecticut Sun,Connecticut Sun,Minnesota Lynx,10,16,26,1406433600.0,2014
+Connecticut Sun,Atlanta Dream,Connecticut Sun,10,17,27,1406606400.0,2014
+Connecticut Sun,San Antonio Silver Stars,Connecticut Sun,11,17,28,1406865600.0,2014
+Connecticut Sun,Los Angeles Sparks,Connecticut Sun,11,18,29,1407038400.0,2014
+Connecticut Sun,Connecticut Sun,Chicago Sky,11,19,30,1407211200.0,2014
+Connecticut Sun,New York Liberty,Connecticut Sun,11,20,31,1407470400.0,2014
+Connecticut Sun,Connecticut Sun,Washington Mystics,12,20,32,1407643200.0,2014
+Connecticut Sun,Connecticut Sun,Washington Mystics,12,21,33,1408075200.0,2014
+Connecticut Sun,Connecticut Sun,Atlanta Dream,13,21,34,1408248000.0,2014
+Indiana Fever,Chicago Sky,Indiana Fever,0,1,1,1400212800.0,2014
+Indiana Fever,Indiana Fever,Atlanta Dream,0,2,2,1400299200.0,2014
+Indiana Fever,Indiana Fever,Washington Mystics,0,3,3,1400817600.0,2014
+Indiana Fever,Atlanta Dream,Indiana Fever,1,3,4,1400990400.0,2014
+Indiana Fever,Indiana Fever,Connecticut Sun,2,3,5,1401336000.0,2014
+Indiana Fever,Indiana Fever,New York Liberty,3,3,6,1401508800.0,2014
+Indiana Fever,Washington Mystics,Indiana Fever,4,3,7,1402027200.0,2014
+Indiana Fever,Connecticut Sun,Indiana Fever,4,4,8,1402113600.0,2014
+Indiana Fever,Indiana Fever,Seattle Storm,5,4,9,1402459200.0,2014
+Indiana Fever,Connecticut Sun,Indiana Fever,5,5,10,1402977600.0,2014
+Indiana Fever,Chicago Sky,Indiana Fever,6,5,11,1403236800.0,2014
+Indiana Fever,Minnesota Lynx,Indiana Fever,6,6,12,1403409600.0,2014
+Indiana Fever,Indiana Fever,Tulsa Shock,6,7,13,1403668800.0,2014
+Indiana Fever,Indiana Fever,Phoenix Mercury,6,8,14,1403841600.0,2014
+Indiana Fever,Indiana Fever,Atlanta Dream,6,9,15,1404014400.0,2014
+Indiana Fever,Atlanta Dream,Indiana Fever,7,9,16,1404187200.0,2014
+Indiana Fever,Washington Mystics,Indiana Fever,8,9,17,1404273600.0,2014
+Indiana Fever,Indiana Fever,San Antonio Silver Stars,8,10,18,1404532800.0,2014
+Indiana Fever,Tulsa Shock,Indiana Fever,9,10,19,1404792000.0,2014
+Indiana Fever,Indiana Fever,Connecticut Sun,10,10,20,1404964800.0,2014
+Indiana Fever,Indiana Fever,Atlanta Dream,10,11,21,1405137600.0,2014
+Indiana Fever,Indiana Fever,Los Angeles Sparks,10,12,22,1405396800.0,2014
+Indiana Fever,Indiana Fever,Chicago Sky,11,12,23,1405569600.0,2014
+Indiana Fever,Chicago Sky,Indiana Fever,11,13,24,1406001600.0,2014
+Indiana Fever,San Antonio Silver Stars,Indiana Fever,12,13,25,1406347200.0,2014
+Indiana Fever,Los Angeles Sparks,Indiana Fever,12,14,26,1406520000.0,2014
+Indiana Fever,Seattle Storm,Indiana Fever,13,14,27,1406779200.0,2014
+Indiana Fever,Phoenix Mercury,Indiana Fever,13,15,28,1406952000.0,2014
+Indiana Fever,Indiana Fever,Minnesota Lynx,13,16,29,1407211200.0,2014
+Indiana Fever,Indiana Fever,Washington Mystics,13,17,30,1407470400.0,2014
+Indiana Fever,New York Liberty,Indiana Fever,14,17,31,1407643200.0,2014
+Indiana Fever,Indiana Fever,New York Liberty,15,17,32,1407988800.0,2014
+Indiana Fever,Indiana Fever,Chicago Sky,16,17,33,1408161600.0,2014
+Indiana Fever,New York Liberty,Indiana Fever,16,18,34,1408248000.0,2014
+Los Angeles Sparks,Seattle Storm,Los Angeles Sparks,1,0,1,1400212800.0,2014
+Los Angeles Sparks,Los Angeles Sparks,Phoenix Mercury,1,1,2,1400385600.0,2014
+Los Angeles Sparks,Los Angeles Sparks,San Antonio Silver Stars,2,1,3,1400990400.0,2014
+Los Angeles Sparks,Washington Mystics,Los Angeles Sparks,2,2,4,1401595200.0,2014
+Los Angeles Sparks,Atlanta Dream,Los Angeles Sparks,2,3,5,1401768000.0,2014
+Los Angeles Sparks,Chicago Sky,Los Angeles Sparks,3,3,6,1402027200.0,2014
+Los Angeles Sparks,Los Angeles Sparks,Minnesota Lynx,3,4,7,1402200000.0,2014
+Los Angeles Sparks,Tulsa Shock,Los Angeles Sparks,3,5,8,1402632000.0,2014
+Los Angeles Sparks,San Antonio Silver Stars,Los Angeles Sparks,3,6,9,1402718400.0,2014
+Los Angeles Sparks,Los Angeles Sparks,Minnesota Lynx,3,7,10,1402977600.0,2014
+Los Angeles Sparks,Los Angeles Sparks,Tulsa Shock,4,7,11,1403150400.0,2014
+Los Angeles Sparks,Los Angeles Sparks,San Antonio Silver Stars,4,8,12,1403409600.0,2014
+Los Angeles Sparks,Los Angeles Sparks,Seattle Storm,5,8,13,1403582400.0,2014
+Los Angeles Sparks,Tulsa Shock,Los Angeles Sparks,6,8,14,1403928000.0,2014
+Los Angeles Sparks,Los Angeles Sparks,Chicago Sky,6,9,15,1404187200.0,2014
+Los Angeles Sparks,Seattle Storm,Los Angeles Sparks,7,9,16,1404360000.0,2014
+Los Angeles Sparks,Los Angeles Sparks,Phoenix Mercury,7,10,17,1404619200.0,2014
+Los Angeles Sparks,Minnesota Lynx,Los Angeles Sparks,7,11,18,1404792000.0,2014
+Los Angeles Sparks,New York Liberty,Los Angeles Sparks,8,11,19,1405051200.0,2014
+Los Angeles Sparks,Connecticut Sun,Los Angeles Sparks,9,11,20,1405224000.0,2014
+Los Angeles Sparks,Indiana Fever,Los Angeles Sparks,10,11,21,1405396800.0,2014
+Los Angeles Sparks,Los Angeles Sparks,Washington Mystics,10,12,22,1405569600.0,2014
+Los Angeles Sparks,Los Angeles Sparks,New York Liberty,10,13,23,1406088000.0,2014
+Los Angeles Sparks,Los Angeles Sparks,Phoenix Mercury,10,14,24,1406174400.0,2014
+Los Angeles Sparks,Seattle Storm,Los Angeles Sparks,11,14,25,1406347200.0,2014
+Los Angeles Sparks,Los Angeles Sparks,Indiana Fever,12,14,26,1406520000.0,2014
+Los Angeles Sparks,Phoenix Mercury,Los Angeles Sparks,12,15,27,1406606400.0,2014
+Los Angeles Sparks,Los Angeles Sparks,Connecticut Sun,13,15,28,1407038400.0,2014
+Los Angeles Sparks,Los Angeles Sparks,Tulsa Shock,13,16,29,1407211200.0,2014
+Los Angeles Sparks,Los Angeles Sparks,Atlanta Dream,14,16,30,1407470400.0,2014
+Los Angeles Sparks,San Antonio Silver Stars,Los Angeles Sparks,14,17,31,1407643200.0,2014
+Los Angeles Sparks,Minnesota Lynx,Los Angeles Sparks,15,17,32,1407816000.0,2014
+Los Angeles Sparks,Los Angeles Sparks,Seattle Storm,16,17,33,1408075200.0,2014
+Los Angeles Sparks,Phoenix Mercury,Los Angeles Sparks,16,18,34,1408161600.0,2014
+Minnesota Lynx,Washington Mystics,Minnesota Lynx,1,0,1,1400212800.0,2014
+Minnesota Lynx,Minnesota Lynx,Connecticut Sun,2,0,2,1400385600.0,2014
+Minnesota Lynx,Tulsa Shock,Minnesota Lynx,3,0,3,1400817600.0,2014
+Minnesota Lynx,Minnesota Lynx,New York Liberty,4,0,4,1400904000.0,2014
+Minnesota Lynx,Chicago Sky,Minnesota Lynx,5,0,5,1401076800.0,2014
+Minnesota Lynx,Minnesota Lynx,San Antonio Silver Stars,6,0,6,1401422400.0,2014
+Minnesota Lynx,San Antonio Silver Stars,Minnesota Lynx,7,0,7,1401595200.0,2014
+Minnesota Lynx,Seattle Storm,Minnesota Lynx,7,1,8,1402027200.0,2014
+Minnesota Lynx,Los Angeles Sparks,Minnesota Lynx,8,1,9,1402200000.0,2014
+Minnesota Lynx,Atlanta Dream,Minnesota Lynx,8,2,10,1402632000.0,2014
+Minnesota Lynx,Minnesota Lynx,Phoenix Mercury,8,3,11,1402804800.0,2014
+Minnesota Lynx,Los Angeles Sparks,Minnesota Lynx,9,3,12,1402977600.0,2014
+Minnesota Lynx,Phoenix Mercury,Minnesota Lynx,9,4,13,1403064000.0,2014
+Minnesota Lynx,Minnesota Lynx,Washington Mystics,10,4,14,1403236800.0,2014
+Minnesota Lynx,Minnesota Lynx,Indiana Fever,11,4,15,1403409600.0,2014
+Minnesota Lynx,Seattle Storm,Minnesota Lynx,11,5,16,1403841600.0,2014
+Minnesota Lynx,Minnesota Lynx,Seattle Storm,12,5,17,1404014400.0,2014
+Minnesota Lynx,Minnesota Lynx,San Antonio Silver Stars,13,5,18,1404360000.0,2014
+Minnesota Lynx,New York Liberty,Minnesota Lynx,13,6,19,1404619200.0,2014
+Minnesota Lynx,Minnesota Lynx,Los Angeles Sparks,14,6,20,1404792000.0,2014
+Minnesota Lynx,Tulsa Shock,Minnesota Lynx,15,6,21,1404964800.0,2014
+Minnesota Lynx,Minnesota Lynx,Seattle Storm,16,6,22,1405224000.0,2014
+Minnesota Lynx,Minnesota Lynx,Tulsa Shock,17,6,23,1405483200.0,2014
+Minnesota Lynx,Minnesota Lynx,Atlanta Dream,18,6,24,1406001600.0,2014
+Minnesota Lynx,Minnesota Lynx,San Antonio Silver Stars,19,6,25,1406260800.0,2014
+Minnesota Lynx,Connecticut Sun,Minnesota Lynx,20,6,26,1406433600.0,2014
+Minnesota Lynx,Minnesota Lynx,Phoenix Mercury,21,6,27,1406779200.0,2014
+Minnesota Lynx,Tulsa Shock,Minnesota Lynx,22,6,28,1406952000.0,2014
+Minnesota Lynx,Indiana Fever,Minnesota Lynx,23,6,29,1407211200.0,2014
+Minnesota Lynx,Minnesota Lynx,Chicago Sky,24,6,30,1407384000.0,2014
+Minnesota Lynx,Phoenix Mercury,Minnesota Lynx,24,7,31,1407556800.0,2014
+Minnesota Lynx,Minnesota Lynx,Los Angeles Sparks,24,8,32,1407816000.0,2014
+Minnesota Lynx,San Antonio Silver Stars,Minnesota Lynx,24,9,33,1408075200.0,2014
+Minnesota Lynx,Minnesota Lynx,Tulsa Shock,25,9,34,1408161600.0,2014
+New York Liberty,Connecticut Sun,New York Liberty,1,0,1,1400212800.0,2014
+New York Liberty,New York Liberty,Chicago Sky,1,1,2,1400299200.0,2014
+New York Liberty,Minnesota Lynx,New York Liberty,1,2,3,1400904000.0,2014
+New York Liberty,New York Liberty,Seattle Storm,2,2,4,1401163200.0,2014
+New York Liberty,Washington Mystics,New York Liberty,2,3,5,1401422400.0,2014
+New York Liberty,Indiana Fever,New York Liberty,2,4,6,1401508800.0,2014
+New York Liberty,New York Liberty,San Antonio Silver Stars,2,5,7,1401940800.0,2014
+New York Liberty,New York Liberty,Washington Mystics,3,5,8,1402200000.0,2014
+New York Liberty,Tulsa Shock,New York Liberty,3,6,9,1402372800.0,2014
+New York Liberty,New York Liberty,Connecticut Sun,3,7,10,1402632000.0,2014
+New York Liberty,Connecticut Sun,New York Liberty,3,8,11,1402804800.0,2014
+New York Liberty,Chicago Sky,New York Liberty,3,9,12,1403064000.0,2014
+New York Liberty,Atlanta Dream,New York Liberty,3,10,13,1403236800.0,2014
+New York Liberty,New York Liberty,Atlanta Dream,4,10,14,1403409600.0,2014
+New York Liberty,New York Liberty,Chicago Sky,4,11,15,1403841600.0,2014
+New York Liberty,New York Liberty,Connecticut Sun,5,11,16,1404014400.0,2014
+New York Liberty,New York Liberty,Tulsa Shock,6,11,17,1404187200.0,2014
+New York Liberty,New York Liberty,Minnesota Lynx,7,11,18,1404619200.0,2014
+New York Liberty,San Antonio Silver Stars,New York Liberty,7,12,19,1404878400.0,2014
+New York Liberty,New York Liberty,Los Angeles Sparks,7,13,20,1405051200.0,2014
+New York Liberty,New York Liberty,Atlanta Dream,8,13,21,1405483200.0,2014
+New York Liberty,Los Angeles Sparks,New York Liberty,9,13,22,1406088000.0,2014
+New York Liberty,Seattle Storm,New York Liberty,10,13,23,1406174400.0,2014
+New York Liberty,Phoenix Mercury,New York Liberty,10,14,24,1406347200.0,2014
+New York Liberty,New York Liberty,Washington Mystics,11,14,25,1406606400.0,2014
+New York Liberty,Chicago Sky,New York Liberty,11,15,26,1406779200.0,2014
+New York Liberty,Atlanta Dream,New York Liberty,12,15,27,1407038400.0,2014
+New York Liberty,Washington Mystics,New York Liberty,12,16,28,1407211200.0,2014
+New York Liberty,New York Liberty,Connecticut Sun,13,16,29,1407470400.0,2014
+New York Liberty,New York Liberty,Indiana Fever,13,17,30,1407643200.0,2014
+New York Liberty,New York Liberty,Phoenix Mercury,13,18,31,1407816000.0,2014
+New York Liberty,Indiana Fever,New York Liberty,13,19,32,1407988800.0,2014
+New York Liberty,Washington Mystics,New York Liberty,14,19,33,1408161600.0,2014
+New York Liberty,New York Liberty,Indiana Fever,15,19,34,1408248000.0,2014
+Phoenix Mercury,Phoenix Mercury,Seattle Storm,1,0,1,1400299200.0,2014
+Phoenix Mercury,Los Angeles Sparks,Phoenix Mercury,2,0,2,1400385600.0,2014
+Phoenix Mercury,Phoenix Mercury,San Antonio Silver Stars,2,1,3,1400817600.0,2014
+Phoenix Mercury,Phoenix Mercury,Tulsa Shock,3,1,4,1401422400.0,2014
+Phoenix Mercury,Phoenix Mercury,Seattle Storm,4,1,5,1401768000.0,2014
+Phoenix Mercury,Tulsa Shock,Phoenix Mercury,4,2,6,1402027200.0,2014
+Phoenix Mercury,San Antonio Silver Stars,Phoenix Mercury,5,2,7,1402113600.0,2014
+Phoenix Mercury,Washington Mystics,Phoenix Mercury,6,2,8,1402372800.0,2014
+Phoenix Mercury,Connecticut Sun,Phoenix Mercury,6,3,9,1402545600.0,2014
+Phoenix Mercury,Minnesota Lynx,Phoenix Mercury,7,3,10,1402804800.0,2014
+Phoenix Mercury,Phoenix Mercury,Minnesota Lynx,8,3,11,1403064000.0,2014
+Phoenix Mercury,Phoenix Mercury,Tulsa Shock,9,3,12,1403236800.0,2014
+Phoenix Mercury,Indiana Fever,Phoenix Mercury,10,3,13,1403841600.0,2014
+Phoenix Mercury,Tulsa Shock,Phoenix Mercury,11,3,14,1404014400.0,2014
+Phoenix Mercury,Phoenix Mercury,Chicago Sky,12,3,15,1404273600.0,2014
+Phoenix Mercury,Los Angeles Sparks,Phoenix Mercury,13,3,16,1404619200.0,2014
+Phoenix Mercury,Phoenix Mercury,Seattle Storm,14,3,17,1404878400.0,2014
+Phoenix Mercury,Chicago Sky,Phoenix Mercury,15,3,18,1405051200.0,2014
+Phoenix Mercury,Phoenix Mercury,San Antonio Silver Stars,16,3,19,1405224000.0,2014
+Phoenix Mercury,Phoenix Mercury,Washington Mystics,17,3,20,1405396800.0,2014
+Phoenix Mercury,Phoenix Mercury,Connecticut Sun,18,3,21,1405569600.0,2014
+Phoenix Mercury,Seattle Storm,Phoenix Mercury,19,3,22,1406001600.0,2014
+Phoenix Mercury,Los Angeles Sparks,Phoenix Mercury,20,3,23,1406174400.0,2014
+Phoenix Mercury,Phoenix Mercury,New York Liberty,21,3,24,1406347200.0,2014
+Phoenix Mercury,Phoenix Mercury,Los Angeles Sparks,22,3,25,1406606400.0,2014
+Phoenix Mercury,Minnesota Lynx,Phoenix Mercury,22,4,26,1406779200.0,2014
+Phoenix Mercury,Phoenix Mercury,Indiana Fever,23,4,27,1406952000.0,2014
+Phoenix Mercury,Phoenix Mercury,Atlanta Dream,24,4,28,1407211200.0,2014
+Phoenix Mercury,San Antonio Silver Stars,Phoenix Mercury,25,4,29,1407384000.0,2014
+Phoenix Mercury,Phoenix Mercury,Minnesota Lynx,26,4,30,1407556800.0,2014
+Phoenix Mercury,New York Liberty,Phoenix Mercury,27,4,31,1407816000.0,2014
+Phoenix Mercury,Atlanta Dream,Phoenix Mercury,27,5,32,1407902400.0,2014
+Phoenix Mercury,Phoenix Mercury,Los Angeles Sparks,28,5,33,1408161600.0,2014
+Phoenix Mercury,Seattle Storm,Phoenix Mercury,29,5,34,1408248000.0,2014
+San Antonio Silver Stars,Atlanta Dream,San Antonio Silver Stars,0,1,1,1400212800.0,2014
+San Antonio Silver Stars,San Antonio Silver Stars,Tulsa Shock,1,1,2,1400299200.0,2014
+San Antonio Silver Stars,Phoenix Mercury,San Antonio Silver Stars,2,1,3,1400817600.0,2014
+San Antonio Silver Stars,Los Angeles Sparks,San Antonio Silver Stars,2,2,4,1400990400.0,2014
+San Antonio Silver Stars,San Antonio Silver Stars,Tulsa Shock,3,2,5,1401249600.0,2014
+San Antonio Silver Stars,Minnesota Lynx,San Antonio Silver Stars,3,3,6,1401422400.0,2014
+San Antonio Silver Stars,San Antonio Silver Stars,Minnesota Lynx,3,4,7,1401595200.0,2014
+San Antonio Silver Stars,New York Liberty,San Antonio Silver Stars,4,4,8,1401940800.0,2014
+San Antonio Silver Stars,San Antonio Silver Stars,Phoenix Mercury,4,5,9,1402113600.0,2014
+San Antonio Silver Stars,San Antonio Silver Stars,Seattle Storm,4,6,10,1402632000.0,2014
+San Antonio Silver Stars,San Antonio Silver Stars,Los Angeles Sparks,5,6,11,1402718400.0,2014
+San Antonio Silver Stars,Seattle Storm,San Antonio Silver Stars,6,6,12,1403150400.0,2014
+San Antonio Silver Stars,Los Angeles Sparks,San Antonio Silver Stars,7,6,13,1403409600.0,2014
+San Antonio Silver Stars,San Antonio Silver Stars,Washington Mystics,7,7,14,1403582400.0,2014
+San Antonio Silver Stars,San Antonio Silver Stars,Atlanta Dream,7,8,15,1403755200.0,2014
+San Antonio Silver Stars,Washington Mystics,San Antonio Silver Stars,8,8,16,1404014400.0,2014
+San Antonio Silver Stars,Connecticut Sun,San Antonio Silver Stars,9,8,17,1404187200.0,2014
+San Antonio Silver Stars,Minnesota Lynx,San Antonio Silver Stars,9,9,18,1404360000.0,2014
+San Antonio Silver Stars,Indiana Fever,San Antonio Silver Stars,10,9,19,1404532800.0,2014
+San Antonio Silver Stars,San Antonio Silver Stars,New York Liberty,11,9,20,1404878400.0,2014
+San Antonio Silver Stars,San Antonio Silver Stars,Seattle Storm,11,10,21,1405051200.0,2014
+San Antonio Silver Stars,Phoenix Mercury,San Antonio Silver Stars,11,11,22,1405224000.0,2014
+San Antonio Silver Stars,Tulsa Shock,San Antonio Silver Stars,11,12,23,1405569600.0,2014
+San Antonio Silver Stars,San Antonio Silver Stars,Tulsa Shock,12,12,24,1406001600.0,2014
+San Antonio Silver Stars,Minnesota Lynx,San Antonio Silver Stars,12,13,25,1406260800.0,2014
+San Antonio Silver Stars,San Antonio Silver Stars,Indiana Fever,12,14,26,1406347200.0,2014
+San Antonio Silver Stars,San Antonio Silver Stars,Chicago Sky,13,14,27,1406606400.0,2014
+San Antonio Silver Stars,San Antonio Silver Stars,Connecticut Sun,13,15,28,1406865600.0,2014
+San Antonio Silver Stars,Seattle Storm,San Antonio Silver Stars,13,16,29,1407038400.0,2014
+San Antonio Silver Stars,San Antonio Silver Stars,Phoenix Mercury,13,17,30,1407384000.0,2014
+San Antonio Silver Stars,Tulsa Shock,San Antonio Silver Stars,13,18,31,1407470400.0,2014
+San Antonio Silver Stars,San Antonio Silver Stars,Los Angeles Sparks,14,18,32,1407643200.0,2014
+San Antonio Silver Stars,San Antonio Silver Stars,Minnesota Lynx,15,18,33,1408075200.0,2014
+San Antonio Silver Stars,Chicago Sky,San Antonio Silver Stars,16,18,34,1408248000.0,2014
+Seattle Storm,Seattle Storm,Los Angeles Sparks,0,1,1,1400212800.0,2014
+Seattle Storm,Phoenix Mercury,Seattle Storm,0,2,2,1400299200.0,2014
+Seattle Storm,Connecticut Sun,Seattle Storm,0,3,3,1400817600.0,2014
+Seattle Storm,Washington Mystics,Seattle Storm,1,3,4,1400904000.0,2014
+Seattle Storm,New York Liberty,Seattle Storm,1,4,5,1401163200.0,2014
+Seattle Storm,Atlanta Dream,Seattle Storm,1,5,6,1401422400.0,2014
+Seattle Storm,Seattle Storm,Tulsa Shock,2,5,7,1401595200.0,2014
+Seattle Storm,Phoenix Mercury,Seattle Storm,2,6,8,1401768000.0,2014
+Seattle Storm,Seattle Storm,Minnesota Lynx,3,6,9,1402027200.0,2014
+Seattle Storm,Chicago Sky,Seattle Storm,4,6,10,1402372800.0,2014
+Seattle Storm,Indiana Fever,Seattle Storm,4,7,11,1402459200.0,2014
+Seattle Storm,San Antonio Silver Stars,Seattle Storm,5,7,12,1402632000.0,2014
+Seattle Storm,Tulsa Shock,Seattle Storm,5,8,13,1402804800.0,2014
+Seattle Storm,Seattle Storm,San Antonio Silver Stars,5,9,14,1403150400.0,2014
+Seattle Storm,Seattle Storm,Washington Mystics,6,9,15,1403409600.0,2014
+Seattle Storm,Los Angeles Sparks,Seattle Storm,6,10,16,1403582400.0,2014
+Seattle Storm,Seattle Storm,Minnesota Lynx,7,10,17,1403841600.0,2014
+Seattle Storm,Minnesota Lynx,Seattle Storm,7,11,18,1404014400.0,2014
+Seattle Storm,Seattle Storm,Los Angeles Sparks,7,12,19,1404360000.0,2014
+Seattle Storm,Seattle Storm,Chicago Sky,8,12,20,1404532800.0,2014
+Seattle Storm,Phoenix Mercury,Seattle Storm,8,13,21,1404878400.0,2014
+Seattle Storm,San Antonio Silver Stars,Seattle Storm,9,13,22,1405051200.0,2014
+Seattle Storm,Minnesota Lynx,Seattle Storm,9,14,23,1405224000.0,2014
+Seattle Storm,Seattle Storm,Connecticut Sun,9,15,24,1405396800.0,2014
+Seattle Storm,Seattle Storm,Phoenix Mercury,9,16,25,1406001600.0,2014
+Seattle Storm,Seattle Storm,New York Liberty,9,17,26,1406174400.0,2014
+Seattle Storm,Seattle Storm,Los Angeles Sparks,9,18,27,1406347200.0,2014
+Seattle Storm,Tulsa Shock,Seattle Storm,9,19,28,1406606400.0,2014
+Seattle Storm,Seattle Storm,Indiana Fever,9,20,29,1406779200.0,2014
+Seattle Storm,Seattle Storm,San Antonio Silver Stars,10,20,30,1407038400.0,2014
+Seattle Storm,Seattle Storm,Atlanta Dream,11,20,31,1407384000.0,2014
+Seattle Storm,Seattle Storm,Tulsa Shock,12,20,32,1407643200.0,2014
+Seattle Storm,Los Angeles Sparks,Seattle Storm,12,21,33,1408075200.0,2014
+Seattle Storm,Seattle Storm,Phoenix Mercury,12,22,34,1408248000.0,2014
+Tulsa Shock,San Antonio Silver Stars,Tulsa Shock,0,1,1,1400299200.0,2014
+Tulsa Shock,Tulsa Shock,Minnesota Lynx,0,2,2,1400817600.0,2014
+Tulsa Shock,San Antonio Silver Stars,Tulsa Shock,0,3,3,1401249600.0,2014
+Tulsa Shock,Phoenix Mercury,Tulsa Shock,0,4,4,1401422400.0,2014
+Tulsa Shock,Seattle Storm,Tulsa Shock,0,5,5,1401595200.0,2014
+Tulsa Shock,Tulsa Shock,Phoenix Mercury,1,5,6,1402027200.0,2014
+Tulsa Shock,Tulsa Shock,New York Liberty,2,5,7,1402372800.0,2014
+Tulsa Shock,Tulsa Shock,Los Angeles Sparks,3,5,8,1402632000.0,2014
+Tulsa Shock,Tulsa Shock,Seattle Storm,4,5,9,1402804800.0,2014
+Tulsa Shock,Los Angeles Sparks,Tulsa Shock,4,6,10,1403150400.0,2014
+Tulsa Shock,Phoenix Mercury,Tulsa Shock,4,7,11,1403236800.0,2014
+Tulsa Shock,Chicago Sky,Tulsa Shock,5,7,12,1403409600.0,2014
+Tulsa Shock,Indiana Fever,Tulsa Shock,6,7,13,1403668800.0,2014
+Tulsa Shock,Tulsa Shock,Los Angeles Sparks,6,8,14,1403928000.0,2014
+Tulsa Shock,Tulsa Shock,Phoenix Mercury,6,9,15,1404014400.0,2014
+Tulsa Shock,New York Liberty,Tulsa Shock,6,10,16,1404187200.0,2014
+Tulsa Shock,Connecticut Sun,Tulsa Shock,7,10,17,1404360000.0,2014
+Tulsa Shock,Tulsa Shock,Connecticut Sun,7,11,18,1404532800.0,2014
+Tulsa Shock,Tulsa Shock,Indiana Fever,7,12,19,1404792000.0,2014
+Tulsa Shock,Tulsa Shock,Minnesota Lynx,7,13,20,1404964800.0,2014
+Tulsa Shock,Tulsa Shock,Washington Mystics,7,14,21,1405137600.0,2014
+Tulsa Shock,Minnesota Lynx,Tulsa Shock,7,15,22,1405483200.0,2014
+Tulsa Shock,Tulsa Shock,San Antonio Silver Stars,8,15,23,1405569600.0,2014
+Tulsa Shock,San Antonio Silver Stars,Tulsa Shock,8,16,24,1406001600.0,2014
+Tulsa Shock,Washington Mystics,Tulsa Shock,8,17,25,1406260800.0,2014
+Tulsa Shock,Tulsa Shock,Chicago Sky,9,17,26,1406433600.0,2014
+Tulsa Shock,Tulsa Shock,Seattle Storm,10,17,27,1406606400.0,2014
+Tulsa Shock,Tulsa Shock,Atlanta Dream,10,18,28,1406779200.0,2014
+Tulsa Shock,Tulsa Shock,Minnesota Lynx,10,19,29,1406952000.0,2014
+Tulsa Shock,Los Angeles Sparks,Tulsa Shock,11,19,30,1407211200.0,2014
+Tulsa Shock,Tulsa Shock,San Antonio Silver Stars,12,19,31,1407470400.0,2014
+Tulsa Shock,Seattle Storm,Tulsa Shock,12,20,32,1407643200.0,2014
+Tulsa Shock,Atlanta Dream,Tulsa Shock,12,21,33,1408075200.0,2014
+Tulsa Shock,Minnesota Lynx,Tulsa Shock,12,22,34,1408161600.0,2014
+Washington Mystics,Washington Mystics,Minnesota Lynx,0,1,1,1400212800.0,2014
+Washington Mystics,Indiana Fever,Washington Mystics,1,1,2,1400817600.0,2014
+Washington Mystics,Washington Mystics,Seattle Storm,1,2,3,1400904000.0,2014
+Washington Mystics,Washington Mystics,New York Liberty,2,2,4,1401422400.0,2014
+Washington Mystics,Washington Mystics,Los Angeles Sparks,3,2,5,1401595200.0,2014
+Washington Mystics,Connecticut Sun,Washington Mystics,4,2,6,1401940800.0,2014
+Washington Mystics,Washington Mystics,Indiana Fever,4,3,7,1402027200.0,2014
+Washington Mystics,New York Liberty,Washington Mystics,4,4,8,1402200000.0,2014
+Washington Mystics,Washington Mystics,Phoenix Mercury,4,5,9,1402372800.0,2014
+Washington Mystics,Washington Mystics,Chicago Sky,5,5,10,1402632000.0,2014
+Washington Mystics,Washington Mystics,Atlanta Dream,5,6,11,1402804800.0,2014
+Washington Mystics,Atlanta Dream,Washington Mystics,5,7,12,1403064000.0,2014
+Washington Mystics,Minnesota Lynx,Washington Mystics,5,8,13,1403236800.0,2014
+Washington Mystics,Seattle Storm,Washington Mystics,5,9,14,1403409600.0,2014
+Washington Mystics,San Antonio Silver Stars,Washington Mystics,6,9,15,1403582400.0,2014
+Washington Mystics,Washington Mystics,Connecticut Sun,7,9,16,1403841600.0,2014
+Washington Mystics,Washington Mystics,San Antonio Silver Stars,7,10,17,1404014400.0,2014
+Washington Mystics,Washington Mystics,Indiana Fever,7,11,18,1404273600.0,2014
+Washington Mystics,Atlanta Dream,Washington Mystics,7,12,19,1404532800.0,2014
+Washington Mystics,Chicago Sky,Washington Mystics,8,12,20,1404878400.0,2014
+Washington Mystics,Tulsa Shock,Washington Mystics,9,12,21,1405137600.0,2014
+Washington Mystics,Phoenix Mercury,Washington Mystics,9,13,22,1405396800.0,2014
+Washington Mystics,Los Angeles Sparks,Washington Mystics,10,13,23,1405569600.0,2014
+Washington Mystics,Washington Mystics,Connecticut Sun,11,13,24,1406088000.0,2014
+Washington Mystics,Washington Mystics,Tulsa Shock,12,13,25,1406260800.0,2014
+Washington Mystics,Washington Mystics,Atlanta Dream,13,13,26,1406433600.0,2014
+Washington Mystics,New York Liberty,Washington Mystics,13,14,27,1406606400.0,2014
+Washington Mystics,Chicago Sky,Washington Mystics,13,15,28,1407038400.0,2014
+Washington Mystics,Washington Mystics,New York Liberty,14,15,29,1407211200.0,2014
+Washington Mystics,Indiana Fever,Washington Mystics,15,15,30,1407470400.0,2014
+Washington Mystics,Connecticut Sun,Washington Mystics,15,16,31,1407643200.0,2014
+Washington Mystics,Washington Mystics,Chicago Sky,15,17,32,1407902400.0,2014
+Washington Mystics,Connecticut Sun,Washington Mystics,16,17,33,1408075200.0,2014
+Washington Mystics,Washington Mystics,New York Liberty,16,18,34,1408161600.0,2014

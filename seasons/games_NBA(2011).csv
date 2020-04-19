@@ -1,0 +1,2461 @@
+id,home_team,away_team,win,loss,game_number,date,year
+Atlanta Hawks,Memphis Grizzlies,Atlanta Hawks,1,0,1,1288224000.0,2011
+Atlanta Hawks,Philadelphia 76ers,Atlanta Hawks,2,0,2,1288393200.0,2011
+Atlanta Hawks,Atlanta Hawks,Washington Wizards,3,0,3,1288479600.0,2011
+Atlanta Hawks,Cleveland Cavaliers,Atlanta Hawks,4,0,4,1288738800.0,2011
+Atlanta Hawks,Atlanta Hawks,Detroit Pistons,5,0,5,1288825200.0,2011
+Atlanta Hawks,Minnesota Timberwolves,Atlanta Hawks,6,0,6,1289001600.0,2011
+Atlanta Hawks,Atlanta Hawks,Phoenix Suns,6,1,7,1289167200.0,2011
+Atlanta Hawks,Orlando Magic,Atlanta Hawks,6,2,8,1289260800.0,2011
+Atlanta Hawks,Atlanta Hawks,Milwaukee Bucks,6,3,9,1289433600.0,2011
+Atlanta Hawks,Atlanta Hawks,Utah Jazz,6,4,10,1289606400.0,2011
+Atlanta Hawks,Atlanta Hawks,Minnesota Timberwolves,7,4,11,1289761200.0,2011
+Atlanta Hawks,Indiana Pacers,Atlanta Hawks,8,4,12,1289952000.0,2011
+Atlanta Hawks,Atlanta Hawks,Dallas Mavericks,8,5,13,1290301200.0,2011
+Atlanta Hawks,Atlanta Hawks,Boston Celtics,8,6,14,1290470400.0,2011
+Atlanta Hawks,New Jersey Nets,Atlanta Hawks,8,7,15,1290556800.0,2011
+Atlanta Hawks,Atlanta Hawks,Washington Wizards,9,7,16,1290733200.0,2011
+Atlanta Hawks,New York Knicks,Atlanta Hawks,10,7,17,1290880800.0,2011
+Atlanta Hawks,Toronto Raptors,Atlanta Hawks,11,7,18,1290967200.0,2011
+Atlanta Hawks,Atlanta Hawks,Memphis Grizzlies,12,7,19,1291248000.0,2011
+Atlanta Hawks,Atlanta Hawks,Philadelphia 76ers,13,7,20,1291422600.0,2011
+Atlanta Hawks,Miami Heat,Atlanta Hawks,13,8,21,1291509000.0,2011
+Atlanta Hawks,Orlando Magic,Atlanta Hawks,14,8,22,1291680000.0,2011
+Atlanta Hawks,Atlanta Hawks,New Jersey Nets,15,8,23,1291766400.0,2011
+Atlanta Hawks,San Antonio Spurs,Atlanta Hawks,15,9,24,1292031000.0,2011
+Atlanta Hawks,Atlanta Hawks,Indiana Pacers,16,9,25,1292112000.0,2011
+Atlanta Hawks,Detroit Pistons,Atlanta Hawks,16,10,26,1292373000.0,2011
+Atlanta Hawks,Boston Celtics,Atlanta Hawks,16,11,27,1292547600.0,2011
+Atlanta Hawks,Atlanta Hawks,Charlotte Bobcats,17,11,28,1292632200.0,2011
+Atlanta Hawks,New Jersey Nets,Atlanta Hawks,17,12,29,1292781600.0,2011
+Atlanta Hawks,Atlanta Hawks,Orlando Magic,18,12,30,1292889600.0,2011
+Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,19,12,31,1293062400.0,2011
+Atlanta Hawks,New Orleans Hornets,Atlanta Hawks,19,13,32,1293408000.0,2011
+Atlanta Hawks,Milwaukee Bucks,Atlanta Hawks,20,13,33,1293498000.0,2011
+Atlanta Hawks,Atlanta Hawks,Golden State Warriors,21,13,34,1293667200.0,2011
+Atlanta Hawks,Oklahoma City Thunder,Atlanta Hawks,21,14,35,1293843600.0,2011
+Atlanta Hawks,Los Angeles Clippers,Atlanta Hawks,22,14,36,1294000200.0,2011
+Atlanta Hawks,Sacramento Kings,Atlanta Hawks,23,14,37,1294196400.0,2011
+Atlanta Hawks,Utah Jazz,Atlanta Hawks,24,14,38,1294279200.0,2011
+Atlanta Hawks,Atlanta Hawks,Indiana Pacers,25,14,39,1294531200.0,2011
+Atlanta Hawks,Toronto Raptors,Atlanta Hawks,26,14,40,1294876800.0,2011
+Atlanta Hawks,Atlanta Hawks,Houston Rockets,26,15,41,1295136000.0,2011
+Atlanta Hawks,Atlanta Hawks,Sacramento Kings,27,15,42,1295298000.0,2011
+Atlanta Hawks,Miami Heat,Atlanta Hawks,28,15,43,1295397000.0,2011
+Atlanta Hawks,Atlanta Hawks,New Orleans Hornets,28,16,44,1295656200.0,2011
+Atlanta Hawks,Charlotte Bobcats,Atlanta Hawks,29,16,45,1295740800.0,2011
+Atlanta Hawks,Milwaukee Bucks,Atlanta Hawks,29,17,46,1296090000.0,2011
+Atlanta Hawks,Atlanta Hawks,New York Knicks,30,17,47,1296261000.0,2011
+Atlanta Hawks,Dallas Mavericks,Atlanta Hawks,30,18,48,1296351000.0,2011
+Atlanta Hawks,Atlanta Hawks,Toronto Raptors,31,18,49,1296691200.0,2011
+Atlanta Hawks,Atlanta Hawks,Los Angeles Clippers,32,18,50,1296865800.0,2011
+Atlanta Hawks,Washington Wizards,Atlanta Hawks,33,18,51,1296950400.0,2011
+Atlanta Hawks,Atlanta Hawks,Philadelphia 76ers,33,19,52,1297209600.0,2011
+Atlanta Hawks,Atlanta Hawks,Charlotte Bobcats,33,20,53,1297555200.0,2011
+Atlanta Hawks,Detroit Pistons,Atlanta Hawks,34,20,54,1297729800.0,2011
+Atlanta Hawks,New York Knicks,Atlanta Hawks,34,21,55,1297902600.0,2011
+Atlanta Hawks,Los Angeles Lakers,Atlanta Hawks,34,22,56,1298431800.0,2011
+Atlanta Hawks,Phoenix Suns,Atlanta Hawks,34,23,57,1298512800.0,2011
+Atlanta Hawks,Golden State Warriors,Atlanta Hawks,35,23,58,1298691000.0,2011
+Atlanta Hawks,Portland Trail Blazers,Atlanta Hawks,36,23,59,1298863800.0,2011
+Atlanta Hawks,Denver Nuggets,Atlanta Hawks,36,24,60,1298944800.0,2011
+Atlanta Hawks,Atlanta Hawks,Chicago Bulls,37,24,61,1299110400.0,2011
+Atlanta Hawks,Atlanta Hawks,Oklahoma City Thunder,37,25,62,1299285000.0,2011
+Atlanta Hawks,Atlanta Hawks,New York Knicks,37,26,63,1299454200.0,2011
+Atlanta Hawks,Atlanta Hawks,Los Angeles Lakers,37,27,64,1299628800.0,2011
+Atlanta Hawks,Chicago Bulls,Atlanta Hawks,37,28,65,1299891600.0,2011
+Atlanta Hawks,Atlanta Hawks,Portland Trail Blazers,38,28,66,1299974400.0,2011
+Atlanta Hawks,Atlanta Hawks,Milwaukee Bucks,39,28,67,1300230000.0,2011
+Atlanta Hawks,Atlanta Hawks,Denver Nuggets,39,29,68,1300316400.0,2011
+Atlanta Hawks,Atlanta Hawks,Miami Heat,39,30,69,1300491000.0,2011
+Atlanta Hawks,Atlanta Hawks,Detroit Pistons,40,30,70,1300644000.0,2011
+Atlanta Hawks,Atlanta Hawks,Chicago Bulls,40,31,71,1300838400.0,2011
+Atlanta Hawks,Philadelphia 76ers,Atlanta Hawks,40,32,72,1300921200.0,2011
+Atlanta Hawks,Atlanta Hawks,New Jersey Nets,41,32,73,1301180400.0,2011
+Atlanta Hawks,Cleveland Cavaliers,Atlanta Hawks,42,32,74,1301263200.0,2011
+Atlanta Hawks,Atlanta Hawks,Orlando Magic,43,32,75,1301526000.0,2011
+Atlanta Hawks,Atlanta Hawks,Boston Celtics,44,32,76,1301702400.0,2011
+Atlanta Hawks,Houston Rockets,Atlanta Hawks,44,33,77,1301871600.0,2011
+Atlanta Hawks,Atlanta Hawks,San Antonio Spurs,44,34,78,1302044400.0,2011
+Atlanta Hawks,Indiana Pacers,Atlanta Hawks,44,35,79,1302303600.0,2011
+Atlanta Hawks,Washington Wizards,Atlanta Hawks,44,36,80,1302390000.0,2011
+Atlanta Hawks,Atlanta Hawks,Miami Heat,44,37,81,1302562800.0,2011
+Atlanta Hawks,Charlotte Bobcats,Atlanta Hawks,44,38,82,1302739200.0,2011
+Boston Celtics,Boston Celtics,Miami Heat,1,0,1,1288135800.0,2011
+Boston Celtics,Cleveland Cavaliers,Boston Celtics,1,1,2,1288220400.0,2011
+Boston Celtics,Boston Celtics,New York Knicks,2,1,3,1288395000.0,2011
+Boston Celtics,Detroit Pistons,Boston Celtics,3,1,4,1288740600.0,2011
+Boston Celtics,Boston Celtics,Milwaukee Bucks,4,1,5,1288828800.0,2011
+Boston Celtics,Boston Celtics,Chicago Bulls,5,1,6,1289001600.0,2011
+Boston Celtics,Oklahoma City Thunder,Boston Celtics,6,1,7,1289174400.0,2011
+Boston Celtics,Dallas Mavericks,Boston Celtics,6,2,8,1289266200.0,2011
+Boston Celtics,Miami Heat,Boston Celtics,7,2,9,1289523600.0,2011
+Boston Celtics,Memphis Grizzlies,Boston Celtics,8,2,10,1289696400.0,2011
+Boston Celtics,Boston Celtics,Washington Wizards,9,2,11,1290040200.0,2011
+Boston Celtics,Boston Celtics,Oklahoma City Thunder,9,3,12,1290211200.0,2011
+Boston Celtics,Toronto Raptors,Boston Celtics,9,4,13,1290362400.0,2011
+Boston Celtics,Atlanta Hawks,Boston Celtics,10,4,14,1290470400.0,2011
+Boston Celtics,Boston Celtics,New Jersey Nets,11,4,15,1290645000.0,2011
+Boston Celtics,Boston Celtics,Toronto Raptors,12,4,16,1290817800.0,2011
+Boston Celtics,Cleveland Cavaliers,Boston Celtics,13,4,17,1291161600.0,2011
+Boston Celtics,Boston Celtics,Portland Trail Blazers,14,4,18,1291249800.0,2011
+Boston Celtics,Boston Celtics,Chicago Bulls,15,4,19,1291424400.0,2011
+Boston Celtics,New Jersey Nets,Boston Celtics,16,4,20,1291572000.0,2011
+Boston Celtics,Boston Celtics,Denver Nuggets,17,4,21,1291852800.0,2011
+Boston Celtics,Philadelphia 76ers,Boston Celtics,18,4,22,1291942800.0,2011
+Boston Celtics,Charlotte Bobcats,Boston Celtics,19,4,23,1292112000.0,2011
+Boston Celtics,New York Knicks,Boston Celtics,20,4,24,1292457600.0,2011
+Boston Celtics,Boston Celtics,Atlanta Hawks,21,4,25,1292547600.0,2011
+Boston Celtics,Boston Celtics,Indiana Pacers,22,4,26,1292781600.0,2011
+Boston Celtics,Boston Celtics,Philadelphia 76ers,23,4,27,1293064200.0,2011
+Boston Celtics,Orlando Magic,Boston Celtics,23,5,28,1293305400.0,2011
+Boston Celtics,Indiana Pacers,Boston Celtics,24,5,29,1293580800.0,2011
+Boston Celtics,Detroit Pistons,Boston Celtics,24,6,30,1293669000.0,2011
+Boston Celtics,Boston Celtics,New Orleans Hornets,24,7,31,1293825600.0,2011
+Boston Celtics,Toronto Raptors,Boston Celtics,25,7,32,1294009200.0,2011
+Boston Celtics,Boston Celtics,Minnesota Timberwolves,26,7,33,1294101000.0,2011
+Boston Celtics,Boston Celtics,San Antonio Spurs,27,7,34,1294273800.0,2011
+Boston Celtics,Boston Celtics,Toronto Raptors,28,7,35,1294446600.0,2011
+Boston Celtics,Chicago Bulls,Boston Celtics,28,8,36,1294534800.0,2011
+Boston Celtics,Boston Celtics,Houston Rockets,28,9,37,1294705800.0,2011
+Boston Celtics,Boston Celtics,Sacramento Kings,29,9,38,1294878600.0,2011
+Boston Celtics,Boston Celtics,Charlotte Bobcats,30,9,39,1295051400.0,2011
+Boston Celtics,Boston Celtics,Orlando Magic,31,9,40,1295312400.0,2011
+Boston Celtics,Boston Celtics,Detroit Pistons,32,9,41,1295483400.0,2011
+Boston Celtics,Boston Celtics,Utah Jazz,33,9,42,1295656200.0,2011
+Boston Celtics,Washington Wizards,Boston Celtics,33,10,43,1295740800.0,2011
+Boston Celtics,Boston Celtics,Cleveland Cavaliers,34,10,44,1296001800.0,2011
+Boston Celtics,Portland Trail Blazers,Boston Celtics,35,10,45,1296185400.0,2011
+Boston Celtics,Phoenix Suns,Boston Celtics,35,11,46,1296271800.0,2011
+Boston Celtics,Los Angeles Lakers,Boston Celtics,36,11,47,1296419400.0,2011
+Boston Celtics,Sacramento Kings,Boston Celtics,37,11,48,1296615600.0,2011
+Boston Celtics,Boston Celtics,Dallas Mavericks,37,12,49,1296867600.0,2011
+Boston Celtics,Boston Celtics,Orlando Magic,38,12,50,1297020600.0,2011
+Boston Celtics,Charlotte Bobcats,Boston Celtics,38,13,51,1297123200.0,2011
+Boston Celtics,Boston Celtics,Los Angeles Lakers,38,14,52,1297386000.0,2011
+Boston Celtics,Boston Celtics,Miami Heat,39,14,53,1297620000.0,2011
+Boston Celtics,Boston Celtics,New Jersey Nets,40,14,54,1297902600.0,2011
+Boston Celtics,Golden State Warriors,Boston Celtics,41,14,55,1298431800.0,2011
+Boston Celtics,Denver Nuggets,Boston Celtics,41,15,56,1298604600.0,2011
+Boston Celtics,Los Angeles Clippers,Boston Celtics,42,15,57,1298777400.0,2011
+Boston Celtics,Utah Jazz,Boston Celtics,43,15,58,1298944800.0,2011
+Boston Celtics,Boston Celtics,Phoenix Suns,44,15,59,1299112200.0,2011
+Boston Celtics,Boston Celtics,Golden State Warriors,45,15,60,1299285000.0,2011
+Boston Celtics,Milwaukee Bucks,Boston Celtics,46,15,61,1299463200.0,2011
+Boston Celtics,Boston Celtics,Los Angeles Clippers,46,16,62,1299717000.0,2011
+Boston Celtics,Philadelphia 76ers,Boston Celtics,46,17,63,1299888000.0,2011
+Boston Celtics,Boston Celtics,Milwaukee Bucks,47,17,64,1300053600.0,2011
+Boston Celtics,New Jersey Nets,Boston Celtics,47,18,65,1300143600.0,2011
+Boston Celtics,Boston Celtics,Indiana Pacers,48,18,66,1300318200.0,2011
+Boston Celtics,Houston Rockets,Boston Celtics,48,19,67,1300494600.0,2011
+Boston Celtics,New Orleans Hornets,Boston Celtics,49,19,68,1300579200.0,2011
+Boston Celtics,New York Knicks,Boston Celtics,50,19,69,1300750200.0,2011
+Boston Celtics,Boston Celtics,Memphis Grizzlies,50,20,70,1300923000.0,2011
+Boston Celtics,Boston Celtics,Charlotte Bobcats,50,21,71,1301095800.0,2011
+Boston Celtics,Minnesota Timberwolves,Boston Celtics,51,21,72,1301266800.0,2011
+Boston Celtics,Indiana Pacers,Boston Celtics,51,22,73,1301353200.0,2011
+Boston Celtics,San Antonio Spurs,Boston Celtics,52,22,74,1301616000.0,2011
+Boston Celtics,Atlanta Hawks,Boston Celtics,52,23,75,1301702400.0,2011
+Boston Celtics,Boston Celtics,Detroit Pistons,53,23,76,1301868000.0,2011
+Boston Celtics,Boston Celtics,Philadelphia 76ers,54,23,77,1302046200.0,2011
+Boston Celtics,Chicago Bulls,Boston Celtics,54,24,78,1302220800.0,2011
+Boston Celtics,Boston Celtics,Washington Wizards,55,24,79,1302305400.0,2011
+Boston Celtics,Miami Heat,Boston Celtics,55,25,80,1302463800.0,2011
+Boston Celtics,Washington Wizards,Boston Celtics,55,26,81,1302562800.0,2011
+Boston Celtics,Boston Celtics,New York Knicks,56,26,82,1302739200.0,2011
+Charlotte Bobcats,Dallas Mavericks,Charlotte Bobcats,0,1,1,1288225800.0,2011
+Charlotte Bobcats,Charlotte Bobcats,Indiana Pacers,0,2,2,1288393200.0,2011
+Charlotte Bobcats,Milwaukee Bucks,Charlotte Bobcats,0,3,3,1288485000.0,2011
+Charlotte Bobcats,New Jersey Nets,Charlotte Bobcats,1,3,4,1288825200.0,2011
+Charlotte Bobcats,Detroit Pistons,Charlotte Bobcats,1,4,5,1288999800.0,2011
+Charlotte Bobcats,Charlotte Bobcats,Orlando Magic,1,5,6,1289084400.0,2011
+Charlotte Bobcats,Charlotte Bobcats,San Antonio Spurs,1,6,7,1289260800.0,2011
+Charlotte Bobcats,Toronto Raptors,Charlotte Bobcats,2,6,8,1289433600.0,2011
+Charlotte Bobcats,Washington Wizards,Charlotte Bobcats,3,6,9,1289606400.0,2011
+Charlotte Bobcats,Charlotte Bobcats,Utah Jazz,3,7,10,1289692800.0,2011
+Charlotte Bobcats,Charlotte Bobcats,Minnesota Timberwolves,4,7,11,1289865600.0,2011
+Charlotte Bobcats,Miami Heat,Charlotte Bobcats,4,8,12,1290213000.0,2011
+Charlotte Bobcats,Charlotte Bobcats,Phoenix Suns,5,8,13,1290297600.0,2011
+Charlotte Bobcats,New York Knicks,Charlotte Bobcats,5,9,14,1290558600.0,2011
+Charlotte Bobcats,Charlotte Bobcats,New York Knicks,5,10,15,1290643200.0,2011
+Charlotte Bobcats,Charlotte Bobcats,Houston Rockets,6,10,16,1290816000.0,2011
+Charlotte Bobcats,Milwaukee Bucks,Charlotte Bobcats,6,11,17,1290909600.0,2011
+Charlotte Bobcats,New Orleans Hornets,Charlotte Bobcats,6,12,18,1291251600.0,2011
+Charlotte Bobcats,Charlotte Bobcats,New Jersey Nets,7,12,19,1291420800.0,2011
+Charlotte Bobcats,Philadelphia 76ers,Charlotte Bobcats,7,13,20,1291509000.0,2011
+Charlotte Bobcats,Charlotte Bobcats,Denver Nuggets,8,13,21,1291766400.0,2011
+Charlotte Bobcats,Indiana Pacers,Charlotte Bobcats,8,14,22,1292025600.0,2011
+Charlotte Bobcats,Charlotte Bobcats,Boston Celtics,8,15,23,1292112000.0,2011
+Charlotte Bobcats,Charlotte Bobcats,Toronto Raptors,9,15,24,1292371200.0,2011
+Charlotte Bobcats,Memphis Grizzlies,Charlotte Bobcats,9,16,25,1292461200.0,2011
+Charlotte Bobcats,Atlanta Hawks,Charlotte Bobcats,9,17,26,1292632200.0,2011
+Charlotte Bobcats,Washington Wizards,Charlotte Bobcats,9,18,27,1292889600.0,2011
+Charlotte Bobcats,Charlotte Bobcats,Oklahoma City Thunder,9,19,28,1292976000.0,2011
+Charlotte Bobcats,Charlotte Bobcats,Detroit Pistons,10,19,29,1293494400.0,2011
+Charlotte Bobcats,Charlotte Bobcats,Cleveland Cavaliers,11,19,30,1293667200.0,2011
+Charlotte Bobcats,Charlotte Bobcats,Golden State Warriors,11,20,31,1293825600.0,2011
+Charlotte Bobcats,Charlotte Bobcats,Miami Heat,11,21,32,1294099200.0,2011
+Charlotte Bobcats,Minnesota Timberwolves,Charlotte Bobcats,12,21,33,1294275600.0,2011
+Charlotte Bobcats,Charlotte Bobcats,Washington Wizards,13,21,34,1294531200.0,2011
+Charlotte Bobcats,Charlotte Bobcats,Memphis Grizzlies,14,21,35,1294704000.0,2011
+Charlotte Bobcats,Charlotte Bobcats,Chicago Bulls,15,21,36,1294876800.0,2011
+Charlotte Bobcats,Boston Celtics,Charlotte Bobcats,15,22,37,1295051400.0,2011
+Charlotte Bobcats,Charlotte Bobcats,New Orleans Hornets,15,23,38,1295136000.0,2011
+Charlotte Bobcats,Philadelphia 76ers,Charlotte Bobcats,15,24,39,1295290800.0,2011
+Charlotte Bobcats,Chicago Bulls,Charlotte Bobcats,16,24,40,1295398800.0,2011
+Charlotte Bobcats,Charlotte Bobcats,Philadelphia 76ers,17,24,41,1295568000.0,2011
+Charlotte Bobcats,Charlotte Bobcats,Atlanta Hawks,17,25,42,1295740800.0,2011
+Charlotte Bobcats,Sacramento Kings,Charlotte Bobcats,18,25,43,1296010800.0,2011
+Charlotte Bobcats,Phoenix Suns,Charlotte Bobcats,19,25,44,1296093600.0,2011
+Charlotte Bobcats,Golden State Warriors,Charlotte Bobcats,20,25,45,1296271800.0,2011
+Charlotte Bobcats,Los Angeles Clippers,Charlotte Bobcats,20,26,46,1296358200.0,2011
+Charlotte Bobcats,Utah Jazz,Charlotte Bobcats,20,27,47,1296525600.0,2011
+Charlotte Bobcats,Detroit Pistons,Charlotte Bobcats,21,27,48,1296693000.0,2011
+Charlotte Bobcats,Charlotte Bobcats,Miami Heat,21,28,49,1296864000.0,2011
+Charlotte Bobcats,Charlotte Bobcats,Dallas Mavericks,21,29,50,1296950400.0,2011
+Charlotte Bobcats,Charlotte Bobcats,Boston Celtics,22,29,51,1297123200.0,2011
+Charlotte Bobcats,Indiana Pacers,Charlotte Bobcats,22,30,52,1297296000.0,2011
+Charlotte Bobcats,Charlotte Bobcats,New Jersey Nets,22,31,53,1297468800.0,2011
+Charlotte Bobcats,Atlanta Hawks,Charlotte Bobcats,23,31,54,1297555200.0,2011
+Charlotte Bobcats,Charlotte Bobcats,Los Angeles Lakers,24,31,55,1297728000.0,2011
+Charlotte Bobcats,Chicago Bulls,Charlotte Bobcats,24,32,56,1297818000.0,2011
+Charlotte Bobcats,Charlotte Bobcats,Toronto Raptors,25,32,57,1298419200.0,2011
+Charlotte Bobcats,Charlotte Bobcats,Sacramento Kings,26,32,58,1298678400.0,2011
+Charlotte Bobcats,Orlando Magic,Charlotte Bobcats,26,33,59,1298847600.0,2011
+Charlotte Bobcats,Denver Nuggets,Charlotte Bobcats,26,34,60,1299117600.0,2011
+Charlotte Bobcats,Los Angeles Lakers,Charlotte Bobcats,26,35,61,1299295800.0,2011
+Charlotte Bobcats,Portland Trail Blazers,Charlotte Bobcats,26,36,62,1299380400.0,2011
+Charlotte Bobcats,Charlotte Bobcats,Los Angeles Clippers,26,37,63,1299542400.0,2011
+Charlotte Bobcats,Charlotte Bobcats,Chicago Bulls,26,38,64,1299715200.0,2011
+Charlotte Bobcats,Charlotte Bobcats,Portland Trail Blazers,27,38,65,1299888000.0,2011
+Charlotte Bobcats,Toronto Raptors,Charlotte Bobcats,28,38,66,1300035600.0,2011
+Charlotte Bobcats,Houston Rockets,Charlotte Bobcats,28,39,67,1300321800.0,2011
+Charlotte Bobcats,Oklahoma City Thunder,Charlotte Bobcats,28,40,68,1300492800.0,2011
+Charlotte Bobcats,San Antonio Spurs,Charlotte Bobcats,28,41,69,1300581000.0,2011
+Charlotte Bobcats,Charlotte Bobcats,Indiana Pacers,28,42,70,1300921200.0,2011
+Charlotte Bobcats,Boston Celtics,Charlotte Bobcats,29,42,71,1301095800.0,2011
+Charlotte Bobcats,Charlotte Bobcats,New York Knicks,30,42,72,1301180400.0,2011
+Charlotte Bobcats,Charlotte Bobcats,Milwaukee Bucks,31,42,73,1301353200.0,2011
+Charlotte Bobcats,Charlotte Bobcats,Cleveland Cavaliers,32,42,74,1301526000.0,2011
+Charlotte Bobcats,Orlando Magic,Charlotte Bobcats,32,43,75,1301698800.0,2011
+Charlotte Bobcats,Charlotte Bobcats,Washington Wizards,32,44,76,1301868000.0,2011
+Charlotte Bobcats,Cleveland Cavaliers,Charlotte Bobcats,32,45,77,1302044400.0,2011
+Charlotte Bobcats,Charlotte Bobcats,Orlando Magic,32,46,78,1302130800.0,2011
+Charlotte Bobcats,Miami Heat,Charlotte Bobcats,32,47,79,1302305400.0,2011
+Charlotte Bobcats,Charlotte Bobcats,Detroit Pistons,32,48,80,1302472800.0,2011
+Charlotte Bobcats,New Jersey Nets,Charlotte Bobcats,33,48,81,1302562800.0,2011
+Charlotte Bobcats,Charlotte Bobcats,Atlanta Hawks,34,48,82,1302739200.0,2011
+Chicago Bulls,Oklahoma City Thunder,Chicago Bulls,0,1,1,1288224000.0,2011
+Chicago Bulls,Chicago Bulls,Detroit Pistons,1,1,2,1288483200.0,2011
+Chicago Bulls,Chicago Bulls,Portland Trail Blazers,2,1,3,1288656000.0,2011
+Chicago Bulls,Chicago Bulls,New York Knicks,2,2,4,1288915200.0,2011
+Chicago Bulls,Boston Celtics,Chicago Bulls,2,3,5,1289001600.0,2011
+Chicago Bulls,Chicago Bulls,Denver Nuggets,3,3,6,1289264400.0,2011
+Chicago Bulls,Chicago Bulls,Golden State Warriors,4,3,7,1289523600.0,2011
+Chicago Bulls,Chicago Bulls,Washington Wizards,5,3,8,1289696400.0,2011
+Chicago Bulls,Houston Rockets,Chicago Bulls,6,3,9,1289957400.0,2011
+Chicago Bulls,San Antonio Spurs,Chicago Bulls,6,4,10,1290047400.0,2011
+Chicago Bulls,Dallas Mavericks,Chicago Bulls,7,4,11,1290220200.0,2011
+Chicago Bulls,Los Angeles Lakers,Chicago Bulls,7,5,12,1290569400.0,2011
+Chicago Bulls,Phoenix Suns,Chicago Bulls,8,5,13,1290650400.0,2011
+Chicago Bulls,Denver Nuggets,Chicago Bulls,8,6,14,1290823200.0,2011
+Chicago Bulls,Sacramento Kings,Chicago Bulls,9,6,15,1290913200.0,2011
+Chicago Bulls,Chicago Bulls,Orlando Magic,9,7,16,1291251600.0,2011
+Chicago Bulls,Boston Celtics,Chicago Bulls,9,8,17,1291424400.0,2011
+Chicago Bulls,Chicago Bulls,Houston Rockets,10,8,18,1291510800.0,2011
+Chicago Bulls,Chicago Bulls,Oklahoma City Thunder,11,8,19,1291683600.0,2011
+Chicago Bulls,Cleveland Cavaliers,Chicago Bulls,12,8,20,1291852800.0,2011
+Chicago Bulls,Chicago Bulls,Los Angeles Lakers,13,8,21,1292029200.0,2011
+Chicago Bulls,Chicago Bulls,Minnesota Timberwolves,14,8,22,1292115600.0,2011
+Chicago Bulls,Chicago Bulls,Indiana Pacers,15,8,23,1292288400.0,2011
+Chicago Bulls,Toronto Raptors,Chicago Bulls,16,8,24,1292457600.0,2011
+Chicago Bulls,Chicago Bulls,Los Angeles Clippers,16,9,25,1292720400.0,2011
+Chicago Bulls,Chicago Bulls,Philadelphia 76ers,17,9,26,1292979600.0,2011
+Chicago Bulls,Washington Wizards,Chicago Bulls,18,9,27,1293062400.0,2011
+Chicago Bulls,New York Knicks,Chicago Bulls,18,10,28,1293296400.0,2011
+Chicago Bulls,Detroit Pistons,Chicago Bulls,19,10,29,1293404400.0,2011
+Chicago Bulls,Chicago Bulls,Milwaukee Bucks,20,10,30,1293584400.0,2011
+Chicago Bulls,Chicago Bulls,New Jersey Nets,21,10,31,1293825600.0,2011
+Chicago Bulls,Chicago Bulls,Cleveland Cavaliers,22,10,32,1293926400.0,2011
+Chicago Bulls,Chicago Bulls,Toronto Raptors,23,10,33,1294189200.0,2011
+Chicago Bulls,New Jersey Nets,Chicago Bulls,23,11,34,1294272000.0,2011
+Chicago Bulls,Philadelphia 76ers,Chicago Bulls,23,12,35,1294444800.0,2011
+Chicago Bulls,Chicago Bulls,Boston Celtics,24,12,36,1294534800.0,2011
+Chicago Bulls,Chicago Bulls,Detroit Pistons,25,12,37,1294707600.0,2011
+Chicago Bulls,Charlotte Bobcats,Chicago Bulls,25,13,38,1294876800.0,2011
+Chicago Bulls,Indiana Pacers,Chicago Bulls,26,13,39,1295049600.0,2011
+Chicago Bulls,Chicago Bulls,Miami Heat,27,13,40,1295139600.0,2011
+Chicago Bulls,Memphis Grizzlies,Chicago Bulls,28,13,41,1295287200.0,2011
+Chicago Bulls,Chicago Bulls,Charlotte Bobcats,28,14,42,1295398800.0,2011
+Chicago Bulls,Chicago Bulls,Dallas Mavericks,29,14,43,1295571600.0,2011
+Chicago Bulls,Chicago Bulls,Cleveland Cavaliers,30,14,44,1295744400.0,2011
+Chicago Bulls,Chicago Bulls,Milwaukee Bucks,31,14,45,1295917200.0,2011
+Chicago Bulls,Chicago Bulls,Orlando Magic,32,14,46,1296262800.0,2011
+Chicago Bulls,Chicago Bulls,Indiana Pacers,33,14,47,1296349200.0,2011
+Chicago Bulls,Los Angeles Clippers,Chicago Bulls,34,14,48,1296703800.0,2011
+Chicago Bulls,Golden State Warriors,Chicago Bulls,34,15,49,1296963000.0,2011
+Chicago Bulls,Portland Trail Blazers,Chicago Bulls,34,16,50,1297134000.0,2011
+Chicago Bulls,Utah Jazz,Chicago Bulls,35,16,51,1297303200.0,2011
+Chicago Bulls,New Orleans Hornets,Chicago Bulls,36,16,52,1297558800.0,2011
+Chicago Bulls,Chicago Bulls,Charlotte Bobcats,37,16,53,1297818000.0,2011
+Chicago Bulls,Chicago Bulls,San Antonio Spurs,38,16,54,1297990800.0,2011
+Chicago Bulls,Toronto Raptors,Chicago Bulls,38,17,55,1298505600.0,2011
+Chicago Bulls,Chicago Bulls,Miami Heat,39,17,56,1298595600.0,2011
+Chicago Bulls,Milwaukee Bucks,Chicago Bulls,40,17,57,1298770200.0,2011
+Chicago Bulls,Washington Wizards,Chicago Bulls,41,17,58,1298937600.0,2011
+Chicago Bulls,Atlanta Hawks,Chicago Bulls,41,18,59,1299110400.0,2011
+Chicago Bulls,Orlando Magic,Chicago Bulls,42,18,60,1299283200.0,2011
+Chicago Bulls,Miami Heat,Chicago Bulls,43,18,61,1299434400.0,2011
+Chicago Bulls,Chicago Bulls,New Orleans Hornets,44,18,62,1299546000.0,2011
+Chicago Bulls,Charlotte Bobcats,Chicago Bulls,45,18,63,1299715200.0,2011
+Chicago Bulls,Chicago Bulls,Atlanta Hawks,46,18,64,1299891600.0,2011
+Chicago Bulls,Chicago Bulls,Utah Jazz,47,18,65,1299978000.0,2011
+Chicago Bulls,Chicago Bulls,Washington Wizards,48,18,66,1300233600.0,2011
+Chicago Bulls,New Jersey Nets,Chicago Bulls,49,18,67,1300402800.0,2011
+Chicago Bulls,Indiana Pacers,Chicago Bulls,49,19,68,1300489200.0,2011
+Chicago Bulls,Chicago Bulls,Sacramento Kings,50,19,69,1300752000.0,2011
+Chicago Bulls,Atlanta Hawks,Chicago Bulls,51,19,70,1300838400.0,2011
+Chicago Bulls,Chicago Bulls,Memphis Grizzlies,52,19,71,1301097600.0,2011
+Chicago Bulls,Milwaukee Bucks,Chicago Bulls,53,19,72,1301185800.0,2011
+Chicago Bulls,Chicago Bulls,Philadelphia 76ers,53,20,73,1301356800.0,2011
+Chicago Bulls,Minnesota Timberwolves,Chicago Bulls,54,20,74,1301529600.0,2011
+Chicago Bulls,Detroit Pistons,Chicago Bulls,55,20,75,1301700600.0,2011
+Chicago Bulls,Chicago Bulls,Toronto Raptors,56,20,76,1301788800.0,2011
+Chicago Bulls,Chicago Bulls,Phoenix Suns,57,20,77,1302048000.0,2011
+Chicago Bulls,Chicago Bulls,Boston Celtics,58,20,78,1302220800.0,2011
+Chicago Bulls,Cleveland Cavaliers,Chicago Bulls,59,20,79,1302305400.0,2011
+Chicago Bulls,Orlando Magic,Chicago Bulls,60,20,80,1302454800.0,2011
+Chicago Bulls,New York Knicks,Chicago Bulls,61,20,81,1302652800.0,2011
+Chicago Bulls,Chicago Bulls,New Jersey Nets,62,20,82,1302739200.0,2011
+Cleveland Cavaliers,Cleveland Cavaliers,Boston Celtics,1,0,1,1288220400.0,2011
+Cleveland Cavaliers,Toronto Raptors,Cleveland Cavaliers,1,1,2,1288393200.0,2011
+Cleveland Cavaliers,Cleveland Cavaliers,Sacramento Kings,1,2,3,1288481400.0,2011
+Cleveland Cavaliers,Cleveland Cavaliers,Atlanta Hawks,1,3,4,1288738800.0,2011
+Cleveland Cavaliers,Philadelphia 76ers,Cleveland Cavaliers,2,3,5,1288998000.0,2011
+Cleveland Cavaliers,Washington Wizards,Cleveland Cavaliers,3,3,6,1289084400.0,2011
+Cleveland Cavaliers,New Jersey Nets,Cleveland Cavaliers,4,3,7,1289347200.0,2011
+Cleveland Cavaliers,Cleveland Cavaliers,New Jersey Nets,4,4,8,1289435400.0,2011
+Cleveland Cavaliers,Cleveland Cavaliers,Indiana Pacers,4,5,9,1289694600.0,2011
+Cleveland Cavaliers,Cleveland Cavaliers,Philadelphia 76ers,5,5,10,1289952000.0,2011
+Cleveland Cavaliers,New Orleans Hornets,Cleveland Cavaliers,5,6,11,1290214800.0,2011
+Cleveland Cavaliers,San Antonio Spurs,Cleveland Cavaliers,5,7,12,1290303000.0,2011
+Cleveland Cavaliers,Indiana Pacers,Cleveland Cavaliers,5,8,13,1290556800.0,2011
+Cleveland Cavaliers,Cleveland Cavaliers,Milwaukee Bucks,6,8,14,1290643200.0,2011
+Cleveland Cavaliers,Orlando Magic,Cleveland Cavaliers,6,9,15,1290816000.0,2011
+Cleveland Cavaliers,Cleveland Cavaliers,Memphis Grizzlies,7,9,16,1290904200.0,2011
+Cleveland Cavaliers,Cleveland Cavaliers,Boston Celtics,7,10,17,1291161600.0,2011
+Cleveland Cavaliers,Cleveland Cavaliers,Miami Heat,7,11,18,1291338000.0,2011
+Cleveland Cavaliers,Minnesota Timberwolves,Cleveland Cavaliers,7,12,19,1291510800.0,2011
+Cleveland Cavaliers,Detroit Pistons,Cleveland Cavaliers,7,13,20,1291590000.0,2011
+Cleveland Cavaliers,Philadelphia 76ers,Cleveland Cavaliers,7,14,21,1291766400.0,2011
+Cleveland Cavaliers,Cleveland Cavaliers,Chicago Bulls,7,15,22,1291852800.0,2011
+Cleveland Cavaliers,Houston Rockets,Cleveland Cavaliers,7,16,23,1292117400.0,2011
+Cleveland Cavaliers,Oklahoma City Thunder,Cleveland Cavaliers,7,17,24,1292198400.0,2011
+Cleveland Cavaliers,Miami Heat,Cleveland Cavaliers,7,18,25,1292459400.0,2011
+Cleveland Cavaliers,Indiana Pacers,Cleveland Cavaliers,7,19,26,1292630400.0,2011
+Cleveland Cavaliers,Cleveland Cavaliers,New York Knicks,8,19,27,1292718600.0,2011
+Cleveland Cavaliers,Cleveland Cavaliers,Utah Jazz,8,20,28,1292889600.0,2011
+Cleveland Cavaliers,Atlanta Hawks,Cleveland Cavaliers,8,21,29,1293062400.0,2011
+Cleveland Cavaliers,Cleveland Cavaliers,Minnesota Timberwolves,8,22,30,1293404400.0,2011
+Cleveland Cavaliers,Cleveland Cavaliers,Orlando Magic,8,23,31,1293580800.0,2011
+Cleveland Cavaliers,Charlotte Bobcats,Cleveland Cavaliers,8,24,32,1293667200.0,2011
+Cleveland Cavaliers,Chicago Bulls,Cleveland Cavaliers,8,25,33,1293926400.0,2011
+Cleveland Cavaliers,Cleveland Cavaliers,Dallas Mavericks,8,26,34,1294012800.0,2011
+Cleveland Cavaliers,Cleveland Cavaliers,Toronto Raptors,8,27,35,1294272000.0,2011
+Cleveland Cavaliers,Golden State Warriors,Cleveland Cavaliers,8,28,36,1294457400.0,2011
+Cleveland Cavaliers,Phoenix Suns,Cleveland Cavaliers,8,29,37,1294621200.0,2011
+Cleveland Cavaliers,Los Angeles Lakers,Cleveland Cavaliers,8,30,38,1294803000.0,2011
+Cleveland Cavaliers,Utah Jazz,Cleveland Cavaliers,8,31,39,1295056800.0,2011
+Cleveland Cavaliers,Denver Nuggets,Cleveland Cavaliers,8,32,40,1295143200.0,2011
+Cleveland Cavaliers,Cleveland Cavaliers,Phoenix Suns,8,33,41,1295481600.0,2011
+Cleveland Cavaliers,Cleveland Cavaliers,Milwaukee Bucks,8,34,42,1295656200.0,2011
+Cleveland Cavaliers,Chicago Bulls,Cleveland Cavaliers,8,35,43,1295744400.0,2011
+Cleveland Cavaliers,New Jersey Nets,Cleveland Cavaliers,8,36,44,1295913600.0,2011
+Cleveland Cavaliers,Boston Celtics,Cleveland Cavaliers,8,37,45,1296001800.0,2011
+Cleveland Cavaliers,Cleveland Cavaliers,Denver Nuggets,8,38,46,1296261000.0,2011
+Cleveland Cavaliers,Orlando Magic,Cleveland Cavaliers,8,39,47,1296428400.0,2011
+Cleveland Cavaliers,Miami Heat,Cleveland Cavaliers,8,40,48,1296520200.0,2011
+Cleveland Cavaliers,Cleveland Cavaliers,Indiana Pacers,8,41,49,1296691200.0,2011
+Cleveland Cavaliers,Memphis Grizzlies,Cleveland Cavaliers,8,42,50,1296867600.0,2011
+Cleveland Cavaliers,Cleveland Cavaliers,Portland Trail Blazers,8,43,51,1296952200.0,2011
+Cleveland Cavaliers,Dallas Mavericks,Cleveland Cavaliers,8,44,52,1297128600.0,2011
+Cleveland Cavaliers,Cleveland Cavaliers,Detroit Pistons,8,45,53,1297296000.0,2011
+Cleveland Cavaliers,Cleveland Cavaliers,Los Angeles Clippers,9,45,54,1297470600.0,2011
+Cleveland Cavaliers,Cleveland Cavaliers,Washington Wizards,9,46,55,1297638000.0,2011
+Cleveland Cavaliers,Cleveland Cavaliers,Los Angeles Lakers,10,46,56,1297902600.0,2011
+Cleveland Cavaliers,Cleveland Cavaliers,Houston Rockets,10,47,57,1298505600.0,2011
+Cleveland Cavaliers,Cleveland Cavaliers,New York Knicks,11,47,58,1298680200.0,2011
+Cleveland Cavaliers,Cleveland Cavaliers,Philadelphia 76ers,11,48,59,1298844000.0,2011
+Cleveland Cavaliers,Cleveland Cavaliers,San Antonio Spurs,11,49,60,1299110400.0,2011
+Cleveland Cavaliers,New York Knicks,Cleveland Cavaliers,12,49,61,1299285000.0,2011
+Cleveland Cavaliers,Cleveland Cavaliers,New Orleans Hornets,12,50,62,1299454200.0,2011
+Cleveland Cavaliers,Cleveland Cavaliers,Golden State Warriors,12,51,63,1299628800.0,2011
+Cleveland Cavaliers,Milwaukee Bucks,Cleveland Cavaliers,12,52,64,1299718800.0,2011
+Cleveland Cavaliers,Cleveland Cavaliers,Oklahoma City Thunder,12,53,65,1300035600.0,2011
+Cleveland Cavaliers,Sacramento Kings,Cleveland Cavaliers,13,53,66,1300327200.0,2011
+Cleveland Cavaliers,Portland Trail Blazers,Cleveland Cavaliers,13,54,67,1300413600.0,2011
+Cleveland Cavaliers,Los Angeles Clippers,Cleveland Cavaliers,13,55,68,1300563000.0,2011
+Cleveland Cavaliers,Cleveland Cavaliers,Orlando Magic,13,56,69,1300748400.0,2011
+Cleveland Cavaliers,Cleveland Cavaliers,New Jersey Nets,13,57,70,1300921200.0,2011
+Cleveland Cavaliers,Cleveland Cavaliers,Detroit Pistons,14,57,71,1301095800.0,2011
+Cleveland Cavaliers,Cleveland Cavaliers,Atlanta Hawks,14,58,72,1301263200.0,2011
+Cleveland Cavaliers,Cleveland Cavaliers,Miami Heat,15,58,73,1301439600.0,2011
+Cleveland Cavaliers,Charlotte Bobcats,Cleveland Cavaliers,15,59,74,1301526000.0,2011
+Cleveland Cavaliers,Washington Wizards,Cleveland Cavaliers,15,60,75,1301698800.0,2011
+Cleveland Cavaliers,New York Knicks,Cleveland Cavaliers,15,61,76,1301868000.0,2011
+Cleveland Cavaliers,Cleveland Cavaliers,Charlotte Bobcats,16,61,77,1302044400.0,2011
+Cleveland Cavaliers,Toronto Raptors,Cleveland Cavaliers,17,61,78,1302130800.0,2011
+Cleveland Cavaliers,Cleveland Cavaliers,Chicago Bulls,17,62,79,1302305400.0,2011
+Cleveland Cavaliers,Milwaukee Bucks,Cleveland Cavaliers,17,63,80,1302395400.0,2011
+Cleveland Cavaliers,Detroit Pistons,Cleveland Cavaliers,18,63,81,1302564600.0,2011
+Cleveland Cavaliers,Cleveland Cavaliers,Washington Wizards,19,63,82,1302739200.0,2011
+Dallas Mavericks,Dallas Mavericks,Charlotte Bobcats,1,0,1,1288225800.0,2011
+Dallas Mavericks,Dallas Mavericks,Memphis Grizzlies,1,1,2,1288398600.0,2011
+Dallas Mavericks,Los Angeles Clippers,Dallas Mavericks,2,1,3,1288553400.0,2011
+Dallas Mavericks,Denver Nuggets,Dallas Mavericks,3,1,4,1288832400.0,2011
+Dallas Mavericks,Dallas Mavericks,Denver Nuggets,3,2,5,1289091600.0,2011
+Dallas Mavericks,Dallas Mavericks,Boston Celtics,4,2,6,1289266200.0,2011
+Dallas Mavericks,Memphis Grizzlies,Dallas Mavericks,5,2,7,1289437200.0,2011
+Dallas Mavericks,Dallas Mavericks,Philadelphia 76ers,6,2,8,1289611800.0,2011
+Dallas Mavericks,Dallas Mavericks,New Orleans Hornets,7,2,9,1289871000.0,2011
+Dallas Mavericks,New Orleans Hornets,Dallas Mavericks,7,3,10,1290042000.0,2011
+Dallas Mavericks,Dallas Mavericks,Chicago Bulls,7,4,11,1290220200.0,2011
+Dallas Mavericks,Atlanta Hawks,Dallas Mavericks,8,4,12,1290301200.0,2011
+Dallas Mavericks,Dallas Mavericks,Detroit Pistons,9,4,13,1290562200.0,2011
+Dallas Mavericks,Oklahoma City Thunder,Dallas Mavericks,10,4,14,1290646800.0,2011
+Dallas Mavericks,San Antonio Spurs,Dallas Mavericks,11,4,15,1290821400.0,2011
+Dallas Mavericks,Dallas Mavericks,Miami Heat,12,4,16,1290907800.0,2011
+Dallas Mavericks,Dallas Mavericks,Houston Rockets,13,4,17,1291080600.0,2011
+Dallas Mavericks,Dallas Mavericks,Minnesota Timberwolves,14,4,18,1291253400.0,2011
+Dallas Mavericks,Utah Jazz,Dallas Mavericks,15,4,19,1291433400.0,2011
+Dallas Mavericks,Sacramento Kings,Dallas Mavericks,16,4,20,1291518000.0,2011
+Dallas Mavericks,Dallas Mavericks,Golden State Warriors,17,4,21,1291771800.0,2011
+Dallas Mavericks,Dallas Mavericks,New Jersey Nets,18,4,22,1291944600.0,2011
+Dallas Mavericks,Dallas Mavericks,Utah Jazz,19,4,23,1292117400.0,2011
+Dallas Mavericks,Dallas Mavericks,Milwaukee Bucks,19,5,24,1292290200.0,2011
+Dallas Mavericks,Dallas Mavericks,Portland Trail Blazers,20,5,25,1292466600.0,2011
+Dallas Mavericks,Dallas Mavericks,Phoenix Suns,21,5,26,1292639400.0,2011
+Dallas Mavericks,Miami Heat,Dallas Mavericks,22,5,27,1292891400.0,2011
+Dallas Mavericks,Orlando Magic,Dallas Mavericks,23,5,28,1292976000.0,2011
+Dallas Mavericks,Oklahoma City Thunder,Dallas Mavericks,24,5,29,1293498000.0,2011
+Dallas Mavericks,Dallas Mavericks,Toronto Raptors,24,6,30,1293586200.0,2011
+Dallas Mavericks,Dallas Mavericks,San Antonio Spurs,24,7,31,1293762600.0,2011
+Dallas Mavericks,Milwaukee Bucks,Dallas Mavericks,24,8,32,1293933600.0,2011
+Dallas Mavericks,Cleveland Cavaliers,Dallas Mavericks,25,8,33,1294012800.0,2011
+Dallas Mavericks,Dallas Mavericks,Portland Trail Blazers,26,8,34,1294191000.0,2011
+Dallas Mavericks,Dallas Mavericks,Oklahoma City Thunder,26,9,35,1294362000.0,2011
+Dallas Mavericks,Dallas Mavericks,Orlando Magic,26,10,36,1294536600.0,2011
+Dallas Mavericks,Indiana Pacers,Dallas Mavericks,26,11,37,1294876800.0,2011
+Dallas Mavericks,San Antonio Spurs,Dallas Mavericks,26,12,38,1295053200.0,2011
+Dallas Mavericks,Memphis Grizzlies,Dallas Mavericks,26,13,39,1295139600.0,2011
+Dallas Mavericks,Detroit Pistons,Dallas Mavericks,26,14,40,1295296200.0,2011
+Dallas Mavericks,Dallas Mavericks,Los Angeles Lakers,27,14,41,1295488800.0,2011
+Dallas Mavericks,Chicago Bulls,Dallas Mavericks,27,15,42,1295571600.0,2011
+Dallas Mavericks,New Jersey Nets,Dallas Mavericks,28,15,43,1295740800.0,2011
+Dallas Mavericks,Dallas Mavericks,Los Angeles Clippers,29,15,44,1296005400.0,2011
+Dallas Mavericks,Dallas Mavericks,Houston Rockets,30,15,45,1296178200.0,2011
+Dallas Mavericks,Dallas Mavericks,Atlanta Hawks,31,15,46,1296351000.0,2011
+Dallas Mavericks,Dallas Mavericks,Washington Wizards,32,15,47,1296523800.0,2011
+Dallas Mavericks,New York Knicks,Dallas Mavericks,33,15,48,1296693000.0,2011
+Dallas Mavericks,Boston Celtics,Dallas Mavericks,34,15,49,1296867600.0,2011
+Dallas Mavericks,Charlotte Bobcats,Dallas Mavericks,35,15,50,1296950400.0,2011
+Dallas Mavericks,Dallas Mavericks,Cleveland Cavaliers,36,15,51,1297128600.0,2011
+Dallas Mavericks,Sacramento Kings,Dallas Mavericks,37,15,52,1297306800.0,2011
+Dallas Mavericks,Denver Nuggets,Dallas Mavericks,37,16,53,1297395000.0,2011
+Dallas Mavericks,Houston Rockets,Dallas Mavericks,38,16,54,1297560600.0,2011
+Dallas Mavericks,Dallas Mavericks,Sacramento Kings,39,16,55,1297906200.0,2011
+Dallas Mavericks,Phoenix Suns,Dallas Mavericks,40,16,56,1297999800.0,2011
+Dallas Mavericks,Dallas Mavericks,Utah Jazz,41,16,57,1298511000.0,2011
+Dallas Mavericks,Washington Wizards,Dallas Mavericks,42,16,58,1298768400.0,2011
+Dallas Mavericks,Toronto Raptors,Dallas Mavericks,43,16,59,1298847600.0,2011
+Dallas Mavericks,Philadelphia 76ers,Dallas Mavericks,44,16,60,1299024000.0,2011
+Dallas Mavericks,Dallas Mavericks,Indiana Pacers,45,16,61,1299288600.0,2011
+Dallas Mavericks,Dallas Mavericks,Memphis Grizzlies,45,17,62,1299457800.0,2011
+Dallas Mavericks,Minnesota Timberwolves,Dallas Mavericks,46,17,63,1299546000.0,2011
+Dallas Mavericks,New Orleans Hornets,Dallas Mavericks,46,18,64,1299718800.0,2011
+Dallas Mavericks,Dallas Mavericks,New York Knicks,47,18,65,1299810600.0,2011
+Dallas Mavericks,Dallas Mavericks,Los Angeles Lakers,47,19,66,1299981600.0,2011
+Dallas Mavericks,Portland Trail Blazers,Dallas Mavericks,47,20,67,1300240800.0,2011
+Dallas Mavericks,Golden State Warriors,Dallas Mavericks,48,20,68,1300329000.0,2011
+Dallas Mavericks,Dallas Mavericks,San Antonio Spurs,48,21,69,1300494600.0,2011
+Dallas Mavericks,Dallas Mavericks,Golden State Warriors,49,21,70,1300663800.0,2011
+Dallas Mavericks,Dallas Mavericks,Minnesota Timberwolves,50,21,71,1301013000.0,2011
+Dallas Mavericks,Utah Jazz,Dallas Mavericks,51,21,72,1301187600.0,2011
+Dallas Mavericks,Phoenix Suns,Dallas Mavericks,52,21,73,1301279400.0,2011
+Dallas Mavericks,Los Angeles Clippers,Dallas Mavericks,53,21,74,1301538600.0,2011
+Dallas Mavericks,Los Angeles Lakers,Dallas Mavericks,53,22,75,1301625000.0,2011
+Dallas Mavericks,Golden State Warriors,Dallas Mavericks,53,23,76,1301797800.0,2011
+Dallas Mavericks,Portland Trail Blazers,Dallas Mavericks,53,24,77,1301878800.0,2011
+Dallas Mavericks,Dallas Mavericks,Denver Nuggets,53,25,78,1302136200.0,2011
+Dallas Mavericks,Dallas Mavericks,Los Angeles Clippers,54,25,79,1302309000.0,2011
+Dallas Mavericks,Dallas Mavericks,Phoenix Suns,55,25,80,1302478200.0,2011
+Dallas Mavericks,Houston Rockets,Dallas Mavericks,56,25,81,1302568200.0,2011
+Dallas Mavericks,Dallas Mavericks,New Orleans Hornets,57,25,82,1302739200.0,2011
+Denver Nuggets,Denver Nuggets,Utah Jazz,1,0,1,1288227600.0,2011
+Denver Nuggets,New Orleans Hornets,Denver Nuggets,1,1,2,1288396800.0,2011
+Denver Nuggets,Houston Rockets,Denver Nuggets,2,1,3,1288485000.0,2011
+Denver Nuggets,Denver Nuggets,Dallas Mavericks,2,2,4,1288832400.0,2011
+Denver Nuggets,Denver Nuggets,Los Angeles Clippers,3,2,5,1289010600.0,2011
+Denver Nuggets,Dallas Mavericks,Denver Nuggets,4,2,6,1289091600.0,2011
+Denver Nuggets,Chicago Bulls,Denver Nuggets,4,3,7,1289264400.0,2011
+Denver Nuggets,Indiana Pacers,Denver Nuggets,4,4,8,1289347200.0,2011
+Denver Nuggets,Denver Nuggets,Los Angeles Lakers,5,4,9,1289532600.0,2011
+Denver Nuggets,Phoenix Suns,Denver Nuggets,5,5,10,1289872800.0,2011
+Denver Nuggets,Denver Nuggets,New York Knicks,6,5,11,1289959200.0,2011
+Denver Nuggets,Portland Trail Blazers,Denver Nuggets,6,6,12,1290137400.0,2011
+Denver Nuggets,Denver Nuggets,New Jersey Nets,7,6,13,1290304800.0,2011
+Denver Nuggets,Golden State Warriors,Denver Nuggets,8,6,14,1290483000.0,2011
+Denver Nuggets,Denver Nuggets,Chicago Bulls,9,6,15,1290823200.0,2011
+Denver Nuggets,Denver Nuggets,Phoenix Suns,10,6,16,1290992400.0,2011
+Denver Nuggets,Denver Nuggets,Milwaukee Bucks,11,6,17,1291255200.0,2011
+Denver Nuggets,Denver Nuggets,Los Angeles Clippers,12,6,18,1291428000.0,2011
+Denver Nuggets,Denver Nuggets,Memphis Grizzlies,13,6,19,1291597200.0,2011
+Denver Nuggets,Charlotte Bobcats,Denver Nuggets,13,7,20,1291766400.0,2011
+Denver Nuggets,Boston Celtics,Denver Nuggets,13,8,21,1291852800.0,2011
+Denver Nuggets,Toronto Raptors,Denver Nuggets,14,8,22,1292025600.0,2011
+Denver Nuggets,New York Knicks,Denver Nuggets,14,9,23,1292173200.0,2011
+Denver Nuggets,Denver Nuggets,Orlando Magic,15,9,24,1292378400.0,2011
+Denver Nuggets,Denver Nuggets,San Antonio Spurs,15,10,25,1292556600.0,2011
+Denver Nuggets,Denver Nuggets,Minnesota Timberwolves,16,10,26,1292724000.0,2011
+Denver Nuggets,San Antonio Spurs,Denver Nuggets,16,11,27,1293067800.0,2011
+Denver Nuggets,Oklahoma City Thunder,Denver Nuggets,16,12,28,1293325200.0,2011
+Denver Nuggets,Denver Nuggets,Philadelphia 76ers,16,13,29,1293411600.0,2011
+Denver Nuggets,Denver Nuggets,Portland Trail Blazers,17,13,30,1293588000.0,2011
+Denver Nuggets,Minnesota Timberwolves,Denver Nuggets,18,13,31,1293670800.0,2011
+Denver Nuggets,Denver Nuggets,Sacramento Kings,19,13,32,1293933600.0,2011
+Denver Nuggets,Denver Nuggets,Houston Rockets,20,13,33,1294106400.0,2011
+Denver Nuggets,Los Angeles Clippers,Denver Nuggets,20,14,34,1294284600.0,2011
+Denver Nuggets,Sacramento Kings,Denver Nuggets,20,15,35,1294371000.0,2011
+Denver Nuggets,Denver Nuggets,New Orleans Hornets,20,16,36,1294624800.0,2011
+Denver Nuggets,Denver Nuggets,Phoenix Suns,21,16,37,1294797600.0,2011
+Denver Nuggets,Denver Nuggets,Miami Heat,22,16,38,1294975800.0,2011
+Denver Nuggets,Denver Nuggets,Cleveland Cavaliers,23,16,39,1295143200.0,2011
+Denver Nuggets,San Antonio Spurs,Denver Nuggets,23,17,40,1295229600.0,2011
+Denver Nuggets,Denver Nuggets,Oklahoma City Thunder,24,17,41,1295488800.0,2011
+Denver Nuggets,Denver Nuggets,Los Angeles Lakers,24,18,42,1295667000.0,2011
+Denver Nuggets,Denver Nuggets,Indiana Pacers,25,18,43,1295830800.0,2011
+Denver Nuggets,Washington Wizards,Denver Nuggets,26,18,44,1296000000.0,2011
+Denver Nuggets,Detroit Pistons,Denver Nuggets,27,18,45,1296088200.0,2011
+Denver Nuggets,Cleveland Cavaliers,Denver Nuggets,28,18,46,1296261000.0,2011
+Denver Nuggets,Philadelphia 76ers,Denver Nuggets,28,19,47,1296428400.0,2011
+Denver Nuggets,New Jersey Nets,Denver Nuggets,28,20,48,1296518400.0,2011
+Denver Nuggets,Denver Nuggets,Portland Trail Blazers,29,20,49,1296698400.0,2011
+Denver Nuggets,Denver Nuggets,Utah Jazz,29,21,50,1296876600.0,2011
+Denver Nuggets,Minnesota Timberwolves,Denver Nuggets,30,21,51,1296955800.0,2011
+Denver Nuggets,Denver Nuggets,Houston Rockets,30,22,52,1297130400.0,2011
+Denver Nuggets,Golden State Warriors,Denver Nuggets,30,23,53,1297308600.0,2011
+Denver Nuggets,Denver Nuggets,Dallas Mavericks,31,23,54,1297395000.0,2011
+Denver Nuggets,Memphis Grizzlies,Denver Nuggets,31,24,55,1297638000.0,2011
+Denver Nuggets,Houston Rockets,Denver Nuggets,31,25,56,1297733400.0,2011
+Denver Nuggets,Milwaukee Bucks,Denver Nuggets,32,25,57,1297908000.0,2011
+Denver Nuggets,Denver Nuggets,Memphis Grizzlies,33,25,58,1298426400.0,2011
+Denver Nuggets,Denver Nuggets,Boston Celtics,34,25,59,1298604600.0,2011
+Denver Nuggets,Portland Trail Blazers,Denver Nuggets,34,26,60,1298691000.0,2011
+Denver Nuggets,Denver Nuggets,Atlanta Hawks,35,26,61,1298944800.0,2011
+Denver Nuggets,Denver Nuggets,Charlotte Bobcats,36,26,62,1299117600.0,2011
+Denver Nuggets,Utah Jazz,Denver Nuggets,37,26,63,1299209400.0,2011
+Denver Nuggets,Los Angeles Clippers,Denver Nuggets,37,27,64,1299382200.0,2011
+Denver Nuggets,Phoenix Suns,Denver Nuggets,38,27,65,1299814200.0,2011
+Denver Nuggets,Denver Nuggets,Detroit Pistons,39,27,66,1299981600.0,2011
+Denver Nuggets,New Orleans Hornets,Denver Nuggets,40,27,67,1300147200.0,2011
+Denver Nuggets,Atlanta Hawks,Denver Nuggets,41,27,68,1300316400.0,2011
+Denver Nuggets,Orlando Magic,Denver Nuggets,41,28,69,1300489200.0,2011
+Denver Nuggets,Miami Heat,Denver Nuggets,41,29,70,1300577400.0,2011
+Denver Nuggets,Denver Nuggets,Toronto Raptors,42,29,71,1300755600.0,2011
+Denver Nuggets,Denver Nuggets,San Antonio Spurs,43,29,72,1300933800.0,2011
+Denver Nuggets,Denver Nuggets,Washington Wizards,44,29,73,1301101200.0,2011
+Denver Nuggets,Denver Nuggets,Sacramento Kings,45,29,74,1301533200.0,2011
+Denver Nuggets,Sacramento Kings,Denver Nuggets,46,29,75,1301709600.0,2011
+Denver Nuggets,Los Angeles Lakers,Denver Nuggets,47,29,76,1301859000.0,2011
+Denver Nuggets,Denver Nuggets,Oklahoma City Thunder,47,30,77,1302051600.0,2011
+Denver Nuggets,Dallas Mavericks,Denver Nuggets,48,30,78,1302136200.0,2011
+Denver Nuggets,Oklahoma City Thunder,Denver Nuggets,48,31,79,1302307200.0,2011
+Denver Nuggets,Denver Nuggets,Minnesota Timberwolves,49,31,80,1302397200.0,2011
+Denver Nuggets,Denver Nuggets,Golden State Warriors,50,31,81,1302570000.0,2011
+Denver Nuggets,Utah Jazz,Denver Nuggets,50,32,82,1302739200.0,2011
+Detroit Pistons,New Jersey Nets,Detroit Pistons,0,1,1,1288220400.0,2011
+Detroit Pistons,Detroit Pistons,Oklahoma City Thunder,0,2,2,1288396800.0,2011
+Detroit Pistons,Chicago Bulls,Detroit Pistons,0,3,3,1288483200.0,2011
+Detroit Pistons,Detroit Pistons,Boston Celtics,0,4,4,1288740600.0,2011
+Detroit Pistons,Atlanta Hawks,Detroit Pistons,0,5,5,1288825200.0,2011
+Detroit Pistons,Detroit Pistons,Charlotte Bobcats,1,5,6,1288999800.0,2011
+Detroit Pistons,Detroit Pistons,Golden State Warriors,2,5,7,1289170800.0,2011
+Detroit Pistons,Portland Trail Blazers,Detroit Pistons,2,6,8,1289358000.0,2011
+Detroit Pistons,Los Angeles Clippers,Detroit Pistons,3,6,9,1289619000.0,2011
+Detroit Pistons,Sacramento Kings,Detroit Pistons,4,6,10,1289775600.0,2011
+Detroit Pistons,Golden State Warriors,Detroit Pistons,4,7,11,1289878200.0,2011
+Detroit Pistons,Detroit Pistons,Los Angeles Lakers,4,8,12,1290040200.0,2011
+Detroit Pistons,Detroit Pistons,Washington Wizards,5,8,13,1290380400.0,2011
+Detroit Pistons,Dallas Mavericks,Detroit Pistons,5,9,14,1290562200.0,2011
+Detroit Pistons,Memphis Grizzlies,Detroit Pistons,5,10,15,1290646800.0,2011
+Detroit Pistons,Detroit Pistons,Milwaukee Bucks,6,10,16,1290817800.0,2011
+Detroit Pistons,Detroit Pistons,New York Knicks,6,11,17,1290969000.0,2011
+Detroit Pistons,Orlando Magic,Detroit Pistons,6,12,18,1291161600.0,2011
+Detroit Pistons,Miami Heat,Detroit Pistons,6,13,19,1291249800.0,2011
+Detroit Pistons,Detroit Pistons,Orlando Magic,6,14,20,1291422600.0,2011
+Detroit Pistons,Detroit Pistons,Cleveland Cavaliers,7,14,21,1291590000.0,2011
+Detroit Pistons,Houston Rockets,Detroit Pistons,7,15,22,1291771800.0,2011
+Detroit Pistons,New Orleans Hornets,Detroit Pistons,7,16,23,1291856400.0,2011
+Detroit Pistons,Minnesota Timberwolves,Detroit Pistons,7,17,24,1292029200.0,2011
+Detroit Pistons,Detroit Pistons,Toronto Raptors,7,18,25,1292113800.0,2011
+Detroit Pistons,Detroit Pistons,Atlanta Hawks,8,18,26,1292373000.0,2011
+Detroit Pistons,Detroit Pistons,Los Angeles Clippers,8,19,27,1292632200.0,2011
+Detroit Pistons,Detroit Pistons,New Orleans Hornets,9,19,28,1292799600.0,2011
+Detroit Pistons,Toronto Raptors,Detroit Pistons,10,19,29,1293062400.0,2011
+Detroit Pistons,Detroit Pistons,Chicago Bulls,10,20,30,1293404400.0,2011
+Detroit Pistons,Charlotte Bobcats,Detroit Pistons,10,21,31,1293494400.0,2011
+Detroit Pistons,Detroit Pistons,Boston Celtics,11,21,32,1293669000.0,2011
+Detroit Pistons,Phoenix Suns,Detroit Pistons,11,22,33,1293847200.0,2011
+Detroit Pistons,Utah Jazz,Detroit Pistons,11,23,34,1294106400.0,2011
+Detroit Pistons,Los Angeles Lakers,Detroit Pistons,11,24,35,1294198200.0,2011
+Detroit Pistons,Detroit Pistons,Philadelphia 76ers,12,24,36,1294533000.0,2011
+Detroit Pistons,Chicago Bulls,Detroit Pistons,12,25,37,1294707600.0,2011
+Detroit Pistons,Detroit Pistons,Memphis Grizzlies,12,26,38,1294878600.0,2011
+Detroit Pistons,Toronto Raptors,Detroit Pistons,13,26,39,1295049600.0,2011
+Detroit Pistons,Detroit Pistons,Sacramento Kings,14,26,40,1295137800.0,2011
+Detroit Pistons,Detroit Pistons,Dallas Mavericks,15,26,41,1295296200.0,2011
+Detroit Pistons,Boston Celtics,Detroit Pistons,15,27,42,1295483400.0,2011
+Detroit Pistons,New Jersey Nets,Detroit Pistons,15,28,43,1295654400.0,2011
+Detroit Pistons,Detroit Pistons,Phoenix Suns,16,28,44,1295742600.0,2011
+Detroit Pistons,Orlando Magic,Detroit Pistons,17,28,45,1295913600.0,2011
+Detroit Pistons,Detroit Pistons,Denver Nuggets,17,29,46,1296088200.0,2011
+Detroit Pistons,Miami Heat,Detroit Pistons,17,30,47,1296261000.0,2011
+Detroit Pistons,New York Knicks,Detroit Pistons,17,31,48,1296433800.0,2011
+Detroit Pistons,Detroit Pistons,Charlotte Bobcats,17,32,49,1296693000.0,2011
+Detroit Pistons,Detroit Pistons,New Jersey Nets,18,32,50,1296865800.0,2011
+Detroit Pistons,Milwaukee Bucks,Detroit Pistons,19,32,51,1296955800.0,2011
+Detroit Pistons,Detroit Pistons,San Antonio Spurs,19,33,52,1297211400.0,2011
+Detroit Pistons,Cleveland Cavaliers,Detroit Pistons,20,33,53,1297296000.0,2011
+Detroit Pistons,Detroit Pistons,Miami Heat,20,34,54,1297470600.0,2011
+Detroit Pistons,Detroit Pistons,Portland Trail Blazers,20,35,55,1297638000.0,2011
+Detroit Pistons,Detroit Pistons,Atlanta Hawks,20,36,56,1297729800.0,2011
+Detroit Pistons,Detroit Pistons,Indiana Pacers,21,36,57,1297902600.0,2011
+Detroit Pistons,Detroit Pistons,Houston Rockets,21,37,58,1298421000.0,2011
+Detroit Pistons,Indiana Pacers,Detroit Pistons,21,38,59,1298505600.0,2011
+Detroit Pistons,Philadelphia 76ers,Detroit Pistons,21,39,60,1298678400.0,2011
+Detroit Pistons,Detroit Pistons,Utah Jazz,22,39,61,1298766600.0,2011
+Detroit Pistons,Milwaukee Bucks,Detroit Pistons,22,40,62,1299027600.0,2011
+Detroit Pistons,Detroit Pistons,Minnesota Timberwolves,22,41,63,1299112200.0,2011
+Detroit Pistons,Detroit Pistons,Washington Wizards,23,41,64,1299452400.0,2011
+Detroit Pistons,San Antonio Spurs,Detroit Pistons,23,42,65,1299720600.0,2011
+Detroit Pistons,Oklahoma City Thunder,Detroit Pistons,23,43,66,1299891600.0,2011
+Detroit Pistons,Denver Nuggets,Detroit Pistons,23,44,67,1299981600.0,2011
+Detroit Pistons,Detroit Pistons,Toronto Raptors,24,44,68,1300318200.0,2011
+Detroit Pistons,Detroit Pistons,New York Knicks,25,44,69,1300491000.0,2011
+Detroit Pistons,Atlanta Hawks,Detroit Pistons,25,45,70,1300644000.0,2011
+Detroit Pistons,Detroit Pistons,Miami Heat,25,46,71,1300923000.0,2011
+Detroit Pistons,Cleveland Cavaliers,Detroit Pistons,25,47,72,1301095800.0,2011
+Detroit Pistons,Detroit Pistons,Indiana Pacers,26,47,73,1301182200.0,2011
+Detroit Pistons,Indiana Pacers,Detroit Pistons,26,48,74,1301526000.0,2011
+Detroit Pistons,Detroit Pistons,Chicago Bulls,26,49,75,1301700600.0,2011
+Detroit Pistons,Boston Celtics,Detroit Pistons,26,50,76,1301868000.0,2011
+Detroit Pistons,Washington Wizards,Detroit Pistons,26,51,77,1302044400.0,2011
+Detroit Pistons,Detroit Pistons,New Jersey Nets,27,51,78,1302132600.0,2011
+Detroit Pistons,Detroit Pistons,Milwaukee Bucks,28,51,79,1302305400.0,2011
+Detroit Pistons,Charlotte Bobcats,Detroit Pistons,29,51,80,1302472800.0,2011
+Detroit Pistons,Detroit Pistons,Cleveland Cavaliers,29,52,81,1302564600.0,2011
+Detroit Pistons,Philadelphia 76ers,Detroit Pistons,30,52,82,1302739200.0,2011
+Golden State Warriors,Golden State Warriors,Houston Rockets,1,0,1,1288233000.0,2011
+Golden State Warriors,Golden State Warriors,Los Angeles Clippers,2,0,2,1288405800.0,2011
+Golden State Warriors,Los Angeles Lakers,Golden State Warriors,2,1,3,1288575000.0,2011
+Golden State Warriors,Golden State Warriors,Memphis Grizzlies,3,1,4,1288837800.0,2011
+Golden State Warriors,Golden State Warriors,Utah Jazz,4,1,5,1289010600.0,2011
+Golden State Warriors,Detroit Pistons,Golden State Warriors,4,2,6,1289170800.0,2011
+Golden State Warriors,Toronto Raptors,Golden State Warriors,5,2,7,1289260800.0,2011
+Golden State Warriors,New York Knicks,Golden State Warriors,6,2,8,1289435400.0,2011
+Golden State Warriors,Chicago Bulls,Golden State Warriors,6,3,9,1289523600.0,2011
+Golden State Warriors,Milwaukee Bucks,Golden State Warriors,6,4,10,1289698200.0,2011
+Golden State Warriors,Golden State Warriors,Detroit Pistons,7,4,11,1289878200.0,2011
+Golden State Warriors,Golden State Warriors,New York Knicks,7,5,12,1290223800.0,2011
+Golden State Warriors,Los Angeles Lakers,Golden State Warriors,7,6,13,1290393000.0,2011
+Golden State Warriors,Golden State Warriors,Denver Nuggets,7,7,14,1290483000.0,2011
+Golden State Warriors,Houston Rockets,Golden State Warriors,7,8,15,1290648600.0,2011
+Golden State Warriors,Memphis Grizzlies,Golden State Warriors,7,9,16,1290825000.0,2011
+Golden State Warriors,Minnesota Timberwolves,Golden State Warriors,8,9,17,1290906000.0,2011
+Golden State Warriors,Golden State Warriors,San Antonio Spurs,8,10,18,1291174200.0,2011
+Golden State Warriors,Golden State Warriors,Phoenix Suns,8,11,19,1291347000.0,2011
+Golden State Warriors,Oklahoma City Thunder,Golden State Warriors,8,12,20,1291593600.0,2011
+Golden State Warriors,Dallas Mavericks,Golden State Warriors,8,13,21,1291771800.0,2011
+Golden State Warriors,San Antonio Spurs,Golden State Warriors,8,14,22,1291858200.0,2011
+Golden State Warriors,Golden State Warriors,Miami Heat,8,15,23,1292038200.0,2011
+Golden State Warriors,Utah Jazz,Golden State Warriors,8,16,24,1292292000.0,2011
+Golden State Warriors,Golden State Warriors,Minnesota Timberwolves,9,16,25,1292383800.0,2011
+Golden State Warriors,Portland Trail Blazers,Golden State Warriors,9,17,26,1292727600.0,2011
+Golden State Warriors,Golden State Warriors,Houston Rockets,9,18,27,1292902200.0,2011
+Golden State Warriors,Sacramento Kings,Golden State Warriors,10,18,28,1292986800.0,2011
+Golden State Warriors,Golden State Warriors,Portland Trail Blazers,11,18,29,1293334200.0,2011
+Golden State Warriors,Golden State Warriors,Philadelphia 76ers,12,18,30,1293507000.0,2011
+Golden State Warriors,Atlanta Hawks,Golden State Warriors,12,19,31,1293667200.0,2011
+Golden State Warriors,Charlotte Bobcats,Golden State Warriors,13,19,32,1293825600.0,2011
+Golden State Warriors,Miami Heat,Golden State Warriors,13,20,33,1293928200.0,2011
+Golden State Warriors,Orlando Magic,Golden State Warriors,13,21,34,1294099200.0,2011
+Golden State Warriors,New Orleans Hornets,Golden State Warriors,14,21,35,1294275600.0,2011
+Golden State Warriors,Golden State Warriors,Cleveland Cavaliers,15,21,36,1294457400.0,2011
+Golden State Warriors,Los Angeles Clippers,Golden State Warriors,15,22,37,1294605000.0,2011
+Golden State Warriors,Golden State Warriors,Los Angeles Lakers,15,23,38,1294889400.0,2011
+Golden State Warriors,Golden State Warriors,Los Angeles Clippers,16,23,39,1295062200.0,2011
+Golden State Warriors,Golden State Warriors,New Jersey Nets,17,23,40,1295298000.0,2011
+Golden State Warriors,Golden State Warriors,Indiana Pacers,18,23,41,1295494200.0,2011
+Golden State Warriors,Golden State Warriors,Sacramento Kings,19,23,42,1295667000.0,2011
+Golden State Warriors,Los Angeles Clippers,Golden State Warriors,19,24,43,1295753400.0,2011
+Golden State Warriors,Golden State Warriors,San Antonio Spurs,19,25,44,1295926200.0,2011
+Golden State Warriors,Golden State Warriors,New Orleans Hornets,19,26,45,1296099000.0,2011
+Golden State Warriors,Golden State Warriors,Charlotte Bobcats,19,27,46,1296271800.0,2011
+Golden State Warriors,Golden State Warriors,Utah Jazz,20,27,47,1296442800.0,2011
+Golden State Warriors,Golden State Warriors,Milwaukee Bucks,21,27,48,1296790200.0,2011
+Golden State Warriors,Golden State Warriors,Chicago Bulls,22,27,49,1296963000.0,2011
+Golden State Warriors,Golden State Warriors,Phoenix Suns,22,28,50,1297135800.0,2011
+Golden State Warriors,Golden State Warriors,Denver Nuggets,23,28,51,1297308600.0,2011
+Golden State Warriors,Phoenix Suns,Golden State Warriors,23,29,52,1297389600.0,2011
+Golden State Warriors,Golden State Warriors,Oklahoma City Thunder,24,29,53,1297645200.0,2011
+Golden State Warriors,Golden State Warriors,New Orleans Hornets,25,29,54,1297827000.0,2011
+Golden State Warriors,Utah Jazz,Golden State Warriors,26,29,55,1297908000.0,2011
+Golden State Warriors,Golden State Warriors,Boston Celtics,26,30,56,1298431800.0,2011
+Golden State Warriors,Golden State Warriors,Atlanta Hawks,26,31,57,1298691000.0,2011
+Golden State Warriors,Minnesota Timberwolves,Golden State Warriors,26,32,58,1298844000.0,2011
+Golden State Warriors,Indiana Pacers,Golden State Warriors,26,33,59,1299024000.0,2011
+Golden State Warriors,Washington Wizards,Golden State Warriors,27,33,60,1299110400.0,2011
+Golden State Warriors,Boston Celtics,Golden State Warriors,27,34,61,1299285000.0,2011
+Golden State Warriors,Philadelphia 76ers,Golden State Warriors,27,35,62,1299452400.0,2011
+Golden State Warriors,Cleveland Cavaliers,Golden State Warriors,28,35,63,1299628800.0,2011
+Golden State Warriors,New Jersey Nets,Golden State Warriors,28,36,64,1299715200.0,2011
+Golden State Warriors,Golden State Warriors,Orlando Magic,29,36,65,1299900600.0,2011
+Golden State Warriors,Golden State Warriors,Minnesota Timberwolves,30,36,66,1300064400.0,2011
+Golden State Warriors,Sacramento Kings,Golden State Warriors,30,37,67,1300154400.0,2011
+Golden State Warriors,Golden State Warriors,Dallas Mavericks,30,38,68,1300329000.0,2011
+Golden State Warriors,Phoenix Suns,Golden State Warriors,30,39,69,1300500000.0,2011
+Golden State Warriors,Dallas Mavericks,Golden State Warriors,30,40,70,1300663800.0,2011
+Golden State Warriors,San Antonio Spurs,Golden State Warriors,30,41,71,1300753800.0,2011
+Golden State Warriors,Houston Rockets,Golden State Warriors,30,42,72,1300926600.0,2011
+Golden State Warriors,Golden State Warriors,Toronto Raptors,31,42,73,1301106600.0,2011
+Golden State Warriors,Golden State Warriors,Washington Wizards,32,42,74,1301274000.0,2011
+Golden State Warriors,Oklahoma City Thunder,Golden State Warriors,32,43,75,1301443200.0,2011
+Golden State Warriors,Memphis Grizzlies,Golden State Warriors,32,44,76,1301529600.0,2011
+Golden State Warriors,Golden State Warriors,Dallas Mavericks,33,44,77,1301797800.0,2011
+Golden State Warriors,Portland Trail Blazers,Golden State Warriors,34,44,78,1302055200.0,2011
+Golden State Warriors,Golden State Warriors,Los Angeles Lakers,35,44,79,1302143400.0,2011
+Golden State Warriors,Golden State Warriors,Sacramento Kings,35,45,80,1302483600.0,2011
+Golden State Warriors,Denver Nuggets,Golden State Warriors,35,46,81,1302570000.0,2011
+Golden State Warriors,Golden State Warriors,Portland Trail Blazers,36,46,82,1302748200.0,2011
+Houston Rockets,Los Angeles Lakers,Houston Rockets,0,1,1,1288146600.0,2011
+Houston Rockets,Golden State Warriors,Houston Rockets,0,2,2,1288233000.0,2011
+Houston Rockets,Houston Rockets,Denver Nuggets,0,3,3,1288485000.0,2011
+Houston Rockets,Houston Rockets,New Orleans Hornets,0,4,4,1288830600.0,2011
+Houston Rockets,San Antonio Spurs,Houston Rockets,0,5,5,1289089800.0,2011
+Houston Rockets,Houston Rockets,Minnesota Timberwolves,1,5,6,1289174400.0,2011
+Houston Rockets,Washington Wizards,Houston Rockets,1,6,7,1289433600.0,2011
+Houston Rockets,Indiana Pacers,Houston Rockets,2,6,8,1289606400.0,2011
+Houston Rockets,New York Knicks,Houston Rockets,3,6,9,1289781000.0,2011
+Houston Rockets,Houston Rockets,Chicago Bulls,3,7,10,1289957400.0,2011
+Houston Rockets,Oklahoma City Thunder,Houston Rockets,3,8,11,1290042000.0,2011
+Houston Rockets,Toronto Raptors,Houston Rockets,3,9,12,1290211200.0,2011
+Houston Rockets,Houston Rockets,Phoenix Suns,3,10,13,1290475800.0,2011
+Houston Rockets,Houston Rockets,Golden State Warriors,4,10,14,1290648600.0,2011
+Houston Rockets,Charlotte Bobcats,Houston Rockets,4,11,15,1290816000.0,2011
+Houston Rockets,Houston Rockets,Oklahoma City Thunder,5,11,16,1290988800.0,2011
+Houston Rockets,Dallas Mavericks,Houston Rockets,5,12,17,1291080600.0,2011
+Houston Rockets,Houston Rockets,Los Angeles Lakers,6,12,18,1291253400.0,2011
+Houston Rockets,Memphis Grizzlies,Houston Rockets,7,12,19,1291424400.0,2011
+Houston Rockets,Chicago Bulls,Houston Rockets,7,13,20,1291510800.0,2011
+Houston Rockets,Houston Rockets,Detroit Pistons,8,13,21,1291771800.0,2011
+Houston Rockets,Milwaukee Bucks,Houston Rockets,8,14,22,1292031000.0,2011
+Houston Rockets,Houston Rockets,Cleveland Cavaliers,9,14,23,1292117400.0,2011
+Houston Rockets,Houston Rockets,Sacramento Kings,10,14,24,1292376600.0,2011
+Houston Rockets,Oklahoma City Thunder,Houston Rockets,10,15,25,1292461200.0,2011
+Houston Rockets,Houston Rockets,Memphis Grizzlies,11,15,26,1292635800.0,2011
+Houston Rockets,Sacramento Kings,Houston Rockets,12,15,27,1292799600.0,2011
+Houston Rockets,Golden State Warriors,Houston Rockets,13,15,28,1292902200.0,2011
+Houston Rockets,Los Angeles Clippers,Houston Rockets,14,15,29,1293075000.0,2011
+Houston Rockets,Houston Rockets,Washington Wizards,15,15,30,1293499800.0,2011
+Houston Rockets,Houston Rockets,Miami Heat,15,16,31,1293672600.0,2011
+Houston Rockets,Houston Rockets,Toronto Raptors,16,16,32,1293840000.0,2011
+Houston Rockets,Portland Trail Blazers,Houston Rockets,16,17,33,1294020000.0,2011
+Houston Rockets,Denver Nuggets,Houston Rockets,16,18,34,1294106400.0,2011
+Houston Rockets,Houston Rockets,Portland Trail Blazers,16,19,35,1294277400.0,2011
+Houston Rockets,Orlando Magic,Houston Rockets,16,20,36,1294448400.0,2011
+Houston Rockets,Houston Rockets,Utah Jazz,16,21,37,1294536600.0,2011
+Houston Rockets,Boston Celtics,Houston Rockets,17,21,38,1294705800.0,2011
+Houston Rockets,Houston Rockets,Oklahoma City Thunder,17,22,39,1294882200.0,2011
+Houston Rockets,Houston Rockets,New Orleans Hornets,17,23,40,1295055000.0,2011
+Houston Rockets,Atlanta Hawks,Houston Rockets,18,23,41,1295136000.0,2011
+Houston Rockets,Houston Rockets,Milwaukee Bucks,19,23,42,1295294400.0,2011
+Houston Rockets,Houston Rockets,New York Knicks,20,23,43,1295487000.0,2011
+Houston Rockets,Memphis Grizzlies,Houston Rockets,20,24,44,1295658000.0,2011
+Houston Rockets,Houston Rockets,Orlando Magic,20,25,45,1295746200.0,2011
+Houston Rockets,Minnesota Timberwolves,Houston Rockets,21,25,46,1295917200.0,2011
+Houston Rockets,Houston Rockets,Los Angeles Clippers,22,25,47,1296091800.0,2011
+Houston Rockets,Dallas Mavericks,Houston Rockets,22,26,48,1296178200.0,2011
+Houston Rockets,San Antonio Spurs,Houston Rockets,22,27,49,1296351000.0,2011
+Houston Rockets,Los Angeles Lakers,Houston Rockets,22,28,50,1296617400.0,2011
+Houston Rockets,Utah Jazz,Houston Rockets,23,28,51,1296698400.0,2011
+Houston Rockets,Houston Rockets,Memphis Grizzlies,24,28,52,1296955800.0,2011
+Houston Rockets,Denver Nuggets,Houston Rockets,25,28,53,1297130400.0,2011
+Houston Rockets,Houston Rockets,Minnesota Timberwolves,25,29,54,1297215000.0,2011
+Houston Rockets,Houston Rockets,Dallas Mavericks,25,30,55,1297560600.0,2011
+Houston Rockets,Houston Rockets,Denver Nuggets,26,30,56,1297733400.0,2011
+Houston Rockets,Houston Rockets,Philadelphia 76ers,26,31,57,1297906200.0,2011
+Houston Rockets,Detroit Pistons,Houston Rockets,27,31,58,1298421000.0,2011
+Houston Rockets,Cleveland Cavaliers,Houston Rockets,28,31,59,1298505600.0,2011
+Houston Rockets,Houston Rockets,New Jersey Nets,29,31,60,1298770200.0,2011
+Houston Rockets,New Orleans Hornets,Houston Rockets,30,31,61,1298851200.0,2011
+Houston Rockets,Portland Trail Blazers,Houston Rockets,31,31,62,1299034800.0,2011
+Houston Rockets,Los Angeles Clippers,Houston Rockets,31,32,63,1299123000.0,2011
+Houston Rockets,Houston Rockets,Indiana Pacers,32,32,64,1299375000.0,2011
+Houston Rockets,Sacramento Kings,Houston Rockets,33,32,65,1299553200.0,2011
+Houston Rockets,Phoenix Suns,Houston Rockets,33,33,66,1299636000.0,2011
+Houston Rockets,Houston Rockets,San Antonio Spurs,33,34,67,1299979800.0,2011
+Houston Rockets,Houston Rockets,Phoenix Suns,34,34,68,1300149000.0,2011
+Houston Rockets,Houston Rockets,Charlotte Bobcats,35,34,69,1300321800.0,2011
+Houston Rockets,Houston Rockets,Boston Celtics,36,34,70,1300494600.0,2011
+Houston Rockets,Houston Rockets,Utah Jazz,37,34,71,1300662000.0,2011
+Houston Rockets,Houston Rockets,Golden State Warriors,38,34,72,1300926600.0,2011
+Houston Rockets,Miami Heat,Houston Rockets,38,35,73,1301263200.0,2011
+Houston Rockets,New Jersey Nets,Houston Rockets,39,35,74,1301439600.0,2011
+Houston Rockets,Philadelphia 76ers,Houston Rockets,39,36,75,1301526000.0,2011
+Houston Rockets,Houston Rockets,San Antonio Spurs,40,36,76,1301704200.0,2011
+Houston Rockets,Houston Rockets,Atlanta Hawks,41,36,77,1301871600.0,2011
+Houston Rockets,Houston Rockets,Sacramento Kings,41,37,78,1302049800.0,2011
+Houston Rockets,New Orleans Hornets,Houston Rockets,41,38,79,1302134400.0,2011
+Houston Rockets,Houston Rockets,Los Angeles Clippers,42,38,80,1302395400.0,2011
+Houston Rockets,Houston Rockets,Dallas Mavericks,42,39,81,1302568200.0,2011
+Houston Rockets,Minnesota Timberwolves,Houston Rockets,43,39,82,1302739200.0,2011
+Indiana Pacers,San Antonio Spurs,Indiana Pacers,0,1,1,1288225800.0,2011
+Indiana Pacers,Charlotte Bobcats,Indiana Pacers,1,1,2,1288393200.0,2011
+Indiana Pacers,Indiana Pacers,Philadelphia 76ers,2,1,3,1288483200.0,2011
+Indiana Pacers,Philadelphia 76ers,Indiana Pacers,2,2,4,1288825200.0,2011
+Indiana Pacers,Indiana Pacers,Milwaukee Bucks,2,3,5,1288998000.0,2011
+Indiana Pacers,Indiana Pacers,Denver Nuggets,3,3,6,1289347200.0,2011
+Indiana Pacers,Indiana Pacers,Houston Rockets,3,4,7,1289606400.0,2011
+Indiana Pacers,Cleveland Cavaliers,Indiana Pacers,4,4,8,1289694600.0,2011
+Indiana Pacers,Indiana Pacers,Atlanta Hawks,4,5,9,1289952000.0,2011
+Indiana Pacers,Indiana Pacers,Los Angeles Clippers,5,5,10,1290124800.0,2011
+Indiana Pacers,Indiana Pacers,Orlando Magic,5,6,11,1290297600.0,2011
+Indiana Pacers,Miami Heat,Indiana Pacers,6,6,12,1290472200.0,2011
+Indiana Pacers,Indiana Pacers,Cleveland Cavaliers,7,6,13,1290556800.0,2011
+Indiana Pacers,Indiana Pacers,Oklahoma City Thunder,7,7,14,1290819600.0,2011
+Indiana Pacers,Los Angeles Lakers,Indiana Pacers,8,7,15,1290997800.0,2011
+Indiana Pacers,Sacramento Kings,Indiana Pacers,9,7,16,1291172400.0,2011
+Indiana Pacers,Utah Jazz,Indiana Pacers,9,8,17,1291255200.0,2011
+Indiana Pacers,Phoenix Suns,Indiana Pacers,9,9,18,1291428000.0,2011
+Indiana Pacers,Indiana Pacers,Toronto Raptors,10,9,19,1291680000.0,2011
+Indiana Pacers,Milwaukee Bucks,Indiana Pacers,10,10,20,1291856400.0,2011
+Indiana Pacers,Indiana Pacers,Charlotte Bobcats,11,10,21,1292025600.0,2011
+Indiana Pacers,Atlanta Hawks,Indiana Pacers,11,11,22,1292112000.0,2011
+Indiana Pacers,Chicago Bulls,Indiana Pacers,11,12,23,1292288400.0,2011
+Indiana Pacers,Indiana Pacers,Los Angeles Lakers,11,13,24,1292457600.0,2011
+Indiana Pacers,Indiana Pacers,Cleveland Cavaliers,12,13,25,1292630400.0,2011
+Indiana Pacers,Boston Celtics,Indiana Pacers,12,14,26,1292781600.0,2011
+Indiana Pacers,Indiana Pacers,New Orleans Hornets,13,14,27,1292889600.0,2011
+Indiana Pacers,Indiana Pacers,Memphis Grizzlies,13,15,28,1293408000.0,2011
+Indiana Pacers,Indiana Pacers,Boston Celtics,13,16,29,1293580800.0,2011
+Indiana Pacers,Washington Wizards,Indiana Pacers,13,17,30,1293667200.0,2011
+Indiana Pacers,Indiana Pacers,Washington Wizards,14,17,31,1293825600.0,2011
+Indiana Pacers,New York Knicks,Indiana Pacers,14,18,32,1293991200.0,2011
+Indiana Pacers,Indiana Pacers,San Antonio Spurs,14,19,33,1294444800.0,2011
+Indiana Pacers,Atlanta Hawks,Indiana Pacers,14,20,34,1294531200.0,2011
+Indiana Pacers,Philadelphia 76ers,Indiana Pacers,15,20,35,1294790400.0,2011
+Indiana Pacers,Indiana Pacers,Dallas Mavericks,16,20,36,1294876800.0,2011
+Indiana Pacers,Indiana Pacers,Chicago Bulls,16,21,37,1295049600.0,2011
+Indiana Pacers,Los Angeles Clippers,Indiana Pacers,16,22,38,1295296200.0,2011
+Indiana Pacers,Golden State Warriors,Indiana Pacers,16,23,39,1295494200.0,2011
+Indiana Pacers,Portland Trail Blazers,Indiana Pacers,16,24,40,1295751600.0,2011
+Indiana Pacers,Denver Nuggets,Indiana Pacers,16,25,41,1295830800.0,2011
+Indiana Pacers,Indiana Pacers,Orlando Magic,16,26,42,1296086400.0,2011
+Indiana Pacers,Indiana Pacers,New Jersey Nets,17,26,43,1296259200.0,2011
+Indiana Pacers,Chicago Bulls,Indiana Pacers,17,27,44,1296349200.0,2011
+Indiana Pacers,Indiana Pacers,Toronto Raptors,18,27,45,1296518400.0,2011
+Indiana Pacers,Cleveland Cavaliers,Indiana Pacers,19,27,46,1296691200.0,2011
+Indiana Pacers,Indiana Pacers,Portland Trail Blazers,20,27,47,1296864000.0,2011
+Indiana Pacers,New Jersey Nets,Indiana Pacers,21,27,48,1297011600.0,2011
+Indiana Pacers,Miami Heat,Indiana Pacers,21,28,49,1297211400.0,2011
+Indiana Pacers,Indiana Pacers,Charlotte Bobcats,22,28,50,1297296000.0,2011
+Indiana Pacers,Indiana Pacers,Minnesota Timberwolves,23,28,51,1297468800.0,2011
+Indiana Pacers,Milwaukee Bucks,Indiana Pacers,24,28,52,1297560600.0,2011
+Indiana Pacers,Indiana Pacers,Miami Heat,24,29,53,1297814400.0,2011
+Indiana Pacers,Detroit Pistons,Indiana Pacers,24,30,54,1297902600.0,2011
+Indiana Pacers,Washington Wizards,Indiana Pacers,25,30,55,1298419200.0,2011
+Indiana Pacers,Indiana Pacers,Detroit Pistons,26,30,56,1298505600.0,2011
+Indiana Pacers,Indiana Pacers,Utah Jazz,26,31,57,1298678400.0,2011
+Indiana Pacers,Indiana Pacers,Phoenix Suns,26,32,58,1298826000.0,2011
+Indiana Pacers,Indiana Pacers,Golden State Warriors,27,32,59,1299024000.0,2011
+Indiana Pacers,Oklahoma City Thunder,Indiana Pacers,27,33,60,1299114000.0,2011
+Indiana Pacers,Dallas Mavericks,Indiana Pacers,27,34,61,1299288600.0,2011
+Indiana Pacers,Houston Rockets,Indiana Pacers,27,35,62,1299375000.0,2011
+Indiana Pacers,Indiana Pacers,Philadelphia 76ers,27,36,63,1299628800.0,2011
+Indiana Pacers,Minnesota Timberwolves,Indiana Pacers,27,37,64,1299718800.0,2011
+Indiana Pacers,Toronto Raptors,Indiana Pacers,27,38,65,1299888000.0,2011
+Indiana Pacers,New York Knicks,Indiana Pacers,28,38,66,1300053600.0,2011
+Indiana Pacers,Indiana Pacers,New York Knicks,29,38,67,1300230000.0,2011
+Indiana Pacers,Boston Celtics,Indiana Pacers,29,39,68,1300318200.0,2011
+Indiana Pacers,Indiana Pacers,Chicago Bulls,30,39,69,1300489200.0,2011
+Indiana Pacers,Memphis Grizzlies,Indiana Pacers,30,40,70,1300579200.0,2011
+Indiana Pacers,New Jersey Nets,Indiana Pacers,31,40,71,1300748400.0,2011
+Indiana Pacers,Charlotte Bobcats,Indiana Pacers,32,40,72,1300921200.0,2011
+Indiana Pacers,Indiana Pacers,Sacramento Kings,32,41,73,1301094000.0,2011
+Indiana Pacers,Detroit Pistons,Indiana Pacers,32,42,74,1301182200.0,2011
+Indiana Pacers,Indiana Pacers,Boston Celtics,33,42,75,1301353200.0,2011
+Indiana Pacers,Indiana Pacers,Detroit Pistons,34,42,76,1301526000.0,2011
+Indiana Pacers,Indiana Pacers,Milwaukee Bucks,35,42,77,1301698800.0,2011
+Indiana Pacers,New Orleans Hornets,Indiana Pacers,35,43,78,1301871600.0,2011
+Indiana Pacers,Indiana Pacers,Washington Wizards,36,43,79,1302130800.0,2011
+Indiana Pacers,Indiana Pacers,Atlanta Hawks,37,43,80,1302303600.0,2011
+Indiana Pacers,Indiana Pacers,New York Knicks,37,44,81,1302476400.0,2011
+Indiana Pacers,Orlando Magic,Indiana Pacers,37,45,82,1302739200.0,2011
+Los Angeles Clippers,Los Angeles Clippers,Portland Trail Blazers,0,1,1,1288233000.0,2011
+Los Angeles Clippers,Golden State Warriors,Los Angeles Clippers,0,2,2,1288405800.0,2011
+Los Angeles Clippers,Los Angeles Clippers,Dallas Mavericks,0,3,3,1288553400.0,2011
+Los Angeles Clippers,Los Angeles Clippers,San Antonio Spurs,0,4,4,1288665000.0,2011
+Los Angeles Clippers,Los Angeles Clippers,Oklahoma City Thunder,1,4,5,1288837800.0,2011
+Los Angeles Clippers,Denver Nuggets,Los Angeles Clippers,1,5,6,1289010600.0,2011
+Los Angeles Clippers,Utah Jazz,Los Angeles Clippers,1,6,7,1289091600.0,2011
+Los Angeles Clippers,New Orleans Hornets,Los Angeles Clippers,1,7,8,1289350800.0,2011
+Los Angeles Clippers,San Antonio Spurs,Los Angeles Clippers,1,8,9,1289442600.0,2011
+Los Angeles Clippers,Los Angeles Clippers,Detroit Pistons,1,9,10,1289619000.0,2011
+Los Angeles Clippers,Los Angeles Clippers,New Jersey Nets,1,10,11,1289878200.0,2011
+Los Angeles Clippers,Minnesota Timberwolves,Los Angeles Clippers,1,11,12,1290042000.0,2011
+Los Angeles Clippers,Indiana Pacers,Los Angeles Clippers,1,12,13,1290124800.0,2011
+Los Angeles Clippers,Los Angeles Clippers,New York Knicks,1,13,14,1290310200.0,2011
+Los Angeles Clippers,Los Angeles Clippers,New Orleans Hornets,2,13,15,1290483000.0,2011
+Los Angeles Clippers,Los Angeles Clippers,Sacramento Kings,3,13,16,1290742200.0,2011
+Los Angeles Clippers,Phoenix Suns,Los Angeles Clippers,3,14,17,1290823200.0,2011
+Los Angeles Clippers,Los Angeles Clippers,Utah Jazz,3,15,18,1290976200.0,2011
+Los Angeles Clippers,Los Angeles Clippers,San Antonio Spurs,4,15,19,1291260600.0,2011
+Los Angeles Clippers,Denver Nuggets,Los Angeles Clippers,4,16,20,1291428000.0,2011
+Los Angeles Clippers,Portland Trail Blazers,Los Angeles Clippers,4,17,21,1291600800.0,2011
+Los Angeles Clippers,Los Angeles Clippers,Sacramento Kings,5,17,22,1291692600.0,2011
+Los Angeles Clippers,Los Angeles Clippers,Los Angeles Lakers,5,18,23,1291865400.0,2011
+Los Angeles Clippers,Los Angeles Clippers,Memphis Grizzlies,5,19,24,1292099400.0,2011
+Los Angeles Clippers,Los Angeles Clippers,Orlando Magic,5,20,25,1292207400.0,2011
+Los Angeles Clippers,Philadelphia 76ers,Los Angeles Clippers,5,21,26,1292457600.0,2011
+Los Angeles Clippers,Detroit Pistons,Los Angeles Clippers,6,21,27,1292632200.0,2011
+Los Angeles Clippers,Chicago Bulls,Los Angeles Clippers,7,21,28,1292720400.0,2011
+Los Angeles Clippers,Los Angeles Clippers,Minnesota Timberwolves,8,21,29,1292902200.0,2011
+Los Angeles Clippers,Los Angeles Clippers,Houston Rockets,8,22,30,1293075000.0,2011
+Los Angeles Clippers,Los Angeles Clippers,Phoenix Suns,9,22,31,1293393600.0,2011
+Los Angeles Clippers,Sacramento Kings,Los Angeles Clippers,10,22,32,1293505200.0,2011
+Los Angeles Clippers,Los Angeles Clippers,Utah Jazz,10,23,33,1293679800.0,2011
+Los Angeles Clippers,Los Angeles Clippers,Atlanta Hawks,10,24,34,1294000200.0,2011
+Los Angeles Clippers,Los Angeles Clippers,Denver Nuggets,11,24,35,1294284600.0,2011
+Los Angeles Clippers,Los Angeles Clippers,Golden State Warriors,12,24,36,1294605000.0,2011
+Los Angeles Clippers,Los Angeles Clippers,Miami Heat,13,24,37,1294889400.0,2011
+Los Angeles Clippers,Golden State Warriors,Los Angeles Clippers,13,25,38,1295062200.0,2011
+Los Angeles Clippers,Los Angeles Clippers,Los Angeles Lakers,14,25,39,1295209800.0,2011
+Los Angeles Clippers,Los Angeles Clippers,Indiana Pacers,15,25,40,1295296200.0,2011
+Los Angeles Clippers,Los Angeles Clippers,Minnesota Timberwolves,16,25,41,1295494200.0,2011
+Los Angeles Clippers,Portland Trail Blazers,Los Angeles Clippers,16,26,42,1295580600.0,2011
+Los Angeles Clippers,Los Angeles Clippers,Golden State Warriors,17,26,43,1295753400.0,2011
+Los Angeles Clippers,Dallas Mavericks,Los Angeles Clippers,17,27,44,1296005400.0,2011
+Los Angeles Clippers,Houston Rockets,Los Angeles Clippers,17,28,45,1296091800.0,2011
+Los Angeles Clippers,Los Angeles Clippers,Charlotte Bobcats,18,28,46,1296358200.0,2011
+Los Angeles Clippers,Los Angeles Clippers,Milwaukee Bucks,19,28,47,1296531000.0,2011
+Los Angeles Clippers,Los Angeles Clippers,Chicago Bulls,19,29,48,1296703800.0,2011
+Los Angeles Clippers,Atlanta Hawks,Los Angeles Clippers,19,30,49,1296865800.0,2011
+Los Angeles Clippers,Miami Heat,Los Angeles Clippers,19,31,50,1297011600.0,2011
+Los Angeles Clippers,Orlando Magic,Los Angeles Clippers,19,32,51,1297209600.0,2011
+Los Angeles Clippers,New York Knicks,Los Angeles Clippers,20,32,52,1297297800.0,2011
+Los Angeles Clippers,Cleveland Cavaliers,Los Angeles Clippers,20,33,53,1297470600.0,2011
+Los Angeles Clippers,Toronto Raptors,Los Angeles Clippers,20,34,54,1297638000.0,2011
+Los Angeles Clippers,Milwaukee Bucks,Los Angeles Clippers,20,35,55,1297731600.0,2011
+Los Angeles Clippers,Minnesota Timberwolves,Los Angeles Clippers,21,35,56,1297904400.0,2011
+Los Angeles Clippers,Oklahoma City Thunder,Los Angeles Clippers,21,36,57,1298422800.0,2011
+Los Angeles Clippers,New Orleans Hornets,Los Angeles Clippers,21,37,58,1298514600.0,2011
+Los Angeles Clippers,Los Angeles Lakers,Los Angeles Clippers,21,38,59,1298691000.0,2011
+Los Angeles Clippers,Los Angeles Clippers,Boston Celtics,21,39,60,1298777400.0,2011
+Los Angeles Clippers,Sacramento Kings,Los Angeles Clippers,21,40,61,1298948400.0,2011
+Los Angeles Clippers,Los Angeles Clippers,Houston Rockets,22,40,62,1299123000.0,2011
+Los Angeles Clippers,Los Angeles Clippers,Denver Nuggets,23,40,63,1299382200.0,2011
+Los Angeles Clippers,Charlotte Bobcats,Los Angeles Clippers,24,40,64,1299542400.0,2011
+Los Angeles Clippers,Boston Celtics,Los Angeles Clippers,25,40,65,1299717000.0,2011
+Los Angeles Clippers,New Jersey Nets,Los Angeles Clippers,25,41,66,1299888000.0,2011
+Los Angeles Clippers,Washington Wizards,Los Angeles Clippers,26,41,67,1299974400.0,2011
+Los Angeles Clippers,Memphis Grizzlies,Los Angeles Clippers,26,42,68,1300147200.0,2011
+Los Angeles Clippers,Los Angeles Clippers,Philadelphia 76ers,26,43,69,1300329000.0,2011
+Los Angeles Clippers,Los Angeles Clippers,Cleveland Cavaliers,27,43,70,1300563000.0,2011
+Los Angeles Clippers,Los Angeles Clippers,Phoenix Suns,27,44,71,1300649400.0,2011
+Los Angeles Clippers,Los Angeles Clippers,Washington Wizards,28,44,72,1300933800.0,2011
+Los Angeles Clippers,Los Angeles Lakers,Los Angeles Clippers,28,45,73,1301106600.0,2011
+Los Angeles Clippers,Los Angeles Clippers,Toronto Raptors,29,45,74,1301193000.0,2011
+Los Angeles Clippers,Los Angeles Clippers,Dallas Mavericks,29,46,75,1301538600.0,2011
+Los Angeles Clippers,Phoenix Suns,Los Angeles Clippers,29,47,76,1301709600.0,2011
+Los Angeles Clippers,Los Angeles Clippers,Oklahoma City Thunder,30,47,77,1301797800.0,2011
+Los Angeles Clippers,Memphis Grizzlies,Los Angeles Clippers,31,47,78,1302048000.0,2011
+Los Angeles Clippers,Oklahoma City Thunder,Los Angeles Clippers,31,48,79,1302134400.0,2011
+Los Angeles Clippers,Dallas Mavericks,Los Angeles Clippers,31,49,80,1302309000.0,2011
+Los Angeles Clippers,Houston Rockets,Los Angeles Clippers,31,50,81,1302395400.0,2011
+Los Angeles Clippers,Los Angeles Clippers,Memphis Grizzlies,32,50,82,1302748200.0,2011
+Los Angeles Lakers,Los Angeles Lakers,Houston Rockets,1,0,1,1288146600.0,2011
+Los Angeles Lakers,Phoenix Suns,Los Angeles Lakers,2,0,2,1288405800.0,2011
+Los Angeles Lakers,Los Angeles Lakers,Golden State Warriors,3,0,3,1288575000.0,2011
+Los Angeles Lakers,Los Angeles Lakers,Memphis Grizzlies,4,0,4,1288751400.0,2011
+Los Angeles Lakers,Sacramento Kings,Los Angeles Lakers,5,0,5,1288837800.0,2011
+Los Angeles Lakers,Los Angeles Lakers,Toronto Raptors,6,0,6,1289010600.0,2011
+Los Angeles Lakers,Los Angeles Lakers,Portland Trail Blazers,7,0,7,1289183400.0,2011
+Los Angeles Lakers,Los Angeles Lakers,Minnesota Timberwolves,8,0,8,1289359800.0,2011
+Los Angeles Lakers,Denver Nuggets,Los Angeles Lakers,8,1,9,1289532600.0,2011
+Los Angeles Lakers,Los Angeles Lakers,Phoenix Suns,8,2,10,1289788200.0,2011
+Los Angeles Lakers,Milwaukee Bucks,Los Angeles Lakers,9,2,11,1289955600.0,2011
+Los Angeles Lakers,Detroit Pistons,Los Angeles Lakers,10,2,12,1290040200.0,2011
+Los Angeles Lakers,Minnesota Timberwolves,Los Angeles Lakers,11,2,13,1290214800.0,2011
+Los Angeles Lakers,Los Angeles Lakers,Golden State Warriors,12,2,14,1290393000.0,2011
+Los Angeles Lakers,Los Angeles Lakers,Chicago Bulls,13,2,15,1290569400.0,2011
+Los Angeles Lakers,Utah Jazz,Los Angeles Lakers,13,3,16,1290823200.0,2011
+Los Angeles Lakers,Los Angeles Lakers,Indiana Pacers,13,4,17,1290997800.0,2011
+Los Angeles Lakers,Memphis Grizzlies,Los Angeles Lakers,13,5,18,1291165200.0,2011
+Los Angeles Lakers,Houston Rockets,Los Angeles Lakers,13,6,19,1291253400.0,2011
+Los Angeles Lakers,Los Angeles Lakers,Sacramento Kings,14,6,20,1291433400.0,2011
+Los Angeles Lakers,Los Angeles Lakers,Washington Wizards,15,6,21,1291779000.0,2011
+Los Angeles Lakers,Los Angeles Clippers,Los Angeles Lakers,16,6,22,1291865400.0,2011
+Los Angeles Lakers,Chicago Bulls,Los Angeles Lakers,16,7,23,1292029200.0,2011
+Los Angeles Lakers,New Jersey Nets,Los Angeles Lakers,17,7,24,1292176800.0,2011
+Los Angeles Lakers,Washington Wizards,Los Angeles Lakers,18,7,25,1292371200.0,2011
+Los Angeles Lakers,Indiana Pacers,Los Angeles Lakers,19,7,26,1292457600.0,2011
+Los Angeles Lakers,Philadelphia 76ers,Los Angeles Lakers,20,7,27,1292630400.0,2011
+Los Angeles Lakers,Toronto Raptors,Los Angeles Lakers,21,7,28,1292781600.0,2011
+Los Angeles Lakers,Los Angeles Lakers,Milwaukee Bucks,21,8,29,1292988600.0,2011
+Los Angeles Lakers,Los Angeles Lakers,Miami Heat,21,9,30,1293314400.0,2011
+Los Angeles Lakers,San Antonio Spurs,Los Angeles Lakers,21,10,31,1293586200.0,2011
+Los Angeles Lakers,New Orleans Hornets,Los Angeles Lakers,22,10,32,1293670800.0,2011
+Los Angeles Lakers,Los Angeles Lakers,Philadelphia 76ers,23,10,33,1293852600.0,2011
+Los Angeles Lakers,Los Angeles Lakers,Memphis Grizzlies,23,11,34,1294021800.0,2011
+Los Angeles Lakers,Los Angeles Lakers,Detroit Pistons,24,11,35,1294198200.0,2011
+Los Angeles Lakers,Phoenix Suns,Los Angeles Lakers,25,11,36,1294284600.0,2011
+Los Angeles Lakers,Los Angeles Lakers,New Orleans Hornets,26,11,37,1294457400.0,2011
+Los Angeles Lakers,Los Angeles Lakers,New York Knicks,27,11,38,1294626600.0,2011
+Los Angeles Lakers,Los Angeles Lakers,Cleveland Cavaliers,28,11,39,1294803000.0,2011
+Los Angeles Lakers,Golden State Warriors,Los Angeles Lakers,29,11,40,1294889400.0,2011
+Los Angeles Lakers,Los Angeles Lakers,New Jersey Nets,30,11,41,1295062200.0,2011
+Los Angeles Lakers,Los Angeles Clippers,Los Angeles Lakers,30,12,42,1295209800.0,2011
+Los Angeles Lakers,Los Angeles Lakers,Oklahoma City Thunder,31,12,43,1295321400.0,2011
+Los Angeles Lakers,Dallas Mavericks,Los Angeles Lakers,31,13,44,1295488800.0,2011
+Los Angeles Lakers,Denver Nuggets,Los Angeles Lakers,32,13,45,1295667000.0,2011
+Los Angeles Lakers,Los Angeles Lakers,Utah Jazz,33,13,46,1296012600.0,2011
+Los Angeles Lakers,Los Angeles Lakers,Sacramento Kings,33,14,47,1296271800.0,2011
+Los Angeles Lakers,Los Angeles Lakers,Boston Celtics,33,15,48,1296419400.0,2011
+Los Angeles Lakers,Los Angeles Lakers,Houston Rockets,34,15,49,1296617400.0,2011
+Los Angeles Lakers,Los Angeles Lakers,San Antonio Spurs,34,16,50,1296790200.0,2011
+Los Angeles Lakers,New Orleans Hornets,Los Angeles Lakers,35,16,51,1296954000.0,2011
+Los Angeles Lakers,Memphis Grizzlies,Los Angeles Lakers,36,16,52,1297126800.0,2011
+Los Angeles Lakers,Boston Celtics,Los Angeles Lakers,37,16,53,1297386000.0,2011
+Los Angeles Lakers,New York Knicks,Los Angeles Lakers,38,16,54,1297472400.0,2011
+Los Angeles Lakers,Orlando Magic,Los Angeles Lakers,38,17,55,1297629000.0,2011
+Los Angeles Lakers,Charlotte Bobcats,Los Angeles Lakers,38,18,56,1297728000.0,2011
+Los Angeles Lakers,Cleveland Cavaliers,Los Angeles Lakers,38,19,57,1297902600.0,2011
+Los Angeles Lakers,Los Angeles Lakers,Atlanta Hawks,39,19,58,1298431800.0,2011
+Los Angeles Lakers,Portland Trail Blazers,Los Angeles Lakers,40,19,59,1298518200.0,2011
+Los Angeles Lakers,Los Angeles Lakers,Los Angeles Clippers,41,19,60,1298691000.0,2011
+Los Angeles Lakers,Oklahoma City Thunder,Los Angeles Lakers,42,19,61,1298835000.0,2011
+Los Angeles Lakers,Minnesota Timberwolves,Los Angeles Lakers,43,19,62,1299027600.0,2011
+Los Angeles Lakers,Los Angeles Lakers,Charlotte Bobcats,44,19,63,1299295800.0,2011
+Los Angeles Lakers,San Antonio Spurs,Los Angeles Lakers,45,19,64,1299443400.0,2011
+Los Angeles Lakers,Atlanta Hawks,Los Angeles Lakers,46,19,65,1299628800.0,2011
+Los Angeles Lakers,Miami Heat,Los Angeles Lakers,46,20,66,1299801600.0,2011
+Los Angeles Lakers,Dallas Mavericks,Los Angeles Lakers,47,20,67,1299981600.0,2011
+Los Angeles Lakers,Los Angeles Lakers,Orlando Magic,48,20,68,1300156200.0,2011
+Los Angeles Lakers,Los Angeles Lakers,Minnesota Timberwolves,49,20,69,1300501800.0,2011
+Los Angeles Lakers,Los Angeles Lakers,Portland Trail Blazers,50,20,70,1300671000.0,2011
+Los Angeles Lakers,Los Angeles Lakers,Phoenix Suns,51,20,71,1300847400.0,2011
+Los Angeles Lakers,Los Angeles Lakers,Los Angeles Clippers,52,20,72,1301106600.0,2011
+Los Angeles Lakers,Los Angeles Lakers,New Orleans Hornets,53,20,73,1301275800.0,2011
+Los Angeles Lakers,Los Angeles Lakers,Dallas Mavericks,54,20,74,1301625000.0,2011
+Los Angeles Lakers,Utah Jazz,Los Angeles Lakers,55,20,75,1301711400.0,2011
+Los Angeles Lakers,Los Angeles Lakers,Denver Nuggets,55,21,76,1301859000.0,2011
+Los Angeles Lakers,Los Angeles Lakers,Utah Jazz,55,22,77,1302057000.0,2011
+Los Angeles Lakers,Golden State Warriors,Los Angeles Lakers,55,23,78,1302143400.0,2011
+Los Angeles Lakers,Portland Trail Blazers,Los Angeles Lakers,55,24,79,1302314400.0,2011
+Los Angeles Lakers,Los Angeles Lakers,Oklahoma City Thunder,55,25,80,1302485400.0,2011
+Los Angeles Lakers,Los Angeles Lakers,San Antonio Spurs,56,25,81,1302661800.0,2011
+Los Angeles Lakers,Sacramento Kings,Los Angeles Lakers,57,25,82,1302748200.0,2011
+Memphis Grizzlies,Memphis Grizzlies,Atlanta Hawks,0,1,1,1288224000.0,2011
+Memphis Grizzlies,Dallas Mavericks,Memphis Grizzlies,1,1,2,1288398600.0,2011
+Memphis Grizzlies,Memphis Grizzlies,Minnesota Timberwolves,2,1,3,1288483200.0,2011
+Memphis Grizzlies,Los Angeles Lakers,Memphis Grizzlies,2,2,4,1288751400.0,2011
+Memphis Grizzlies,Golden State Warriors,Memphis Grizzlies,2,3,5,1288837800.0,2011
+Memphis Grizzlies,Phoenix Suns,Memphis Grizzlies,2,4,6,1289008800.0,2011
+Memphis Grizzlies,Sacramento Kings,Memphis Grizzlies,3,4,7,1289095200.0,2011
+Memphis Grizzlies,Memphis Grizzlies,Phoenix Suns,4,4,8,1289264400.0,2011
+Memphis Grizzlies,Memphis Grizzlies,Dallas Mavericks,4,5,9,1289437200.0,2011
+Memphis Grizzlies,Memphis Grizzlies,Boston Celtics,4,6,10,1289696400.0,2011
+Memphis Grizzlies,Orlando Magic,Memphis Grizzlies,4,7,11,1289865600.0,2011
+Memphis Grizzlies,Memphis Grizzlies,Portland Trail Blazers,4,8,12,1289955600.0,2011
+Memphis Grizzlies,Washington Wizards,Memphis Grizzlies,4,9,13,1290211200.0,2011
+Memphis Grizzlies,Memphis Grizzlies,Miami Heat,5,9,14,1290301200.0,2011
+Memphis Grizzlies,Memphis Grizzlies,Detroit Pistons,6,9,15,1290646800.0,2011
+Memphis Grizzlies,Memphis Grizzlies,Golden State Warriors,7,9,16,1290825000.0,2011
+Memphis Grizzlies,Cleveland Cavaliers,Memphis Grizzlies,7,10,17,1290904200.0,2011
+Memphis Grizzlies,Memphis Grizzlies,Los Angeles Lakers,8,10,18,1291165200.0,2011
+Memphis Grizzlies,Atlanta Hawks,Memphis Grizzlies,8,11,19,1291248000.0,2011
+Memphis Grizzlies,Memphis Grizzlies,Houston Rockets,8,12,20,1291424400.0,2011
+Memphis Grizzlies,Denver Nuggets,Memphis Grizzlies,8,13,21,1291597200.0,2011
+Memphis Grizzlies,Utah Jazz,Memphis Grizzlies,8,14,22,1291687200.0,2011
+Memphis Grizzlies,Phoenix Suns,Memphis Grizzlies,9,14,23,1291860000.0,2011
+Memphis Grizzlies,Los Angeles Clippers,Memphis Grizzlies,10,14,24,1292099400.0,2011
+Memphis Grizzlies,Memphis Grizzlies,Portland Trail Blazers,11,14,25,1292288400.0,2011
+Memphis Grizzlies,Memphis Grizzlies,Charlotte Bobcats,12,14,26,1292461200.0,2011
+Memphis Grizzlies,Houston Rockets,Memphis Grizzlies,12,15,27,1292635800.0,2011
+Memphis Grizzlies,San Antonio Spurs,Memphis Grizzlies,12,16,28,1292722200.0,2011
+Memphis Grizzlies,Memphis Grizzlies,New Jersey Nets,12,17,29,1292979600.0,2011
+Memphis Grizzlies,Indiana Pacers,Memphis Grizzlies,13,17,30,1293408000.0,2011
+Memphis Grizzlies,Memphis Grizzlies,Toronto Raptors,14,17,31,1293498000.0,2011
+Memphis Grizzlies,Sacramento Kings,Memphis Grizzlies,14,18,32,1293678000.0,2011
+Memphis Grizzlies,Utah Jazz,Memphis Grizzlies,14,19,33,1293933600.0,2011
+Memphis Grizzlies,Los Angeles Lakers,Memphis Grizzlies,15,19,34,1294021800.0,2011
+Memphis Grizzlies,Memphis Grizzlies,Oklahoma City Thunder,16,19,35,1294189200.0,2011
+Memphis Grizzlies,Memphis Grizzlies,Utah Jazz,17,19,36,1294448400.0,2011
+Memphis Grizzlies,Oklahoma City Thunder,Memphis Grizzlies,17,20,37,1294534800.0,2011
+Memphis Grizzlies,Charlotte Bobcats,Memphis Grizzlies,17,21,38,1294704000.0,2011
+Memphis Grizzlies,Detroit Pistons,Memphis Grizzlies,18,21,39,1294878600.0,2011
+Memphis Grizzlies,Memphis Grizzlies,Dallas Mavericks,19,21,40,1295139600.0,2011
+Memphis Grizzlies,Memphis Grizzlies,Chicago Bulls,19,22,41,1295287200.0,2011
+Memphis Grizzlies,New Orleans Hornets,Memphis Grizzlies,19,23,42,1295485200.0,2011
+Memphis Grizzlies,Memphis Grizzlies,Houston Rockets,20,23,43,1295658000.0,2011
+Memphis Grizzlies,Milwaukee Bucks,Memphis Grizzlies,21,23,44,1295746200.0,2011
+Memphis Grizzlies,Toronto Raptors,Memphis Grizzlies,22,23,45,1295913600.0,2011
+Memphis Grizzlies,New Jersey Nets,Memphis Grizzlies,22,24,46,1296086400.0,2011
+Memphis Grizzlies,Philadelphia 76ers,Memphis Grizzlies,23,24,47,1296259200.0,2011
+Memphis Grizzlies,Memphis Grizzlies,Washington Wizards,24,24,48,1296349200.0,2011
+Memphis Grizzlies,Memphis Grizzlies,Orlando Magic,25,24,49,1296522000.0,2011
+Memphis Grizzlies,Minnesota Timberwolves,Memphis Grizzlies,26,24,50,1296694800.0,2011
+Memphis Grizzlies,Memphis Grizzlies,Cleveland Cavaliers,27,24,51,1296867600.0,2011
+Memphis Grizzlies,Houston Rockets,Memphis Grizzlies,27,25,52,1296955800.0,2011
+Memphis Grizzlies,Memphis Grizzlies,Los Angeles Lakers,27,26,53,1297126800.0,2011
+Memphis Grizzlies,Oklahoma City Thunder,Memphis Grizzlies,28,26,54,1297213200.0,2011
+Memphis Grizzlies,Memphis Grizzlies,Milwaukee Bucks,29,26,55,1297472400.0,2011
+Memphis Grizzlies,Memphis Grizzlies,Denver Nuggets,30,26,56,1297638000.0,2011
+Memphis Grizzlies,Memphis Grizzlies,Philadelphia 76ers,31,26,57,1297818000.0,2011
+Memphis Grizzlies,Denver Nuggets,Memphis Grizzlies,31,27,58,1298426400.0,2011
+Memphis Grizzlies,Minnesota Timberwolves,Memphis Grizzlies,32,27,59,1298509200.0,2011
+Memphis Grizzlies,Memphis Grizzlies,Sacramento Kings,33,27,60,1298768400.0,2011
+Memphis Grizzlies,San Antonio Spurs,Memphis Grizzlies,33,28,61,1298851200.0,2011
+Memphis Grizzlies,Memphis Grizzlies,San Antonio Spurs,34,28,62,1299027600.0,2011
+Memphis Grizzlies,Memphis Grizzlies,New Orleans Hornets,34,29,63,1299286800.0,2011
+Memphis Grizzlies,Dallas Mavericks,Memphis Grizzlies,35,29,64,1299457800.0,2011
+Memphis Grizzlies,Memphis Grizzlies,Oklahoma City Thunder,36,29,65,1299546000.0,2011
+Memphis Grizzlies,Memphis Grizzlies,New York Knicks,36,30,66,1299718800.0,2011
+Memphis Grizzlies,Miami Heat,Memphis Grizzlies,36,31,67,1299961800.0,2011
+Memphis Grizzlies,Memphis Grizzlies,Los Angeles Clippers,37,31,68,1300147200.0,2011
+Memphis Grizzlies,New York Knicks,Memphis Grizzlies,37,32,69,1300404600.0,2011
+Memphis Grizzlies,Memphis Grizzlies,Indiana Pacers,38,32,70,1300579200.0,2011
+Memphis Grizzlies,Memphis Grizzlies,Utah Jazz,39,32,71,1300752000.0,2011
+Memphis Grizzlies,Boston Celtics,Memphis Grizzlies,40,32,72,1300923000.0,2011
+Memphis Grizzlies,Chicago Bulls,Memphis Grizzlies,40,33,73,1301097600.0,2011
+Memphis Grizzlies,Memphis Grizzlies,San Antonio Spurs,41,33,74,1301263200.0,2011
+Memphis Grizzlies,Memphis Grizzlies,Golden State Warriors,42,33,75,1301529600.0,2011
+Memphis Grizzlies,New Orleans Hornets,Memphis Grizzlies,43,33,76,1301702400.0,2011
+Memphis Grizzlies,Memphis Grizzlies,Minnesota Timberwolves,44,33,77,1301788800.0,2011
+Memphis Grizzlies,Memphis Grizzlies,Los Angeles Clippers,44,34,78,1302048000.0,2011
+Memphis Grizzlies,Memphis Grizzlies,Sacramento Kings,45,34,79,1302307200.0,2011
+Memphis Grizzlies,Memphis Grizzlies,New Orleans Hornets,46,34,80,1302472800.0,2011
+Memphis Grizzlies,Portland Trail Blazers,Memphis Grizzlies,46,35,81,1302660000.0,2011
+Memphis Grizzlies,Los Angeles Clippers,Memphis Grizzlies,46,36,82,1302748200.0,2011
+Miami Heat,Boston Celtics,Miami Heat,0,1,1,1288135800.0,2011
+Miami Heat,Philadelphia 76ers,Miami Heat,1,1,2,1288220400.0,2011
+Miami Heat,Miami Heat,Orlando Magic,2,1,3,1288396800.0,2011
+Miami Heat,New Jersey Nets,Miami Heat,3,1,4,1288544400.0,2011
+Miami Heat,Miami Heat,Minnesota Timberwolves,4,1,5,1288740600.0,2011
+Miami Heat,New Orleans Hornets,Miami Heat,4,2,6,1289001600.0,2011
+Miami Heat,Miami Heat,New Jersey Nets,5,2,7,1289086200.0,2011
+Miami Heat,Miami Heat,Utah Jazz,5,3,8,1289349000.0,2011
+Miami Heat,Miami Heat,Boston Celtics,5,4,9,1289523600.0,2011
+Miami Heat,Miami Heat,Toronto Raptors,6,4,10,1289694600.0,2011
+Miami Heat,Miami Heat,Phoenix Suns,7,4,11,1290038400.0,2011
+Miami Heat,Miami Heat,Charlotte Bobcats,8,4,12,1290213000.0,2011
+Miami Heat,Memphis Grizzlies,Miami Heat,8,5,13,1290301200.0,2011
+Miami Heat,Miami Heat,Indiana Pacers,8,6,14,1290472200.0,2011
+Miami Heat,Orlando Magic,Miami Heat,8,7,15,1290645000.0,2011
+Miami Heat,Miami Heat,Philadelphia 76ers,9,7,16,1290817800.0,2011
+Miami Heat,Dallas Mavericks,Miami Heat,9,8,17,1290907800.0,2011
+Miami Heat,Miami Heat,Washington Wizards,10,8,18,1291077000.0,2011
+Miami Heat,Miami Heat,Detroit Pistons,11,8,19,1291249800.0,2011
+Miami Heat,Cleveland Cavaliers,Miami Heat,12,8,20,1291338000.0,2011
+Miami Heat,Miami Heat,Atlanta Hawks,13,8,21,1291509000.0,2011
+Miami Heat,Milwaukee Bucks,Miami Heat,14,8,22,1291683600.0,2011
+Miami Heat,Utah Jazz,Miami Heat,15,8,23,1291860000.0,2011
+Miami Heat,Golden State Warriors,Miami Heat,16,8,24,1292038200.0,2011
+Miami Heat,Sacramento Kings,Miami Heat,17,8,25,1292122800.0,2011
+Miami Heat,Miami Heat,New Orleans Hornets,18,8,26,1292286600.0,2011
+Miami Heat,Miami Heat,Cleveland Cavaliers,19,8,27,1292459400.0,2011
+Miami Heat,New York Knicks,Miami Heat,20,8,28,1292630400.0,2011
+Miami Heat,Washington Wizards,Miami Heat,21,8,29,1292716800.0,2011
+Miami Heat,Miami Heat,Dallas Mavericks,21,9,30,1292891400.0,2011
+Miami Heat,Phoenix Suns,Miami Heat,22,9,31,1293161400.0,2011
+Miami Heat,Los Angeles Lakers,Miami Heat,23,9,32,1293314400.0,2011
+Miami Heat,Miami Heat,New York Knicks,24,9,33,1293582600.0,2011
+Miami Heat,Houston Rockets,Miami Heat,25,9,34,1293672600.0,2011
+Miami Heat,Miami Heat,Golden State Warriors,26,9,35,1293928200.0,2011
+Miami Heat,Charlotte Bobcats,Miami Heat,27,9,36,1294099200.0,2011
+Miami Heat,Miami Heat,Milwaukee Bucks,28,9,37,1294187400.0,2011
+Miami Heat,Milwaukee Bucks,Miami Heat,29,9,38,1294450200.0,2011
+Miami Heat,Portland Trail Blazers,Miami Heat,30,9,39,1294624800.0,2011
+Miami Heat,Los Angeles Clippers,Miami Heat,30,10,40,1294889400.0,2011
+Miami Heat,Denver Nuggets,Miami Heat,30,11,41,1294975800.0,2011
+Miami Heat,Chicago Bulls,Miami Heat,30,12,42,1295139600.0,2011
+Miami Heat,Miami Heat,Atlanta Hawks,30,13,43,1295397000.0,2011
+Miami Heat,Miami Heat,Toronto Raptors,31,13,44,1295742600.0,2011
+Miami Heat,New York Knicks,Miami Heat,31,14,45,1296176400.0,2011
+Miami Heat,Miami Heat,Detroit Pistons,32,14,46,1296261000.0,2011
+Miami Heat,Oklahoma City Thunder,Miami Heat,33,14,47,1296410400.0,2011
+Miami Heat,Miami Heat,Cleveland Cavaliers,34,14,48,1296520200.0,2011
+Miami Heat,Orlando Magic,Miami Heat,35,14,49,1296781200.0,2011
+Miami Heat,Charlotte Bobcats,Miami Heat,36,14,50,1296864000.0,2011
+Miami Heat,Miami Heat,Los Angeles Clippers,37,14,51,1297011600.0,2011
+Miami Heat,Miami Heat,Indiana Pacers,38,14,52,1297211400.0,2011
+Miami Heat,Detroit Pistons,Miami Heat,39,14,53,1297470600.0,2011
+Miami Heat,Boston Celtics,Miami Heat,39,15,54,1297620000.0,2011
+Miami Heat,Indiana Pacers,Miami Heat,40,15,55,1297814400.0,2011
+Miami Heat,Toronto Raptors,Miami Heat,41,15,56,1297900800.0,2011
+Miami Heat,Miami Heat,Sacramento Kings,42,15,57,1298421000.0,2011
+Miami Heat,Chicago Bulls,Miami Heat,42,16,58,1298595600.0,2011
+Miami Heat,Miami Heat,Washington Wizards,43,16,59,1298680200.0,2011
+Miami Heat,Miami Heat,New York Knicks,43,17,60,1298854800.0,2011
+Miami Heat,Miami Heat,Orlando Magic,43,18,61,1299200400.0,2011
+Miami Heat,San Antonio Spurs,Miami Heat,43,19,62,1299292200.0,2011
+Miami Heat,Miami Heat,Chicago Bulls,43,20,63,1299434400.0,2011
+Miami Heat,Miami Heat,Portland Trail Blazers,43,21,64,1299630600.0,2011
+Miami Heat,Miami Heat,Los Angeles Lakers,44,21,65,1299801600.0,2011
+Miami Heat,Miami Heat,Memphis Grizzlies,45,21,66,1299961800.0,2011
+Miami Heat,Miami Heat,San Antonio Spurs,46,21,67,1300147200.0,2011
+Miami Heat,Miami Heat,Oklahoma City Thunder,46,22,68,1300320000.0,2011
+Miami Heat,Atlanta Hawks,Miami Heat,47,22,69,1300491000.0,2011
+Miami Heat,Miami Heat,Denver Nuggets,48,22,70,1300577400.0,2011
+Miami Heat,Detroit Pistons,Miami Heat,49,22,71,1300923000.0,2011
+Miami Heat,Miami Heat,Philadelphia 76ers,50,22,72,1301095800.0,2011
+Miami Heat,Miami Heat,Houston Rockets,51,22,73,1301263200.0,2011
+Miami Heat,Cleveland Cavaliers,Miami Heat,51,23,74,1301439600.0,2011
+Miami Heat,Washington Wizards,Miami Heat,52,23,75,1301526000.0,2011
+Miami Heat,Minnesota Timberwolves,Miami Heat,53,23,76,1301702400.0,2011
+Miami Heat,New Jersey Nets,Miami Heat,54,23,77,1301868000.0,2011
+Miami Heat,Miami Heat,Milwaukee Bucks,54,24,78,1302134400.0,2011
+Miami Heat,Miami Heat,Charlotte Bobcats,55,24,79,1302305400.0,2011
+Miami Heat,Miami Heat,Boston Celtics,56,24,80,1302463800.0,2011
+Miami Heat,Atlanta Hawks,Miami Heat,57,24,81,1302562800.0,2011
+Miami Heat,Toronto Raptors,Miami Heat,58,24,82,1302739200.0,2011
+Milwaukee Bucks,New Orleans Hornets,Milwaukee Bucks,0,1,1,1288224000.0,2011
+Milwaukee Bucks,Minnesota Timberwolves,Milwaukee Bucks,0,2,2,1288396800.0,2011
+Milwaukee Bucks,Milwaukee Bucks,Charlotte Bobcats,1,2,3,1288485000.0,2011
+Milwaukee Bucks,Milwaukee Bucks,Portland Trail Blazers,1,3,4,1288742400.0,2011
+Milwaukee Bucks,Boston Celtics,Milwaukee Bucks,1,4,5,1288828800.0,2011
+Milwaukee Bucks,Indiana Pacers,Milwaukee Bucks,2,4,6,1288998000.0,2011
+Milwaukee Bucks,Milwaukee Bucks,New Orleans Hornets,2,5,7,1289089800.0,2011
+Milwaukee Bucks,Milwaukee Bucks,New York Knicks,3,5,8,1289350800.0,2011
+Milwaukee Bucks,Atlanta Hawks,Milwaukee Bucks,4,5,9,1289433600.0,2011
+Milwaukee Bucks,Milwaukee Bucks,Golden State Warriors,5,5,10,1289698200.0,2011
+Milwaukee Bucks,Milwaukee Bucks,Los Angeles Lakers,5,6,11,1289955600.0,2011
+Milwaukee Bucks,Philadelphia 76ers,Milwaukee Bucks,5,7,12,1290211200.0,2011
+Milwaukee Bucks,Milwaukee Bucks,Oklahoma City Thunder,5,8,13,1290303000.0,2011
+Milwaukee Bucks,Cleveland Cavaliers,Milwaukee Bucks,5,9,14,1290643200.0,2011
+Milwaukee Bucks,Detroit Pistons,Milwaukee Bucks,5,10,15,1290817800.0,2011
+Milwaukee Bucks,Milwaukee Bucks,Charlotte Bobcats,6,10,16,1290909600.0,2011
+Milwaukee Bucks,Utah Jazz,Milwaukee Bucks,6,11,17,1291082400.0,2011
+Milwaukee Bucks,Denver Nuggets,Milwaukee Bucks,6,12,18,1291255200.0,2011
+Milwaukee Bucks,Milwaukee Bucks,Orlando Magic,7,12,19,1291512600.0,2011
+Milwaukee Bucks,Milwaukee Bucks,Miami Heat,7,13,20,1291683600.0,2011
+Milwaukee Bucks,Milwaukee Bucks,Indiana Pacers,8,13,21,1291856400.0,2011
+Milwaukee Bucks,Milwaukee Bucks,Houston Rockets,9,13,22,1292031000.0,2011
+Milwaukee Bucks,Dallas Mavericks,Milwaukee Bucks,10,13,23,1292290200.0,2011
+Milwaukee Bucks,San Antonio Spurs,Milwaukee Bucks,10,14,24,1292463000.0,2011
+Milwaukee Bucks,Milwaukee Bucks,Utah Jazz,10,15,25,1292722200.0,2011
+Milwaukee Bucks,Portland Trail Blazers,Milwaukee Bucks,10,16,26,1292900400.0,2011
+Milwaukee Bucks,Los Angeles Lakers,Milwaukee Bucks,11,16,27,1292988600.0,2011
+Milwaukee Bucks,Sacramento Kings,Milwaukee Bucks,12,16,28,1293159600.0,2011
+Milwaukee Bucks,Milwaukee Bucks,Atlanta Hawks,12,17,29,1293498000.0,2011
+Milwaukee Bucks,Chicago Bulls,Milwaukee Bucks,12,18,30,1293584400.0,2011
+Milwaukee Bucks,Milwaukee Bucks,Dallas Mavericks,13,18,31,1293933600.0,2011
+Milwaukee Bucks,Miami Heat,Milwaukee Bucks,13,19,32,1294187400.0,2011
+Milwaukee Bucks,Orlando Magic,Milwaukee Bucks,13,20,33,1294272000.0,2011
+Milwaukee Bucks,Milwaukee Bucks,Miami Heat,13,21,34,1294450200.0,2011
+Milwaukee Bucks,New Jersey Nets,Milwaukee Bucks,14,21,35,1294531200.0,2011
+Milwaukee Bucks,Milwaukee Bucks,San Antonio Spurs,14,22,36,1294880400.0,2011
+Milwaukee Bucks,Philadelphia 76ers,Milwaukee Bucks,14,23,37,1295049600.0,2011
+Milwaukee Bucks,Houston Rockets,Milwaukee Bucks,14,24,38,1295294400.0,2011
+Milwaukee Bucks,Milwaukee Bucks,Washington Wizards,15,24,39,1295485200.0,2011
+Milwaukee Bucks,Cleveland Cavaliers,Milwaukee Bucks,16,24,40,1295656200.0,2011
+Milwaukee Bucks,Milwaukee Bucks,Memphis Grizzlies,16,25,41,1295746200.0,2011
+Milwaukee Bucks,Chicago Bulls,Milwaukee Bucks,16,26,42,1295917200.0,2011
+Milwaukee Bucks,Milwaukee Bucks,Atlanta Hawks,17,26,43,1296090000.0,2011
+Milwaukee Bucks,Toronto Raptors,Milwaukee Bucks,18,26,44,1296259200.0,2011
+Milwaukee Bucks,Milwaukee Bucks,New Jersey Nets,19,26,45,1296351000.0,2011
+Milwaukee Bucks,Los Angeles Clippers,Milwaukee Bucks,19,27,46,1296531000.0,2011
+Milwaukee Bucks,Phoenix Suns,Milwaukee Bucks,19,28,47,1296698400.0,2011
+Milwaukee Bucks,Golden State Warriors,Milwaukee Bucks,19,29,48,1296790200.0,2011
+Milwaukee Bucks,Milwaukee Bucks,Detroit Pistons,19,30,49,1296955800.0,2011
+Milwaukee Bucks,Milwaukee Bucks,Toronto Raptors,20,30,50,1297213200.0,2011
+Milwaukee Bucks,Washington Wizards,Milwaukee Bucks,20,31,51,1297296000.0,2011
+Milwaukee Bucks,Memphis Grizzlies,Milwaukee Bucks,20,32,52,1297472400.0,2011
+Milwaukee Bucks,Milwaukee Bucks,Indiana Pacers,20,33,53,1297560600.0,2011
+Milwaukee Bucks,Milwaukee Bucks,Los Angeles Clippers,21,33,54,1297731600.0,2011
+Milwaukee Bucks,Milwaukee Bucks,Denver Nuggets,21,34,55,1297908000.0,2011
+Milwaukee Bucks,Milwaukee Bucks,Minnesota Timberwolves,22,34,56,1298422800.0,2011
+Milwaukee Bucks,New York Knicks,Milwaukee Bucks,22,35,57,1298507400.0,2011
+Milwaukee Bucks,Milwaukee Bucks,Chicago Bulls,22,36,58,1298770200.0,2011
+Milwaukee Bucks,Milwaukee Bucks,Detroit Pistons,23,36,59,1299027600.0,2011
+Milwaukee Bucks,Milwaukee Bucks,Phoenix Suns,23,37,60,1299288600.0,2011
+Milwaukee Bucks,Milwaukee Bucks,Boston Celtics,23,38,61,1299463200.0,2011
+Milwaukee Bucks,Washington Wizards,Milwaukee Bucks,24,38,62,1299628800.0,2011
+Milwaukee Bucks,Milwaukee Bucks,Cleveland Cavaliers,25,38,63,1299718800.0,2011
+Milwaukee Bucks,Milwaukee Bucks,Philadelphia 76ers,26,38,64,1299978000.0,2011
+Milwaukee Bucks,Boston Celtics,Milwaukee Bucks,26,39,65,1300053600.0,2011
+Milwaukee Bucks,Atlanta Hawks,Milwaukee Bucks,26,40,66,1300230000.0,2011
+Milwaukee Bucks,Milwaukee Bucks,Orlando Magic,26,41,67,1300320000.0,2011
+Milwaukee Bucks,Milwaukee Bucks,New Jersey Nets,27,41,68,1300494600.0,2011
+Milwaukee Bucks,Milwaukee Bucks,New York Knicks,28,41,69,1300647600.0,2011
+Milwaukee Bucks,Milwaukee Bucks,Sacramento Kings,28,42,70,1300924800.0,2011
+Milwaukee Bucks,New York Knicks,Milwaukee Bucks,29,42,71,1301095800.0,2011
+Milwaukee Bucks,Milwaukee Bucks,Chicago Bulls,29,43,72,1301185800.0,2011
+Milwaukee Bucks,Charlotte Bobcats,Milwaukee Bucks,29,44,73,1301353200.0,2011
+Milwaukee Bucks,Toronto Raptors,Milwaukee Bucks,30,44,74,1301526000.0,2011
+Milwaukee Bucks,Indiana Pacers,Milwaukee Bucks,30,45,75,1301698800.0,2011
+Milwaukee Bucks,Milwaukee Bucks,Philadelphia 76ers,31,45,76,1301790600.0,2011
+Milwaukee Bucks,Orlando Magic,Milwaukee Bucks,31,46,77,1302044400.0,2011
+Milwaukee Bucks,Miami Heat,Milwaukee Bucks,32,46,78,1302134400.0,2011
+Milwaukee Bucks,Detroit Pistons,Milwaukee Bucks,32,47,79,1302305400.0,2011
+Milwaukee Bucks,Milwaukee Bucks,Cleveland Cavaliers,33,47,80,1302395400.0,2011
+Milwaukee Bucks,Milwaukee Bucks,Toronto Raptors,34,47,81,1302566400.0,2011
+Milwaukee Bucks,Oklahoma City Thunder,Milwaukee Bucks,35,47,82,1302739200.0,2011
+Minnesota Timberwolves,Minnesota Timberwolves,Sacramento Kings,0,1,1,1288224000.0,2011
+Minnesota Timberwolves,Minnesota Timberwolves,Milwaukee Bucks,1,1,2,1288396800.0,2011
+Minnesota Timberwolves,Memphis Grizzlies,Minnesota Timberwolves,1,2,3,1288483200.0,2011
+Minnesota Timberwolves,Miami Heat,Minnesota Timberwolves,1,3,4,1288740600.0,2011
+Minnesota Timberwolves,Orlando Magic,Minnesota Timberwolves,1,4,5,1288825200.0,2011
+Minnesota Timberwolves,Minnesota Timberwolves,Atlanta Hawks,1,5,6,1289001600.0,2011
+Minnesota Timberwolves,Houston Rockets,Minnesota Timberwolves,1,6,7,1289174400.0,2011
+Minnesota Timberwolves,Los Angeles Lakers,Minnesota Timberwolves,1,7,8,1289359800.0,2011
+Minnesota Timberwolves,Sacramento Kings,Minnesota Timberwolves,2,7,9,1289444400.0,2011
+Minnesota Timberwolves,Minnesota Timberwolves,New York Knicks,3,7,10,1289610000.0,2011
+Minnesota Timberwolves,Atlanta Hawks,Minnesota Timberwolves,3,8,11,1289761200.0,2011
+Minnesota Timberwolves,Charlotte Bobcats,Minnesota Timberwolves,3,9,12,1289865600.0,2011
+Minnesota Timberwolves,Minnesota Timberwolves,Los Angeles Clippers,4,9,13,1290042000.0,2011
+Minnesota Timberwolves,Minnesota Timberwolves,Los Angeles Lakers,4,10,14,1290214800.0,2011
+Minnesota Timberwolves,Oklahoma City Thunder,Minnesota Timberwolves,4,11,15,1290474000.0,2011
+Minnesota Timberwolves,Minnesota Timberwolves,San Antonio Spurs,4,12,16,1290646800.0,2011
+Minnesota Timberwolves,Minnesota Timberwolves,Golden State Warriors,4,13,17,1290906000.0,2011
+Minnesota Timberwolves,Dallas Mavericks,Minnesota Timberwolves,4,14,18,1291253400.0,2011
+Minnesota Timberwolves,San Antonio Spurs,Minnesota Timberwolves,4,15,19,1291426200.0,2011
+Minnesota Timberwolves,Minnesota Timberwolves,Cleveland Cavaliers,5,15,20,1291510800.0,2011
+Minnesota Timberwolves,New York Knicks,Minnesota Timberwolves,5,16,21,1291681800.0,2011
+Minnesota Timberwolves,Minnesota Timberwolves,Oklahoma City Thunder,5,17,22,1291856400.0,2011
+Minnesota Timberwolves,Minnesota Timberwolves,Detroit Pistons,6,17,23,1292029200.0,2011
+Minnesota Timberwolves,Chicago Bulls,Minnesota Timberwolves,6,18,24,1292115600.0,2011
+Minnesota Timberwolves,Golden State Warriors,Minnesota Timberwolves,6,19,25,1292383800.0,2011
+Minnesota Timberwolves,Phoenix Suns,Minnesota Timberwolves,6,20,26,1292464800.0,2011
+Minnesota Timberwolves,Portland Trail Blazers,Minnesota Timberwolves,6,21,27,1292641200.0,2011
+Minnesota Timberwolves,Denver Nuggets,Minnesota Timberwolves,6,22,28,1292724000.0,2011
+Minnesota Timberwolves,Los Angeles Clippers,Minnesota Timberwolves,6,23,29,1292902200.0,2011
+Minnesota Timberwolves,Minnesota Timberwolves,Utah Jazz,6,24,30,1293066000.0,2011
+Minnesota Timberwolves,Cleveland Cavaliers,Minnesota Timberwolves,7,24,31,1293404400.0,2011
+Minnesota Timberwolves,Minnesota Timberwolves,New Orleans Hornets,8,24,32,1293498000.0,2011
+Minnesota Timberwolves,Minnesota Timberwolves,Denver Nuggets,8,25,33,1293670800.0,2011
+Minnesota Timberwolves,Minnesota Timberwolves,New Jersey Nets,9,25,34,1293930000.0,2011
+Minnesota Timberwolves,Boston Celtics,Minnesota Timberwolves,9,26,35,1294101000.0,2011
+Minnesota Timberwolves,Minnesota Timberwolves,Charlotte Bobcats,9,27,36,1294275600.0,2011
+Minnesota Timberwolves,Minnesota Timberwolves,Portland Trail Blazers,9,28,37,1294448400.0,2011
+Minnesota Timberwolves,San Antonio Spurs,Minnesota Timberwolves,9,29,38,1294617600.0,2011
+Minnesota Timberwolves,Minnesota Timberwolves,San Antonio Spurs,9,30,39,1294794000.0,2011
+Minnesota Timberwolves,Minnesota Timberwolves,Washington Wizards,10,30,40,1294966800.0,2011
+Minnesota Timberwolves,Minnesota Timberwolves,Orlando Magic,10,31,41,1295139600.0,2011
+Minnesota Timberwolves,Portland Trail Blazers,Minnesota Timberwolves,10,32,42,1295319600.0,2011
+Minnesota Timberwolves,Los Angeles Clippers,Minnesota Timberwolves,10,33,43,1295494200.0,2011
+Minnesota Timberwolves,Minnesota Timberwolves,Houston Rockets,10,34,44,1295917200.0,2011
+Minnesota Timberwolves,Minnesota Timberwolves,Oklahoma City Thunder,10,35,45,1296090000.0,2011
+Minnesota Timberwolves,Utah Jazz,Minnesota Timberwolves,10,36,46,1296266400.0,2011
+Minnesota Timberwolves,Minnesota Timberwolves,Toronto Raptors,11,36,47,1296349200.0,2011
+Minnesota Timberwolves,Minnesota Timberwolves,Memphis Grizzlies,11,37,48,1296694800.0,2011
+Minnesota Timberwolves,Toronto Raptors,Minnesota Timberwolves,11,38,49,1296864000.0,2011
+Minnesota Timberwolves,Minnesota Timberwolves,Denver Nuggets,11,39,50,1296955800.0,2011
+Minnesota Timberwolves,New Orleans Hornets,Minnesota Timberwolves,12,39,51,1297126800.0,2011
+Minnesota Timberwolves,Houston Rockets,Minnesota Timberwolves,13,39,52,1297215000.0,2011
+Minnesota Timberwolves,Indiana Pacers,Minnesota Timberwolves,13,40,53,1297468800.0,2011
+Minnesota Timberwolves,Minnesota Timberwolves,Philadelphia 76ers,13,41,54,1297558800.0,2011
+Minnesota Timberwolves,Minnesota Timberwolves,Portland Trail Blazers,13,42,55,1297731600.0,2011
+Minnesota Timberwolves,Minnesota Timberwolves,Los Angeles Clippers,13,43,56,1297904400.0,2011
+Minnesota Timberwolves,Milwaukee Bucks,Minnesota Timberwolves,13,44,57,1298422800.0,2011
+Minnesota Timberwolves,Minnesota Timberwolves,Memphis Grizzlies,13,45,58,1298509200.0,2011
+Minnesota Timberwolves,Minnesota Timberwolves,New Orleans Hornets,13,46,59,1298682000.0,2011
+Minnesota Timberwolves,Minnesota Timberwolves,Golden State Warriors,14,46,60,1298844000.0,2011
+Minnesota Timberwolves,Minnesota Timberwolves,Los Angeles Lakers,14,47,61,1299027600.0,2011
+Minnesota Timberwolves,Detroit Pistons,Minnesota Timberwolves,15,47,62,1299112200.0,2011
+Minnesota Timberwolves,Philadelphia 76ers,Minnesota Timberwolves,15,48,63,1299283200.0,2011
+Minnesota Timberwolves,Washington Wizards,Minnesota Timberwolves,15,49,64,1299369600.0,2011
+Minnesota Timberwolves,Minnesota Timberwolves,Dallas Mavericks,15,50,65,1299546000.0,2011
+Minnesota Timberwolves,Minnesota Timberwolves,Indiana Pacers,16,50,66,1299718800.0,2011
+Minnesota Timberwolves,Minnesota Timberwolves,Utah Jazz,17,50,67,1299891600.0,2011
+Minnesota Timberwolves,Golden State Warriors,Minnesota Timberwolves,17,51,68,1300064400.0,2011
+Minnesota Timberwolves,Utah Jazz,Minnesota Timberwolves,17,52,69,1300323600.0,2011
+Minnesota Timberwolves,Los Angeles Lakers,Minnesota Timberwolves,17,53,70,1300501800.0,2011
+Minnesota Timberwolves,Minnesota Timberwolves,Sacramento Kings,17,54,71,1300649400.0,2011
+Minnesota Timberwolves,Dallas Mavericks,Minnesota Timberwolves,17,55,72,1301013000.0,2011
+Minnesota Timberwolves,Oklahoma City Thunder,Minnesota Timberwolves,17,56,73,1301097600.0,2011
+Minnesota Timberwolves,Minnesota Timberwolves,Boston Celtics,17,57,74,1301266800.0,2011
+Minnesota Timberwolves,Minnesota Timberwolves,Chicago Bulls,17,58,75,1301529600.0,2011
+Minnesota Timberwolves,Minnesota Timberwolves,Miami Heat,17,59,76,1301702400.0,2011
+Minnesota Timberwolves,Memphis Grizzlies,Minnesota Timberwolves,17,60,77,1301788800.0,2011
+Minnesota Timberwolves,New Jersey Nets,Minnesota Timberwolves,17,61,78,1302044400.0,2011
+Minnesota Timberwolves,Minnesota Timberwolves,Phoenix Suns,17,62,79,1302134400.0,2011
+Minnesota Timberwolves,Denver Nuggets,Minnesota Timberwolves,17,63,80,1302397200.0,2011
+Minnesota Timberwolves,Phoenix Suns,Minnesota Timberwolves,17,64,81,1302573600.0,2011
+Minnesota Timberwolves,Minnesota Timberwolves,Houston Rockets,17,65,82,1302739200.0,2011
+New Jersey Nets,New Jersey Nets,Detroit Pistons,1,0,1,1288220400.0,2011
+New Jersey Nets,New Jersey Nets,Sacramento Kings,2,0,2,1288393200.0,2011
+New Jersey Nets,New Jersey Nets,Miami Heat,2,1,3,1288544400.0,2011
+New Jersey Nets,New Jersey Nets,Charlotte Bobcats,2,2,4,1288825200.0,2011
+New Jersey Nets,Orlando Magic,New Jersey Nets,2,3,5,1288998000.0,2011
+New Jersey Nets,Miami Heat,New Jersey Nets,2,4,6,1289086200.0,2011
+New Jersey Nets,New Jersey Nets,Cleveland Cavaliers,2,5,7,1289347200.0,2011
+New Jersey Nets,Cleveland Cavaliers,New Jersey Nets,3,5,8,1289435400.0,2011
+New Jersey Nets,New Jersey Nets,Orlando Magic,3,6,9,1289692800.0,2011
+New Jersey Nets,Los Angeles Clippers,New Jersey Nets,4,6,10,1289878200.0,2011
+New Jersey Nets,Utah Jazz,New Jersey Nets,4,7,11,1290045600.0,2011
+New Jersey Nets,Sacramento Kings,New Jersey Nets,4,8,12,1290222000.0,2011
+New Jersey Nets,Denver Nuggets,New Jersey Nets,4,9,13,1290304800.0,2011
+New Jersey Nets,New Jersey Nets,Atlanta Hawks,5,9,14,1290556800.0,2011
+New Jersey Nets,Boston Celtics,New Jersey Nets,5,10,15,1290645000.0,2011
+New Jersey Nets,Philadelphia 76ers,New Jersey Nets,5,11,16,1290904200.0,2011
+New Jersey Nets,New Jersey Nets,Portland Trail Blazers,6,11,17,1290988800.0,2011
+New Jersey Nets,New York Knicks,New Jersey Nets,6,12,18,1291163400.0,2011
+New Jersey Nets,New Jersey Nets,Oklahoma City Thunder,6,13,19,1291248000.0,2011
+New Jersey Nets,Charlotte Bobcats,New Jersey Nets,6,14,20,1291420800.0,2011
+New Jersey Nets,New Jersey Nets,Boston Celtics,6,15,21,1291572000.0,2011
+New Jersey Nets,Atlanta Hawks,New Jersey Nets,6,16,22,1291766400.0,2011
+New Jersey Nets,Dallas Mavericks,New Jersey Nets,6,17,23,1291944600.0,2011
+New Jersey Nets,New Jersey Nets,Los Angeles Lakers,6,18,24,1292176800.0,2011
+New Jersey Nets,New Jersey Nets,Philadelphia 76ers,6,19,25,1292371200.0,2011
+New Jersey Nets,New Jersey Nets,Washington Wizards,7,19,26,1292544000.0,2011
+New Jersey Nets,Toronto Raptors,New Jersey Nets,7,20,27,1292630400.0,2011
+New Jersey Nets,New Jersey Nets,Atlanta Hawks,8,20,28,1292781600.0,2011
+New Jersey Nets,Memphis Grizzlies,New Jersey Nets,9,20,29,1292979600.0,2011
+New Jersey Nets,New Orleans Hornets,New Jersey Nets,9,21,30,1293066000.0,2011
+New Jersey Nets,New Jersey Nets,Orlando Magic,9,22,31,1293494400.0,2011
+New Jersey Nets,Oklahoma City Thunder,New Jersey Nets,9,23,32,1293670800.0,2011
+New Jersey Nets,Chicago Bulls,New Jersey Nets,9,24,33,1293825600.0,2011
+New Jersey Nets,Minnesota Timberwolves,New Jersey Nets,9,25,34,1293930000.0,2011
+New Jersey Nets,New Jersey Nets,Chicago Bulls,10,25,35,1294272000.0,2011
+New Jersey Nets,Washington Wizards,New Jersey Nets,10,26,36,1294444800.0,2011
+New Jersey Nets,New Jersey Nets,Milwaukee Bucks,10,27,37,1294531200.0,2011
+New Jersey Nets,Phoenix Suns,New Jersey Nets,10,28,38,1294884000.0,2011
+New Jersey Nets,Los Angeles Lakers,New Jersey Nets,10,29,39,1295062200.0,2011
+New Jersey Nets,Portland Trail Blazers,New Jersey Nets,10,30,40,1295146800.0,2011
+New Jersey Nets,Golden State Warriors,New Jersey Nets,10,31,41,1295298000.0,2011
+New Jersey Nets,New Jersey Nets,Utah Jazz,11,31,42,1295481600.0,2011
+New Jersey Nets,New Jersey Nets,Detroit Pistons,12,31,43,1295654400.0,2011
+New Jersey Nets,New Jersey Nets,Dallas Mavericks,12,32,44,1295740800.0,2011
+New Jersey Nets,New Jersey Nets,Cleveland Cavaliers,13,32,45,1295913600.0,2011
+New Jersey Nets,New Jersey Nets,Memphis Grizzlies,14,32,46,1296086400.0,2011
+New Jersey Nets,Indiana Pacers,New Jersey Nets,14,33,47,1296259200.0,2011
+New Jersey Nets,Milwaukee Bucks,New Jersey Nets,14,34,48,1296351000.0,2011
+New Jersey Nets,New Jersey Nets,Denver Nuggets,15,34,49,1296518400.0,2011
+New Jersey Nets,New Jersey Nets,Philadelphia 76ers,15,35,50,1296691200.0,2011
+New Jersey Nets,Detroit Pistons,New Jersey Nets,15,36,51,1296865800.0,2011
+New Jersey Nets,New Jersey Nets,Indiana Pacers,15,37,52,1297011600.0,2011
+New Jersey Nets,New Jersey Nets,New Orleans Hornets,16,37,53,1297296000.0,2011
+New Jersey Nets,Charlotte Bobcats,New Jersey Nets,17,37,54,1297468800.0,2011
+New Jersey Nets,New Jersey Nets,New York Knicks,17,38,55,1297555200.0,2011
+New Jersey Nets,New Jersey Nets,San Antonio Spurs,17,39,56,1297728000.0,2011
+New Jersey Nets,Boston Celtics,New Jersey Nets,17,40,57,1297902600.0,2011
+New Jersey Nets,San Antonio Spurs,New Jersey Nets,17,41,58,1298683800.0,2011
+New Jersey Nets,Houston Rockets,New Jersey Nets,17,42,59,1298770200.0,2011
+New Jersey Nets,New Jersey Nets,Phoenix Suns,17,43,60,1298937600.0,2011
+New Jersey Nets,New Jersey Nets,Toronto Raptors,18,43,61,1299268800.0,2011
+New Jersey Nets,New Jersey Nets,Toronto Raptors,19,43,62,1299355200.0,2011
+New Jersey Nets,New Jersey Nets,Golden State Warriors,20,43,63,1299715200.0,2011
+New Jersey Nets,New Jersey Nets,Los Angeles Clippers,21,43,64,1299888000.0,2011
+New Jersey Nets,New Jersey Nets,Boston Celtics,22,43,65,1300143600.0,2011
+New Jersey Nets,New Jersey Nets,Chicago Bulls,22,44,66,1300402800.0,2011
+New Jersey Nets,Milwaukee Bucks,New Jersey Nets,22,45,67,1300494600.0,2011
+New Jersey Nets,Washington Wizards,New Jersey Nets,22,46,68,1300640400.0,2011
+New Jersey Nets,New Jersey Nets,Indiana Pacers,22,47,69,1300748400.0,2011
+New Jersey Nets,Cleveland Cavaliers,New Jersey Nets,23,47,70,1300921200.0,2011
+New Jersey Nets,Orlando Magic,New Jersey Nets,23,48,71,1301094000.0,2011
+New Jersey Nets,Atlanta Hawks,New Jersey Nets,23,49,72,1301180400.0,2011
+New Jersey Nets,New Jersey Nets,Houston Rockets,23,50,73,1301439600.0,2011
+New Jersey Nets,New York Knicks,New Jersey Nets,23,51,74,1301527800.0,2011
+New Jersey Nets,Philadelphia 76ers,New Jersey Nets,23,52,75,1301698800.0,2011
+New Jersey Nets,New Jersey Nets,Miami Heat,23,53,76,1301868000.0,2011
+New Jersey Nets,New Jersey Nets,Minnesota Timberwolves,24,53,77,1302044400.0,2011
+New Jersey Nets,Detroit Pistons,New Jersey Nets,24,54,78,1302132600.0,2011
+New Jersey Nets,New Jersey Nets,New York Knicks,24,55,79,1302303600.0,2011
+New Jersey Nets,Toronto Raptors,New Jersey Nets,24,56,80,1302472800.0,2011
+New Jersey Nets,New Jersey Nets,Charlotte Bobcats,24,57,81,1302562800.0,2011
+New Jersey Nets,Chicago Bulls,New Jersey Nets,24,58,82,1302739200.0,2011
+New Orleans Hornets,New Orleans Hornets,Milwaukee Bucks,1,0,1,1288224000.0,2011
+New Orleans Hornets,New Orleans Hornets,Denver Nuggets,2,0,2,1288396800.0,2011
+New Orleans Hornets,San Antonio Spurs,New Orleans Hornets,3,0,3,1288485000.0,2011
+New Orleans Hornets,Houston Rockets,New Orleans Hornets,4,0,4,1288830600.0,2011
+New Orleans Hornets,New Orleans Hornets,Miami Heat,5,0,5,1289001600.0,2011
+New Orleans Hornets,Milwaukee Bucks,New Orleans Hornets,6,0,6,1289089800.0,2011
+New Orleans Hornets,New Orleans Hornets,Los Angeles Clippers,7,0,7,1289350800.0,2011
+New Orleans Hornets,New Orleans Hornets,Portland Trail Blazers,8,0,8,1289696400.0,2011
+New Orleans Hornets,Dallas Mavericks,New Orleans Hornets,8,1,9,1289871000.0,2011
+New Orleans Hornets,New Orleans Hornets,Dallas Mavericks,9,1,10,1290042000.0,2011
+New Orleans Hornets,New Orleans Hornets,Cleveland Cavaliers,10,1,11,1290214800.0,2011
+New Orleans Hornets,Sacramento Kings,New Orleans Hornets,11,1,12,1290380400.0,2011
+New Orleans Hornets,Los Angeles Clippers,New Orleans Hornets,11,2,13,1290483000.0,2011
+New Orleans Hornets,Utah Jazz,New Orleans Hornets,11,3,14,1290650400.0,2011
+New Orleans Hornets,Portland Trail Blazers,New Orleans Hornets,12,3,15,1290826800.0,2011
+New Orleans Hornets,New Orleans Hornets,San Antonio Spurs,12,4,16,1290974400.0,2011
+New Orleans Hornets,Oklahoma City Thunder,New Orleans Hornets,12,5,17,1291078800.0,2011
+New Orleans Hornets,New Orleans Hornets,Charlotte Bobcats,13,5,18,1291251600.0,2011
+New Orleans Hornets,New Orleans Hornets,New York Knicks,13,6,19,1291424400.0,2011
+New Orleans Hornets,San Antonio Spurs,New Orleans Hornets,13,7,20,1291593600.0,2011
+New Orleans Hornets,New Orleans Hornets,Detroit Pistons,14,7,21,1291856400.0,2011
+New Orleans Hornets,New Orleans Hornets,Oklahoma City Thunder,14,8,22,1292029200.0,2011
+New Orleans Hornets,Philadelphia 76ers,New Orleans Hornets,14,9,23,1292173200.0,2011
+New Orleans Hornets,Miami Heat,New Orleans Hornets,14,10,24,1292286600.0,2011
+New Orleans Hornets,New Orleans Hornets,Sacramento Kings,15,10,25,1292461200.0,2011
+New Orleans Hornets,New Orleans Hornets,Utah Jazz,16,10,26,1292634000.0,2011
+New Orleans Hornets,Detroit Pistons,New Orleans Hornets,16,11,27,1292799600.0,2011
+New Orleans Hornets,Indiana Pacers,New Orleans Hornets,16,12,28,1292889600.0,2011
+New Orleans Hornets,New Orleans Hornets,New Jersey Nets,17,12,29,1293066000.0,2011
+New Orleans Hornets,New Orleans Hornets,Atlanta Hawks,18,12,30,1293408000.0,2011
+New Orleans Hornets,Minnesota Timberwolves,New Orleans Hornets,18,13,31,1293498000.0,2011
+New Orleans Hornets,New Orleans Hornets,Los Angeles Lakers,18,14,32,1293670800.0,2011
+New Orleans Hornets,Boston Celtics,New Orleans Hornets,19,14,33,1293825600.0,2011
+New Orleans Hornets,Washington Wizards,New Orleans Hornets,20,14,34,1293926400.0,2011
+New Orleans Hornets,New Orleans Hornets,Philadelphia 76ers,21,14,35,1294102800.0,2011
+New Orleans Hornets,New Orleans Hornets,Golden State Warriors,21,15,36,1294275600.0,2011
+New Orleans Hornets,Los Angeles Lakers,New Orleans Hornets,21,16,37,1294457400.0,2011
+New Orleans Hornets,Denver Nuggets,New Orleans Hornets,22,16,38,1294624800.0,2011
+New Orleans Hornets,New Orleans Hornets,Orlando Magic,23,16,39,1294880400.0,2011
+New Orleans Hornets,Houston Rockets,New Orleans Hornets,24,16,40,1295055000.0,2011
+New Orleans Hornets,Charlotte Bobcats,New Orleans Hornets,25,16,41,1295136000.0,2011
+New Orleans Hornets,New Orleans Hornets,Toronto Raptors,26,16,42,1295294400.0,2011
+New Orleans Hornets,New Orleans Hornets,Memphis Grizzlies,27,16,43,1295485200.0,2011
+New Orleans Hornets,Atlanta Hawks,New Orleans Hornets,28,16,44,1295656200.0,2011
+New Orleans Hornets,New Orleans Hornets,San Antonio Spurs,29,16,45,1295744400.0,2011
+New Orleans Hornets,New Orleans Hornets,Oklahoma City Thunder,30,16,46,1295917200.0,2011
+New Orleans Hornets,Golden State Warriors,New Orleans Hornets,31,16,47,1296099000.0,2011
+New Orleans Hornets,Sacramento Kings,New Orleans Hornets,31,17,48,1296356400.0,2011
+New Orleans Hornets,Phoenix Suns,New Orleans Hornets,31,18,49,1296435600.0,2011
+New Orleans Hornets,New Orleans Hornets,Washington Wizards,32,18,50,1296608400.0,2011
+New Orleans Hornets,Oklahoma City Thunder,New Orleans Hornets,32,19,51,1296694800.0,2011
+New Orleans Hornets,New Orleans Hornets,Los Angeles Lakers,32,20,52,1296954000.0,2011
+New Orleans Hornets,New Orleans Hornets,Minnesota Timberwolves,32,21,53,1297126800.0,2011
+New Orleans Hornets,New Jersey Nets,New Orleans Hornets,32,22,54,1297296000.0,2011
+New Orleans Hornets,Orlando Magic,New Orleans Hornets,33,22,55,1297468800.0,2011
+New Orleans Hornets,New Orleans Hornets,Chicago Bulls,33,23,56,1297558800.0,2011
+New Orleans Hornets,Golden State Warriors,New Orleans Hornets,33,24,57,1297827000.0,2011
+New Orleans Hornets,Portland Trail Blazers,New Orleans Hornets,33,25,58,1297911600.0,2011
+New Orleans Hornets,New Orleans Hornets,Los Angeles Clippers,34,25,59,1298514600.0,2011
+New Orleans Hornets,Minnesota Timberwolves,New Orleans Hornets,35,25,60,1298682000.0,2011
+New Orleans Hornets,New Orleans Hornets,Houston Rockets,35,26,61,1298851200.0,2011
+New Orleans Hornets,Toronto Raptors,New Orleans Hornets,35,27,62,1299024000.0,2011
+New Orleans Hornets,New York Knicks,New Orleans Hornets,35,28,63,1299112200.0,2011
+New Orleans Hornets,Memphis Grizzlies,New Orleans Hornets,36,28,64,1299286800.0,2011
+New Orleans Hornets,Cleveland Cavaliers,New Orleans Hornets,37,28,65,1299454200.0,2011
+New Orleans Hornets,Chicago Bulls,New Orleans Hornets,37,29,66,1299546000.0,2011
+New Orleans Hornets,New Orleans Hornets,Dallas Mavericks,38,29,67,1299718800.0,2011
+New Orleans Hornets,New Orleans Hornets,Sacramento Kings,39,29,68,1299978000.0,2011
+New Orleans Hornets,New Orleans Hornets,Denver Nuggets,39,30,69,1300147200.0,2011
+New Orleans Hornets,New Orleans Hornets,Phoenix Suns,40,30,70,1300320000.0,2011
+New Orleans Hornets,New Orleans Hornets,Boston Celtics,40,31,71,1300579200.0,2011
+New Orleans Hornets,Utah Jazz,New Orleans Hornets,41,31,72,1301014800.0,2011
+New Orleans Hornets,Phoenix Suns,New Orleans Hornets,42,31,73,1301104800.0,2011
+New Orleans Hornets,Los Angeles Lakers,New Orleans Hornets,42,32,74,1301275800.0,2011
+New Orleans Hornets,New Orleans Hornets,Portland Trail Blazers,43,32,75,1301529600.0,2011
+New Orleans Hornets,New Orleans Hornets,Memphis Grizzlies,43,33,76,1301702400.0,2011
+New Orleans Hornets,New Orleans Hornets,Indiana Pacers,44,33,77,1301871600.0,2011
+New Orleans Hornets,New Orleans Hornets,Houston Rockets,45,33,78,1302134400.0,2011
+New Orleans Hornets,New Orleans Hornets,Phoenix Suns,46,33,79,1302307200.0,2011
+New Orleans Hornets,Memphis Grizzlies,New Orleans Hornets,46,34,80,1302472800.0,2011
+New Orleans Hornets,New Orleans Hornets,Utah Jazz,46,35,81,1302566400.0,2011
+New Orleans Hornets,Dallas Mavericks,New Orleans Hornets,46,36,82,1302739200.0,2011
+New York Knicks,Toronto Raptors,New York Knicks,1,0,1,1288220400.0,2011
+New York Knicks,Boston Celtics,New York Knicks,1,1,2,1288395000.0,2011
+New York Knicks,New York Knicks,Portland Trail Blazers,1,2,3,1288481400.0,2011
+New York Knicks,Chicago Bulls,New York Knicks,2,2,4,1288915200.0,2011
+New York Knicks,New York Knicks,Washington Wizards,3,2,5,1288999800.0,2011
+New York Knicks,New York Knicks,Philadelphia 76ers,3,3,6,1289149200.0,2011
+New York Knicks,Milwaukee Bucks,New York Knicks,3,4,7,1289350800.0,2011
+New York Knicks,New York Knicks,Golden State Warriors,3,5,8,1289435400.0,2011
+New York Knicks,Minnesota Timberwolves,New York Knicks,3,6,9,1289610000.0,2011
+New York Knicks,New York Knicks,Houston Rockets,3,7,10,1289781000.0,2011
+New York Knicks,Denver Nuggets,New York Knicks,3,8,11,1289959200.0,2011
+New York Knicks,Sacramento Kings,New York Knicks,4,8,12,1290049200.0,2011
+New York Knicks,Golden State Warriors,New York Knicks,5,8,13,1290223800.0,2011
+New York Knicks,Los Angeles Clippers,New York Knicks,6,8,14,1290310200.0,2011
+New York Knicks,New York Knicks,Charlotte Bobcats,7,8,15,1290558600.0,2011
+New York Knicks,Charlotte Bobcats,New York Knicks,8,8,16,1290643200.0,2011
+New York Knicks,New York Knicks,Atlanta Hawks,8,9,17,1290880800.0,2011
+New York Knicks,Detroit Pistons,New York Knicks,9,9,18,1290969000.0,2011
+New York Knicks,New York Knicks,New Jersey Nets,10,9,19,1291163400.0,2011
+New York Knicks,New Orleans Hornets,New York Knicks,11,9,20,1291424400.0,2011
+New York Knicks,Toronto Raptors,New York Knicks,12,9,21,1291572000.0,2011
+New York Knicks,New York Knicks,Minnesota Timberwolves,13,9,22,1291681800.0,2011
+New York Knicks,New York Knicks,Toronto Raptors,14,9,23,1291854600.0,2011
+New York Knicks,Washington Wizards,New York Knicks,15,9,24,1292025600.0,2011
+New York Knicks,New York Knicks,Denver Nuggets,16,9,25,1292173200.0,2011
+New York Knicks,New York Knicks,Boston Celtics,16,10,26,1292457600.0,2011
+New York Knicks,New York Knicks,Miami Heat,16,11,27,1292630400.0,2011
+New York Knicks,Cleveland Cavaliers,New York Knicks,16,12,28,1292718600.0,2011
+New York Knicks,New York Knicks,Oklahoma City Thunder,17,12,29,1293064200.0,2011
+New York Knicks,New York Knicks,Chicago Bulls,18,12,30,1293296400.0,2011
+New York Knicks,Miami Heat,New York Knicks,18,13,31,1293582600.0,2011
+New York Knicks,Orlando Magic,New York Knicks,18,14,32,1293753600.0,2011
+New York Knicks,New York Knicks,Indiana Pacers,19,14,33,1293991200.0,2011
+New York Knicks,New York Knicks,San Antonio Spurs,20,14,34,1294187400.0,2011
+New York Knicks,Phoenix Suns,New York Knicks,21,14,35,1294457400.0,2011
+New York Knicks,Los Angeles Lakers,New York Knicks,21,15,36,1294626600.0,2011
+New York Knicks,Portland Trail Blazers,New York Knicks,22,15,37,1294801200.0,2011
+New York Knicks,Utah Jazz,New York Knicks,22,16,38,1294884000.0,2011
+New York Knicks,New York Knicks,Sacramento Kings,22,17,39,1295051400.0,2011
+New York Knicks,New York Knicks,Phoenix Suns,22,18,40,1295287200.0,2011
+New York Knicks,Houston Rockets,New York Knicks,22,19,41,1295487000.0,2011
+New York Knicks,San Antonio Spurs,New York Knicks,22,20,42,1295658000.0,2011
+New York Knicks,Oklahoma City Thunder,New York Knicks,22,21,43,1295744400.0,2011
+New York Knicks,New York Knicks,Washington Wizards,23,21,44,1295915400.0,2011
+New York Knicks,New York Knicks,Miami Heat,24,21,45,1296176400.0,2011
+New York Knicks,Atlanta Hawks,New York Knicks,24,22,46,1296261000.0,2011
+New York Knicks,New York Knicks,Detroit Pistons,25,22,47,1296433800.0,2011
+New York Knicks,New York Knicks,Dallas Mavericks,25,23,48,1296693000.0,2011
+New York Knicks,Philadelphia 76ers,New York Knicks,25,24,49,1296864000.0,2011
+New York Knicks,New York Knicks,Philadelphia 76ers,26,24,50,1297011600.0,2011
+New York Knicks,New York Knicks,Los Angeles Clippers,26,25,51,1297297800.0,2011
+New York Knicks,New York Knicks,Los Angeles Lakers,26,26,52,1297472400.0,2011
+New York Knicks,New Jersey Nets,New York Knicks,27,26,53,1297555200.0,2011
+New York Knicks,New York Knicks,Atlanta Hawks,28,26,54,1297902600.0,2011
+New York Knicks,New York Knicks,Milwaukee Bucks,29,26,55,1298507400.0,2011
+New York Knicks,Cleveland Cavaliers,New York Knicks,29,27,56,1298680200.0,2011
+New York Knicks,Miami Heat,New York Knicks,30,27,57,1298854800.0,2011
+New York Knicks,Orlando Magic,New York Knicks,30,28,58,1299024000.0,2011
+New York Knicks,New York Knicks,New Orleans Hornets,31,28,59,1299112200.0,2011
+New York Knicks,New York Knicks,Cleveland Cavaliers,31,29,60,1299285000.0,2011
+New York Knicks,Atlanta Hawks,New York Knicks,32,29,61,1299454200.0,2011
+New York Knicks,New York Knicks,Utah Jazz,33,29,62,1299544200.0,2011
+New York Knicks,Memphis Grizzlies,New York Knicks,34,29,63,1299718800.0,2011
+New York Knicks,Dallas Mavericks,New York Knicks,34,30,64,1299810600.0,2011
+New York Knicks,New York Knicks,Indiana Pacers,34,31,65,1300053600.0,2011
+New York Knicks,Indiana Pacers,New York Knicks,34,32,66,1300230000.0,2011
+New York Knicks,New York Knicks,Memphis Grizzlies,35,32,67,1300404600.0,2011
+New York Knicks,Detroit Pistons,New York Knicks,35,33,68,1300491000.0,2011
+New York Knicks,Milwaukee Bucks,New York Knicks,35,34,69,1300647600.0,2011
+New York Knicks,New York Knicks,Boston Celtics,35,35,70,1300750200.0,2011
+New York Knicks,New York Knicks,Orlando Magic,35,36,71,1300924800.0,2011
+New York Knicks,New York Knicks,Milwaukee Bucks,35,37,72,1301095800.0,2011
+New York Knicks,Charlotte Bobcats,New York Knicks,35,38,73,1301180400.0,2011
+New York Knicks,New York Knicks,Orlando Magic,36,38,74,1301355000.0,2011
+New York Knicks,New York Knicks,New Jersey Nets,37,38,75,1301527800.0,2011
+New York Knicks,New York Knicks,Cleveland Cavaliers,38,38,76,1301868000.0,2011
+New York Knicks,New York Knicks,Toronto Raptors,39,38,77,1302046200.0,2011
+New York Knicks,Philadelphia 76ers,New York Knicks,40,38,78,1302130800.0,2011
+New York Knicks,New Jersey Nets,New York Knicks,41,38,79,1302303600.0,2011
+New York Knicks,Indiana Pacers,New York Knicks,42,38,80,1302476400.0,2011
+New York Knicks,New York Knicks,Chicago Bulls,42,39,81,1302652800.0,2011
+New York Knicks,Boston Celtics,New York Knicks,42,40,82,1302739200.0,2011
+Oklahoma City Thunder,Oklahoma City Thunder,Chicago Bulls,1,0,1,1288224000.0,2011
+Oklahoma City Thunder,Detroit Pistons,Oklahoma City Thunder,2,0,2,1288396800.0,2011
+Oklahoma City Thunder,Oklahoma City Thunder,Utah Jazz,2,1,3,1288566000.0,2011
+Oklahoma City Thunder,Los Angeles Clippers,Oklahoma City Thunder,2,2,4,1288837800.0,2011
+Oklahoma City Thunder,Portland Trail Blazers,Oklahoma City Thunder,3,2,5,1288924200.0,2011
+Oklahoma City Thunder,Oklahoma City Thunder,Boston Celtics,3,3,6,1289174400.0,2011
+Oklahoma City Thunder,Oklahoma City Thunder,Philadelphia 76ers,4,3,7,1289437200.0,2011
+Oklahoma City Thunder,Oklahoma City Thunder,Portland Trail Blazers,5,3,8,1289615400.0,2011
+Oklahoma City Thunder,Oklahoma City Thunder,San Antonio Spurs,5,4,9,1289779200.0,2011
+Oklahoma City Thunder,Utah Jazz,Oklahoma City Thunder,6,4,10,1289872800.0,2011
+Oklahoma City Thunder,Oklahoma City Thunder,Houston Rockets,7,4,11,1290042000.0,2011
+Oklahoma City Thunder,Boston Celtics,Oklahoma City Thunder,8,4,12,1290211200.0,2011
+Oklahoma City Thunder,Milwaukee Bucks,Oklahoma City Thunder,9,4,13,1290303000.0,2011
+Oklahoma City Thunder,Oklahoma City Thunder,Minnesota Timberwolves,10,4,14,1290474000.0,2011
+Oklahoma City Thunder,Oklahoma City Thunder,Dallas Mavericks,10,5,15,1290646800.0,2011
+Oklahoma City Thunder,Indiana Pacers,Oklahoma City Thunder,11,5,16,1290819600.0,2011
+Oklahoma City Thunder,Houston Rockets,Oklahoma City Thunder,11,6,17,1290988800.0,2011
+Oklahoma City Thunder,Oklahoma City Thunder,New Orleans Hornets,12,6,18,1291078800.0,2011
+Oklahoma City Thunder,New Jersey Nets,Oklahoma City Thunder,13,6,19,1291248000.0,2011
+Oklahoma City Thunder,Toronto Raptors,Oklahoma City Thunder,13,7,20,1291420800.0,2011
+Oklahoma City Thunder,Oklahoma City Thunder,Golden State Warriors,14,7,21,1291593600.0,2011
+Oklahoma City Thunder,Chicago Bulls,Oklahoma City Thunder,14,8,22,1291683600.0,2011
+Oklahoma City Thunder,Minnesota Timberwolves,Oklahoma City Thunder,15,8,23,1291856400.0,2011
+Oklahoma City Thunder,New Orleans Hornets,Oklahoma City Thunder,16,8,24,1292029200.0,2011
+Oklahoma City Thunder,Oklahoma City Thunder,Cleveland Cavaliers,17,8,25,1292198400.0,2011
+Oklahoma City Thunder,Oklahoma City Thunder,Houston Rockets,18,8,26,1292461200.0,2011
+Oklahoma City Thunder,Oklahoma City Thunder,Sacramento Kings,19,8,27,1292634000.0,2011
+Oklahoma City Thunder,Oklahoma City Thunder,Phoenix Suns,19,9,28,1292803200.0,2011
+Oklahoma City Thunder,Charlotte Bobcats,Oklahoma City Thunder,20,9,29,1292976000.0,2011
+Oklahoma City Thunder,New York Knicks,Oklahoma City Thunder,20,10,30,1293064200.0,2011
+Oklahoma City Thunder,Oklahoma City Thunder,Denver Nuggets,21,10,31,1293325200.0,2011
+Oklahoma City Thunder,Oklahoma City Thunder,Dallas Mavericks,21,11,32,1293498000.0,2011
+Oklahoma City Thunder,Oklahoma City Thunder,New Jersey Nets,22,11,33,1293670800.0,2011
+Oklahoma City Thunder,Oklahoma City Thunder,Atlanta Hawks,23,11,34,1293843600.0,2011
+Oklahoma City Thunder,San Antonio Spurs,Oklahoma City Thunder,23,12,35,1293931800.0,2011
+Oklahoma City Thunder,Memphis Grizzlies,Oklahoma City Thunder,23,13,36,1294189200.0,2011
+Oklahoma City Thunder,Dallas Mavericks,Oklahoma City Thunder,24,13,37,1294362000.0,2011
+Oklahoma City Thunder,Oklahoma City Thunder,Memphis Grizzlies,25,13,38,1294534800.0,2011
+Oklahoma City Thunder,Houston Rockets,Oklahoma City Thunder,26,13,39,1294882200.0,2011
+Oklahoma City Thunder,Oklahoma City Thunder,Orlando Magic,27,13,40,1294966800.0,2011
+Oklahoma City Thunder,Los Angeles Lakers,Oklahoma City Thunder,27,14,41,1295321400.0,2011
+Oklahoma City Thunder,Denver Nuggets,Oklahoma City Thunder,27,15,42,1295488800.0,2011
+Oklahoma City Thunder,Oklahoma City Thunder,New York Knicks,28,15,43,1295744400.0,2011
+Oklahoma City Thunder,New Orleans Hornets,Oklahoma City Thunder,28,16,44,1295917200.0,2011
+Oklahoma City Thunder,Minnesota Timberwolves,Oklahoma City Thunder,29,16,45,1296090000.0,2011
+Oklahoma City Thunder,Oklahoma City Thunder,Washington Wizards,30,16,46,1296262800.0,2011
+Oklahoma City Thunder,Oklahoma City Thunder,Miami Heat,30,17,47,1296410400.0,2011
+Oklahoma City Thunder,Oklahoma City Thunder,New Orleans Hornets,31,17,48,1296694800.0,2011
+Oklahoma City Thunder,Phoenix Suns,Oklahoma City Thunder,32,17,49,1296871200.0,2011
+Oklahoma City Thunder,Utah Jazz,Oklahoma City Thunder,33,17,50,1296957600.0,2011
+Oklahoma City Thunder,Oklahoma City Thunder,Memphis Grizzlies,33,18,51,1297213200.0,2011
+Oklahoma City Thunder,Sacramento Kings,Oklahoma City Thunder,34,18,52,1297566000.0,2011
+Oklahoma City Thunder,Golden State Warriors,Oklahoma City Thunder,34,19,53,1297645200.0,2011
+Oklahoma City Thunder,Oklahoma City Thunder,Sacramento Kings,35,19,54,1297818000.0,2011
+Oklahoma City Thunder,Oklahoma City Thunder,Los Angeles Clippers,36,19,55,1298422800.0,2011
+Oklahoma City Thunder,San Antonio Spurs,Oklahoma City Thunder,36,20,56,1298505600.0,2011
+Oklahoma City Thunder,Orlando Magic,Oklahoma City Thunder,36,21,57,1298682000.0,2011
+Oklahoma City Thunder,Oklahoma City Thunder,Los Angeles Lakers,36,22,58,1298835000.0,2011
+Oklahoma City Thunder,Oklahoma City Thunder,Indiana Pacers,37,22,59,1299114000.0,2011
+Oklahoma City Thunder,Atlanta Hawks,Oklahoma City Thunder,38,22,60,1299285000.0,2011
+Oklahoma City Thunder,Oklahoma City Thunder,Phoenix Suns,39,22,61,1299456000.0,2011
+Oklahoma City Thunder,Memphis Grizzlies,Oklahoma City Thunder,39,23,62,1299546000.0,2011
+Oklahoma City Thunder,Philadelphia 76ers,Oklahoma City Thunder,40,23,63,1299715200.0,2011
+Oklahoma City Thunder,Oklahoma City Thunder,Detroit Pistons,41,23,64,1299891600.0,2011
+Oklahoma City Thunder,Cleveland Cavaliers,Oklahoma City Thunder,42,23,65,1300035600.0,2011
+Oklahoma City Thunder,Washington Wizards,Oklahoma City Thunder,43,23,66,1300143600.0,2011
+Oklahoma City Thunder,Miami Heat,Oklahoma City Thunder,44,23,67,1300320000.0,2011
+Oklahoma City Thunder,Oklahoma City Thunder,Charlotte Bobcats,45,23,68,1300492800.0,2011
+Oklahoma City Thunder,Oklahoma City Thunder,Toronto Raptors,45,24,69,1300662000.0,2011
+Oklahoma City Thunder,Oklahoma City Thunder,Utah Jazz,46,24,70,1300924800.0,2011
+Oklahoma City Thunder,Oklahoma City Thunder,Minnesota Timberwolves,47,24,71,1301097600.0,2011
+Oklahoma City Thunder,Oklahoma City Thunder,Portland Trail Blazers,48,24,72,1301270400.0,2011
+Oklahoma City Thunder,Oklahoma City Thunder,Golden State Warriors,49,24,73,1301443200.0,2011
+Oklahoma City Thunder,Phoenix Suns,Oklahoma City Thunder,50,24,74,1301536800.0,2011
+Oklahoma City Thunder,Portland Trail Blazers,Oklahoma City Thunder,50,25,75,1301709600.0,2011
+Oklahoma City Thunder,Los Angeles Clippers,Oklahoma City Thunder,50,26,76,1301797800.0,2011
+Oklahoma City Thunder,Denver Nuggets,Oklahoma City Thunder,51,26,77,1302051600.0,2011
+Oklahoma City Thunder,Oklahoma City Thunder,Los Angeles Clippers,52,26,78,1302134400.0,2011
+Oklahoma City Thunder,Oklahoma City Thunder,Denver Nuggets,53,26,79,1302307200.0,2011
+Oklahoma City Thunder,Los Angeles Lakers,Oklahoma City Thunder,54,26,80,1302485400.0,2011
+Oklahoma City Thunder,Sacramento Kings,Oklahoma City Thunder,55,26,81,1302573600.0,2011
+Oklahoma City Thunder,Oklahoma City Thunder,Milwaukee Bucks,55,27,82,1302739200.0,2011
+Orlando Magic,Orlando Magic,Washington Wizards,1,0,1,1288310400.0,2011
+Orlando Magic,Miami Heat,Orlando Magic,1,1,2,1288396800.0,2011
+Orlando Magic,Orlando Magic,Minnesota Timberwolves,2,1,3,1288825200.0,2011
+Orlando Magic,Orlando Magic,New Jersey Nets,3,1,4,1288998000.0,2011
+Orlando Magic,Charlotte Bobcats,Orlando Magic,4,1,5,1289084400.0,2011
+Orlando Magic,Orlando Magic,Atlanta Hawks,5,1,6,1289260800.0,2011
+Orlando Magic,Orlando Magic,Utah Jazz,5,2,7,1289433600.0,2011
+Orlando Magic,Orlando Magic,Toronto Raptors,5,3,8,1289606400.0,2011
+Orlando Magic,New Jersey Nets,Orlando Magic,6,3,9,1289692800.0,2011
+Orlando Magic,Orlando Magic,Memphis Grizzlies,7,3,10,1289865600.0,2011
+Orlando Magic,Orlando Magic,Phoenix Suns,8,3,11,1290128400.0,2011
+Orlando Magic,Indiana Pacers,Orlando Magic,9,3,12,1290297600.0,2011
+Orlando Magic,San Antonio Spurs,Orlando Magic,9,4,13,1290475800.0,2011
+Orlando Magic,Orlando Magic,Miami Heat,10,4,14,1290645000.0,2011
+Orlando Magic,Orlando Magic,Cleveland Cavaliers,11,4,15,1290816000.0,2011
+Orlando Magic,Washington Wizards,Orlando Magic,12,4,16,1290902400.0,2011
+Orlando Magic,Orlando Magic,Detroit Pistons,13,4,17,1291161600.0,2011
+Orlando Magic,Chicago Bulls,Orlando Magic,14,4,18,1291251600.0,2011
+Orlando Magic,Detroit Pistons,Orlando Magic,15,4,19,1291422600.0,2011
+Orlando Magic,Milwaukee Bucks,Orlando Magic,15,5,20,1291512600.0,2011
+Orlando Magic,Orlando Magic,Atlanta Hawks,15,6,21,1291680000.0,2011
+Orlando Magic,Portland Trail Blazers,Orlando Magic,15,7,22,1291951800.0,2011
+Orlando Magic,Utah Jazz,Orlando Magic,15,8,23,1292032800.0,2011
+Orlando Magic,Los Angeles Clippers,Orlando Magic,16,8,24,1292207400.0,2011
+Orlando Magic,Denver Nuggets,Orlando Magic,16,9,25,1292378400.0,2011
+Orlando Magic,Orlando Magic,Philadelphia 76ers,16,10,26,1292716800.0,2011
+Orlando Magic,Atlanta Hawks,Orlando Magic,16,11,27,1292889600.0,2011
+Orlando Magic,Orlando Magic,Dallas Mavericks,16,12,28,1292976000.0,2011
+Orlando Magic,Orlando Magic,San Antonio Spurs,17,12,29,1293152400.0,2011
+Orlando Magic,Orlando Magic,Boston Celtics,18,12,30,1293305400.0,2011
+Orlando Magic,New Jersey Nets,Orlando Magic,19,12,31,1293494400.0,2011
+Orlando Magic,Cleveland Cavaliers,Orlando Magic,20,12,32,1293580800.0,2011
+Orlando Magic,Orlando Magic,New York Knicks,21,12,33,1293753600.0,2011
+Orlando Magic,Orlando Magic,Golden State Warriors,22,12,34,1294099200.0,2011
+Orlando Magic,Orlando Magic,Milwaukee Bucks,23,12,35,1294272000.0,2011
+Orlando Magic,Orlando Magic,Houston Rockets,24,12,36,1294448400.0,2011
+Orlando Magic,Dallas Mavericks,Orlando Magic,25,12,37,1294536600.0,2011
+Orlando Magic,New Orleans Hornets,Orlando Magic,25,13,38,1294880400.0,2011
+Orlando Magic,Oklahoma City Thunder,Orlando Magic,25,14,39,1294966800.0,2011
+Orlando Magic,Minnesota Timberwolves,Orlando Magic,26,14,40,1295139600.0,2011
+Orlando Magic,Boston Celtics,Orlando Magic,26,15,41,1295312400.0,2011
+Orlando Magic,Orlando Magic,Philadelphia 76ers,27,15,42,1295481600.0,2011
+Orlando Magic,Orlando Magic,Toronto Raptors,28,15,43,1295654400.0,2011
+Orlando Magic,Houston Rockets,Orlando Magic,29,15,44,1295746200.0,2011
+Orlando Magic,Orlando Magic,Detroit Pistons,29,16,45,1295913600.0,2011
+Orlando Magic,Indiana Pacers,Orlando Magic,30,16,46,1296086400.0,2011
+Orlando Magic,Chicago Bulls,Orlando Magic,30,17,47,1296262800.0,2011
+Orlando Magic,Orlando Magic,Cleveland Cavaliers,31,17,48,1296428400.0,2011
+Orlando Magic,Memphis Grizzlies,Orlando Magic,31,18,49,1296522000.0,2011
+Orlando Magic,Orlando Magic,Miami Heat,31,19,50,1296781200.0,2011
+Orlando Magic,Washington Wizards,Orlando Magic,32,19,51,1296864000.0,2011
+Orlando Magic,Boston Celtics,Orlando Magic,32,20,52,1297020600.0,2011
+Orlando Magic,Orlando Magic,Los Angeles Clippers,33,20,53,1297209600.0,2011
+Orlando Magic,Philadelphia 76ers,Orlando Magic,34,20,54,1297296000.0,2011
+Orlando Magic,Orlando Magic,New Orleans Hornets,34,21,55,1297468800.0,2011
+Orlando Magic,Orlando Magic,Los Angeles Lakers,35,21,56,1297629000.0,2011
+Orlando Magic,Orlando Magic,Washington Wizards,36,21,57,1297900800.0,2011
+Orlando Magic,Orlando Magic,Sacramento Kings,36,22,58,1298505600.0,2011
+Orlando Magic,Orlando Magic,Oklahoma City Thunder,37,22,59,1298682000.0,2011
+Orlando Magic,Orlando Magic,Charlotte Bobcats,38,22,60,1298847600.0,2011
+Orlando Magic,Orlando Magic,New York Knicks,39,22,61,1299024000.0,2011
+Orlando Magic,Miami Heat,Orlando Magic,40,22,62,1299200400.0,2011
+Orlando Magic,Orlando Magic,Chicago Bulls,40,23,63,1299283200.0,2011
+Orlando Magic,Orlando Magic,Portland Trail Blazers,40,24,64,1299542400.0,2011
+Orlando Magic,Sacramento Kings,Orlando Magic,41,24,65,1299726000.0,2011
+Orlando Magic,Golden State Warriors,Orlando Magic,41,25,66,1299900600.0,2011
+Orlando Magic,Phoenix Suns,Orlando Magic,42,25,67,1300041000.0,2011
+Orlando Magic,Los Angeles Lakers,Orlando Magic,42,26,68,1300156200.0,2011
+Orlando Magic,Milwaukee Bucks,Orlando Magic,43,26,69,1300320000.0,2011
+Orlando Magic,Orlando Magic,Denver Nuggets,44,26,70,1300489200.0,2011
+Orlando Magic,Cleveland Cavaliers,Orlando Magic,45,26,71,1300748400.0,2011
+Orlando Magic,New York Knicks,Orlando Magic,46,26,72,1300924800.0,2011
+Orlando Magic,Orlando Magic,New Jersey Nets,47,26,73,1301094000.0,2011
+Orlando Magic,New York Knicks,Orlando Magic,47,27,74,1301355000.0,2011
+Orlando Magic,Atlanta Hawks,Orlando Magic,47,28,75,1301526000.0,2011
+Orlando Magic,Orlando Magic,Charlotte Bobcats,48,28,76,1301698800.0,2011
+Orlando Magic,Toronto Raptors,Orlando Magic,48,29,77,1301868000.0,2011
+Orlando Magic,Orlando Magic,Milwaukee Bucks,49,29,78,1302044400.0,2011
+Orlando Magic,Charlotte Bobcats,Orlando Magic,50,29,79,1302130800.0,2011
+Orlando Magic,Orlando Magic,Chicago Bulls,50,30,80,1302454800.0,2011
+Orlando Magic,Philadelphia 76ers,Orlando Magic,51,30,81,1302562800.0,2011
+Orlando Magic,Orlando Magic,Indiana Pacers,52,30,82,1302739200.0,2011
+Philadelphia 76ers,Philadelphia 76ers,Miami Heat,0,1,1,1288220400.0,2011
+Philadelphia 76ers,Philadelphia 76ers,Atlanta Hawks,0,2,2,1288393200.0,2011
+Philadelphia 76ers,Indiana Pacers,Philadelphia 76ers,0,3,3,1288483200.0,2011
+Philadelphia 76ers,Washington Wizards,Philadelphia 76ers,0,4,4,1288738800.0,2011
+Philadelphia 76ers,Philadelphia 76ers,Indiana Pacers,1,4,5,1288825200.0,2011
+Philadelphia 76ers,Philadelphia 76ers,Cleveland Cavaliers,1,5,6,1288998000.0,2011
+Philadelphia 76ers,New York Knicks,Philadelphia 76ers,2,5,7,1289149200.0,2011
+Philadelphia 76ers,Oklahoma City Thunder,Philadelphia 76ers,2,6,8,1289437200.0,2011
+Philadelphia 76ers,Dallas Mavericks,Philadelphia 76ers,2,7,9,1289611800.0,2011
+Philadelphia 76ers,San Antonio Spurs,Philadelphia 76ers,2,8,10,1289698200.0,2011
+Philadelphia 76ers,Cleveland Cavaliers,Philadelphia 76ers,2,9,11,1289952000.0,2011
+Philadelphia 76ers,Philadelphia 76ers,Toronto Raptors,2,10,12,1290038400.0,2011
+Philadelphia 76ers,Philadelphia 76ers,Milwaukee Bucks,3,10,13,1290211200.0,2011
+Philadelphia 76ers,Washington Wizards,Philadelphia 76ers,3,11,14,1290556800.0,2011
+Philadelphia 76ers,Toronto Raptors,Philadelphia 76ers,3,12,15,1290643200.0,2011
+Philadelphia 76ers,Miami Heat,Philadelphia 76ers,3,13,16,1290817800.0,2011
+Philadelphia 76ers,Philadelphia 76ers,New Jersey Nets,4,13,17,1290904200.0,2011
+Philadelphia 76ers,Philadelphia 76ers,Portland Trail Blazers,5,13,18,1291161600.0,2011
+Philadelphia 76ers,Atlanta Hawks,Philadelphia 76ers,5,14,19,1291422600.0,2011
+Philadelphia 76ers,Philadelphia 76ers,Charlotte Bobcats,6,14,20,1291509000.0,2011
+Philadelphia 76ers,Philadelphia 76ers,Cleveland Cavaliers,7,14,21,1291766400.0,2011
+Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,7,15,22,1291942800.0,2011
+Philadelphia 76ers,Philadelphia 76ers,New Orleans Hornets,8,15,23,1292173200.0,2011
+Philadelphia 76ers,New Jersey Nets,Philadelphia 76ers,9,15,24,1292371200.0,2011
+Philadelphia 76ers,Philadelphia 76ers,Los Angeles Clippers,10,15,25,1292457600.0,2011
+Philadelphia 76ers,Philadelphia 76ers,Los Angeles Lakers,10,16,26,1292630400.0,2011
+Philadelphia 76ers,Orlando Magic,Philadelphia 76ers,11,16,27,1292716800.0,2011
+Philadelphia 76ers,Chicago Bulls,Philadelphia 76ers,11,17,28,1292979600.0,2011
+Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,11,18,29,1293064200.0,2011
+Philadelphia 76ers,Denver Nuggets,Philadelphia 76ers,12,18,30,1293411600.0,2011
+Philadelphia 76ers,Golden State Warriors,Philadelphia 76ers,12,19,31,1293507000.0,2011
+Philadelphia 76ers,Phoenix Suns,Philadelphia 76ers,13,19,32,1293674400.0,2011
+Philadelphia 76ers,Los Angeles Lakers,Philadelphia 76ers,13,20,33,1293852600.0,2011
+Philadelphia 76ers,New Orleans Hornets,Philadelphia 76ers,13,21,34,1294102800.0,2011
+Philadelphia 76ers,Philadelphia 76ers,Washington Wizards,14,21,35,1294272000.0,2011
+Philadelphia 76ers,Philadelphia 76ers,Chicago Bulls,15,21,36,1294444800.0,2011
+Philadelphia 76ers,Detroit Pistons,Philadelphia 76ers,15,22,37,1294533000.0,2011
+Philadelphia 76ers,Philadelphia 76ers,Indiana Pacers,15,23,38,1294790400.0,2011
+Philadelphia 76ers,Philadelphia 76ers,Milwaukee Bucks,16,23,39,1295049600.0,2011
+Philadelphia 76ers,Philadelphia 76ers,Charlotte Bobcats,17,23,40,1295290800.0,2011
+Philadelphia 76ers,Orlando Magic,Philadelphia 76ers,17,24,41,1295481600.0,2011
+Philadelphia 76ers,Charlotte Bobcats,Philadelphia 76ers,17,25,42,1295568000.0,2011
+Philadelphia 76ers,Philadelphia 76ers,Utah Jazz,18,25,43,1295742600.0,2011
+Philadelphia 76ers,Philadelphia 76ers,Phoenix Suns,19,25,44,1295913600.0,2011
+Philadelphia 76ers,Toronto Raptors,Philadelphia 76ers,20,25,45,1296086400.0,2011
+Philadelphia 76ers,Philadelphia 76ers,Memphis Grizzlies,20,26,46,1296259200.0,2011
+Philadelphia 76ers,Philadelphia 76ers,Denver Nuggets,21,26,47,1296428400.0,2011
+Philadelphia 76ers,New Jersey Nets,Philadelphia 76ers,22,26,48,1296691200.0,2011
+Philadelphia 76ers,Philadelphia 76ers,New York Knicks,23,26,49,1296864000.0,2011
+Philadelphia 76ers,New York Knicks,Philadelphia 76ers,23,27,50,1297011600.0,2011
+Philadelphia 76ers,Atlanta Hawks,Philadelphia 76ers,24,27,51,1297209600.0,2011
+Philadelphia 76ers,Philadelphia 76ers,Orlando Magic,24,28,52,1297296000.0,2011
+Philadelphia 76ers,Philadelphia 76ers,San Antonio Spurs,25,28,53,1297468800.0,2011
+Philadelphia 76ers,Minnesota Timberwolves,Philadelphia 76ers,26,28,54,1297558800.0,2011
+Philadelphia 76ers,Memphis Grizzlies,Philadelphia 76ers,26,29,55,1297818000.0,2011
+Philadelphia 76ers,Houston Rockets,Philadelphia 76ers,27,29,56,1297906200.0,2011
+Philadelphia 76ers,Philadelphia 76ers,Washington Wizards,28,29,57,1298505600.0,2011
+Philadelphia 76ers,Philadelphia 76ers,Detroit Pistons,29,29,58,1298678400.0,2011
+Philadelphia 76ers,Cleveland Cavaliers,Philadelphia 76ers,30,29,59,1298844000.0,2011
+Philadelphia 76ers,Philadelphia 76ers,Dallas Mavericks,30,30,60,1299024000.0,2011
+Philadelphia 76ers,Philadelphia 76ers,Minnesota Timberwolves,31,30,61,1299283200.0,2011
+Philadelphia 76ers,Philadelphia 76ers,Golden State Warriors,32,30,62,1299452400.0,2011
+Philadelphia 76ers,Indiana Pacers,Philadelphia 76ers,33,30,63,1299628800.0,2011
+Philadelphia 76ers,Philadelphia 76ers,Oklahoma City Thunder,33,31,64,1299715200.0,2011
+Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,34,31,65,1299888000.0,2011
+Philadelphia 76ers,Milwaukee Bucks,Philadelphia 76ers,34,32,66,1299978000.0,2011
+Philadelphia 76ers,Utah Jazz,Philadelphia 76ers,34,33,67,1300150800.0,2011
+Philadelphia 76ers,Los Angeles Clippers,Philadelphia 76ers,35,33,68,1300329000.0,2011
+Philadelphia 76ers,Sacramento Kings,Philadelphia 76ers,36,33,69,1300500000.0,2011
+Philadelphia 76ers,Portland Trail Blazers,Philadelphia 76ers,36,34,70,1300586400.0,2011
+Philadelphia 76ers,Philadelphia 76ers,Atlanta Hawks,37,34,71,1300921200.0,2011
+Philadelphia 76ers,Miami Heat,Philadelphia 76ers,37,35,72,1301095800.0,2011
+Philadelphia 76ers,Philadelphia 76ers,Sacramento Kings,37,36,73,1301241600.0,2011
+Philadelphia 76ers,Chicago Bulls,Philadelphia 76ers,38,36,74,1301356800.0,2011
+Philadelphia 76ers,Philadelphia 76ers,Houston Rockets,39,36,75,1301526000.0,2011
+Philadelphia 76ers,Philadelphia 76ers,New Jersey Nets,40,36,76,1301698800.0,2011
+Philadelphia 76ers,Milwaukee Bucks,Philadelphia 76ers,40,37,77,1301790600.0,2011
+Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,40,38,78,1302046200.0,2011
+Philadelphia 76ers,Philadelphia 76ers,New York Knicks,40,39,79,1302130800.0,2011
+Philadelphia 76ers,Philadelphia 76ers,Toronto Raptors,41,39,80,1302303600.0,2011
+Philadelphia 76ers,Philadelphia 76ers,Orlando Magic,41,40,81,1302562800.0,2011
+Philadelphia 76ers,Philadelphia 76ers,Detroit Pistons,41,41,82,1302739200.0,2011
+Phoenix Suns,Portland Trail Blazers,Phoenix Suns,0,1,1,1288144800.0,2011
+Phoenix Suns,Utah Jazz,Phoenix Suns,1,1,2,1288319400.0,2011
+Phoenix Suns,Phoenix Suns,Los Angeles Lakers,1,2,3,1288405800.0,2011
+Phoenix Suns,Phoenix Suns,San Antonio Spurs,1,3,4,1288836000.0,2011
+Phoenix Suns,Phoenix Suns,Memphis Grizzlies,2,3,5,1289008800.0,2011
+Phoenix Suns,Atlanta Hawks,Phoenix Suns,3,3,6,1289167200.0,2011
+Phoenix Suns,Memphis Grizzlies,Phoenix Suns,3,4,7,1289264400.0,2011
+Phoenix Suns,Phoenix Suns,Sacramento Kings,4,4,8,1289613600.0,2011
+Phoenix Suns,Los Angeles Lakers,Phoenix Suns,5,4,9,1289788200.0,2011
+Phoenix Suns,Phoenix Suns,Denver Nuggets,6,4,10,1289872800.0,2011
+Phoenix Suns,Miami Heat,Phoenix Suns,6,5,11,1290038400.0,2011
+Phoenix Suns,Orlando Magic,Phoenix Suns,6,6,12,1290128400.0,2011
+Phoenix Suns,Charlotte Bobcats,Phoenix Suns,6,7,13,1290297600.0,2011
+Phoenix Suns,Houston Rockets,Phoenix Suns,7,7,14,1290475800.0,2011
+Phoenix Suns,Phoenix Suns,Chicago Bulls,7,8,15,1290650400.0,2011
+Phoenix Suns,Phoenix Suns,Los Angeles Clippers,8,8,16,1290823200.0,2011
+Phoenix Suns,Denver Nuggets,Phoenix Suns,8,9,17,1290992400.0,2011
+Phoenix Suns,Golden State Warriors,Phoenix Suns,9,9,18,1291347000.0,2011
+Phoenix Suns,Phoenix Suns,Indiana Pacers,10,9,19,1291428000.0,2011
+Phoenix Suns,Phoenix Suns,Washington Wizards,11,9,20,1291597200.0,2011
+Phoenix Suns,Portland Trail Blazers,Phoenix Suns,11,10,21,1291777200.0,2011
+Phoenix Suns,Phoenix Suns,Memphis Grizzlies,11,11,22,1291860000.0,2011
+Phoenix Suns,Phoenix Suns,Portland Trail Blazers,11,12,23,1292032800.0,2011
+Phoenix Suns,Phoenix Suns,Minnesota Timberwolves,12,12,24,1292464800.0,2011
+Phoenix Suns,Dallas Mavericks,Phoenix Suns,12,13,25,1292639400.0,2011
+Phoenix Suns,Oklahoma City Thunder,Phoenix Suns,13,13,26,1292803200.0,2011
+Phoenix Suns,San Antonio Spurs,Phoenix Suns,13,14,27,1292895000.0,2011
+Phoenix Suns,Phoenix Suns,Miami Heat,13,15,28,1293161400.0,2011
+Phoenix Suns,Los Angeles Clippers,Phoenix Suns,13,16,29,1293393600.0,2011
+Phoenix Suns,Phoenix Suns,Philadelphia 76ers,13,17,30,1293674400.0,2011
+Phoenix Suns,Phoenix Suns,Detroit Pistons,14,17,31,1293847200.0,2011
+Phoenix Suns,Sacramento Kings,Phoenix Suns,14,18,32,1294020000.0,2011
+Phoenix Suns,Phoenix Suns,Los Angeles Lakers,14,19,33,1294284600.0,2011
+Phoenix Suns,Phoenix Suns,New York Knicks,14,20,34,1294457400.0,2011
+Phoenix Suns,Phoenix Suns,Cleveland Cavaliers,15,20,35,1294621200.0,2011
+Phoenix Suns,Denver Nuggets,Phoenix Suns,15,21,36,1294797600.0,2011
+Phoenix Suns,Phoenix Suns,New Jersey Nets,16,21,37,1294884000.0,2011
+Phoenix Suns,Phoenix Suns,Portland Trail Blazers,17,21,38,1295062200.0,2011
+Phoenix Suns,New York Knicks,Phoenix Suns,18,21,39,1295287200.0,2011
+Phoenix Suns,Cleveland Cavaliers,Phoenix Suns,19,21,40,1295481600.0,2011
+Phoenix Suns,Washington Wizards,Phoenix Suns,20,21,41,1295654400.0,2011
+Phoenix Suns,Detroit Pistons,Phoenix Suns,20,22,42,1295742600.0,2011
+Phoenix Suns,Philadelphia 76ers,Phoenix Suns,20,23,43,1295913600.0,2011
+Phoenix Suns,Phoenix Suns,Charlotte Bobcats,20,24,44,1296093600.0,2011
+Phoenix Suns,Phoenix Suns,Boston Celtics,21,24,45,1296271800.0,2011
+Phoenix Suns,Phoenix Suns,New Orleans Hornets,22,24,46,1296435600.0,2011
+Phoenix Suns,Phoenix Suns,Milwaukee Bucks,23,24,47,1296698400.0,2011
+Phoenix Suns,Phoenix Suns,Oklahoma City Thunder,23,25,48,1296871200.0,2011
+Phoenix Suns,Golden State Warriors,Phoenix Suns,24,25,49,1297135800.0,2011
+Phoenix Suns,Phoenix Suns,Golden State Warriors,25,25,50,1297389600.0,2011
+Phoenix Suns,Utah Jazz,Phoenix Suns,26,25,51,1297481400.0,2011
+Phoenix Suns,Phoenix Suns,Sacramento Kings,26,26,52,1297645200.0,2011
+Phoenix Suns,Phoenix Suns,Utah Jazz,27,26,53,1297821600.0,2011
+Phoenix Suns,Phoenix Suns,Dallas Mavericks,27,27,54,1297999800.0,2011
+Phoenix Suns,Phoenix Suns,Atlanta Hawks,28,27,55,1298512800.0,2011
+Phoenix Suns,Toronto Raptors,Phoenix Suns,29,27,56,1298678400.0,2011
+Phoenix Suns,Indiana Pacers,Phoenix Suns,30,27,57,1298826000.0,2011
+Phoenix Suns,New Jersey Nets,Phoenix Suns,31,27,58,1298937600.0,2011
+Phoenix Suns,Boston Celtics,Phoenix Suns,31,28,59,1299112200.0,2011
+Phoenix Suns,Milwaukee Bucks,Phoenix Suns,32,28,60,1299288600.0,2011
+Phoenix Suns,Oklahoma City Thunder,Phoenix Suns,32,29,61,1299456000.0,2011
+Phoenix Suns,Phoenix Suns,Houston Rockets,33,29,62,1299636000.0,2011
+Phoenix Suns,Phoenix Suns,Denver Nuggets,33,30,63,1299814200.0,2011
+Phoenix Suns,Phoenix Suns,Orlando Magic,33,31,64,1300041000.0,2011
+Phoenix Suns,Houston Rockets,Phoenix Suns,33,32,65,1300149000.0,2011
+Phoenix Suns,New Orleans Hornets,Phoenix Suns,33,33,66,1300320000.0,2011
+Phoenix Suns,Phoenix Suns,Golden State Warriors,34,33,67,1300500000.0,2011
+Phoenix Suns,Los Angeles Clippers,Phoenix Suns,35,33,68,1300649400.0,2011
+Phoenix Suns,Los Angeles Lakers,Phoenix Suns,35,34,69,1300847400.0,2011
+Phoenix Suns,Phoenix Suns,Toronto Raptors,36,34,70,1300932000.0,2011
+Phoenix Suns,Phoenix Suns,New Orleans Hornets,36,35,71,1301104800.0,2011
+Phoenix Suns,Phoenix Suns,Dallas Mavericks,36,36,72,1301279400.0,2011
+Phoenix Suns,Sacramento Kings,Phoenix Suns,36,37,73,1301450400.0,2011
+Phoenix Suns,Phoenix Suns,Oklahoma City Thunder,36,38,74,1301536800.0,2011
+Phoenix Suns,Phoenix Suns,Los Angeles Clippers,37,38,75,1301709600.0,2011
+Phoenix Suns,San Antonio Spurs,Phoenix Suns,37,39,76,1301850000.0,2011
+Phoenix Suns,Chicago Bulls,Phoenix Suns,37,40,77,1302048000.0,2011
+Phoenix Suns,Minnesota Timberwolves,Phoenix Suns,38,40,78,1302134400.0,2011
+Phoenix Suns,New Orleans Hornets,Phoenix Suns,38,41,79,1302307200.0,2011
+Phoenix Suns,Dallas Mavericks,Phoenix Suns,38,42,80,1302478200.0,2011
+Phoenix Suns,Phoenix Suns,Minnesota Timberwolves,39,42,81,1302573600.0,2011
+Phoenix Suns,Phoenix Suns,San Antonio Spurs,40,42,82,1302748200.0,2011
+Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1,0,1,1288144800.0,2011
+Portland Trail Blazers,Los Angeles Clippers,Portland Trail Blazers,2,0,2,1288233000.0,2011
+Portland Trail Blazers,New York Knicks,Portland Trail Blazers,3,0,3,1288481400.0,2011
+Portland Trail Blazers,Chicago Bulls,Portland Trail Blazers,3,1,4,1288656000.0,2011
+Portland Trail Blazers,Milwaukee Bucks,Portland Trail Blazers,4,1,5,1288742400.0,2011
+Portland Trail Blazers,Portland Trail Blazers,Oklahoma City Thunder,4,2,6,1288924200.0,2011
+Portland Trail Blazers,Portland Trail Blazers,Toronto Raptors,5,2,7,1289095200.0,2011
+Portland Trail Blazers,Los Angeles Lakers,Portland Trail Blazers,5,3,8,1289183400.0,2011
+Portland Trail Blazers,Portland Trail Blazers,Detroit Pistons,6,3,9,1289358000.0,2011
+Portland Trail Blazers,Oklahoma City Thunder,Portland Trail Blazers,6,4,10,1289615400.0,2011
+Portland Trail Blazers,New Orleans Hornets,Portland Trail Blazers,6,5,11,1289696400.0,2011
+Portland Trail Blazers,Memphis Grizzlies,Portland Trail Blazers,7,5,12,1289955600.0,2011
+Portland Trail Blazers,Portland Trail Blazers,Denver Nuggets,8,5,13,1290137400.0,2011
+Portland Trail Blazers,Portland Trail Blazers,Utah Jazz,8,6,14,1290308400.0,2011
+Portland Trail Blazers,Portland Trail Blazers,New Orleans Hornets,8,7,15,1290826800.0,2011
+Portland Trail Blazers,New Jersey Nets,Portland Trail Blazers,8,8,16,1290988800.0,2011
+Portland Trail Blazers,Philadelphia 76ers,Portland Trail Blazers,8,9,17,1291161600.0,2011
+Portland Trail Blazers,Boston Celtics,Portland Trail Blazers,8,10,18,1291249800.0,2011
+Portland Trail Blazers,Washington Wizards,Portland Trail Blazers,8,11,19,1291420800.0,2011
+Portland Trail Blazers,Portland Trail Blazers,Los Angeles Clippers,9,11,20,1291600800.0,2011
+Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,10,11,21,1291777200.0,2011
+Portland Trail Blazers,Portland Trail Blazers,Orlando Magic,11,11,22,1291951800.0,2011
+Portland Trail Blazers,Phoenix Suns,Portland Trail Blazers,12,11,23,1292032800.0,2011
+Portland Trail Blazers,San Antonio Spurs,Portland Trail Blazers,12,12,24,1292185800.0,2011
+Portland Trail Blazers,Memphis Grizzlies,Portland Trail Blazers,12,13,25,1292288400.0,2011
+Portland Trail Blazers,Dallas Mavericks,Portland Trail Blazers,12,14,26,1292466600.0,2011
+Portland Trail Blazers,Portland Trail Blazers,Minnesota Timberwolves,13,14,27,1292641200.0,2011
+Portland Trail Blazers,Portland Trail Blazers,Golden State Warriors,14,14,28,1292727600.0,2011
+Portland Trail Blazers,Portland Trail Blazers,Milwaukee Bucks,15,14,29,1292900400.0,2011
+Portland Trail Blazers,Golden State Warriors,Portland Trail Blazers,15,15,30,1293334200.0,2011
+Portland Trail Blazers,Utah Jazz,Portland Trail Blazers,16,15,31,1293501600.0,2011
+Portland Trail Blazers,Denver Nuggets,Portland Trail Blazers,16,16,32,1293588000.0,2011
+Portland Trail Blazers,Portland Trail Blazers,Utah Jazz,17,16,33,1293764400.0,2011
+Portland Trail Blazers,Portland Trail Blazers,Houston Rockets,18,16,34,1294020000.0,2011
+Portland Trail Blazers,Dallas Mavericks,Portland Trail Blazers,18,17,35,1294191000.0,2011
+Portland Trail Blazers,Houston Rockets,Portland Trail Blazers,19,17,36,1294277400.0,2011
+Portland Trail Blazers,Minnesota Timberwolves,Portland Trail Blazers,20,17,37,1294448400.0,2011
+Portland Trail Blazers,Portland Trail Blazers,Miami Heat,20,18,38,1294624800.0,2011
+Portland Trail Blazers,Portland Trail Blazers,New York Knicks,20,19,39,1294801200.0,2011
+Portland Trail Blazers,Phoenix Suns,Portland Trail Blazers,20,20,40,1295062200.0,2011
+Portland Trail Blazers,Portland Trail Blazers,New Jersey Nets,21,20,41,1295146800.0,2011
+Portland Trail Blazers,Portland Trail Blazers,Minnesota Timberwolves,22,20,42,1295319600.0,2011
+Portland Trail Blazers,Sacramento Kings,Portland Trail Blazers,23,20,43,1295492400.0,2011
+Portland Trail Blazers,Portland Trail Blazers,Los Angeles Clippers,24,20,44,1295580600.0,2011
+Portland Trail Blazers,Portland Trail Blazers,Indiana Pacers,25,20,45,1295751600.0,2011
+Portland Trail Blazers,Portland Trail Blazers,Sacramento Kings,25,21,46,1295924400.0,2011
+Portland Trail Blazers,Portland Trail Blazers,Boston Celtics,25,22,47,1296185400.0,2011
+Portland Trail Blazers,Portland Trail Blazers,San Antonio Spurs,26,22,48,1296615600.0,2011
+Portland Trail Blazers,Denver Nuggets,Portland Trail Blazers,26,23,49,1296698400.0,2011
+Portland Trail Blazers,Indiana Pacers,Portland Trail Blazers,26,24,50,1296864000.0,2011
+Portland Trail Blazers,Cleveland Cavaliers,Portland Trail Blazers,27,24,51,1296952200.0,2011
+Portland Trail Blazers,Portland Trail Blazers,Chicago Bulls,28,24,52,1297134000.0,2011
+Portland Trail Blazers,Toronto Raptors,Portland Trail Blazers,29,24,53,1297468800.0,2011
+Portland Trail Blazers,Detroit Pistons,Portland Trail Blazers,30,24,54,1297638000.0,2011
+Portland Trail Blazers,Minnesota Timberwolves,Portland Trail Blazers,31,24,55,1297731600.0,2011
+Portland Trail Blazers,Portland Trail Blazers,New Orleans Hornets,32,24,56,1297911600.0,2011
+Portland Trail Blazers,Portland Trail Blazers,Los Angeles Lakers,32,25,57,1298518200.0,2011
+Portland Trail Blazers,Portland Trail Blazers,Denver Nuggets,33,25,58,1298691000.0,2011
+Portland Trail Blazers,Portland Trail Blazers,Atlanta Hawks,33,26,59,1298863800.0,2011
+Portland Trail Blazers,Portland Trail Blazers,Houston Rockets,33,27,60,1299034800.0,2011
+Portland Trail Blazers,Sacramento Kings,Portland Trail Blazers,34,27,61,1299121200.0,2011
+Portland Trail Blazers,Portland Trail Blazers,Charlotte Bobcats,35,27,62,1299380400.0,2011
+Portland Trail Blazers,Orlando Magic,Portland Trail Blazers,36,27,63,1299542400.0,2011
+Portland Trail Blazers,Miami Heat,Portland Trail Blazers,37,27,64,1299630600.0,2011
+Portland Trail Blazers,Charlotte Bobcats,Portland Trail Blazers,37,28,65,1299888000.0,2011
+Portland Trail Blazers,Atlanta Hawks,Portland Trail Blazers,37,29,66,1299974400.0,2011
+Portland Trail Blazers,Portland Trail Blazers,Dallas Mavericks,38,29,67,1300240800.0,2011
+Portland Trail Blazers,Portland Trail Blazers,Cleveland Cavaliers,39,29,68,1300413600.0,2011
+Portland Trail Blazers,Portland Trail Blazers,Philadelphia 76ers,40,29,69,1300586400.0,2011
+Portland Trail Blazers,Los Angeles Lakers,Portland Trail Blazers,40,30,70,1300671000.0,2011
+Portland Trail Blazers,Portland Trail Blazers,Washington Wizards,41,30,71,1300845600.0,2011
+Portland Trail Blazers,Portland Trail Blazers,San Antonio Spurs,42,30,72,1301104800.0,2011
+Portland Trail Blazers,Oklahoma City Thunder,Portland Trail Blazers,42,31,73,1301270400.0,2011
+Portland Trail Blazers,San Antonio Spurs,Portland Trail Blazers,43,31,74,1301358600.0,2011
+Portland Trail Blazers,New Orleans Hornets,Portland Trail Blazers,43,32,75,1301529600.0,2011
+Portland Trail Blazers,Portland Trail Blazers,Oklahoma City Thunder,44,32,76,1301709600.0,2011
+Portland Trail Blazers,Portland Trail Blazers,Dallas Mavericks,45,32,77,1301878800.0,2011
+Portland Trail Blazers,Portland Trail Blazers,Golden State Warriors,45,33,78,1302055200.0,2011
+Portland Trail Blazers,Utah Jazz,Portland Trail Blazers,46,33,79,1302229800.0,2011
+Portland Trail Blazers,Portland Trail Blazers,Los Angeles Lakers,47,33,80,1302314400.0,2011
+Portland Trail Blazers,Portland Trail Blazers,Memphis Grizzlies,48,33,81,1302660000.0,2011
+Portland Trail Blazers,Golden State Warriors,Portland Trail Blazers,48,34,82,1302748200.0,2011
+Sacramento Kings,Minnesota Timberwolves,Sacramento Kings,1,0,1,1288224000.0,2011
+Sacramento Kings,New Jersey Nets,Sacramento Kings,1,1,2,1288393200.0,2011
+Sacramento Kings,Cleveland Cavaliers,Sacramento Kings,2,1,3,1288481400.0,2011
+Sacramento Kings,Sacramento Kings,Toronto Raptors,3,1,4,1288663200.0,2011
+Sacramento Kings,Sacramento Kings,Los Angeles Lakers,3,2,5,1288837800.0,2011
+Sacramento Kings,Sacramento Kings,Memphis Grizzlies,3,3,6,1289095200.0,2011
+Sacramento Kings,Sacramento Kings,Minnesota Timberwolves,3,4,7,1289444400.0,2011
+Sacramento Kings,Phoenix Suns,Sacramento Kings,3,5,8,1289613600.0,2011
+Sacramento Kings,Sacramento Kings,Detroit Pistons,3,6,9,1289775600.0,2011
+Sacramento Kings,Sacramento Kings,New York Knicks,3,7,10,1290049200.0,2011
+Sacramento Kings,Sacramento Kings,New Jersey Nets,4,7,11,1290222000.0,2011
+Sacramento Kings,Sacramento Kings,New Orleans Hornets,4,8,12,1290380400.0,2011
+Sacramento Kings,Utah Jazz,Sacramento Kings,4,9,13,1290477600.0,2011
+Sacramento Kings,Los Angeles Clippers,Sacramento Kings,4,10,14,1290742200.0,2011
+Sacramento Kings,Sacramento Kings,Chicago Bulls,4,11,15,1290913200.0,2011
+Sacramento Kings,Sacramento Kings,Indiana Pacers,4,12,16,1291172400.0,2011
+Sacramento Kings,Los Angeles Lakers,Sacramento Kings,4,13,17,1291433400.0,2011
+Sacramento Kings,Sacramento Kings,Dallas Mavericks,4,14,18,1291518000.0,2011
+Sacramento Kings,Los Angeles Clippers,Sacramento Kings,4,15,19,1291692600.0,2011
+Sacramento Kings,Sacramento Kings,Washington Wizards,5,15,20,1291863600.0,2011
+Sacramento Kings,Sacramento Kings,Miami Heat,5,16,21,1292122800.0,2011
+Sacramento Kings,Houston Rockets,Sacramento Kings,5,17,22,1292376600.0,2011
+Sacramento Kings,New Orleans Hornets,Sacramento Kings,5,18,23,1292461200.0,2011
+Sacramento Kings,Oklahoma City Thunder,Sacramento Kings,5,19,24,1292634000.0,2011
+Sacramento Kings,Sacramento Kings,Houston Rockets,5,20,25,1292799600.0,2011
+Sacramento Kings,Sacramento Kings,Golden State Warriors,5,21,26,1292986800.0,2011
+Sacramento Kings,Sacramento Kings,Milwaukee Bucks,5,22,27,1293159600.0,2011
+Sacramento Kings,Sacramento Kings,Los Angeles Clippers,5,23,28,1293505200.0,2011
+Sacramento Kings,Sacramento Kings,Memphis Grizzlies,6,23,29,1293678000.0,2011
+Sacramento Kings,Denver Nuggets,Sacramento Kings,6,24,30,1293933600.0,2011
+Sacramento Kings,Sacramento Kings,Phoenix Suns,7,24,31,1294020000.0,2011
+Sacramento Kings,Sacramento Kings,Atlanta Hawks,7,25,32,1294196400.0,2011
+Sacramento Kings,Sacramento Kings,Denver Nuggets,8,25,33,1294371000.0,2011
+Sacramento Kings,Toronto Raptors,Sacramento Kings,8,26,34,1294596000.0,2011
+Sacramento Kings,Washington Wizards,Sacramento Kings,8,27,35,1294790400.0,2011
+Sacramento Kings,Boston Celtics,Sacramento Kings,8,28,36,1294878600.0,2011
+Sacramento Kings,New York Knicks,Sacramento Kings,9,28,37,1295051400.0,2011
+Sacramento Kings,Detroit Pistons,Sacramento Kings,9,29,38,1295137800.0,2011
+Sacramento Kings,Atlanta Hawks,Sacramento Kings,9,30,39,1295298000.0,2011
+Sacramento Kings,Sacramento Kings,Portland Trail Blazers,9,31,40,1295492400.0,2011
+Sacramento Kings,Golden State Warriors,Sacramento Kings,9,32,41,1295667000.0,2011
+Sacramento Kings,Portland Trail Blazers,Sacramento Kings,10,32,42,1295924400.0,2011
+Sacramento Kings,Sacramento Kings,Charlotte Bobcats,10,33,43,1296010800.0,2011
+Sacramento Kings,Los Angeles Lakers,Sacramento Kings,11,33,44,1296271800.0,2011
+Sacramento Kings,Sacramento Kings,New Orleans Hornets,12,33,45,1296356400.0,2011
+Sacramento Kings,Sacramento Kings,Boston Celtics,12,34,46,1296615600.0,2011
+Sacramento Kings,Sacramento Kings,San Antonio Spurs,12,35,47,1296874800.0,2011
+Sacramento Kings,Sacramento Kings,Utah Jazz,12,36,48,1297134000.0,2011
+Sacramento Kings,Sacramento Kings,Dallas Mavericks,12,37,49,1297306800.0,2011
+Sacramento Kings,Sacramento Kings,Oklahoma City Thunder,12,38,50,1297566000.0,2011
+Sacramento Kings,Phoenix Suns,Sacramento Kings,13,38,51,1297645200.0,2011
+Sacramento Kings,Oklahoma City Thunder,Sacramento Kings,13,39,52,1297818000.0,2011
+Sacramento Kings,Dallas Mavericks,Sacramento Kings,13,40,53,1297906200.0,2011
+Sacramento Kings,Miami Heat,Sacramento Kings,13,41,54,1298421000.0,2011
+Sacramento Kings,Orlando Magic,Sacramento Kings,14,41,55,1298505600.0,2011
+Sacramento Kings,Charlotte Bobcats,Sacramento Kings,14,42,56,1298678400.0,2011
+Sacramento Kings,Memphis Grizzlies,Sacramento Kings,14,43,57,1298768400.0,2011
+Sacramento Kings,Sacramento Kings,Los Angeles Clippers,15,43,58,1298948400.0,2011
+Sacramento Kings,Sacramento Kings,Portland Trail Blazers,15,44,59,1299121200.0,2011
+Sacramento Kings,Utah Jazz,Sacramento Kings,15,45,60,1299376800.0,2011
+Sacramento Kings,Sacramento Kings,Houston Rockets,15,46,61,1299553200.0,2011
+Sacramento Kings,Sacramento Kings,Orlando Magic,15,47,62,1299726000.0,2011
+Sacramento Kings,San Antonio Spurs,Sacramento Kings,15,48,63,1299893400.0,2011
+Sacramento Kings,New Orleans Hornets,Sacramento Kings,15,49,64,1299978000.0,2011
+Sacramento Kings,Sacramento Kings,Golden State Warriors,16,49,65,1300154400.0,2011
+Sacramento Kings,Sacramento Kings,Cleveland Cavaliers,16,50,66,1300327200.0,2011
+Sacramento Kings,Sacramento Kings,Philadelphia 76ers,16,51,67,1300500000.0,2011
+Sacramento Kings,Minnesota Timberwolves,Sacramento Kings,17,51,68,1300649400.0,2011
+Sacramento Kings,Chicago Bulls,Sacramento Kings,17,52,69,1300752000.0,2011
+Sacramento Kings,Milwaukee Bucks,Sacramento Kings,18,52,70,1300924800.0,2011
+Sacramento Kings,Indiana Pacers,Sacramento Kings,19,52,71,1301094000.0,2011
+Sacramento Kings,Philadelphia 76ers,Sacramento Kings,20,52,72,1301241600.0,2011
+Sacramento Kings,Sacramento Kings,Phoenix Suns,21,52,73,1301450400.0,2011
+Sacramento Kings,Denver Nuggets,Sacramento Kings,21,53,74,1301533200.0,2011
+Sacramento Kings,Sacramento Kings,Denver Nuggets,21,54,75,1301709600.0,2011
+Sacramento Kings,Sacramento Kings,Utah Jazz,22,54,76,1301868000.0,2011
+Sacramento Kings,Houston Rockets,Sacramento Kings,23,54,77,1302049800.0,2011
+Sacramento Kings,San Antonio Spurs,Sacramento Kings,23,55,78,1302136200.0,2011
+Sacramento Kings,Memphis Grizzlies,Sacramento Kings,23,56,79,1302307200.0,2011
+Sacramento Kings,Golden State Warriors,Sacramento Kings,24,56,80,1302483600.0,2011
+Sacramento Kings,Sacramento Kings,Oklahoma City Thunder,24,57,81,1302573600.0,2011
+Sacramento Kings,Sacramento Kings,Los Angeles Lakers,24,58,82,1302748200.0,2011
+San Antonio Spurs,San Antonio Spurs,Indiana Pacers,1,0,1,1288225800.0,2011
+San Antonio Spurs,San Antonio Spurs,New Orleans Hornets,1,1,2,1288485000.0,2011
+San Antonio Spurs,Los Angeles Clippers,San Antonio Spurs,2,1,3,1288665000.0,2011
+San Antonio Spurs,Phoenix Suns,San Antonio Spurs,3,1,4,1288836000.0,2011
+San Antonio Spurs,San Antonio Spurs,Houston Rockets,4,1,5,1289089800.0,2011
+San Antonio Spurs,Charlotte Bobcats,San Antonio Spurs,5,1,6,1289260800.0,2011
+San Antonio Spurs,San Antonio Spurs,Los Angeles Clippers,6,1,7,1289442600.0,2011
+San Antonio Spurs,San Antonio Spurs,Philadelphia 76ers,7,1,8,1289698200.0,2011
+San Antonio Spurs,Oklahoma City Thunder,San Antonio Spurs,8,1,9,1289779200.0,2011
+San Antonio Spurs,San Antonio Spurs,Chicago Bulls,9,1,10,1290047400.0,2011
+San Antonio Spurs,Utah Jazz,San Antonio Spurs,10,1,11,1290218400.0,2011
+San Antonio Spurs,San Antonio Spurs,Cleveland Cavaliers,11,1,12,1290303000.0,2011
+San Antonio Spurs,San Antonio Spurs,Orlando Magic,12,1,13,1290475800.0,2011
+San Antonio Spurs,Minnesota Timberwolves,San Antonio Spurs,13,1,14,1290646800.0,2011
+San Antonio Spurs,San Antonio Spurs,Dallas Mavericks,13,2,15,1290821400.0,2011
+San Antonio Spurs,New Orleans Hornets,San Antonio Spurs,14,2,16,1290974400.0,2011
+San Antonio Spurs,Golden State Warriors,San Antonio Spurs,15,2,17,1291174200.0,2011
+San Antonio Spurs,Los Angeles Clippers,San Antonio Spurs,15,3,18,1291260600.0,2011
+San Antonio Spurs,San Antonio Spurs,Minnesota Timberwolves,16,3,19,1291426200.0,2011
+San Antonio Spurs,San Antonio Spurs,New Orleans Hornets,17,3,20,1291593600.0,2011
+San Antonio Spurs,San Antonio Spurs,Golden State Warriors,18,3,21,1291858200.0,2011
+San Antonio Spurs,San Antonio Spurs,Atlanta Hawks,19,3,22,1292031000.0,2011
+San Antonio Spurs,San Antonio Spurs,Portland Trail Blazers,20,3,23,1292185800.0,2011
+San Antonio Spurs,San Antonio Spurs,Milwaukee Bucks,21,3,24,1292463000.0,2011
+San Antonio Spurs,Denver Nuggets,San Antonio Spurs,22,3,25,1292556600.0,2011
+San Antonio Spurs,San Antonio Spurs,Memphis Grizzlies,23,3,26,1292722200.0,2011
+San Antonio Spurs,San Antonio Spurs,Phoenix Suns,24,3,27,1292895000.0,2011
+San Antonio Spurs,San Antonio Spurs,Denver Nuggets,25,3,28,1293067800.0,2011
+San Antonio Spurs,Orlando Magic,San Antonio Spurs,25,4,29,1293152400.0,2011
+San Antonio Spurs,San Antonio Spurs,Washington Wizards,26,4,30,1293408000.0,2011
+San Antonio Spurs,San Antonio Spurs,Los Angeles Lakers,27,4,31,1293586200.0,2011
+San Antonio Spurs,Dallas Mavericks,San Antonio Spurs,28,4,32,1293762600.0,2011
+San Antonio Spurs,San Antonio Spurs,Oklahoma City Thunder,29,4,33,1293931800.0,2011
+San Antonio Spurs,New York Knicks,San Antonio Spurs,29,5,34,1294187400.0,2011
+San Antonio Spurs,Boston Celtics,San Antonio Spurs,29,6,35,1294273800.0,2011
+San Antonio Spurs,Indiana Pacers,San Antonio Spurs,30,6,36,1294444800.0,2011
+San Antonio Spurs,San Antonio Spurs,Minnesota Timberwolves,31,6,37,1294617600.0,2011
+San Antonio Spurs,Minnesota Timberwolves,San Antonio Spurs,32,6,38,1294794000.0,2011
+San Antonio Spurs,Milwaukee Bucks,San Antonio Spurs,33,6,39,1294880400.0,2011
+San Antonio Spurs,San Antonio Spurs,Dallas Mavericks,34,6,40,1295053200.0,2011
+San Antonio Spurs,San Antonio Spurs,Denver Nuggets,35,6,41,1295229600.0,2011
+San Antonio Spurs,San Antonio Spurs,Toronto Raptors,36,6,42,1295487000.0,2011
+San Antonio Spurs,San Antonio Spurs,New York Knicks,37,6,43,1295658000.0,2011
+San Antonio Spurs,New Orleans Hornets,San Antonio Spurs,37,7,44,1295744400.0,2011
+San Antonio Spurs,Golden State Warriors,San Antonio Spurs,38,7,45,1295926200.0,2011
+San Antonio Spurs,Utah Jazz,San Antonio Spurs,39,7,46,1296095400.0,2011
+San Antonio Spurs,San Antonio Spurs,Houston Rockets,40,7,47,1296351000.0,2011
+San Antonio Spurs,Portland Trail Blazers,San Antonio Spurs,40,8,48,1296615600.0,2011
+San Antonio Spurs,Los Angeles Lakers,San Antonio Spurs,41,8,49,1296790200.0,2011
+San Antonio Spurs,Sacramento Kings,San Antonio Spurs,42,8,50,1296874800.0,2011
+San Antonio Spurs,Detroit Pistons,San Antonio Spurs,43,8,51,1297211400.0,2011
+San Antonio Spurs,Toronto Raptors,San Antonio Spurs,44,8,52,1297296000.0,2011
+San Antonio Spurs,Philadelphia 76ers,San Antonio Spurs,44,9,53,1297468800.0,2011
+San Antonio Spurs,Washington Wizards,San Antonio Spurs,45,9,54,1297558800.0,2011
+San Antonio Spurs,New Jersey Nets,San Antonio Spurs,46,9,55,1297728000.0,2011
+San Antonio Spurs,Chicago Bulls,San Antonio Spurs,46,10,56,1297990800.0,2011
+San Antonio Spurs,San Antonio Spurs,Oklahoma City Thunder,47,10,57,1298505600.0,2011
+San Antonio Spurs,San Antonio Spurs,New Jersey Nets,48,10,58,1298683800.0,2011
+San Antonio Spurs,San Antonio Spurs,Memphis Grizzlies,49,10,59,1298851200.0,2011
+San Antonio Spurs,Memphis Grizzlies,San Antonio Spurs,49,11,60,1299027600.0,2011
+San Antonio Spurs,Cleveland Cavaliers,San Antonio Spurs,50,11,61,1299110400.0,2011
+San Antonio Spurs,San Antonio Spurs,Miami Heat,51,11,62,1299292200.0,2011
+San Antonio Spurs,San Antonio Spurs,Los Angeles Lakers,51,12,63,1299443400.0,2011
+San Antonio Spurs,San Antonio Spurs,Detroit Pistons,52,12,64,1299720600.0,2011
+San Antonio Spurs,San Antonio Spurs,Sacramento Kings,53,12,65,1299893400.0,2011
+San Antonio Spurs,Houston Rockets,San Antonio Spurs,54,12,66,1299979800.0,2011
+San Antonio Spurs,Miami Heat,San Antonio Spurs,54,13,67,1300147200.0,2011
+San Antonio Spurs,Dallas Mavericks,San Antonio Spurs,55,13,68,1300494600.0,2011
+San Antonio Spurs,San Antonio Spurs,Charlotte Bobcats,56,13,69,1300581000.0,2011
+San Antonio Spurs,San Antonio Spurs,Golden State Warriors,57,13,70,1300753800.0,2011
+San Antonio Spurs,Denver Nuggets,San Antonio Spurs,57,14,71,1300933800.0,2011
+San Antonio Spurs,Portland Trail Blazers,San Antonio Spurs,57,15,72,1301104800.0,2011
+San Antonio Spurs,Memphis Grizzlies,San Antonio Spurs,57,16,73,1301263200.0,2011
+San Antonio Spurs,San Antonio Spurs,Portland Trail Blazers,57,17,74,1301358600.0,2011
+San Antonio Spurs,San Antonio Spurs,Boston Celtics,57,18,75,1301616000.0,2011
+San Antonio Spurs,Houston Rockets,San Antonio Spurs,57,19,76,1301704200.0,2011
+San Antonio Spurs,San Antonio Spurs,Phoenix Suns,58,19,77,1301850000.0,2011
+San Antonio Spurs,Atlanta Hawks,San Antonio Spurs,59,19,78,1302044400.0,2011
+San Antonio Spurs,San Antonio Spurs,Sacramento Kings,60,19,79,1302136200.0,2011
+San Antonio Spurs,San Antonio Spurs,Utah Jazz,61,19,80,1302395400.0,2011
+San Antonio Spurs,Los Angeles Lakers,San Antonio Spurs,61,20,81,1302661800.0,2011
+San Antonio Spurs,Phoenix Suns,San Antonio Spurs,61,21,82,1302748200.0,2011
+Toronto Raptors,Toronto Raptors,New York Knicks,0,1,1,1288220400.0,2011
+Toronto Raptors,Toronto Raptors,Cleveland Cavaliers,1,1,2,1288393200.0,2011
+Toronto Raptors,Sacramento Kings,Toronto Raptors,1,2,3,1288663200.0,2011
+Toronto Raptors,Utah Jazz,Toronto Raptors,1,3,4,1288832400.0,2011
+Toronto Raptors,Los Angeles Lakers,Toronto Raptors,1,4,5,1289010600.0,2011
+Toronto Raptors,Portland Trail Blazers,Toronto Raptors,1,5,6,1289095200.0,2011
+Toronto Raptors,Toronto Raptors,Golden State Warriors,1,6,7,1289260800.0,2011
+Toronto Raptors,Toronto Raptors,Charlotte Bobcats,1,7,8,1289433600.0,2011
+Toronto Raptors,Orlando Magic,Toronto Raptors,2,7,9,1289606400.0,2011
+Toronto Raptors,Miami Heat,Toronto Raptors,2,8,10,1289694600.0,2011
+Toronto Raptors,Washington Wizards,Toronto Raptors,2,9,11,1289952000.0,2011
+Toronto Raptors,Philadelphia 76ers,Toronto Raptors,3,9,12,1290038400.0,2011
+Toronto Raptors,Toronto Raptors,Houston Rockets,4,9,13,1290211200.0,2011
+Toronto Raptors,Toronto Raptors,Boston Celtics,5,9,14,1290362400.0,2011
+Toronto Raptors,Toronto Raptors,Philadelphia 76ers,6,9,15,1290643200.0,2011
+Toronto Raptors,Boston Celtics,Toronto Raptors,6,10,16,1290817800.0,2011
+Toronto Raptors,Toronto Raptors,Atlanta Hawks,6,11,17,1290967200.0,2011
+Toronto Raptors,Toronto Raptors,Washington Wizards,7,11,18,1291248000.0,2011
+Toronto Raptors,Toronto Raptors,Oklahoma City Thunder,8,11,19,1291420800.0,2011
+Toronto Raptors,Toronto Raptors,New York Knicks,8,12,20,1291572000.0,2011
+Toronto Raptors,Indiana Pacers,Toronto Raptors,8,13,21,1291680000.0,2011
+Toronto Raptors,New York Knicks,Toronto Raptors,8,14,22,1291854600.0,2011
+Toronto Raptors,Toronto Raptors,Denver Nuggets,8,15,23,1292025600.0,2011
+Toronto Raptors,Detroit Pistons,Toronto Raptors,9,15,24,1292113800.0,2011
+Toronto Raptors,Charlotte Bobcats,Toronto Raptors,9,16,25,1292371200.0,2011
+Toronto Raptors,Toronto Raptors,Chicago Bulls,9,17,26,1292457600.0,2011
+Toronto Raptors,Toronto Raptors,New Jersey Nets,10,17,27,1292630400.0,2011
+Toronto Raptors,Toronto Raptors,Los Angeles Lakers,10,18,28,1292781600.0,2011
+Toronto Raptors,Toronto Raptors,Detroit Pistons,10,19,29,1293062400.0,2011
+Toronto Raptors,Memphis Grizzlies,Toronto Raptors,10,20,30,1293498000.0,2011
+Toronto Raptors,Dallas Mavericks,Toronto Raptors,11,20,31,1293586200.0,2011
+Toronto Raptors,Houston Rockets,Toronto Raptors,11,21,32,1293840000.0,2011
+Toronto Raptors,Toronto Raptors,Boston Celtics,11,22,33,1294009200.0,2011
+Toronto Raptors,Chicago Bulls,Toronto Raptors,11,23,34,1294189200.0,2011
+Toronto Raptors,Cleveland Cavaliers,Toronto Raptors,12,23,35,1294272000.0,2011
+Toronto Raptors,Boston Celtics,Toronto Raptors,12,24,36,1294446600.0,2011
+Toronto Raptors,Toronto Raptors,Sacramento Kings,13,24,37,1294596000.0,2011
+Toronto Raptors,Toronto Raptors,Atlanta Hawks,13,25,38,1294876800.0,2011
+Toronto Raptors,Toronto Raptors,Detroit Pistons,13,26,39,1295049600.0,2011
+Toronto Raptors,Washington Wizards,Toronto Raptors,13,27,40,1295136000.0,2011
+Toronto Raptors,New Orleans Hornets,Toronto Raptors,13,28,41,1295294400.0,2011
+Toronto Raptors,San Antonio Spurs,Toronto Raptors,13,29,42,1295487000.0,2011
+Toronto Raptors,Orlando Magic,Toronto Raptors,13,30,43,1295654400.0,2011
+Toronto Raptors,Miami Heat,Toronto Raptors,13,31,44,1295742600.0,2011
+Toronto Raptors,Toronto Raptors,Memphis Grizzlies,13,32,45,1295913600.0,2011
+Toronto Raptors,Toronto Raptors,Philadelphia 76ers,13,33,46,1296086400.0,2011
+Toronto Raptors,Toronto Raptors,Milwaukee Bucks,13,34,47,1296259200.0,2011
+Toronto Raptors,Minnesota Timberwolves,Toronto Raptors,13,35,48,1296349200.0,2011
+Toronto Raptors,Indiana Pacers,Toronto Raptors,13,36,49,1296518400.0,2011
+Toronto Raptors,Atlanta Hawks,Toronto Raptors,13,37,50,1296691200.0,2011
+Toronto Raptors,Toronto Raptors,Minnesota Timberwolves,14,37,51,1296864000.0,2011
+Toronto Raptors,Milwaukee Bucks,Toronto Raptors,14,38,52,1297213200.0,2011
+Toronto Raptors,Toronto Raptors,San Antonio Spurs,14,39,53,1297296000.0,2011
+Toronto Raptors,Toronto Raptors,Portland Trail Blazers,14,40,54,1297468800.0,2011
+Toronto Raptors,Toronto Raptors,Los Angeles Clippers,15,40,55,1297638000.0,2011
+Toronto Raptors,Toronto Raptors,Miami Heat,15,41,56,1297900800.0,2011
+Toronto Raptors,Charlotte Bobcats,Toronto Raptors,15,42,57,1298419200.0,2011
+Toronto Raptors,Toronto Raptors,Chicago Bulls,16,42,58,1298505600.0,2011
+Toronto Raptors,Toronto Raptors,Phoenix Suns,16,43,59,1298678400.0,2011
+Toronto Raptors,Toronto Raptors,Dallas Mavericks,16,44,60,1298847600.0,2011
+Toronto Raptors,Toronto Raptors,New Orleans Hornets,17,44,61,1299024000.0,2011
+Toronto Raptors,New Jersey Nets,Toronto Raptors,17,45,62,1299268800.0,2011
+Toronto Raptors,New Jersey Nets,Toronto Raptors,17,46,63,1299355200.0,2011
+Toronto Raptors,Toronto Raptors,Utah Jazz,17,47,64,1299715200.0,2011
+Toronto Raptors,Toronto Raptors,Indiana Pacers,18,47,65,1299888000.0,2011
+Toronto Raptors,Toronto Raptors,Charlotte Bobcats,18,48,66,1300035600.0,2011
+Toronto Raptors,Detroit Pistons,Toronto Raptors,18,49,67,1300318200.0,2011
+Toronto Raptors,Toronto Raptors,Washington Wizards,19,49,68,1300489200.0,2011
+Toronto Raptors,Oklahoma City Thunder,Toronto Raptors,20,49,69,1300662000.0,2011
+Toronto Raptors,Denver Nuggets,Toronto Raptors,20,50,70,1300755600.0,2011
+Toronto Raptors,Phoenix Suns,Toronto Raptors,20,51,71,1300932000.0,2011
+Toronto Raptors,Golden State Warriors,Toronto Raptors,20,52,72,1301106600.0,2011
+Toronto Raptors,Los Angeles Clippers,Toronto Raptors,20,53,73,1301193000.0,2011
+Toronto Raptors,Toronto Raptors,Milwaukee Bucks,20,54,74,1301526000.0,2011
+Toronto Raptors,Chicago Bulls,Toronto Raptors,20,55,75,1301788800.0,2011
+Toronto Raptors,Toronto Raptors,Orlando Magic,21,55,76,1301868000.0,2011
+Toronto Raptors,New York Knicks,Toronto Raptors,21,56,77,1302046200.0,2011
+Toronto Raptors,Toronto Raptors,Cleveland Cavaliers,21,57,78,1302130800.0,2011
+Toronto Raptors,Philadelphia 76ers,Toronto Raptors,21,58,79,1302303600.0,2011
+Toronto Raptors,Toronto Raptors,New Jersey Nets,22,58,80,1302472800.0,2011
+Toronto Raptors,Milwaukee Bucks,Toronto Raptors,22,59,81,1302566400.0,2011
+Toronto Raptors,Toronto Raptors,Miami Heat,22,60,82,1302739200.0,2011
+Utah Jazz,Denver Nuggets,Utah Jazz,0,1,1,1288227600.0,2011
+Utah Jazz,Utah Jazz,Phoenix Suns,0,2,2,1288319400.0,2011
+Utah Jazz,Oklahoma City Thunder,Utah Jazz,1,2,3,1288566000.0,2011
+Utah Jazz,Utah Jazz,Toronto Raptors,2,2,4,1288832400.0,2011
+Utah Jazz,Golden State Warriors,Utah Jazz,2,3,5,1289010600.0,2011
+Utah Jazz,Utah Jazz,Los Angeles Clippers,3,3,6,1289091600.0,2011
+Utah Jazz,Miami Heat,Utah Jazz,4,3,7,1289349000.0,2011
+Utah Jazz,Orlando Magic,Utah Jazz,5,3,8,1289433600.0,2011
+Utah Jazz,Atlanta Hawks,Utah Jazz,6,3,9,1289606400.0,2011
+Utah Jazz,Charlotte Bobcats,Utah Jazz,7,3,10,1289692800.0,2011
+Utah Jazz,Utah Jazz,Oklahoma City Thunder,7,4,11,1289872800.0,2011
+Utah Jazz,Utah Jazz,New Jersey Nets,8,4,12,1290045600.0,2011
+Utah Jazz,Utah Jazz,San Antonio Spurs,8,5,13,1290218400.0,2011
+Utah Jazz,Portland Trail Blazers,Utah Jazz,9,5,14,1290308400.0,2011
+Utah Jazz,Utah Jazz,Sacramento Kings,10,5,15,1290477600.0,2011
+Utah Jazz,Utah Jazz,New Orleans Hornets,11,5,16,1290650400.0,2011
+Utah Jazz,Utah Jazz,Los Angeles Lakers,12,5,17,1290823200.0,2011
+Utah Jazz,Los Angeles Clippers,Utah Jazz,13,5,18,1290976200.0,2011
+Utah Jazz,Utah Jazz,Milwaukee Bucks,14,5,19,1291082400.0,2011
+Utah Jazz,Utah Jazz,Indiana Pacers,15,5,20,1291255200.0,2011
+Utah Jazz,Utah Jazz,Dallas Mavericks,15,6,21,1291433400.0,2011
+Utah Jazz,Utah Jazz,Memphis Grizzlies,16,6,22,1291687200.0,2011
+Utah Jazz,Utah Jazz,Miami Heat,16,7,23,1291860000.0,2011
+Utah Jazz,Utah Jazz,Orlando Magic,17,7,24,1292032800.0,2011
+Utah Jazz,Dallas Mavericks,Utah Jazz,17,8,25,1292117400.0,2011
+Utah Jazz,Utah Jazz,Golden State Warriors,18,8,26,1292292000.0,2011
+Utah Jazz,New Orleans Hornets,Utah Jazz,18,9,27,1292634000.0,2011
+Utah Jazz,Milwaukee Bucks,Utah Jazz,19,9,28,1292722200.0,2011
+Utah Jazz,Cleveland Cavaliers,Utah Jazz,20,9,29,1292889600.0,2011
+Utah Jazz,Minnesota Timberwolves,Utah Jazz,21,9,30,1293066000.0,2011
+Utah Jazz,Utah Jazz,Portland Trail Blazers,21,10,31,1293501600.0,2011
+Utah Jazz,Los Angeles Clippers,Utah Jazz,22,10,32,1293679800.0,2011
+Utah Jazz,Portland Trail Blazers,Utah Jazz,22,11,33,1293764400.0,2011
+Utah Jazz,Utah Jazz,Memphis Grizzlies,23,11,34,1293933600.0,2011
+Utah Jazz,Utah Jazz,Detroit Pistons,24,11,35,1294106400.0,2011
+Utah Jazz,Utah Jazz,Atlanta Hawks,24,12,36,1294279200.0,2011
+Utah Jazz,Memphis Grizzlies,Utah Jazz,24,13,37,1294448400.0,2011
+Utah Jazz,Houston Rockets,Utah Jazz,25,13,38,1294536600.0,2011
+Utah Jazz,Utah Jazz,New York Knicks,26,13,39,1294884000.0,2011
+Utah Jazz,Utah Jazz,Cleveland Cavaliers,27,13,40,1295056800.0,2011
+Utah Jazz,Washington Wizards,Utah Jazz,27,14,41,1295287200.0,2011
+Utah Jazz,New Jersey Nets,Utah Jazz,27,15,42,1295481600.0,2011
+Utah Jazz,Boston Celtics,Utah Jazz,27,16,43,1295656200.0,2011
+Utah Jazz,Philadelphia 76ers,Utah Jazz,27,17,44,1295742600.0,2011
+Utah Jazz,Los Angeles Lakers,Utah Jazz,27,18,45,1296012600.0,2011
+Utah Jazz,Utah Jazz,San Antonio Spurs,27,19,46,1296095400.0,2011
+Utah Jazz,Utah Jazz,Minnesota Timberwolves,28,19,47,1296266400.0,2011
+Utah Jazz,Golden State Warriors,Utah Jazz,28,20,48,1296442800.0,2011
+Utah Jazz,Utah Jazz,Charlotte Bobcats,29,20,49,1296525600.0,2011
+Utah Jazz,Utah Jazz,Houston Rockets,29,21,50,1296698400.0,2011
+Utah Jazz,Denver Nuggets,Utah Jazz,30,21,51,1296876600.0,2011
+Utah Jazz,Utah Jazz,Oklahoma City Thunder,30,22,52,1296957600.0,2011
+Utah Jazz,Sacramento Kings,Utah Jazz,31,22,53,1297134000.0,2011
+Utah Jazz,Utah Jazz,Chicago Bulls,31,23,54,1297303200.0,2011
+Utah Jazz,Utah Jazz,Phoenix Suns,31,24,55,1297481400.0,2011
+Utah Jazz,Phoenix Suns,Utah Jazz,31,25,56,1297821600.0,2011
+Utah Jazz,Utah Jazz,Golden State Warriors,31,26,57,1297908000.0,2011
+Utah Jazz,Dallas Mavericks,Utah Jazz,31,27,58,1298511000.0,2011
+Utah Jazz,Indiana Pacers,Utah Jazz,32,27,59,1298678400.0,2011
+Utah Jazz,Detroit Pistons,Utah Jazz,32,28,60,1298766600.0,2011
+Utah Jazz,Utah Jazz,Boston Celtics,32,29,61,1298944800.0,2011
+Utah Jazz,Utah Jazz,Denver Nuggets,32,30,62,1299209400.0,2011
+Utah Jazz,Utah Jazz,Sacramento Kings,33,30,63,1299376800.0,2011
+Utah Jazz,New York Knicks,Utah Jazz,33,31,64,1299544200.0,2011
+Utah Jazz,Toronto Raptors,Utah Jazz,34,31,65,1299715200.0,2011
+Utah Jazz,Minnesota Timberwolves,Utah Jazz,34,32,66,1299891600.0,2011
+Utah Jazz,Chicago Bulls,Utah Jazz,34,33,67,1299978000.0,2011
+Utah Jazz,Utah Jazz,Philadelphia 76ers,35,33,68,1300150800.0,2011
+Utah Jazz,Utah Jazz,Minnesota Timberwolves,36,33,69,1300323600.0,2011
+Utah Jazz,Houston Rockets,Utah Jazz,36,34,70,1300662000.0,2011
+Utah Jazz,Memphis Grizzlies,Utah Jazz,36,35,71,1300752000.0,2011
+Utah Jazz,Oklahoma City Thunder,Utah Jazz,36,36,72,1300924800.0,2011
+Utah Jazz,Utah Jazz,New Orleans Hornets,36,37,73,1301014800.0,2011
+Utah Jazz,Utah Jazz,Dallas Mavericks,36,38,74,1301187600.0,2011
+Utah Jazz,Utah Jazz,Washington Wizards,36,39,75,1301360400.0,2011
+Utah Jazz,Utah Jazz,Los Angeles Lakers,36,40,76,1301711400.0,2011
+Utah Jazz,Sacramento Kings,Utah Jazz,36,41,77,1301868000.0,2011
+Utah Jazz,Los Angeles Lakers,Utah Jazz,37,41,78,1302057000.0,2011
+Utah Jazz,Utah Jazz,Portland Trail Blazers,37,42,79,1302229800.0,2011
+Utah Jazz,San Antonio Spurs,Utah Jazz,37,43,80,1302395400.0,2011
+Utah Jazz,New Orleans Hornets,Utah Jazz,38,43,81,1302566400.0,2011
+Utah Jazz,Utah Jazz,Denver Nuggets,39,43,82,1302739200.0,2011
+Washington Wizards,Orlando Magic,Washington Wizards,0,1,1,1288310400.0,2011
+Washington Wizards,Atlanta Hawks,Washington Wizards,0,2,2,1288479600.0,2011
+Washington Wizards,Washington Wizards,Philadelphia 76ers,1,2,3,1288738800.0,2011
+Washington Wizards,New York Knicks,Washington Wizards,1,3,4,1288999800.0,2011
+Washington Wizards,Washington Wizards,Cleveland Cavaliers,1,4,5,1289084400.0,2011
+Washington Wizards,Washington Wizards,Houston Rockets,2,4,6,1289433600.0,2011
+Washington Wizards,Washington Wizards,Charlotte Bobcats,2,5,7,1289606400.0,2011
+Washington Wizards,Chicago Bulls,Washington Wizards,2,6,8,1289696400.0,2011
+Washington Wizards,Washington Wizards,Toronto Raptors,3,6,9,1289952000.0,2011
+Washington Wizards,Boston Celtics,Washington Wizards,3,7,10,1290040200.0,2011
+Washington Wizards,Washington Wizards,Memphis Grizzlies,4,7,11,1290211200.0,2011
+Washington Wizards,Detroit Pistons,Washington Wizards,4,8,12,1290380400.0,2011
+Washington Wizards,Washington Wizards,Philadelphia 76ers,5,8,13,1290556800.0,2011
+Washington Wizards,Atlanta Hawks,Washington Wizards,5,9,14,1290733200.0,2011
+Washington Wizards,Washington Wizards,Orlando Magic,5,10,15,1290902400.0,2011
+Washington Wizards,Miami Heat,Washington Wizards,5,11,16,1291077000.0,2011
+Washington Wizards,Toronto Raptors,Washington Wizards,5,12,17,1291248000.0,2011
+Washington Wizards,Washington Wizards,Portland Trail Blazers,6,12,18,1291420800.0,2011
+Washington Wizards,Phoenix Suns,Washington Wizards,6,13,19,1291597200.0,2011
+Washington Wizards,Los Angeles Lakers,Washington Wizards,6,14,20,1291779000.0,2011
+Washington Wizards,Sacramento Kings,Washington Wizards,6,15,21,1291863600.0,2011
+Washington Wizards,Washington Wizards,New York Knicks,6,16,22,1292025600.0,2011
+Washington Wizards,Washington Wizards,Los Angeles Lakers,6,17,23,1292371200.0,2011
+Washington Wizards,New Jersey Nets,Washington Wizards,6,18,24,1292544000.0,2011
+Washington Wizards,Washington Wizards,Miami Heat,6,19,25,1292716800.0,2011
+Washington Wizards,Washington Wizards,Charlotte Bobcats,7,19,26,1292889600.0,2011
+Washington Wizards,Washington Wizards,Chicago Bulls,7,20,27,1293062400.0,2011
+Washington Wizards,San Antonio Spurs,Washington Wizards,7,21,28,1293408000.0,2011
+Washington Wizards,Houston Rockets,Washington Wizards,7,22,29,1293499800.0,2011
+Washington Wizards,Washington Wizards,Indiana Pacers,8,22,30,1293667200.0,2011
+Washington Wizards,Indiana Pacers,Washington Wizards,8,23,31,1293825600.0,2011
+Washington Wizards,Washington Wizards,New Orleans Hornets,8,24,32,1293926400.0,2011
+Washington Wizards,Philadelphia 76ers,Washington Wizards,8,25,33,1294272000.0,2011
+Washington Wizards,Washington Wizards,New Jersey Nets,9,25,34,1294444800.0,2011
+Washington Wizards,Charlotte Bobcats,Washington Wizards,9,26,35,1294531200.0,2011
+Washington Wizards,Washington Wizards,Sacramento Kings,10,26,36,1294790400.0,2011
+Washington Wizards,Minnesota Timberwolves,Washington Wizards,10,27,37,1294966800.0,2011
+Washington Wizards,Washington Wizards,Toronto Raptors,11,27,38,1295136000.0,2011
+Washington Wizards,Washington Wizards,Utah Jazz,12,27,39,1295287200.0,2011
+Washington Wizards,Milwaukee Bucks,Washington Wizards,12,28,40,1295485200.0,2011
+Washington Wizards,Washington Wizards,Phoenix Suns,12,29,41,1295654400.0,2011
+Washington Wizards,Washington Wizards,Boston Celtics,13,29,42,1295740800.0,2011
+Washington Wizards,New York Knicks,Washington Wizards,13,30,43,1295915400.0,2011
+Washington Wizards,Washington Wizards,Denver Nuggets,13,31,44,1296000000.0,2011
+Washington Wizards,Oklahoma City Thunder,Washington Wizards,13,32,45,1296262800.0,2011
+Washington Wizards,Memphis Grizzlies,Washington Wizards,13,33,46,1296349200.0,2011
+Washington Wizards,Dallas Mavericks,Washington Wizards,13,34,47,1296523800.0,2011
+Washington Wizards,New Orleans Hornets,Washington Wizards,13,35,48,1296608400.0,2011
+Washington Wizards,Washington Wizards,Orlando Magic,13,36,49,1296864000.0,2011
+Washington Wizards,Washington Wizards,Atlanta Hawks,13,37,50,1296950400.0,2011
+Washington Wizards,Washington Wizards,Milwaukee Bucks,14,37,51,1297296000.0,2011
+Washington Wizards,Washington Wizards,San Antonio Spurs,14,38,52,1297558800.0,2011
+Washington Wizards,Cleveland Cavaliers,Washington Wizards,15,38,53,1297638000.0,2011
+Washington Wizards,Orlando Magic,Washington Wizards,15,39,54,1297900800.0,2011
+Washington Wizards,Washington Wizards,Indiana Pacers,15,40,55,1298419200.0,2011
+Washington Wizards,Philadelphia 76ers,Washington Wizards,15,41,56,1298505600.0,2011
+Washington Wizards,Miami Heat,Washington Wizards,15,42,57,1298680200.0,2011
+Washington Wizards,Washington Wizards,Dallas Mavericks,15,43,58,1298768400.0,2011
+Washington Wizards,Washington Wizards,Chicago Bulls,15,44,59,1298937600.0,2011
+Washington Wizards,Washington Wizards,Golden State Warriors,15,45,60,1299110400.0,2011
+Washington Wizards,Washington Wizards,Minnesota Timberwolves,16,45,61,1299369600.0,2011
+Washington Wizards,Detroit Pistons,Washington Wizards,16,46,62,1299452400.0,2011
+Washington Wizards,Washington Wizards,Milwaukee Bucks,16,47,63,1299628800.0,2011
+Washington Wizards,Washington Wizards,Los Angeles Clippers,16,48,64,1299974400.0,2011
+Washington Wizards,Washington Wizards,Oklahoma City Thunder,16,49,65,1300143600.0,2011
+Washington Wizards,Chicago Bulls,Washington Wizards,16,50,66,1300233600.0,2011
+Washington Wizards,Toronto Raptors,Washington Wizards,16,51,67,1300489200.0,2011
+Washington Wizards,Washington Wizards,New Jersey Nets,17,51,68,1300640400.0,2011
+Washington Wizards,Portland Trail Blazers,Washington Wizards,17,52,69,1300845600.0,2011
+Washington Wizards,Los Angeles Clippers,Washington Wizards,17,53,70,1300933800.0,2011
+Washington Wizards,Denver Nuggets,Washington Wizards,17,54,71,1301101200.0,2011
+Washington Wizards,Golden State Warriors,Washington Wizards,17,55,72,1301274000.0,2011
+Washington Wizards,Utah Jazz,Washington Wizards,18,55,73,1301360400.0,2011
+Washington Wizards,Washington Wizards,Miami Heat,18,56,74,1301526000.0,2011
+Washington Wizards,Washington Wizards,Cleveland Cavaliers,19,56,75,1301698800.0,2011
+Washington Wizards,Charlotte Bobcats,Washington Wizards,20,56,76,1301868000.0,2011
+Washington Wizards,Washington Wizards,Detroit Pistons,21,56,77,1302044400.0,2011
+Washington Wizards,Indiana Pacers,Washington Wizards,21,57,78,1302130800.0,2011
+Washington Wizards,Boston Celtics,Washington Wizards,21,58,79,1302305400.0,2011
+Washington Wizards,Washington Wizards,Atlanta Hawks,22,58,80,1302390000.0,2011
+Washington Wizards,Washington Wizards,Boston Celtics,23,58,81,1302562800.0,2011
+Washington Wizards,Cleveland Cavaliers,Washington Wizards,23,59,82,1302739200.0,2011

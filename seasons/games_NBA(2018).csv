@@ -1,0 +1,2461 @@
+id,home_team,away_team,win,loss,game_number,date,year
+Atlanta Hawks,Dallas Mavericks,Atlanta Hawks,1,0,1,1508373000.0,2018
+Atlanta Hawks,Charlotte Hornets,Atlanta Hawks,1,1,2,1508540400.0,2018
+Atlanta Hawks,Brooklyn Nets,Atlanta Hawks,1,2,3,1508700600.0,2018
+Atlanta Hawks,Miami Heat,Atlanta Hawks,1,3,4,1508801400.0,2018
+Atlanta Hawks,Chicago Bulls,Atlanta Hawks,1,4,5,1509062400.0,2018
+Atlanta Hawks,Atlanta Hawks,Denver Nuggets,1,5,6,1509147000.0,2018
+Atlanta Hawks,Atlanta Hawks,Milwaukee Bucks,1,6,7,1509305400.0,2018
+Atlanta Hawks,Philadelphia 76ers,Atlanta Hawks,1,7,8,1509577200.0,2018
+Atlanta Hawks,Atlanta Hawks,Houston Rockets,1,8,9,1509751800.0,2018
+Atlanta Hawks,Cleveland Cavaliers,Atlanta Hawks,2,8,10,1509912000.0,2018
+Atlanta Hawks,Atlanta Hawks,Boston Celtics,2,9,11,1510014600.0,2018
+Atlanta Hawks,Detroit Pistons,Atlanta Hawks,2,10,12,1510358400.0,2018
+Atlanta Hawks,Washington Wizards,Atlanta Hawks,2,11,13,1510444800.0,2018
+Atlanta Hawks,New Orleans Pelicans,Atlanta Hawks,2,12,14,1510621200.0,2018
+Atlanta Hawks,Atlanta Hawks,Sacramento Kings,3,12,15,1510792200.0,2018
+Atlanta Hawks,Atlanta Hawks,Boston Celtics,3,13,16,1511051400.0,2018
+Atlanta Hawks,San Antonio Spurs,Atlanta Hawks,3,14,17,1511227800.0,2018
+Atlanta Hawks,Atlanta Hawks,Los Angeles Clippers,3,15,18,1511397000.0,2018
+Atlanta Hawks,Atlanta Hawks,New York Knicks,4,15,19,1511569800.0,2018
+Atlanta Hawks,Atlanta Hawks,Toronto Raptors,4,16,20,1511656200.0,2018
+Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,4,17,21,1512088200.0,2018
+Atlanta Hawks,Brooklyn Nets,Atlanta Hawks,5,17,22,1512244800.0,2018
+Atlanta Hawks,Atlanta Hawks,Brooklyn Nets,5,18,23,1512433800.0,2018
+Atlanta Hawks,Orlando Magic,Atlanta Hawks,5,19,24,1512604800.0,2018
+Atlanta Hawks,Atlanta Hawks,Orlando Magic,6,19,25,1512865800.0,2018
+Atlanta Hawks,New York Knicks,Atlanta Hawks,6,20,26,1512952200.0,2018
+Atlanta Hawks,Cleveland Cavaliers,Atlanta Hawks,6,21,27,1513123200.0,2018
+Atlanta Hawks,Atlanta Hawks,Detroit Pistons,6,22,28,1513297800.0,2018
+Atlanta Hawks,Memphis Grizzlies,Atlanta Hawks,6,23,29,1513386000.0,2018
+Atlanta Hawks,Atlanta Hawks,Miami Heat,7,23,30,1513643400.0,2018
+Atlanta Hawks,Atlanta Hawks,Indiana Pacers,7,24,31,1513816200.0,2018
+Atlanta Hawks,Oklahoma City Thunder,Atlanta Hawks,7,25,32,1513990800.0,2018
+Atlanta Hawks,Atlanta Hawks,Dallas Mavericks,8,25,33,1514075400.0,2018
+Atlanta Hawks,Atlanta Hawks,Washington Wizards,9,25,34,1514421000.0,2018
+Atlanta Hawks,Toronto Raptors,Atlanta Hawks,9,26,35,1514593800.0,2018
+Atlanta Hawks,Atlanta Hawks,Portland Trail Blazers,10,26,36,1514680200.0,2018
+Atlanta Hawks,Phoenix Suns,Atlanta Hawks,10,27,37,1514944800.0,2018
+Atlanta Hawks,Portland Trail Blazers,Atlanta Hawks,10,28,38,1515207600.0,2018
+Atlanta Hawks,Los Angeles Lakers,Atlanta Hawks,10,29,39,1515378600.0,2018
+Atlanta Hawks,Los Angeles Clippers,Atlanta Hawks,10,30,40,1515468600.0,2018
+Atlanta Hawks,Denver Nuggets,Atlanta Hawks,11,30,41,1515636000.0,2018
+Atlanta Hawks,Atlanta Hawks,Brooklyn Nets,11,31,42,1515803400.0,2018
+Atlanta Hawks,Atlanta Hawks,San Antonio Spurs,12,31,43,1516046400.0,2018
+Atlanta Hawks,Atlanta Hawks,New Orleans Pelicans,13,31,44,1516235400.0,2018
+Atlanta Hawks,Atlanta Hawks,Chicago Bulls,13,32,45,1516485600.0,2018
+Atlanta Hawks,Atlanta Hawks,Utah Jazz,14,32,46,1516667400.0,2018
+Atlanta Hawks,Atlanta Hawks,Toronto Raptors,14,33,47,1516840200.0,2018
+Atlanta Hawks,Charlotte Hornets,Atlanta Hawks,14,34,48,1517011200.0,2018
+Atlanta Hawks,Atlanta Hawks,Washington Wizards,14,35,49,1517099400.0,2018
+Atlanta Hawks,Atlanta Hawks,Minnesota Timberwolves,15,35,50,1517272200.0,2018
+Atlanta Hawks,Atlanta Hawks,Charlotte Hornets,15,36,51,1517445000.0,2018
+Atlanta Hawks,Boston Celtics,Atlanta Hawks,15,37,52,1517617800.0,2018
+Atlanta Hawks,New York Knicks,Atlanta Hawks,16,37,53,1517763600.0,2018
+Atlanta Hawks,Atlanta Hawks,Memphis Grizzlies,17,37,54,1517963400.0,2018
+Atlanta Hawks,Orlando Magic,Atlanta Hawks,17,38,55,1518134400.0,2018
+Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,17,39,56,1518222600.0,2018
+Atlanta Hawks,Atlanta Hawks,Detroit Pistons,18,39,57,1518381000.0,2018
+Atlanta Hawks,Milwaukee Bucks,Atlanta Hawks,18,40,58,1518570000.0,2018
+Atlanta Hawks,Detroit Pistons,Atlanta Hawks,18,41,59,1518652800.0,2018
+Atlanta Hawks,Indiana Pacers,Atlanta Hawks,18,42,60,1519430400.0,2018
+Atlanta Hawks,Atlanta Hawks,Los Angeles Lakers,18,43,61,1519691400.0,2018
+Atlanta Hawks,Atlanta Hawks,Indiana Pacers,19,43,62,1519864200.0,2018
+Atlanta Hawks,Atlanta Hawks,Golden State Warriors,19,44,63,1520037000.0,2018
+Atlanta Hawks,Atlanta Hawks,Phoenix Suns,20,44,64,1520195400.0,2018
+Atlanta Hawks,Toronto Raptors,Atlanta Hawks,20,45,65,1520380800.0,2018
+Atlanta Hawks,Indiana Pacers,Atlanta Hawks,20,46,66,1520640000.0,2018
+Atlanta Hawks,Atlanta Hawks,Chicago Bulls,20,47,67,1520796600.0,2018
+Atlanta Hawks,Atlanta Hawks,Oklahoma City Thunder,20,48,68,1520983800.0,2018
+Atlanta Hawks,Atlanta Hawks,Charlotte Hornets,20,49,69,1521156600.0,2018
+Atlanta Hawks,Milwaukee Bucks,Atlanta Hawks,20,50,70,1521324000.0,2018
+Atlanta Hawks,Utah Jazz,Atlanta Hawks,21,50,71,1521594000.0,2018
+Atlanta Hawks,Sacramento Kings,Atlanta Hawks,21,51,72,1521770400.0,2018
+Atlanta Hawks,Golden State Warriors,Atlanta Hawks,21,52,73,1521858600.0,2018
+Atlanta Hawks,Houston Rockets,Atlanta Hawks,21,53,74,1522022400.0,2018
+Atlanta Hawks,Minnesota Timberwolves,Atlanta Hawks,21,54,75,1522281600.0,2018
+Atlanta Hawks,Atlanta Hawks,Philadelphia 76ers,21,55,76,1522452600.0,2018
+Atlanta Hawks,Atlanta Hawks,Orlando Magic,22,55,77,1522620000.0,2018
+Atlanta Hawks,Miami Heat,Atlanta Hawks,22,56,78,1522798200.0,2018
+Atlanta Hawks,Atlanta Hawks,Miami Heat,22,57,79,1522884600.0,2018
+Atlanta Hawks,Washington Wizards,Atlanta Hawks,23,57,80,1523055600.0,2018
+Atlanta Hawks,Boston Celtics,Atlanta Hawks,24,57,81,1523206800.0,2018
+Atlanta Hawks,Atlanta Hawks,Philadelphia 76ers,24,58,82,1523403000.0,2018
+Boston Celtics,Cleveland Cavaliers,Boston Celtics,0,1,1,1508284860.0,2018
+Boston Celtics,Boston Celtics,Milwaukee Bucks,0,2,2,1508369400.0,2018
+Boston Celtics,Philadelphia 76ers,Boston Celtics,1,2,3,1508540400.0,2018
+Boston Celtics,Boston Celtics,New York Knicks,2,2,4,1508887800.0,2018
+Boston Celtics,Milwaukee Bucks,Boston Celtics,3,2,5,1509062400.0,2018
+Boston Celtics,Miami Heat,Boston Celtics,4,2,6,1509235200.0,2018
+Boston Celtics,Boston Celtics,San Antonio Spurs,5,2,7,1509406200.0,2018
+Boston Celtics,Boston Celtics,Sacramento Kings,6,2,8,1509579000.0,2018
+Boston Celtics,Oklahoma City Thunder,Boston Celtics,7,2,9,1509759000.0,2018
+Boston Celtics,Orlando Magic,Boston Celtics,8,2,10,1509922800.0,2018
+Boston Celtics,Atlanta Hawks,Boston Celtics,9,2,11,1510014600.0,2018
+Boston Celtics,Boston Celtics,Los Angeles Lakers,10,2,12,1510189200.0,2018
+Boston Celtics,Boston Celtics,Charlotte Hornets,11,2,13,1510360200.0,2018
+Boston Celtics,Boston Celtics,Toronto Raptors,12,2,14,1510518600.0,2018
+Boston Celtics,Brooklyn Nets,Boston Celtics,13,2,15,1510705800.0,2018
+Boston Celtics,Boston Celtics,Golden State Warriors,14,2,16,1510880400.0,2018
+Boston Celtics,Atlanta Hawks,Boston Celtics,15,2,17,1511051400.0,2018
+Boston Celtics,Dallas Mavericks,Boston Celtics,16,2,18,1511227800.0,2018
+Boston Celtics,Miami Heat,Boston Celtics,16,3,19,1511397000.0,2018
+Boston Celtics,Boston Celtics,Orlando Magic,17,3,20,1511569800.0,2018
+Boston Celtics,Indiana Pacers,Boston Celtics,18,3,21,1511658000.0,2018
+Boston Celtics,Boston Celtics,Detroit Pistons,18,4,22,1511829000.0,2018
+Boston Celtics,Boston Celtics,Philadelphia 76ers,19,4,23,1512088200.0,2018
+Boston Celtics,Boston Celtics,Phoenix Suns,20,4,24,1512237600.0,2018
+Boston Celtics,Boston Celtics,Milwaukee Bucks,21,4,25,1512433800.0,2018
+Boston Celtics,Boston Celtics,Dallas Mavericks,22,4,26,1512606600.0,2018
+Boston Celtics,San Antonio Spurs,Boston Celtics,22,5,27,1512786600.0,2018
+Boston Celtics,Detroit Pistons,Boston Celtics,23,5,28,1512939600.0,2018
+Boston Celtics,Chicago Bulls,Boston Celtics,23,6,29,1513040400.0,2018
+Boston Celtics,Boston Celtics,Denver Nuggets,24,6,30,1513211400.0,2018
+Boston Celtics,Boston Celtics,Utah Jazz,24,7,31,1513384200.0,2018
+Boston Celtics,Memphis Grizzlies,Boston Celtics,25,7,32,1513476000.0,2018
+Boston Celtics,Indiana Pacers,Boston Celtics,26,7,33,1513641600.0,2018
+Boston Celtics,Boston Celtics,Miami Heat,26,8,34,1513816200.0,2018
+Boston Celtics,New York Knicks,Boston Celtics,26,9,35,1513904400.0,2018
+Boston Celtics,Boston Celtics,Chicago Bulls,27,9,36,1514075400.0,2018
+Boston Celtics,Boston Celtics,Washington Wizards,27,10,37,1514241000.0,2018
+Boston Celtics,Charlotte Hornets,Boston Celtics,28,10,38,1514419200.0,2018
+Boston Celtics,Boston Celtics,Houston Rockets,29,10,39,1514509200.0,2018
+Boston Celtics,Boston Celtics,Brooklyn Nets,30,10,40,1514759400.0,2018
+Boston Celtics,Boston Celtics,Cleveland Cavaliers,31,10,41,1515027600.0,2018
+Boston Celtics,Boston Celtics,Minnesota Timberwolves,32,10,42,1515196800.0,2018
+Boston Celtics,Brooklyn Nets,Boston Celtics,33,10,43,1515279600.0,2018
+Boston Celtics,Philadelphia 76ers,Boston Celtics,34,10,44,1515700800.0,2018
+Boston Celtics,Boston Celtics,New Orleans Pelicans,34,11,45,1516149000.0,2018
+Boston Celtics,Boston Celtics,Philadelphia 76ers,34,12,46,1516320000.0,2018
+Boston Celtics,Boston Celtics,Orlando Magic,34,13,47,1516557600.0,2018
+Boston Celtics,Los Angeles Lakers,Boston Celtics,34,14,48,1516764600.0,2018
+Boston Celtics,Los Angeles Clippers,Boston Celtics,35,14,49,1516851000.0,2018
+Boston Celtics,Golden State Warriors,Boston Celtics,35,15,50,1517103000.0,2018
+Boston Celtics,Denver Nuggets,Boston Celtics,36,15,51,1517277600.0,2018
+Boston Celtics,Boston Celtics,New York Knicks,37,15,52,1517446800.0,2018
+Boston Celtics,Boston Celtics,Atlanta Hawks,38,15,53,1517617800.0,2018
+Boston Celtics,Boston Celtics,Portland Trail Blazers,39,15,54,1517763600.0,2018
+Boston Celtics,Toronto Raptors,Boston Celtics,39,16,55,1517963400.0,2018
+Boston Celtics,Washington Wizards,Boston Celtics,40,16,56,1518138000.0,2018
+Boston Celtics,Boston Celtics,Indiana Pacers,40,17,57,1518222600.0,2018
+Boston Celtics,Boston Celtics,Cleveland Cavaliers,40,18,58,1518381000.0,2018
+Boston Celtics,Boston Celtics,Los Angeles Clippers,40,19,59,1518656400.0,2018
+Boston Celtics,Detroit Pistons,Boston Celtics,41,19,60,1519430400.0,2018
+Boston Celtics,New York Knicks,Boston Celtics,42,19,61,1519518600.0,2018
+Boston Celtics,Boston Celtics,Memphis Grizzlies,43,19,62,1519691400.0,2018
+Boston Celtics,Boston Celtics,Charlotte Hornets,44,19,63,1519864200.0,2018
+Boston Celtics,Houston Rockets,Boston Celtics,44,20,64,1520127000.0,2018
+Boston Celtics,Chicago Bulls,Boston Celtics,45,20,65,1520298000.0,2018
+Boston Celtics,Minnesota Timberwolves,Boston Celtics,46,20,66,1520557200.0,2018
+Boston Celtics,Boston Celtics,Indiana Pacers,46,21,67,1520811000.0,2018
+Boston Celtics,Boston Celtics,Washington Wizards,46,22,68,1521072000.0,2018
+Boston Celtics,Orlando Magic,Boston Celtics,47,22,69,1521241200.0,2018
+Boston Celtics,New Orleans Pelicans,Boston Celtics,47,23,70,1521410400.0,2018
+Boston Celtics,Boston Celtics,Oklahoma City Thunder,48,23,71,1521590400.0,2018
+Boston Celtics,Portland Trail Blazers,Boston Celtics,49,23,72,1521856800.0,2018
+Boston Celtics,Sacramento Kings,Boston Celtics,50,23,73,1522015200.0,2018
+Boston Celtics,Phoenix Suns,Boston Celtics,51,23,74,1522116000.0,2018
+Boston Celtics,Utah Jazz,Boston Celtics,52,23,75,1522287000.0,2018
+Boston Celtics,Boston Celtics,Toronto Raptors,53,23,76,1522539000.0,2018
+Boston Celtics,Milwaukee Bucks,Boston Celtics,53,24,77,1522800000.0,2018
+Boston Celtics,Toronto Raptors,Boston Celtics,53,25,78,1522886400.0,2018
+Boston Celtics,Boston Celtics,Chicago Bulls,54,25,79,1523057400.0,2018
+Boston Celtics,Boston Celtics,Atlanta Hawks,54,26,80,1523206800.0,2018
+Boston Celtics,Washington Wizards,Boston Celtics,54,27,81,1523404800.0,2018
+Boston Celtics,Boston Celtics,Brooklyn Nets,55,27,82,1523491200.0,2018
+Brooklyn Nets,Indiana Pacers,Brooklyn Nets,0,1,1,1508367600.0,2018
+Brooklyn Nets,Brooklyn Nets,Orlando Magic,1,1,2,1508542200.0,2018
+Brooklyn Nets,Brooklyn Nets,Atlanta Hawks,2,1,3,1508700600.0,2018
+Brooklyn Nets,Orlando Magic,Brooklyn Nets,2,2,4,1508886000.0,2018
+Brooklyn Nets,Brooklyn Nets,Cleveland Cavaliers,3,2,5,1508974200.0,2018
+Brooklyn Nets,New York Knicks,Brooklyn Nets,3,3,6,1509147000.0,2018
+Brooklyn Nets,Brooklyn Nets,Denver Nuggets,3,4,7,1509314400.0,2018
+Brooklyn Nets,Brooklyn Nets,Phoenix Suns,3,5,8,1509492600.0,2018
+Brooklyn Nets,Los Angeles Lakers,Brooklyn Nets,3,6,9,1509762600.0,2018
+Brooklyn Nets,Phoenix Suns,Brooklyn Nets,4,6,10,1510020000.0,2018
+Brooklyn Nets,Denver Nuggets,Brooklyn Nets,4,7,11,1510106400.0,2018
+Brooklyn Nets,Portland Trail Blazers,Brooklyn Nets,5,7,12,1510369200.0,2018
+Brooklyn Nets,Utah Jazz,Brooklyn Nets,5,8,13,1510452000.0,2018
+Brooklyn Nets,Brooklyn Nets,Boston Celtics,5,9,14,1510705800.0,2018
+Brooklyn Nets,Brooklyn Nets,Utah Jazz,6,9,15,1510965000.0,2018
+Brooklyn Nets,Brooklyn Nets,Golden State Warriors,6,10,16,1511132400.0,2018
+Brooklyn Nets,Cleveland Cavaliers,Brooklyn Nets,6,11,17,1511395200.0,2018
+Brooklyn Nets,Brooklyn Nets,Portland Trail Blazers,6,12,18,1511542800.0,2018
+Brooklyn Nets,Memphis Grizzlies,Brooklyn Nets,7,12,19,1511737200.0,2018
+Brooklyn Nets,Houston Rockets,Brooklyn Nets,7,13,20,1511830800.0,2018
+Brooklyn Nets,Dallas Mavericks,Brooklyn Nets,8,13,21,1512005400.0,2018
+Brooklyn Nets,Brooklyn Nets,Atlanta Hawks,8,14,22,1512244800.0,2018
+Brooklyn Nets,Atlanta Hawks,Brooklyn Nets,9,14,23,1512433800.0,2018
+Brooklyn Nets,Brooklyn Nets,Oklahoma City Thunder,10,14,24,1512702000.0,2018
+Brooklyn Nets,Brooklyn Nets,Miami Heat,10,15,25,1512860400.0,2018
+Brooklyn Nets,Brooklyn Nets,Washington Wizards,11,15,26,1513125000.0,2018
+Brooklyn Nets,Brooklyn Nets,New York Knicks,11,16,27,1513297800.0,2018
+Brooklyn Nets,Toronto Raptors,Brooklyn Nets,11,17,28,1513384200.0,2018
+Brooklyn Nets,Brooklyn Nets,Indiana Pacers,11,18,29,1513551600.0,2018
+Brooklyn Nets,Brooklyn Nets,Sacramento Kings,11,19,30,1513816200.0,2018
+Brooklyn Nets,Brooklyn Nets,Washington Wizards,12,19,31,1513989000.0,2018
+Brooklyn Nets,Indiana Pacers,Brooklyn Nets,12,20,32,1514073600.0,2018
+Brooklyn Nets,San Antonio Spurs,Brooklyn Nets,12,21,33,1514338200.0,2018
+Brooklyn Nets,New Orleans Pelicans,Brooklyn Nets,12,22,34,1514422800.0,2018
+Brooklyn Nets,Miami Heat,Brooklyn Nets,13,22,35,1514595600.0,2018
+Brooklyn Nets,Boston Celtics,Brooklyn Nets,13,23,36,1514759400.0,2018
+Brooklyn Nets,Brooklyn Nets,Orlando Magic,14,23,37,1514853000.0,2018
+Brooklyn Nets,Brooklyn Nets,Minnesota Timberwolves,15,23,38,1515025800.0,2018
+Brooklyn Nets,Brooklyn Nets,Boston Celtics,15,24,39,1515279600.0,2018
+Brooklyn Nets,Brooklyn Nets,Toronto Raptors,15,25,40,1515457800.0,2018
+Brooklyn Nets,Brooklyn Nets,Detroit Pistons,15,26,41,1515630600.0,2018
+Brooklyn Nets,Atlanta Hawks,Brooklyn Nets,16,26,42,1515803400.0,2018
+Brooklyn Nets,Washington Wizards,Brooklyn Nets,16,27,43,1515888000.0,2018
+Brooklyn Nets,Brooklyn Nets,New York Knicks,16,28,44,1516046400.0,2018
+Brooklyn Nets,Brooklyn Nets,San Antonio Spurs,16,29,45,1516235400.0,2018
+Brooklyn Nets,Brooklyn Nets,Miami Heat,17,29,46,1516408200.0,2018
+Brooklyn Nets,Detroit Pistons,Brooklyn Nets,18,29,47,1516568400.0,2018
+Brooklyn Nets,Oklahoma City Thunder,Brooklyn Nets,18,30,48,1516755600.0,2018
+Brooklyn Nets,Milwaukee Bucks,Brooklyn Nets,18,31,49,1517014800.0,2018
+Brooklyn Nets,Minnesota Timberwolves,Brooklyn Nets,18,32,50,1517104800.0,2018
+Brooklyn Nets,New York Knicks,Brooklyn Nets,18,33,51,1517358600.0,2018
+Brooklyn Nets,Brooklyn Nets,Philadelphia 76ers,19,33,52,1517445000.0,2018
+Brooklyn Nets,Brooklyn Nets,Los Angeles Lakers,19,34,53,1517617800.0,2018
+Brooklyn Nets,Brooklyn Nets,Milwaukee Bucks,19,35,54,1517763600.0,2018
+Brooklyn Nets,Brooklyn Nets,Houston Rockets,19,36,55,1517963400.0,2018
+Brooklyn Nets,Detroit Pistons,Brooklyn Nets,19,37,56,1518048000.0,2018
+Brooklyn Nets,Brooklyn Nets,New Orleans Pelicans,19,38,57,1518303600.0,2018
+Brooklyn Nets,Brooklyn Nets,Los Angeles Clippers,19,39,58,1518481800.0,2018
+Brooklyn Nets,Brooklyn Nets,Indiana Pacers,19,40,59,1518654600.0,2018
+Brooklyn Nets,Charlotte Hornets,Brooklyn Nets,19,41,60,1519344000.0,2018
+Brooklyn Nets,Brooklyn Nets,Chicago Bulls,20,41,61,1519691400.0,2018
+Brooklyn Nets,Cleveland Cavaliers,Brooklyn Nets,20,42,62,1519776000.0,2018
+Brooklyn Nets,Sacramento Kings,Brooklyn Nets,20,43,63,1519959600.0,2018
+Brooklyn Nets,Los Angeles Clippers,Brooklyn Nets,20,44,64,1520215200.0,2018
+Brooklyn Nets,Golden State Warriors,Brooklyn Nets,20,45,65,1520393400.0,2018
+Brooklyn Nets,Charlotte Hornets,Brooklyn Nets,21,45,66,1520553600.0,2018
+Brooklyn Nets,Brooklyn Nets,Philadelphia 76ers,21,46,67,1520811000.0,2018
+Brooklyn Nets,Brooklyn Nets,Toronto Raptors,21,47,68,1520983800.0,2018
+Brooklyn Nets,Philadelphia 76ers,Brooklyn Nets,21,48,69,1521241200.0,2018
+Brooklyn Nets,Brooklyn Nets,Dallas Mavericks,22,48,70,1521329400.0,2018
+Brooklyn Nets,Brooklyn Nets,Memphis Grizzlies,23,48,71,1521502200.0,2018
+Brooklyn Nets,Brooklyn Nets,Charlotte Hornets,23,49,72,1521675000.0,2018
+Brooklyn Nets,Toronto Raptors,Brooklyn Nets,23,50,73,1521847800.0,2018
+Brooklyn Nets,Brooklyn Nets,Cleveland Cavaliers,23,51,74,1521997200.0,2018
+Brooklyn Nets,Orlando Magic,Brooklyn Nets,24,51,75,1522278000.0,2018
+Brooklyn Nets,Miami Heat,Brooklyn Nets,25,51,76,1522540800.0,2018
+Brooklyn Nets,Brooklyn Nets,Detroit Pistons,25,52,77,1522620000.0,2018
+Brooklyn Nets,Philadelphia 76ers,Brooklyn Nets,25,53,78,1522796400.0,2018
+Brooklyn Nets,Milwaukee Bucks,Brooklyn Nets,26,53,79,1522972800.0,2018
+Brooklyn Nets,Chicago Bulls,Brooklyn Nets,27,53,80,1523145600.0,2018
+Brooklyn Nets,Brooklyn Nets,Chicago Bulls,28,53,81,1523316600.0,2018
+Brooklyn Nets,Boston Celtics,Brooklyn Nets,28,54,82,1523491200.0,2018
+Charlotte Hornets,Detroit Pistons,Charlotte Hornets,0,1,1,1508367600.0,2018
+Charlotte Hornets,Charlotte Hornets,Atlanta Hawks,1,1,2,1508540400.0,2018
+Charlotte Hornets,Milwaukee Bucks,Charlotte Hornets,1,2,3,1508803200.0,2018
+Charlotte Hornets,Charlotte Hornets,Denver Nuggets,2,2,4,1508972400.0,2018
+Charlotte Hornets,Charlotte Hornets,Houston Rockets,2,3,5,1509145200.0,2018
+Charlotte Hornets,Charlotte Hornets,Orlando Magic,3,3,6,1509314400.0,2018
+Charlotte Hornets,Memphis Grizzlies,Charlotte Hornets,4,3,7,1509408000.0,2018
+Charlotte Hornets,Charlotte Hornets,Milwaukee Bucks,5,3,8,1509577200.0,2018
+Charlotte Hornets,San Antonio Spurs,Charlotte Hornets,5,4,9,1509755400.0,2018
+Charlotte Hornets,Minnesota Timberwolves,Charlotte Hornets,5,5,10,1509930000.0,2018
+Charlotte Hornets,New York Knicks,Charlotte Hornets,5,6,11,1510101000.0,2018
+Charlotte Hornets,Boston Celtics,Charlotte Hornets,5,7,12,1510360200.0,2018
+Charlotte Hornets,Charlotte Hornets,Cleveland Cavaliers,5,8,13,1510794000.0,2018
+Charlotte Hornets,Chicago Bulls,Charlotte Hornets,5,9,14,1510966800.0,2018
+Charlotte Hornets,Charlotte Hornets,Los Angeles Clippers,6,9,15,1511049600.0,2018
+Charlotte Hornets,Charlotte Hornets,Minnesota Timberwolves,7,9,16,1511222400.0,2018
+Charlotte Hornets,Charlotte Hornets,Washington Wizards,8,9,17,1511395200.0,2018
+Charlotte Hornets,Cleveland Cavaliers,Charlotte Hornets,8,10,18,1511571600.0,2018
+Charlotte Hornets,Charlotte Hornets,San Antonio Spurs,8,11,19,1511654400.0,2018
+Charlotte Hornets,Toronto Raptors,Charlotte Hornets,8,12,20,1512001800.0,2018
+Charlotte Hornets,Miami Heat,Charlotte Hornets,8,13,21,1512176400.0,2018
+Charlotte Hornets,Charlotte Hornets,Orlando Magic,9,13,22,1512432000.0,2018
+Charlotte Hornets,Charlotte Hornets,Golden State Warriors,9,14,23,1512608400.0,2018
+Charlotte Hornets,Charlotte Hornets,Chicago Bulls,9,15,24,1512777600.0,2018
+Charlotte Hornets,Charlotte Hornets,Los Angeles Lakers,9,16,25,1512864000.0,2018
+Charlotte Hornets,Oklahoma City Thunder,Charlotte Hornets,10,16,26,1513040400.0,2018
+Charlotte Hornets,Houston Rockets,Charlotte Hornets,10,17,27,1513218600.0,2018
+Charlotte Hornets,Charlotte Hornets,Miami Heat,10,18,28,1513382400.0,2018
+Charlotte Hornets,Charlotte Hornets,Portland Trail Blazers,10,19,29,1513468800.0,2018
+Charlotte Hornets,Charlotte Hornets,New York Knicks,11,19,30,1513641600.0,2018
+Charlotte Hornets,Charlotte Hornets,Toronto Raptors,11,20,31,1513814400.0,2018
+Charlotte Hornets,Milwaukee Bucks,Charlotte Hornets,11,21,32,1513990800.0,2018
+Charlotte Hornets,Charlotte Hornets,Milwaukee Bucks,12,21,33,1514073600.0,2018
+Charlotte Hornets,Charlotte Hornets,Boston Celtics,12,22,34,1514419200.0,2018
+Charlotte Hornets,Golden State Warriors,Charlotte Hornets,13,22,35,1514604600.0,2018
+Charlotte Hornets,Los Angeles Clippers,Charlotte Hornets,13,23,36,1514764800.0,2018
+Charlotte Hornets,Sacramento Kings,Charlotte Hornets,14,23,37,1514948400.0,2018
+Charlotte Hornets,Los Angeles Lakers,Charlotte Hornets,15,23,38,1515209400.0,2018
+Charlotte Hornets,Charlotte Hornets,Dallas Mavericks,15,24,39,1515628800.0,2018
+Charlotte Hornets,Charlotte Hornets,Utah Jazz,16,24,40,1515801600.0,2018
+Charlotte Hornets,Charlotte Hornets,Oklahoma City Thunder,16,25,41,1515880800.0,2018
+Charlotte Hornets,Detroit Pistons,Charlotte Hornets,17,25,42,1516037400.0,2018
+Charlotte Hornets,Charlotte Hornets,Washington Wizards,18,25,43,1516233600.0,2018
+Charlotte Hornets,Charlotte Hornets,Miami Heat,18,26,44,1516492800.0,2018
+Charlotte Hornets,Charlotte Hornets,Sacramento Kings,19,26,45,1516665600.0,2018
+Charlotte Hornets,Charlotte Hornets,New Orleans Pelicans,19,27,46,1516838400.0,2018
+Charlotte Hornets,Charlotte Hornets,Atlanta Hawks,20,27,47,1517011200.0,2018
+Charlotte Hornets,Miami Heat,Charlotte Hornets,20,28,48,1517099400.0,2018
+Charlotte Hornets,Indiana Pacers,Charlotte Hornets,20,29,49,1517270400.0,2018
+Charlotte Hornets,Atlanta Hawks,Charlotte Hornets,21,29,50,1517445000.0,2018
+Charlotte Hornets,Charlotte Hornets,Indiana Pacers,22,29,51,1517616000.0,2018
+Charlotte Hornets,Phoenix Suns,Charlotte Hornets,23,29,52,1517774400.0,2018
+Charlotte Hornets,Denver Nuggets,Charlotte Hornets,23,30,53,1517882400.0,2018
+Charlotte Hornets,Portland Trail Blazers,Charlotte Hornets,23,31,54,1518145200.0,2018
+Charlotte Hornets,Utah Jazz,Charlotte Hornets,23,32,55,1518228000.0,2018
+Charlotte Hornets,Charlotte Hornets,Toronto Raptors,23,33,56,1518372000.0,2018
+Charlotte Hornets,Orlando Magic,Charlotte Hornets,24,33,57,1518652800.0,2018
+Charlotte Hornets,Charlotte Hornets,Brooklyn Nets,25,33,58,1519344000.0,2018
+Charlotte Hornets,Washington Wizards,Charlotte Hornets,26,33,59,1519430400.0,2018
+Charlotte Hornets,Charlotte Hornets,Detroit Pistons,27,33,60,1519581600.0,2018
+Charlotte Hornets,Charlotte Hornets,Chicago Bulls,28,33,61,1519776000.0,2018
+Charlotte Hornets,Boston Celtics,Charlotte Hornets,28,34,62,1519864200.0,2018
+Charlotte Hornets,Philadelphia 76ers,Charlotte Hornets,28,35,63,1520035200.0,2018
+Charlotte Hornets,Toronto Raptors,Charlotte Hornets,28,36,64,1520204400.0,2018
+Charlotte Hornets,Charlotte Hornets,Philadelphia 76ers,28,37,65,1520380800.0,2018
+Charlotte Hornets,Charlotte Hornets,Brooklyn Nets,28,38,66,1520553600.0,2018
+Charlotte Hornets,Charlotte Hornets,Phoenix Suns,29,38,67,1520719200.0,2018
+Charlotte Hornets,New Orleans Pelicans,Charlotte Hornets,29,39,68,1520985600.0,2018
+Charlotte Hornets,Atlanta Hawks,Charlotte Hornets,30,39,69,1521156600.0,2018
+Charlotte Hornets,New York Knicks,Charlotte Hornets,30,40,70,1521329400.0,2018
+Charlotte Hornets,Philadelphia 76ers,Charlotte Hornets,30,41,71,1521500400.0,2018
+Charlotte Hornets,Brooklyn Nets,Charlotte Hornets,31,41,72,1521675000.0,2018
+Charlotte Hornets,Charlotte Hornets,Memphis Grizzlies,32,41,73,1521759600.0,2018
+Charlotte Hornets,Dallas Mavericks,Charlotte Hornets,33,41,74,1521937800.0,2018
+Charlotte Hornets,Charlotte Hornets,New York Knicks,34,41,75,1522105200.0,2018
+Charlotte Hornets,Charlotte Hornets,Cleveland Cavaliers,34,42,76,1522278000.0,2018
+Charlotte Hornets,Washington Wizards,Charlotte Hornets,34,43,77,1522522800.0,2018
+Charlotte Hornets,Charlotte Hornets,Philadelphia 76ers,34,44,78,1522602000.0,2018
+Charlotte Hornets,Chicago Bulls,Charlotte Hornets,34,45,79,1522800000.0,2018
+Charlotte Hornets,Orlando Magic,Charlotte Hornets,35,45,80,1523055600.0,2018
+Charlotte Hornets,Charlotte Hornets,Indiana Pacers,35,46,81,1523206800.0,2018
+Charlotte Hornets,Indiana Pacers,Charlotte Hornets,36,46,82,1523401200.0,2018
+Chicago Bulls,Toronto Raptors,Chicago Bulls,0,1,1,1508455800.0,2018
+Chicago Bulls,Chicago Bulls,San Antonio Spurs,0,2,2,1508630400.0,2018
+Chicago Bulls,Cleveland Cavaliers,Chicago Bulls,0,3,3,1508886000.0,2018
+Chicago Bulls,Chicago Bulls,Atlanta Hawks,1,3,4,1509062400.0,2018
+Chicago Bulls,Chicago Bulls,Oklahoma City Thunder,1,4,5,1509235200.0,2018
+Chicago Bulls,Miami Heat,Chicago Bulls,1,5,6,1509579000.0,2018
+Chicago Bulls,Orlando Magic,Chicago Bulls,2,5,7,1509750000.0,2018
+Chicago Bulls,Chicago Bulls,New Orleans Pelicans,2,6,8,1509840000.0,2018
+Chicago Bulls,Toronto Raptors,Chicago Bulls,2,7,9,1510101000.0,2018
+Chicago Bulls,Chicago Bulls,Indiana Pacers,2,8,10,1510362000.0,2018
+Chicago Bulls,San Antonio Spurs,Chicago Bulls,2,9,11,1510450200.0,2018
+Chicago Bulls,Oklahoma City Thunder,Chicago Bulls,2,10,12,1510794000.0,2018
+Chicago Bulls,Chicago Bulls,Charlotte Hornets,3,10,13,1510966800.0,2018
+Chicago Bulls,Phoenix Suns,Chicago Bulls,3,11,14,1511139600.0,2018
+Chicago Bulls,Los Angeles Lakers,Chicago Bulls,3,12,15,1511321400.0,2018
+Chicago Bulls,Utah Jazz,Chicago Bulls,3,13,16,1511402400.0,2018
+Chicago Bulls,Golden State Warriors,Chicago Bulls,3,14,17,1511580600.0,2018
+Chicago Bulls,Chicago Bulls,Miami Heat,3,15,18,1511728200.0,2018
+Chicago Bulls,Chicago Bulls,Phoenix Suns,3,16,19,1511917200.0,2018
+Chicago Bulls,Denver Nuggets,Chicago Bulls,3,17,20,1512093600.0,2018
+Chicago Bulls,Chicago Bulls,Sacramento Kings,3,18,21,1512176400.0,2018
+Chicago Bulls,Chicago Bulls,Cleveland Cavaliers,3,19,22,1512435600.0,2018
+Chicago Bulls,Indiana Pacers,Chicago Bulls,3,20,23,1512604800.0,2018
+Chicago Bulls,Charlotte Hornets,Chicago Bulls,4,20,24,1512777600.0,2018
+Chicago Bulls,Chicago Bulls,New York Knicks,5,20,25,1512867600.0,2018
+Chicago Bulls,Chicago Bulls,Boston Celtics,6,20,26,1513040400.0,2018
+Chicago Bulls,Chicago Bulls,Utah Jazz,7,20,27,1513213200.0,2018
+Chicago Bulls,Milwaukee Bucks,Chicago Bulls,8,20,28,1513386000.0,2018
+Chicago Bulls,Chicago Bulls,Philadelphia 76ers,9,20,29,1513645200.0,2018
+Chicago Bulls,Chicago Bulls,Orlando Magic,10,20,30,1513818000.0,2018
+Chicago Bulls,Cleveland Cavaliers,Chicago Bulls,10,21,31,1513900800.0,2018
+Chicago Bulls,Boston Celtics,Chicago Bulls,10,22,32,1514075400.0,2018
+Chicago Bulls,Milwaukee Bucks,Chicago Bulls,11,22,33,1514336400.0,2018
+Chicago Bulls,Chicago Bulls,New York Knicks,12,22,34,1514422800.0,2018
+Chicago Bulls,Chicago Bulls,Indiana Pacers,13,22,35,1514595600.0,2018
+Chicago Bulls,Washington Wizards,Chicago Bulls,13,23,36,1514752200.0,2018
+Chicago Bulls,Chicago Bulls,Portland Trail Blazers,13,24,37,1514854800.0,2018
+Chicago Bulls,Chicago Bulls,Toronto Raptors,13,25,38,1515027600.0,2018
+Chicago Bulls,Dallas Mavericks,Chicago Bulls,14,25,39,1515202200.0,2018
+Chicago Bulls,Indiana Pacers,Chicago Bulls,14,26,40,1515283200.0,2018
+Chicago Bulls,Chicago Bulls,Houston Rockets,14,27,41,1515459600.0,2018
+Chicago Bulls,New York Knicks,Chicago Bulls,15,27,42,1515630600.0,2018
+Chicago Bulls,Chicago Bulls,Detroit Pistons,16,27,43,1515891600.0,2018
+Chicago Bulls,Chicago Bulls,Miami Heat,17,27,44,1516048200.0,2018
+Chicago Bulls,Chicago Bulls,Golden State Warriors,17,28,45,1516237200.0,2018
+Chicago Bulls,Atlanta Hawks,Chicago Bulls,18,28,46,1516485600.0,2018
+Chicago Bulls,New Orleans Pelicans,Chicago Bulls,18,29,47,1516669200.0,2018
+Chicago Bulls,Philadelphia 76ers,Chicago Bulls,18,30,48,1516838400.0,2018
+Chicago Bulls,Chicago Bulls,Los Angeles Lakers,18,31,49,1517014800.0,2018
+Chicago Bulls,Chicago Bulls,Milwaukee Bucks,18,32,50,1517171400.0,2018
+Chicago Bulls,Portland Trail Blazers,Chicago Bulls,18,33,51,1517454000.0,2018
+Chicago Bulls,Los Angeles Clippers,Chicago Bulls,18,34,52,1517689800.0,2018
+Chicago Bulls,Sacramento Kings,Chicago Bulls,18,35,53,1517886000.0,2018
+Chicago Bulls,Chicago Bulls,Minnesota Timberwolves,19,35,54,1518229800.0,2018
+Chicago Bulls,Chicago Bulls,Washington Wizards,19,36,55,1518310800.0,2018
+Chicago Bulls,Chicago Bulls,Orlando Magic,20,36,56,1518483600.0,2018
+Chicago Bulls,Chicago Bulls,Toronto Raptors,20,37,57,1518656400.0,2018
+Chicago Bulls,Chicago Bulls,Philadelphia 76ers,20,38,58,1519347600.0,2018
+Chicago Bulls,Minnesota Timberwolves,Chicago Bulls,20,39,59,1519524000.0,2018
+Chicago Bulls,Brooklyn Nets,Chicago Bulls,20,40,60,1519691400.0,2018
+Chicago Bulls,Charlotte Hornets,Chicago Bulls,20,41,61,1519776000.0,2018
+Chicago Bulls,Chicago Bulls,Dallas Mavericks,21,41,62,1520038800.0,2018
+Chicago Bulls,Chicago Bulls,Boston Celtics,21,42,63,1520298000.0,2018
+Chicago Bulls,Chicago Bulls,Memphis Grizzlies,22,42,64,1520470800.0,2018
+Chicago Bulls,Detroit Pistons,Chicago Bulls,22,43,65,1520640000.0,2018
+Chicago Bulls,Atlanta Hawks,Chicago Bulls,23,43,66,1520796600.0,2018
+Chicago Bulls,Chicago Bulls,Los Angeles Clippers,23,44,67,1520985600.0,2018
+Chicago Bulls,Memphis Grizzlies,Chicago Bulls,24,44,68,1521158400.0,2018
+Chicago Bulls,Chicago Bulls,Cleveland Cavaliers,24,45,69,1521331200.0,2018
+Chicago Bulls,New York Knicks,Chicago Bulls,24,46,70,1521502200.0,2018
+Chicago Bulls,Chicago Bulls,Denver Nuggets,24,47,71,1521676800.0,2018
+Chicago Bulls,Chicago Bulls,Milwaukee Bucks,24,48,72,1521849600.0,2018
+Chicago Bulls,Detroit Pistons,Chicago Bulls,24,49,73,1521932400.0,2018
+Chicago Bulls,Houston Rockets,Chicago Bulls,24,50,74,1522195200.0,2018
+Chicago Bulls,Miami Heat,Chicago Bulls,24,51,75,1522366200.0,2018
+Chicago Bulls,Orlando Magic,Chicago Bulls,25,51,76,1522450800.0,2018
+Chicago Bulls,Chicago Bulls,Washington Wizards,26,51,77,1522611000.0,2018
+Chicago Bulls,Chicago Bulls,Charlotte Hornets,27,51,78,1522800000.0,2018
+Chicago Bulls,Boston Celtics,Chicago Bulls,27,52,79,1523057400.0,2018
+Chicago Bulls,Chicago Bulls,Brooklyn Nets,27,53,80,1523145600.0,2018
+Chicago Bulls,Brooklyn Nets,Chicago Bulls,27,54,81,1523316600.0,2018
+Chicago Bulls,Chicago Bulls,Detroit Pistons,27,55,82,1523491200.0,2018
+Cleveland Cavaliers,Cleveland Cavaliers,Boston Celtics,1,0,1,1508284860.0,2018
+Cleveland Cavaliers,Milwaukee Bucks,Cleveland Cavaliers,2,0,2,1508540400.0,2018
+Cleveland Cavaliers,Cleveland Cavaliers,Orlando Magic,2,1,3,1508630400.0,2018
+Cleveland Cavaliers,Cleveland Cavaliers,Chicago Bulls,3,1,4,1508886000.0,2018
+Cleveland Cavaliers,Brooklyn Nets,Cleveland Cavaliers,3,2,5,1508974200.0,2018
+Cleveland Cavaliers,New Orleans Pelicans,Cleveland Cavaliers,3,3,6,1509231600.0,2018
+Cleveland Cavaliers,Cleveland Cavaliers,New York Knicks,3,4,7,1509318000.0,2018
+Cleveland Cavaliers,Cleveland Cavaliers,Indiana Pacers,3,5,8,1509577200.0,2018
+Cleveland Cavaliers,Washington Wizards,Cleveland Cavaliers,4,5,9,1509750000.0,2018
+Cleveland Cavaliers,Cleveland Cavaliers,Atlanta Hawks,4,6,10,1509912000.0,2018
+Cleveland Cavaliers,Cleveland Cavaliers,Milwaukee Bucks,5,6,11,1510099200.0,2018
+Cleveland Cavaliers,Houston Rockets,Cleveland Cavaliers,5,7,12,1510275600.0,2018
+Cleveland Cavaliers,Dallas Mavericks,Cleveland Cavaliers,6,7,13,1510450200.0,2018
+Cleveland Cavaliers,New York Knicks,Cleveland Cavaliers,7,7,14,1510619400.0,2018
+Cleveland Cavaliers,Charlotte Hornets,Cleveland Cavaliers,8,7,15,1510794000.0,2018
+Cleveland Cavaliers,Cleveland Cavaliers,Los Angeles Clippers,9,7,16,1510965000.0,2018
+Cleveland Cavaliers,Detroit Pistons,Cleveland Cavaliers,10,7,17,1511222400.0,2018
+Cleveland Cavaliers,Cleveland Cavaliers,Brooklyn Nets,11,7,18,1511395200.0,2018
+Cleveland Cavaliers,Cleveland Cavaliers,Charlotte Hornets,12,7,19,1511571600.0,2018
+Cleveland Cavaliers,Philadelphia 76ers,Cleveland Cavaliers,13,7,20,1511827200.0,2018
+Cleveland Cavaliers,Cleveland Cavaliers,Miami Heat,14,7,21,1511913600.0,2018
+Cleveland Cavaliers,Atlanta Hawks,Cleveland Cavaliers,15,7,22,1512088200.0,2018
+Cleveland Cavaliers,Cleveland Cavaliers,Memphis Grizzlies,16,7,23,1512261000.0,2018
+Cleveland Cavaliers,Chicago Bulls,Cleveland Cavaliers,17,7,24,1512435600.0,2018
+Cleveland Cavaliers,Cleveland Cavaliers,Sacramento Kings,18,7,25,1512604800.0,2018
+Cleveland Cavaliers,Indiana Pacers,Cleveland Cavaliers,18,8,26,1512777600.0,2018
+Cleveland Cavaliers,Cleveland Cavaliers,Philadelphia 76ers,19,8,27,1512867600.0,2018
+Cleveland Cavaliers,Cleveland Cavaliers,Atlanta Hawks,20,8,28,1513123200.0,2018
+Cleveland Cavaliers,Cleveland Cavaliers,Los Angeles Lakers,21,8,29,1513299600.0,2018
+Cleveland Cavaliers,Cleveland Cavaliers,Utah Jazz,22,8,30,1513470600.0,2018
+Cleveland Cavaliers,Washington Wizards,Cleveland Cavaliers,23,8,31,1513551600.0,2018
+Cleveland Cavaliers,Milwaukee Bucks,Cleveland Cavaliers,23,9,32,1513731600.0,2018
+Cleveland Cavaliers,Cleveland Cavaliers,Chicago Bulls,24,9,33,1513900800.0,2018
+Cleveland Cavaliers,Golden State Warriors,Cleveland Cavaliers,24,10,34,1514232000.0,2018
+Cleveland Cavaliers,Sacramento Kings,Cleveland Cavaliers,24,11,35,1514430000.0,2018
+Cleveland Cavaliers,Utah Jazz,Cleveland Cavaliers,24,12,36,1514682000.0,2018
+Cleveland Cavaliers,Cleveland Cavaliers,Portland Trail Blazers,25,12,37,1514937600.0,2018
+Cleveland Cavaliers,Boston Celtics,Cleveland Cavaliers,25,13,38,1515027600.0,2018
+Cleveland Cavaliers,Orlando Magic,Cleveland Cavaliers,26,13,39,1515283200.0,2018
+Cleveland Cavaliers,Minnesota Timberwolves,Cleveland Cavaliers,26,14,40,1515459600.0,2018
+Cleveland Cavaliers,Toronto Raptors,Cleveland Cavaliers,26,15,41,1515718800.0,2018
+Cleveland Cavaliers,Indiana Pacers,Cleveland Cavaliers,26,16,42,1515801600.0,2018
+Cleveland Cavaliers,Cleveland Cavaliers,Golden State Warriors,26,17,43,1516064400.0,2018
+Cleveland Cavaliers,Cleveland Cavaliers,Orlando Magic,27,17,44,1516320000.0,2018
+Cleveland Cavaliers,Cleveland Cavaliers,Oklahoma City Thunder,27,18,45,1516480200.0,2018
+Cleveland Cavaliers,San Antonio Spurs,Cleveland Cavaliers,27,19,46,1516755600.0,2018
+Cleveland Cavaliers,Cleveland Cavaliers,Indiana Pacers,28,19,47,1517013000.0,2018
+Cleveland Cavaliers,Cleveland Cavaliers,Detroit Pistons,29,19,48,1517180400.0,2018
+Cleveland Cavaliers,Detroit Pistons,Cleveland Cavaliers,29,20,49,1517360400.0,2018
+Cleveland Cavaliers,Cleveland Cavaliers,Miami Heat,30,20,50,1517445000.0,2018
+Cleveland Cavaliers,Cleveland Cavaliers,Houston Rockets,30,21,51,1517707800.0,2018
+Cleveland Cavaliers,Orlando Magic,Cleveland Cavaliers,30,22,52,1517961600.0,2018
+Cleveland Cavaliers,Cleveland Cavaliers,Minnesota Timberwolves,31,22,53,1518051600.0,2018
+Cleveland Cavaliers,Atlanta Hawks,Cleveland Cavaliers,32,22,54,1518222600.0,2018
+Cleveland Cavaliers,Boston Celtics,Cleveland Cavaliers,33,22,55,1518381000.0,2018
+Cleveland Cavaliers,Oklahoma City Thunder,Cleveland Cavaliers,34,22,56,1518570000.0,2018
+Cleveland Cavaliers,Cleveland Cavaliers,Washington Wizards,34,23,57,1519347600.0,2018
+Cleveland Cavaliers,Memphis Grizzlies,Cleveland Cavaliers,35,23,58,1519434000.0,2018
+Cleveland Cavaliers,Cleveland Cavaliers,San Antonio Spurs,35,24,59,1519590600.0,2018
+Cleveland Cavaliers,Cleveland Cavaliers,Brooklyn Nets,36,24,60,1519776000.0,2018
+Cleveland Cavaliers,Cleveland Cavaliers,Philadelphia 76ers,36,25,61,1519952400.0,2018
+Cleveland Cavaliers,Cleveland Cavaliers,Denver Nuggets,36,26,62,1520123400.0,2018
+Cleveland Cavaliers,Cleveland Cavaliers,Detroit Pistons,37,26,63,1520294400.0,2018
+Cleveland Cavaliers,Denver Nuggets,Cleveland Cavaliers,38,26,64,1520479800.0,2018
+Cleveland Cavaliers,Los Angeles Clippers,Cleveland Cavaliers,38,27,65,1520652600.0,2018
+Cleveland Cavaliers,Los Angeles Lakers,Cleveland Cavaliers,38,28,66,1520816400.0,2018
+Cleveland Cavaliers,Phoenix Suns,Cleveland Cavaliers,39,28,67,1520992800.0,2018
+Cleveland Cavaliers,Portland Trail Blazers,Cleveland Cavaliers,39,29,68,1521165600.0,2018
+Cleveland Cavaliers,Chicago Bulls,Cleveland Cavaliers,40,29,69,1521331200.0,2018
+Cleveland Cavaliers,Cleveland Cavaliers,Milwaukee Bucks,41,29,70,1521500400.0,2018
+Cleveland Cavaliers,Cleveland Cavaliers,Toronto Raptors,42,29,71,1521673200.0,2018
+Cleveland Cavaliers,Cleveland Cavaliers,Phoenix Suns,43,29,72,1521847800.0,2018
+Cleveland Cavaliers,Brooklyn Nets,Cleveland Cavaliers,44,29,73,1521997200.0,2018
+Cleveland Cavaliers,Miami Heat,Cleveland Cavaliers,44,30,74,1522195200.0,2018
+Cleveland Cavaliers,Charlotte Hornets,Cleveland Cavaliers,45,30,75,1522278000.0,2018
+Cleveland Cavaliers,Cleveland Cavaliers,New Orleans Pelicans,46,30,76,1522454400.0,2018
+Cleveland Cavaliers,Cleveland Cavaliers,Dallas Mavericks,47,30,77,1522620000.0,2018
+Cleveland Cavaliers,Cleveland Cavaliers,Toronto Raptors,48,30,78,1522796400.0,2018
+Cleveland Cavaliers,Cleveland Cavaliers,Washington Wizards,49,30,79,1522972800.0,2018
+Cleveland Cavaliers,Philadelphia 76ers,Cleveland Cavaliers,49,31,80,1523055600.0,2018
+Cleveland Cavaliers,New York Knicks,Cleveland Cavaliers,50,31,81,1523316600.0,2018
+Cleveland Cavaliers,Cleveland Cavaliers,New York Knicks,50,32,82,1523491200.0,2018
+Dallas Mavericks,Dallas Mavericks,Atlanta Hawks,0,1,1,1508373000.0,2018
+Dallas Mavericks,Dallas Mavericks,Sacramento Kings,0,2,2,1508545800.0,2018
+Dallas Mavericks,Houston Rockets,Dallas Mavericks,0,3,3,1508630400.0,2018
+Dallas Mavericks,Dallas Mavericks,Golden State Warriors,0,4,4,1508805000.0,2018
+Dallas Mavericks,Dallas Mavericks,Memphis Grizzlies,1,4,5,1508977800.0,2018
+Dallas Mavericks,Memphis Grizzlies,Dallas Mavericks,1,5,6,1509062400.0,2018
+Dallas Mavericks,Dallas Mavericks,Philadelphia 76ers,1,6,7,1509237000.0,2018
+Dallas Mavericks,Utah Jazz,Dallas Mavericks,1,7,8,1509411600.0,2018
+Dallas Mavericks,Los Angeles Clippers,Dallas Mavericks,1,8,9,1509589800.0,2018
+Dallas Mavericks,Dallas Mavericks,New Orleans Pelicans,1,9,10,1509755400.0,2018
+Dallas Mavericks,Minnesota Timberwolves,Dallas Mavericks,1,10,11,1509840000.0,2018
+Dallas Mavericks,Washington Wizards,Dallas Mavericks,2,10,12,1510099200.0,2018
+Dallas Mavericks,Dallas Mavericks,Cleveland Cavaliers,2,11,13,1510450200.0,2018
+Dallas Mavericks,Oklahoma City Thunder,Dallas Mavericks,2,12,14,1510531200.0,2018
+Dallas Mavericks,Dallas Mavericks,San Antonio Spurs,2,13,15,1510709400.0,2018
+Dallas Mavericks,Dallas Mavericks,Minnesota Timberwolves,2,14,16,1510968600.0,2018
+Dallas Mavericks,Dallas Mavericks,Milwaukee Bucks,3,14,17,1511056800.0,2018
+Dallas Mavericks,Dallas Mavericks,Boston Celtics,3,15,18,1511227800.0,2018
+Dallas Mavericks,Memphis Grizzlies,Dallas Mavericks,4,15,19,1511398800.0,2018
+Dallas Mavericks,Dallas Mavericks,Oklahoma City Thunder,5,15,20,1511659800.0,2018
+Dallas Mavericks,San Antonio Spurs,Dallas Mavericks,5,16,21,1511832600.0,2018
+Dallas Mavericks,Dallas Mavericks,Brooklyn Nets,5,17,22,1512005400.0,2018
+Dallas Mavericks,Dallas Mavericks,Los Angeles Clippers,6,17,23,1512241200.0,2018
+Dallas Mavericks,Dallas Mavericks,Denver Nuggets,7,17,24,1512437400.0,2018
+Dallas Mavericks,Boston Celtics,Dallas Mavericks,7,18,25,1512606600.0,2018
+Dallas Mavericks,Milwaukee Bucks,Dallas Mavericks,7,19,26,1512781200.0,2018
+Dallas Mavericks,Minnesota Timberwolves,Dallas Mavericks,7,20,27,1512950400.0,2018
+Dallas Mavericks,Dallas Mavericks,San Antonio Spurs,8,20,28,1513128600.0,2018
+Dallas Mavericks,Golden State Warriors,Dallas Mavericks,8,21,29,1513308600.0,2018
+Dallas Mavericks,San Antonio Spurs,Dallas Mavericks,8,22,30,1513474200.0,2018
+Dallas Mavericks,Dallas Mavericks,Phoenix Suns,8,23,31,1513647000.0,2018
+Dallas Mavericks,Dallas Mavericks,Detroit Pistons,9,23,32,1513819800.0,2018
+Dallas Mavericks,Miami Heat,Dallas Mavericks,9,24,33,1513990800.0,2018
+Dallas Mavericks,Atlanta Hawks,Dallas Mavericks,9,25,34,1514075400.0,2018
+Dallas Mavericks,Dallas Mavericks,Toronto Raptors,10,25,35,1514332800.0,2018
+Dallas Mavericks,Indiana Pacers,Dallas Mavericks,11,25,36,1514419200.0,2018
+Dallas Mavericks,New Orleans Pelicans,Dallas Mavericks,12,25,37,1514595600.0,2018
+Dallas Mavericks,Oklahoma City Thunder,Dallas Mavericks,13,25,38,1514764800.0,2018
+Dallas Mavericks,Dallas Mavericks,Golden State Warriors,13,26,39,1515029400.0,2018
+Dallas Mavericks,Dallas Mavericks,Chicago Bulls,13,27,40,1515202200.0,2018
+Dallas Mavericks,Dallas Mavericks,New York Knicks,13,28,41,1515369600.0,2018
+Dallas Mavericks,Dallas Mavericks,Orlando Magic,14,28,42,1515547800.0,2018
+Dallas Mavericks,Charlotte Hornets,Dallas Mavericks,15,28,43,1515628800.0,2018
+Dallas Mavericks,Dallas Mavericks,Los Angeles Lakers,15,29,44,1515870000.0,2018
+Dallas Mavericks,Denver Nuggets,Dallas Mavericks,15,30,45,1516154400.0,2018
+Dallas Mavericks,Portland Trail Blazers,Dallas Mavericks,15,31,46,1516503600.0,2018
+Dallas Mavericks,Dallas Mavericks,Washington Wizards,16,31,47,1516671000.0,2018
+Dallas Mavericks,Dallas Mavericks,Houston Rockets,16,32,48,1516842000.0,2018
+Dallas Mavericks,Dallas Mavericks,Portland Trail Blazers,16,33,49,1517016600.0,2018
+Dallas Mavericks,Denver Nuggets,Dallas Mavericks,16,34,50,1517104800.0,2018
+Dallas Mavericks,Dallas Mavericks,Miami Heat,16,35,51,1517275800.0,2018
+Dallas Mavericks,Phoenix Suns,Dallas Mavericks,16,36,52,1517455800.0,2018
+Dallas Mavericks,Sacramento Kings,Dallas Mavericks,17,36,53,1517713200.0,2018
+Dallas Mavericks,Los Angeles Clippers,Dallas Mavericks,17,37,54,1517887800.0,2018
+Dallas Mavericks,Golden State Warriors,Dallas Mavericks,17,38,55,1518147000.0,2018
+Dallas Mavericks,Dallas Mavericks,Los Angeles Lakers,18,38,56,1518312600.0,2018
+Dallas Mavericks,Houston Rockets,Dallas Mavericks,18,39,57,1518393600.0,2018
+Dallas Mavericks,Dallas Mavericks,Sacramento Kings,18,40,58,1518571800.0,2018
+Dallas Mavericks,Los Angeles Lakers,Dallas Mavericks,18,41,59,1519443000.0,2018
+Dallas Mavericks,Utah Jazz,Dallas Mavericks,18,42,60,1519524000.0,2018
+Dallas Mavericks,Dallas Mavericks,Indiana Pacers,19,42,61,1519695000.0,2018
+Dallas Mavericks,Dallas Mavericks,Oklahoma City Thunder,19,43,62,1519867800.0,2018
+Dallas Mavericks,Chicago Bulls,Dallas Mavericks,19,44,63,1520038800.0,2018
+Dallas Mavericks,Dallas Mavericks,New Orleans Pelicans,19,45,64,1520208000.0,2018
+Dallas Mavericks,Dallas Mavericks,Denver Nuggets,20,45,65,1520386200.0,2018
+Dallas Mavericks,Dallas Mavericks,Memphis Grizzlies,21,45,66,1520731800.0,2018
+Dallas Mavericks,Dallas Mavericks,Houston Rockets,21,46,67,1520809200.0,2018
+Dallas Mavericks,New York Knicks,Dallas Mavericks,22,46,68,1520983800.0,2018
+Dallas Mavericks,Toronto Raptors,Dallas Mavericks,22,47,69,1521243000.0,2018
+Dallas Mavericks,Brooklyn Nets,Dallas Mavericks,22,48,70,1521329400.0,2018
+Dallas Mavericks,New Orleans Pelicans,Dallas Mavericks,22,49,71,1521590400.0,2018
+Dallas Mavericks,Dallas Mavericks,Utah Jazz,22,50,72,1521765000.0,2018
+Dallas Mavericks,Dallas Mavericks,Charlotte Hornets,22,51,73,1521937800.0,2018
+Dallas Mavericks,Sacramento Kings,Dallas Mavericks,23,51,74,1522202400.0,2018
+Dallas Mavericks,Los Angeles Lakers,Dallas Mavericks,23,52,75,1522290600.0,2018
+Dallas Mavericks,Dallas Mavericks,Minnesota Timberwolves,23,53,76,1522456200.0,2018
+Dallas Mavericks,Cleveland Cavaliers,Dallas Mavericks,23,54,77,1522620000.0,2018
+Dallas Mavericks,Dallas Mavericks,Portland Trail Blazers,24,54,78,1522801800.0,2018
+Dallas Mavericks,Orlando Magic,Dallas Mavericks,24,55,79,1522882800.0,2018
+Dallas Mavericks,Detroit Pistons,Dallas Mavericks,24,56,80,1523055600.0,2018
+Dallas Mavericks,Philadelphia 76ers,Dallas Mavericks,24,57,81,1523206800.0,2018
+Dallas Mavericks,Dallas Mavericks,Phoenix Suns,24,58,82,1523406600.0,2018
+Denver Nuggets,Utah Jazz,Denver Nuggets,0,1,1,1508374800.0,2018
+Denver Nuggets,Denver Nuggets,Sacramento Kings,1,1,2,1508634000.0,2018
+Denver Nuggets,Denver Nuggets,Washington Wizards,1,2,3,1508806800.0,2018
+Denver Nuggets,Charlotte Hornets,Denver Nuggets,1,3,4,1508972400.0,2018
+Denver Nuggets,Atlanta Hawks,Denver Nuggets,2,3,5,1509147000.0,2018
+Denver Nuggets,Brooklyn Nets,Denver Nuggets,3,3,6,1509314400.0,2018
+Denver Nuggets,New York Knicks,Denver Nuggets,3,4,7,1509406200.0,2018
+Denver Nuggets,Denver Nuggets,Toronto Raptors,4,4,8,1509584400.0,2018
+Denver Nuggets,Denver Nuggets,Miami Heat,5,4,9,1509757200.0,2018
+Denver Nuggets,Denver Nuggets,Golden State Warriors,5,5,10,1509843600.0,2018
+Denver Nuggets,Denver Nuggets,Brooklyn Nets,6,5,11,1510106400.0,2018
+Denver Nuggets,Denver Nuggets,Oklahoma City Thunder,7,5,12,1510284600.0,2018
+Denver Nuggets,Denver Nuggets,Orlando Magic,8,5,13,1510452000.0,2018
+Denver Nuggets,Portland Trail Blazers,Denver Nuggets,8,6,14,1510628400.0,2018
+Denver Nuggets,Denver Nuggets,New Orleans Pelicans,9,6,15,1510975800.0,2018
+Denver Nuggets,Los Angeles Lakers,Denver Nuggets,9,7,16,1511145000.0,2018
+Denver Nuggets,Sacramento Kings,Denver Nuggets,10,7,17,1511233200.0,2018
+Denver Nuggets,Houston Rockets,Denver Nuggets,10,8,18,1511398800.0,2018
+Denver Nuggets,Denver Nuggets,Memphis Grizzlies,11,8,19,1511575200.0,2018
+Denver Nuggets,Utah Jazz,Denver Nuggets,11,9,20,1511924400.0,2018
+Denver Nuggets,Denver Nuggets,Chicago Bulls,12,9,21,1512093600.0,2018
+Denver Nuggets,Denver Nuggets,Los Angeles Lakers,13,9,22,1512266400.0,2018
+Denver Nuggets,Dallas Mavericks,Denver Nuggets,13,10,23,1512437400.0,2018
+Denver Nuggets,New Orleans Pelicans,Denver Nuggets,13,11,24,1512608400.0,2018
+Denver Nuggets,Orlando Magic,Denver Nuggets,14,11,25,1512777600.0,2018
+Denver Nuggets,Indiana Pacers,Denver Nuggets,14,12,26,1512943200.0,2018
+Denver Nuggets,Detroit Pistons,Denver Nuggets,15,12,27,1513123200.0,2018
+Denver Nuggets,Boston Celtics,Denver Nuggets,15,13,28,1513211400.0,2018
+Denver Nuggets,Denver Nuggets,New Orleans Pelicans,16,13,29,1513389600.0,2018
+Denver Nuggets,Oklahoma City Thunder,Denver Nuggets,16,14,30,1513645200.0,2018
+Denver Nuggets,Denver Nuggets,Minnesota Timberwolves,16,15,31,1513821600.0,2018
+Denver Nuggets,Portland Trail Blazers,Denver Nuggets,17,15,32,1513998000.0,2018
+Denver Nuggets,Golden State Warriors,Denver Nuggets,18,15,33,1514079000.0,2018
+Denver Nuggets,Denver Nuggets,Utah Jazz,19,15,34,1514340000.0,2018
+Denver Nuggets,Minnesota Timberwolves,Denver Nuggets,19,16,35,1514422800.0,2018
+Denver Nuggets,Denver Nuggets,Philadelphia 76ers,19,17,36,1514685600.0,2018
+Denver Nuggets,Denver Nuggets,Phoenix Suns,20,17,37,1515031200.0,2018
+Denver Nuggets,Denver Nuggets,Utah Jazz,21,17,38,1515204000.0,2018
+Denver Nuggets,Sacramento Kings,Denver Nuggets,21,18,39,1515294000.0,2018
+Denver Nuggets,Golden State Warriors,Denver Nuggets,21,19,40,1515468600.0,2018
+Denver Nuggets,Denver Nuggets,Atlanta Hawks,21,20,41,1515636000.0,2018
+Denver Nuggets,Denver Nuggets,Memphis Grizzlies,22,20,42,1515808800.0,2018
+Denver Nuggets,San Antonio Spurs,Denver Nuggets,22,21,43,1515893400.0,2018
+Denver Nuggets,Denver Nuggets,Dallas Mavericks,23,21,44,1516154400.0,2018
+Denver Nuggets,Los Angeles Clippers,Denver Nuggets,23,22,45,1516246200.0,2018
+Denver Nuggets,Denver Nuggets,Phoenix Suns,23,23,46,1516413600.0,2018
+Denver Nuggets,Denver Nuggets,Portland Trail Blazers,24,23,47,1516672800.0,2018
+Denver Nuggets,Denver Nuggets,New York Knicks,25,23,48,1516932000.0,2018
+Denver Nuggets,Denver Nuggets,Dallas Mavericks,26,23,49,1517104800.0,2018
+Denver Nuggets,Denver Nuggets,Boston Celtics,26,24,50,1517277600.0,2018
+Denver Nuggets,San Antonio Spurs,Denver Nuggets,26,25,51,1517362200.0,2018
+Denver Nuggets,Denver Nuggets,Oklahoma City Thunder,27,25,52,1517542200.0,2018
+Denver Nuggets,Denver Nuggets,Golden State Warriors,28,25,53,1517709600.0,2018
+Denver Nuggets,Denver Nuggets,Charlotte Hornets,29,25,54,1517882400.0,2018
+Denver Nuggets,Houston Rockets,Denver Nuggets,29,26,55,1518224400.0,2018
+Denver Nuggets,Phoenix Suns,Denver Nuggets,30,26,56,1518314400.0,2018
+Denver Nuggets,Denver Nuggets,San Antonio Spurs,31,26,57,1518579000.0,2018
+Denver Nuggets,Milwaukee Bucks,Denver Nuggets,32,26,58,1518742800.0,2018
+Denver Nuggets,Denver Nuggets,San Antonio Spurs,33,26,59,1519437600.0,2018
+Denver Nuggets,Denver Nuggets,Houston Rockets,33,27,60,1519606800.0,2018
+Denver Nuggets,Denver Nuggets,Los Angeles Clippers,33,28,61,1519788600.0,2018
+Denver Nuggets,Memphis Grizzlies,Denver Nuggets,34,28,62,1520038800.0,2018
+Denver Nuggets,Cleveland Cavaliers,Denver Nuggets,35,28,63,1520123400.0,2018
+Denver Nuggets,Dallas Mavericks,Denver Nuggets,35,29,64,1520386200.0,2018
+Denver Nuggets,Denver Nuggets,Cleveland Cavaliers,35,30,65,1520479800.0,2018
+Denver Nuggets,Denver Nuggets,Los Angeles Lakers,36,30,66,1520647200.0,2018
+Denver Nuggets,Denver Nuggets,Sacramento Kings,37,30,67,1520802000.0,2018
+Denver Nuggets,Los Angeles Lakers,Denver Nuggets,37,31,68,1520994600.0,2018
+Denver Nuggets,Denver Nuggets,Detroit Pistons,38,31,69,1521162000.0,2018
+Denver Nuggets,Memphis Grizzlies,Denver Nuggets,38,32,70,1521331200.0,2018
+Denver Nuggets,Miami Heat,Denver Nuggets,38,33,71,1521502200.0,2018
+Denver Nuggets,Chicago Bulls,Denver Nuggets,39,33,72,1521676800.0,2018
+Denver Nuggets,Washington Wizards,Denver Nuggets,40,33,73,1521846000.0,2018
+Denver Nuggets,Philadelphia 76ers,Denver Nuggets,40,34,74,1522105200.0,2018
+Denver Nuggets,Toronto Raptors,Denver Nuggets,40,35,75,1522193400.0,2018
+Denver Nuggets,Oklahoma City Thunder,Denver Nuggets,41,35,76,1522454400.0,2018
+Denver Nuggets,Denver Nuggets,Milwaukee Bucks,42,35,77,1522627200.0,2018
+Denver Nuggets,Denver Nuggets,Indiana Pacers,43,35,78,1522803600.0,2018
+Denver Nuggets,Denver Nuggets,Minnesota Timberwolves,44,35,79,1522981800.0,2018
+Denver Nuggets,Los Angeles Clippers,Denver Nuggets,45,35,80,1523129400.0,2018
+Denver Nuggets,Denver Nuggets,Portland Trail Blazers,46,35,81,1523322000.0,2018
+Denver Nuggets,Minnesota Timberwolves,Denver Nuggets,46,36,82,1523491200.0,2018
+Detroit Pistons,Detroit Pistons,Charlotte Hornets,1,0,1,1508367600.0,2018
+Detroit Pistons,Washington Wizards,Detroit Pistons,1,1,2,1508540400.0,2018
+Detroit Pistons,New York Knicks,Detroit Pistons,2,1,3,1508630400.0,2018
+Detroit Pistons,Detroit Pistons,Philadelphia 76ers,2,2,4,1508799600.0,2018
+Detroit Pistons,Detroit Pistons,Minnesota Timberwolves,3,2,5,1508972400.0,2018
+Detroit Pistons,Los Angeles Clippers,Detroit Pistons,4,2,6,1509244200.0,2018
+Detroit Pistons,Golden State Warriors,Detroit Pistons,5,2,7,1509323400.0,2018
+Detroit Pistons,Los Angeles Lakers,Detroit Pistons,5,3,8,1509503400.0,2018
+Detroit Pistons,Detroit Pistons,Milwaukee Bucks,6,3,9,1509750000.0,2018
+Detroit Pistons,Detroit Pistons,Sacramento Kings,7,3,10,1509836400.0,2018
+Detroit Pistons,Detroit Pistons,Indiana Pacers,8,3,11,1510185600.0,2018
+Detroit Pistons,Detroit Pistons,Atlanta Hawks,9,3,12,1510358400.0,2018
+Detroit Pistons,Detroit Pistons,Miami Heat,10,3,13,1510520400.0,2018
+Detroit Pistons,Milwaukee Bucks,Detroit Pistons,10,4,14,1510794000.0,2018
+Detroit Pistons,Indiana Pacers,Detroit Pistons,10,5,15,1510963200.0,2018
+Detroit Pistons,Minnesota Timberwolves,Detroit Pistons,11,5,16,1511136000.0,2018
+Detroit Pistons,Detroit Pistons,Cleveland Cavaliers,11,6,17,1511222400.0,2018
+Detroit Pistons,Oklahoma City Thunder,Detroit Pistons,12,6,18,1511571600.0,2018
+Detroit Pistons,Boston Celtics,Detroit Pistons,13,6,19,1511829000.0,2018
+Detroit Pistons,Detroit Pistons,Phoenix Suns,14,6,20,1512000000.0,2018
+Detroit Pistons,Washington Wizards,Detroit Pistons,14,7,21,1512172800.0,2018
+Detroit Pistons,Philadelphia 76ers,Detroit Pistons,14,8,22,1512261000.0,2018
+Detroit Pistons,San Antonio Spurs,Detroit Pistons,14,9,23,1512437400.0,2018
+Detroit Pistons,Milwaukee Bucks,Detroit Pistons,14,10,24,1512608400.0,2018
+Detroit Pistons,Detroit Pistons,Golden State Warriors,14,11,25,1512777600.0,2018
+Detroit Pistons,Detroit Pistons,Boston Celtics,14,12,26,1512939600.0,2018
+Detroit Pistons,Detroit Pistons,Denver Nuggets,14,13,27,1513123200.0,2018
+Detroit Pistons,Atlanta Hawks,Detroit Pistons,15,13,28,1513297800.0,2018
+Detroit Pistons,Indiana Pacers,Detroit Pistons,16,13,29,1513382400.0,2018
+Detroit Pistons,Detroit Pistons,Orlando Magic,17,13,30,1513544400.0,2018
+Detroit Pistons,Dallas Mavericks,Detroit Pistons,17,14,31,1513819800.0,2018
+Detroit Pistons,Detroit Pistons,New York Knicks,18,14,32,1513987200.0,2018
+Detroit Pistons,Detroit Pistons,Indiana Pacers,19,14,33,1514332800.0,2018
+Detroit Pistons,Orlando Magic,Detroit Pistons,19,15,34,1514505600.0,2018
+Detroit Pistons,Detroit Pistons,San Antonio Spurs,20,15,35,1514678400.0,2018
+Detroit Pistons,Miami Heat,Detroit Pistons,20,16,36,1515025800.0,2018
+Detroit Pistons,Philadelphia 76ers,Detroit Pistons,20,17,37,1515196800.0,2018
+Detroit Pistons,Detroit Pistons,Houston Rockets,21,17,38,1515283200.0,2018
+Detroit Pistons,New Orleans Pelicans,Detroit Pistons,21,18,39,1515459600.0,2018
+Detroit Pistons,Brooklyn Nets,Detroit Pistons,22,18,40,1515630600.0,2018
+Detroit Pistons,Chicago Bulls,Detroit Pistons,22,19,41,1515891600.0,2018
+Detroit Pistons,Detroit Pistons,Charlotte Hornets,22,20,42,1516037400.0,2018
+Detroit Pistons,Toronto Raptors,Detroit Pistons,22,21,43,1516235400.0,2018
+Detroit Pistons,Detroit Pistons,Washington Wizards,22,22,44,1516410000.0,2018
+Detroit Pistons,Detroit Pistons,Brooklyn Nets,22,23,45,1516568400.0,2018
+Detroit Pistons,Detroit Pistons,Utah Jazz,22,24,46,1516838400.0,2018
+Detroit Pistons,Detroit Pistons,Oklahoma City Thunder,22,25,47,1517090400.0,2018
+Detroit Pistons,Cleveland Cavaliers,Detroit Pistons,22,26,48,1517180400.0,2018
+Detroit Pistons,Detroit Pistons,Cleveland Cavaliers,23,26,49,1517360400.0,2018
+Detroit Pistons,Detroit Pistons,Memphis Grizzlies,24,26,50,1517529600.0,2018
+Detroit Pistons,Detroit Pistons,Miami Heat,25,26,51,1517702400.0,2018
+Detroit Pistons,Detroit Pistons,Portland Trail Blazers,26,26,52,1517875200.0,2018
+Detroit Pistons,Detroit Pistons,Brooklyn Nets,27,26,53,1518048000.0,2018
+Detroit Pistons,Detroit Pistons,Los Angeles Clippers,27,27,54,1518220800.0,2018
+Detroit Pistons,Atlanta Hawks,Detroit Pistons,27,28,55,1518381000.0,2018
+Detroit Pistons,Detroit Pistons,New Orleans Pelicans,27,29,56,1518480000.0,2018
+Detroit Pistons,Detroit Pistons,Atlanta Hawks,28,29,57,1518652800.0,2018
+Detroit Pistons,Detroit Pistons,Boston Celtics,28,30,58,1519430400.0,2018
+Detroit Pistons,Charlotte Hornets,Detroit Pistons,28,31,59,1519581600.0,2018
+Detroit Pistons,Toronto Raptors,Detroit Pistons,28,32,60,1519691400.0,2018
+Detroit Pistons,Detroit Pistons,Milwaukee Bucks,29,32,61,1519862400.0,2018
+Detroit Pistons,Orlando Magic,Detroit Pistons,29,33,62,1520035200.0,2018
+Detroit Pistons,Miami Heat,Detroit Pistons,29,34,63,1520123400.0,2018
+Detroit Pistons,Cleveland Cavaliers,Detroit Pistons,29,35,64,1520294400.0,2018
+Detroit Pistons,Detroit Pistons,Toronto Raptors,29,36,65,1520470800.0,2018
+Detroit Pistons,Detroit Pistons,Chicago Bulls,30,36,66,1520640000.0,2018
+Detroit Pistons,Utah Jazz,Detroit Pistons,30,37,67,1520989200.0,2018
+Detroit Pistons,Denver Nuggets,Detroit Pistons,30,38,68,1521162000.0,2018
+Detroit Pistons,Portland Trail Blazers,Detroit Pistons,30,39,69,1521338400.0,2018
+Detroit Pistons,Sacramento Kings,Detroit Pistons,31,39,70,1521511200.0,2018
+Detroit Pistons,Phoenix Suns,Detroit Pistons,32,39,71,1521597600.0,2018
+Detroit Pistons,Houston Rockets,Detroit Pistons,32,40,72,1521763200.0,2018
+Detroit Pistons,Detroit Pistons,Chicago Bulls,33,40,73,1521932400.0,2018
+Detroit Pistons,Detroit Pistons,Los Angeles Lakers,34,40,74,1522105200.0,2018
+Detroit Pistons,Detroit Pistons,Washington Wizards,35,40,75,1522364400.0,2018
+Detroit Pistons,New York Knicks,Detroit Pistons,36,40,76,1522530000.0,2018
+Detroit Pistons,Brooklyn Nets,Detroit Pistons,37,40,77,1522620000.0,2018
+Detroit Pistons,Detroit Pistons,Philadelphia 76ers,37,41,78,1522882800.0,2018
+Detroit Pistons,Detroit Pistons,Dallas Mavericks,38,41,79,1523055600.0,2018
+Detroit Pistons,Memphis Grizzlies,Detroit Pistons,38,42,80,1523215800.0,2018
+Detroit Pistons,Detroit Pistons,Toronto Raptors,38,43,81,1523314800.0,2018
+Detroit Pistons,Chicago Bulls,Detroit Pistons,39,43,82,1523491200.0,2018
+Golden State Warriors,Golden State Warriors,Houston Rockets,0,1,1,1508293800.0,2018
+Golden State Warriors,New Orleans Pelicans,Golden State Warriors,1,1,2,1508549400.0,2018
+Golden State Warriors,Memphis Grizzlies,Golden State Warriors,1,2,3,1508630400.0,2018
+Golden State Warriors,Dallas Mavericks,Golden State Warriors,2,2,4,1508805000.0,2018
+Golden State Warriors,Golden State Warriors,Toronto Raptors,3,2,5,1508985000.0,2018
+Golden State Warriors,Golden State Warriors,Washington Wizards,4,2,6,1509157800.0,2018
+Golden State Warriors,Golden State Warriors,Detroit Pistons,4,3,7,1509323400.0,2018
+Golden State Warriors,Los Angeles Clippers,Golden State Warriors,5,3,8,1509417000.0,2018
+Golden State Warriors,San Antonio Spurs,Golden State Warriors,6,3,9,1509667200.0,2018
+Golden State Warriors,Denver Nuggets,Golden State Warriors,7,3,10,1509843600.0,2018
+Golden State Warriors,Golden State Warriors,Miami Heat,8,3,11,1510025400.0,2018
+Golden State Warriors,Golden State Warriors,Minnesota Timberwolves,9,3,12,1510198200.0,2018
+Golden State Warriors,Golden State Warriors,Philadelphia 76ers,10,3,13,1510450200.0,2018
+Golden State Warriors,Golden State Warriors,Orlando Magic,11,3,14,1510630200.0,2018
+Golden State Warriors,Boston Celtics,Golden State Warriors,11,4,15,1510880400.0,2018
+Golden State Warriors,Philadelphia 76ers,Golden State Warriors,12,4,16,1511051400.0,2018
+Golden State Warriors,Brooklyn Nets,Golden State Warriors,13,4,17,1511132400.0,2018
+Golden State Warriors,Oklahoma City Thunder,Golden State Warriors,13,5,18,1511398800.0,2018
+Golden State Warriors,Golden State Warriors,Chicago Bulls,14,5,19,1511580600.0,2018
+Golden State Warriors,Golden State Warriors,New Orleans Pelicans,15,5,20,1511659800.0,2018
+Golden State Warriors,Golden State Warriors,Sacramento Kings,15,6,21,1511839800.0,2018
+Golden State Warriors,Los Angeles Lakers,Golden State Warriors,16,6,22,1512012600.0,2018
+Golden State Warriors,Orlando Magic,Golden State Warriors,17,6,23,1512172800.0,2018
+Golden State Warriors,Miami Heat,Golden State Warriors,18,6,24,1512345600.0,2018
+Golden State Warriors,New Orleans Pelicans,Golden State Warriors,19,6,25,1512435600.0,2018
+Golden State Warriors,Charlotte Hornets,Golden State Warriors,20,6,26,1512608400.0,2018
+Golden State Warriors,Detroit Pistons,Golden State Warriors,21,6,27,1512777600.0,2018
+Golden State Warriors,Golden State Warriors,Portland Trail Blazers,22,6,28,1513049400.0,2018
+Golden State Warriors,Golden State Warriors,Dallas Mavericks,23,6,29,1513308600.0,2018
+Golden State Warriors,Los Angeles Lakers,Golden State Warriors,24,6,30,1513654200.0,2018
+Golden State Warriors,Golden State Warriors,Memphis Grizzlies,25,6,31,1513827000.0,2018
+Golden State Warriors,Golden State Warriors,Los Angeles Lakers,26,6,32,1513999800.0,2018
+Golden State Warriors,Golden State Warriors,Denver Nuggets,26,7,33,1514079000.0,2018
+Golden State Warriors,Golden State Warriors,Cleveland Cavaliers,27,7,34,1514232000.0,2018
+Golden State Warriors,Golden State Warriors,Utah Jazz,28,7,35,1514431800.0,2018
+Golden State Warriors,Golden State Warriors,Charlotte Hornets,28,8,36,1514604600.0,2018
+Golden State Warriors,Golden State Warriors,Memphis Grizzlies,29,8,37,1514683800.0,2018
+Golden State Warriors,Dallas Mavericks,Golden State Warriors,30,8,38,1515029400.0,2018
+Golden State Warriors,Houston Rockets,Golden State Warriors,31,8,39,1515114000.0,2018
+Golden State Warriors,Los Angeles Clippers,Golden State Warriors,32,8,40,1515270600.0,2018
+Golden State Warriors,Golden State Warriors,Denver Nuggets,33,8,41,1515468600.0,2018
+Golden State Warriors,Golden State Warriors,Los Angeles Clippers,33,9,42,1515641400.0,2018
+Golden State Warriors,Milwaukee Bucks,Golden State Warriors,34,9,43,1515805200.0,2018
+Golden State Warriors,Toronto Raptors,Golden State Warriors,35,9,44,1515889800.0,2018
+Golden State Warriors,Cleveland Cavaliers,Golden State Warriors,36,9,45,1516064400.0,2018
+Golden State Warriors,Chicago Bulls,Golden State Warriors,37,9,46,1516237200.0,2018
+Golden State Warriors,Houston Rockets,Golden State Warriors,37,10,47,1516498200.0,2018
+Golden State Warriors,Golden State Warriors,New York Knicks,38,10,48,1516764600.0,2018
+Golden State Warriors,Golden State Warriors,Minnesota Timberwolves,39,10,49,1516937400.0,2018
+Golden State Warriors,Golden State Warriors,Boston Celtics,40,10,50,1517103000.0,2018
+Golden State Warriors,Utah Jazz,Golden State Warriors,40,11,51,1517364000.0,2018
+Golden State Warriors,Sacramento Kings,Golden State Warriors,41,11,52,1517628600.0,2018
+Golden State Warriors,Denver Nuggets,Golden State Warriors,41,12,53,1517709600.0,2018
+Golden State Warriors,Golden State Warriors,Oklahoma City Thunder,41,13,54,1517974200.0,2018
+Golden State Warriors,Golden State Warriors,Dallas Mavericks,42,13,55,1518147000.0,2018
+Golden State Warriors,Golden State Warriors,San Antonio Spurs,43,13,56,1518312600.0,2018
+Golden State Warriors,Golden State Warriors,Phoenix Suns,44,13,57,1518492600.0,2018
+Golden State Warriors,Portland Trail Blazers,Golden State Warriors,44,14,58,1518665400.0,2018
+Golden State Warriors,Golden State Warriors,Los Angeles Clippers,45,14,59,1519356600.0,2018
+Golden State Warriors,Golden State Warriors,Oklahoma City Thunder,46,14,60,1519522200.0,2018
+Golden State Warriors,New York Knicks,Golden State Warriors,47,14,61,1519691400.0,2018
+Golden State Warriors,Washington Wizards,Golden State Warriors,48,14,62,1519866000.0,2018
+Golden State Warriors,Atlanta Hawks,Golden State Warriors,49,14,63,1520037000.0,2018
+Golden State Warriors,Golden State Warriors,Brooklyn Nets,50,14,64,1520393400.0,2018
+Golden State Warriors,Golden State Warriors,San Antonio Spurs,51,14,65,1520566200.0,2018
+Golden State Warriors,Portland Trail Blazers,Golden State Warriors,51,15,66,1520650800.0,2018
+Golden State Warriors,Minnesota Timberwolves,Golden State Warriors,51,16,67,1520796600.0,2018
+Golden State Warriors,Golden State Warriors,Los Angeles Lakers,52,16,68,1521081000.0,2018
+Golden State Warriors,Golden State Warriors,Sacramento Kings,52,17,69,1521253800.0,2018
+Golden State Warriors,Phoenix Suns,Golden State Warriors,53,17,70,1521338400.0,2018
+Golden State Warriors,San Antonio Spurs,Golden State Warriors,53,18,71,1521509400.0,2018
+Golden State Warriors,Golden State Warriors,Atlanta Hawks,54,18,72,1521858600.0,2018
+Golden State Warriors,Golden State Warriors,Utah Jazz,54,19,73,1522024200.0,2018
+Golden State Warriors,Golden State Warriors,Indiana Pacers,54,20,74,1522204200.0,2018
+Golden State Warriors,Golden State Warriors,Milwaukee Bucks,54,21,75,1522377000.0,2018
+Golden State Warriors,Sacramento Kings,Golden State Warriors,55,21,76,1522548000.0,2018
+Golden State Warriors,Golden State Warriors,Phoenix Suns,56,21,77,1522629000.0,2018
+Golden State Warriors,Oklahoma City Thunder,Golden State Warriors,57,21,78,1522800000.0,2018
+Golden State Warriors,Indiana Pacers,Golden State Warriors,57,22,79,1522969200.0,2018
+Golden State Warriors,Golden State Warriors,New Orleans Pelicans,57,23,80,1523147400.0,2018
+Golden State Warriors,Phoenix Suns,Golden State Warriors,58,23,81,1523235600.0,2018
+Golden State Warriors,Utah Jazz,Golden State Warriors,58,24,82,1523408400.0,2018
+Houston Rockets,Golden State Warriors,Houston Rockets,1,0,1,1508293800.0,2018
+Houston Rockets,Sacramento Kings,Houston Rockets,2,0,2,1508378400.0,2018
+Houston Rockets,Houston Rockets,Dallas Mavericks,3,0,3,1508630400.0,2018
+Houston Rockets,Houston Rockets,Memphis Grizzlies,3,1,4,1508803200.0,2018
+Houston Rockets,Philadelphia 76ers,Houston Rockets,4,1,5,1508972400.0,2018
+Houston Rockets,Charlotte Hornets,Houston Rockets,5,1,6,1509145200.0,2018
+Houston Rockets,Memphis Grizzlies,Houston Rockets,5,2,7,1509235200.0,2018
+Houston Rockets,Houston Rockets,Philadelphia 76ers,5,3,8,1509408000.0,2018
+Houston Rockets,New York Knicks,Houston Rockets,6,3,9,1509580800.0,2018
+Houston Rockets,Atlanta Hawks,Houston Rockets,7,3,10,1509751800.0,2018
+Houston Rockets,Houston Rockets,Utah Jazz,8,3,11,1509926400.0,2018
+Houston Rockets,Houston Rockets,Cleveland Cavaliers,9,3,12,1510275600.0,2018
+Houston Rockets,Houston Rockets,Memphis Grizzlies,10,3,13,1510448400.0,2018
+Houston Rockets,Indiana Pacers,Houston Rockets,11,3,14,1510527600.0,2018
+Houston Rockets,Houston Rockets,Toronto Raptors,11,4,15,1510707600.0,2018
+Houston Rockets,Phoenix Suns,Houston Rockets,12,4,16,1510889400.0,2018
+Houston Rockets,Memphis Grizzlies,Houston Rockets,13,4,17,1511053200.0,2018
+Houston Rockets,Houston Rockets,Denver Nuggets,14,4,18,1511398800.0,2018
+Houston Rockets,Houston Rockets,New York Knicks,15,4,19,1511658000.0,2018
+Houston Rockets,Houston Rockets,Brooklyn Nets,16,4,20,1511830800.0,2018
+Houston Rockets,Houston Rockets,Indiana Pacers,17,4,21,1512003600.0,2018
+Houston Rockets,Los Angeles Lakers,Houston Rockets,18,4,22,1512354600.0,2018
+Houston Rockets,Utah Jazz,Houston Rockets,19,4,23,1512703800.0,2018
+Houston Rockets,Portland Trail Blazers,Houston Rockets,20,4,24,1512874800.0,2018
+Houston Rockets,Houston Rockets,New Orleans Pelicans,21,4,25,1513040400.0,2018
+Houston Rockets,Houston Rockets,Charlotte Hornets,22,4,26,1513218600.0,2018
+Houston Rockets,Houston Rockets,San Antonio Spurs,23,4,27,1513391400.0,2018
+Houston Rockets,Houston Rockets,Milwaukee Bucks,24,4,28,1513472400.0,2018
+Houston Rockets,Houston Rockets,Utah Jazz,25,4,29,1513645200.0,2018
+Houston Rockets,Houston Rockets,Los Angeles Lakers,25,5,30,1513818000.0,2018
+Houston Rockets,Houston Rockets,Los Angeles Clippers,25,6,31,1513990800.0,2018
+Houston Rockets,Oklahoma City Thunder,Houston Rockets,25,7,32,1514250000.0,2018
+Houston Rockets,Boston Celtics,Houston Rockets,25,8,33,1514509200.0,2018
+Houston Rockets,Washington Wizards,Houston Rockets,25,9,34,1514592000.0,2018
+Houston Rockets,Houston Rockets,Los Angeles Lakers,26,9,35,1514764800.0,2018
+Houston Rockets,Orlando Magic,Houston Rockets,27,9,36,1515024000.0,2018
+Houston Rockets,Houston Rockets,Golden State Warriors,27,10,37,1515114000.0,2018
+Houston Rockets,Detroit Pistons,Houston Rockets,27,11,38,1515283200.0,2018
+Houston Rockets,Chicago Bulls,Houston Rockets,28,11,39,1515459600.0,2018
+Houston Rockets,Houston Rockets,Portland Trail Blazers,29,11,40,1515632400.0,2018
+Houston Rockets,Phoenix Suns,Houston Rockets,30,11,41,1515814200.0,2018
+Houston Rockets,Los Angeles Clippers,Houston Rockets,30,12,42,1516073400.0,2018
+Houston Rockets,Houston Rockets,Minnesota Timberwolves,31,12,43,1516329000.0,2018
+Houston Rockets,Houston Rockets,Golden State Warriors,32,12,44,1516498200.0,2018
+Houston Rockets,Houston Rockets,Miami Heat,33,12,45,1516669200.0,2018
+Houston Rockets,Dallas Mavericks,Houston Rockets,34,12,46,1516842000.0,2018
+Houston Rockets,New Orleans Pelicans,Houston Rockets,34,13,47,1517014800.0,2018
+Houston Rockets,Houston Rockets,Phoenix Suns,35,13,48,1517171400.0,2018
+Houston Rockets,Houston Rockets,Orlando Magic,36,13,49,1517360400.0,2018
+Houston Rockets,San Antonio Spurs,Houston Rockets,37,13,50,1517533200.0,2018
+Houston Rockets,Cleveland Cavaliers,Houston Rockets,38,13,51,1517707800.0,2018
+Houston Rockets,Brooklyn Nets,Houston Rockets,39,13,52,1517963400.0,2018
+Houston Rockets,Miami Heat,Houston Rockets,40,13,53,1518049800.0,2018
+Houston Rockets,Houston Rockets,Denver Nuggets,41,13,54,1518224400.0,2018
+Houston Rockets,Houston Rockets,Dallas Mavericks,42,13,55,1518393600.0,2018
+Houston Rockets,Minnesota Timberwolves,Houston Rockets,43,13,56,1518570000.0,2018
+Houston Rockets,Houston Rockets,Sacramento Kings,44,13,57,1518656400.0,2018
+Houston Rockets,Houston Rockets,Minnesota Timberwolves,45,13,58,1519434000.0,2018
+Houston Rockets,Denver Nuggets,Houston Rockets,46,13,59,1519606800.0,2018
+Houston Rockets,Utah Jazz,Houston Rockets,47,13,60,1519696800.0,2018
+Houston Rockets,Los Angeles Clippers,Houston Rockets,48,13,61,1519875000.0,2018
+Houston Rockets,Houston Rockets,Boston Celtics,49,13,62,1520127000.0,2018
+Houston Rockets,Oklahoma City Thunder,Houston Rockets,50,13,63,1520384400.0,2018
+Houston Rockets,Milwaukee Bucks,Houston Rockets,51,13,64,1520470800.0,2018
+Houston Rockets,Toronto Raptors,Houston Rockets,51,14,65,1520641800.0,2018
+Houston Rockets,Dallas Mavericks,Houston Rockets,52,14,66,1520809200.0,2018
+Houston Rockets,Houston Rockets,San Antonio Spurs,53,14,67,1520899200.0,2018
+Houston Rockets,Houston Rockets,Los Angeles Clippers,54,14,68,1521158400.0,2018
+Houston Rockets,New Orleans Pelicans,Houston Rockets,55,14,69,1521327600.0,2018
+Houston Rockets,Minnesota Timberwolves,Houston Rockets,56,14,70,1521414000.0,2018
+Houston Rockets,Portland Trail Blazers,Houston Rockets,57,14,71,1521599400.0,2018
+Houston Rockets,Houston Rockets,Detroit Pistons,58,14,72,1521763200.0,2018
+Houston Rockets,Houston Rockets,New Orleans Pelicans,59,14,73,1521936000.0,2018
+Houston Rockets,Houston Rockets,Atlanta Hawks,60,14,74,1522022400.0,2018
+Houston Rockets,Houston Rockets,Chicago Bulls,61,14,75,1522195200.0,2018
+Houston Rockets,Houston Rockets,Phoenix Suns,62,14,76,1522454400.0,2018
+Houston Rockets,San Antonio Spurs,Houston Rockets,62,15,77,1522611000.0,2018
+Houston Rockets,Houston Rockets,Washington Wizards,63,15,78,1522800000.0,2018
+Houston Rockets,Houston Rockets,Portland Trail Blazers,64,15,79,1522972800.0,2018
+Houston Rockets,Houston Rockets,Oklahoma City Thunder,64,16,80,1523147400.0,2018
+Houston Rockets,Los Angeles Lakers,Houston Rockets,65,16,81,1523413800.0,2018
+Houston Rockets,Sacramento Kings,Houston Rockets,65,17,82,1523500200.0,2018
+Indiana Pacers,Indiana Pacers,Brooklyn Nets,1,0,1,1508367600.0,2018
+Indiana Pacers,Indiana Pacers,Portland Trail Blazers,1,1,2,1508540400.0,2018
+Indiana Pacers,Miami Heat,Indiana Pacers,1,2,3,1508630400.0,2018
+Indiana Pacers,Minnesota Timberwolves,Indiana Pacers,2,2,4,1508889600.0,2018
+Indiana Pacers,Oklahoma City Thunder,Indiana Pacers,2,3,5,1508976000.0,2018
+Indiana Pacers,Indiana Pacers,San Antonio Spurs,3,3,6,1509309000.0,2018
+Indiana Pacers,Indiana Pacers,Sacramento Kings,4,3,7,1509490800.0,2018
+Indiana Pacers,Cleveland Cavaliers,Indiana Pacers,5,3,8,1509577200.0,2018
+Indiana Pacers,Philadelphia 76ers,Indiana Pacers,5,4,9,1509750000.0,2018
+Indiana Pacers,New York Knicks,Indiana Pacers,5,5,10,1509928200.0,2018
+Indiana Pacers,Indiana Pacers,New Orleans Pelicans,5,6,11,1510099200.0,2018
+Indiana Pacers,Detroit Pistons,Indiana Pacers,5,7,12,1510185600.0,2018
+Indiana Pacers,Chicago Bulls,Indiana Pacers,6,7,13,1510362000.0,2018
+Indiana Pacers,Indiana Pacers,Houston Rockets,6,8,14,1510527600.0,2018
+Indiana Pacers,Memphis Grizzlies,Indiana Pacers,7,8,15,1510794000.0,2018
+Indiana Pacers,Indiana Pacers,Detroit Pistons,8,8,16,1510963200.0,2018
+Indiana Pacers,Miami Heat,Indiana Pacers,9,8,17,1511128800.0,2018
+Indiana Pacers,Orlando Magic,Indiana Pacers,10,8,18,1511222400.0,2018
+Indiana Pacers,Indiana Pacers,Toronto Raptors,11,8,19,1511571600.0,2018
+Indiana Pacers,Indiana Pacers,Boston Celtics,11,9,20,1511658000.0,2018
+Indiana Pacers,Indiana Pacers,Orlando Magic,12,9,21,1511827200.0,2018
+Indiana Pacers,Houston Rockets,Indiana Pacers,12,10,22,1512003600.0,2018
+Indiana Pacers,Toronto Raptors,Indiana Pacers,12,11,23,1512174600.0,2018
+Indiana Pacers,Indiana Pacers,New York Knicks,13,11,24,1512432000.0,2018
+Indiana Pacers,Indiana Pacers,Chicago Bulls,14,11,25,1512604800.0,2018
+Indiana Pacers,Indiana Pacers,Cleveland Cavaliers,15,11,26,1512777600.0,2018
+Indiana Pacers,Indiana Pacers,Denver Nuggets,16,11,27,1512943200.0,2018
+Indiana Pacers,Indiana Pacers,Oklahoma City Thunder,16,12,28,1513209600.0,2018
+Indiana Pacers,Indiana Pacers,Detroit Pistons,16,13,29,1513382400.0,2018
+Indiana Pacers,Brooklyn Nets,Indiana Pacers,17,13,30,1513551600.0,2018
+Indiana Pacers,Indiana Pacers,Boston Celtics,17,14,31,1513641600.0,2018
+Indiana Pacers,Atlanta Hawks,Indiana Pacers,18,14,32,1513816200.0,2018
+Indiana Pacers,Indiana Pacers,Brooklyn Nets,19,14,33,1514073600.0,2018
+Indiana Pacers,Detroit Pistons,Indiana Pacers,19,15,34,1514332800.0,2018
+Indiana Pacers,Indiana Pacers,Dallas Mavericks,19,16,35,1514419200.0,2018
+Indiana Pacers,Chicago Bulls,Indiana Pacers,19,17,36,1514595600.0,2018
+Indiana Pacers,Indiana Pacers,Minnesota Timberwolves,19,18,37,1514757600.0,2018
+Indiana Pacers,Milwaukee Bucks,Indiana Pacers,19,19,38,1515027600.0,2018
+Indiana Pacers,Indiana Pacers,Chicago Bulls,20,19,39,1515283200.0,2018
+Indiana Pacers,Indiana Pacers,Milwaukee Bucks,21,19,40,1515456000.0,2018
+Indiana Pacers,Indiana Pacers,Miami Heat,21,20,41,1515628800.0,2018
+Indiana Pacers,Indiana Pacers,Cleveland Cavaliers,22,20,42,1515801600.0,2018
+Indiana Pacers,Phoenix Suns,Indiana Pacers,23,20,43,1515978000.0,2018
+Indiana Pacers,Utah Jazz,Indiana Pacers,24,20,44,1516068000.0,2018
+Indiana Pacers,Portland Trail Blazers,Indiana Pacers,24,21,45,1516330800.0,2018
+Indiana Pacers,Los Angeles Lakers,Indiana Pacers,24,22,46,1516419000.0,2018
+Indiana Pacers,San Antonio Spurs,Indiana Pacers,25,22,47,1516579200.0,2018
+Indiana Pacers,Indiana Pacers,Phoenix Suns,26,22,48,1516838400.0,2018
+Indiana Pacers,Cleveland Cavaliers,Indiana Pacers,26,23,49,1517013000.0,2018
+Indiana Pacers,Indiana Pacers,Orlando Magic,27,23,50,1517097600.0,2018
+Indiana Pacers,Indiana Pacers,Charlotte Hornets,28,23,51,1517270400.0,2018
+Indiana Pacers,Indiana Pacers,Memphis Grizzlies,29,23,52,1517443200.0,2018
+Indiana Pacers,Charlotte Hornets,Indiana Pacers,29,24,53,1517616000.0,2018
+Indiana Pacers,Indiana Pacers,Philadelphia 76ers,30,24,54,1517702400.0,2018
+Indiana Pacers,Indiana Pacers,Washington Wizards,30,25,55,1517875200.0,2018
+Indiana Pacers,Boston Celtics,Indiana Pacers,31,25,56,1518222600.0,2018
+Indiana Pacers,Indiana Pacers,New York Knicks,32,25,57,1518386400.0,2018
+Indiana Pacers,Brooklyn Nets,Indiana Pacers,33,25,58,1518654600.0,2018
+Indiana Pacers,Indiana Pacers,Atlanta Hawks,34,25,59,1519430400.0,2018
+Indiana Pacers,Dallas Mavericks,Indiana Pacers,34,26,60,1519695000.0,2018
+Indiana Pacers,Atlanta Hawks,Indiana Pacers,34,27,61,1519864200.0,2018
+Indiana Pacers,Milwaukee Bucks,Indiana Pacers,35,27,62,1520038800.0,2018
+Indiana Pacers,Washington Wizards,Indiana Pacers,36,27,63,1520204400.0,2018
+Indiana Pacers,Indiana Pacers,Milwaukee Bucks,37,27,64,1520294400.0,2018
+Indiana Pacers,Indiana Pacers,Utah Jazz,37,28,65,1520467200.0,2018
+Indiana Pacers,Indiana Pacers,Atlanta Hawks,38,28,66,1520640000.0,2018
+Indiana Pacers,Boston Celtics,Indiana Pacers,39,28,67,1520811000.0,2018
+Indiana Pacers,Philadelphia 76ers,Indiana Pacers,40,28,68,1520982000.0,2018
+Indiana Pacers,Indiana Pacers,Toronto Raptors,40,29,69,1521154800.0,2018
+Indiana Pacers,Washington Wizards,Indiana Pacers,40,30,70,1521327600.0,2018
+Indiana Pacers,Indiana Pacers,Los Angeles Lakers,41,30,71,1521500400.0,2018
+Indiana Pacers,New Orleans Pelicans,Indiana Pacers,41,31,72,1521676800.0,2018
+Indiana Pacers,Indiana Pacers,Los Angeles Clippers,42,31,73,1521846000.0,2018
+Indiana Pacers,Indiana Pacers,Miami Heat,43,31,74,1522011600.0,2018
+Indiana Pacers,Golden State Warriors,Indiana Pacers,44,31,75,1522204200.0,2018
+Indiana Pacers,Sacramento Kings,Indiana Pacers,45,31,76,1522375200.0,2018
+Indiana Pacers,Los Angeles Clippers,Indiana Pacers,46,31,77,1522611000.0,2018
+Indiana Pacers,Denver Nuggets,Indiana Pacers,46,32,78,1522803600.0,2018
+Indiana Pacers,Indiana Pacers,Golden State Warriors,47,32,79,1522969200.0,2018
+Indiana Pacers,Toronto Raptors,Indiana Pacers,47,33,80,1523057400.0,2018
+Indiana Pacers,Charlotte Hornets,Indiana Pacers,48,33,81,1523206800.0,2018
+Indiana Pacers,Indiana Pacers,Charlotte Hornets,48,34,82,1523401200.0,2018
+Los Angeles Clippers,Los Angeles Lakers,Los Angeles Clippers,1,0,1,1508466600.0,2018
+Los Angeles Clippers,Los Angeles Clippers,Phoenix Suns,2,0,2,1508639400.0,2018
+Los Angeles Clippers,Los Angeles Clippers,Utah Jazz,3,0,3,1508898600.0,2018
+Los Angeles Clippers,Portland Trail Blazers,Los Angeles Clippers,4,0,4,1509069600.0,2018
+Los Angeles Clippers,Los Angeles Clippers,Detroit Pistons,4,1,5,1509244200.0,2018
+Los Angeles Clippers,Los Angeles Clippers,Golden State Warriors,4,2,6,1509417000.0,2018
+Los Angeles Clippers,Los Angeles Clippers,Dallas Mavericks,5,2,7,1509589800.0,2018
+Los Angeles Clippers,Los Angeles Clippers,Memphis Grizzlies,5,3,8,1509823800.0,2018
+Los Angeles Clippers,Los Angeles Clippers,Miami Heat,5,4,9,1509913800.0,2018
+Los Angeles Clippers,San Antonio Spurs,Los Angeles Clippers,5,5,10,1510104600.0,2018
+Los Angeles Clippers,Oklahoma City Thunder,Los Angeles Clippers,5,6,11,1510365600.0,2018
+Los Angeles Clippers,New Orleans Pelicans,Los Angeles Clippers,5,7,12,1510444800.0,2018
+Los Angeles Clippers,Los Angeles Clippers,Philadelphia 76ers,5,8,13,1510630200.0,2018
+Los Angeles Clippers,Cleveland Cavaliers,Los Angeles Clippers,5,9,14,1510965000.0,2018
+Los Angeles Clippers,Charlotte Hornets,Los Angeles Clippers,5,10,15,1511049600.0,2018
+Los Angeles Clippers,New York Knicks,Los Angeles Clippers,5,11,16,1511224200.0,2018
+Los Angeles Clippers,Atlanta Hawks,Los Angeles Clippers,6,11,17,1511397000.0,2018
+Los Angeles Clippers,Sacramento Kings,Los Angeles Clippers,7,11,18,1511665200.0,2018
+Los Angeles Clippers,Los Angeles Clippers,Los Angeles Lakers,8,11,19,1511839800.0,2018
+Los Angeles Clippers,Los Angeles Clippers,Utah Jazz,8,12,20,1512099000.0,2018
+Los Angeles Clippers,Dallas Mavericks,Los Angeles Clippers,8,13,21,1512241200.0,2018
+Los Angeles Clippers,Minnesota Timberwolves,Los Angeles Clippers,8,14,22,1512345600.0,2018
+Los Angeles Clippers,Los Angeles Clippers,Minnesota Timberwolves,8,15,23,1512617400.0,2018
+Los Angeles Clippers,Los Angeles Clippers,Washington Wizards,9,15,24,1512851400.0,2018
+Los Angeles Clippers,Los Angeles Clippers,Toronto Raptors,10,15,25,1513049400.0,2018
+Los Angeles Clippers,Orlando Magic,Los Angeles Clippers,11,15,26,1513209600.0,2018
+Los Angeles Clippers,Washington Wizards,Los Angeles Clippers,11,16,27,1513382400.0,2018
+Los Angeles Clippers,Miami Heat,Los Angeles Clippers,11,17,28,1513472400.0,2018
+Los Angeles Clippers,San Antonio Spurs,Los Angeles Clippers,11,18,29,1513647000.0,2018
+Los Angeles Clippers,Los Angeles Clippers,Phoenix Suns,12,18,30,1513827000.0,2018
+Los Angeles Clippers,Houston Rockets,Los Angeles Clippers,13,18,31,1513990800.0,2018
+Los Angeles Clippers,Memphis Grizzlies,Los Angeles Clippers,13,19,32,1514077200.0,2018
+Los Angeles Clippers,Los Angeles Clippers,Sacramento Kings,14,19,33,1514345400.0,2018
+Los Angeles Clippers,Los Angeles Lakers,Los Angeles Clippers,15,19,34,1514604600.0,2018
+Los Angeles Clippers,Los Angeles Clippers,Charlotte Hornets,16,19,35,1514764800.0,2018
+Los Angeles Clippers,Los Angeles Clippers,Memphis Grizzlies,17,19,36,1514950200.0,2018
+Los Angeles Clippers,Los Angeles Clippers,Oklahoma City Thunder,17,20,37,1515123000.0,2018
+Los Angeles Clippers,Los Angeles Clippers,Golden State Warriors,17,21,38,1515270600.0,2018
+Los Angeles Clippers,Los Angeles Clippers,Atlanta Hawks,18,21,39,1515468600.0,2018
+Los Angeles Clippers,Golden State Warriors,Los Angeles Clippers,19,21,40,1515641400.0,2018
+Los Angeles Clippers,Sacramento Kings,Los Angeles Clippers,20,21,41,1515726000.0,2018
+Los Angeles Clippers,Los Angeles Clippers,Sacramento Kings,21,21,42,1515875400.0,2018
+Los Angeles Clippers,Los Angeles Clippers,Houston Rockets,22,21,43,1516073400.0,2018
+Los Angeles Clippers,Los Angeles Clippers,Denver Nuggets,23,21,44,1516246200.0,2018
+Los Angeles Clippers,Utah Jazz,Los Angeles Clippers,23,22,45,1516500000.0,2018
+Los Angeles Clippers,Los Angeles Clippers,Minnesota Timberwolves,23,23,46,1516678200.0,2018
+Los Angeles Clippers,Los Angeles Clippers,Boston Celtics,23,24,47,1516851000.0,2018
+Los Angeles Clippers,Memphis Grizzlies,Los Angeles Clippers,24,24,48,1517014800.0,2018
+Los Angeles Clippers,New Orleans Pelicans,Los Angeles Clippers,25,24,49,1517173200.0,2018
+Los Angeles Clippers,Los Angeles Clippers,Portland Trail Blazers,25,25,50,1517369400.0,2018
+Los Angeles Clippers,Los Angeles Clippers,Chicago Bulls,26,25,51,1517689800.0,2018
+Los Angeles Clippers,Los Angeles Clippers,Dallas Mavericks,27,25,52,1517887800.0,2018
+Los Angeles Clippers,Detroit Pistons,Los Angeles Clippers,28,25,53,1518220800.0,2018
+Los Angeles Clippers,Philadelphia 76ers,Los Angeles Clippers,28,26,54,1518307200.0,2018
+Los Angeles Clippers,Brooklyn Nets,Los Angeles Clippers,29,26,55,1518481800.0,2018
+Los Angeles Clippers,Boston Celtics,Los Angeles Clippers,30,26,56,1518656400.0,2018
+Los Angeles Clippers,Golden State Warriors,Los Angeles Clippers,30,27,57,1519356600.0,2018
+Los Angeles Clippers,Phoenix Suns,Los Angeles Clippers,31,27,58,1519437600.0,2018
+Los Angeles Clippers,Denver Nuggets,Los Angeles Clippers,32,27,59,1519788600.0,2018
+Los Angeles Clippers,Los Angeles Clippers,Houston Rockets,32,28,60,1519875000.0,2018
+Los Angeles Clippers,Los Angeles Clippers,New York Knicks,33,28,61,1520047800.0,2018
+Los Angeles Clippers,Los Angeles Clippers,Brooklyn Nets,34,28,62,1520215200.0,2018
+Los Angeles Clippers,Los Angeles Clippers,New Orleans Pelicans,34,29,63,1520393400.0,2018
+Los Angeles Clippers,Los Angeles Clippers,Cleveland Cavaliers,35,29,64,1520652600.0,2018
+Los Angeles Clippers,Los Angeles Clippers,Orlando Magic,36,29,65,1520739000.0,2018
+Los Angeles Clippers,Chicago Bulls,Los Angeles Clippers,37,29,66,1520985600.0,2018
+Los Angeles Clippers,Houston Rockets,Los Angeles Clippers,37,30,67,1521158400.0,2018
+Los Angeles Clippers,Oklahoma City Thunder,Los Angeles Clippers,37,31,68,1521244800.0,2018
+Los Angeles Clippers,Los Angeles Clippers,Portland Trail Blazers,37,32,69,1521426600.0,2018
+Los Angeles Clippers,Minnesota Timberwolves,Los Angeles Clippers,37,33,70,1521590400.0,2018
+Los Angeles Clippers,Milwaukee Bucks,Los Angeles Clippers,38,33,71,1521676800.0,2018
+Los Angeles Clippers,Indiana Pacers,Los Angeles Clippers,38,34,72,1521846000.0,2018
+Los Angeles Clippers,Toronto Raptors,Los Angeles Clippers,39,34,73,1522015200.0,2018
+Los Angeles Clippers,Los Angeles Clippers,Milwaukee Bucks,40,34,74,1522204200.0,2018
+Los Angeles Clippers,Phoenix Suns,Los Angeles Clippers,41,34,75,1522288800.0,2018
+Los Angeles Clippers,Portland Trail Blazers,Los Angeles Clippers,41,35,76,1522463400.0,2018
+Los Angeles Clippers,Los Angeles Clippers,Indiana Pacers,41,36,77,1522611000.0,2018
+Los Angeles Clippers,Los Angeles Clippers,San Antonio Spurs,42,36,78,1522809000.0,2018
+Los Angeles Clippers,Utah Jazz,Los Angeles Clippers,42,37,79,1522976400.0,2018
+Los Angeles Clippers,Los Angeles Clippers,Denver Nuggets,42,38,80,1523129400.0,2018
+Los Angeles Clippers,Los Angeles Clippers,New Orleans Pelicans,42,39,81,1523327400.0,2018
+Los Angeles Clippers,Los Angeles Clippers,Los Angeles Lakers,42,40,82,1523500200.0,2018
+Los Angeles Lakers,Los Angeles Lakers,Los Angeles Clippers,0,1,1,1508466600.0,2018
+Los Angeles Lakers,Phoenix Suns,Los Angeles Lakers,1,1,2,1508551200.0,2018
+Los Angeles Lakers,Los Angeles Lakers,New Orleans Pelicans,1,2,3,1508722200.0,2018
+Los Angeles Lakers,Los Angeles Lakers,Washington Wizards,2,2,4,1508985000.0,2018
+Los Angeles Lakers,Los Angeles Lakers,Toronto Raptors,2,3,5,1509157800.0,2018
+Los Angeles Lakers,Utah Jazz,Los Angeles Lakers,2,4,6,1509238800.0,2018
+Los Angeles Lakers,Los Angeles Lakers,Detroit Pistons,3,4,7,1509503400.0,2018
+Los Angeles Lakers,Portland Trail Blazers,Los Angeles Lakers,3,5,8,1509676200.0,2018
+Los Angeles Lakers,Los Angeles Lakers,Brooklyn Nets,4,5,9,1509762600.0,2018
+Los Angeles Lakers,Los Angeles Lakers,Memphis Grizzlies,5,5,10,1509935400.0,2018
+Los Angeles Lakers,Boston Celtics,Los Angeles Lakers,5,6,11,1510189200.0,2018
+Los Angeles Lakers,Washington Wizards,Los Angeles Lakers,5,7,12,1510272000.0,2018
+Los Angeles Lakers,Milwaukee Bucks,Los Angeles Lakers,5,8,13,1510450200.0,2018
+Los Angeles Lakers,Phoenix Suns,Los Angeles Lakers,6,8,14,1510624800.0,2018
+Los Angeles Lakers,Los Angeles Lakers,Philadelphia 76ers,6,9,15,1510803000.0,2018
+Los Angeles Lakers,Los Angeles Lakers,Phoenix Suns,6,10,16,1510975800.0,2018
+Los Angeles Lakers,Los Angeles Lakers,Denver Nuggets,7,10,17,1511145000.0,2018
+Los Angeles Lakers,Los Angeles Lakers,Chicago Bulls,8,10,18,1511321400.0,2018
+Los Angeles Lakers,Sacramento Kings,Los Angeles Lakers,8,11,19,1511407800.0,2018
+Los Angeles Lakers,Los Angeles Clippers,Los Angeles Lakers,8,12,20,1511839800.0,2018
+Los Angeles Lakers,Los Angeles Lakers,Golden State Warriors,8,13,21,1512012600.0,2018
+Los Angeles Lakers,Denver Nuggets,Los Angeles Lakers,8,14,22,1512266400.0,2018
+Los Angeles Lakers,Los Angeles Lakers,Houston Rockets,8,15,23,1512354600.0,2018
+Los Angeles Lakers,Philadelphia 76ers,Los Angeles Lakers,9,15,24,1512694800.0,2018
+Los Angeles Lakers,Charlotte Hornets,Los Angeles Lakers,10,15,25,1512864000.0,2018
+Los Angeles Lakers,New York Knicks,Los Angeles Lakers,10,16,26,1513123200.0,2018
+Los Angeles Lakers,Cleveland Cavaliers,Los Angeles Lakers,10,17,27,1513299600.0,2018
+Los Angeles Lakers,Los Angeles Lakers,Golden State Warriors,10,18,28,1513654200.0,2018
+Los Angeles Lakers,Houston Rockets,Los Angeles Lakers,11,18,29,1513818000.0,2018
+Los Angeles Lakers,Golden State Warriors,Los Angeles Lakers,11,19,30,1513999800.0,2018
+Los Angeles Lakers,Los Angeles Lakers,Portland Trail Blazers,11,20,31,1514082600.0,2018
+Los Angeles Lakers,Los Angeles Lakers,Minnesota Timberwolves,11,21,32,1514259000.0,2018
+Los Angeles Lakers,Los Angeles Lakers,Memphis Grizzlies,11,22,33,1514431800.0,2018
+Los Angeles Lakers,Los Angeles Lakers,Los Angeles Clippers,11,23,34,1514604600.0,2018
+Los Angeles Lakers,Houston Rockets,Los Angeles Lakers,11,24,35,1514764800.0,2018
+Los Angeles Lakers,Minnesota Timberwolves,Los Angeles Lakers,11,25,36,1514854800.0,2018
+Los Angeles Lakers,Los Angeles Lakers,Oklahoma City Thunder,11,26,37,1515036600.0,2018
+Los Angeles Lakers,Los Angeles Lakers,Charlotte Hornets,11,27,38,1515209400.0,2018
+Los Angeles Lakers,Los Angeles Lakers,Atlanta Hawks,12,27,39,1515378600.0,2018
+Los Angeles Lakers,Los Angeles Lakers,Sacramento Kings,13,27,40,1515555000.0,2018
+Los Angeles Lakers,Los Angeles Lakers,San Antonio Spurs,14,27,41,1515727800.0,2018
+Los Angeles Lakers,Dallas Mavericks,Los Angeles Lakers,15,27,42,1515870000.0,2018
+Los Angeles Lakers,Memphis Grizzlies,Los Angeles Lakers,15,28,43,1516055400.0,2018
+Los Angeles Lakers,Oklahoma City Thunder,Los Angeles Lakers,15,29,44,1516237200.0,2018
+Los Angeles Lakers,Los Angeles Lakers,Indiana Pacers,16,29,45,1516419000.0,2018
+Los Angeles Lakers,Los Angeles Lakers,New York Knicks,17,29,46,1516566600.0,2018
+Los Angeles Lakers,Los Angeles Lakers,Boston Celtics,18,29,47,1516764600.0,2018
+Los Angeles Lakers,Chicago Bulls,Los Angeles Lakers,19,29,48,1517014800.0,2018
+Los Angeles Lakers,Toronto Raptors,Los Angeles Lakers,19,30,49,1517180400.0,2018
+Los Angeles Lakers,Orlando Magic,Los Angeles Lakers,19,31,50,1517443200.0,2018
+Los Angeles Lakers,Brooklyn Nets,Los Angeles Lakers,20,31,51,1517617800.0,2018
+Los Angeles Lakers,Oklahoma City Thunder,Los Angeles Lakers,21,31,52,1517770800.0,2018
+Los Angeles Lakers,Los Angeles Lakers,Phoenix Suns,22,31,53,1517974200.0,2018
+Los Angeles Lakers,Los Angeles Lakers,Oklahoma City Thunder,23,31,54,1518147000.0,2018
+Los Angeles Lakers,Dallas Mavericks,Los Angeles Lakers,23,32,55,1518312600.0,2018
+Los Angeles Lakers,New Orleans Pelicans,Los Angeles Lakers,23,33,56,1518656400.0,2018
+Los Angeles Lakers,Minnesota Timberwolves,Los Angeles Lakers,23,34,57,1518746400.0,2018
+Los Angeles Lakers,Los Angeles Lakers,Dallas Mavericks,24,34,58,1519443000.0,2018
+Los Angeles Lakers,Sacramento Kings,Los Angeles Lakers,25,34,59,1519527600.0,2018
+Los Angeles Lakers,Atlanta Hawks,Los Angeles Lakers,26,34,60,1519691400.0,2018
+Los Angeles Lakers,Miami Heat,Los Angeles Lakers,27,34,61,1519950600.0,2018
+Los Angeles Lakers,San Antonio Spurs,Los Angeles Lakers,28,34,62,1520128800.0,2018
+Los Angeles Lakers,Los Angeles Lakers,Portland Trail Blazers,28,35,63,1520307000.0,2018
+Los Angeles Lakers,Los Angeles Lakers,Orlando Magic,29,35,64,1520479800.0,2018
+Los Angeles Lakers,Denver Nuggets,Los Angeles Lakers,29,36,65,1520647200.0,2018
+Los Angeles Lakers,Los Angeles Lakers,Cleveland Cavaliers,30,36,66,1520816400.0,2018
+Los Angeles Lakers,Los Angeles Lakers,Denver Nuggets,31,36,67,1520994600.0,2018
+Los Angeles Lakers,Golden State Warriors,Los Angeles Lakers,31,37,68,1521081000.0,2018
+Los Angeles Lakers,Los Angeles Lakers,Miami Heat,31,38,69,1521253800.0,2018
+Los Angeles Lakers,Indiana Pacers,Los Angeles Lakers,31,39,70,1521500400.0,2018
+Los Angeles Lakers,New Orleans Pelicans,Los Angeles Lakers,31,40,71,1521763200.0,2018
+Los Angeles Lakers,Memphis Grizzlies,Los Angeles Lakers,32,40,72,1521936000.0,2018
+Los Angeles Lakers,Detroit Pistons,Los Angeles Lakers,32,41,73,1522105200.0,2018
+Los Angeles Lakers,Los Angeles Lakers,Dallas Mavericks,33,41,74,1522290600.0,2018
+Los Angeles Lakers,Los Angeles Lakers,Milwaukee Bucks,33,42,75,1522463400.0,2018
+Los Angeles Lakers,Los Angeles Lakers,Sacramento Kings,33,43,76,1522632600.0,2018
+Los Angeles Lakers,Utah Jazz,Los Angeles Lakers,33,44,77,1522803600.0,2018
+Los Angeles Lakers,Los Angeles Lakers,San Antonio Spurs,34,44,78,1522895400.0,2018
+Los Angeles Lakers,Los Angeles Lakers,Minnesota Timberwolves,34,45,79,1523068200.0,2018
+Los Angeles Lakers,Los Angeles Lakers,Utah Jazz,34,46,80,1523224800.0,2018
+Los Angeles Lakers,Los Angeles Lakers,Houston Rockets,34,47,81,1523413800.0,2018
+Los Angeles Lakers,Los Angeles Clippers,Los Angeles Lakers,35,47,82,1523500200.0,2018
+Memphis Grizzlies,Memphis Grizzlies,New Orleans Pelicans,1,0,1,1508371200.0,2018
+Memphis Grizzlies,Memphis Grizzlies,Golden State Warriors,2,0,2,1508630400.0,2018
+Memphis Grizzlies,Houston Rockets,Memphis Grizzlies,3,0,3,1508803200.0,2018
+Memphis Grizzlies,Dallas Mavericks,Memphis Grizzlies,3,1,4,1508977800.0,2018
+Memphis Grizzlies,Memphis Grizzlies,Dallas Mavericks,4,1,5,1509062400.0,2018
+Memphis Grizzlies,Memphis Grizzlies,Houston Rockets,5,1,6,1509235200.0,2018
+Memphis Grizzlies,Memphis Grizzlies,Charlotte Hornets,5,2,7,1509408000.0,2018
+Memphis Grizzlies,Memphis Grizzlies,Orlando Magic,5,3,8,1509580800.0,2018
+Memphis Grizzlies,Los Angeles Clippers,Memphis Grizzlies,6,3,9,1509823800.0,2018
+Memphis Grizzlies,Los Angeles Lakers,Memphis Grizzlies,6,4,10,1509935400.0,2018
+Memphis Grizzlies,Portland Trail Blazers,Memphis Grizzlies,7,4,11,1510110000.0,2018
+Memphis Grizzlies,Houston Rockets,Memphis Grizzlies,7,5,12,1510448400.0,2018
+Memphis Grizzlies,Milwaukee Bucks,Memphis Grizzlies,7,6,13,1510621200.0,2018
+Memphis Grizzlies,Memphis Grizzlies,Indiana Pacers,7,7,14,1510794000.0,2018
+Memphis Grizzlies,Memphis Grizzlies,Houston Rockets,7,8,15,1511053200.0,2018
+Memphis Grizzlies,Memphis Grizzlies,Portland Trail Blazers,7,9,16,1511226000.0,2018
+Memphis Grizzlies,Memphis Grizzlies,Dallas Mavericks,7,10,17,1511398800.0,2018
+Memphis Grizzlies,Denver Nuggets,Memphis Grizzlies,7,11,18,1511575200.0,2018
+Memphis Grizzlies,Memphis Grizzlies,Brooklyn Nets,7,12,19,1511737200.0,2018
+Memphis Grizzlies,San Antonio Spurs,Memphis Grizzlies,7,13,20,1512005400.0,2018
+Memphis Grizzlies,Memphis Grizzlies,San Antonio Spurs,7,14,21,1512176400.0,2018
+Memphis Grizzlies,Cleveland Cavaliers,Memphis Grizzlies,7,15,22,1512261000.0,2018
+Memphis Grizzlies,Memphis Grizzlies,Minnesota Timberwolves,8,15,23,1512435600.0,2018
+Memphis Grizzlies,New York Knicks,Memphis Grizzlies,8,16,24,1512606600.0,2018
+Memphis Grizzlies,Memphis Grizzlies,Toronto Raptors,8,17,25,1512781200.0,2018
+Memphis Grizzlies,Memphis Grizzlies,Oklahoma City Thunder,8,18,26,1512871200.0,2018
+Memphis Grizzlies,Memphis Grizzlies,Miami Heat,8,19,27,1513040400.0,2018
+Memphis Grizzlies,Washington Wizards,Memphis Grizzlies,8,20,28,1513209600.0,2018
+Memphis Grizzlies,Memphis Grizzlies,Atlanta Hawks,9,20,29,1513386000.0,2018
+Memphis Grizzlies,Memphis Grizzlies,Boston Celtics,9,21,30,1513476000.0,2018
+Memphis Grizzlies,Golden State Warriors,Memphis Grizzlies,9,22,31,1513827000.0,2018
+Memphis Grizzlies,Phoenix Suns,Memphis Grizzlies,9,23,32,1513908000.0,2018
+Memphis Grizzlies,Memphis Grizzlies,Los Angeles Clippers,10,23,33,1514077200.0,2018
+Memphis Grizzlies,Phoenix Suns,Memphis Grizzlies,10,24,34,1514340000.0,2018
+Memphis Grizzlies,Los Angeles Lakers,Memphis Grizzlies,11,24,35,1514431800.0,2018
+Memphis Grizzlies,Golden State Warriors,Memphis Grizzlies,11,25,36,1514683800.0,2018
+Memphis Grizzlies,Sacramento Kings,Memphis Grizzlies,12,25,37,1514764800.0,2018
+Memphis Grizzlies,Los Angeles Clippers,Memphis Grizzlies,12,26,38,1514950200.0,2018
+Memphis Grizzlies,Memphis Grizzlies,Washington Wizards,12,27,39,1515205800.0,2018
+Memphis Grizzlies,Memphis Grizzlies,New Orleans Pelicans,13,27,40,1515632400.0,2018
+Memphis Grizzlies,Denver Nuggets,Memphis Grizzlies,13,28,41,1515808800.0,2018
+Memphis Grizzlies,Memphis Grizzlies,Los Angeles Lakers,14,28,42,1516055400.0,2018
+Memphis Grizzlies,Memphis Grizzlies,New York Knicks,15,28,43,1516237200.0,2018
+Memphis Grizzlies,Memphis Grizzlies,Sacramento Kings,16,28,44,1516410000.0,2018
+Memphis Grizzlies,New Orleans Pelicans,Memphis Grizzlies,16,29,45,1516492800.0,2018
+Memphis Grizzlies,Memphis Grizzlies,Philadelphia 76ers,17,29,46,1516669200.0,2018
+Memphis Grizzlies,Memphis Grizzlies,San Antonio Spurs,17,30,47,1516842000.0,2018
+Memphis Grizzlies,Memphis Grizzlies,Los Angeles Clippers,17,31,48,1517014800.0,2018
+Memphis Grizzlies,Memphis Grizzlies,Phoenix Suns,18,31,49,1517274000.0,2018
+Memphis Grizzlies,Indiana Pacers,Memphis Grizzlies,18,32,50,1517443200.0,2018
+Memphis Grizzlies,Detroit Pistons,Memphis Grizzlies,18,33,51,1517529600.0,2018
+Memphis Grizzlies,Toronto Raptors,Memphis Grizzlies,18,34,52,1517763600.0,2018
+Memphis Grizzlies,Atlanta Hawks,Memphis Grizzlies,18,35,53,1517963400.0,2018
+Memphis Grizzlies,Memphis Grizzlies,Utah Jazz,18,36,54,1518051600.0,2018
+Memphis Grizzlies,Oklahoma City Thunder,Memphis Grizzlies,18,37,55,1518393600.0,2018
+Memphis Grizzlies,Memphis Grizzlies,Oklahoma City Thunder,18,38,56,1518656400.0,2018
+Memphis Grizzlies,Memphis Grizzlies,Cleveland Cavaliers,18,39,57,1519434000.0,2018
+Memphis Grizzlies,Miami Heat,Memphis Grizzlies,18,40,58,1519518600.0,2018
+Memphis Grizzlies,Boston Celtics,Memphis Grizzlies,18,41,59,1519691400.0,2018
+Memphis Grizzlies,Memphis Grizzlies,Phoenix Suns,18,42,60,1519866000.0,2018
+Memphis Grizzlies,Memphis Grizzlies,Denver Nuggets,18,43,61,1520038800.0,2018
+Memphis Grizzlies,Orlando Magic,Memphis Grizzlies,18,44,62,1520121600.0,2018
+Memphis Grizzlies,San Antonio Spurs,Memphis Grizzlies,18,45,63,1520299800.0,2018
+Memphis Grizzlies,Chicago Bulls,Memphis Grizzlies,18,46,64,1520470800.0,2018
+Memphis Grizzlies,Memphis Grizzlies,Utah Jazz,18,47,65,1520643600.0,2018
+Memphis Grizzlies,Dallas Mavericks,Memphis Grizzlies,18,48,66,1520731800.0,2018
+Memphis Grizzlies,Memphis Grizzlies,Milwaukee Bucks,18,49,67,1520899200.0,2018
+Memphis Grizzlies,Memphis Grizzlies,Chicago Bulls,18,50,68,1521158400.0,2018
+Memphis Grizzlies,Memphis Grizzlies,Denver Nuggets,19,50,69,1521331200.0,2018
+Memphis Grizzlies,Brooklyn Nets,Memphis Grizzlies,19,51,70,1521502200.0,2018
+Memphis Grizzlies,Philadelphia 76ers,Memphis Grizzlies,19,52,71,1521673200.0,2018
+Memphis Grizzlies,Charlotte Hornets,Memphis Grizzlies,19,53,72,1521759600.0,2018
+Memphis Grizzlies,Memphis Grizzlies,Los Angeles Lakers,19,54,73,1521936000.0,2018
+Memphis Grizzlies,Minnesota Timberwolves,Memphis Grizzlies,20,54,74,1522108800.0,2018
+Memphis Grizzlies,Memphis Grizzlies,Portland Trail Blazers,21,54,75,1522281600.0,2018
+Memphis Grizzlies,Utah Jazz,Memphis Grizzlies,21,55,76,1522458000.0,2018
+Memphis Grizzlies,Portland Trail Blazers,Memphis Grizzlies,21,56,77,1522630800.0,2018
+Memphis Grizzlies,New Orleans Pelicans,Memphis Grizzlies,21,57,78,1522886400.0,2018
+Memphis Grizzlies,Memphis Grizzlies,Sacramento Kings,21,58,79,1523059200.0,2018
+Memphis Grizzlies,Memphis Grizzlies,Detroit Pistons,22,58,80,1523215800.0,2018
+Memphis Grizzlies,Minnesota Timberwolves,Memphis Grizzlies,22,59,81,1523318400.0,2018
+Memphis Grizzlies,Oklahoma City Thunder,Memphis Grizzlies,22,60,82,1523491200.0,2018
+Miami Heat,Orlando Magic,Miami Heat,0,1,1,1508367600.0,2018
+Miami Heat,Miami Heat,Indiana Pacers,1,1,2,1508630400.0,2018
+Miami Heat,Miami Heat,Atlanta Hawks,2,1,3,1508801400.0,2018
+Miami Heat,Miami Heat,San Antonio Spurs,2,2,4,1508976000.0,2018
+Miami Heat,Miami Heat,Boston Celtics,2,3,5,1509235200.0,2018
+Miami Heat,Miami Heat,Minnesota Timberwolves,2,4,6,1509406200.0,2018
+Miami Heat,Miami Heat,Chicago Bulls,3,4,7,1509579000.0,2018
+Miami Heat,Denver Nuggets,Miami Heat,3,5,8,1509757200.0,2018
+Miami Heat,Los Angeles Clippers,Miami Heat,4,5,9,1509913800.0,2018
+Miami Heat,Golden State Warriors,Miami Heat,4,6,10,1510025400.0,2018
+Miami Heat,Phoenix Suns,Miami Heat,5,6,11,1510192800.0,2018
+Miami Heat,Utah Jazz,Miami Heat,6,6,12,1510365600.0,2018
+Miami Heat,Detroit Pistons,Miami Heat,6,7,13,1510520400.0,2018
+Miami Heat,Miami Heat,Washington Wizards,6,8,14,1510792200.0,2018
+Miami Heat,Washington Wizards,Miami Heat,7,8,15,1510963200.0,2018
+Miami Heat,Miami Heat,Indiana Pacers,7,9,16,1511128800.0,2018
+Miami Heat,Miami Heat,Boston Celtics,8,9,17,1511397000.0,2018
+Miami Heat,Minnesota Timberwolves,Miami Heat,9,9,18,1511571600.0,2018
+Miami Heat,Chicago Bulls,Miami Heat,10,9,19,1511728200.0,2018
+Miami Heat,Cleveland Cavaliers,Miami Heat,10,10,20,1511913600.0,2018
+Miami Heat,New York Knicks,Miami Heat,10,11,21,1512001800.0,2018
+Miami Heat,Miami Heat,Charlotte Hornets,11,11,22,1512176400.0,2018
+Miami Heat,Miami Heat,Golden State Warriors,11,12,23,1512345600.0,2018
+Miami Heat,San Antonio Spurs,Miami Heat,11,13,24,1512610200.0,2018
+Miami Heat,Brooklyn Nets,Miami Heat,12,13,25,1512860400.0,2018
+Miami Heat,Memphis Grizzlies,Miami Heat,13,13,26,1513040400.0,2018
+Miami Heat,Miami Heat,Portland Trail Blazers,13,14,27,1513211400.0,2018
+Miami Heat,Charlotte Hornets,Miami Heat,14,14,28,1513382400.0,2018
+Miami Heat,Miami Heat,Los Angeles Clippers,15,14,29,1513472400.0,2018
+Miami Heat,Atlanta Hawks,Miami Heat,15,15,30,1513643400.0,2018
+Miami Heat,Boston Celtics,Miami Heat,16,15,31,1513816200.0,2018
+Miami Heat,Miami Heat,Dallas Mavericks,17,15,32,1513990800.0,2018
+Miami Heat,Miami Heat,New Orleans Pelicans,17,16,33,1514077200.0,2018
+Miami Heat,Miami Heat,Orlando Magic,18,16,34,1514334600.0,2018
+Miami Heat,Miami Heat,Brooklyn Nets,18,17,35,1514595600.0,2018
+Miami Heat,Orlando Magic,Miami Heat,19,17,36,1514678400.0,2018
+Miami Heat,Miami Heat,Detroit Pistons,20,17,37,1515025800.0,2018
+Miami Heat,Miami Heat,New York Knicks,21,17,38,1515200400.0,2018
+Miami Heat,Miami Heat,Utah Jazz,22,17,39,1515357000.0,2018
+Miami Heat,Toronto Raptors,Miami Heat,23,17,40,1515544200.0,2018
+Miami Heat,Indiana Pacers,Miami Heat,24,17,41,1515628800.0,2018
+Miami Heat,Miami Heat,Milwaukee Bucks,25,17,42,1515952800.0,2018
+Miami Heat,Chicago Bulls,Miami Heat,25,18,43,1516048200.0,2018
+Miami Heat,Milwaukee Bucks,Miami Heat,26,18,44,1516237200.0,2018
+Miami Heat,Brooklyn Nets,Miami Heat,26,19,45,1516408200.0,2018
+Miami Heat,Charlotte Hornets,Miami Heat,27,19,46,1516492800.0,2018
+Miami Heat,Houston Rockets,Miami Heat,27,20,47,1516669200.0,2018
+Miami Heat,Miami Heat,Sacramento Kings,27,21,48,1516926600.0,2018
+Miami Heat,Miami Heat,Charlotte Hornets,28,21,49,1517099400.0,2018
+Miami Heat,Dallas Mavericks,Miami Heat,29,21,50,1517275800.0,2018
+Miami Heat,Cleveland Cavaliers,Miami Heat,29,22,51,1517445000.0,2018
+Miami Heat,Philadelphia 76ers,Miami Heat,29,23,52,1517619600.0,2018
+Miami Heat,Detroit Pistons,Miami Heat,29,24,53,1517702400.0,2018
+Miami Heat,Miami Heat,Orlando Magic,29,25,54,1517877000.0,2018
+Miami Heat,Miami Heat,Houston Rockets,29,26,55,1518049800.0,2018
+Miami Heat,Miami Heat,Milwaukee Bucks,30,26,56,1518224400.0,2018
+Miami Heat,Toronto Raptors,Miami Heat,30,27,57,1518566400.0,2018
+Miami Heat,Philadelphia 76ers,Miami Heat,30,28,58,1518652800.0,2018
+Miami Heat,New Orleans Pelicans,Miami Heat,30,29,59,1519434000.0,2018
+Miami Heat,Miami Heat,Memphis Grizzlies,31,29,60,1519518600.0,2018
+Miami Heat,Miami Heat,Philadelphia 76ers,32,29,61,1519777800.0,2018
+Miami Heat,Miami Heat,Los Angeles Lakers,32,30,62,1519950600.0,2018
+Miami Heat,Miami Heat,Detroit Pistons,33,30,63,1520123400.0,2018
+Miami Heat,Miami Heat,Phoenix Suns,34,30,64,1520296200.0,2018
+Miami Heat,Washington Wizards,Miami Heat,34,31,65,1520380800.0,2018
+Miami Heat,Miami Heat,Philadelphia 76ers,35,31,66,1520555400.0,2018
+Miami Heat,Miami Heat,Washington Wizards,36,31,67,1520728200.0,2018
+Miami Heat,Portland Trail Blazers,Miami Heat,36,32,68,1520908200.0,2018
+Miami Heat,Sacramento Kings,Miami Heat,36,33,69,1521079200.0,2018
+Miami Heat,Los Angeles Lakers,Miami Heat,37,33,70,1521253800.0,2018
+Miami Heat,Miami Heat,Denver Nuggets,38,33,71,1521502200.0,2018
+Miami Heat,Miami Heat,New York Knicks,39,33,72,1521675000.0,2018
+Miami Heat,Oklahoma City Thunder,Miami Heat,39,34,73,1521849600.0,2018
+Miami Heat,Indiana Pacers,Miami Heat,39,35,74,1522011600.0,2018
+Miami Heat,Miami Heat,Cleveland Cavaliers,40,35,75,1522195200.0,2018
+Miami Heat,Miami Heat,Chicago Bulls,41,35,76,1522366200.0,2018
+Miami Heat,Miami Heat,Brooklyn Nets,41,36,77,1522540800.0,2018
+Miami Heat,Miami Heat,Atlanta Hawks,42,36,78,1522798200.0,2018
+Miami Heat,Atlanta Hawks,Miami Heat,43,36,79,1522884600.0,2018
+Miami Heat,New York Knicks,Miami Heat,43,37,80,1523057400.0,2018
+Miami Heat,Miami Heat,Oklahoma City Thunder,43,38,81,1523316600.0,2018
+Miami Heat,Miami Heat,Toronto Raptors,44,38,82,1523491200.0,2018
+Milwaukee Bucks,Boston Celtics,Milwaukee Bucks,1,0,1,1508369400.0,2018
+Milwaukee Bucks,Milwaukee Bucks,Cleveland Cavaliers,1,1,2,1508540400.0,2018
+Milwaukee Bucks,Milwaukee Bucks,Portland Trail Blazers,2,1,3,1508632200.0,2018
+Milwaukee Bucks,Milwaukee Bucks,Charlotte Hornets,3,1,4,1508803200.0,2018
+Milwaukee Bucks,Milwaukee Bucks,Boston Celtics,3,2,5,1509062400.0,2018
+Milwaukee Bucks,Atlanta Hawks,Milwaukee Bucks,4,2,6,1509305400.0,2018
+Milwaukee Bucks,Milwaukee Bucks,Oklahoma City Thunder,4,3,7,1509494400.0,2018
+Milwaukee Bucks,Charlotte Hornets,Milwaukee Bucks,4,4,8,1509577200.0,2018
+Milwaukee Bucks,Detroit Pistons,Milwaukee Bucks,4,5,9,1509750000.0,2018
+Milwaukee Bucks,Cleveland Cavaliers,Milwaukee Bucks,4,6,10,1510099200.0,2018
+Milwaukee Bucks,San Antonio Spurs,Milwaukee Bucks,5,6,11,1510365600.0,2018
+Milwaukee Bucks,Milwaukee Bucks,Los Angeles Lakers,6,6,12,1510450200.0,2018
+Milwaukee Bucks,Milwaukee Bucks,Memphis Grizzlies,7,6,13,1510621200.0,2018
+Milwaukee Bucks,Milwaukee Bucks,Detroit Pistons,8,6,14,1510794000.0,2018
+Milwaukee Bucks,Dallas Mavericks,Milwaukee Bucks,8,7,15,1511056800.0,2018
+Milwaukee Bucks,Milwaukee Bucks,Washington Wizards,8,8,16,1511226000.0,2018
+Milwaukee Bucks,Phoenix Suns,Milwaukee Bucks,9,8,17,1511402400.0,2018
+Milwaukee Bucks,Utah Jazz,Milwaukee Bucks,9,9,18,1511661600.0,2018
+Milwaukee Bucks,Sacramento Kings,Milwaukee Bucks,10,9,19,1511924400.0,2018
+Milwaukee Bucks,Portland Trail Blazers,Milwaukee Bucks,11,9,20,1512097200.0,2018
+Milwaukee Bucks,Milwaukee Bucks,Sacramento Kings,12,9,21,1512264600.0,2018
+Milwaukee Bucks,Boston Celtics,Milwaukee Bucks,12,10,22,1512433800.0,2018
+Milwaukee Bucks,Milwaukee Bucks,Detroit Pistons,13,10,23,1512608400.0,2018
+Milwaukee Bucks,Milwaukee Bucks,Dallas Mavericks,14,10,24,1512781200.0,2018
+Milwaukee Bucks,Milwaukee Bucks,Utah Jazz,15,10,25,1512869400.0,2018
+Milwaukee Bucks,New Orleans Pelicans,Milwaukee Bucks,15,11,26,1513213200.0,2018
+Milwaukee Bucks,Milwaukee Bucks,Chicago Bulls,15,12,27,1513386000.0,2018
+Milwaukee Bucks,Houston Rockets,Milwaukee Bucks,15,13,28,1513472400.0,2018
+Milwaukee Bucks,Milwaukee Bucks,Cleveland Cavaliers,16,13,29,1513731600.0,2018
+Milwaukee Bucks,Milwaukee Bucks,Charlotte Hornets,17,13,30,1513990800.0,2018
+Milwaukee Bucks,Charlotte Hornets,Milwaukee Bucks,17,14,31,1514073600.0,2018
+Milwaukee Bucks,Milwaukee Bucks,Chicago Bulls,17,15,32,1514336400.0,2018
+Milwaukee Bucks,Milwaukee Bucks,Minnesota Timberwolves,18,15,33,1514509200.0,2018
+Milwaukee Bucks,Oklahoma City Thunder,Milwaukee Bucks,19,15,34,1514595600.0,2018
+Milwaukee Bucks,Toronto Raptors,Milwaukee Bucks,19,16,35,1514853000.0,2018
+Milwaukee Bucks,Milwaukee Bucks,Indiana Pacers,20,16,36,1515027600.0,2018
+Milwaukee Bucks,Milwaukee Bucks,Toronto Raptors,20,17,37,1515200400.0,2018
+Milwaukee Bucks,Washington Wizards,Milwaukee Bucks,21,17,38,1515286800.0,2018
+Milwaukee Bucks,Indiana Pacers,Milwaukee Bucks,21,18,39,1515456000.0,2018
+Milwaukee Bucks,Milwaukee Bucks,Orlando Magic,22,18,40,1515632400.0,2018
+Milwaukee Bucks,Milwaukee Bucks,Golden State Warriors,22,19,41,1515805200.0,2018
+Milwaukee Bucks,Miami Heat,Milwaukee Bucks,22,20,42,1515952800.0,2018
+Milwaukee Bucks,Washington Wizards,Milwaukee Bucks,23,20,43,1516042800.0,2018
+Milwaukee Bucks,Milwaukee Bucks,Miami Heat,23,21,44,1516237200.0,2018
+Milwaukee Bucks,Philadelphia 76ers,Milwaukee Bucks,23,22,45,1516494600.0,2018
+Milwaukee Bucks,Milwaukee Bucks,Phoenix Suns,24,22,46,1516669200.0,2018
+Milwaukee Bucks,Milwaukee Bucks,Brooklyn Nets,25,22,47,1517014800.0,2018
+Milwaukee Bucks,Chicago Bulls,Milwaukee Bucks,26,22,48,1517171400.0,2018
+Milwaukee Bucks,Milwaukee Bucks,Philadelphia 76ers,27,22,49,1517274000.0,2018
+Milwaukee Bucks,Minnesota Timberwolves,Milwaukee Bucks,27,23,50,1517533200.0,2018
+Milwaukee Bucks,Milwaukee Bucks,New York Knicks,28,23,51,1517619600.0,2018
+Milwaukee Bucks,Brooklyn Nets,Milwaukee Bucks,29,23,52,1517763600.0,2018
+Milwaukee Bucks,New York Knicks,Milwaukee Bucks,30,23,53,1517963400.0,2018
+Milwaukee Bucks,Miami Heat,Milwaukee Bucks,30,24,54,1518224400.0,2018
+Milwaukee Bucks,Orlando Magic,Milwaukee Bucks,31,24,55,1518307200.0,2018
+Milwaukee Bucks,Milwaukee Bucks,Atlanta Hawks,32,24,56,1518570000.0,2018
+Milwaukee Bucks,Milwaukee Bucks,Denver Nuggets,32,25,57,1518742800.0,2018
+Milwaukee Bucks,Toronto Raptors,Milwaukee Bucks,33,25,58,1519432200.0,2018
+Milwaukee Bucks,Milwaukee Bucks,New Orleans Pelicans,33,26,59,1519588800.0,2018
+Milwaukee Bucks,Milwaukee Bucks,Washington Wizards,33,27,60,1519779600.0,2018
+Milwaukee Bucks,Detroit Pistons,Milwaukee Bucks,33,28,61,1519862400.0,2018
+Milwaukee Bucks,Milwaukee Bucks,Indiana Pacers,33,29,62,1520038800.0,2018
+Milwaukee Bucks,Milwaukee Bucks,Philadelphia 76ers,34,29,63,1520211600.0,2018
+Milwaukee Bucks,Indiana Pacers,Milwaukee Bucks,34,30,64,1520294400.0,2018
+Milwaukee Bucks,Milwaukee Bucks,Houston Rockets,34,31,65,1520470800.0,2018
+Milwaukee Bucks,Milwaukee Bucks,New York Knicks,35,31,66,1520643600.0,2018
+Milwaukee Bucks,Memphis Grizzlies,Milwaukee Bucks,36,31,67,1520899200.0,2018
+Milwaukee Bucks,Orlando Magic,Milwaukee Bucks,36,32,68,1521068400.0,2018
+Milwaukee Bucks,Milwaukee Bucks,Atlanta Hawks,37,32,69,1521324000.0,2018
+Milwaukee Bucks,Cleveland Cavaliers,Milwaukee Bucks,37,33,70,1521500400.0,2018
+Milwaukee Bucks,Milwaukee Bucks,Los Angeles Clippers,37,34,71,1521676800.0,2018
+Milwaukee Bucks,Chicago Bulls,Milwaukee Bucks,38,34,72,1521849600.0,2018
+Milwaukee Bucks,Milwaukee Bucks,San Antonio Spurs,39,34,73,1522006200.0,2018
+Milwaukee Bucks,Los Angeles Clippers,Milwaukee Bucks,39,35,74,1522204200.0,2018
+Milwaukee Bucks,Golden State Warriors,Milwaukee Bucks,40,35,75,1522377000.0,2018
+Milwaukee Bucks,Los Angeles Lakers,Milwaukee Bucks,41,35,76,1522463400.0,2018
+Milwaukee Bucks,Denver Nuggets,Milwaukee Bucks,41,36,77,1522627200.0,2018
+Milwaukee Bucks,Milwaukee Bucks,Boston Celtics,42,36,78,1522800000.0,2018
+Milwaukee Bucks,Milwaukee Bucks,Brooklyn Nets,42,37,79,1522972800.0,2018
+Milwaukee Bucks,New York Knicks,Milwaukee Bucks,43,37,80,1523143800.0,2018
+Milwaukee Bucks,Milwaukee Bucks,Orlando Magic,44,37,81,1523318400.0,2018
+Milwaukee Bucks,Philadelphia 76ers,Milwaukee Bucks,44,38,82,1523491200.0,2018
+Minnesota Timberwolves,San Antonio Spurs,Minnesota Timberwolves,0,1,1,1508376600.0,2018
+Minnesota Timberwolves,Minnesota Timberwolves,Utah Jazz,1,1,2,1508544000.0,2018
+Minnesota Timberwolves,Oklahoma City Thunder,Minnesota Timberwolves,2,1,3,1508713200.0,2018
+Minnesota Timberwolves,Minnesota Timberwolves,Indiana Pacers,2,2,4,1508889600.0,2018
+Minnesota Timberwolves,Detroit Pistons,Minnesota Timberwolves,2,3,5,1508972400.0,2018
+Minnesota Timberwolves,Minnesota Timberwolves,Oklahoma City Thunder,3,3,6,1509148800.0,2018
+Minnesota Timberwolves,Miami Heat,Minnesota Timberwolves,4,3,7,1509406200.0,2018
+Minnesota Timberwolves,New Orleans Pelicans,Minnesota Timberwolves,5,3,8,1509580800.0,2018
+Minnesota Timberwolves,Minnesota Timberwolves,Dallas Mavericks,6,3,9,1509840000.0,2018
+Minnesota Timberwolves,Minnesota Timberwolves,Charlotte Hornets,7,3,10,1509930000.0,2018
+Minnesota Timberwolves,Golden State Warriors,Minnesota Timberwolves,7,4,11,1510198200.0,2018
+Minnesota Timberwolves,Phoenix Suns,Minnesota Timberwolves,7,5,12,1510452000.0,2018
+Minnesota Timberwolves,Utah Jazz,Minnesota Timberwolves,8,5,13,1510624800.0,2018
+Minnesota Timberwolves,Minnesota Timberwolves,San Antonio Spurs,9,5,14,1510794000.0,2018
+Minnesota Timberwolves,Dallas Mavericks,Minnesota Timberwolves,10,5,15,1510968600.0,2018
+Minnesota Timberwolves,Minnesota Timberwolves,Detroit Pistons,10,6,16,1511136000.0,2018
+Minnesota Timberwolves,Charlotte Hornets,Minnesota Timberwolves,10,7,17,1511222400.0,2018
+Minnesota Timberwolves,Minnesota Timberwolves,Orlando Magic,11,7,18,1511398800.0,2018
+Minnesota Timberwolves,Minnesota Timberwolves,Miami Heat,11,8,19,1511571600.0,2018
+Minnesota Timberwolves,Minnesota Timberwolves,Phoenix Suns,12,8,20,1511728200.0,2018
+Minnesota Timberwolves,Minnesota Timberwolves,Washington Wizards,12,9,21,1511917200.0,2018
+Minnesota Timberwolves,New Orleans Pelicans,Minnesota Timberwolves,13,9,22,1512003600.0,2018
+Minnesota Timberwolves,Oklahoma City Thunder,Minnesota Timberwolves,13,10,23,1512176400.0,2018
+Minnesota Timberwolves,Minnesota Timberwolves,Los Angeles Clippers,14,10,24,1512345600.0,2018
+Minnesota Timberwolves,Memphis Grizzlies,Minnesota Timberwolves,14,11,25,1512435600.0,2018
+Minnesota Timberwolves,Los Angeles Clippers,Minnesota Timberwolves,15,11,26,1512617400.0,2018
+Minnesota Timberwolves,Minnesota Timberwolves,Dallas Mavericks,16,11,27,1512950400.0,2018
+Minnesota Timberwolves,Minnesota Timberwolves,Philadelphia 76ers,16,12,28,1513132200.0,2018
+Minnesota Timberwolves,Minnesota Timberwolves,Sacramento Kings,17,12,29,1513299600.0,2018
+Minnesota Timberwolves,Minnesota Timberwolves,Phoenix Suns,17,13,30,1513472400.0,2018
+Minnesota Timberwolves,Minnesota Timberwolves,Portland Trail Blazers,18,13,31,1513645200.0,2018
+Minnesota Timberwolves,Denver Nuggets,Minnesota Timberwolves,19,13,32,1513821600.0,2018
+Minnesota Timberwolves,Phoenix Suns,Minnesota Timberwolves,20,13,33,1514080800.0,2018
+Minnesota Timberwolves,Los Angeles Lakers,Minnesota Timberwolves,21,13,34,1514259000.0,2018
+Minnesota Timberwolves,Minnesota Timberwolves,Denver Nuggets,22,13,35,1514422800.0,2018
+Minnesota Timberwolves,Milwaukee Bucks,Minnesota Timberwolves,22,14,36,1514509200.0,2018
+Minnesota Timberwolves,Indiana Pacers,Minnesota Timberwolves,23,14,37,1514757600.0,2018
+Minnesota Timberwolves,Minnesota Timberwolves,Los Angeles Lakers,24,14,38,1514854800.0,2018
+Minnesota Timberwolves,Brooklyn Nets,Minnesota Timberwolves,24,15,39,1515025800.0,2018
+Minnesota Timberwolves,Boston Celtics,Minnesota Timberwolves,24,16,40,1515196800.0,2018
+Minnesota Timberwolves,Minnesota Timberwolves,New Orleans Pelicans,25,16,41,1515290400.0,2018
+Minnesota Timberwolves,Minnesota Timberwolves,Cleveland Cavaliers,26,16,42,1515459600.0,2018
+Minnesota Timberwolves,Minnesota Timberwolves,Oklahoma City Thunder,27,16,43,1515632400.0,2018
+Minnesota Timberwolves,Minnesota Timberwolves,New York Knicks,28,16,44,1515805200.0,2018
+Minnesota Timberwolves,Minnesota Timberwolves,Portland Trail Blazers,29,16,45,1515981600.0,2018
+Minnesota Timberwolves,Orlando Magic,Minnesota Timberwolves,29,17,46,1516147200.0,2018
+Minnesota Timberwolves,Houston Rockets,Minnesota Timberwolves,29,18,47,1516329000.0,2018
+Minnesota Timberwolves,Minnesota Timberwolves,Toronto Raptors,30,18,48,1516500000.0,2018
+Minnesota Timberwolves,Los Angeles Clippers,Minnesota Timberwolves,31,18,49,1516678200.0,2018
+Minnesota Timberwolves,Portland Trail Blazers,Minnesota Timberwolves,31,19,50,1516849200.0,2018
+Minnesota Timberwolves,Golden State Warriors,Minnesota Timberwolves,31,20,51,1516937400.0,2018
+Minnesota Timberwolves,Minnesota Timberwolves,Brooklyn Nets,32,20,52,1517104800.0,2018
+Minnesota Timberwolves,Atlanta Hawks,Minnesota Timberwolves,32,21,53,1517272200.0,2018
+Minnesota Timberwolves,Toronto Raptors,Minnesota Timberwolves,32,22,54,1517358600.0,2018
+Minnesota Timberwolves,Minnesota Timberwolves,Milwaukee Bucks,33,22,55,1517533200.0,2018
+Minnesota Timberwolves,Minnesota Timberwolves,New Orleans Pelicans,34,22,56,1517709600.0,2018
+Minnesota Timberwolves,Cleveland Cavaliers,Minnesota Timberwolves,34,23,57,1518051600.0,2018
+Minnesota Timberwolves,Chicago Bulls,Minnesota Timberwolves,34,24,58,1518229800.0,2018
+Minnesota Timberwolves,Minnesota Timberwolves,Sacramento Kings,35,24,59,1518393600.0,2018
+Minnesota Timberwolves,Minnesota Timberwolves,Houston Rockets,35,25,60,1518570000.0,2018
+Minnesota Timberwolves,Minnesota Timberwolves,Los Angeles Lakers,36,25,61,1518746400.0,2018
+Minnesota Timberwolves,Houston Rockets,Minnesota Timberwolves,36,26,62,1519434000.0,2018
+Minnesota Timberwolves,Minnesota Timberwolves,Chicago Bulls,37,26,63,1519524000.0,2018
+Minnesota Timberwolves,Sacramento Kings,Minnesota Timberwolves,38,26,64,1519700400.0,2018
+Minnesota Timberwolves,Portland Trail Blazers,Minnesota Timberwolves,38,27,65,1519961400.0,2018
+Minnesota Timberwolves,Utah Jazz,Minnesota Timberwolves,38,28,66,1520047800.0,2018
+Minnesota Timberwolves,Minnesota Timberwolves,Boston Celtics,38,29,67,1520557200.0,2018
+Minnesota Timberwolves,Minnesota Timberwolves,Golden State Warriors,39,29,68,1520796600.0,2018
+Minnesota Timberwolves,Washington Wizards,Minnesota Timberwolves,40,29,69,1520982000.0,2018
+Minnesota Timberwolves,San Antonio Spurs,Minnesota Timberwolves,40,30,70,1521333000.0,2018
+Minnesota Timberwolves,Minnesota Timberwolves,Houston Rockets,40,31,71,1521414000.0,2018
+Minnesota Timberwolves,Minnesota Timberwolves,Los Angeles Clippers,41,31,72,1521590400.0,2018
+Minnesota Timberwolves,New York Knicks,Minnesota Timberwolves,42,31,73,1521847800.0,2018
+Minnesota Timberwolves,Philadelphia 76ers,Minnesota Timberwolves,42,32,74,1521928800.0,2018
+Minnesota Timberwolves,Minnesota Timberwolves,Memphis Grizzlies,42,33,75,1522108800.0,2018
+Minnesota Timberwolves,Minnesota Timberwolves,Atlanta Hawks,43,33,76,1522281600.0,2018
+Minnesota Timberwolves,Dallas Mavericks,Minnesota Timberwolves,44,33,77,1522456200.0,2018
+Minnesota Timberwolves,Minnesota Timberwolves,Utah Jazz,44,34,78,1522623600.0,2018
+Minnesota Timberwolves,Denver Nuggets,Minnesota Timberwolves,44,35,79,1522981800.0,2018
+Minnesota Timberwolves,Los Angeles Lakers,Minnesota Timberwolves,45,35,80,1523068200.0,2018
+Minnesota Timberwolves,Minnesota Timberwolves,Memphis Grizzlies,46,35,81,1523318400.0,2018
+Minnesota Timberwolves,Minnesota Timberwolves,Denver Nuggets,47,35,82,1523491200.0,2018
+New Orleans Pelicans,Memphis Grizzlies,New Orleans Pelicans,0,1,1,1508371200.0,2018
+New Orleans Pelicans,New Orleans Pelicans,Golden State Warriors,0,2,2,1508549400.0,2018
+New Orleans Pelicans,Los Angeles Lakers,New Orleans Pelicans,1,2,3,1508722200.0,2018
+New Orleans Pelicans,Portland Trail Blazers,New Orleans Pelicans,1,3,4,1508896800.0,2018
+New Orleans Pelicans,Sacramento Kings,New Orleans Pelicans,2,3,5,1509071400.0,2018
+New Orleans Pelicans,New Orleans Pelicans,Cleveland Cavaliers,3,3,6,1509231600.0,2018
+New Orleans Pelicans,New Orleans Pelicans,Orlando Magic,3,4,7,1509408000.0,2018
+New Orleans Pelicans,New Orleans Pelicans,Minnesota Timberwolves,3,5,8,1509580800.0,2018
+New Orleans Pelicans,Dallas Mavericks,New Orleans Pelicans,4,5,9,1509755400.0,2018
+New Orleans Pelicans,Chicago Bulls,New Orleans Pelicans,5,5,10,1509840000.0,2018
+New Orleans Pelicans,Indiana Pacers,New Orleans Pelicans,6,5,11,1510099200.0,2018
+New Orleans Pelicans,Toronto Raptors,New Orleans Pelicans,6,6,12,1510273800.0,2018
+New Orleans Pelicans,New Orleans Pelicans,Los Angeles Clippers,7,6,13,1510444800.0,2018
+New Orleans Pelicans,New Orleans Pelicans,Atlanta Hawks,8,6,14,1510621200.0,2018
+New Orleans Pelicans,New Orleans Pelicans,Toronto Raptors,8,7,15,1510794000.0,2018
+New Orleans Pelicans,Denver Nuggets,New Orleans Pelicans,8,8,16,1510975800.0,2018
+New Orleans Pelicans,New Orleans Pelicans,Oklahoma City Thunder,9,8,17,1511226000.0,2018
+New Orleans Pelicans,New Orleans Pelicans,San Antonio Spurs,10,8,18,1511398800.0,2018
+New Orleans Pelicans,Phoenix Suns,New Orleans Pelicans,11,8,19,1511575200.0,2018
+New Orleans Pelicans,Golden State Warriors,New Orleans Pelicans,11,9,20,1511659800.0,2018
+New Orleans Pelicans,New Orleans Pelicans,Minnesota Timberwolves,11,10,21,1512003600.0,2018
+New Orleans Pelicans,Utah Jazz,New Orleans Pelicans,11,11,22,1512180000.0,2018
+New Orleans Pelicans,Portland Trail Blazers,New Orleans Pelicans,12,11,23,1512270000.0,2018
+New Orleans Pelicans,New Orleans Pelicans,Golden State Warriors,12,12,24,1512435600.0,2018
+New Orleans Pelicans,New Orleans Pelicans,Denver Nuggets,13,12,25,1512608400.0,2018
+New Orleans Pelicans,New Orleans Pelicans,Sacramento Kings,13,13,26,1512781200.0,2018
+New Orleans Pelicans,New Orleans Pelicans,Philadelphia 76ers,14,13,27,1512950400.0,2018
+New Orleans Pelicans,Houston Rockets,New Orleans Pelicans,14,14,28,1513040400.0,2018
+New Orleans Pelicans,New Orleans Pelicans,Milwaukee Bucks,15,14,29,1513213200.0,2018
+New Orleans Pelicans,Denver Nuggets,New Orleans Pelicans,15,15,30,1513389600.0,2018
+New Orleans Pelicans,Washington Wizards,New Orleans Pelicans,15,16,31,1513728000.0,2018
+New Orleans Pelicans,Orlando Magic,New Orleans Pelicans,16,16,32,1513987200.0,2018
+New Orleans Pelicans,Miami Heat,New Orleans Pelicans,17,16,33,1514077200.0,2018
+New Orleans Pelicans,New Orleans Pelicans,Brooklyn Nets,18,16,34,1514422800.0,2018
+New Orleans Pelicans,New Orleans Pelicans,Dallas Mavericks,18,17,35,1514595600.0,2018
+New Orleans Pelicans,New Orleans Pelicans,New York Knicks,18,18,36,1514678400.0,2018
+New Orleans Pelicans,Utah Jazz,New Orleans Pelicans,19,18,37,1515031200.0,2018
+New Orleans Pelicans,Minnesota Timberwolves,New Orleans Pelicans,19,19,38,1515290400.0,2018
+New Orleans Pelicans,New Orleans Pelicans,Detroit Pistons,20,19,39,1515459600.0,2018
+New Orleans Pelicans,Memphis Grizzlies,New Orleans Pelicans,20,20,40,1515632400.0,2018
+New Orleans Pelicans,New Orleans Pelicans,Portland Trail Blazers,21,20,41,1515805200.0,2018
+New Orleans Pelicans,New York Knicks,New Orleans Pelicans,22,20,42,1515961800.0,2018
+New Orleans Pelicans,Boston Celtics,New Orleans Pelicans,23,20,43,1516149000.0,2018
+New Orleans Pelicans,Atlanta Hawks,New Orleans Pelicans,23,21,44,1516235400.0,2018
+New Orleans Pelicans,New Orleans Pelicans,Memphis Grizzlies,24,21,45,1516492800.0,2018
+New Orleans Pelicans,New Orleans Pelicans,Chicago Bulls,25,21,46,1516669200.0,2018
+New Orleans Pelicans,Charlotte Hornets,New Orleans Pelicans,26,21,47,1516838400.0,2018
+New Orleans Pelicans,New Orleans Pelicans,Houston Rockets,27,21,48,1517014800.0,2018
+New Orleans Pelicans,New Orleans Pelicans,Los Angeles Clippers,27,22,49,1517173200.0,2018
+New Orleans Pelicans,New Orleans Pelicans,Sacramento Kings,27,23,50,1517360400.0,2018
+New Orleans Pelicans,Oklahoma City Thunder,New Orleans Pelicans,28,23,51,1517623200.0,2018
+New Orleans Pelicans,Minnesota Timberwolves,New Orleans Pelicans,28,24,52,1517709600.0,2018
+New Orleans Pelicans,New Orleans Pelicans,Utah Jazz,28,25,53,1517878800.0,2018
+New Orleans Pelicans,Philadelphia 76ers,New Orleans Pelicans,28,26,54,1518220800.0,2018
+New Orleans Pelicans,Brooklyn Nets,New Orleans Pelicans,29,26,55,1518303600.0,2018
+New Orleans Pelicans,Detroit Pistons,New Orleans Pelicans,30,26,56,1518480000.0,2018
+New Orleans Pelicans,New Orleans Pelicans,Los Angeles Lakers,31,26,57,1518656400.0,2018
+New Orleans Pelicans,New Orleans Pelicans,Miami Heat,32,26,58,1519434000.0,2018
+New Orleans Pelicans,Milwaukee Bucks,New Orleans Pelicans,33,26,59,1519588800.0,2018
+New Orleans Pelicans,New Orleans Pelicans,Phoenix Suns,34,26,60,1519693200.0,2018
+New Orleans Pelicans,San Antonio Spurs,New Orleans Pelicans,35,26,61,1519867800.0,2018
+New Orleans Pelicans,Dallas Mavericks,New Orleans Pelicans,36,26,62,1520208000.0,2018
+New Orleans Pelicans,Los Angeles Clippers,New Orleans Pelicans,37,26,63,1520393400.0,2018
+New Orleans Pelicans,Sacramento Kings,New Orleans Pelicans,38,26,64,1520478000.0,2018
+New Orleans Pelicans,New Orleans Pelicans,Washington Wizards,38,27,65,1520643600.0,2018
+New Orleans Pelicans,New Orleans Pelicans,Utah Jazz,38,28,66,1520798400.0,2018
+New Orleans Pelicans,New Orleans Pelicans,Charlotte Hornets,39,28,67,1520985600.0,2018
+New Orleans Pelicans,San Antonio Spurs,New Orleans Pelicans,39,29,68,1521160200.0,2018
+New Orleans Pelicans,New Orleans Pelicans,Houston Rockets,39,30,69,1521327600.0,2018
+New Orleans Pelicans,New Orleans Pelicans,Boston Celtics,40,30,70,1521410400.0,2018
+New Orleans Pelicans,New Orleans Pelicans,Dallas Mavericks,41,30,71,1521590400.0,2018
+New Orleans Pelicans,New Orleans Pelicans,Indiana Pacers,42,30,72,1521676800.0,2018
+New Orleans Pelicans,New Orleans Pelicans,Los Angeles Lakers,43,30,73,1521763200.0,2018
+New Orleans Pelicans,Houston Rockets,New Orleans Pelicans,43,31,74,1521936000.0,2018
+New Orleans Pelicans,New Orleans Pelicans,Portland Trail Blazers,43,32,75,1522195200.0,2018
+New Orleans Pelicans,Cleveland Cavaliers,New Orleans Pelicans,43,33,76,1522454400.0,2018
+New Orleans Pelicans,New Orleans Pelicans,Oklahoma City Thunder,43,34,77,1522620000.0,2018
+New Orleans Pelicans,New Orleans Pelicans,Memphis Grizzlies,44,34,78,1522886400.0,2018
+New Orleans Pelicans,Phoenix Suns,New Orleans Pelicans,45,34,79,1523066400.0,2018
+New Orleans Pelicans,Golden State Warriors,New Orleans Pelicans,46,34,80,1523147400.0,2018
+New Orleans Pelicans,Los Angeles Clippers,New Orleans Pelicans,47,34,81,1523327400.0,2018
+New Orleans Pelicans,New Orleans Pelicans,San Antonio Spurs,48,34,82,1523491200.0,2018
+New York Knicks,Oklahoma City Thunder,New York Knicks,0,1,1,1508457600.0,2018
+New York Knicks,New York Knicks,Detroit Pistons,0,2,2,1508630400.0,2018
+New York Knicks,Boston Celtics,New York Knicks,0,3,3,1508887800.0,2018
+New York Knicks,New York Knicks,Brooklyn Nets,1,3,4,1509147000.0,2018
+New York Knicks,Cleveland Cavaliers,New York Knicks,2,3,5,1509318000.0,2018
+New York Knicks,New York Knicks,Denver Nuggets,3,3,6,1509406200.0,2018
+New York Knicks,New York Knicks,Houston Rockets,3,4,7,1509580800.0,2018
+New York Knicks,New York Knicks,Phoenix Suns,4,4,8,1509751800.0,2018
+New York Knicks,New York Knicks,Indiana Pacers,5,4,9,1509928200.0,2018
+New York Knicks,New York Knicks,Charlotte Hornets,6,4,10,1510101000.0,2018
+New York Knicks,Orlando Magic,New York Knicks,6,5,11,1510185600.0,2018
+New York Knicks,New York Knicks,Sacramento Kings,7,5,12,1510448400.0,2018
+New York Knicks,New York Knicks,Cleveland Cavaliers,7,6,13,1510619400.0,2018
+New York Knicks,New York Knicks,Utah Jazz,8,6,14,1510792200.0,2018
+New York Knicks,Toronto Raptors,New York Knicks,8,7,15,1510965000.0,2018
+New York Knicks,New York Knicks,Los Angeles Clippers,9,7,16,1511224200.0,2018
+New York Knicks,New York Knicks,Toronto Raptors,10,7,17,1511397000.0,2018
+New York Knicks,Atlanta Hawks,New York Knicks,10,8,18,1511569800.0,2018
+New York Knicks,Houston Rockets,New York Knicks,10,9,19,1511658000.0,2018
+New York Knicks,New York Knicks,Portland Trail Blazers,10,10,20,1511829000.0,2018
+New York Knicks,New York Knicks,Miami Heat,11,10,21,1512001800.0,2018
+New York Knicks,New York Knicks,Orlando Magic,11,11,22,1512333000.0,2018
+New York Knicks,Indiana Pacers,New York Knicks,11,12,23,1512432000.0,2018
+New York Knicks,New York Knicks,Memphis Grizzlies,12,12,24,1512606600.0,2018
+New York Knicks,Chicago Bulls,New York Knicks,12,13,25,1512867600.0,2018
+New York Knicks,New York Knicks,Atlanta Hawks,13,13,26,1512952200.0,2018
+New York Knicks,New York Knicks,Los Angeles Lakers,14,13,27,1513123200.0,2018
+New York Knicks,Brooklyn Nets,New York Knicks,15,13,28,1513297800.0,2018
+New York Knicks,New York Knicks,Oklahoma City Thunder,16,13,29,1513470600.0,2018
+New York Knicks,Charlotte Hornets,New York Knicks,16,14,30,1513641600.0,2018
+New York Knicks,New York Knicks,Boston Celtics,17,14,31,1513904400.0,2018
+New York Knicks,Detroit Pistons,New York Knicks,17,15,32,1513987200.0,2018
+New York Knicks,New York Knicks,Philadelphia 76ers,17,16,33,1514221200.0,2018
+New York Knicks,Chicago Bulls,New York Knicks,17,17,34,1514422800.0,2018
+New York Knicks,San Antonio Spurs,New York Knicks,17,18,35,1514511000.0,2018
+New York Knicks,New Orleans Pelicans,New York Knicks,18,18,36,1514678400.0,2018
+New York Knicks,New York Knicks,San Antonio Spurs,18,19,37,1514939400.0,2018
+New York Knicks,Washington Wizards,New York Knicks,18,20,38,1515024000.0,2018
+New York Knicks,Miami Heat,New York Knicks,18,21,39,1515200400.0,2018
+New York Knicks,Dallas Mavericks,New York Knicks,19,21,40,1515369600.0,2018
+New York Knicks,New York Knicks,Chicago Bulls,19,22,41,1515630600.0,2018
+New York Knicks,Minnesota Timberwolves,New York Knicks,19,23,42,1515805200.0,2018
+New York Knicks,New York Knicks,New Orleans Pelicans,19,24,43,1515961800.0,2018
+New York Knicks,Brooklyn Nets,New York Knicks,20,24,44,1516046400.0,2018
+New York Knicks,Memphis Grizzlies,New York Knicks,20,25,45,1516237200.0,2018
+New York Knicks,Utah Jazz,New York Knicks,21,25,46,1516419000.0,2018
+New York Knicks,Los Angeles Lakers,New York Knicks,21,26,47,1516566600.0,2018
+New York Knicks,Golden State Warriors,New York Knicks,21,27,48,1516764600.0,2018
+New York Knicks,Denver Nuggets,New York Knicks,21,28,49,1516932000.0,2018
+New York Knicks,Phoenix Suns,New York Knicks,22,28,50,1517018400.0,2018
+New York Knicks,New York Knicks,Brooklyn Nets,23,28,51,1517358600.0,2018
+New York Knicks,Boston Celtics,New York Knicks,23,29,52,1517446800.0,2018
+New York Knicks,Milwaukee Bucks,New York Knicks,23,30,53,1517619600.0,2018
+New York Knicks,New York Knicks,Atlanta Hawks,23,31,54,1517763600.0,2018
+New York Knicks,New York Knicks,Milwaukee Bucks,23,32,55,1517963400.0,2018
+New York Knicks,Toronto Raptors,New York Knicks,23,33,56,1518136200.0,2018
+New York Knicks,Indiana Pacers,New York Knicks,23,34,57,1518386400.0,2018
+New York Knicks,Philadelphia 76ers,New York Knicks,23,35,58,1518480000.0,2018
+New York Knicks,New York Knicks,Washington Wizards,23,36,59,1518654600.0,2018
+New York Knicks,Orlando Magic,New York Knicks,24,36,60,1519344000.0,2018
+New York Knicks,New York Knicks,Boston Celtics,24,37,61,1519518600.0,2018
+New York Knicks,New York Knicks,Golden State Warriors,24,38,62,1519691400.0,2018
+New York Knicks,Los Angeles Clippers,New York Knicks,24,39,63,1520047800.0,2018
+New York Knicks,Sacramento Kings,New York Knicks,24,40,64,1520215200.0,2018
+New York Knicks,Portland Trail Blazers,New York Knicks,24,41,65,1520391600.0,2018
+New York Knicks,Milwaukee Bucks,New York Knicks,24,42,66,1520643600.0,2018
+New York Knicks,New York Knicks,Toronto Raptors,24,43,67,1520787600.0,2018
+New York Knicks,New York Knicks,Dallas Mavericks,24,44,68,1520983800.0,2018
+New York Knicks,New York Knicks,Philadelphia 76ers,24,45,69,1521156600.0,2018
+New York Knicks,New York Knicks,Charlotte Hornets,25,45,70,1521329400.0,2018
+New York Knicks,New York Knicks,Chicago Bulls,26,45,71,1521502200.0,2018
+New York Knicks,Miami Heat,New York Knicks,26,46,72,1521675000.0,2018
+New York Knicks,New York Knicks,Minnesota Timberwolves,26,47,73,1521847800.0,2018
+New York Knicks,Washington Wizards,New York Knicks,27,47,74,1522015200.0,2018
+New York Knicks,Charlotte Hornets,New York Knicks,27,48,75,1522105200.0,2018
+New York Knicks,Philadelphia 76ers,New York Knicks,27,49,76,1522278000.0,2018
+New York Knicks,New York Knicks,Detroit Pistons,27,50,77,1522530000.0,2018
+New York Knicks,New York Knicks,Orlando Magic,27,51,78,1522798200.0,2018
+New York Knicks,New York Knicks,Miami Heat,28,51,79,1523057400.0,2018
+New York Knicks,New York Knicks,Milwaukee Bucks,28,52,80,1523143800.0,2018
+New York Knicks,New York Knicks,Cleveland Cavaliers,28,53,81,1523316600.0,2018
+New York Knicks,Cleveland Cavaliers,New York Knicks,29,53,82,1523491200.0,2018
+Oklahoma City Thunder,Oklahoma City Thunder,New York Knicks,1,0,1,1508457600.0,2018
+Oklahoma City Thunder,Utah Jazz,Oklahoma City Thunder,1,1,2,1508634000.0,2018
+Oklahoma City Thunder,Oklahoma City Thunder,Minnesota Timberwolves,1,2,3,1508713200.0,2018
+Oklahoma City Thunder,Oklahoma City Thunder,Indiana Pacers,2,2,4,1508976000.0,2018
+Oklahoma City Thunder,Minnesota Timberwolves,Oklahoma City Thunder,2,3,5,1509148800.0,2018
+Oklahoma City Thunder,Chicago Bulls,Oklahoma City Thunder,3,3,6,1509235200.0,2018
+Oklahoma City Thunder,Milwaukee Bucks,Oklahoma City Thunder,4,3,7,1509494400.0,2018
+Oklahoma City Thunder,Oklahoma City Thunder,Boston Celtics,4,4,8,1509759000.0,2018
+Oklahoma City Thunder,Portland Trail Blazers,Oklahoma City Thunder,4,5,9,1509933600.0,2018
+Oklahoma City Thunder,Sacramento Kings,Oklahoma City Thunder,4,6,10,1510110000.0,2018
+Oklahoma City Thunder,Denver Nuggets,Oklahoma City Thunder,4,7,11,1510284600.0,2018
+Oklahoma City Thunder,Oklahoma City Thunder,Los Angeles Clippers,5,7,12,1510365600.0,2018
+Oklahoma City Thunder,Oklahoma City Thunder,Dallas Mavericks,6,7,13,1510531200.0,2018
+Oklahoma City Thunder,Oklahoma City Thunder,Chicago Bulls,7,7,14,1510794000.0,2018
+Oklahoma City Thunder,San Antonio Spurs,Oklahoma City Thunder,7,8,15,1510966800.0,2018
+Oklahoma City Thunder,New Orleans Pelicans,Oklahoma City Thunder,7,9,16,1511226000.0,2018
+Oklahoma City Thunder,Oklahoma City Thunder,Golden State Warriors,8,9,17,1511398800.0,2018
+Oklahoma City Thunder,Oklahoma City Thunder,Detroit Pistons,8,10,18,1511571600.0,2018
+Oklahoma City Thunder,Dallas Mavericks,Oklahoma City Thunder,8,11,19,1511659800.0,2018
+Oklahoma City Thunder,Orlando Magic,Oklahoma City Thunder,8,12,20,1512000000.0,2018
+Oklahoma City Thunder,Oklahoma City Thunder,Minnesota Timberwolves,9,12,21,1512176400.0,2018
+Oklahoma City Thunder,Oklahoma City Thunder,San Antonio Spurs,10,12,22,1512345600.0,2018
+Oklahoma City Thunder,Oklahoma City Thunder,Utah Jazz,11,12,23,1512522000.0,2018
+Oklahoma City Thunder,Brooklyn Nets,Oklahoma City Thunder,11,13,24,1512702000.0,2018
+Oklahoma City Thunder,Memphis Grizzlies,Oklahoma City Thunder,12,13,25,1512871200.0,2018
+Oklahoma City Thunder,Oklahoma City Thunder,Charlotte Hornets,12,14,26,1513040400.0,2018
+Oklahoma City Thunder,Indiana Pacers,Oklahoma City Thunder,13,14,27,1513209600.0,2018
+Oklahoma City Thunder,Philadelphia 76ers,Oklahoma City Thunder,14,14,28,1513382400.0,2018
+Oklahoma City Thunder,New York Knicks,Oklahoma City Thunder,14,15,29,1513470600.0,2018
+Oklahoma City Thunder,Oklahoma City Thunder,Denver Nuggets,15,15,30,1513645200.0,2018
+Oklahoma City Thunder,Oklahoma City Thunder,Utah Jazz,16,15,31,1513818000.0,2018
+Oklahoma City Thunder,Oklahoma City Thunder,Atlanta Hawks,17,15,32,1513990800.0,2018
+Oklahoma City Thunder,Utah Jazz,Oklahoma City Thunder,18,15,33,1514077200.0,2018
+Oklahoma City Thunder,Oklahoma City Thunder,Houston Rockets,19,15,34,1514250000.0,2018
+Oklahoma City Thunder,Oklahoma City Thunder,Toronto Raptors,20,15,35,1514422800.0,2018
+Oklahoma City Thunder,Oklahoma City Thunder,Milwaukee Bucks,20,16,36,1514595600.0,2018
+Oklahoma City Thunder,Oklahoma City Thunder,Dallas Mavericks,20,17,37,1514764800.0,2018
+Oklahoma City Thunder,Los Angeles Lakers,Oklahoma City Thunder,21,17,38,1515036600.0,2018
+Oklahoma City Thunder,Los Angeles Clippers,Oklahoma City Thunder,22,17,39,1515123000.0,2018
+Oklahoma City Thunder,Phoenix Suns,Oklahoma City Thunder,22,18,40,1515373200.0,2018
+Oklahoma City Thunder,Oklahoma City Thunder,Portland Trail Blazers,22,19,41,1515546000.0,2018
+Oklahoma City Thunder,Minnesota Timberwolves,Oklahoma City Thunder,22,20,42,1515632400.0,2018
+Oklahoma City Thunder,Charlotte Hornets,Oklahoma City Thunder,23,20,43,1515880800.0,2018
+Oklahoma City Thunder,Oklahoma City Thunder,Sacramento Kings,24,20,44,1516064400.0,2018
+Oklahoma City Thunder,Oklahoma City Thunder,Los Angeles Lakers,25,20,45,1516237200.0,2018
+Oklahoma City Thunder,Cleveland Cavaliers,Oklahoma City Thunder,26,20,46,1516480200.0,2018
+Oklahoma City Thunder,Oklahoma City Thunder,Brooklyn Nets,27,20,47,1516755600.0,2018
+Oklahoma City Thunder,Oklahoma City Thunder,Washington Wizards,28,20,48,1516928400.0,2018
+Oklahoma City Thunder,Detroit Pistons,Oklahoma City Thunder,29,20,49,1517090400.0,2018
+Oklahoma City Thunder,Oklahoma City Thunder,Philadelphia 76ers,30,20,50,1517180400.0,2018
+Oklahoma City Thunder,Washington Wizards,Oklahoma City Thunder,30,21,51,1517356800.0,2018
+Oklahoma City Thunder,Denver Nuggets,Oklahoma City Thunder,30,22,52,1517542200.0,2018
+Oklahoma City Thunder,Oklahoma City Thunder,New Orleans Pelicans,30,23,53,1517623200.0,2018
+Oklahoma City Thunder,Oklahoma City Thunder,Los Angeles Lakers,30,24,54,1517770800.0,2018
+Oklahoma City Thunder,Golden State Warriors,Oklahoma City Thunder,31,24,55,1517974200.0,2018
+Oklahoma City Thunder,Los Angeles Lakers,Oklahoma City Thunder,31,25,56,1518147000.0,2018
+Oklahoma City Thunder,Oklahoma City Thunder,Memphis Grizzlies,32,25,57,1518393600.0,2018
+Oklahoma City Thunder,Oklahoma City Thunder,Cleveland Cavaliers,32,26,58,1518570000.0,2018
+Oklahoma City Thunder,Memphis Grizzlies,Oklahoma City Thunder,33,26,59,1518656400.0,2018
+Oklahoma City Thunder,Sacramento Kings,Oklahoma City Thunder,34,26,60,1519354800.0,2018
+Oklahoma City Thunder,Golden State Warriors,Oklahoma City Thunder,34,27,61,1519522200.0,2018
+Oklahoma City Thunder,Oklahoma City Thunder,Orlando Magic,35,27,62,1519693200.0,2018
+Oklahoma City Thunder,Dallas Mavericks,Oklahoma City Thunder,36,27,63,1519867800.0,2018
+Oklahoma City Thunder,Phoenix Suns,Oklahoma City Thunder,37,27,64,1520042400.0,2018
+Oklahoma City Thunder,Portland Trail Blazers,Oklahoma City Thunder,37,28,65,1520132400.0,2018
+Oklahoma City Thunder,Oklahoma City Thunder,Houston Rockets,37,29,66,1520384400.0,2018
+Oklahoma City Thunder,Oklahoma City Thunder,Phoenix Suns,38,29,67,1520557200.0,2018
+Oklahoma City Thunder,Oklahoma City Thunder,San Antonio Spurs,39,29,68,1520731800.0,2018
+Oklahoma City Thunder,Oklahoma City Thunder,Sacramento Kings,40,29,69,1520899200.0,2018
+Oklahoma City Thunder,Atlanta Hawks,Oklahoma City Thunder,41,29,70,1520983800.0,2018
+Oklahoma City Thunder,Oklahoma City Thunder,Los Angeles Clippers,42,29,71,1521244800.0,2018
+Oklahoma City Thunder,Toronto Raptors,Oklahoma City Thunder,43,29,72,1521392400.0,2018
+Oklahoma City Thunder,Boston Celtics,Oklahoma City Thunder,43,30,73,1521590400.0,2018
+Oklahoma City Thunder,Oklahoma City Thunder,Miami Heat,44,30,74,1521849600.0,2018
+Oklahoma City Thunder,Oklahoma City Thunder,Portland Trail Blazers,44,31,75,1522018800.0,2018
+Oklahoma City Thunder,San Antonio Spurs,Oklahoma City Thunder,44,32,76,1522368000.0,2018
+Oklahoma City Thunder,Oklahoma City Thunder,Denver Nuggets,44,33,77,1522454400.0,2018
+Oklahoma City Thunder,New Orleans Pelicans,Oklahoma City Thunder,45,33,78,1522620000.0,2018
+Oklahoma City Thunder,Oklahoma City Thunder,Golden State Warriors,45,34,79,1522800000.0,2018
+Oklahoma City Thunder,Houston Rockets,Oklahoma City Thunder,46,34,80,1523147400.0,2018
+Oklahoma City Thunder,Miami Heat,Oklahoma City Thunder,47,34,81,1523316600.0,2018
+Oklahoma City Thunder,Oklahoma City Thunder,Memphis Grizzlies,48,34,82,1523491200.0,2018
+Orlando Magic,Orlando Magic,Miami Heat,1,0,1,1508367600.0,2018
+Orlando Magic,Brooklyn Nets,Orlando Magic,1,1,2,1508542200.0,2018
+Orlando Magic,Cleveland Cavaliers,Orlando Magic,2,1,3,1508630400.0,2018
+Orlando Magic,Orlando Magic,Brooklyn Nets,3,1,4,1508886000.0,2018
+Orlando Magic,Orlando Magic,San Antonio Spurs,4,1,5,1509145200.0,2018
+Orlando Magic,Charlotte Hornets,Orlando Magic,4,2,6,1509314400.0,2018
+Orlando Magic,New Orleans Pelicans,Orlando Magic,5,2,7,1509408000.0,2018
+Orlando Magic,Memphis Grizzlies,Orlando Magic,6,2,8,1509580800.0,2018
+Orlando Magic,Orlando Magic,Chicago Bulls,6,3,9,1509750000.0,2018
+Orlando Magic,Orlando Magic,Boston Celtics,6,4,10,1509922800.0,2018
+Orlando Magic,Orlando Magic,New York Knicks,7,4,11,1510185600.0,2018
+Orlando Magic,Phoenix Suns,Orlando Magic,8,4,12,1510365600.0,2018
+Orlando Magic,Denver Nuggets,Orlando Magic,8,5,13,1510452000.0,2018
+Orlando Magic,Golden State Warriors,Orlando Magic,8,6,14,1510630200.0,2018
+Orlando Magic,Portland Trail Blazers,Orlando Magic,8,7,15,1510801200.0,2018
+Orlando Magic,Orlando Magic,Utah Jazz,8,8,16,1511049600.0,2018
+Orlando Magic,Orlando Magic,Indiana Pacers,8,9,17,1511222400.0,2018
+Orlando Magic,Minnesota Timberwolves,Orlando Magic,8,10,18,1511398800.0,2018
+Orlando Magic,Boston Celtics,Orlando Magic,8,11,19,1511569800.0,2018
+Orlando Magic,Philadelphia 76ers,Orlando Magic,8,12,20,1511654400.0,2018
+Orlando Magic,Indiana Pacers,Orlando Magic,8,13,21,1511827200.0,2018
+Orlando Magic,Orlando Magic,Oklahoma City Thunder,9,13,22,1512000000.0,2018
+Orlando Magic,Orlando Magic,Golden State Warriors,9,14,23,1512172800.0,2018
+Orlando Magic,New York Knicks,Orlando Magic,10,14,24,1512333000.0,2018
+Orlando Magic,Charlotte Hornets,Orlando Magic,10,15,25,1512432000.0,2018
+Orlando Magic,Orlando Magic,Atlanta Hawks,11,15,26,1512604800.0,2018
+Orlando Magic,Orlando Magic,Denver Nuggets,11,16,27,1512777600.0,2018
+Orlando Magic,Atlanta Hawks,Orlando Magic,11,17,28,1512865800.0,2018
+Orlando Magic,Orlando Magic,Los Angeles Clippers,11,18,29,1513209600.0,2018
+Orlando Magic,Orlando Magic,Portland Trail Blazers,11,19,30,1513382400.0,2018
+Orlando Magic,Detroit Pistons,Orlando Magic,11,20,31,1513544400.0,2018
+Orlando Magic,Chicago Bulls,Orlando Magic,11,21,32,1513818000.0,2018
+Orlando Magic,Orlando Magic,New Orleans Pelicans,11,22,33,1513987200.0,2018
+Orlando Magic,Washington Wizards,Orlando Magic,11,23,34,1514073600.0,2018
+Orlando Magic,Miami Heat,Orlando Magic,11,24,35,1514334600.0,2018
+Orlando Magic,Orlando Magic,Detroit Pistons,12,24,36,1514505600.0,2018
+Orlando Magic,Orlando Magic,Miami Heat,12,25,37,1514678400.0,2018
+Orlando Magic,Brooklyn Nets,Orlando Magic,12,26,38,1514853000.0,2018
+Orlando Magic,Orlando Magic,Houston Rockets,12,27,39,1515024000.0,2018
+Orlando Magic,Orlando Magic,Cleveland Cavaliers,12,28,40,1515283200.0,2018
+Orlando Magic,Dallas Mavericks,Orlando Magic,12,29,41,1515547800.0,2018
+Orlando Magic,Milwaukee Bucks,Orlando Magic,12,30,42,1515632400.0,2018
+Orlando Magic,Washington Wizards,Orlando Magic,12,31,43,1515801600.0,2018
+Orlando Magic,Orlando Magic,Minnesota Timberwolves,13,31,44,1516147200.0,2018
+Orlando Magic,Cleveland Cavaliers,Orlando Magic,13,32,45,1516320000.0,2018
+Orlando Magic,Boston Celtics,Orlando Magic,14,32,46,1516557600.0,2018
+Orlando Magic,Orlando Magic,Sacramento Kings,14,33,47,1516752000.0,2018
+Orlando Magic,Indiana Pacers,Orlando Magic,14,34,48,1517097600.0,2018
+Orlando Magic,Houston Rockets,Orlando Magic,14,35,49,1517360400.0,2018
+Orlando Magic,Orlando Magic,Los Angeles Lakers,15,35,50,1517443200.0,2018
+Orlando Magic,Orlando Magic,Washington Wizards,15,36,51,1517702400.0,2018
+Orlando Magic,Miami Heat,Orlando Magic,16,36,52,1517877000.0,2018
+Orlando Magic,Orlando Magic,Cleveland Cavaliers,17,36,53,1517961600.0,2018
+Orlando Magic,Orlando Magic,Atlanta Hawks,18,36,54,1518134400.0,2018
+Orlando Magic,Orlando Magic,Milwaukee Bucks,18,37,55,1518307200.0,2018
+Orlando Magic,Chicago Bulls,Orlando Magic,18,38,56,1518483600.0,2018
+Orlando Magic,Orlando Magic,Charlotte Hornets,18,39,57,1518652800.0,2018
+Orlando Magic,Orlando Magic,New York Knicks,18,40,58,1519344000.0,2018
+Orlando Magic,Philadelphia 76ers,Orlando Magic,18,41,59,1519509600.0,2018
+Orlando Magic,Oklahoma City Thunder,Orlando Magic,18,42,60,1519693200.0,2018
+Orlando Magic,Orlando Magic,Toronto Raptors,18,43,61,1519862400.0,2018
+Orlando Magic,Orlando Magic,Detroit Pistons,19,43,62,1520035200.0,2018
+Orlando Magic,Orlando Magic,Memphis Grizzlies,20,43,63,1520121600.0,2018
+Orlando Magic,Utah Jazz,Orlando Magic,20,44,64,1520301600.0,2018
+Orlando Magic,Los Angeles Lakers,Orlando Magic,20,45,65,1520479800.0,2018
+Orlando Magic,Sacramento Kings,Orlando Magic,20,46,66,1520650800.0,2018
+Orlando Magic,Los Angeles Clippers,Orlando Magic,20,47,67,1520739000.0,2018
+Orlando Magic,San Antonio Spurs,Orlando Magic,20,48,68,1520987400.0,2018
+Orlando Magic,Orlando Magic,Milwaukee Bucks,21,48,69,1521068400.0,2018
+Orlando Magic,Orlando Magic,Boston Celtics,21,49,70,1521241200.0,2018
+Orlando Magic,Orlando Magic,Toronto Raptors,21,50,71,1521586800.0,2018
+Orlando Magic,Orlando Magic,Philadelphia 76ers,21,51,72,1521759600.0,2018
+Orlando Magic,Orlando Magic,Phoenix Suns,22,51,73,1521932400.0,2018
+Orlando Magic,Orlando Magic,Brooklyn Nets,22,52,74,1522278000.0,2018
+Orlando Magic,Orlando Magic,Chicago Bulls,22,53,75,1522450800.0,2018
+Orlando Magic,Atlanta Hawks,Orlando Magic,22,54,76,1522620000.0,2018
+Orlando Magic,New York Knicks,Orlando Magic,23,54,77,1522798200.0,2018
+Orlando Magic,Orlando Magic,Dallas Mavericks,24,54,78,1522882800.0,2018
+Orlando Magic,Orlando Magic,Charlotte Hornets,24,55,79,1523055600.0,2018
+Orlando Magic,Toronto Raptors,Orlando Magic,24,56,80,1523224800.0,2018
+Orlando Magic,Milwaukee Bucks,Orlando Magic,24,57,81,1523318400.0,2018
+Orlando Magic,Orlando Magic,Washington Wizards,25,57,82,1523491200.0,2018
+Philadelphia 76ers,Washington Wizards,Philadelphia 76ers,0,1,1,1508367600.0,2018
+Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,0,2,2,1508540400.0,2018
+Philadelphia 76ers,Toronto Raptors,Philadelphia 76ers,0,3,3,1508628600.0,2018
+Philadelphia 76ers,Detroit Pistons,Philadelphia 76ers,1,3,4,1508799600.0,2018
+Philadelphia 76ers,Philadelphia 76ers,Houston Rockets,1,4,5,1508972400.0,2018
+Philadelphia 76ers,Dallas Mavericks,Philadelphia 76ers,2,4,6,1509237000.0,2018
+Philadelphia 76ers,Houston Rockets,Philadelphia 76ers,3,4,7,1509408000.0,2018
+Philadelphia 76ers,Philadelphia 76ers,Atlanta Hawks,4,4,8,1509577200.0,2018
+Philadelphia 76ers,Philadelphia 76ers,Indiana Pacers,5,4,9,1509750000.0,2018
+Philadelphia 76ers,Utah Jazz,Philadelphia 76ers,6,4,10,1510106400.0,2018
+Philadelphia 76ers,Sacramento Kings,Philadelphia 76ers,6,5,11,1510282800.0,2018
+Philadelphia 76ers,Golden State Warriors,Philadelphia 76ers,6,6,12,1510450200.0,2018
+Philadelphia 76ers,Los Angeles Clippers,Philadelphia 76ers,7,6,13,1510630200.0,2018
+Philadelphia 76ers,Los Angeles Lakers,Philadelphia 76ers,8,6,14,1510803000.0,2018
+Philadelphia 76ers,Philadelphia 76ers,Golden State Warriors,8,7,15,1511051400.0,2018
+Philadelphia 76ers,Philadelphia 76ers,Utah Jazz,9,7,16,1511222400.0,2018
+Philadelphia 76ers,Philadelphia 76ers,Portland Trail Blazers,10,7,17,1511395200.0,2018
+Philadelphia 76ers,Philadelphia 76ers,Orlando Magic,11,7,18,1511654400.0,2018
+Philadelphia 76ers,Philadelphia 76ers,Cleveland Cavaliers,11,8,19,1511827200.0,2018
+Philadelphia 76ers,Philadelphia 76ers,Washington Wizards,12,8,20,1512000000.0,2018
+Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,12,9,21,1512088200.0,2018
+Philadelphia 76ers,Philadelphia 76ers,Detroit Pistons,13,9,22,1512261000.0,2018
+Philadelphia 76ers,Philadelphia 76ers,Phoenix Suns,13,10,23,1512432000.0,2018
+Philadelphia 76ers,Philadelphia 76ers,Los Angeles Lakers,13,11,24,1512694800.0,2018
+Philadelphia 76ers,Cleveland Cavaliers,Philadelphia 76ers,13,12,25,1512867600.0,2018
+Philadelphia 76ers,New Orleans Pelicans,Philadelphia 76ers,13,13,26,1512950400.0,2018
+Philadelphia 76ers,Minnesota Timberwolves,Philadelphia 76ers,14,13,27,1513132200.0,2018
+Philadelphia 76ers,Philadelphia 76ers,Oklahoma City Thunder,14,14,28,1513382400.0,2018
+Philadelphia 76ers,Chicago Bulls,Philadelphia 76ers,14,15,29,1513645200.0,2018
+Philadelphia 76ers,Philadelphia 76ers,Sacramento Kings,14,16,30,1513728000.0,2018
+Philadelphia 76ers,Philadelphia 76ers,Toronto Raptors,14,17,31,1513900800.0,2018
+Philadelphia 76ers,Toronto Raptors,Philadelphia 76ers,14,18,32,1514066400.0,2018
+Philadelphia 76ers,New York Knicks,Philadelphia 76ers,15,18,33,1514221200.0,2018
+Philadelphia 76ers,Portland Trail Blazers,Philadelphia 76ers,15,19,34,1514518200.0,2018
+Philadelphia 76ers,Denver Nuggets,Philadelphia 76ers,16,19,35,1514685600.0,2018
+Philadelphia 76ers,Phoenix Suns,Philadelphia 76ers,17,19,36,1514768400.0,2018
+Philadelphia 76ers,Philadelphia 76ers,San Antonio Spurs,18,19,37,1515024000.0,2018
+Philadelphia 76ers,Philadelphia 76ers,Detroit Pistons,19,19,38,1515196800.0,2018
+Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,19,20,39,1515700800.0,2018
+Philadelphia 76ers,Philadelphia 76ers,Toronto Raptors,20,20,40,1516039200.0,2018
+Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,21,20,41,1516320000.0,2018
+Philadelphia 76ers,Philadelphia 76ers,Milwaukee Bucks,22,20,42,1516494600.0,2018
+Philadelphia 76ers,Memphis Grizzlies,Philadelphia 76ers,22,21,43,1516669200.0,2018
+Philadelphia 76ers,Philadelphia 76ers,Chicago Bulls,23,21,44,1516838400.0,2018
+Philadelphia 76ers,San Antonio Spurs,Philadelphia 76ers,24,21,45,1517016600.0,2018
+Philadelphia 76ers,Oklahoma City Thunder,Philadelphia 76ers,24,22,46,1517180400.0,2018
+Philadelphia 76ers,Milwaukee Bucks,Philadelphia 76ers,24,23,47,1517274000.0,2018
+Philadelphia 76ers,Brooklyn Nets,Philadelphia 76ers,24,24,48,1517445000.0,2018
+Philadelphia 76ers,Philadelphia 76ers,Miami Heat,25,24,49,1517619600.0,2018
+Philadelphia 76ers,Indiana Pacers,Philadelphia 76ers,25,25,50,1517702400.0,2018
+Philadelphia 76ers,Philadelphia 76ers,Washington Wizards,26,25,51,1517965200.0,2018
+Philadelphia 76ers,Philadelphia 76ers,New Orleans Pelicans,27,25,52,1518220800.0,2018
+Philadelphia 76ers,Philadelphia 76ers,Los Angeles Clippers,28,25,53,1518307200.0,2018
+Philadelphia 76ers,Philadelphia 76ers,New York Knicks,29,25,54,1518480000.0,2018
+Philadelphia 76ers,Philadelphia 76ers,Miami Heat,30,25,55,1518652800.0,2018
+Philadelphia 76ers,Chicago Bulls,Philadelphia 76ers,31,25,56,1519347600.0,2018
+Philadelphia 76ers,Philadelphia 76ers,Orlando Magic,32,25,57,1519509600.0,2018
+Philadelphia 76ers,Washington Wizards,Philadelphia 76ers,32,26,58,1519606800.0,2018
+Philadelphia 76ers,Miami Heat,Philadelphia 76ers,32,27,59,1519777800.0,2018
+Philadelphia 76ers,Cleveland Cavaliers,Philadelphia 76ers,33,27,60,1519952400.0,2018
+Philadelphia 76ers,Philadelphia 76ers,Charlotte Hornets,34,27,61,1520035200.0,2018
+Philadelphia 76ers,Milwaukee Bucks,Philadelphia 76ers,34,28,62,1520211600.0,2018
+Philadelphia 76ers,Charlotte Hornets,Philadelphia 76ers,35,28,63,1520380800.0,2018
+Philadelphia 76ers,Miami Heat,Philadelphia 76ers,35,29,64,1520555400.0,2018
+Philadelphia 76ers,Brooklyn Nets,Philadelphia 76ers,36,29,65,1520811000.0,2018
+Philadelphia 76ers,Philadelphia 76ers,Indiana Pacers,36,30,66,1520982000.0,2018
+Philadelphia 76ers,New York Knicks,Philadelphia 76ers,37,30,67,1521156600.0,2018
+Philadelphia 76ers,Philadelphia 76ers,Brooklyn Nets,38,30,68,1521241200.0,2018
+Philadelphia 76ers,Philadelphia 76ers,Charlotte Hornets,39,30,69,1521500400.0,2018
+Philadelphia 76ers,Philadelphia 76ers,Memphis Grizzlies,40,30,70,1521673200.0,2018
+Philadelphia 76ers,Orlando Magic,Philadelphia 76ers,41,30,71,1521759600.0,2018
+Philadelphia 76ers,Philadelphia 76ers,Minnesota Timberwolves,42,30,72,1521928800.0,2018
+Philadelphia 76ers,Philadelphia 76ers,Denver Nuggets,43,30,73,1522105200.0,2018
+Philadelphia 76ers,Philadelphia 76ers,New York Knicks,44,30,74,1522278000.0,2018
+Philadelphia 76ers,Atlanta Hawks,Philadelphia 76ers,45,30,75,1522452600.0,2018
+Philadelphia 76ers,Charlotte Hornets,Philadelphia 76ers,46,30,76,1522602000.0,2018
+Philadelphia 76ers,Philadelphia 76ers,Brooklyn Nets,47,30,77,1522796400.0,2018
+Philadelphia 76ers,Detroit Pistons,Philadelphia 76ers,48,30,78,1522882800.0,2018
+Philadelphia 76ers,Philadelphia 76ers,Cleveland Cavaliers,49,30,79,1523055600.0,2018
+Philadelphia 76ers,Philadelphia 76ers,Dallas Mavericks,50,30,80,1523206800.0,2018
+Philadelphia 76ers,Atlanta Hawks,Philadelphia 76ers,51,30,81,1523403000.0,2018
+Philadelphia 76ers,Philadelphia 76ers,Milwaukee Bucks,52,30,82,1523491200.0,2018
+Phoenix Suns,Phoenix Suns,Portland Trail Blazers,0,1,1,1508378400.0,2018
+Phoenix Suns,Phoenix Suns,Los Angeles Lakers,0,2,2,1508551200.0,2018
+Phoenix Suns,Los Angeles Clippers,Phoenix Suns,0,3,3,1508639400.0,2018
+Phoenix Suns,Phoenix Suns,Sacramento Kings,1,3,4,1508810400.0,2018
+Phoenix Suns,Phoenix Suns,Utah Jazz,2,3,5,1508983200.0,2018
+Phoenix Suns,Portland Trail Blazers,Phoenix Suns,2,4,6,1509242400.0,2018
+Phoenix Suns,Brooklyn Nets,Phoenix Suns,3,4,7,1509492600.0,2018
+Phoenix Suns,Washington Wizards,Phoenix Suns,4,4,8,1509577200.0,2018
+Phoenix Suns,New York Knicks,Phoenix Suns,4,5,9,1509751800.0,2018
+Phoenix Suns,San Antonio Spurs,Phoenix Suns,4,6,10,1509926400.0,2018
+Phoenix Suns,Phoenix Suns,Brooklyn Nets,4,7,11,1510020000.0,2018
+Phoenix Suns,Phoenix Suns,Miami Heat,4,8,12,1510192800.0,2018
+Phoenix Suns,Phoenix Suns,Orlando Magic,4,9,13,1510365600.0,2018
+Phoenix Suns,Phoenix Suns,Minnesota Timberwolves,5,9,14,1510452000.0,2018
+Phoenix Suns,Phoenix Suns,Los Angeles Lakers,5,10,15,1510624800.0,2018
+Phoenix Suns,Phoenix Suns,Houston Rockets,5,11,16,1510889400.0,2018
+Phoenix Suns,Los Angeles Lakers,Phoenix Suns,6,11,17,1510975800.0,2018
+Phoenix Suns,Phoenix Suns,Chicago Bulls,7,11,18,1511139600.0,2018
+Phoenix Suns,Phoenix Suns,Milwaukee Bucks,7,12,19,1511402400.0,2018
+Phoenix Suns,Phoenix Suns,New Orleans Pelicans,7,13,20,1511575200.0,2018
+Phoenix Suns,Minnesota Timberwolves,Phoenix Suns,7,14,21,1511728200.0,2018
+Phoenix Suns,Chicago Bulls,Phoenix Suns,8,14,22,1511917200.0,2018
+Phoenix Suns,Detroit Pistons,Phoenix Suns,8,15,23,1512000000.0,2018
+Phoenix Suns,Boston Celtics,Phoenix Suns,8,16,24,1512237600.0,2018
+Phoenix Suns,Philadelphia 76ers,Phoenix Suns,9,16,25,1512432000.0,2018
+Phoenix Suns,Toronto Raptors,Phoenix Suns,9,17,26,1512520200.0,2018
+Phoenix Suns,Phoenix Suns,Washington Wizards,9,18,27,1512698400.0,2018
+Phoenix Suns,Phoenix Suns,San Antonio Spurs,9,19,28,1512871200.0,2018
+Phoenix Suns,Sacramento Kings,Phoenix Suns,9,20,29,1513134000.0,2018
+Phoenix Suns,Phoenix Suns,Toronto Raptors,9,21,30,1513216800.0,2018
+Phoenix Suns,Minnesota Timberwolves,Phoenix Suns,10,21,31,1513472400.0,2018
+Phoenix Suns,Dallas Mavericks,Phoenix Suns,11,21,32,1513647000.0,2018
+Phoenix Suns,Los Angeles Clippers,Phoenix Suns,11,22,33,1513827000.0,2018
+Phoenix Suns,Phoenix Suns,Memphis Grizzlies,12,22,34,1513908000.0,2018
+Phoenix Suns,Phoenix Suns,Minnesota Timberwolves,12,23,35,1514080800.0,2018
+Phoenix Suns,Phoenix Suns,Memphis Grizzlies,13,23,36,1514340000.0,2018
+Phoenix Suns,Sacramento Kings,Phoenix Suns,14,23,37,1514602800.0,2018
+Phoenix Suns,Phoenix Suns,Philadelphia 76ers,14,24,38,1514768400.0,2018
+Phoenix Suns,Phoenix Suns,Atlanta Hawks,15,24,39,1514944800.0,2018
+Phoenix Suns,Denver Nuggets,Phoenix Suns,15,25,40,1515031200.0,2018
+Phoenix Suns,San Antonio Spurs,Phoenix Suns,15,26,41,1515202200.0,2018
+Phoenix Suns,Phoenix Suns,Oklahoma City Thunder,16,26,42,1515373200.0,2018
+Phoenix Suns,Phoenix Suns,Houston Rockets,16,27,43,1515814200.0,2018
+Phoenix Suns,Phoenix Suns,Indiana Pacers,16,28,44,1515978000.0,2018
+Phoenix Suns,Portland Trail Blazers,Phoenix Suns,16,29,45,1516158000.0,2018
+Phoenix Suns,Denver Nuggets,Phoenix Suns,17,29,46,1516413600.0,2018
+Phoenix Suns,Milwaukee Bucks,Phoenix Suns,17,30,47,1516669200.0,2018
+Phoenix Suns,Indiana Pacers,Phoenix Suns,17,31,48,1516838400.0,2018
+Phoenix Suns,Phoenix Suns,New York Knicks,17,32,49,1517018400.0,2018
+Phoenix Suns,Houston Rockets,Phoenix Suns,17,33,50,1517171400.0,2018
+Phoenix Suns,Memphis Grizzlies,Phoenix Suns,17,34,51,1517274000.0,2018
+Phoenix Suns,Phoenix Suns,Dallas Mavericks,18,34,52,1517455800.0,2018
+Phoenix Suns,Phoenix Suns,Utah Jazz,18,35,53,1517623200.0,2018
+Phoenix Suns,Phoenix Suns,Charlotte Hornets,18,36,54,1517774400.0,2018
+Phoenix Suns,Los Angeles Lakers,Phoenix Suns,18,37,55,1517974200.0,2018
+Phoenix Suns,Phoenix Suns,San Antonio Spurs,18,38,56,1518060600.0,2018
+Phoenix Suns,Phoenix Suns,Denver Nuggets,18,39,57,1518314400.0,2018
+Phoenix Suns,Golden State Warriors,Phoenix Suns,18,40,58,1518492600.0,2018
+Phoenix Suns,Utah Jazz,Phoenix Suns,18,41,59,1518660000.0,2018
+Phoenix Suns,Phoenix Suns,Los Angeles Clippers,18,42,60,1519437600.0,2018
+Phoenix Suns,Phoenix Suns,Portland Trail Blazers,18,43,61,1519524000.0,2018
+Phoenix Suns,New Orleans Pelicans,Phoenix Suns,18,44,62,1519693200.0,2018
+Phoenix Suns,Memphis Grizzlies,Phoenix Suns,19,44,63,1519866000.0,2018
+Phoenix Suns,Phoenix Suns,Oklahoma City Thunder,19,45,64,1520042400.0,2018
+Phoenix Suns,Atlanta Hawks,Phoenix Suns,19,46,65,1520195400.0,2018
+Phoenix Suns,Miami Heat,Phoenix Suns,19,47,66,1520296200.0,2018
+Phoenix Suns,Oklahoma City Thunder,Phoenix Suns,19,48,67,1520557200.0,2018
+Phoenix Suns,Charlotte Hornets,Phoenix Suns,19,49,68,1520719200.0,2018
+Phoenix Suns,Phoenix Suns,Cleveland Cavaliers,19,50,69,1520992800.0,2018
+Phoenix Suns,Utah Jazz,Phoenix Suns,19,51,70,1521162000.0,2018
+Phoenix Suns,Phoenix Suns,Golden State Warriors,19,52,71,1521338400.0,2018
+Phoenix Suns,Phoenix Suns,Detroit Pistons,19,53,72,1521597600.0,2018
+Phoenix Suns,Cleveland Cavaliers,Phoenix Suns,19,54,73,1521847800.0,2018
+Phoenix Suns,Orlando Magic,Phoenix Suns,19,55,74,1521932400.0,2018
+Phoenix Suns,Phoenix Suns,Boston Celtics,19,56,75,1522116000.0,2018
+Phoenix Suns,Phoenix Suns,Los Angeles Clippers,19,57,76,1522288800.0,2018
+Phoenix Suns,Houston Rockets,Phoenix Suns,19,58,77,1522454400.0,2018
+Phoenix Suns,Golden State Warriors,Phoenix Suns,19,59,78,1522629000.0,2018
+Phoenix Suns,Phoenix Suns,Sacramento Kings,20,59,79,1522807200.0,2018
+Phoenix Suns,Phoenix Suns,New Orleans Pelicans,20,60,80,1523066400.0,2018
+Phoenix Suns,Phoenix Suns,Golden State Warriors,20,61,81,1523235600.0,2018
+Phoenix Suns,Dallas Mavericks,Phoenix Suns,21,61,82,1523406600.0,2018
+Portland Trail Blazers,Phoenix Suns,Portland Trail Blazers,1,0,1,1508378400.0,2018
+Portland Trail Blazers,Indiana Pacers,Portland Trail Blazers,2,0,2,1508540400.0,2018
+Portland Trail Blazers,Milwaukee Bucks,Portland Trail Blazers,2,1,3,1508632200.0,2018
+Portland Trail Blazers,Portland Trail Blazers,New Orleans Pelicans,3,1,4,1508896800.0,2018
+Portland Trail Blazers,Portland Trail Blazers,Los Angeles Clippers,3,2,5,1509069600.0,2018
+Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,4,2,6,1509242400.0,2018
+Portland Trail Blazers,Portland Trail Blazers,Toronto Raptors,4,3,7,1509415200.0,2018
+Portland Trail Blazers,Utah Jazz,Portland Trail Blazers,4,4,8,1509584400.0,2018
+Portland Trail Blazers,Portland Trail Blazers,Los Angeles Lakers,5,4,9,1509676200.0,2018
+Portland Trail Blazers,Portland Trail Blazers,Oklahoma City Thunder,6,4,10,1509933600.0,2018
+Portland Trail Blazers,Portland Trail Blazers,Memphis Grizzlies,6,5,11,1510110000.0,2018
+Portland Trail Blazers,Portland Trail Blazers,Brooklyn Nets,6,6,12,1510369200.0,2018
+Portland Trail Blazers,Portland Trail Blazers,Denver Nuggets,7,6,13,1510628400.0,2018
+Portland Trail Blazers,Portland Trail Blazers,Orlando Magic,8,6,14,1510801200.0,2018
+Portland Trail Blazers,Sacramento Kings,Portland Trail Blazers,8,7,15,1510974000.0,2018
+Portland Trail Blazers,Portland Trail Blazers,Sacramento Kings,9,7,16,1511060400.0,2018
+Portland Trail Blazers,Memphis Grizzlies,Portland Trail Blazers,10,7,17,1511226000.0,2018
+Portland Trail Blazers,Philadelphia 76ers,Portland Trail Blazers,10,8,18,1511395200.0,2018
+Portland Trail Blazers,Brooklyn Nets,Portland Trail Blazers,11,8,19,1511542800.0,2018
+Portland Trail Blazers,Washington Wizards,Portland Trail Blazers,12,8,20,1511654400.0,2018
+Portland Trail Blazers,New York Knicks,Portland Trail Blazers,13,8,21,1511829000.0,2018
+Portland Trail Blazers,Portland Trail Blazers,Milwaukee Bucks,13,9,22,1512097200.0,2018
+Portland Trail Blazers,Portland Trail Blazers,New Orleans Pelicans,13,10,23,1512270000.0,2018
+Portland Trail Blazers,Portland Trail Blazers,Washington Wizards,13,11,24,1512529200.0,2018
+Portland Trail Blazers,Portland Trail Blazers,Houston Rockets,13,12,25,1512874800.0,2018
+Portland Trail Blazers,Golden State Warriors,Portland Trail Blazers,13,13,26,1513049400.0,2018
+Portland Trail Blazers,Miami Heat,Portland Trail Blazers,14,13,27,1513211400.0,2018
+Portland Trail Blazers,Orlando Magic,Portland Trail Blazers,15,13,28,1513382400.0,2018
+Portland Trail Blazers,Charlotte Hornets,Portland Trail Blazers,16,13,29,1513468800.0,2018
+Portland Trail Blazers,Minnesota Timberwolves,Portland Trail Blazers,16,14,30,1513645200.0,2018
+Portland Trail Blazers,Portland Trail Blazers,San Antonio Spurs,16,15,31,1513825200.0,2018
+Portland Trail Blazers,Portland Trail Blazers,Denver Nuggets,16,16,32,1513998000.0,2018
+Portland Trail Blazers,Los Angeles Lakers,Portland Trail Blazers,17,16,33,1514082600.0,2018
+Portland Trail Blazers,Portland Trail Blazers,Philadelphia 76ers,18,16,34,1514518200.0,2018
+Portland Trail Blazers,Atlanta Hawks,Portland Trail Blazers,18,17,35,1514680200.0,2018
+Portland Trail Blazers,Chicago Bulls,Portland Trail Blazers,19,17,36,1514854800.0,2018
+Portland Trail Blazers,Cleveland Cavaliers,Portland Trail Blazers,19,18,37,1514937600.0,2018
+Portland Trail Blazers,Portland Trail Blazers,Atlanta Hawks,20,18,38,1515207600.0,2018
+Portland Trail Blazers,Portland Trail Blazers,San Antonio Spurs,21,18,39,1515376800.0,2018
+Portland Trail Blazers,Oklahoma City Thunder,Portland Trail Blazers,22,18,40,1515546000.0,2018
+Portland Trail Blazers,Houston Rockets,Portland Trail Blazers,22,19,41,1515632400.0,2018
+Portland Trail Blazers,New Orleans Pelicans,Portland Trail Blazers,22,20,42,1515805200.0,2018
+Portland Trail Blazers,Minnesota Timberwolves,Portland Trail Blazers,22,21,43,1515981600.0,2018
+Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,23,21,44,1516158000.0,2018
+Portland Trail Blazers,Portland Trail Blazers,Indiana Pacers,24,21,45,1516330800.0,2018
+Portland Trail Blazers,Portland Trail Blazers,Dallas Mavericks,25,21,46,1516503600.0,2018
+Portland Trail Blazers,Denver Nuggets,Portland Trail Blazers,25,22,47,1516672800.0,2018
+Portland Trail Blazers,Portland Trail Blazers,Minnesota Timberwolves,26,22,48,1516849200.0,2018
+Portland Trail Blazers,Dallas Mavericks,Portland Trail Blazers,27,22,49,1517016600.0,2018
+Portland Trail Blazers,Los Angeles Clippers,Portland Trail Blazers,28,22,50,1517369400.0,2018
+Portland Trail Blazers,Portland Trail Blazers,Chicago Bulls,29,22,51,1517454000.0,2018
+Portland Trail Blazers,Toronto Raptors,Portland Trail Blazers,29,23,52,1517617800.0,2018
+Portland Trail Blazers,Boston Celtics,Portland Trail Blazers,29,24,53,1517763600.0,2018
+Portland Trail Blazers,Detroit Pistons,Portland Trail Blazers,29,25,54,1517875200.0,2018
+Portland Trail Blazers,Portland Trail Blazers,Charlotte Hornets,30,25,55,1518145200.0,2018
+Portland Trail Blazers,Sacramento Kings,Portland Trail Blazers,31,25,56,1518233400.0,2018
+Portland Trail Blazers,Portland Trail Blazers,Utah Jazz,31,26,57,1518400800.0,2018
+Portland Trail Blazers,Portland Trail Blazers,Golden State Warriors,32,26,58,1518665400.0,2018
+Portland Trail Blazers,Utah Jazz,Portland Trail Blazers,33,26,59,1519437600.0,2018
+Portland Trail Blazers,Phoenix Suns,Portland Trail Blazers,34,26,60,1519524000.0,2018
+Portland Trail Blazers,Portland Trail Blazers,Sacramento Kings,35,26,61,1519786800.0,2018
+Portland Trail Blazers,Portland Trail Blazers,Minnesota Timberwolves,36,26,62,1519961400.0,2018
+Portland Trail Blazers,Portland Trail Blazers,Oklahoma City Thunder,37,26,63,1520132400.0,2018
+Portland Trail Blazers,Los Angeles Lakers,Portland Trail Blazers,38,26,64,1520307000.0,2018
+Portland Trail Blazers,Portland Trail Blazers,New York Knicks,39,26,65,1520391600.0,2018
+Portland Trail Blazers,Portland Trail Blazers,Golden State Warriors,40,26,66,1520650800.0,2018
+Portland Trail Blazers,Portland Trail Blazers,Miami Heat,41,26,67,1520908200.0,2018
+Portland Trail Blazers,Portland Trail Blazers,Cleveland Cavaliers,42,26,68,1521165600.0,2018
+Portland Trail Blazers,Portland Trail Blazers,Detroit Pistons,43,26,69,1521338400.0,2018
+Portland Trail Blazers,Los Angeles Clippers,Portland Trail Blazers,44,26,70,1521426600.0,2018
+Portland Trail Blazers,Portland Trail Blazers,Houston Rockets,44,27,71,1521599400.0,2018
+Portland Trail Blazers,Portland Trail Blazers,Boston Celtics,44,28,72,1521856800.0,2018
+Portland Trail Blazers,Oklahoma City Thunder,Portland Trail Blazers,45,28,73,1522018800.0,2018
+Portland Trail Blazers,New Orleans Pelicans,Portland Trail Blazers,46,28,74,1522195200.0,2018
+Portland Trail Blazers,Memphis Grizzlies,Portland Trail Blazers,46,29,75,1522281600.0,2018
+Portland Trail Blazers,Portland Trail Blazers,Los Angeles Clippers,47,29,76,1522463400.0,2018
+Portland Trail Blazers,Portland Trail Blazers,Memphis Grizzlies,48,29,77,1522630800.0,2018
+Portland Trail Blazers,Dallas Mavericks,Portland Trail Blazers,48,30,78,1522801800.0,2018
+Portland Trail Blazers,Houston Rockets,Portland Trail Blazers,48,31,79,1522972800.0,2018
+Portland Trail Blazers,San Antonio Spurs,Portland Trail Blazers,48,32,80,1523149200.0,2018
+Portland Trail Blazers,Denver Nuggets,Portland Trail Blazers,48,33,81,1523322000.0,2018
+Portland Trail Blazers,Portland Trail Blazers,Utah Jazz,49,33,82,1523500200.0,2018
+Sacramento Kings,Sacramento Kings,Houston Rockets,0,1,1,1508378400.0,2018
+Sacramento Kings,Dallas Mavericks,Sacramento Kings,1,1,2,1508545800.0,2018
+Sacramento Kings,Denver Nuggets,Sacramento Kings,1,2,3,1508634000.0,2018
+Sacramento Kings,Phoenix Suns,Sacramento Kings,1,3,4,1508810400.0,2018
+Sacramento Kings,Sacramento Kings,New Orleans Pelicans,1,4,5,1509071400.0,2018
+Sacramento Kings,Sacramento Kings,Washington Wizards,1,5,6,1509314400.0,2018
+Sacramento Kings,Indiana Pacers,Sacramento Kings,1,6,7,1509490800.0,2018
+Sacramento Kings,Boston Celtics,Sacramento Kings,1,7,8,1509579000.0,2018
+Sacramento Kings,Detroit Pistons,Sacramento Kings,1,8,9,1509836400.0,2018
+Sacramento Kings,Sacramento Kings,Oklahoma City Thunder,2,8,10,1510110000.0,2018
+Sacramento Kings,Sacramento Kings,Philadelphia 76ers,3,8,11,1510282800.0,2018
+Sacramento Kings,New York Knicks,Sacramento Kings,3,9,12,1510448400.0,2018
+Sacramento Kings,Washington Wizards,Sacramento Kings,3,10,13,1510617600.0,2018
+Sacramento Kings,Atlanta Hawks,Sacramento Kings,3,11,14,1510792200.0,2018
+Sacramento Kings,Sacramento Kings,Portland Trail Blazers,4,11,15,1510974000.0,2018
+Sacramento Kings,Portland Trail Blazers,Sacramento Kings,4,12,16,1511060400.0,2018
+Sacramento Kings,Sacramento Kings,Denver Nuggets,4,13,17,1511233200.0,2018
+Sacramento Kings,Sacramento Kings,Los Angeles Lakers,5,13,18,1511407800.0,2018
+Sacramento Kings,Sacramento Kings,Los Angeles Clippers,5,14,19,1511665200.0,2018
+Sacramento Kings,Golden State Warriors,Sacramento Kings,6,14,20,1511839800.0,2018
+Sacramento Kings,Sacramento Kings,Milwaukee Bucks,6,15,21,1511924400.0,2018
+Sacramento Kings,Chicago Bulls,Sacramento Kings,7,15,22,1512176400.0,2018
+Sacramento Kings,Milwaukee Bucks,Sacramento Kings,7,16,23,1512264600.0,2018
+Sacramento Kings,Cleveland Cavaliers,Sacramento Kings,7,17,24,1512604800.0,2018
+Sacramento Kings,New Orleans Pelicans,Sacramento Kings,8,17,25,1512781200.0,2018
+Sacramento Kings,Sacramento Kings,Toronto Raptors,8,18,26,1512937800.0,2018
+Sacramento Kings,Sacramento Kings,Phoenix Suns,9,18,27,1513134000.0,2018
+Sacramento Kings,Minnesota Timberwolves,Sacramento Kings,9,19,28,1513299600.0,2018
+Sacramento Kings,Toronto Raptors,Sacramento Kings,9,20,29,1513542600.0,2018
+Sacramento Kings,Philadelphia 76ers,Sacramento Kings,10,20,30,1513728000.0,2018
+Sacramento Kings,Brooklyn Nets,Sacramento Kings,11,20,31,1513816200.0,2018
+Sacramento Kings,Sacramento Kings,San Antonio Spurs,11,21,32,1514084400.0,2018
+Sacramento Kings,Los Angeles Clippers,Sacramento Kings,11,22,33,1514345400.0,2018
+Sacramento Kings,Sacramento Kings,Cleveland Cavaliers,12,22,34,1514430000.0,2018
+Sacramento Kings,Sacramento Kings,Phoenix Suns,12,23,35,1514602800.0,2018
+Sacramento Kings,Sacramento Kings,Memphis Grizzlies,12,24,36,1514764800.0,2018
+Sacramento Kings,Sacramento Kings,Charlotte Hornets,12,25,37,1514948400.0,2018
+Sacramento Kings,Sacramento Kings,Denver Nuggets,13,25,38,1515294000.0,2018
+Sacramento Kings,Sacramento Kings,San Antonio Spurs,13,26,39,1515466800.0,2018
+Sacramento Kings,Los Angeles Lakers,Sacramento Kings,13,27,40,1515555000.0,2018
+Sacramento Kings,Sacramento Kings,Los Angeles Clippers,13,28,41,1515726000.0,2018
+Sacramento Kings,Los Angeles Clippers,Sacramento Kings,13,29,42,1515875400.0,2018
+Sacramento Kings,Oklahoma City Thunder,Sacramento Kings,13,30,43,1516064400.0,2018
+Sacramento Kings,Sacramento Kings,Utah Jazz,13,31,44,1516244400.0,2018
+Sacramento Kings,Memphis Grizzlies,Sacramento Kings,13,32,45,1516410000.0,2018
+Sacramento Kings,Charlotte Hornets,Sacramento Kings,13,33,46,1516665600.0,2018
+Sacramento Kings,Orlando Magic,Sacramento Kings,14,33,47,1516752000.0,2018
+Sacramento Kings,Miami Heat,Sacramento Kings,15,33,48,1516926600.0,2018
+Sacramento Kings,San Antonio Spurs,Sacramento Kings,15,34,49,1517184000.0,2018
+Sacramento Kings,New Orleans Pelicans,Sacramento Kings,16,34,50,1517360400.0,2018
+Sacramento Kings,Sacramento Kings,Golden State Warriors,16,35,51,1517628600.0,2018
+Sacramento Kings,Sacramento Kings,Dallas Mavericks,16,36,52,1517713200.0,2018
+Sacramento Kings,Sacramento Kings,Chicago Bulls,17,36,53,1517886000.0,2018
+Sacramento Kings,Sacramento Kings,Portland Trail Blazers,17,37,54,1518233400.0,2018
+Sacramento Kings,Minnesota Timberwolves,Sacramento Kings,17,38,55,1518393600.0,2018
+Sacramento Kings,Dallas Mavericks,Sacramento Kings,18,38,56,1518571800.0,2018
+Sacramento Kings,Houston Rockets,Sacramento Kings,18,39,57,1518656400.0,2018
+Sacramento Kings,Sacramento Kings,Oklahoma City Thunder,18,40,58,1519354800.0,2018
+Sacramento Kings,Sacramento Kings,Los Angeles Lakers,18,41,59,1519527600.0,2018
+Sacramento Kings,Sacramento Kings,Minnesota Timberwolves,18,42,60,1519700400.0,2018
+Sacramento Kings,Portland Trail Blazers,Sacramento Kings,18,43,61,1519786800.0,2018
+Sacramento Kings,Sacramento Kings,Brooklyn Nets,19,43,62,1519959600.0,2018
+Sacramento Kings,Sacramento Kings,Utah Jazz,19,44,63,1520132400.0,2018
+Sacramento Kings,Sacramento Kings,New York Knicks,20,44,64,1520215200.0,2018
+Sacramento Kings,Sacramento Kings,New Orleans Pelicans,20,45,65,1520478000.0,2018
+Sacramento Kings,Sacramento Kings,Orlando Magic,21,45,66,1520650800.0,2018
+Sacramento Kings,Denver Nuggets,Sacramento Kings,21,46,67,1520802000.0,2018
+Sacramento Kings,Oklahoma City Thunder,Sacramento Kings,21,47,68,1520899200.0,2018
+Sacramento Kings,Sacramento Kings,Miami Heat,22,47,69,1521079200.0,2018
+Sacramento Kings,Golden State Warriors,Sacramento Kings,23,47,70,1521253800.0,2018
+Sacramento Kings,Utah Jazz,Sacramento Kings,23,48,71,1521334800.0,2018
+Sacramento Kings,Sacramento Kings,Detroit Pistons,23,49,72,1521511200.0,2018
+Sacramento Kings,Sacramento Kings,Atlanta Hawks,24,49,73,1521770400.0,2018
+Sacramento Kings,Sacramento Kings,Boston Celtics,24,50,74,1522015200.0,2018
+Sacramento Kings,Sacramento Kings,Dallas Mavericks,24,51,75,1522202400.0,2018
+Sacramento Kings,Sacramento Kings,Indiana Pacers,24,52,76,1522375200.0,2018
+Sacramento Kings,Sacramento Kings,Golden State Warriors,24,53,77,1522548000.0,2018
+Sacramento Kings,Los Angeles Lakers,Sacramento Kings,25,53,78,1522632600.0,2018
+Sacramento Kings,Phoenix Suns,Sacramento Kings,25,54,79,1522807200.0,2018
+Sacramento Kings,Memphis Grizzlies,Sacramento Kings,26,54,80,1523059200.0,2018
+Sacramento Kings,San Antonio Spurs,Sacramento Kings,26,55,81,1523320200.0,2018
+Sacramento Kings,Sacramento Kings,Houston Rockets,27,55,82,1523500200.0,2018
+San Antonio Spurs,San Antonio Spurs,Minnesota Timberwolves,1,0,1,1508376600.0,2018
+San Antonio Spurs,Chicago Bulls,San Antonio Spurs,2,0,2,1508630400.0,2018
+San Antonio Spurs,San Antonio Spurs,Toronto Raptors,3,0,3,1508805000.0,2018
+San Antonio Spurs,Miami Heat,San Antonio Spurs,4,0,4,1508976000.0,2018
+San Antonio Spurs,Orlando Magic,San Antonio Spurs,4,1,5,1509145200.0,2018
+San Antonio Spurs,Indiana Pacers,San Antonio Spurs,4,2,6,1509309000.0,2018
+San Antonio Spurs,Boston Celtics,San Antonio Spurs,4,3,7,1509406200.0,2018
+San Antonio Spurs,San Antonio Spurs,Golden State Warriors,4,4,8,1509667200.0,2018
+San Antonio Spurs,San Antonio Spurs,Charlotte Hornets,5,4,9,1509755400.0,2018
+San Antonio Spurs,San Antonio Spurs,Phoenix Suns,6,4,10,1509926400.0,2018
+San Antonio Spurs,San Antonio Spurs,Los Angeles Clippers,7,4,11,1510104600.0,2018
+San Antonio Spurs,San Antonio Spurs,Milwaukee Bucks,7,5,12,1510365600.0,2018
+San Antonio Spurs,San Antonio Spurs,Chicago Bulls,8,5,13,1510450200.0,2018
+San Antonio Spurs,Dallas Mavericks,San Antonio Spurs,9,5,14,1510709400.0,2018
+San Antonio Spurs,Minnesota Timberwolves,San Antonio Spurs,9,6,15,1510794000.0,2018
+San Antonio Spurs,San Antonio Spurs,Oklahoma City Thunder,10,6,16,1510966800.0,2018
+San Antonio Spurs,San Antonio Spurs,Atlanta Hawks,11,6,17,1511227800.0,2018
+San Antonio Spurs,New Orleans Pelicans,San Antonio Spurs,11,7,18,1511398800.0,2018
+San Antonio Spurs,Charlotte Hornets,San Antonio Spurs,12,7,19,1511654400.0,2018
+San Antonio Spurs,San Antonio Spurs,Dallas Mavericks,13,7,20,1511832600.0,2018
+San Antonio Spurs,San Antonio Spurs,Memphis Grizzlies,14,7,21,1512005400.0,2018
+San Antonio Spurs,Memphis Grizzlies,San Antonio Spurs,15,7,22,1512176400.0,2018
+San Antonio Spurs,Oklahoma City Thunder,San Antonio Spurs,15,8,23,1512345600.0,2018
+San Antonio Spurs,San Antonio Spurs,Detroit Pistons,16,8,24,1512437400.0,2018
+San Antonio Spurs,San Antonio Spurs,Miami Heat,17,8,25,1512610200.0,2018
+San Antonio Spurs,San Antonio Spurs,Boston Celtics,18,8,26,1512786600.0,2018
+San Antonio Spurs,Phoenix Suns,San Antonio Spurs,19,8,27,1512871200.0,2018
+San Antonio Spurs,Dallas Mavericks,San Antonio Spurs,19,9,28,1513128600.0,2018
+San Antonio Spurs,Houston Rockets,San Antonio Spurs,19,10,29,1513391400.0,2018
+San Antonio Spurs,San Antonio Spurs,Dallas Mavericks,20,10,30,1513474200.0,2018
+San Antonio Spurs,San Antonio Spurs,Los Angeles Clippers,21,10,31,1513647000.0,2018
+San Antonio Spurs,Portland Trail Blazers,San Antonio Spurs,22,10,32,1513825200.0,2018
+San Antonio Spurs,Utah Jazz,San Antonio Spurs,22,11,33,1513913400.0,2018
+San Antonio Spurs,Sacramento Kings,San Antonio Spurs,23,11,34,1514084400.0,2018
+San Antonio Spurs,San Antonio Spurs,Brooklyn Nets,24,11,35,1514338200.0,2018
+San Antonio Spurs,San Antonio Spurs,New York Knicks,25,11,36,1514511000.0,2018
+San Antonio Spurs,Detroit Pistons,San Antonio Spurs,25,12,37,1514678400.0,2018
+San Antonio Spurs,New York Knicks,San Antonio Spurs,26,12,38,1514939400.0,2018
+San Antonio Spurs,Philadelphia 76ers,San Antonio Spurs,26,13,39,1515024000.0,2018
+San Antonio Spurs,San Antonio Spurs,Phoenix Suns,27,13,40,1515202200.0,2018
+San Antonio Spurs,Portland Trail Blazers,San Antonio Spurs,27,14,41,1515376800.0,2018
+San Antonio Spurs,Sacramento Kings,San Antonio Spurs,28,14,42,1515466800.0,2018
+San Antonio Spurs,Los Angeles Lakers,San Antonio Spurs,28,15,43,1515727800.0,2018
+San Antonio Spurs,San Antonio Spurs,Denver Nuggets,29,15,44,1515893400.0,2018
+San Antonio Spurs,Atlanta Hawks,San Antonio Spurs,29,16,45,1516046400.0,2018
+San Antonio Spurs,Brooklyn Nets,San Antonio Spurs,30,16,46,1516235400.0,2018
+San Antonio Spurs,Toronto Raptors,San Antonio Spurs,30,17,47,1516406400.0,2018
+San Antonio Spurs,San Antonio Spurs,Indiana Pacers,30,18,48,1516579200.0,2018
+San Antonio Spurs,San Antonio Spurs,Cleveland Cavaliers,31,18,49,1516755600.0,2018
+San Antonio Spurs,Memphis Grizzlies,San Antonio Spurs,32,18,50,1516842000.0,2018
+San Antonio Spurs,San Antonio Spurs,Philadelphia 76ers,32,19,51,1517016600.0,2018
+San Antonio Spurs,San Antonio Spurs,Sacramento Kings,33,19,52,1517184000.0,2018
+San Antonio Spurs,San Antonio Spurs,Denver Nuggets,34,19,53,1517362200.0,2018
+San Antonio Spurs,San Antonio Spurs,Houston Rockets,34,20,54,1517533200.0,2018
+San Antonio Spurs,San Antonio Spurs,Utah Jazz,34,21,55,1517709600.0,2018
+San Antonio Spurs,Phoenix Suns,San Antonio Spurs,35,21,56,1518060600.0,2018
+San Antonio Spurs,Golden State Warriors,San Antonio Spurs,35,22,57,1518312600.0,2018
+San Antonio Spurs,Utah Jazz,San Antonio Spurs,35,23,58,1518487200.0,2018
+San Antonio Spurs,Denver Nuggets,San Antonio Spurs,35,24,59,1518579000.0,2018
+San Antonio Spurs,Denver Nuggets,San Antonio Spurs,35,25,60,1519437600.0,2018
+San Antonio Spurs,Cleveland Cavaliers,San Antonio Spurs,36,25,61,1519590600.0,2018
+San Antonio Spurs,San Antonio Spurs,New Orleans Pelicans,36,26,62,1519867800.0,2018
+San Antonio Spurs,San Antonio Spurs,Los Angeles Lakers,36,27,63,1520128800.0,2018
+San Antonio Spurs,San Antonio Spurs,Memphis Grizzlies,37,27,64,1520299800.0,2018
+San Antonio Spurs,Golden State Warriors,San Antonio Spurs,37,28,65,1520566200.0,2018
+San Antonio Spurs,Oklahoma City Thunder,San Antonio Spurs,37,29,66,1520731800.0,2018
+San Antonio Spurs,Houston Rockets,San Antonio Spurs,37,30,67,1520899200.0,2018
+San Antonio Spurs,San Antonio Spurs,Orlando Magic,38,30,68,1520987400.0,2018
+San Antonio Spurs,San Antonio Spurs,New Orleans Pelicans,39,30,69,1521160200.0,2018
+San Antonio Spurs,San Antonio Spurs,Minnesota Timberwolves,40,30,70,1521333000.0,2018
+San Antonio Spurs,San Antonio Spurs,Golden State Warriors,41,30,71,1521509400.0,2018
+San Antonio Spurs,San Antonio Spurs,Washington Wizards,42,30,72,1521682200.0,2018
+San Antonio Spurs,San Antonio Spurs,Utah Jazz,43,30,73,1521851400.0,2018
+San Antonio Spurs,Milwaukee Bucks,San Antonio Spurs,43,31,74,1522006200.0,2018
+San Antonio Spurs,Washington Wizards,San Antonio Spurs,43,32,75,1522191600.0,2018
+San Antonio Spurs,San Antonio Spurs,Oklahoma City Thunder,44,32,76,1522368000.0,2018
+San Antonio Spurs,San Antonio Spurs,Houston Rockets,45,32,77,1522611000.0,2018
+San Antonio Spurs,Los Angeles Clippers,San Antonio Spurs,45,33,78,1522809000.0,2018
+San Antonio Spurs,Los Angeles Lakers,San Antonio Spurs,45,34,79,1522895400.0,2018
+San Antonio Spurs,San Antonio Spurs,Portland Trail Blazers,46,34,80,1523149200.0,2018
+San Antonio Spurs,San Antonio Spurs,Sacramento Kings,47,34,81,1523320200.0,2018
+San Antonio Spurs,New Orleans Pelicans,San Antonio Spurs,47,35,82,1523491200.0,2018
+Toronto Raptors,Toronto Raptors,Chicago Bulls,1,0,1,1508455800.0,2018
+Toronto Raptors,Toronto Raptors,Philadelphia 76ers,2,0,2,1508628600.0,2018
+Toronto Raptors,San Antonio Spurs,Toronto Raptors,2,1,3,1508805000.0,2018
+Toronto Raptors,Golden State Warriors,Toronto Raptors,2,2,4,1508985000.0,2018
+Toronto Raptors,Los Angeles Lakers,Toronto Raptors,3,2,5,1509157800.0,2018
+Toronto Raptors,Portland Trail Blazers,Toronto Raptors,4,2,6,1509415200.0,2018
+Toronto Raptors,Denver Nuggets,Toronto Raptors,4,3,7,1509584400.0,2018
+Toronto Raptors,Utah Jazz,Toronto Raptors,5,3,8,1509757200.0,2018
+Toronto Raptors,Toronto Raptors,Washington Wizards,5,4,9,1509922800.0,2018
+Toronto Raptors,Toronto Raptors,Chicago Bulls,6,4,10,1510101000.0,2018
+Toronto Raptors,Toronto Raptors,New Orleans Pelicans,7,4,11,1510273800.0,2018
+Toronto Raptors,Boston Celtics,Toronto Raptors,7,5,12,1510518600.0,2018
+Toronto Raptors,Houston Rockets,Toronto Raptors,8,5,13,1510707600.0,2018
+Toronto Raptors,New Orleans Pelicans,Toronto Raptors,9,5,14,1510794000.0,2018
+Toronto Raptors,Toronto Raptors,New York Knicks,10,5,15,1510965000.0,2018
+Toronto Raptors,Toronto Raptors,Washington Wizards,11,5,16,1511123400.0,2018
+Toronto Raptors,New York Knicks,Toronto Raptors,11,6,17,1511397000.0,2018
+Toronto Raptors,Indiana Pacers,Toronto Raptors,11,7,18,1511571600.0,2018
+Toronto Raptors,Atlanta Hawks,Toronto Raptors,12,7,19,1511656200.0,2018
+Toronto Raptors,Toronto Raptors,Charlotte Hornets,13,7,20,1512001800.0,2018
+Toronto Raptors,Toronto Raptors,Indiana Pacers,14,7,21,1512174600.0,2018
+Toronto Raptors,Toronto Raptors,Phoenix Suns,15,7,22,1512520200.0,2018
+Toronto Raptors,Memphis Grizzlies,Toronto Raptors,16,7,23,1512781200.0,2018
+Toronto Raptors,Sacramento Kings,Toronto Raptors,17,7,24,1512937800.0,2018
+Toronto Raptors,Los Angeles Clippers,Toronto Raptors,17,8,25,1513049400.0,2018
+Toronto Raptors,Phoenix Suns,Toronto Raptors,18,8,26,1513216800.0,2018
+Toronto Raptors,Toronto Raptors,Brooklyn Nets,19,8,27,1513384200.0,2018
+Toronto Raptors,Toronto Raptors,Sacramento Kings,20,8,28,1513542600.0,2018
+Toronto Raptors,Charlotte Hornets,Toronto Raptors,21,8,29,1513814400.0,2018
+Toronto Raptors,Philadelphia 76ers,Toronto Raptors,22,8,30,1513900800.0,2018
+Toronto Raptors,Toronto Raptors,Philadelphia 76ers,23,8,31,1514066400.0,2018
+Toronto Raptors,Dallas Mavericks,Toronto Raptors,23,9,32,1514332800.0,2018
+Toronto Raptors,Oklahoma City Thunder,Toronto Raptors,23,10,33,1514422800.0,2018
+Toronto Raptors,Toronto Raptors,Atlanta Hawks,24,10,34,1514593800.0,2018
+Toronto Raptors,Toronto Raptors,Milwaukee Bucks,25,10,35,1514853000.0,2018
+Toronto Raptors,Chicago Bulls,Toronto Raptors,26,10,36,1515027600.0,2018
+Toronto Raptors,Milwaukee Bucks,Toronto Raptors,27,10,37,1515200400.0,2018
+Toronto Raptors,Brooklyn Nets,Toronto Raptors,28,10,38,1515457800.0,2018
+Toronto Raptors,Toronto Raptors,Miami Heat,28,11,39,1515544200.0,2018
+Toronto Raptors,Toronto Raptors,Cleveland Cavaliers,29,11,40,1515718800.0,2018
+Toronto Raptors,Toronto Raptors,Golden State Warriors,29,12,41,1515889800.0,2018
+Toronto Raptors,Philadelphia 76ers,Toronto Raptors,29,13,42,1516039200.0,2018
+Toronto Raptors,Toronto Raptors,Detroit Pistons,30,13,43,1516235400.0,2018
+Toronto Raptors,Toronto Raptors,San Antonio Spurs,31,13,44,1516406400.0,2018
+Toronto Raptors,Minnesota Timberwolves,Toronto Raptors,31,14,45,1516500000.0,2018
+Toronto Raptors,Atlanta Hawks,Toronto Raptors,32,14,46,1516840200.0,2018
+Toronto Raptors,Toronto Raptors,Utah Jazz,32,15,47,1517013000.0,2018
+Toronto Raptors,Toronto Raptors,Los Angeles Lakers,33,15,48,1517180400.0,2018
+Toronto Raptors,Toronto Raptors,Minnesota Timberwolves,34,15,49,1517358600.0,2018
+Toronto Raptors,Washington Wizards,Toronto Raptors,34,16,50,1517529600.0,2018
+Toronto Raptors,Toronto Raptors,Portland Trail Blazers,35,16,51,1517617800.0,2018
+Toronto Raptors,Toronto Raptors,Memphis Grizzlies,36,16,52,1517763600.0,2018
+Toronto Raptors,Toronto Raptors,Boston Celtics,37,16,53,1517963400.0,2018
+Toronto Raptors,Toronto Raptors,New York Knicks,38,16,54,1518136200.0,2018
+Toronto Raptors,Charlotte Hornets,Toronto Raptors,39,16,55,1518372000.0,2018
+Toronto Raptors,Toronto Raptors,Miami Heat,40,16,56,1518566400.0,2018
+Toronto Raptors,Chicago Bulls,Toronto Raptors,41,16,57,1518656400.0,2018
+Toronto Raptors,Toronto Raptors,Milwaukee Bucks,41,17,58,1519432200.0,2018
+Toronto Raptors,Toronto Raptors,Detroit Pistons,42,17,59,1519691400.0,2018
+Toronto Raptors,Orlando Magic,Toronto Raptors,43,17,60,1519862400.0,2018
+Toronto Raptors,Washington Wizards,Toronto Raptors,44,17,61,1520038800.0,2018
+Toronto Raptors,Toronto Raptors,Charlotte Hornets,45,17,62,1520204400.0,2018
+Toronto Raptors,Toronto Raptors,Atlanta Hawks,46,17,63,1520380800.0,2018
+Toronto Raptors,Detroit Pistons,Toronto Raptors,47,17,64,1520470800.0,2018
+Toronto Raptors,Toronto Raptors,Houston Rockets,48,17,65,1520641800.0,2018
+Toronto Raptors,New York Knicks,Toronto Raptors,49,17,66,1520787600.0,2018
+Toronto Raptors,Brooklyn Nets,Toronto Raptors,50,17,67,1520983800.0,2018
+Toronto Raptors,Indiana Pacers,Toronto Raptors,51,17,68,1521154800.0,2018
+Toronto Raptors,Toronto Raptors,Dallas Mavericks,52,17,69,1521243000.0,2018
+Toronto Raptors,Toronto Raptors,Oklahoma City Thunder,52,18,70,1521392400.0,2018
+Toronto Raptors,Orlando Magic,Toronto Raptors,53,18,71,1521586800.0,2018
+Toronto Raptors,Cleveland Cavaliers,Toronto Raptors,53,19,72,1521673200.0,2018
+Toronto Raptors,Toronto Raptors,Brooklyn Nets,54,19,73,1521847800.0,2018
+Toronto Raptors,Toronto Raptors,Los Angeles Clippers,54,20,74,1522015200.0,2018
+Toronto Raptors,Toronto Raptors,Denver Nuggets,55,20,75,1522193400.0,2018
+Toronto Raptors,Boston Celtics,Toronto Raptors,55,21,76,1522539000.0,2018
+Toronto Raptors,Cleveland Cavaliers,Toronto Raptors,55,22,77,1522796400.0,2018
+Toronto Raptors,Toronto Raptors,Boston Celtics,56,22,78,1522886400.0,2018
+Toronto Raptors,Toronto Raptors,Indiana Pacers,57,22,79,1523057400.0,2018
+Toronto Raptors,Toronto Raptors,Orlando Magic,58,22,80,1523224800.0,2018
+Toronto Raptors,Detroit Pistons,Toronto Raptors,59,22,81,1523314800.0,2018
+Toronto Raptors,Miami Heat,Toronto Raptors,59,23,82,1523491200.0,2018
+Utah Jazz,Utah Jazz,Denver Nuggets,1,0,1,1508374800.0,2018
+Utah Jazz,Minnesota Timberwolves,Utah Jazz,1,1,2,1508544000.0,2018
+Utah Jazz,Utah Jazz,Oklahoma City Thunder,2,1,3,1508634000.0,2018
+Utah Jazz,Los Angeles Clippers,Utah Jazz,2,2,4,1508898600.0,2018
+Utah Jazz,Phoenix Suns,Utah Jazz,2,3,5,1508983200.0,2018
+Utah Jazz,Utah Jazz,Los Angeles Lakers,3,3,6,1509238800.0,2018
+Utah Jazz,Utah Jazz,Dallas Mavericks,4,3,7,1509411600.0,2018
+Utah Jazz,Utah Jazz,Portland Trail Blazers,5,3,8,1509584400.0,2018
+Utah Jazz,Utah Jazz,Toronto Raptors,5,4,9,1509757200.0,2018
+Utah Jazz,Houston Rockets,Utah Jazz,5,5,10,1509926400.0,2018
+Utah Jazz,Utah Jazz,Philadelphia 76ers,5,6,11,1510106400.0,2018
+Utah Jazz,Utah Jazz,Miami Heat,5,7,12,1510365600.0,2018
+Utah Jazz,Utah Jazz,Brooklyn Nets,6,7,13,1510452000.0,2018
+Utah Jazz,Utah Jazz,Minnesota Timberwolves,6,8,14,1510624800.0,2018
+Utah Jazz,New York Knicks,Utah Jazz,6,9,15,1510792200.0,2018
+Utah Jazz,Brooklyn Nets,Utah Jazz,6,10,16,1510965000.0,2018
+Utah Jazz,Orlando Magic,Utah Jazz,7,10,17,1511049600.0,2018
+Utah Jazz,Philadelphia 76ers,Utah Jazz,7,11,18,1511222400.0,2018
+Utah Jazz,Utah Jazz,Chicago Bulls,8,11,19,1511402400.0,2018
+Utah Jazz,Utah Jazz,Milwaukee Bucks,9,11,20,1511661600.0,2018
+Utah Jazz,Utah Jazz,Denver Nuggets,10,11,21,1511924400.0,2018
+Utah Jazz,Los Angeles Clippers,Utah Jazz,11,11,22,1512099000.0,2018
+Utah Jazz,Utah Jazz,New Orleans Pelicans,12,11,23,1512180000.0,2018
+Utah Jazz,Utah Jazz,Washington Wizards,13,11,24,1512439200.0,2018
+Utah Jazz,Oklahoma City Thunder,Utah Jazz,13,12,25,1512522000.0,2018
+Utah Jazz,Utah Jazz,Houston Rockets,13,13,26,1512703800.0,2018
+Utah Jazz,Milwaukee Bucks,Utah Jazz,13,14,27,1512869400.0,2018
+Utah Jazz,Chicago Bulls,Utah Jazz,13,15,28,1513213200.0,2018
+Utah Jazz,Boston Celtics,Utah Jazz,14,15,29,1513384200.0,2018
+Utah Jazz,Cleveland Cavaliers,Utah Jazz,14,16,30,1513470600.0,2018
+Utah Jazz,Houston Rockets,Utah Jazz,14,17,31,1513645200.0,2018
+Utah Jazz,Oklahoma City Thunder,Utah Jazz,14,18,32,1513818000.0,2018
+Utah Jazz,Utah Jazz,San Antonio Spurs,15,18,33,1513913400.0,2018
+Utah Jazz,Utah Jazz,Oklahoma City Thunder,15,19,34,1514077200.0,2018
+Utah Jazz,Denver Nuggets,Utah Jazz,15,20,35,1514340000.0,2018
+Utah Jazz,Golden State Warriors,Utah Jazz,15,21,36,1514431800.0,2018
+Utah Jazz,Utah Jazz,Cleveland Cavaliers,16,21,37,1514682000.0,2018
+Utah Jazz,Utah Jazz,New Orleans Pelicans,16,22,38,1515031200.0,2018
+Utah Jazz,Denver Nuggets,Utah Jazz,16,23,39,1515204000.0,2018
+Utah Jazz,Miami Heat,Utah Jazz,16,24,40,1515357000.0,2018
+Utah Jazz,Washington Wizards,Utah Jazz,17,24,41,1515628800.0,2018
+Utah Jazz,Charlotte Hornets,Utah Jazz,17,25,42,1515801600.0,2018
+Utah Jazz,Utah Jazz,Indiana Pacers,17,26,43,1516068000.0,2018
+Utah Jazz,Sacramento Kings,Utah Jazz,18,26,44,1516244400.0,2018
+Utah Jazz,Utah Jazz,New York Knicks,18,27,45,1516419000.0,2018
+Utah Jazz,Utah Jazz,Los Angeles Clippers,19,27,46,1516500000.0,2018
+Utah Jazz,Atlanta Hawks,Utah Jazz,19,28,47,1516667400.0,2018
+Utah Jazz,Detroit Pistons,Utah Jazz,20,28,48,1516838400.0,2018
+Utah Jazz,Toronto Raptors,Utah Jazz,21,28,49,1517013000.0,2018
+Utah Jazz,Utah Jazz,Golden State Warriors,22,28,50,1517364000.0,2018
+Utah Jazz,Phoenix Suns,Utah Jazz,23,28,51,1517623200.0,2018
+Utah Jazz,San Antonio Spurs,Utah Jazz,24,28,52,1517709600.0,2018
+Utah Jazz,New Orleans Pelicans,Utah Jazz,25,28,53,1517878800.0,2018
+Utah Jazz,Memphis Grizzlies,Utah Jazz,26,28,54,1518051600.0,2018
+Utah Jazz,Utah Jazz,Charlotte Hornets,27,28,55,1518228000.0,2018
+Utah Jazz,Portland Trail Blazers,Utah Jazz,28,28,56,1518400800.0,2018
+Utah Jazz,Utah Jazz,San Antonio Spurs,29,28,57,1518487200.0,2018
+Utah Jazz,Utah Jazz,Phoenix Suns,30,28,58,1518660000.0,2018
+Utah Jazz,Utah Jazz,Portland Trail Blazers,30,29,59,1519437600.0,2018
+Utah Jazz,Utah Jazz,Dallas Mavericks,31,29,60,1519524000.0,2018
+Utah Jazz,Utah Jazz,Houston Rockets,31,30,61,1519696800.0,2018
+Utah Jazz,Utah Jazz,Minnesota Timberwolves,32,30,62,1520047800.0,2018
+Utah Jazz,Sacramento Kings,Utah Jazz,33,30,63,1520132400.0,2018
+Utah Jazz,Utah Jazz,Orlando Magic,34,30,64,1520301600.0,2018
+Utah Jazz,Indiana Pacers,Utah Jazz,35,30,65,1520467200.0,2018
+Utah Jazz,Memphis Grizzlies,Utah Jazz,36,30,66,1520643600.0,2018
+Utah Jazz,New Orleans Pelicans,Utah Jazz,37,30,67,1520798400.0,2018
+Utah Jazz,Utah Jazz,Detroit Pistons,38,30,68,1520989200.0,2018
+Utah Jazz,Utah Jazz,Phoenix Suns,39,30,69,1521162000.0,2018
+Utah Jazz,Utah Jazz,Sacramento Kings,40,30,70,1521334800.0,2018
+Utah Jazz,Utah Jazz,Atlanta Hawks,40,31,71,1521594000.0,2018
+Utah Jazz,Dallas Mavericks,Utah Jazz,41,31,72,1521765000.0,2018
+Utah Jazz,San Antonio Spurs,Utah Jazz,41,32,73,1521851400.0,2018
+Utah Jazz,Golden State Warriors,Utah Jazz,42,32,74,1522024200.0,2018
+Utah Jazz,Utah Jazz,Boston Celtics,42,33,75,1522287000.0,2018
+Utah Jazz,Utah Jazz,Memphis Grizzlies,43,33,76,1522458000.0,2018
+Utah Jazz,Minnesota Timberwolves,Utah Jazz,44,33,77,1522623600.0,2018
+Utah Jazz,Utah Jazz,Los Angeles Lakers,45,33,78,1522803600.0,2018
+Utah Jazz,Utah Jazz,Los Angeles Clippers,46,33,79,1522976400.0,2018
+Utah Jazz,Los Angeles Lakers,Utah Jazz,47,33,80,1523224800.0,2018
+Utah Jazz,Utah Jazz,Golden State Warriors,48,33,81,1523408400.0,2018
+Utah Jazz,Portland Trail Blazers,Utah Jazz,48,34,82,1523500200.0,2018
+Washington Wizards,Washington Wizards,Philadelphia 76ers,1,0,1,1508367600.0,2018
+Washington Wizards,Washington Wizards,Detroit Pistons,2,0,2,1508540400.0,2018
+Washington Wizards,Denver Nuggets,Washington Wizards,3,0,3,1508806800.0,2018
+Washington Wizards,Los Angeles Lakers,Washington Wizards,3,1,4,1508985000.0,2018
+Washington Wizards,Golden State Warriors,Washington Wizards,3,2,5,1509157800.0,2018
+Washington Wizards,Sacramento Kings,Washington Wizards,4,2,6,1509314400.0,2018
+Washington Wizards,Washington Wizards,Phoenix Suns,4,3,7,1509577200.0,2018
+Washington Wizards,Washington Wizards,Cleveland Cavaliers,4,4,8,1509750000.0,2018
+Washington Wizards,Toronto Raptors,Washington Wizards,5,4,9,1509922800.0,2018
+Washington Wizards,Washington Wizards,Dallas Mavericks,5,5,10,1510099200.0,2018
+Washington Wizards,Washington Wizards,Los Angeles Lakers,6,5,11,1510272000.0,2018
+Washington Wizards,Washington Wizards,Atlanta Hawks,7,5,12,1510444800.0,2018
+Washington Wizards,Washington Wizards,Sacramento Kings,8,5,13,1510617600.0,2018
+Washington Wizards,Miami Heat,Washington Wizards,9,5,14,1510792200.0,2018
+Washington Wizards,Washington Wizards,Miami Heat,9,6,15,1510963200.0,2018
+Washington Wizards,Toronto Raptors,Washington Wizards,9,7,16,1511123400.0,2018
+Washington Wizards,Milwaukee Bucks,Washington Wizards,10,7,17,1511226000.0,2018
+Washington Wizards,Charlotte Hornets,Washington Wizards,10,8,18,1511395200.0,2018
+Washington Wizards,Washington Wizards,Portland Trail Blazers,10,9,19,1511654400.0,2018
+Washington Wizards,Minnesota Timberwolves,Washington Wizards,11,9,20,1511917200.0,2018
+Washington Wizards,Philadelphia 76ers,Washington Wizards,11,10,21,1512000000.0,2018
+Washington Wizards,Washington Wizards,Detroit Pistons,12,10,22,1512172800.0,2018
+Washington Wizards,Utah Jazz,Washington Wizards,12,11,23,1512439200.0,2018
+Washington Wizards,Portland Trail Blazers,Washington Wizards,13,11,24,1512529200.0,2018
+Washington Wizards,Phoenix Suns,Washington Wizards,14,11,25,1512698400.0,2018
+Washington Wizards,Los Angeles Clippers,Washington Wizards,14,12,26,1512851400.0,2018
+Washington Wizards,Brooklyn Nets,Washington Wizards,14,13,27,1513125000.0,2018
+Washington Wizards,Washington Wizards,Memphis Grizzlies,15,13,28,1513209600.0,2018
+Washington Wizards,Washington Wizards,Los Angeles Clippers,16,13,29,1513382400.0,2018
+Washington Wizards,Washington Wizards,Cleveland Cavaliers,16,14,30,1513551600.0,2018
+Washington Wizards,Washington Wizards,New Orleans Pelicans,17,14,31,1513728000.0,2018
+Washington Wizards,Brooklyn Nets,Washington Wizards,17,15,32,1513989000.0,2018
+Washington Wizards,Washington Wizards,Orlando Magic,18,15,33,1514073600.0,2018
+Washington Wizards,Boston Celtics,Washington Wizards,19,15,34,1514241000.0,2018
+Washington Wizards,Atlanta Hawks,Washington Wizards,19,16,35,1514421000.0,2018
+Washington Wizards,Washington Wizards,Houston Rockets,20,16,36,1514592000.0,2018
+Washington Wizards,Washington Wizards,Chicago Bulls,21,16,37,1514752200.0,2018
+Washington Wizards,Washington Wizards,New York Knicks,22,16,38,1515024000.0,2018
+Washington Wizards,Memphis Grizzlies,Washington Wizards,23,16,39,1515205800.0,2018
+Washington Wizards,Washington Wizards,Milwaukee Bucks,23,17,40,1515286800.0,2018
+Washington Wizards,Washington Wizards,Utah Jazz,23,18,41,1515628800.0,2018
+Washington Wizards,Washington Wizards,Orlando Magic,24,18,42,1515801600.0,2018
+Washington Wizards,Washington Wizards,Brooklyn Nets,25,18,43,1515888000.0,2018
+Washington Wizards,Washington Wizards,Milwaukee Bucks,25,19,44,1516042800.0,2018
+Washington Wizards,Charlotte Hornets,Washington Wizards,25,20,45,1516233600.0,2018
+Washington Wizards,Detroit Pistons,Washington Wizards,26,20,46,1516410000.0,2018
+Washington Wizards,Dallas Mavericks,Washington Wizards,26,21,47,1516671000.0,2018
+Washington Wizards,Oklahoma City Thunder,Washington Wizards,26,22,48,1516928400.0,2018
+Washington Wizards,Atlanta Hawks,Washington Wizards,27,22,49,1517099400.0,2018
+Washington Wizards,Washington Wizards,Oklahoma City Thunder,28,22,50,1517356800.0,2018
+Washington Wizards,Washington Wizards,Toronto Raptors,29,22,51,1517529600.0,2018
+Washington Wizards,Orlando Magic,Washington Wizards,30,22,52,1517702400.0,2018
+Washington Wizards,Indiana Pacers,Washington Wizards,31,22,53,1517875200.0,2018
+Washington Wizards,Philadelphia 76ers,Washington Wizards,31,23,54,1517965200.0,2018
+Washington Wizards,Washington Wizards,Boston Celtics,31,24,55,1518138000.0,2018
+Washington Wizards,Chicago Bulls,Washington Wizards,32,24,56,1518310800.0,2018
+Washington Wizards,New York Knicks,Washington Wizards,33,24,57,1518654600.0,2018
+Washington Wizards,Cleveland Cavaliers,Washington Wizards,34,24,58,1519347600.0,2018
+Washington Wizards,Washington Wizards,Charlotte Hornets,34,25,59,1519430400.0,2018
+Washington Wizards,Washington Wizards,Philadelphia 76ers,35,25,60,1519606800.0,2018
+Washington Wizards,Milwaukee Bucks,Washington Wizards,36,25,61,1519779600.0,2018
+Washington Wizards,Washington Wizards,Golden State Warriors,36,26,62,1519866000.0,2018
+Washington Wizards,Washington Wizards,Toronto Raptors,36,27,63,1520038800.0,2018
+Washington Wizards,Washington Wizards,Indiana Pacers,36,28,64,1520204400.0,2018
+Washington Wizards,Washington Wizards,Miami Heat,37,28,65,1520380800.0,2018
+Washington Wizards,New Orleans Pelicans,Washington Wizards,38,28,66,1520643600.0,2018
+Washington Wizards,Miami Heat,Washington Wizards,38,29,67,1520728200.0,2018
+Washington Wizards,Washington Wizards,Minnesota Timberwolves,38,30,68,1520982000.0,2018
+Washington Wizards,Boston Celtics,Washington Wizards,39,30,69,1521072000.0,2018
+Washington Wizards,Washington Wizards,Indiana Pacers,40,30,70,1521327600.0,2018
+Washington Wizards,San Antonio Spurs,Washington Wizards,40,31,71,1521682200.0,2018
+Washington Wizards,Washington Wizards,Denver Nuggets,40,32,72,1521846000.0,2018
+Washington Wizards,Washington Wizards,New York Knicks,40,33,73,1522015200.0,2018
+Washington Wizards,Washington Wizards,San Antonio Spurs,41,33,74,1522191600.0,2018
+Washington Wizards,Detroit Pistons,Washington Wizards,41,34,75,1522364400.0,2018
+Washington Wizards,Washington Wizards,Charlotte Hornets,42,34,76,1522522800.0,2018
+Washington Wizards,Chicago Bulls,Washington Wizards,42,35,77,1522611000.0,2018
+Washington Wizards,Houston Rockets,Washington Wizards,42,36,78,1522800000.0,2018
+Washington Wizards,Cleveland Cavaliers,Washington Wizards,42,37,79,1522972800.0,2018
+Washington Wizards,Washington Wizards,Atlanta Hawks,42,38,80,1523055600.0,2018
+Washington Wizards,Washington Wizards,Boston Celtics,43,38,81,1523404800.0,2018
+Washington Wizards,Orlando Magic,Washington Wizards,43,39,82,1523491200.0,2018

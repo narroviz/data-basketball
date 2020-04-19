@@ -1,0 +1,577 @@
+id,home_team,away_team,win,loss,game_number,date,year
+Boston Celtics,New York Knicks,Boston Celtics,1,0,1,-415915200.0,1957
+Boston Celtics,Boston Celtics,New York Knicks,1,1,2,-415306800.0,1957
+Boston Celtics,Boston Celtics,Minneapolis Lakers,2,1,3,-414702000.0,1957
+Boston Celtics,Syracuse Nationals,Boston Celtics,3,1,4,-414615600.0,1957
+Boston Celtics,Boston Celtics,Minneapolis Lakers,3,2,5,-414356400.0,1957
+Boston Celtics,Fort Wayne Pistons,Boston Celtics,3,3,6,-414270000.0,1957
+Boston Celtics,Boston Celtics,Rochester Royals,4,3,7,-414097200.0,1957
+Boston Celtics,Rochester Royals,Boston Celtics,5,3,8,-414010800.0,1957
+Boston Celtics,Boston Celtics,Philadelphia Warriors,6,3,9,-413751600.0,1957
+Boston Celtics,Philadelphia Warriors,Boston Celtics,7,3,10,-413665200.0,1957
+Boston Celtics,Boston Celtics,Syracuse Nationals,8,3,11,-413492400.0,1957
+Boston Celtics,St. Louis Hawks,Boston Celtics,9,3,12,-413233200.0,1957
+Boston Celtics,Boston Celtics,Minneapolis Lakers,10,3,13,-413146800.0,1957
+Boston Celtics,Boston Celtics,Fort Wayne Pistons,11,3,14,-412974000.0,1957
+Boston Celtics,Boston Celtics,Fort Wayne Pistons,12,3,15,-412887600.0,1957
+Boston Celtics,Boston Celtics,St. Louis Hawks,13,3,16,-412628400.0,1957
+Boston Celtics,Philadelphia Warriors,Boston Celtics,13,4,17,-412455600.0,1957
+Boston Celtics,Boston Celtics,Minneapolis Lakers,14,4,18,-412369200.0,1957
+Boston Celtics,Syracuse Nationals,Boston Celtics,14,5,19,-412196400.0,1957
+Boston Celtics,Boston Celtics,Fort Wayne Pistons,15,5,20,-412023600.0,1957
+Boston Celtics,Boston Celtics,Rochester Royals,15,6,21,-411937200.0,1957
+Boston Celtics,Boston Celtics,St. Louis Hawks,16,6,22,-411678000.0,1957
+Boston Celtics,Boston Celtics,Philadelphia Warriors,16,7,23,-411591600.0,1957
+Boston Celtics,New York Knicks,Boston Celtics,16,8,24,-411418800.0,1957
+Boston Celtics,Boston Celtics,St. Louis Hawks,17,8,25,-411073200.0,1957
+Boston Celtics,Fort Wayne Pistons,Boston Celtics,17,9,26,-410986800.0,1957
+Boston Celtics,Boston Celtics,Philadelphia Warriors,17,10,27,-410814000.0,1957
+Boston Celtics,Boston Celtics,Philadelphia Warriors,18,10,28,-410727600.0,1957
+Boston Celtics,Boston Celtics,Rochester Royals,19,10,29,-410641200.0,1957
+Boston Celtics,Boston Celtics,Syracuse Nationals,20,10,30,-410382000.0,1957
+Boston Celtics,Boston Celtics,Philadelphia Warriors,21,10,31,-410209200.0,1957
+Boston Celtics,Boston Celtics,Syracuse Nationals,21,11,32,-409950000.0,1957
+Boston Celtics,Boston Celtics,Fort Wayne Pistons,22,11,33,-409777200.0,1957
+Boston Celtics,New York Knicks,Boston Celtics,22,12,34,-409604400.0,1957
+Boston Celtics,Fort Wayne Pistons,Boston Celtics,23,12,35,-409431600.0,1957
+Boston Celtics,St. Louis Hawks,Boston Celtics,23,13,36,-409258800.0,1957
+Boston Celtics,Minneapolis Lakers,Boston Celtics,23,14,37,-409172400.0,1957
+Boston Celtics,Boston Celtics,St. Louis Hawks,24,14,38,-408740400.0,1957
+Boston Celtics,Rochester Royals,Boston Celtics,25,14,39,-408654000.0,1957
+Boston Celtics,Boston Celtics,New York Knicks,26,14,40,-408567600.0,1957
+Boston Celtics,Boston Celtics,Syracuse Nationals,27,14,41,-408308400.0,1957
+Boston Celtics,Boston Celtics,Minneapolis Lakers,28,14,42,-408135600.0,1957
+Boston Celtics,Philadelphia Warriors,Boston Celtics,29,14,43,-407962800.0,1957
+Boston Celtics,Boston Celtics,Philadelphia Warriors,30,14,44,-407876400.0,1957
+Boston Celtics,Boston Celtics,Minneapolis Lakers,31,14,45,-407790000.0,1957
+Boston Celtics,Boston Celtics,Syracuse Nationals,31,15,46,-407703600.0,1957
+Boston Celtics,Syracuse Nationals,Boston Celtics,31,16,47,-407617200.0,1957
+Boston Celtics,New York Knicks,Boston Celtics,32,16,48,-407444400.0,1957
+Boston Celtics,Boston Celtics,New York Knicks,33,16,49,-407358000.0,1957
+Boston Celtics,Boston Celtics,Syracuse Nationals,34,16,50,-407185200.0,1957
+Boston Celtics,Boston Celtics,Fort Wayne Pistons,35,16,51,-407098800.0,1957
+Boston Celtics,Boston Celtics,New York Knicks,35,17,52,-406926000.0,1957
+Boston Celtics,Rochester Royals,Boston Celtics,35,18,53,-406839600.0,1957
+Boston Celtics,Boston Celtics,Philadelphia Warriors,36,18,54,-406753200.0,1957
+Boston Celtics,Minneapolis Lakers,Boston Celtics,36,19,55,-406494000.0,1957
+Boston Celtics,Fort Wayne Pistons,Boston Celtics,36,20,56,-406407600.0,1957
+Boston Celtics,St. Louis Hawks,Boston Celtics,37,20,57,-406321200.0,1957
+Boston Celtics,Syracuse Nationals,Boston Celtics,37,21,58,-406148400.0,1957
+Boston Celtics,New York Knicks,Boston Celtics,38,21,59,-405975600.0,1957
+Boston Celtics,Boston Celtics,St. Louis Hawks,39,21,60,-405802800.0,1957
+Boston Celtics,Philadelphia Warriors,Boston Celtics,39,22,61,-405716400.0,1957
+Boston Celtics,Boston Celtics,New York Knicks,40,22,62,-405543600.0,1957
+Boston Celtics,Boston Celtics,Rochester Royals,41,22,63,-405370800.0,1957
+Boston Celtics,Boston Celtics,New York Knicks,41,23,64,-405198000.0,1957
+Boston Celtics,Boston Celtics,Philadelphia Warriors,42,23,65,-405111600.0,1957
+Boston Celtics,Rochester Royals,Boston Celtics,42,24,66,-405025200.0,1957
+Boston Celtics,Boston Celtics,Rochester Royals,43,24,67,-404938800.0,1957
+Boston Celtics,St. Louis Hawks,Boston Celtics,43,25,68,-404766000.0,1957
+Boston Celtics,Minneapolis Lakers,Boston Celtics,43,26,69,-404593200.0,1957
+Boston Celtics,Syracuse Nationals,Boston Celtics,43,27,70,-404420400.0,1957
+Boston Celtics,Boston Celtics,Syracuse Nationals,43,28,71,-404334000.0,1957
+Boston Celtics,Boston Celtics,New York Knicks,44,28,72,-404074800.0,1957
+Fort Wayne Pistons,Rochester Royals,Fort Wayne Pistons,0,1,1,-415915200.0,1957
+Fort Wayne Pistons,Fort Wayne Pistons,Minneapolis Lakers,1,1,2,-415828800.0,1957
+Fort Wayne Pistons,Philadelphia Warriors,Fort Wayne Pistons,1,2,3,-415306800.0,1957
+Fort Wayne Pistons,Fort Wayne Pistons,New York Knicks,1,3,4,-415220400.0,1957
+Fort Wayne Pistons,St. Louis Hawks,Fort Wayne Pistons,1,4,5,-414702000.0,1957
+Fort Wayne Pistons,Fort Wayne Pistons,St. Louis Hawks,2,4,6,-414615600.0,1957
+Fort Wayne Pistons,Fort Wayne Pistons,Boston Celtics,3,4,7,-414270000.0,1957
+Fort Wayne Pistons,St. Louis Hawks,Fort Wayne Pistons,3,5,8,-414097200.0,1957
+Fort Wayne Pistons,Minneapolis Lakers,Fort Wayne Pistons,4,5,9,-414010800.0,1957
+Fort Wayne Pistons,Fort Wayne Pistons,New York Knicks,5,5,10,-413751600.0,1957
+Fort Wayne Pistons,Fort Wayne Pistons,Rochester Royals,6,5,11,-413665200.0,1957
+Fort Wayne Pistons,Philadelphia Warriors,Fort Wayne Pistons,6,6,12,-413492400.0,1957
+Fort Wayne Pistons,Fort Wayne Pistons,Philadelphia Warriors,7,6,13,-413406000.0,1957
+Fort Wayne Pistons,New York Knicks,Fort Wayne Pistons,7,7,14,-413233200.0,1957
+Fort Wayne Pistons,Syracuse Nationals,Fort Wayne Pistons,8,7,15,-413060400.0,1957
+Fort Wayne Pistons,Boston Celtics,Fort Wayne Pistons,8,8,16,-412974000.0,1957
+Fort Wayne Pistons,Boston Celtics,Fort Wayne Pistons,8,9,17,-412887600.0,1957
+Fort Wayne Pistons,Fort Wayne Pistons,Syracuse Nationals,8,10,18,-412628400.0,1957
+Fort Wayne Pistons,Fort Wayne Pistons,Syracuse Nationals,9,10,19,-412455600.0,1957
+Fort Wayne Pistons,Fort Wayne Pistons,Syracuse Nationals,10,10,20,-412369200.0,1957
+Fort Wayne Pistons,Fort Wayne Pistons,Rochester Royals,10,11,21,-412196400.0,1957
+Fort Wayne Pistons,Boston Celtics,Fort Wayne Pistons,10,12,22,-412023600.0,1957
+Fort Wayne Pistons,Fort Wayne Pistons,New York Knicks,11,12,23,-411591600.0,1957
+Fort Wayne Pistons,Fort Wayne Pistons,St. Louis Hawks,11,13,24,-411418800.0,1957
+Fort Wayne Pistons,Fort Wayne Pistons,Boston Celtics,12,13,25,-410986800.0,1957
+Fort Wayne Pistons,Fort Wayne Pistons,Minneapolis Lakers,12,14,26,-410814000.0,1957
+Fort Wayne Pistons,Fort Wayne Pistons,Rochester Royals,13,14,27,-410727600.0,1957
+Fort Wayne Pistons,Fort Wayne Pistons,Minneapolis Lakers,14,14,28,-410641200.0,1957
+Fort Wayne Pistons,Rochester Royals,Fort Wayne Pistons,14,15,29,-410468400.0,1957
+Fort Wayne Pistons,Fort Wayne Pistons,Philadelphia Warriors,15,15,30,-410382000.0,1957
+Fort Wayne Pistons,Fort Wayne Pistons,Minneapolis Lakers,16,15,31,-410036400.0,1957
+Fort Wayne Pistons,Fort Wayne Pistons,New York Knicks,17,15,32,-409863600.0,1957
+Fort Wayne Pistons,Boston Celtics,Fort Wayne Pistons,17,16,33,-409777200.0,1957
+Fort Wayne Pistons,Fort Wayne Pistons,Minneapolis Lakers,18,16,34,-409604400.0,1957
+Fort Wayne Pistons,Fort Wayne Pistons,Boston Celtics,18,17,35,-409431600.0,1957
+Fort Wayne Pistons,Fort Wayne Pistons,Minneapolis Lakers,18,18,36,-409258800.0,1957
+Fort Wayne Pistons,Fort Wayne Pistons,St. Louis Hawks,19,18,37,-409172400.0,1957
+Fort Wayne Pistons,Fort Wayne Pistons,St. Louis Hawks,19,19,38,-408826800.0,1957
+Fort Wayne Pistons,New York Knicks,Fort Wayne Pistons,19,20,39,-408654000.0,1957
+Fort Wayne Pistons,Syracuse Nationals,Fort Wayne Pistons,19,21,40,-408567600.0,1957
+Fort Wayne Pistons,Fort Wayne Pistons,St. Louis Hawks,20,21,41,-408394800.0,1957
+Fort Wayne Pistons,Fort Wayne Pistons,St. Louis Hawks,20,22,42,-408308400.0,1957
+Fort Wayne Pistons,Fort Wayne Pistons,Philadelphia Warriors,21,22,43,-408049200.0,1957
+Fort Wayne Pistons,Fort Wayne Pistons,New York Knicks,22,22,44,-407962800.0,1957
+Fort Wayne Pistons,St. Louis Hawks,Fort Wayne Pistons,23,22,45,-407790000.0,1957
+Fort Wayne Pistons,Minneapolis Lakers,Fort Wayne Pistons,24,22,46,-407617200.0,1957
+Fort Wayne Pistons,Fort Wayne Pistons,Rochester Royals,24,23,47,-407530800.0,1957
+Fort Wayne Pistons,Rochester Royals,Fort Wayne Pistons,24,24,48,-407444400.0,1957
+Fort Wayne Pistons,Syracuse Nationals,Fort Wayne Pistons,24,25,49,-407358000.0,1957
+Fort Wayne Pistons,Fort Wayne Pistons,Philadelphia Warriors,25,25,50,-407271600.0,1957
+Fort Wayne Pistons,Boston Celtics,Fort Wayne Pistons,25,26,51,-407098800.0,1957
+Fort Wayne Pistons,Minneapolis Lakers,Fort Wayne Pistons,25,27,52,-406839600.0,1957
+Fort Wayne Pistons,Fort Wayne Pistons,Minneapolis Lakers,26,27,53,-406753200.0,1957
+Fort Wayne Pistons,Philadelphia Warriors,Fort Wayne Pistons,26,28,54,-406494000.0,1957
+Fort Wayne Pistons,Fort Wayne Pistons,Boston Celtics,27,28,55,-406407600.0,1957
+Fort Wayne Pistons,Rochester Royals,Fort Wayne Pistons,28,28,56,-406234800.0,1957
+Fort Wayne Pistons,Fort Wayne Pistons,Rochester Royals,29,28,57,-406148400.0,1957
+Fort Wayne Pistons,St. Louis Hawks,Fort Wayne Pistons,29,29,58,-405975600.0,1957
+Fort Wayne Pistons,Fort Wayne Pistons,New York Knicks,30,29,59,-405802800.0,1957
+Fort Wayne Pistons,Fort Wayne Pistons,Rochester Royals,31,29,60,-405716400.0,1957
+Fort Wayne Pistons,New York Knicks,Fort Wayne Pistons,31,30,61,-405630000.0,1957
+Fort Wayne Pistons,Minneapolis Lakers,Fort Wayne Pistons,31,31,62,-405543600.0,1957
+Fort Wayne Pistons,Fort Wayne Pistons,Syracuse Nationals,32,31,63,-405457200.0,1957
+Fort Wayne Pistons,Rochester Royals,Fort Wayne Pistons,32,32,64,-405284400.0,1957
+Fort Wayne Pistons,Syracuse Nationals,Fort Wayne Pistons,32,33,65,-405198000.0,1957
+Fort Wayne Pistons,Fort Wayne Pistons,St. Louis Hawks,32,34,66,-404938800.0,1957
+Fort Wayne Pistons,Fort Wayne Pistons,Philadelphia Warriors,32,35,67,-404766000.0,1957
+Fort Wayne Pistons,Philadelphia Warriors,Fort Wayne Pistons,32,36,68,-404593200.0,1957
+Fort Wayne Pistons,Fort Wayne Pistons,Minneapolis Lakers,32,37,69,-404506800.0,1957
+Fort Wayne Pistons,St. Louis Hawks,Fort Wayne Pistons,32,38,70,-404420400.0,1957
+Fort Wayne Pistons,Fort Wayne Pistons,Rochester Royals,33,38,71,-404334000.0,1957
+Fort Wayne Pistons,Fort Wayne Pistons,Syracuse Nationals,34,38,72,-404074800.0,1957
+Minneapolis Lakers,St. Louis Hawks,Minneapolis Lakers,0,1,1,-415915200.0,1957
+Minneapolis Lakers,Fort Wayne Pistons,Minneapolis Lakers,0,2,2,-415828800.0,1957
+Minneapolis Lakers,Minneapolis Lakers,Rochester Royals,1,2,3,-415479600.0,1957
+Minneapolis Lakers,Rochester Royals,Minneapolis Lakers,2,2,4,-415306800.0,1957
+Minneapolis Lakers,Minneapolis Lakers,Rochester Royals,3,2,5,-415220400.0,1957
+Minneapolis Lakers,Boston Celtics,Minneapolis Lakers,3,3,6,-414702000.0,1957
+Minneapolis Lakers,Minneapolis Lakers,Rochester Royals,3,4,7,-414615600.0,1957
+Minneapolis Lakers,Boston Celtics,Minneapolis Lakers,4,4,8,-414356400.0,1957
+Minneapolis Lakers,Syracuse Nationals,Minneapolis Lakers,5,4,9,-414270000.0,1957
+Minneapolis Lakers,Philadelphia Warriors,Minneapolis Lakers,5,5,10,-414183600.0,1957
+Minneapolis Lakers,Minneapolis Lakers,Fort Wayne Pistons,5,6,11,-414010800.0,1957
+Minneapolis Lakers,Minneapolis Lakers,Syracuse Nationals,6,6,12,-413665200.0,1957
+Minneapolis Lakers,St. Louis Hawks,Minneapolis Lakers,7,6,13,-413492400.0,1957
+Minneapolis Lakers,Minneapolis Lakers,St. Louis Hawks,7,7,14,-413406000.0,1957
+Minneapolis Lakers,Minneapolis Lakers,Philadelphia Warriors,8,7,15,-413233200.0,1957
+Minneapolis Lakers,Boston Celtics,Minneapolis Lakers,8,8,16,-413146800.0,1957
+Minneapolis Lakers,Rochester Royals,Minneapolis Lakers,8,9,17,-412887600.0,1957
+Minneapolis Lakers,Minneapolis Lakers,Philadelphia Warriors,9,9,18,-412801200.0,1957
+Minneapolis Lakers,New York Knicks,Minneapolis Lakers,9,10,19,-412628400.0,1957
+Minneapolis Lakers,Minneapolis Lakers,St. Louis Hawks,10,10,20,-412455600.0,1957
+Minneapolis Lakers,Boston Celtics,Minneapolis Lakers,10,11,21,-412369200.0,1957
+Minneapolis Lakers,Minneapolis Lakers,New York Knicks,10,12,22,-412196400.0,1957
+Minneapolis Lakers,Philadelphia Warriors,Minneapolis Lakers,10,13,23,-412023600.0,1957
+Minneapolis Lakers,Minneapolis Lakers,New York Knicks,11,13,24,-411937200.0,1957
+Minneapolis Lakers,Minneapolis Lakers,Rochester Royals,12,13,25,-411591600.0,1957
+Minneapolis Lakers,Minneapolis Lakers,Rochester Royals,13,13,26,-411246000.0,1957
+Minneapolis Lakers,Rochester Royals,Minneapolis Lakers,13,14,27,-411073200.0,1957
+Minneapolis Lakers,Syracuse Nationals,Minneapolis Lakers,13,15,28,-410986800.0,1957
+Minneapolis Lakers,Fort Wayne Pistons,Minneapolis Lakers,14,15,29,-410814000.0,1957
+Minneapolis Lakers,Fort Wayne Pistons,Minneapolis Lakers,14,16,30,-410641200.0,1957
+Minneapolis Lakers,Minneapolis Lakers,St. Louis Hawks,14,17,31,-410468400.0,1957
+Minneapolis Lakers,St. Louis Hawks,Minneapolis Lakers,14,18,32,-410382000.0,1957
+Minneapolis Lakers,Fort Wayne Pistons,Minneapolis Lakers,14,19,33,-410036400.0,1957
+Minneapolis Lakers,Minneapolis Lakers,New York Knicks,14,20,34,-409777200.0,1957
+Minneapolis Lakers,Fort Wayne Pistons,Minneapolis Lakers,14,21,35,-409604400.0,1957
+Minneapolis Lakers,Minneapolis Lakers,Syracuse Nationals,15,21,36,-409518000.0,1957
+Minneapolis Lakers,Syracuse Nationals,Minneapolis Lakers,16,21,37,-409431600.0,1957
+Minneapolis Lakers,Fort Wayne Pistons,Minneapolis Lakers,17,21,38,-409258800.0,1957
+Minneapolis Lakers,Minneapolis Lakers,Boston Celtics,18,21,39,-409172400.0,1957
+Minneapolis Lakers,Minneapolis Lakers,New York Knicks,18,22,40,-408826800.0,1957
+Minneapolis Lakers,Minneapolis Lakers,Rochester Royals,19,22,41,-408567600.0,1957
+Minneapolis Lakers,Minneapolis Lakers,Rochester Royals,20,22,42,-408308400.0,1957
+Minneapolis Lakers,Boston Celtics,Minneapolis Lakers,20,23,43,-408135600.0,1957
+Minneapolis Lakers,New York Knicks,Minneapolis Lakers,20,24,44,-408049200.0,1957
+Minneapolis Lakers,Syracuse Nationals,Minneapolis Lakers,20,25,45,-407962800.0,1957
+Minneapolis Lakers,Minneapolis Lakers,Syracuse Nationals,20,26,46,-407876400.0,1957
+Minneapolis Lakers,Boston Celtics,Minneapolis Lakers,20,27,47,-407790000.0,1957
+Minneapolis Lakers,Minneapolis Lakers,Fort Wayne Pistons,20,28,48,-407617200.0,1957
+Minneapolis Lakers,Minneapolis Lakers,St. Louis Hawks,20,29,49,-407444400.0,1957
+Minneapolis Lakers,St. Louis Hawks,Minneapolis Lakers,20,30,50,-407358000.0,1957
+Minneapolis Lakers,Minneapolis Lakers,Philadelphia Warriors,21,30,51,-407098800.0,1957
+Minneapolis Lakers,Minneapolis Lakers,Fort Wayne Pistons,22,30,52,-406839600.0,1957
+Minneapolis Lakers,Fort Wayne Pistons,Minneapolis Lakers,22,31,53,-406753200.0,1957
+Minneapolis Lakers,Minneapolis Lakers,St. Louis Hawks,23,31,54,-406580400.0,1957
+Minneapolis Lakers,Minneapolis Lakers,Boston Celtics,24,31,55,-406494000.0,1957
+Minneapolis Lakers,Minneapolis Lakers,New York Knicks,25,31,56,-406407600.0,1957
+Minneapolis Lakers,Philadelphia Warriors,Minneapolis Lakers,25,32,57,-406321200.0,1957
+Minneapolis Lakers,New York Knicks,Minneapolis Lakers,25,33,58,-406234800.0,1957
+Minneapolis Lakers,Minneapolis Lakers,St. Louis Hawks,25,34,59,-406148400.0,1957
+Minneapolis Lakers,Minneapolis Lakers,Rochester Royals,26,34,60,-405889200.0,1957
+Minneapolis Lakers,Minneapolis Lakers,Syracuse Nationals,26,35,61,-405630000.0,1957
+Minneapolis Lakers,Minneapolis Lakers,Fort Wayne Pistons,27,35,62,-405543600.0,1957
+Minneapolis Lakers,Minneapolis Lakers,St. Louis Hawks,27,36,63,-405457200.0,1957
+Minneapolis Lakers,Syracuse Nationals,Minneapolis Lakers,27,37,64,-405370800.0,1957
+Minneapolis Lakers,Philadelphia Warriors,Minneapolis Lakers,27,38,65,-405198000.0,1957
+Minneapolis Lakers,Minneapolis Lakers,Rochester Royals,28,38,66,-405111600.0,1957
+Minneapolis Lakers,Minneapolis Lakers,New York Knicks,29,38,67,-404938800.0,1957
+Minneapolis Lakers,Minneapolis Lakers,Boston Celtics,30,38,68,-404593200.0,1957
+Minneapolis Lakers,Fort Wayne Pistons,Minneapolis Lakers,31,38,69,-404506800.0,1957
+Minneapolis Lakers,Minneapolis Lakers,St. Louis Hawks,32,38,70,-404334000.0,1957
+Minneapolis Lakers,Minneapolis Lakers,Philadelphia Warriors,33,38,71,-404161200.0,1957
+Minneapolis Lakers,Minneapolis Lakers,Philadelphia Warriors,34,38,72,-404074800.0,1957
+New York Knicks,New York Knicks,Boston Celtics,0,1,1,-415915200.0,1957
+New York Knicks,Boston Celtics,New York Knicks,1,1,2,-415306800.0,1957
+New York Knicks,Fort Wayne Pistons,New York Knicks,2,1,3,-415220400.0,1957
+New York Knicks,St. Louis Hawks,New York Knicks,2,2,4,-414961200.0,1957
+New York Knicks,Philadelphia Warriors,New York Knicks,2,3,5,-414702000.0,1957
+New York Knicks,New York Knicks,Philadelphia Warriors,3,3,6,-414615600.0,1957
+New York Knicks,Rochester Royals,New York Knicks,3,4,7,-414356400.0,1957
+New York Knicks,New York Knicks,St. Louis Hawks,4,4,8,-414010800.0,1957
+New York Knicks,Fort Wayne Pistons,New York Knicks,4,5,9,-413751600.0,1957
+New York Knicks,New York Knicks,Rochester Royals,4,6,10,-413492400.0,1957
+New York Knicks,Rochester Royals,New York Knicks,4,7,11,-413406000.0,1957
+New York Knicks,New York Knicks,Fort Wayne Pistons,5,7,12,-413233200.0,1957
+New York Knicks,Philadelphia Warriors,New York Knicks,5,8,13,-412974000.0,1957
+New York Knicks,New York Knicks,Syracuse Nationals,6,8,14,-412887600.0,1957
+New York Knicks,Syracuse Nationals,New York Knicks,6,9,15,-412801200.0,1957
+New York Knicks,New York Knicks,Minneapolis Lakers,7,9,16,-412628400.0,1957
+New York Knicks,New York Knicks,Rochester Royals,8,9,17,-412455600.0,1957
+New York Knicks,St. Louis Hawks,New York Knicks,9,9,18,-412369200.0,1957
+New York Knicks,New York Knicks,St. Louis Hawks,10,9,19,-412282800.0,1957
+New York Knicks,Minneapolis Lakers,New York Knicks,11,9,20,-412196400.0,1957
+New York Knicks,New York Knicks,St. Louis Hawks,11,10,21,-412023600.0,1957
+New York Knicks,Minneapolis Lakers,New York Knicks,11,11,22,-411937200.0,1957
+New York Knicks,Rochester Royals,New York Knicks,12,11,23,-411678000.0,1957
+New York Knicks,Fort Wayne Pistons,New York Knicks,12,12,24,-411591600.0,1957
+New York Knicks,New York Knicks,Boston Celtics,13,12,25,-411418800.0,1957
+New York Knicks,New York Knicks,Philadelphia Warriors,13,13,26,-410986800.0,1957
+New York Knicks,New York Knicks,St. Louis Hawks,13,14,27,-410814000.0,1957
+New York Knicks,Philadelphia Warriors,New York Knicks,13,15,28,-410641200.0,1957
+New York Knicks,New York Knicks,Rochester Royals,14,15,29,-410382000.0,1957
+New York Knicks,Syracuse Nationals,New York Knicks,14,16,30,-410209200.0,1957
+New York Knicks,New York Knicks,Syracuse Nationals,15,16,31,-410036400.0,1957
+New York Knicks,Fort Wayne Pistons,New York Knicks,15,17,32,-409863600.0,1957
+New York Knicks,Minneapolis Lakers,New York Knicks,16,17,33,-409777200.0,1957
+New York Knicks,New York Knicks,Boston Celtics,17,17,34,-409604400.0,1957
+New York Knicks,New York Knicks,St. Louis Hawks,18,17,35,-409431600.0,1957
+New York Knicks,Philadelphia Warriors,New York Knicks,18,18,36,-409258800.0,1957
+New York Knicks,New York Knicks,Philadelphia Warriors,19,18,37,-409172400.0,1957
+New York Knicks,Minneapolis Lakers,New York Knicks,20,18,38,-408826800.0,1957
+New York Knicks,New York Knicks,Fort Wayne Pistons,21,18,39,-408654000.0,1957
+New York Knicks,Boston Celtics,New York Knicks,21,19,40,-408567600.0,1957
+New York Knicks,New York Knicks,Syracuse Nationals,22,19,41,-408394800.0,1957
+New York Knicks,New York Knicks,Philadelphia Warriors,22,20,42,-408308400.0,1957
+New York Knicks,Syracuse Nationals,New York Knicks,22,21,43,-408222000.0,1957
+New York Knicks,New York Knicks,Minneapolis Lakers,23,21,44,-408049200.0,1957
+New York Knicks,Fort Wayne Pistons,New York Knicks,23,22,45,-407962800.0,1957
+New York Knicks,New York Knicks,Philadelphia Warriors,24,22,46,-407790000.0,1957
+New York Knicks,New York Knicks,Rochester Royals,25,22,47,-407703600.0,1957
+New York Knicks,New York Knicks,Philadelphia Warriors,25,23,48,-407617200.0,1957
+New York Knicks,New York Knicks,Boston Celtics,25,24,49,-407444400.0,1957
+New York Knicks,Boston Celtics,New York Knicks,25,25,50,-407358000.0,1957
+New York Knicks,New York Knicks,Rochester Royals,25,26,51,-407185200.0,1957
+New York Knicks,New York Knicks,Syracuse Nationals,26,26,52,-407098800.0,1957
+New York Knicks,Boston Celtics,New York Knicks,27,26,53,-406926000.0,1957
+New York Knicks,New York Knicks,Syracuse Nationals,27,27,54,-406839600.0,1957
+New York Knicks,Syracuse Nationals,New York Knicks,27,28,55,-406753200.0,1957
+New York Knicks,Rochester Royals,New York Knicks,28,28,56,-406494000.0,1957
+New York Knicks,Minneapolis Lakers,New York Knicks,28,29,57,-406407600.0,1957
+New York Knicks,New York Knicks,Minneapolis Lakers,29,29,58,-406234800.0,1957
+New York Knicks,Philadelphia Warriors,New York Knicks,29,30,59,-406148400.0,1957
+New York Knicks,New York Knicks,Boston Celtics,29,31,60,-405975600.0,1957
+New York Knicks,Fort Wayne Pistons,New York Knicks,29,32,61,-405802800.0,1957
+New York Knicks,New York Knicks,Fort Wayne Pistons,30,32,62,-405630000.0,1957
+New York Knicks,Boston Celtics,New York Knicks,30,33,63,-405543600.0,1957
+New York Knicks,New York Knicks,St. Louis Hawks,31,33,64,-405370800.0,1957
+New York Knicks,Boston Celtics,New York Knicks,32,33,65,-405198000.0,1957
+New York Knicks,St. Louis Hawks,New York Knicks,33,33,66,-405025200.0,1957
+New York Knicks,Minneapolis Lakers,New York Knicks,33,34,67,-404938800.0,1957
+New York Knicks,New York Knicks,Syracuse Nationals,33,35,68,-404766000.0,1957
+New York Knicks,Syracuse Nationals,New York Knicks,34,35,69,-404679600.0,1957
+New York Knicks,New York Knicks,Syracuse Nationals,35,35,70,-404593200.0,1957
+New York Knicks,New York Knicks,Philadelphia Warriors,36,35,71,-404334000.0,1957
+New York Knicks,Boston Celtics,New York Knicks,36,36,72,-404074800.0,1957
+Philadelphia Warriors,Philadelphia Warriors,Syracuse Nationals,0,1,1,-415915200.0,1957
+Philadelphia Warriors,Philadelphia Warriors,Fort Wayne Pistons,1,1,2,-415306800.0,1957
+Philadelphia Warriors,Rochester Royals,Philadelphia Warriors,1,2,3,-414961200.0,1957
+Philadelphia Warriors,Philadelphia Warriors,Rochester Royals,1,3,4,-414788400.0,1957
+Philadelphia Warriors,Philadelphia Warriors,New York Knicks,2,3,5,-414702000.0,1957
+Philadelphia Warriors,New York Knicks,Philadelphia Warriors,2,4,6,-414615600.0,1957
+Philadelphia Warriors,Philadelphia Warriors,Rochester Royals,3,4,7,-414270000.0,1957
+Philadelphia Warriors,Philadelphia Warriors,Minneapolis Lakers,4,4,8,-414183600.0,1957
+Philadelphia Warriors,Philadelphia Warriors,Syracuse Nationals,5,4,9,-414097200.0,1957
+Philadelphia Warriors,Syracuse Nationals,Philadelphia Warriors,5,5,10,-414010800.0,1957
+Philadelphia Warriors,Boston Celtics,Philadelphia Warriors,5,6,11,-413751600.0,1957
+Philadelphia Warriors,Philadelphia Warriors,Boston Celtics,5,7,12,-413665200.0,1957
+Philadelphia Warriors,Philadelphia Warriors,Fort Wayne Pistons,6,7,13,-413492400.0,1957
+Philadelphia Warriors,Fort Wayne Pistons,Philadelphia Warriors,6,8,14,-413406000.0,1957
+Philadelphia Warriors,Minneapolis Lakers,Philadelphia Warriors,6,9,15,-413233200.0,1957
+Philadelphia Warriors,Philadelphia Warriors,New York Knicks,7,9,16,-412974000.0,1957
+Philadelphia Warriors,St. Louis Hawks,Philadelphia Warriors,8,9,17,-412887600.0,1957
+Philadelphia Warriors,Minneapolis Lakers,Philadelphia Warriors,8,10,18,-412801200.0,1957
+Philadelphia Warriors,Philadelphia Warriors,Boston Celtics,9,10,19,-412455600.0,1957
+Philadelphia Warriors,Rochester Royals,Philadelphia Warriors,9,11,20,-412282800.0,1957
+Philadelphia Warriors,Philadelphia Warriors,Minneapolis Lakers,10,11,21,-412023600.0,1957
+Philadelphia Warriors,Philadelphia Warriors,St. Louis Hawks,11,11,22,-411937200.0,1957
+Philadelphia Warriors,Syracuse Nationals,Philadelphia Warriors,12,11,23,-411678000.0,1957
+Philadelphia Warriors,Boston Celtics,Philadelphia Warriors,13,11,24,-411591600.0,1957
+Philadelphia Warriors,New York Knicks,Philadelphia Warriors,14,11,25,-410986800.0,1957
+Philadelphia Warriors,Boston Celtics,Philadelphia Warriors,15,11,26,-410814000.0,1957
+Philadelphia Warriors,Boston Celtics,Philadelphia Warriors,15,12,27,-410727600.0,1957
+Philadelphia Warriors,Philadelphia Warriors,New York Knicks,16,12,28,-410641200.0,1957
+Philadelphia Warriors,Philadelphia Warriors,Syracuse Nationals,16,13,29,-410468400.0,1957
+Philadelphia Warriors,Fort Wayne Pistons,Philadelphia Warriors,16,14,30,-410382000.0,1957
+Philadelphia Warriors,Boston Celtics,Philadelphia Warriors,16,15,31,-410209200.0,1957
+Philadelphia Warriors,Philadelphia Warriors,St. Louis Hawks,17,15,32,-410036400.0,1957
+Philadelphia Warriors,Philadelphia Warriors,St. Louis Hawks,18,15,33,-409950000.0,1957
+Philadelphia Warriors,Rochester Royals,Philadelphia Warriors,19,15,34,-409863600.0,1957
+Philadelphia Warriors,Syracuse Nationals,Philadelphia Warriors,19,16,35,-409777200.0,1957
+Philadelphia Warriors,Philadelphia Warriors,Rochester Royals,19,17,36,-409604400.0,1957
+Philadelphia Warriors,Philadelphia Warriors,Rochester Royals,20,17,37,-409431600.0,1957
+Philadelphia Warriors,Philadelphia Warriors,New York Knicks,21,17,38,-409258800.0,1957
+Philadelphia Warriors,New York Knicks,Philadelphia Warriors,21,18,39,-409172400.0,1957
+Philadelphia Warriors,Philadelphia Warriors,Syracuse Nationals,21,19,40,-408826800.0,1957
+Philadelphia Warriors,Philadelphia Warriors,Syracuse Nationals,22,19,41,-408740400.0,1957
+Philadelphia Warriors,St. Louis Hawks,Philadelphia Warriors,22,20,42,-408567600.0,1957
+Philadelphia Warriors,New York Knicks,Philadelphia Warriors,23,20,43,-408308400.0,1957
+Philadelphia Warriors,Philadelphia Warriors,St. Louis Hawks,24,20,44,-408222000.0,1957
+Philadelphia Warriors,Fort Wayne Pistons,Philadelphia Warriors,24,21,45,-408049200.0,1957
+Philadelphia Warriors,Philadelphia Warriors,Boston Celtics,24,22,46,-407962800.0,1957
+Philadelphia Warriors,Boston Celtics,Philadelphia Warriors,24,23,47,-407876400.0,1957
+Philadelphia Warriors,New York Knicks,Philadelphia Warriors,24,24,48,-407790000.0,1957
+Philadelphia Warriors,New York Knicks,Philadelphia Warriors,25,24,49,-407617200.0,1957
+Philadelphia Warriors,Philadelphia Warriors,Syracuse Nationals,26,24,50,-407444400.0,1957
+Philadelphia Warriors,Philadelphia Warriors,Rochester Royals,27,24,51,-407358000.0,1957
+Philadelphia Warriors,Fort Wayne Pistons,Philadelphia Warriors,27,25,52,-407271600.0,1957
+Philadelphia Warriors,St. Louis Hawks,Philadelphia Warriors,28,25,53,-407185200.0,1957
+Philadelphia Warriors,Minneapolis Lakers,Philadelphia Warriors,28,26,54,-407098800.0,1957
+Philadelphia Warriors,Philadelphia Warriors,St. Louis Hawks,29,26,55,-406926000.0,1957
+Philadelphia Warriors,Boston Celtics,Philadelphia Warriors,29,27,56,-406753200.0,1957
+Philadelphia Warriors,Philadelphia Warriors,Fort Wayne Pistons,30,27,57,-406494000.0,1957
+Philadelphia Warriors,Philadelphia Warriors,Minneapolis Lakers,31,27,58,-406321200.0,1957
+Philadelphia Warriors,Philadelphia Warriors,New York Knicks,32,27,59,-406148400.0,1957
+Philadelphia Warriors,Syracuse Nationals,Philadelphia Warriors,32,28,60,-405802800.0,1957
+Philadelphia Warriors,Philadelphia Warriors,Boston Celtics,33,28,61,-405716400.0,1957
+Philadelphia Warriors,St. Louis Hawks,Philadelphia Warriors,33,29,62,-405543600.0,1957
+Philadelphia Warriors,Philadelphia Warriors,Minneapolis Lakers,34,29,63,-405198000.0,1957
+Philadelphia Warriors,Boston Celtics,Philadelphia Warriors,34,30,64,-405111600.0,1957
+Philadelphia Warriors,Philadelphia Warriors,Syracuse Nationals,35,30,65,-405025200.0,1957
+Philadelphia Warriors,Syracuse Nationals,Philadelphia Warriors,35,31,66,-404938800.0,1957
+Philadelphia Warriors,Fort Wayne Pistons,Philadelphia Warriors,36,31,67,-404766000.0,1957
+Philadelphia Warriors,Rochester Royals,Philadelphia Warriors,36,32,68,-404679600.0,1957
+Philadelphia Warriors,Philadelphia Warriors,Fort Wayne Pistons,37,32,69,-404593200.0,1957
+Philadelphia Warriors,New York Knicks,Philadelphia Warriors,37,33,70,-404334000.0,1957
+Philadelphia Warriors,Minneapolis Lakers,Philadelphia Warriors,37,34,71,-404161200.0,1957
+Philadelphia Warriors,Minneapolis Lakers,Philadelphia Warriors,37,35,72,-404074800.0,1957
+Rochester Royals,Rochester Royals,Fort Wayne Pistons,1,0,1,-415915200.0,1957
+Rochester Royals,Syracuse Nationals,Rochester Royals,1,1,2,-415828800.0,1957
+Rochester Royals,Minneapolis Lakers,Rochester Royals,1,2,3,-415479600.0,1957
+Rochester Royals,Rochester Royals,Minneapolis Lakers,1,3,4,-415306800.0,1957
+Rochester Royals,Minneapolis Lakers,Rochester Royals,1,4,5,-415220400.0,1957
+Rochester Royals,Rochester Royals,Philadelphia Warriors,2,4,6,-414961200.0,1957
+Rochester Royals,Philadelphia Warriors,Rochester Royals,3,4,7,-414788400.0,1957
+Rochester Royals,Rochester Royals,Syracuse Nationals,4,4,8,-414702000.0,1957
+Rochester Royals,Minneapolis Lakers,Rochester Royals,5,4,9,-414615600.0,1957
+Rochester Royals,St. Louis Hawks,Rochester Royals,5,5,10,-414442800.0,1957
+Rochester Royals,Rochester Royals,New York Knicks,6,5,11,-414356400.0,1957
+Rochester Royals,Philadelphia Warriors,Rochester Royals,6,6,12,-414270000.0,1957
+Rochester Royals,Boston Celtics,Rochester Royals,6,7,13,-414097200.0,1957
+Rochester Royals,Rochester Royals,Boston Celtics,6,8,14,-414010800.0,1957
+Rochester Royals,Rochester Royals,St. Louis Hawks,7,8,15,-413751600.0,1957
+Rochester Royals,Fort Wayne Pistons,Rochester Royals,7,9,16,-413665200.0,1957
+Rochester Royals,New York Knicks,Rochester Royals,8,9,17,-413492400.0,1957
+Rochester Royals,Rochester Royals,New York Knicks,9,9,18,-413406000.0,1957
+Rochester Royals,Rochester Royals,Syracuse Nationals,10,9,19,-413233200.0,1957
+Rochester Royals,Rochester Royals,Minneapolis Lakers,11,9,20,-412887600.0,1957
+Rochester Royals,New York Knicks,Rochester Royals,11,10,21,-412455600.0,1957
+Rochester Royals,Rochester Royals,Philadelphia Warriors,12,10,22,-412282800.0,1957
+Rochester Royals,Fort Wayne Pistons,Rochester Royals,13,10,23,-412196400.0,1957
+Rochester Royals,Boston Celtics,Rochester Royals,14,10,24,-411937200.0,1957
+Rochester Royals,Rochester Royals,New York Knicks,14,11,25,-411678000.0,1957
+Rochester Royals,Minneapolis Lakers,Rochester Royals,14,12,26,-411591600.0,1957
+Rochester Royals,Minneapolis Lakers,Rochester Royals,14,13,27,-411246000.0,1957
+Rochester Royals,Rochester Royals,Minneapolis Lakers,15,13,28,-411073200.0,1957
+Rochester Royals,Rochester Royals,Syracuse Nationals,16,13,29,-410814000.0,1957
+Rochester Royals,Fort Wayne Pistons,Rochester Royals,16,14,30,-410727600.0,1957
+Rochester Royals,Boston Celtics,Rochester Royals,16,15,31,-410641200.0,1957
+Rochester Royals,Rochester Royals,Fort Wayne Pistons,17,15,32,-410468400.0,1957
+Rochester Royals,New York Knicks,Rochester Royals,17,16,33,-410382000.0,1957
+Rochester Royals,Rochester Royals,St. Louis Hawks,18,16,34,-410209200.0,1957
+Rochester Royals,Rochester Royals,Philadelphia Warriors,18,17,35,-409863600.0,1957
+Rochester Royals,St. Louis Hawks,Rochester Royals,19,17,36,-409777200.0,1957
+Rochester Royals,Philadelphia Warriors,Rochester Royals,20,17,37,-409604400.0,1957
+Rochester Royals,Philadelphia Warriors,Rochester Royals,20,18,38,-409431600.0,1957
+Rochester Royals,Rochester Royals,Syracuse Nationals,20,19,39,-409258800.0,1957
+Rochester Royals,Syracuse Nationals,Rochester Royals,20,20,40,-409172400.0,1957
+Rochester Royals,Rochester Royals,St. Louis Hawks,20,21,41,-408913200.0,1957
+Rochester Royals,Rochester Royals,Boston Celtics,20,22,42,-408654000.0,1957
+Rochester Royals,Minneapolis Lakers,Rochester Royals,20,23,43,-408567600.0,1957
+Rochester Royals,Minneapolis Lakers,Rochester Royals,20,24,44,-408308400.0,1957
+Rochester Royals,Rochester Royals,St. Louis Hawks,20,25,45,-408135600.0,1957
+Rochester Royals,Rochester Royals,Syracuse Nationals,20,26,46,-408049200.0,1957
+Rochester Royals,St. Louis Hawks,Rochester Royals,20,27,47,-407962800.0,1957
+Rochester Royals,New York Knicks,Rochester Royals,20,28,48,-407703600.0,1957
+Rochester Royals,Fort Wayne Pistons,Rochester Royals,21,28,49,-407530800.0,1957
+Rochester Royals,Rochester Royals,Fort Wayne Pistons,22,28,50,-407444400.0,1957
+Rochester Royals,Philadelphia Warriors,Rochester Royals,22,29,51,-407358000.0,1957
+Rochester Royals,New York Knicks,Rochester Royals,23,29,52,-407185200.0,1957
+Rochester Royals,Rochester Royals,St. Louis Hawks,24,29,53,-407098800.0,1957
+Rochester Royals,Rochester Royals,Boston Celtics,25,29,54,-406839600.0,1957
+Rochester Royals,St. Louis Hawks,Rochester Royals,25,30,55,-406753200.0,1957
+Rochester Royals,Rochester Royals,New York Knicks,25,31,56,-406494000.0,1957
+Rochester Royals,Syracuse Nationals,Rochester Royals,26,31,57,-406407600.0,1957
+Rochester Royals,Rochester Royals,Fort Wayne Pistons,26,32,58,-406234800.0,1957
+Rochester Royals,Fort Wayne Pistons,Rochester Royals,26,33,59,-406148400.0,1957
+Rochester Royals,Minneapolis Lakers,Rochester Royals,26,34,60,-405889200.0,1957
+Rochester Royals,Fort Wayne Pistons,Rochester Royals,26,35,61,-405716400.0,1957
+Rochester Royals,Rochester Royals,St. Louis Hawks,27,35,62,-405630000.0,1957
+Rochester Royals,Syracuse Nationals,Rochester Royals,27,36,63,-405543600.0,1957
+Rochester Royals,Boston Celtics,Rochester Royals,27,37,64,-405370800.0,1957
+Rochester Royals,Rochester Royals,Fort Wayne Pistons,28,37,65,-405284400.0,1957
+Rochester Royals,Minneapolis Lakers,Rochester Royals,28,38,66,-405111600.0,1957
+Rochester Royals,Rochester Royals,Boston Celtics,29,38,67,-405025200.0,1957
+Rochester Royals,Boston Celtics,Rochester Royals,29,39,68,-404938800.0,1957
+Rochester Royals,Rochester Royals,Philadelphia Warriors,30,39,69,-404679600.0,1957
+Rochester Royals,Rochester Royals,St. Louis Hawks,30,40,70,-404506800.0,1957
+Rochester Royals,Fort Wayne Pistons,Rochester Royals,30,41,71,-404334000.0,1957
+Rochester Royals,Rochester Royals,St. Louis Hawks,31,41,72,-404074800.0,1957
+St. Louis Hawks,St. Louis Hawks,Minneapolis Lakers,1,0,1,-415915200.0,1957
+St. Louis Hawks,St. Louis Hawks,Syracuse Nationals,1,1,2,-415306800.0,1957
+St. Louis Hawks,Syracuse Nationals,St. Louis Hawks,2,1,3,-415220400.0,1957
+St. Louis Hawks,St. Louis Hawks,New York Knicks,3,1,4,-414961200.0,1957
+St. Louis Hawks,St. Louis Hawks,Fort Wayne Pistons,4,1,5,-414702000.0,1957
+St. Louis Hawks,Fort Wayne Pistons,St. Louis Hawks,4,2,6,-414615600.0,1957
+St. Louis Hawks,St. Louis Hawks,Rochester Royals,5,2,7,-414442800.0,1957
+St. Louis Hawks,St. Louis Hawks,Fort Wayne Pistons,6,2,8,-414097200.0,1957
+St. Louis Hawks,New York Knicks,St. Louis Hawks,6,3,9,-414010800.0,1957
+St. Louis Hawks,St. Louis Hawks,Syracuse Nationals,7,3,10,-413838000.0,1957
+St. Louis Hawks,Rochester Royals,St. Louis Hawks,7,4,11,-413751600.0,1957
+St. Louis Hawks,St. Louis Hawks,Minneapolis Lakers,7,5,12,-413492400.0,1957
+St. Louis Hawks,Minneapolis Lakers,St. Louis Hawks,8,5,13,-413406000.0,1957
+St. Louis Hawks,St. Louis Hawks,Boston Celtics,8,6,14,-413233200.0,1957
+St. Louis Hawks,St. Louis Hawks,Philadelphia Warriors,8,7,15,-412887600.0,1957
+St. Louis Hawks,Boston Celtics,St. Louis Hawks,8,8,16,-412628400.0,1957
+St. Louis Hawks,Minneapolis Lakers,St. Louis Hawks,8,9,17,-412455600.0,1957
+St. Louis Hawks,St. Louis Hawks,New York Knicks,8,10,18,-412369200.0,1957
+St. Louis Hawks,New York Knicks,St. Louis Hawks,8,11,19,-412282800.0,1957
+St. Louis Hawks,New York Knicks,St. Louis Hawks,9,11,20,-412023600.0,1957
+St. Louis Hawks,Philadelphia Warriors,St. Louis Hawks,9,12,21,-411937200.0,1957
+St. Louis Hawks,Boston Celtics,St. Louis Hawks,9,13,22,-411678000.0,1957
+St. Louis Hawks,Syracuse Nationals,St. Louis Hawks,9,14,23,-411591600.0,1957
+St. Louis Hawks,Fort Wayne Pistons,St. Louis Hawks,10,14,24,-411418800.0,1957
+St. Louis Hawks,Boston Celtics,St. Louis Hawks,10,15,25,-411073200.0,1957
+St. Louis Hawks,New York Knicks,St. Louis Hawks,11,15,26,-410814000.0,1957
+St. Louis Hawks,St. Louis Hawks,Syracuse Nationals,12,15,27,-410641200.0,1957
+St. Louis Hawks,Minneapolis Lakers,St. Louis Hawks,13,15,28,-410468400.0,1957
+St. Louis Hawks,St. Louis Hawks,Minneapolis Lakers,14,15,29,-410382000.0,1957
+St. Louis Hawks,Rochester Royals,St. Louis Hawks,14,16,30,-410209200.0,1957
+St. Louis Hawks,Philadelphia Warriors,St. Louis Hawks,14,17,31,-410036400.0,1957
+St. Louis Hawks,Philadelphia Warriors,St. Louis Hawks,14,18,32,-409950000.0,1957
+St. Louis Hawks,St. Louis Hawks,Rochester Royals,14,19,33,-409777200.0,1957
+St. Louis Hawks,New York Knicks,St. Louis Hawks,14,20,34,-409431600.0,1957
+St. Louis Hawks,St. Louis Hawks,Boston Celtics,15,20,35,-409258800.0,1957
+St. Louis Hawks,Fort Wayne Pistons,St. Louis Hawks,15,21,36,-409172400.0,1957
+St. Louis Hawks,Rochester Royals,St. Louis Hawks,16,21,37,-408913200.0,1957
+St. Louis Hawks,Fort Wayne Pistons,St. Louis Hawks,17,21,38,-408826800.0,1957
+St. Louis Hawks,Boston Celtics,St. Louis Hawks,17,22,39,-408740400.0,1957
+St. Louis Hawks,Syracuse Nationals,St. Louis Hawks,18,22,40,-408654000.0,1957
+St. Louis Hawks,St. Louis Hawks,Philadelphia Warriors,19,22,41,-408567600.0,1957
+St. Louis Hawks,Fort Wayne Pistons,St. Louis Hawks,19,23,42,-408394800.0,1957
+St. Louis Hawks,Fort Wayne Pistons,St. Louis Hawks,20,23,43,-408308400.0,1957
+St. Louis Hawks,Philadelphia Warriors,St. Louis Hawks,20,24,44,-408222000.0,1957
+St. Louis Hawks,Rochester Royals,St. Louis Hawks,21,24,45,-408135600.0,1957
+St. Louis Hawks,St. Louis Hawks,Rochester Royals,22,24,46,-407962800.0,1957
+St. Louis Hawks,St. Louis Hawks,Fort Wayne Pistons,22,25,47,-407790000.0,1957
+St. Louis Hawks,Minneapolis Lakers,St. Louis Hawks,23,25,48,-407444400.0,1957
+St. Louis Hawks,St. Louis Hawks,Minneapolis Lakers,24,25,49,-407358000.0,1957
+St. Louis Hawks,St. Louis Hawks,Philadelphia Warriors,24,26,50,-407185200.0,1957
+St. Louis Hawks,Rochester Royals,St. Louis Hawks,24,27,51,-407098800.0,1957
+St. Louis Hawks,Syracuse Nationals,St. Louis Hawks,24,28,52,-407012400.0,1957
+St. Louis Hawks,Philadelphia Warriors,St. Louis Hawks,24,29,53,-406926000.0,1957
+St. Louis Hawks,St. Louis Hawks,Rochester Royals,25,29,54,-406753200.0,1957
+St. Louis Hawks,St. Louis Hawks,Syracuse Nationals,26,29,55,-406666800.0,1957
+St. Louis Hawks,Minneapolis Lakers,St. Louis Hawks,26,30,56,-406580400.0,1957
+St. Louis Hawks,St. Louis Hawks,Boston Celtics,26,31,57,-406321200.0,1957
+St. Louis Hawks,Minneapolis Lakers,St. Louis Hawks,27,31,58,-406148400.0,1957
+St. Louis Hawks,St. Louis Hawks,Fort Wayne Pistons,28,31,59,-405975600.0,1957
+St. Louis Hawks,Boston Celtics,St. Louis Hawks,28,32,60,-405802800.0,1957
+St. Louis Hawks,Rochester Royals,St. Louis Hawks,28,33,61,-405630000.0,1957
+St. Louis Hawks,St. Louis Hawks,Philadelphia Warriors,29,33,62,-405543600.0,1957
+St. Louis Hawks,Minneapolis Lakers,St. Louis Hawks,30,33,63,-405457200.0,1957
+St. Louis Hawks,New York Knicks,St. Louis Hawks,30,34,64,-405370800.0,1957
+St. Louis Hawks,St. Louis Hawks,Syracuse Nationals,30,35,65,-405284400.0,1957
+St. Louis Hawks,St. Louis Hawks,New York Knicks,30,36,66,-405025200.0,1957
+St. Louis Hawks,Fort Wayne Pistons,St. Louis Hawks,31,36,67,-404938800.0,1957
+St. Louis Hawks,St. Louis Hawks,Boston Celtics,32,36,68,-404766000.0,1957
+St. Louis Hawks,Rochester Royals,St. Louis Hawks,33,36,69,-404506800.0,1957
+St. Louis Hawks,St. Louis Hawks,Fort Wayne Pistons,34,36,70,-404420400.0,1957
+St. Louis Hawks,Minneapolis Lakers,St. Louis Hawks,34,37,71,-404334000.0,1957
+St. Louis Hawks,Rochester Royals,St. Louis Hawks,34,38,72,-404074800.0,1957
+Syracuse Nationals,Philadelphia Warriors,Syracuse Nationals,1,0,1,-415915200.0,1957
+Syracuse Nationals,Syracuse Nationals,Rochester Royals,2,0,2,-415828800.0,1957
+Syracuse Nationals,St. Louis Hawks,Syracuse Nationals,3,0,3,-415306800.0,1957
+Syracuse Nationals,Syracuse Nationals,St. Louis Hawks,3,1,4,-415220400.0,1957
+Syracuse Nationals,Rochester Royals,Syracuse Nationals,3,2,5,-414702000.0,1957
+Syracuse Nationals,Syracuse Nationals,Boston Celtics,3,3,6,-414615600.0,1957
+Syracuse Nationals,Syracuse Nationals,Minneapolis Lakers,3,4,7,-414270000.0,1957
+Syracuse Nationals,Philadelphia Warriors,Syracuse Nationals,3,5,8,-414097200.0,1957
+Syracuse Nationals,Syracuse Nationals,Philadelphia Warriors,4,5,9,-414010800.0,1957
+Syracuse Nationals,St. Louis Hawks,Syracuse Nationals,4,6,10,-413838000.0,1957
+Syracuse Nationals,Minneapolis Lakers,Syracuse Nationals,4,7,11,-413665200.0,1957
+Syracuse Nationals,Boston Celtics,Syracuse Nationals,4,8,12,-413492400.0,1957
+Syracuse Nationals,Rochester Royals,Syracuse Nationals,4,9,13,-413233200.0,1957
+Syracuse Nationals,Syracuse Nationals,Fort Wayne Pistons,4,10,14,-413060400.0,1957
+Syracuse Nationals,New York Knicks,Syracuse Nationals,4,11,15,-412887600.0,1957
+Syracuse Nationals,Syracuse Nationals,New York Knicks,5,11,16,-412801200.0,1957
+Syracuse Nationals,Fort Wayne Pistons,Syracuse Nationals,6,11,17,-412628400.0,1957
+Syracuse Nationals,Fort Wayne Pistons,Syracuse Nationals,6,12,18,-412455600.0,1957
+Syracuse Nationals,Fort Wayne Pistons,Syracuse Nationals,6,13,19,-412369200.0,1957
+Syracuse Nationals,Syracuse Nationals,Boston Celtics,7,13,20,-412196400.0,1957
+Syracuse Nationals,Syracuse Nationals,Philadelphia Warriors,7,14,21,-411678000.0,1957
+Syracuse Nationals,Syracuse Nationals,St. Louis Hawks,8,14,22,-411591600.0,1957
+Syracuse Nationals,Syracuse Nationals,Minneapolis Lakers,9,14,23,-410986800.0,1957
+Syracuse Nationals,Rochester Royals,Syracuse Nationals,9,15,24,-410814000.0,1957
+Syracuse Nationals,St. Louis Hawks,Syracuse Nationals,9,16,25,-410641200.0,1957
+Syracuse Nationals,Philadelphia Warriors,Syracuse Nationals,10,16,26,-410468400.0,1957
+Syracuse Nationals,Boston Celtics,Syracuse Nationals,10,17,27,-410382000.0,1957
+Syracuse Nationals,Syracuse Nationals,New York Knicks,11,17,28,-410209200.0,1957
+Syracuse Nationals,New York Knicks,Syracuse Nationals,11,18,29,-410036400.0,1957
+Syracuse Nationals,Boston Celtics,Syracuse Nationals,12,18,30,-409950000.0,1957
+Syracuse Nationals,Syracuse Nationals,Philadelphia Warriors,13,18,31,-409777200.0,1957
+Syracuse Nationals,Minneapolis Lakers,Syracuse Nationals,13,19,32,-409518000.0,1957
+Syracuse Nationals,Syracuse Nationals,Minneapolis Lakers,13,20,33,-409431600.0,1957
+Syracuse Nationals,Rochester Royals,Syracuse Nationals,14,20,34,-409258800.0,1957
+Syracuse Nationals,Syracuse Nationals,Rochester Royals,15,20,35,-409172400.0,1957
+Syracuse Nationals,Philadelphia Warriors,Syracuse Nationals,16,20,36,-408826800.0,1957
+Syracuse Nationals,Philadelphia Warriors,Syracuse Nationals,16,21,37,-408740400.0,1957
+Syracuse Nationals,Syracuse Nationals,St. Louis Hawks,16,22,38,-408654000.0,1957
+Syracuse Nationals,Syracuse Nationals,Fort Wayne Pistons,17,22,39,-408567600.0,1957
+Syracuse Nationals,New York Knicks,Syracuse Nationals,17,23,40,-408394800.0,1957
+Syracuse Nationals,Boston Celtics,Syracuse Nationals,17,24,41,-408308400.0,1957
+Syracuse Nationals,Syracuse Nationals,New York Knicks,18,24,42,-408222000.0,1957
+Syracuse Nationals,Rochester Royals,Syracuse Nationals,19,24,43,-408049200.0,1957
+Syracuse Nationals,Syracuse Nationals,Minneapolis Lakers,20,24,44,-407962800.0,1957
+Syracuse Nationals,Minneapolis Lakers,Syracuse Nationals,21,24,45,-407876400.0,1957
+Syracuse Nationals,Boston Celtics,Syracuse Nationals,22,24,46,-407703600.0,1957
+Syracuse Nationals,Syracuse Nationals,Boston Celtics,23,24,47,-407617200.0,1957
+Syracuse Nationals,Philadelphia Warriors,Syracuse Nationals,23,25,48,-407444400.0,1957
+Syracuse Nationals,Syracuse Nationals,Fort Wayne Pistons,24,25,49,-407358000.0,1957
+Syracuse Nationals,Boston Celtics,Syracuse Nationals,24,26,50,-407185200.0,1957
+Syracuse Nationals,New York Knicks,Syracuse Nationals,24,27,51,-407098800.0,1957
+Syracuse Nationals,Syracuse Nationals,St. Louis Hawks,25,27,52,-407012400.0,1957
+Syracuse Nationals,New York Knicks,Syracuse Nationals,26,27,53,-406839600.0,1957
+Syracuse Nationals,Syracuse Nationals,New York Knicks,27,27,54,-406753200.0,1957
+Syracuse Nationals,St. Louis Hawks,Syracuse Nationals,27,28,55,-406666800.0,1957
+Syracuse Nationals,Syracuse Nationals,Rochester Royals,27,29,56,-406407600.0,1957
+Syracuse Nationals,Syracuse Nationals,Boston Celtics,28,29,57,-406148400.0,1957
+Syracuse Nationals,Syracuse Nationals,Philadelphia Warriors,29,29,58,-405802800.0,1957
+Syracuse Nationals,Minneapolis Lakers,Syracuse Nationals,30,29,59,-405630000.0,1957
+Syracuse Nationals,Syracuse Nationals,Rochester Royals,31,29,60,-405543600.0,1957
+Syracuse Nationals,Fort Wayne Pistons,Syracuse Nationals,31,30,61,-405457200.0,1957
+Syracuse Nationals,Syracuse Nationals,Minneapolis Lakers,32,30,62,-405370800.0,1957
+Syracuse Nationals,St. Louis Hawks,Syracuse Nationals,33,30,63,-405284400.0,1957
+Syracuse Nationals,Syracuse Nationals,Fort Wayne Pistons,34,30,64,-405198000.0,1957
+Syracuse Nationals,Philadelphia Warriors,Syracuse Nationals,34,31,65,-405025200.0,1957
+Syracuse Nationals,Syracuse Nationals,Philadelphia Warriors,35,31,66,-404938800.0,1957
+Syracuse Nationals,New York Knicks,Syracuse Nationals,36,31,67,-404766000.0,1957
+Syracuse Nationals,Syracuse Nationals,New York Knicks,36,32,68,-404679600.0,1957
+Syracuse Nationals,New York Knicks,Syracuse Nationals,36,33,69,-404593200.0,1957
+Syracuse Nationals,Syracuse Nationals,Boston Celtics,37,33,70,-404420400.0,1957
+Syracuse Nationals,Boston Celtics,Syracuse Nationals,38,33,71,-404334000.0,1957
+Syracuse Nationals,Fort Wayne Pistons,Syracuse Nationals,38,34,72,-404074800.0,1957

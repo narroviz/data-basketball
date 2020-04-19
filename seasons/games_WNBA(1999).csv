@@ -1,0 +1,385 @@
+id,home_team,away_team,win,loss,game_number,date,year
+Charlotte Sting,Washington Mystics,Charlotte Sting,1,0,1,928987200.0,1999
+Charlotte Sting,Charlotte Sting,New York Liberty,1,1,2,929160000.0,1999
+Charlotte Sting,Charlotte Sting,Los Angeles Sparks,1,2,3,929764800.0,1999
+Charlotte Sting,Detroit Shock,Charlotte Sting,1,3,4,930024000.0,1999
+Charlotte Sting,Charlotte Sting,Phoenix Mercury,2,3,5,930196800.0,1999
+Charlotte Sting,Cleveland Rockers,Charlotte Sting,3,3,6,930283200.0,1999
+Charlotte Sting,New York Liberty,Charlotte Sting,3,4,7,930456000.0,1999
+Charlotte Sting,Charlotte Sting,Washington Mystics,3,5,8,930715200.0,1999
+Charlotte Sting,Orlando Miracle,Charlotte Sting,4,5,9,930974400.0,1999
+Charlotte Sting,Charlotte Sting,Cleveland Rockers,5,5,10,931320000.0,1999
+Charlotte Sting,Charlotte Sting,Orlando Miracle,5,6,11,931492800.0,1999
+Charlotte Sting,Cleveland Rockers,Charlotte Sting,5,7,12,931579200.0,1999
+Charlotte Sting,Washington Mystics,Charlotte Sting,5,8,13,931752000.0,1999
+Charlotte Sting,Orlando Miracle,Charlotte Sting,6,8,14,932097600.0,1999
+Charlotte Sting,Charlotte Sting,Washington Mystics,7,8,15,932184000.0,1999
+Charlotte Sting,Charlotte Sting,Utah Starzz,8,8,16,932356800.0,1999
+Charlotte Sting,Charlotte Sting,Minnesota Lynx,8,9,17,932529600.0,1999
+Charlotte Sting,Charlotte Sting,Houston Comets,8,10,18,932702400.0,1999
+Charlotte Sting,Detroit Shock,Charlotte Sting,9,10,19,932875200.0,1999
+Charlotte Sting,New York Liberty,Charlotte Sting,10,10,20,932961600.0,1999
+Charlotte Sting,Charlotte Sting,Detroit Shock,11,10,21,933134400.0,1999
+Charlotte Sting,Charlotte Sting,New York Liberty,12,10,22,933307200.0,1999
+Charlotte Sting,Minnesota Lynx,Charlotte Sting,13,10,23,933393600.0,1999
+Charlotte Sting,Charlotte Sting,Cleveland Rockers,14,10,24,933566400.0,1999
+Charlotte Sting,Charlotte Sting,Sacramento Monarchs,14,11,25,933739200.0,1999
+Charlotte Sting,Houston Comets,Charlotte Sting,14,12,26,933912000.0,1999
+Charlotte Sting,Charlotte Sting,Orlando Miracle,15,12,27,933998400.0,1999
+Charlotte Sting,Utah Starzz,Charlotte Sting,15,13,28,934171200.0,1999
+Charlotte Sting,Sacramento Monarchs,Charlotte Sting,15,14,29,934516800.0,1999
+Charlotte Sting,Phoenix Mercury,Charlotte Sting,15,15,30,934689600.0,1999
+Charlotte Sting,Los Angeles Sparks,Charlotte Sting,15,16,31,934776000.0,1999
+Charlotte Sting,Charlotte Sting,Detroit Shock,15,17,32,935121600.0,1999
+Cleveland Rockers,New York Liberty,Cleveland Rockers,0,1,1,928987200.0,1999
+Cleveland Rockers,Cleveland Rockers,Los Angeles Sparks,0,2,2,929160000.0,1999
+Cleveland Rockers,Cleveland Rockers,Detroit Shock,0,3,3,929332800.0,1999
+Cleveland Rockers,Sacramento Monarchs,Cleveland Rockers,0,4,4,929592000.0,1999
+Cleveland Rockers,Phoenix Mercury,Cleveland Rockers,0,5,5,929764800.0,1999
+Cleveland Rockers,Cleveland Rockers,Orlando Miracle,0,6,6,930024000.0,1999
+Cleveland Rockers,Cleveland Rockers,Charlotte Sting,0,7,7,930283200.0,1999
+Cleveland Rockers,Cleveland Rockers,Washington Mystics,1,7,8,930369600.0,1999
+Cleveland Rockers,Cleveland Rockers,Phoenix Mercury,2,7,9,930542400.0,1999
+Cleveland Rockers,Houston Comets,Cleveland Rockers,2,8,10,930801600.0,1999
+Cleveland Rockers,Utah Starzz,Cleveland Rockers,2,9,11,930888000.0,1999
+Cleveland Rockers,Los Angeles Sparks,Cleveland Rockers,2,10,12,931147200.0,1999
+Cleveland Rockers,Charlotte Sting,Cleveland Rockers,2,11,13,931320000.0,1999
+Cleveland Rockers,Cleveland Rockers,New York Liberty,2,12,14,931406400.0,1999
+Cleveland Rockers,Cleveland Rockers,Charlotte Sting,3,12,15,931579200.0,1999
+Cleveland Rockers,Cleveland Rockers,Minnesota Lynx,4,12,16,931752000.0,1999
+Cleveland Rockers,Cleveland Rockers,Sacramento Monarchs,4,13,17,932097600.0,1999
+Cleveland Rockers,Detroit Shock,Cleveland Rockers,4,14,18,932184000.0,1999
+Cleveland Rockers,Washington Mystics,Cleveland Rockers,5,14,19,932529600.0,1999
+Cleveland Rockers,Cleveland Rockers,Detroit Shock,5,15,20,932702400.0,1999
+Cleveland Rockers,Cleveland Rockers,Utah Starzz,5,16,21,932788800.0,1999
+Cleveland Rockers,Cleveland Rockers,Houston Comets,5,17,22,933220800.0,1999
+Cleveland Rockers,Detroit Shock,Cleveland Rockers,6,17,23,933393600.0,1999
+Cleveland Rockers,Charlotte Sting,Cleveland Rockers,6,18,24,933566400.0,1999
+Cleveland Rockers,Orlando Miracle,Cleveland Rockers,6,19,25,933739200.0,1999
+Cleveland Rockers,Cleveland Rockers,Washington Mystics,6,20,26,933998400.0,1999
+Cleveland Rockers,Washington Mystics,Cleveland Rockers,6,21,27,934084800.0,1999
+Cleveland Rockers,Orlando Miracle,Cleveland Rockers,6,22,28,934430400.0,1999
+Cleveland Rockers,Cleveland Rockers,Orlando Miracle,6,23,29,934603200.0,1999
+Cleveland Rockers,Minnesota Lynx,Cleveland Rockers,6,24,30,934776000.0,1999
+Cleveland Rockers,New York Liberty,Cleveland Rockers,6,25,31,935035200.0,1999
+Cleveland Rockers,Cleveland Rockers,New York Liberty,7,25,32,935208000.0,1999
+Detroit Shock,Minnesota Lynx,Detroit Shock,0,1,1,929160000.0,1999
+Detroit Shock,Cleveland Rockers,Detroit Shock,1,1,2,929332800.0,1999
+Detroit Shock,Detroit Shock,Orlando Miracle,2,1,3,929592000.0,1999
+Detroit Shock,Washington Mystics,Detroit Shock,3,1,4,929678400.0,1999
+Detroit Shock,New York Liberty,Detroit Shock,3,2,5,929851200.0,1999
+Detroit Shock,Detroit Shock,Charlotte Sting,4,2,6,930024000.0,1999
+Detroit Shock,Detroit Shock,Houston Comets,4,3,7,930196800.0,1999
+Detroit Shock,Detroit Shock,Phoenix Mercury,4,4,8,930369600.0,1999
+Detroit Shock,Detroit Shock,New York Liberty,5,4,9,930542400.0,1999
+Detroit Shock,Detroit Shock,Los Angeles Sparks,5,5,10,930888000.0,1999
+Detroit Shock,Detroit Shock,Sacramento Monarchs,5,6,11,931060800.0,1999
+Detroit Shock,Utah Starzz,Detroit Shock,5,7,12,931233600.0,1999
+Detroit Shock,Detroit Shock,Washington Mystics,5,8,13,931579200.0,1999
+Detroit Shock,Orlando Miracle,Detroit Shock,6,8,14,931752000.0,1999
+Detroit Shock,Washington Mystics,Detroit Shock,7,8,15,932097600.0,1999
+Detroit Shock,Detroit Shock,Cleveland Rockers,8,8,16,932184000.0,1999
+Detroit Shock,Detroit Shock,Utah Starzz,9,8,17,932529600.0,1999
+Detroit Shock,Cleveland Rockers,Detroit Shock,10,8,18,932702400.0,1999
+Detroit Shock,Detroit Shock,Charlotte Sting,10,9,19,932875200.0,1999
+Detroit Shock,Houston Comets,Detroit Shock,10,10,20,933048000.0,1999
+Detroit Shock,Charlotte Sting,Detroit Shock,10,11,21,933134400.0,1999
+Detroit Shock,Detroit Shock,Cleveland Rockers,10,12,22,933393600.0,1999
+Detroit Shock,Detroit Shock,Washington Mystics,10,13,23,933566400.0,1999
+Detroit Shock,Detroit Shock,Minnesota Lynx,11,13,24,933739200.0,1999
+Detroit Shock,Sacramento Monarchs,Detroit Shock,11,14,25,933912000.0,1999
+Detroit Shock,Los Angeles Sparks,Detroit Shock,12,14,26,934171200.0,1999
+Detroit Shock,Phoenix Mercury,Detroit Shock,12,15,27,934344000.0,1999
+Detroit Shock,Detroit Shock,New York Liberty,12,16,28,934516800.0,1999
+Detroit Shock,New York Liberty,Detroit Shock,13,16,29,934689600.0,1999
+Detroit Shock,Orlando Miracle,Detroit Shock,13,17,30,934948800.0,1999
+Detroit Shock,Charlotte Sting,Detroit Shock,14,17,31,935121600.0,1999
+Detroit Shock,Detroit Shock,Orlando Miracle,15,17,32,935208000.0,1999
+Houston Comets,Orlando Miracle,Houston Comets,1,0,1,928987200.0,1999
+Houston Comets,Houston Comets,Washington Mystics,2,0,2,929160000.0,1999
+Houston Comets,Houston Comets,Utah Starzz,3,0,3,929592000.0,1999
+Houston Comets,Minnesota Lynx,Houston Comets,4,0,4,929764800.0,1999
+Houston Comets,Houston Comets,Los Angeles Sparks,5,0,5,930024000.0,1999
+Houston Comets,Detroit Shock,Houston Comets,6,0,6,930196800.0,1999
+Houston Comets,Washington Mystics,Houston Comets,7,0,7,930283200.0,1999
+Houston Comets,Houston Comets,Orlando Miracle,7,1,8,930542400.0,1999
+Houston Comets,Utah Starzz,Houston Comets,8,1,9,930715200.0,1999
+Houston Comets,Houston Comets,Cleveland Rockers,9,1,10,930801600.0,1999
+Houston Comets,Houston Comets,New York Liberty,10,1,11,930974400.0,1999
+Houston Comets,Houston Comets,Minnesota Lynx,11,1,12,931233600.0,1999
+Houston Comets,Sacramento Monarchs,Houston Comets,11,2,13,931406400.0,1999
+Houston Comets,Phoenix Mercury,Houston Comets,12,2,14,931492800.0,1999
+Houston Comets,Houston Comets,Sacramento Monarchs,13,2,15,931665600.0,1999
+Houston Comets,Utah Starzz,Houston Comets,14,2,16,932097600.0,1999
+Houston Comets,Los Angeles Sparks,Houston Comets,14,3,17,932270400.0,1999
+Houston Comets,Phoenix Mercury,Houston Comets,14,4,18,932356800.0,1999
+Houston Comets,Charlotte Sting,Houston Comets,15,4,19,932702400.0,1999
+Houston Comets,Minnesota Lynx,Houston Comets,16,4,20,932875200.0,1999
+Houston Comets,Houston Comets,Detroit Shock,17,4,21,933048000.0,1999
+Houston Comets,Cleveland Rockers,Houston Comets,18,4,22,933220800.0,1999
+Houston Comets,Houston Comets,Phoenix Mercury,19,4,23,933393600.0,1999
+Houston Comets,Houston Comets,Sacramento Monarchs,20,4,24,933566400.0,1999
+Houston Comets,Houston Comets,Charlotte Sting,21,4,25,933912000.0,1999
+Houston Comets,New York Liberty,Houston Comets,21,5,26,934084800.0,1999
+Houston Comets,Houston Comets,Los Angeles Sparks,22,5,27,934430400.0,1999
+Houston Comets,Houston Comets,Minnesota Lynx,23,5,28,934603200.0,1999
+Houston Comets,Houston Comets,Utah Starzz,24,5,29,934776000.0,1999
+Houston Comets,Houston Comets,Phoenix Mercury,25,5,30,934948800.0,1999
+Houston Comets,Los Angeles Sparks,Houston Comets,25,6,31,935121600.0,1999
+Houston Comets,Sacramento Monarchs,Houston Comets,26,6,32,935208000.0,1999
+Los Angeles Sparks,Los Angeles Sparks,Sacramento Monarchs,1,0,1,928987200.0,1999
+Los Angeles Sparks,Cleveland Rockers,Los Angeles Sparks,2,0,2,929160000.0,1999
+Los Angeles Sparks,Orlando Miracle,Los Angeles Sparks,2,1,3,929419200.0,1999
+Los Angeles Sparks,New York Liberty,Los Angeles Sparks,2,2,4,929678400.0,1999
+Los Angeles Sparks,Charlotte Sting,Los Angeles Sparks,3,2,5,929764800.0,1999
+Los Angeles Sparks,Houston Comets,Los Angeles Sparks,3,3,6,930024000.0,1999
+Los Angeles Sparks,Los Angeles Sparks,Minnesota Lynx,3,4,7,930196800.0,1999
+Los Angeles Sparks,Sacramento Monarchs,Los Angeles Sparks,4,4,8,930369600.0,1999
+Los Angeles Sparks,Los Angeles Sparks,Utah Starzz,5,4,9,930542400.0,1999
+Los Angeles Sparks,Minnesota Lynx,Los Angeles Sparks,6,4,10,930801600.0,1999
+Los Angeles Sparks,Detroit Shock,Los Angeles Sparks,7,4,11,930888000.0,1999
+Los Angeles Sparks,Los Angeles Sparks,Cleveland Rockers,8,4,12,931147200.0,1999
+Los Angeles Sparks,Phoenix Mercury,Los Angeles Sparks,9,4,13,931320000.0,1999
+Los Angeles Sparks,Los Angeles Sparks,Sacramento Monarchs,9,5,14,931492800.0,1999
+Los Angeles Sparks,Los Angeles Sparks,Phoenix Mercury,10,5,15,931665600.0,1999
+Los Angeles Sparks,Phoenix Mercury,Los Angeles Sparks,10,6,16,932184000.0,1999
+Los Angeles Sparks,Los Angeles Sparks,Houston Comets,11,6,17,932270400.0,1999
+Los Angeles Sparks,Los Angeles Sparks,Phoenix Mercury,12,6,18,932529600.0,1999
+Los Angeles Sparks,Los Angeles Sparks,New York Liberty,13,6,19,932788800.0,1999
+Los Angeles Sparks,Los Angeles Sparks,Orlando Miracle,14,6,20,933048000.0,1999
+Los Angeles Sparks,Los Angeles Sparks,Utah Starzz,15,6,21,933307200.0,1999
+Los Angeles Sparks,Los Angeles Sparks,Washington Mystics,16,6,22,933393600.0,1999
+Los Angeles Sparks,Utah Starzz,Los Angeles Sparks,16,7,23,933825600.0,1999
+Los Angeles Sparks,Minnesota Lynx,Los Angeles Sparks,17,7,24,933912000.0,1999
+Los Angeles Sparks,Los Angeles Sparks,Detroit Shock,17,8,25,934171200.0,1999
+Los Angeles Sparks,Sacramento Monarchs,Los Angeles Sparks,17,9,26,934257600.0,1999
+Los Angeles Sparks,Houston Comets,Los Angeles Sparks,17,10,27,934430400.0,1999
+Los Angeles Sparks,Washington Mystics,Los Angeles Sparks,17,11,28,934603200.0,1999
+Los Angeles Sparks,Los Angeles Sparks,Charlotte Sting,18,11,29,934776000.0,1999
+Los Angeles Sparks,Los Angeles Sparks,Minnesota Lynx,19,11,30,934948800.0,1999
+Los Angeles Sparks,Los Angeles Sparks,Houston Comets,20,11,31,935121600.0,1999
+Los Angeles Sparks,Utah Starzz,Los Angeles Sparks,20,12,32,935208000.0,1999
+Minnesota Lynx,Minnesota Lynx,Detroit Shock,1,0,1,929160000.0,1999
+Minnesota Lynx,Minnesota Lynx,Utah Starzz,2,0,2,929332800.0,1999
+Minnesota Lynx,Minnesota Lynx,Houston Comets,2,1,3,929764800.0,1999
+Minnesota Lynx,Sacramento Monarchs,Minnesota Lynx,2,2,4,930024000.0,1999
+Minnesota Lynx,Los Angeles Sparks,Minnesota Lynx,3,2,5,930196800.0,1999
+Minnesota Lynx,Utah Starzz,Minnesota Lynx,4,2,6,930369600.0,1999
+Minnesota Lynx,Minnesota Lynx,Sacramento Monarchs,4,3,7,930628800.0,1999
+Minnesota Lynx,Minnesota Lynx,Los Angeles Sparks,4,4,8,930801600.0,1999
+Minnesota Lynx,Minnesota Lynx,Phoenix Mercury,5,4,9,930974400.0,1999
+Minnesota Lynx,Houston Comets,Minnesota Lynx,5,5,10,931233600.0,1999
+Minnesota Lynx,Orlando Miracle,Minnesota Lynx,6,5,11,931320000.0,1999
+Minnesota Lynx,New York Liberty,Minnesota Lynx,7,5,12,931665600.0,1999
+Minnesota Lynx,Cleveland Rockers,Minnesota Lynx,7,6,13,931752000.0,1999
+Minnesota Lynx,Minnesota Lynx,New York Liberty,8,6,14,932184000.0,1999
+Minnesota Lynx,Minnesota Lynx,Sacramento Monarchs,9,6,15,932356800.0,1999
+Minnesota Lynx,Charlotte Sting,Minnesota Lynx,10,6,16,932529600.0,1999
+Minnesota Lynx,Minnesota Lynx,Washington Mystics,10,7,17,932702400.0,1999
+Minnesota Lynx,Minnesota Lynx,Houston Comets,10,8,18,932875200.0,1999
+Minnesota Lynx,Sacramento Monarchs,Minnesota Lynx,11,8,19,933048000.0,1999
+Minnesota Lynx,Phoenix Mercury,Minnesota Lynx,11,9,20,933220800.0,1999
+Minnesota Lynx,Minnesota Lynx,Charlotte Sting,11,10,21,933393600.0,1999
+Minnesota Lynx,Minnesota Lynx,Phoenix Mercury,12,10,22,933566400.0,1999
+Minnesota Lynx,Detroit Shock,Minnesota Lynx,12,11,23,933739200.0,1999
+Minnesota Lynx,Minnesota Lynx,Los Angeles Sparks,12,12,24,933912000.0,1999
+Minnesota Lynx,Utah Starzz,Minnesota Lynx,12,13,25,933998400.0,1999
+Minnesota Lynx,Phoenix Mercury,Minnesota Lynx,12,14,26,934171200.0,1999
+Minnesota Lynx,Minnesota Lynx,Utah Starzz,13,14,27,934344000.0,1999
+Minnesota Lynx,Houston Comets,Minnesota Lynx,13,15,28,934603200.0,1999
+Minnesota Lynx,Minnesota Lynx,Cleveland Rockers,14,15,29,934776000.0,1999
+Minnesota Lynx,Los Angeles Sparks,Minnesota Lynx,14,16,30,934948800.0,1999
+Minnesota Lynx,Minnesota Lynx,Orlando Miracle,14,17,31,935121600.0,1999
+Minnesota Lynx,Washington Mystics,Minnesota Lynx,15,17,32,935208000.0,1999
+New York Liberty,New York Liberty,Cleveland Rockers,1,0,1,928987200.0,1999
+New York Liberty,Charlotte Sting,New York Liberty,2,0,2,929160000.0,1999
+New York Liberty,New York Liberty,Washington Mystics,2,1,3,929332800.0,1999
+New York Liberty,New York Liberty,Los Angeles Sparks,3,1,4,929678400.0,1999
+New York Liberty,New York Liberty,Detroit Shock,4,1,5,929851200.0,1999
+New York Liberty,New York Liberty,Charlotte Sting,5,1,6,930456000.0,1999
+New York Liberty,Detroit Shock,New York Liberty,5,2,7,930542400.0,1999
+New York Liberty,New York Liberty,Phoenix Mercury,6,2,8,930801600.0,1999
+New York Liberty,Houston Comets,New York Liberty,6,3,9,930974400.0,1999
+New York Liberty,New York Liberty,Sacramento Monarchs,7,3,10,931147200.0,1999
+New York Liberty,Washington Mystics,New York Liberty,7,4,11,931233600.0,1999
+New York Liberty,Cleveland Rockers,New York Liberty,8,4,12,931406400.0,1999
+New York Liberty,New York Liberty,Minnesota Lynx,8,5,13,931665600.0,1999
+New York Liberty,Minnesota Lynx,New York Liberty,8,6,14,932184000.0,1999
+New York Liberty,New York Liberty,Utah Starzz,9,6,15,932270400.0,1999
+New York Liberty,New York Liberty,Orlando Miracle,10,6,16,932443200.0,1999
+New York Liberty,Sacramento Monarchs,New York Liberty,10,7,17,932616000.0,1999
+New York Liberty,Los Angeles Sparks,New York Liberty,10,8,18,932788800.0,1999
+New York Liberty,New York Liberty,Charlotte Sting,10,9,19,932961600.0,1999
+New York Liberty,Orlando Miracle,New York Liberty,11,9,20,933220800.0,1999
+New York Liberty,Charlotte Sting,New York Liberty,11,10,21,933307200.0,1999
+New York Liberty,New York Liberty,Orlando Miracle,12,10,22,933480000.0,1999
+New York Liberty,Utah Starzz,New York Liberty,13,10,23,933652800.0,1999
+New York Liberty,Phoenix Mercury,New York Liberty,13,11,24,933912000.0,1999
+New York Liberty,New York Liberty,Houston Comets,14,11,25,934084800.0,1999
+New York Liberty,Orlando Miracle,New York Liberty,15,11,26,934171200.0,1999
+New York Liberty,Washington Mystics,New York Liberty,15,12,27,934344000.0,1999
+New York Liberty,Detroit Shock,New York Liberty,16,12,28,934516800.0,1999
+New York Liberty,New York Liberty,Detroit Shock,16,13,29,934689600.0,1999
+New York Liberty,New York Liberty,Washington Mystics,17,13,30,934862400.0,1999
+New York Liberty,New York Liberty,Cleveland Rockers,18,13,31,935035200.0,1999
+New York Liberty,Cleveland Rockers,New York Liberty,18,14,32,935208000.0,1999
+Orlando Miracle,Orlando Miracle,Houston Comets,0,1,1,928987200.0,1999
+Orlando Miracle,Utah Starzz,Orlando Miracle,0,2,2,929160000.0,1999
+Orlando Miracle,Orlando Miracle,Los Angeles Sparks,1,2,3,929419200.0,1999
+Orlando Miracle,Detroit Shock,Orlando Miracle,1,3,4,929592000.0,1999
+Orlando Miracle,Orlando Miracle,Washington Mystics,2,3,5,929764800.0,1999
+Orlando Miracle,Orlando Miracle,Phoenix Mercury,3,3,6,929937600.0,1999
+Orlando Miracle,Cleveland Rockers,Orlando Miracle,4,3,7,930024000.0,1999
+Orlando Miracle,Houston Comets,Orlando Miracle,5,3,8,930542400.0,1999
+Orlando Miracle,Orlando Miracle,Charlotte Sting,5,4,9,930974400.0,1999
+Orlando Miracle,Orlando Miracle,Minnesota Lynx,5,5,10,931320000.0,1999
+Orlando Miracle,Charlotte Sting,Orlando Miracle,6,5,11,931492800.0,1999
+Orlando Miracle,Orlando Miracle,Utah Starzz,7,5,12,931579200.0,1999
+Orlando Miracle,Orlando Miracle,Detroit Shock,7,6,13,931752000.0,1999
+Orlando Miracle,Orlando Miracle,Charlotte Sting,7,7,14,932097600.0,1999
+Orlando Miracle,Orlando Miracle,Sacramento Monarchs,7,8,15,932184000.0,1999
+Orlando Miracle,Washington Mystics,Orlando Miracle,8,8,16,932356800.0,1999
+Orlando Miracle,New York Liberty,Orlando Miracle,8,9,17,932443200.0,1999
+Orlando Miracle,Phoenix Mercury,Orlando Miracle,8,10,18,932702400.0,1999
+Orlando Miracle,Sacramento Monarchs,Orlando Miracle,9,10,19,932788800.0,1999
+Orlando Miracle,Los Angeles Sparks,Orlando Miracle,9,11,20,933048000.0,1999
+Orlando Miracle,Orlando Miracle,New York Liberty,9,12,21,933220800.0,1999
+Orlando Miracle,New York Liberty,Orlando Miracle,9,13,22,933480000.0,1999
+Orlando Miracle,Orlando Miracle,Cleveland Rockers,10,13,23,933739200.0,1999
+Orlando Miracle,Washington Mystics,Orlando Miracle,10,14,24,933825600.0,1999
+Orlando Miracle,Charlotte Sting,Orlando Miracle,10,15,25,933998400.0,1999
+Orlando Miracle,Orlando Miracle,New York Liberty,10,16,26,934171200.0,1999
+Orlando Miracle,Orlando Miracle,Cleveland Rockers,11,16,27,934430400.0,1999
+Orlando Miracle,Cleveland Rockers,Orlando Miracle,12,16,28,934603200.0,1999
+Orlando Miracle,Orlando Miracle,Washington Mystics,13,16,29,934689600.0,1999
+Orlando Miracle,Orlando Miracle,Detroit Shock,14,16,30,934948800.0,1999
+Orlando Miracle,Minnesota Lynx,Orlando Miracle,15,16,31,935121600.0,1999
+Orlando Miracle,Detroit Shock,Orlando Miracle,15,17,32,935208000.0,1999
+Phoenix Mercury,Sacramento Monarchs,Phoenix Mercury,0,1,1,929160000.0,1999
+Phoenix Mercury,Phoenix Mercury,Sacramento Monarchs,0,2,2,929332800.0,1999
+Phoenix Mercury,Phoenix Mercury,Cleveland Rockers,1,2,3,929764800.0,1999
+Phoenix Mercury,Orlando Miracle,Phoenix Mercury,1,3,4,929937600.0,1999
+Phoenix Mercury,Washington Mystics,Phoenix Mercury,2,3,5,930024000.0,1999
+Phoenix Mercury,Charlotte Sting,Phoenix Mercury,2,4,6,930196800.0,1999
+Phoenix Mercury,Detroit Shock,Phoenix Mercury,3,4,7,930369600.0,1999
+Phoenix Mercury,Cleveland Rockers,Phoenix Mercury,3,5,8,930542400.0,1999
+Phoenix Mercury,New York Liberty,Phoenix Mercury,3,6,9,930801600.0,1999
+Phoenix Mercury,Minnesota Lynx,Phoenix Mercury,3,7,10,930974400.0,1999
+Phoenix Mercury,Phoenix Mercury,Los Angeles Sparks,3,8,11,931320000.0,1999
+Phoenix Mercury,Phoenix Mercury,Houston Comets,3,9,12,931492800.0,1999
+Phoenix Mercury,Los Angeles Sparks,Phoenix Mercury,3,10,13,931665600.0,1999
+Phoenix Mercury,Utah Starzz,Phoenix Mercury,4,10,14,931752000.0,1999
+Phoenix Mercury,Phoenix Mercury,Los Angeles Sparks,5,10,15,932184000.0,1999
+Phoenix Mercury,Phoenix Mercury,Houston Comets,6,10,16,932356800.0,1999
+Phoenix Mercury,Los Angeles Sparks,Phoenix Mercury,6,11,17,932529600.0,1999
+Phoenix Mercury,Phoenix Mercury,Orlando Miracle,7,11,18,932702400.0,1999
+Phoenix Mercury,Phoenix Mercury,Washington Mystics,8,11,19,932875200.0,1999
+Phoenix Mercury,Phoenix Mercury,Utah Starzz,9,11,20,933048000.0,1999
+Phoenix Mercury,Phoenix Mercury,Minnesota Lynx,10,11,21,933220800.0,1999
+Phoenix Mercury,Houston Comets,Phoenix Mercury,10,12,22,933393600.0,1999
+Phoenix Mercury,Minnesota Lynx,Phoenix Mercury,10,13,23,933566400.0,1999
+Phoenix Mercury,Phoenix Mercury,New York Liberty,11,13,24,933912000.0,1999
+Phoenix Mercury,Sacramento Monarchs,Phoenix Mercury,11,14,25,933998400.0,1999
+Phoenix Mercury,Phoenix Mercury,Minnesota Lynx,12,14,26,934171200.0,1999
+Phoenix Mercury,Phoenix Mercury,Detroit Shock,13,14,27,934344000.0,1999
+Phoenix Mercury,Utah Starzz,Phoenix Mercury,13,15,28,934516800.0,1999
+Phoenix Mercury,Phoenix Mercury,Charlotte Sting,14,15,29,934689600.0,1999
+Phoenix Mercury,Phoenix Mercury,Sacramento Monarchs,15,15,30,934862400.0,1999
+Phoenix Mercury,Houston Comets,Phoenix Mercury,15,16,31,934948800.0,1999
+Phoenix Mercury,Phoenix Mercury,Utah Starzz,15,17,32,935121600.0,1999
+Sacramento Monarchs,Los Angeles Sparks,Sacramento Monarchs,0,1,1,928987200.0,1999
+Sacramento Monarchs,Sacramento Monarchs,Phoenix Mercury,1,1,2,929160000.0,1999
+Sacramento Monarchs,Phoenix Mercury,Sacramento Monarchs,2,1,3,929332800.0,1999
+Sacramento Monarchs,Sacramento Monarchs,Cleveland Rockers,3,1,4,929592000.0,1999
+Sacramento Monarchs,Utah Starzz,Sacramento Monarchs,3,2,5,929764800.0,1999
+Sacramento Monarchs,Sacramento Monarchs,Minnesota Lynx,4,2,6,930024000.0,1999
+Sacramento Monarchs,Sacramento Monarchs,Utah Starzz,5,2,7,930196800.0,1999
+Sacramento Monarchs,Sacramento Monarchs,Los Angeles Sparks,5,3,8,930369600.0,1999
+Sacramento Monarchs,Minnesota Lynx,Sacramento Monarchs,6,3,9,930628800.0,1999
+Sacramento Monarchs,Washington Mystics,Sacramento Monarchs,7,3,10,930888000.0,1999
+Sacramento Monarchs,Detroit Shock,Sacramento Monarchs,8,3,11,931060800.0,1999
+Sacramento Monarchs,New York Liberty,Sacramento Monarchs,8,4,12,931147200.0,1999
+Sacramento Monarchs,Sacramento Monarchs,Houston Comets,9,4,13,931406400.0,1999
+Sacramento Monarchs,Los Angeles Sparks,Sacramento Monarchs,10,4,14,931492800.0,1999
+Sacramento Monarchs,Houston Comets,Sacramento Monarchs,10,5,15,931665600.0,1999
+Sacramento Monarchs,Cleveland Rockers,Sacramento Monarchs,11,5,16,932097600.0,1999
+Sacramento Monarchs,Orlando Miracle,Sacramento Monarchs,12,5,17,932184000.0,1999
+Sacramento Monarchs,Minnesota Lynx,Sacramento Monarchs,12,6,18,932356800.0,1999
+Sacramento Monarchs,Sacramento Monarchs,New York Liberty,13,6,19,932616000.0,1999
+Sacramento Monarchs,Sacramento Monarchs,Orlando Miracle,13,7,20,932788800.0,1999
+Sacramento Monarchs,Sacramento Monarchs,Minnesota Lynx,13,8,21,933048000.0,1999
+Sacramento Monarchs,Sacramento Monarchs,Washington Mystics,14,8,22,933220800.0,1999
+Sacramento Monarchs,Utah Starzz,Sacramento Monarchs,14,9,23,933393600.0,1999
+Sacramento Monarchs,Houston Comets,Sacramento Monarchs,14,10,24,933566400.0,1999
+Sacramento Monarchs,Charlotte Sting,Sacramento Monarchs,15,10,25,933739200.0,1999
+Sacramento Monarchs,Sacramento Monarchs,Detroit Shock,16,10,26,933912000.0,1999
+Sacramento Monarchs,Sacramento Monarchs,Phoenix Mercury,17,10,27,933998400.0,1999
+Sacramento Monarchs,Sacramento Monarchs,Los Angeles Sparks,18,10,28,934257600.0,1999
+Sacramento Monarchs,Sacramento Monarchs,Charlotte Sting,19,10,29,934516800.0,1999
+Sacramento Monarchs,Sacramento Monarchs,Utah Starzz,19,11,30,934603200.0,1999
+Sacramento Monarchs,Phoenix Mercury,Sacramento Monarchs,19,12,31,934862400.0,1999
+Sacramento Monarchs,Sacramento Monarchs,Houston Comets,19,13,32,935208000.0,1999
+Utah Starzz,Utah Starzz,Orlando Miracle,1,0,1,929160000.0,1999
+Utah Starzz,Minnesota Lynx,Utah Starzz,1,1,2,929332800.0,1999
+Utah Starzz,Houston Comets,Utah Starzz,1,2,3,929592000.0,1999
+Utah Starzz,Utah Starzz,Sacramento Monarchs,2,2,4,929764800.0,1999
+Utah Starzz,Sacramento Monarchs,Utah Starzz,2,3,5,930196800.0,1999
+Utah Starzz,Utah Starzz,Minnesota Lynx,2,4,6,930369600.0,1999
+Utah Starzz,Los Angeles Sparks,Utah Starzz,2,5,7,930542400.0,1999
+Utah Starzz,Utah Starzz,Houston Comets,2,6,8,930715200.0,1999
+Utah Starzz,Utah Starzz,Cleveland Rockers,3,6,9,930888000.0,1999
+Utah Starzz,Utah Starzz,Detroit Shock,4,6,10,931233600.0,1999
+Utah Starzz,Washington Mystics,Utah Starzz,5,6,11,931406400.0,1999
+Utah Starzz,Orlando Miracle,Utah Starzz,5,7,12,931579200.0,1999
+Utah Starzz,Utah Starzz,Phoenix Mercury,5,8,13,931752000.0,1999
+Utah Starzz,Utah Starzz,Houston Comets,5,9,14,932097600.0,1999
+Utah Starzz,New York Liberty,Utah Starzz,5,10,15,932270400.0,1999
+Utah Starzz,Charlotte Sting,Utah Starzz,5,11,16,932356800.0,1999
+Utah Starzz,Detroit Shock,Utah Starzz,5,12,17,932529600.0,1999
+Utah Starzz,Cleveland Rockers,Utah Starzz,6,12,18,932788800.0,1999
+Utah Starzz,Utah Starzz,Washington Mystics,7,12,19,932961600.0,1999
+Utah Starzz,Phoenix Mercury,Utah Starzz,7,13,20,933048000.0,1999
+Utah Starzz,Los Angeles Sparks,Utah Starzz,7,14,21,933307200.0,1999
+Utah Starzz,Utah Starzz,Sacramento Monarchs,8,14,22,933393600.0,1999
+Utah Starzz,Utah Starzz,New York Liberty,8,15,23,933652800.0,1999
+Utah Starzz,Utah Starzz,Los Angeles Sparks,9,15,24,933825600.0,1999
+Utah Starzz,Utah Starzz,Minnesota Lynx,10,15,25,933998400.0,1999
+Utah Starzz,Utah Starzz,Charlotte Sting,11,15,26,934171200.0,1999
+Utah Starzz,Minnesota Lynx,Utah Starzz,11,16,27,934344000.0,1999
+Utah Starzz,Utah Starzz,Phoenix Mercury,12,16,28,934516800.0,1999
+Utah Starzz,Sacramento Monarchs,Utah Starzz,13,16,29,934603200.0,1999
+Utah Starzz,Houston Comets,Utah Starzz,13,17,30,934776000.0,1999
+Utah Starzz,Phoenix Mercury,Utah Starzz,14,17,31,935121600.0,1999
+Utah Starzz,Utah Starzz,Los Angeles Sparks,15,17,32,935208000.0,1999
+Washington Mystics,Washington Mystics,Charlotte Sting,0,1,1,928987200.0,1999
+Washington Mystics,Houston Comets,Washington Mystics,0,2,2,929160000.0,1999
+Washington Mystics,New York Liberty,Washington Mystics,1,2,3,929332800.0,1999
+Washington Mystics,Washington Mystics,Detroit Shock,1,3,4,929678400.0,1999
+Washington Mystics,Orlando Miracle,Washington Mystics,1,4,5,929764800.0,1999
+Washington Mystics,Washington Mystics,Phoenix Mercury,1,5,6,930024000.0,1999
+Washington Mystics,Washington Mystics,Houston Comets,1,6,7,930283200.0,1999
+Washington Mystics,Cleveland Rockers,Washington Mystics,1,7,8,930369600.0,1999
+Washington Mystics,Charlotte Sting,Washington Mystics,2,7,9,930715200.0,1999
+Washington Mystics,Washington Mystics,Sacramento Monarchs,2,8,10,930888000.0,1999
+Washington Mystics,Washington Mystics,New York Liberty,3,8,11,931233600.0,1999
+Washington Mystics,Washington Mystics,Utah Starzz,3,9,12,931406400.0,1999
+Washington Mystics,Detroit Shock,Washington Mystics,4,9,13,931579200.0,1999
+Washington Mystics,Washington Mystics,Charlotte Sting,5,9,14,931752000.0,1999
+Washington Mystics,Washington Mystics,Detroit Shock,5,10,15,932097600.0,1999
+Washington Mystics,Charlotte Sting,Washington Mystics,5,11,16,932184000.0,1999
+Washington Mystics,Washington Mystics,Orlando Miracle,5,12,17,932356800.0,1999
+Washington Mystics,Washington Mystics,Cleveland Rockers,5,13,18,932529600.0,1999
+Washington Mystics,Minnesota Lynx,Washington Mystics,6,13,19,932702400.0,1999
+Washington Mystics,Phoenix Mercury,Washington Mystics,6,14,20,932875200.0,1999
+Washington Mystics,Utah Starzz,Washington Mystics,6,15,21,932961600.0,1999
+Washington Mystics,Sacramento Monarchs,Washington Mystics,6,16,22,933220800.0,1999
+Washington Mystics,Los Angeles Sparks,Washington Mystics,6,17,23,933393600.0,1999
+Washington Mystics,Detroit Shock,Washington Mystics,7,17,24,933566400.0,1999
+Washington Mystics,Washington Mystics,Orlando Miracle,8,17,25,933825600.0,1999
+Washington Mystics,Cleveland Rockers,Washington Mystics,9,17,26,933998400.0,1999
+Washington Mystics,Washington Mystics,Cleveland Rockers,10,17,27,934084800.0,1999
+Washington Mystics,Washington Mystics,New York Liberty,11,17,28,934344000.0,1999
+Washington Mystics,Washington Mystics,Los Angeles Sparks,12,17,29,934603200.0,1999
+Washington Mystics,Orlando Miracle,Washington Mystics,12,18,30,934689600.0,1999
+Washington Mystics,New York Liberty,Washington Mystics,12,19,31,934862400.0,1999
+Washington Mystics,Washington Mystics,Minnesota Lynx,12,20,32,935208000.0,1999

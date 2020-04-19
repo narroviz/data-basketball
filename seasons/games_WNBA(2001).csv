@@ -1,0 +1,513 @@
+id,home_team,away_team,win,loss,game_number,date,year
+Charlotte Sting,Charlotte Sting,Los Angeles Sparks,0,1,1,991454400.0,2001
+Charlotte Sting,Phoenix Mercury,Charlotte Sting,0,2,2,991713600.0,2001
+Charlotte Sting,Sacramento Monarchs,Charlotte Sting,0,3,3,991886400.0,2001
+Charlotte Sting,Orlando Miracle,Charlotte Sting,1,3,4,992059200.0,2001
+Charlotte Sting,New York Liberty,Charlotte Sting,1,4,5,992318400.0,2001
+Charlotte Sting,Charlotte Sting,Utah Starzz,1,5,6,992491200.0,2001
+Charlotte Sting,Charlotte Sting,Detroit Shock,1,6,7,992664000.0,2001
+Charlotte Sting,Seattle Storm,Charlotte Sting,1,7,8,992836800.0,2001
+Charlotte Sting,Los Angeles Sparks,Charlotte Sting,1,8,9,992923200.0,2001
+Charlotte Sting,Portland Fire,Charlotte Sting,1,9,10,993182400.0,2001
+Charlotte Sting,Charlotte Sting,Sacramento Monarchs,1,10,11,993355200.0,2001
+Charlotte Sting,Charlotte Sting,Detroit Shock,2,10,12,993614400.0,2001
+Charlotte Sting,Indiana Fever,Charlotte Sting,3,10,13,993787200.0,2001
+Charlotte Sting,Charlotte Sting,Cleveland Rockers,4,10,14,993873600.0,2001
+Charlotte Sting,Charlotte Sting,New York Liberty,5,10,15,994132800.0,2001
+Charlotte Sting,Detroit Shock,Charlotte Sting,6,10,16,994392000.0,2001
+Charlotte Sting,Charlotte Sting,Seattle Storm,7,10,17,994478400.0,2001
+Charlotte Sting,Charlotte Sting,Orlando Miracle,7,11,18,994910400.0,2001
+Charlotte Sting,Charlotte Sting,Indiana Fever,8,11,19,995083200.0,2001
+Charlotte Sting,Miami Sol,Charlotte Sting,8,12,20,995428800.0,2001
+Charlotte Sting,Charlotte Sting,Orlando Miracle,9,12,21,995601600.0,2001
+Charlotte Sting,Cleveland Rockers,Charlotte Sting,9,13,22,995688000.0,2001
+Charlotte Sting,Charlotte Sting,Indiana Fever,10,13,23,995947200.0,2001
+Charlotte Sting,Charlotte Sting,Washington Mystics,11,13,24,996120000.0,2001
+Charlotte Sting,Washington Mystics,Charlotte Sting,11,14,25,996379200.0,2001
+Charlotte Sting,Charlotte Sting,Miami Sol,12,14,26,996552000.0,2001
+Charlotte Sting,Minnesota Lynx,Charlotte Sting,13,14,27,996811200.0,2001
+Charlotte Sting,Charlotte Sting,Houston Comets,14,14,28,996897600.0,2001
+Charlotte Sting,Washington Mystics,Charlotte Sting,15,14,29,997070400.0,2001
+Charlotte Sting,Cleveland Rockers,Charlotte Sting,16,14,30,997416000.0,2001
+Charlotte Sting,Charlotte Sting,New York Liberty,17,14,31,997502400.0,2001
+Charlotte Sting,Miami Sol,Charlotte Sting,18,14,32,997761600.0,2001
+Cleveland Rockers,Cleveland Rockers,Washington Mystics,1,0,1,991281600.0,2001
+Cleveland Rockers,Sacramento Monarchs,Cleveland Rockers,1,1,2,991454400.0,2001
+Cleveland Rockers,Los Angeles Sparks,Cleveland Rockers,1,2,3,991713600.0,2001
+Cleveland Rockers,Cleveland Rockers,New York Liberty,2,2,4,991886400.0,2001
+Cleveland Rockers,Cleveland Rockers,Indiana Fever,3,2,5,992059200.0,2001
+Cleveland Rockers,Portland Fire,Cleveland Rockers,3,3,6,992318400.0,2001
+Cleveland Rockers,Seattle Storm,Cleveland Rockers,4,3,7,992491200.0,2001
+Cleveland Rockers,Cleveland Rockers,Miami Sol,5,3,8,992664000.0,2001
+Cleveland Rockers,Washington Mystics,Cleveland Rockers,6,3,9,992750400.0,2001
+Cleveland Rockers,Cleveland Rockers,Los Angeles Sparks,7,3,10,993182400.0,2001
+Cleveland Rockers,Miami Sol,Cleveland Rockers,8,3,11,993355200.0,2001
+Cleveland Rockers,Cleveland Rockers,Portland Fire,9,3,12,993528000.0,2001
+Cleveland Rockers,Orlando Miracle,Cleveland Rockers,10,3,13,993614400.0,2001
+Cleveland Rockers,Charlotte Sting,Cleveland Rockers,10,4,14,993873600.0,2001
+Cleveland Rockers,Cleveland Rockers,Minnesota Lynx,11,4,15,993960000.0,2001
+Cleveland Rockers,Utah Starzz,Cleveland Rockers,11,5,16,994392000.0,2001
+Cleveland Rockers,Houston Comets,Cleveland Rockers,12,5,17,994564800.0,2001
+Cleveland Rockers,Cleveland Rockers,Seattle Storm,13,5,18,994737600.0,2001
+Cleveland Rockers,Indiana Fever,Cleveland Rockers,14,5,19,994824000.0,2001
+Cleveland Rockers,Cleveland Rockers,Phoenix Mercury,15,5,20,994996800.0,2001
+Cleveland Rockers,Cleveland Rockers,New York Liberty,16,5,21,995515200.0,2001
+Cleveland Rockers,Cleveland Rockers,Charlotte Sting,17,5,22,995688000.0,2001
+Cleveland Rockers,Cleveland Rockers,Miami Sol,18,5,23,996033600.0,2001
+Cleveland Rockers,Cleveland Rockers,Indiana Fever,18,6,24,996206400.0,2001
+Cleveland Rockers,Detroit Shock,Cleveland Rockers,19,6,25,996292800.0,2001
+Cleveland Rockers,Cleveland Rockers,Orlando Miracle,20,6,26,996465600.0,2001
+Cleveland Rockers,New York Liberty,Cleveland Rockers,21,6,27,996897600.0,2001
+Cleveland Rockers,Orlando Miracle,Cleveland Rockers,21,7,28,997156800.0,2001
+Cleveland Rockers,Cleveland Rockers,Detroit Shock,22,7,29,997243200.0,2001
+Cleveland Rockers,Cleveland Rockers,Charlotte Sting,22,8,30,997416000.0,2001
+Cleveland Rockers,Washington Mystics,Cleveland Rockers,22,9,31,997588800.0,2001
+Cleveland Rockers,Detroit Shock,Cleveland Rockers,22,10,32,997761600.0,2001
+Detroit Shock,Detroit Shock,Houston Comets,0,1,1,991454400.0,2001
+Detroit Shock,Detroit Shock,Orlando Miracle,0,2,2,991713600.0,2001
+Detroit Shock,Houston Comets,Detroit Shock,0,3,3,991886400.0,2001
+Detroit Shock,Miami Sol,Detroit Shock,1,3,4,992318400.0,2001
+Detroit Shock,Detroit Shock,Washington Mystics,2,3,5,992491200.0,2001
+Detroit Shock,Charlotte Sting,Detroit Shock,3,3,6,992664000.0,2001
+Detroit Shock,Detroit Shock,Minnesota Lynx,3,4,7,992750400.0,2001
+Detroit Shock,Indiana Fever,Detroit Shock,3,5,8,993182400.0,2001
+Detroit Shock,Detroit Shock,Indiana Fever,3,6,9,993268800.0,2001
+Detroit Shock,Detroit Shock,Los Angeles Sparks,3,7,10,993528000.0,2001
+Detroit Shock,Charlotte Sting,Detroit Shock,3,8,11,993614400.0,2001
+Detroit Shock,Detroit Shock,Phoenix Mercury,4,8,12,993787200.0,2001
+Detroit Shock,New York Liberty,Detroit Shock,4,9,13,994046400.0,2001
+Detroit Shock,Detroit Shock,Charlotte Sting,4,10,14,994392000.0,2001
+Detroit Shock,Orlando Miracle,Detroit Shock,4,11,15,994564800.0,2001
+Detroit Shock,Washington Mystics,Detroit Shock,5,11,16,994824000.0,2001
+Detroit Shock,Detroit Shock,Miami Sol,5,12,17,994996800.0,2001
+Detroit Shock,Miami Sol,Detroit Shock,5,13,18,995083200.0,2001
+Detroit Shock,Detroit Shock,New York Liberty,5,14,19,995428800.0,2001
+Detroit Shock,Sacramento Monarchs,Detroit Shock,5,15,20,995688000.0,2001
+Detroit Shock,Portland Fire,Detroit Shock,6,15,21,995774400.0,2001
+Detroit Shock,Seattle Storm,Detroit Shock,6,16,22,995947200.0,2001
+Detroit Shock,Phoenix Mercury,Detroit Shock,6,17,23,996120000.0,2001
+Detroit Shock,Detroit Shock,Cleveland Rockers,6,18,24,996292800.0,2001
+Detroit Shock,Detroit Shock,Orlando Miracle,7,18,25,996379200.0,2001
+Detroit Shock,New York Liberty,Detroit Shock,7,19,26,996638400.0,2001
+Detroit Shock,Detroit Shock,Portland Fire,8,19,27,996897600.0,2001
+Detroit Shock,Detroit Shock,Utah Starzz,8,20,28,997156800.0,2001
+Detroit Shock,Cleveland Rockers,Detroit Shock,8,21,29,997243200.0,2001
+Detroit Shock,Detroit Shock,Washington Mystics,9,21,30,997416000.0,2001
+Detroit Shock,Indiana Fever,Detroit Shock,9,22,31,997588800.0,2001
+Detroit Shock,Detroit Shock,Cleveland Rockers,10,22,32,997761600.0,2001
+Houston Comets,Houston Comets,Los Angeles Sparks,0,1,1,991022400.0,2001
+Houston Comets,Indiana Fever,Houston Comets,1,1,2,991281600.0,2001
+Houston Comets,Detroit Shock,Houston Comets,2,1,3,991454400.0,2001
+Houston Comets,Utah Starzz,Houston Comets,3,1,4,991713600.0,2001
+Houston Comets,Houston Comets,Detroit Shock,4,1,5,991886400.0,2001
+Houston Comets,Phoenix Mercury,Houston Comets,5,1,6,992145600.0,2001
+Houston Comets,Houston Comets,Los Angeles Sparks,6,1,7,993096000.0,2001
+Houston Comets,Houston Comets,Sacramento Monarchs,7,1,8,993268800.0,2001
+Houston Comets,Houston Comets,Portland Fire,8,1,9,993355200.0,2001
+Houston Comets,Houston Comets,Washington Mystics,9,1,10,993614400.0,2001
+Houston Comets,Sacramento Monarchs,Houston Comets,9,2,11,993700800.0,2001
+Houston Comets,Minnesota Lynx,Houston Comets,10,2,12,993873600.0,2001
+Houston Comets,Houston Comets,Portland Fire,11,2,13,994046400.0,2001
+Houston Comets,Houston Comets,Indiana Fever,12,2,14,994392000.0,2001
+Houston Comets,Houston Comets,Cleveland Rockers,12,3,15,994564800.0,2001
+Houston Comets,Sacramento Monarchs,Houston Comets,12,4,16,994737600.0,2001
+Houston Comets,Portland Fire,Houston Comets,13,4,17,994910400.0,2001
+Houston Comets,Seattle Storm,Houston Comets,14,4,18,994996800.0,2001
+Houston Comets,Orlando Miracle,Houston Comets,14,5,19,995428800.0,2001
+Houston Comets,Miami Sol,Houston Comets,14,6,20,995601600.0,2001
+Houston Comets,Minnesota Lynx,Houston Comets,15,6,21,995860800.0,2001
+Houston Comets,Houston Comets,Utah Starzz,15,7,22,995947200.0,2001
+Houston Comets,Houston Comets,New York Liberty,15,8,23,996292800.0,2001
+Houston Comets,Houston Comets,Seattle Storm,16,8,24,996465600.0,2001
+Houston Comets,Houston Comets,Utah Starzz,16,9,25,996638400.0,2001
+Houston Comets,Houston Comets,Orlando Miracle,17,9,26,996811200.0,2001
+Houston Comets,Charlotte Sting,Houston Comets,17,10,27,996897600.0,2001
+Houston Comets,Houston Comets,Phoenix Mercury,18,10,28,997070400.0,2001
+Houston Comets,Seattle Storm,Houston Comets,18,11,29,997243200.0,2001
+Houston Comets,Los Angeles Sparks,Houston Comets,18,12,30,997502400.0,2001
+Houston Comets,Houston Comets,Minnesota Lynx,19,12,31,997675200.0,2001
+Houston Comets,Phoenix Mercury,Houston Comets,19,13,32,997761600.0,2001
+Indiana Fever,Indiana Fever,Houston Comets,0,1,1,991281600.0,2001
+Indiana Fever,New York Liberty,Indiana Fever,0,2,2,991454400.0,2001
+Indiana Fever,Indiana Fever,Seattle Storm,0,3,3,991627200.0,2001
+Indiana Fever,Miami Sol,Indiana Fever,0,4,4,991713600.0,2001
+Indiana Fever,Cleveland Rockers,Indiana Fever,0,5,5,992059200.0,2001
+Indiana Fever,Minnesota Lynx,Indiana Fever,1,5,6,992318400.0,2001
+Indiana Fever,Indiana Fever,Minnesota Lynx,2,5,7,992664000.0,2001
+Indiana Fever,Indiana Fever,Orlando Miracle,2,6,8,992836800.0,2001
+Indiana Fever,Indiana Fever,Detroit Shock,3,6,9,993182400.0,2001
+Indiana Fever,Detroit Shock,Indiana Fever,4,6,10,993268800.0,2001
+Indiana Fever,Indiana Fever,Portland Fire,4,7,11,993614400.0,2001
+Indiana Fever,Indiana Fever,Charlotte Sting,4,8,12,993787200.0,2001
+Indiana Fever,Indiana Fever,Phoenix Mercury,5,8,13,993960000.0,2001
+Indiana Fever,Houston Comets,Indiana Fever,5,9,14,994392000.0,2001
+Indiana Fever,Indiana Fever,New York Liberty,5,10,15,994564800.0,2001
+Indiana Fever,New York Liberty,Indiana Fever,5,11,16,994651200.0,2001
+Indiana Fever,Indiana Fever,Cleveland Rockers,5,12,17,994824000.0,2001
+Indiana Fever,Indiana Fever,Orlando Miracle,6,12,18,994996800.0,2001
+Indiana Fever,Charlotte Sting,Indiana Fever,6,13,19,995083200.0,2001
+Indiana Fever,Indiana Fever,Utah Starzz,6,14,20,995428800.0,2001
+Indiana Fever,Indiana Fever,Washington Mystics,7,14,21,995601600.0,2001
+Indiana Fever,Washington Mystics,Indiana Fever,7,15,22,995774400.0,2001
+Indiana Fever,Charlotte Sting,Indiana Fever,7,16,23,995947200.0,2001
+Indiana Fever,Cleveland Rockers,Indiana Fever,8,16,24,996206400.0,2001
+Indiana Fever,Indiana Fever,Miami Sol,8,17,25,996292800.0,2001
+Indiana Fever,Indiana Fever,Washington Mystics,9,17,26,996638400.0,2001
+Indiana Fever,Sacramento Monarchs,Indiana Fever,9,18,27,996811200.0,2001
+Indiana Fever,Utah Starzz,Indiana Fever,9,19,28,996897600.0,2001
+Indiana Fever,Los Angeles Sparks,Indiana Fever,9,20,29,997070400.0,2001
+Indiana Fever,Miami Sol,Indiana Fever,9,21,30,997416000.0,2001
+Indiana Fever,Indiana Fever,Detroit Shock,10,21,31,997588800.0,2001
+Indiana Fever,Orlando Miracle,Indiana Fever,10,22,32,997761600.0,2001
+Los Angeles Sparks,Houston Comets,Los Angeles Sparks,1,0,1,991022400.0,2001
+Los Angeles Sparks,Orlando Miracle,Los Angeles Sparks,2,0,2,991368000.0,2001
+Los Angeles Sparks,Charlotte Sting,Los Angeles Sparks,3,0,3,991454400.0,2001
+Los Angeles Sparks,Los Angeles Sparks,Cleveland Rockers,4,0,4,991713600.0,2001
+Los Angeles Sparks,Minnesota Lynx,Los Angeles Sparks,5,0,5,992059200.0,2001
+Los Angeles Sparks,Los Angeles Sparks,Orlando Miracle,6,0,6,992491200.0,2001
+Los Angeles Sparks,Seattle Storm,Los Angeles Sparks,7,0,7,992664000.0,2001
+Los Angeles Sparks,Los Angeles Sparks,Portland Fire,8,0,8,992750400.0,2001
+Los Angeles Sparks,Los Angeles Sparks,Charlotte Sting,9,0,9,992923200.0,2001
+Los Angeles Sparks,Houston Comets,Los Angeles Sparks,9,1,10,993096000.0,2001
+Los Angeles Sparks,Cleveland Rockers,Los Angeles Sparks,9,2,11,993182400.0,2001
+Los Angeles Sparks,New York Liberty,Los Angeles Sparks,9,3,12,993355200.0,2001
+Los Angeles Sparks,Detroit Shock,Los Angeles Sparks,10,3,13,993528000.0,2001
+Los Angeles Sparks,Los Angeles Sparks,Miami Sol,11,3,14,993960000.0,2001
+Los Angeles Sparks,Los Angeles Sparks,Utah Starzz,12,3,15,994132800.0,2001
+Los Angeles Sparks,Los Angeles Sparks,Phoenix Mercury,13,3,16,994305600.0,2001
+Los Angeles Sparks,Los Angeles Sparks,Minnesota Lynx,14,3,17,994564800.0,2001
+Los Angeles Sparks,Utah Starzz,Los Angeles Sparks,15,3,18,994737600.0,2001
+Los Angeles Sparks,Phoenix Mercury,Los Angeles Sparks,16,3,19,994824000.0,2001
+Los Angeles Sparks,Washington Mystics,Los Angeles Sparks,17,3,20,995083200.0,2001
+Los Angeles Sparks,Sacramento Monarchs,Los Angeles Sparks,18,3,21,995515200.0,2001
+Los Angeles Sparks,Los Angeles Sparks,Seattle Storm,19,3,22,995688000.0,2001
+Los Angeles Sparks,Los Angeles Sparks,Sacramento Monarchs,20,3,23,996033600.0,2001
+Los Angeles Sparks,Portland Fire,Los Angeles Sparks,21,3,24,996292800.0,2001
+Los Angeles Sparks,Los Angeles Sparks,Minnesota Lynx,22,3,25,996465600.0,2001
+Los Angeles Sparks,Los Angeles Sparks,Sacramento Monarchs,23,3,26,996724800.0,2001
+Los Angeles Sparks,Los Angeles Sparks,Seattle Storm,24,3,27,996897600.0,2001
+Los Angeles Sparks,Los Angeles Sparks,Indiana Fever,25,3,28,997070400.0,2001
+Los Angeles Sparks,Los Angeles Sparks,Phoenix Mercury,26,3,29,997243200.0,2001
+Los Angeles Sparks,Los Angeles Sparks,Houston Comets,27,3,30,997502400.0,2001
+Los Angeles Sparks,Utah Starzz,Los Angeles Sparks,27,4,31,997675200.0,2001
+Los Angeles Sparks,Portland Fire,Los Angeles Sparks,28,4,32,997761600.0,2001
+Miami Sol,Miami Sol,New York Liberty,1,0,1,991281600.0,2001
+Miami Sol,Miami Sol,Indiana Fever,2,0,2,991713600.0,2001
+Miami Sol,Seattle Storm,Miami Sol,3,0,3,991886400.0,2001
+Miami Sol,Sacramento Monarchs,Miami Sol,4,0,4,992059200.0,2001
+Miami Sol,Miami Sol,Detroit Shock,4,1,5,992318400.0,2001
+Miami Sol,Cleveland Rockers,Miami Sol,4,2,6,992664000.0,2001
+Miami Sol,Miami Sol,New York Liberty,4,3,7,992750400.0,2001
+Miami Sol,Washington Mystics,Miami Sol,5,3,8,993096000.0,2001
+Miami Sol,Minnesota Lynx,Miami Sol,5,4,9,993182400.0,2001
+Miami Sol,Miami Sol,Cleveland Rockers,5,5,10,993355200.0,2001
+Miami Sol,Miami Sol,Utah Starzz,5,6,11,993614400.0,2001
+Miami Sol,Miami Sol,Portland Fire,5,7,12,993787200.0,2001
+Miami Sol,Los Angeles Sparks,Miami Sol,5,8,13,993960000.0,2001
+Miami Sol,Utah Starzz,Miami Sol,6,8,14,994046400.0,2001
+Miami Sol,Phoenix Mercury,Miami Sol,6,9,15,994219200.0,2001
+Miami Sol,Miami Sol,Sacramento Monarchs,7,9,16,994478400.0,2001
+Miami Sol,Orlando Miracle,Miami Sol,8,9,17,994737600.0,2001
+Miami Sol,Detroit Shock,Miami Sol,9,9,18,994996800.0,2001
+Miami Sol,Miami Sol,Detroit Shock,10,9,19,995083200.0,2001
+Miami Sol,Miami Sol,Charlotte Sting,11,9,20,995428800.0,2001
+Miami Sol,Miami Sol,Houston Comets,12,9,21,995601600.0,2001
+Miami Sol,New York Liberty,Miami Sol,13,9,22,995774400.0,2001
+Miami Sol,Cleveland Rockers,Miami Sol,13,10,23,996033600.0,2001
+Miami Sol,Miami Sol,Orlando Miracle,14,10,24,996206400.0,2001
+Miami Sol,Indiana Fever,Miami Sol,15,10,25,996292800.0,2001
+Miami Sol,Charlotte Sting,Miami Sol,15,11,26,996552000.0,2001
+Miami Sol,Miami Sol,Phoenix Mercury,16,11,27,996811200.0,2001
+Miami Sol,Miami Sol,Washington Mystics,17,11,28,996984000.0,2001
+Miami Sol,Washington Mystics,Miami Sol,18,11,29,997243200.0,2001
+Miami Sol,Miami Sol,Indiana Fever,19,11,30,997416000.0,2001
+Miami Sol,Orlando Miracle,Miami Sol,20,11,31,997502400.0,2001
+Miami Sol,Miami Sol,Charlotte Sting,20,12,32,997761600.0,2001
+Minnesota Lynx,Portland Fire,Minnesota Lynx,1,0,1,991281600.0,2001
+Minnesota Lynx,Minnesota Lynx,Phoenix Mercury,1,1,2,991454400.0,2001
+Minnesota Lynx,Minnesota Lynx,Los Angeles Sparks,1,2,3,992059200.0,2001
+Minnesota Lynx,Minnesota Lynx,Indiana Fever,1,3,4,992318400.0,2001
+Minnesota Lynx,Indiana Fever,Minnesota Lynx,1,4,5,992664000.0,2001
+Minnesota Lynx,Detroit Shock,Minnesota Lynx,2,4,6,992750400.0,2001
+Minnesota Lynx,Minnesota Lynx,Miami Sol,3,4,7,993182400.0,2001
+Minnesota Lynx,Utah Starzz,Minnesota Lynx,3,5,8,993268800.0,2001
+Minnesota Lynx,Washington Mystics,Minnesota Lynx,4,5,9,993441600.0,2001
+Minnesota Lynx,Minnesota Lynx,Seattle Storm,5,5,10,993700800.0,2001
+Minnesota Lynx,Minnesota Lynx,Houston Comets,5,6,11,993873600.0,2001
+Minnesota Lynx,Cleveland Rockers,Minnesota Lynx,5,7,12,993960000.0,2001
+Minnesota Lynx,Minnesota Lynx,Sacramento Monarchs,5,8,13,994132800.0,2001
+Minnesota Lynx,Minnesota Lynx,New York Liberty,5,9,14,994392000.0,2001
+Minnesota Lynx,Los Angeles Sparks,Minnesota Lynx,5,10,15,994564800.0,2001
+Minnesota Lynx,Minnesota Lynx,Portland Fire,6,10,16,994737600.0,2001
+Minnesota Lynx,New York Liberty,Minnesota Lynx,6,11,17,994996800.0,2001
+Minnesota Lynx,Minnesota Lynx,Phoenix Mercury,6,12,18,995083200.0,2001
+Minnesota Lynx,Minnesota Lynx,Seattle Storm,7,12,19,995428800.0,2001
+Minnesota Lynx,Orlando Miracle,Minnesota Lynx,7,13,20,995688000.0,2001
+Minnesota Lynx,Minnesota Lynx,Houston Comets,7,14,21,995860800.0,2001
+Minnesota Lynx,Minnesota Lynx,Washington Mystics,7,15,22,996206400.0,2001
+Minnesota Lynx,Utah Starzz,Minnesota Lynx,7,16,23,996292800.0,2001
+Minnesota Lynx,Los Angeles Sparks,Minnesota Lynx,7,17,24,996465600.0,2001
+Minnesota Lynx,Phoenix Mercury,Minnesota Lynx,8,17,25,996638400.0,2001
+Minnesota Lynx,Minnesota Lynx,Charlotte Sting,8,18,26,996811200.0,2001
+Minnesota Lynx,Minnesota Lynx,Sacramento Monarchs,9,18,27,996984000.0,2001
+Minnesota Lynx,Sacramento Monarchs,Minnesota Lynx,9,19,28,997156800.0,2001
+Minnesota Lynx,Portland Fire,Minnesota Lynx,10,19,29,997243200.0,2001
+Minnesota Lynx,Seattle Storm,Minnesota Lynx,11,19,30,997416000.0,2001
+Minnesota Lynx,Minnesota Lynx,Utah Starzz,12,19,31,997588800.0,2001
+Minnesota Lynx,Houston Comets,Minnesota Lynx,12,20,32,997675200.0,2001
+New York Liberty,Miami Sol,New York Liberty,0,1,1,991281600.0,2001
+New York Liberty,New York Liberty,Indiana Fever,1,1,2,991454400.0,2001
+New York Liberty,New York Liberty,Sacramento Monarchs,1,2,3,991627200.0,2001
+New York Liberty,Cleveland Rockers,New York Liberty,1,3,4,991886400.0,2001
+New York Liberty,Washington Mystics,New York Liberty,2,3,5,992145600.0,2001
+New York Liberty,New York Liberty,Charlotte Sting,3,3,6,992318400.0,2001
+New York Liberty,New York Liberty,Washington Mystics,4,3,7,992664000.0,2001
+New York Liberty,Miami Sol,New York Liberty,5,3,8,992750400.0,2001
+New York Liberty,Sacramento Monarchs,New York Liberty,6,3,9,992923200.0,2001
+New York Liberty,Phoenix Mercury,New York Liberty,7,3,10,993096000.0,2001
+New York Liberty,New York Liberty,Los Angeles Sparks,8,3,11,993355200.0,2001
+New York Liberty,Orlando Miracle,New York Liberty,8,4,12,993441600.0,2001
+New York Liberty,New York Liberty,Orlando Miracle,9,4,13,993873600.0,2001
+New York Liberty,New York Liberty,Detroit Shock,10,4,14,994046400.0,2001
+New York Liberty,Charlotte Sting,New York Liberty,10,5,15,994132800.0,2001
+New York Liberty,Minnesota Lynx,New York Liberty,11,5,16,994392000.0,2001
+New York Liberty,Indiana Fever,New York Liberty,12,5,17,994564800.0,2001
+New York Liberty,New York Liberty,Indiana Fever,13,5,18,994651200.0,2001
+New York Liberty,New York Liberty,Seattle Storm,14,5,19,994824000.0,2001
+New York Liberty,New York Liberty,Minnesota Lynx,15,5,20,994996800.0,2001
+New York Liberty,Detroit Shock,New York Liberty,16,5,21,995428800.0,2001
+New York Liberty,Cleveland Rockers,New York Liberty,16,6,22,995515200.0,2001
+New York Liberty,New York Liberty,Miami Sol,16,7,23,995774400.0,2001
+New York Liberty,Portland Fire,New York Liberty,16,8,24,995947200.0,2001
+New York Liberty,Utah Starzz,New York Liberty,16,9,25,996120000.0,2001
+New York Liberty,Houston Comets,New York Liberty,17,9,26,996292800.0,2001
+New York Liberty,New York Liberty,Detroit Shock,18,9,27,996638400.0,2001
+New York Liberty,New York Liberty,Cleveland Rockers,18,10,28,996897600.0,2001
+New York Liberty,New York Liberty,Utah Starzz,19,10,29,997243200.0,2001
+New York Liberty,New York Liberty,Orlando Miracle,20,10,30,997416000.0,2001
+New York Liberty,Charlotte Sting,New York Liberty,20,11,31,997502400.0,2001
+New York Liberty,New York Liberty,Washington Mystics,21,11,32,997761600.0,2001
+Orlando Miracle,Orlando Miracle,Los Angeles Sparks,0,1,1,991368000.0,2001
+Orlando Miracle,Detroit Shock,Orlando Miracle,1,1,2,991713600.0,2001
+Orlando Miracle,Utah Starzz,Orlando Miracle,1,2,3,991886400.0,2001
+Orlando Miracle,Orlando Miracle,Charlotte Sting,1,3,4,992059200.0,2001
+Orlando Miracle,Seattle Storm,Orlando Miracle,1,4,5,992318400.0,2001
+Orlando Miracle,Los Angeles Sparks,Orlando Miracle,1,5,6,992491200.0,2001
+Orlando Miracle,Phoenix Mercury,Orlando Miracle,1,6,7,992664000.0,2001
+Orlando Miracle,Indiana Fever,Orlando Miracle,2,6,8,992836800.0,2001
+Orlando Miracle,Orlando Miracle,Washington Mystics,3,6,9,993268800.0,2001
+Orlando Miracle,Orlando Miracle,New York Liberty,4,6,10,993441600.0,2001
+Orlando Miracle,Orlando Miracle,Cleveland Rockers,4,7,11,993614400.0,2001
+Orlando Miracle,New York Liberty,Orlando Miracle,4,8,12,993873600.0,2001
+Orlando Miracle,Washington Mystics,Orlando Miracle,4,9,13,993960000.0,2001
+Orlando Miracle,Orlando Miracle,Sacramento Monarchs,4,10,14,994392000.0,2001
+Orlando Miracle,Orlando Miracle,Detroit Shock,5,10,15,994564800.0,2001
+Orlando Miracle,Orlando Miracle,Miami Sol,5,11,16,994737600.0,2001
+Orlando Miracle,Charlotte Sting,Orlando Miracle,6,11,17,994910400.0,2001
+Orlando Miracle,Indiana Fever,Orlando Miracle,6,12,18,994996800.0,2001
+Orlando Miracle,Orlando Miracle,Houston Comets,7,12,19,995428800.0,2001
+Orlando Miracle,Charlotte Sting,Orlando Miracle,7,13,20,995601600.0,2001
+Orlando Miracle,Orlando Miracle,Minnesota Lynx,8,13,21,995688000.0,2001
+Orlando Miracle,Orlando Miracle,Washington Mystics,9,13,22,995947200.0,2001
+Orlando Miracle,Miami Sol,Orlando Miracle,9,14,23,996206400.0,2001
+Orlando Miracle,Detroit Shock,Orlando Miracle,9,15,24,996379200.0,2001
+Orlando Miracle,Cleveland Rockers,Orlando Miracle,9,16,25,996465600.0,2001
+Orlando Miracle,Orlando Miracle,Portland Fire,10,16,26,996638400.0,2001
+Orlando Miracle,Houston Comets,Orlando Miracle,10,17,27,996811200.0,2001
+Orlando Miracle,Orlando Miracle,Phoenix Mercury,11,17,28,996984000.0,2001
+Orlando Miracle,Orlando Miracle,Cleveland Rockers,12,17,29,997156800.0,2001
+Orlando Miracle,New York Liberty,Orlando Miracle,12,18,30,997416000.0,2001
+Orlando Miracle,Orlando Miracle,Miami Sol,12,19,31,997502400.0,2001
+Orlando Miracle,Orlando Miracle,Indiana Fever,13,19,32,997761600.0,2001
+Phoenix Mercury,Phoenix Mercury,Utah Starzz,0,1,1,991195200.0,2001
+Phoenix Mercury,Seattle Storm,Phoenix Mercury,0,2,2,991281600.0,2001
+Phoenix Mercury,Minnesota Lynx,Phoenix Mercury,1,2,3,991454400.0,2001
+Phoenix Mercury,Portland Fire,Phoenix Mercury,1,3,4,991627200.0,2001
+Phoenix Mercury,Phoenix Mercury,Charlotte Sting,2,3,5,991713600.0,2001
+Phoenix Mercury,Phoenix Mercury,Houston Comets,2,4,6,992145600.0,2001
+Phoenix Mercury,Phoenix Mercury,Sacramento Monarchs,3,4,7,992318400.0,2001
+Phoenix Mercury,Sacramento Monarchs,Phoenix Mercury,3,5,8,992491200.0,2001
+Phoenix Mercury,Phoenix Mercury,Orlando Miracle,4,5,9,992664000.0,2001
+Phoenix Mercury,Phoenix Mercury,New York Liberty,4,6,10,993096000.0,2001
+Phoenix Mercury,Phoenix Mercury,Seattle Storm,4,7,11,993182400.0,2001
+Phoenix Mercury,Detroit Shock,Phoenix Mercury,4,8,12,993787200.0,2001
+Phoenix Mercury,Indiana Fever,Phoenix Mercury,4,9,13,993960000.0,2001
+Phoenix Mercury,Phoenix Mercury,Miami Sol,5,9,14,994219200.0,2001
+Phoenix Mercury,Los Angeles Sparks,Phoenix Mercury,5,10,15,994305600.0,2001
+Phoenix Mercury,Phoenix Mercury,Washington Mystics,6,10,16,994478400.0,2001
+Phoenix Mercury,Phoenix Mercury,Los Angeles Sparks,6,11,17,994824000.0,2001
+Phoenix Mercury,Cleveland Rockers,Phoenix Mercury,6,12,18,994996800.0,2001
+Phoenix Mercury,Minnesota Lynx,Phoenix Mercury,7,12,19,995083200.0,2001
+Phoenix Mercury,Phoenix Mercury,Portland Fire,8,12,20,995515200.0,2001
+Phoenix Mercury,Phoenix Mercury,Utah Starzz,9,12,21,995688000.0,2001
+Phoenix Mercury,Phoenix Mercury,Detroit Shock,10,12,22,996120000.0,2001
+Phoenix Mercury,Seattle Storm,Phoenix Mercury,11,12,23,996206400.0,2001
+Phoenix Mercury,Sacramento Monarchs,Phoenix Mercury,11,13,24,996379200.0,2001
+Phoenix Mercury,Phoenix Mercury,Minnesota Lynx,11,14,25,996638400.0,2001
+Phoenix Mercury,Miami Sol,Phoenix Mercury,11,15,26,996811200.0,2001
+Phoenix Mercury,Orlando Miracle,Phoenix Mercury,11,16,27,996984000.0,2001
+Phoenix Mercury,Houston Comets,Phoenix Mercury,11,17,28,997070400.0,2001
+Phoenix Mercury,Los Angeles Sparks,Phoenix Mercury,11,18,29,997243200.0,2001
+Phoenix Mercury,Utah Starzz,Phoenix Mercury,11,19,30,997416000.0,2001
+Phoenix Mercury,Phoenix Mercury,Portland Fire,12,19,31,997502400.0,2001
+Phoenix Mercury,Phoenix Mercury,Houston Comets,13,19,32,997761600.0,2001
+Portland Fire,Portland Fire,Minnesota Lynx,0,1,1,991281600.0,2001
+Portland Fire,Utah Starzz,Portland Fire,1,1,2,991454400.0,2001
+Portland Fire,Portland Fire,Phoenix Mercury,2,1,3,991627200.0,2001
+Portland Fire,Portland Fire,Cleveland Rockers,3,1,4,992318400.0,2001
+Portland Fire,Sacramento Monarchs,Portland Fire,4,1,5,992664000.0,2001
+Portland Fire,Los Angeles Sparks,Portland Fire,4,2,6,992750400.0,2001
+Portland Fire,Portland Fire,Seattle Storm,5,2,7,992923200.0,2001
+Portland Fire,Portland Fire,Charlotte Sting,6,2,8,993182400.0,2001
+Portland Fire,Houston Comets,Portland Fire,6,3,9,993355200.0,2001
+Portland Fire,Cleveland Rockers,Portland Fire,6,4,10,993528000.0,2001
+Portland Fire,Indiana Fever,Portland Fire,7,4,11,993614400.0,2001
+Portland Fire,Miami Sol,Portland Fire,8,4,12,993787200.0,2001
+Portland Fire,Houston Comets,Portland Fire,8,5,13,994046400.0,2001
+Portland Fire,Portland Fire,Seattle Storm,8,6,14,994219200.0,2001
+Portland Fire,Portland Fire,Washington Mystics,9,6,15,994392000.0,2001
+Portland Fire,Portland Fire,Utah Starzz,9,7,16,994564800.0,2001
+Portland Fire,Minnesota Lynx,Portland Fire,9,8,17,994737600.0,2001
+Portland Fire,Portland Fire,Houston Comets,9,9,18,994910400.0,2001
+Portland Fire,Phoenix Mercury,Portland Fire,9,10,19,995515200.0,2001
+Portland Fire,Seattle Storm,Portland Fire,10,10,20,995601600.0,2001
+Portland Fire,Portland Fire,Detroit Shock,10,11,21,995774400.0,2001
+Portland Fire,Portland Fire,New York Liberty,11,11,22,995947200.0,2001
+Portland Fire,Sacramento Monarchs,Portland Fire,11,12,23,996206400.0,2001
+Portland Fire,Portland Fire,Los Angeles Sparks,11,13,24,996292800.0,2001
+Portland Fire,Portland Fire,Utah Starzz,11,14,25,996465600.0,2001
+Portland Fire,Orlando Miracle,Portland Fire,11,15,26,996638400.0,2001
+Portland Fire,Washington Mystics,Portland Fire,11,16,27,996811200.0,2001
+Portland Fire,Detroit Shock,Portland Fire,11,17,28,996897600.0,2001
+Portland Fire,Portland Fire,Minnesota Lynx,11,18,29,997243200.0,2001
+Portland Fire,Phoenix Mercury,Portland Fire,11,19,30,997502400.0,2001
+Portland Fire,Portland Fire,Sacramento Monarchs,11,20,31,997588800.0,2001
+Portland Fire,Portland Fire,Los Angeles Sparks,11,21,32,997761600.0,2001
+Sacramento Monarchs,Sacramento Monarchs,Cleveland Rockers,1,0,1,991454400.0,2001
+Sacramento Monarchs,New York Liberty,Sacramento Monarchs,2,0,2,991627200.0,2001
+Sacramento Monarchs,Washington Mystics,Sacramento Monarchs,2,1,3,991713600.0,2001
+Sacramento Monarchs,Sacramento Monarchs,Charlotte Sting,3,1,4,991886400.0,2001
+Sacramento Monarchs,Sacramento Monarchs,Miami Sol,3,2,5,992059200.0,2001
+Sacramento Monarchs,Phoenix Mercury,Sacramento Monarchs,3,3,6,992318400.0,2001
+Sacramento Monarchs,Sacramento Monarchs,Phoenix Mercury,4,3,7,992491200.0,2001
+Sacramento Monarchs,Sacramento Monarchs,Portland Fire,4,4,8,992664000.0,2001
+Sacramento Monarchs,Sacramento Monarchs,New York Liberty,4,5,9,992923200.0,2001
+Sacramento Monarchs,Utah Starzz,Sacramento Monarchs,5,5,10,993096000.0,2001
+Sacramento Monarchs,Houston Comets,Sacramento Monarchs,5,6,11,993268800.0,2001
+Sacramento Monarchs,Charlotte Sting,Sacramento Monarchs,6,6,12,993355200.0,2001
+Sacramento Monarchs,Sacramento Monarchs,Houston Comets,7,6,13,993700800.0,2001
+Sacramento Monarchs,Seattle Storm,Sacramento Monarchs,8,6,14,993873600.0,2001
+Sacramento Monarchs,Minnesota Lynx,Sacramento Monarchs,9,6,15,994132800.0,2001
+Sacramento Monarchs,Orlando Miracle,Sacramento Monarchs,10,6,16,994392000.0,2001
+Sacramento Monarchs,Miami Sol,Sacramento Monarchs,10,7,17,994478400.0,2001
+Sacramento Monarchs,Sacramento Monarchs,Houston Comets,11,7,18,994737600.0,2001
+Sacramento Monarchs,Sacramento Monarchs,Utah Starzz,12,7,19,994910400.0,2001
+Sacramento Monarchs,Utah Starzz,Sacramento Monarchs,12,8,20,995083200.0,2001
+Sacramento Monarchs,Sacramento Monarchs,Los Angeles Sparks,12,9,21,995515200.0,2001
+Sacramento Monarchs,Sacramento Monarchs,Detroit Shock,13,9,22,995688000.0,2001
+Sacramento Monarchs,Los Angeles Sparks,Sacramento Monarchs,13,10,23,996033600.0,2001
+Sacramento Monarchs,Sacramento Monarchs,Portland Fire,14,10,24,996206400.0,2001
+Sacramento Monarchs,Sacramento Monarchs,Phoenix Mercury,15,10,25,996379200.0,2001
+Sacramento Monarchs,Los Angeles Sparks,Sacramento Monarchs,15,11,26,996724800.0,2001
+Sacramento Monarchs,Sacramento Monarchs,Indiana Fever,16,11,27,996811200.0,2001
+Sacramento Monarchs,Minnesota Lynx,Sacramento Monarchs,16,12,28,996984000.0,2001
+Sacramento Monarchs,Sacramento Monarchs,Minnesota Lynx,17,12,29,997156800.0,2001
+Sacramento Monarchs,Sacramento Monarchs,Seattle Storm,18,12,30,997502400.0,2001
+Sacramento Monarchs,Portland Fire,Sacramento Monarchs,19,12,31,997588800.0,2001
+Sacramento Monarchs,Seattle Storm,Sacramento Monarchs,20,12,32,997761600.0,2001
+Seattle Storm,Seattle Storm,Phoenix Mercury,1,0,1,991281600.0,2001
+Seattle Storm,Washington Mystics,Seattle Storm,1,1,2,991540800.0,2001
+Seattle Storm,Indiana Fever,Seattle Storm,2,1,3,991627200.0,2001
+Seattle Storm,Seattle Storm,Miami Sol,2,2,4,991886400.0,2001
+Seattle Storm,Utah Starzz,Seattle Storm,3,2,5,992059200.0,2001
+Seattle Storm,Seattle Storm,Orlando Miracle,4,2,6,992318400.0,2001
+Seattle Storm,Seattle Storm,Cleveland Rockers,4,3,7,992491200.0,2001
+Seattle Storm,Seattle Storm,Los Angeles Sparks,4,4,8,992664000.0,2001
+Seattle Storm,Seattle Storm,Charlotte Sting,5,4,9,992836800.0,2001
+Seattle Storm,Portland Fire,Seattle Storm,5,5,10,992923200.0,2001
+Seattle Storm,Phoenix Mercury,Seattle Storm,6,5,11,993182400.0,2001
+Seattle Storm,Utah Starzz,Seattle Storm,7,5,12,993441600.0,2001
+Seattle Storm,Minnesota Lynx,Seattle Storm,7,6,13,993700800.0,2001
+Seattle Storm,Seattle Storm,Sacramento Monarchs,7,7,14,993873600.0,2001
+Seattle Storm,Seattle Storm,Washington Mystics,7,8,15,994132800.0,2001
+Seattle Storm,Portland Fire,Seattle Storm,8,8,16,994219200.0,2001
+Seattle Storm,Charlotte Sting,Seattle Storm,8,9,17,994478400.0,2001
+Seattle Storm,Cleveland Rockers,Seattle Storm,8,10,18,994737600.0,2001
+Seattle Storm,New York Liberty,Seattle Storm,8,11,19,994824000.0,2001
+Seattle Storm,Seattle Storm,Houston Comets,8,12,20,994996800.0,2001
+Seattle Storm,Minnesota Lynx,Seattle Storm,8,13,21,995428800.0,2001
+Seattle Storm,Seattle Storm,Portland Fire,8,14,22,995601600.0,2001
+Seattle Storm,Los Angeles Sparks,Seattle Storm,8,15,23,995688000.0,2001
+Seattle Storm,Seattle Storm,Detroit Shock,9,15,24,995947200.0,2001
+Seattle Storm,Seattle Storm,Phoenix Mercury,9,16,25,996206400.0,2001
+Seattle Storm,Houston Comets,Seattle Storm,9,17,26,996465600.0,2001
+Seattle Storm,Seattle Storm,Utah Starzz,9,18,27,996811200.0,2001
+Seattle Storm,Los Angeles Sparks,Seattle Storm,9,19,28,996897600.0,2001
+Seattle Storm,Seattle Storm,Houston Comets,10,19,29,997243200.0,2001
+Seattle Storm,Seattle Storm,Minnesota Lynx,10,20,30,997416000.0,2001
+Seattle Storm,Sacramento Monarchs,Seattle Storm,10,21,31,997502400.0,2001
+Seattle Storm,Seattle Storm,Sacramento Monarchs,10,22,32,997761600.0,2001
+Utah Starzz,Phoenix Mercury,Utah Starzz,1,0,1,991195200.0,2001
+Utah Starzz,Utah Starzz,Portland Fire,1,1,2,991454400.0,2001
+Utah Starzz,Utah Starzz,Houston Comets,1,2,3,991713600.0,2001
+Utah Starzz,Utah Starzz,Orlando Miracle,2,2,4,991886400.0,2001
+Utah Starzz,Utah Starzz,Seattle Storm,2,3,5,992059200.0,2001
+Utah Starzz,Charlotte Sting,Utah Starzz,3,3,6,992491200.0,2001
+Utah Starzz,Utah Starzz,Sacramento Monarchs,3,4,7,993096000.0,2001
+Utah Starzz,Utah Starzz,Minnesota Lynx,4,4,8,993268800.0,2001
+Utah Starzz,Utah Starzz,Seattle Storm,4,5,9,993441600.0,2001
+Utah Starzz,Miami Sol,Utah Starzz,5,5,10,993614400.0,2001
+Utah Starzz,Washington Mystics,Utah Starzz,5,6,11,993787200.0,2001
+Utah Starzz,Utah Starzz,Miami Sol,5,7,12,994046400.0,2001
+Utah Starzz,Los Angeles Sparks,Utah Starzz,5,8,13,994132800.0,2001
+Utah Starzz,Utah Starzz,Cleveland Rockers,6,8,14,994392000.0,2001
+Utah Starzz,Portland Fire,Utah Starzz,7,8,15,994564800.0,2001
+Utah Starzz,Utah Starzz,Los Angeles Sparks,7,9,16,994737600.0,2001
+Utah Starzz,Sacramento Monarchs,Utah Starzz,7,10,17,994910400.0,2001
+Utah Starzz,Utah Starzz,Sacramento Monarchs,8,10,18,995083200.0,2001
+Utah Starzz,Indiana Fever,Utah Starzz,9,10,19,995428800.0,2001
+Utah Starzz,Phoenix Mercury,Utah Starzz,9,11,20,995688000.0,2001
+Utah Starzz,Houston Comets,Utah Starzz,10,11,21,995947200.0,2001
+Utah Starzz,Utah Starzz,New York Liberty,11,11,22,996120000.0,2001
+Utah Starzz,Utah Starzz,Minnesota Lynx,12,11,23,996292800.0,2001
+Utah Starzz,Portland Fire,Utah Starzz,13,11,24,996465600.0,2001
+Utah Starzz,Houston Comets,Utah Starzz,14,11,25,996638400.0,2001
+Utah Starzz,Seattle Storm,Utah Starzz,15,11,26,996811200.0,2001
+Utah Starzz,Utah Starzz,Indiana Fever,16,11,27,996897600.0,2001
+Utah Starzz,Detroit Shock,Utah Starzz,17,11,28,997156800.0,2001
+Utah Starzz,New York Liberty,Utah Starzz,17,12,29,997243200.0,2001
+Utah Starzz,Utah Starzz,Phoenix Mercury,18,12,30,997416000.0,2001
+Utah Starzz,Minnesota Lynx,Utah Starzz,18,13,31,997588800.0,2001
+Utah Starzz,Utah Starzz,Los Angeles Sparks,19,13,32,997675200.0,2001
+Washington Mystics,Cleveland Rockers,Washington Mystics,0,1,1,991281600.0,2001
+Washington Mystics,Washington Mystics,Seattle Storm,1,1,2,991540800.0,2001
+Washington Mystics,Washington Mystics,Sacramento Monarchs,2,1,3,991713600.0,2001
+Washington Mystics,Washington Mystics,New York Liberty,2,2,4,992145600.0,2001
+Washington Mystics,Detroit Shock,Washington Mystics,2,3,5,992491200.0,2001
+Washington Mystics,New York Liberty,Washington Mystics,2,4,6,992664000.0,2001
+Washington Mystics,Washington Mystics,Cleveland Rockers,2,5,7,992750400.0,2001
+Washington Mystics,Washington Mystics,Miami Sol,2,6,8,993096000.0,2001
+Washington Mystics,Orlando Miracle,Washington Mystics,2,7,9,993268800.0,2001
+Washington Mystics,Washington Mystics,Minnesota Lynx,2,8,10,993441600.0,2001
+Washington Mystics,Houston Comets,Washington Mystics,2,9,11,993614400.0,2001
+Washington Mystics,Washington Mystics,Utah Starzz,3,9,12,993787200.0,2001
+Washington Mystics,Washington Mystics,Orlando Miracle,4,9,13,993960000.0,2001
+Washington Mystics,Seattle Storm,Washington Mystics,5,9,14,994132800.0,2001
+Washington Mystics,Portland Fire,Washington Mystics,5,10,15,994392000.0,2001
+Washington Mystics,Phoenix Mercury,Washington Mystics,5,11,16,994478400.0,2001
+Washington Mystics,Washington Mystics,Detroit Shock,5,12,17,994824000.0,2001
+Washington Mystics,Washington Mystics,Los Angeles Sparks,5,13,18,995083200.0,2001
+Washington Mystics,Indiana Fever,Washington Mystics,5,14,19,995601600.0,2001
+Washington Mystics,Washington Mystics,Indiana Fever,6,14,20,995774400.0,2001
+Washington Mystics,Orlando Miracle,Washington Mystics,6,15,21,995947200.0,2001
+Washington Mystics,Charlotte Sting,Washington Mystics,6,16,22,996120000.0,2001
+Washington Mystics,Minnesota Lynx,Washington Mystics,7,16,23,996206400.0,2001
+Washington Mystics,Washington Mystics,Charlotte Sting,8,16,24,996379200.0,2001
+Washington Mystics,Indiana Fever,Washington Mystics,8,17,25,996638400.0,2001
+Washington Mystics,Washington Mystics,Portland Fire,9,17,26,996811200.0,2001
+Washington Mystics,Miami Sol,Washington Mystics,9,18,27,996984000.0,2001
+Washington Mystics,Washington Mystics,Charlotte Sting,9,19,28,997070400.0,2001
+Washington Mystics,Washington Mystics,Miami Sol,9,20,29,997243200.0,2001
+Washington Mystics,Detroit Shock,Washington Mystics,9,21,30,997416000.0,2001
+Washington Mystics,Washington Mystics,Cleveland Rockers,10,21,31,997588800.0,2001
+Washington Mystics,New York Liberty,Washington Mystics,10,22,32,997761600.0,2001

@@ -1,0 +1,577 @@
+id,home_team,away_team,win,loss,game_number,date,year
+Boston Celtics,St. Louis Hawks,Boston Celtics,1,0,1,-384811200.0,1958
+Boston Celtics,Detroit Pistons,Boston Celtics,2,0,2,-384724800.0,1958
+Boston Celtics,New York Knicks,Boston Celtics,3,0,3,-384465600.0,1958
+Boston Celtics,Boston Celtics,Syracuse Nationals,4,0,4,-383857200.0,1958
+Boston Celtics,Boston Celtics,Syracuse Nationals,5,0,5,-383770800.0,1958
+Boston Celtics,Boston Celtics,Detroit Pistons,6,0,6,-383598000.0,1958
+Boston Celtics,Minneapolis Lakers,Boston Celtics,7,0,7,-383511600.0,1958
+Boston Celtics,Cincinnati Royals,Boston Celtics,8,0,8,-383338800.0,1958
+Boston Celtics,Boston Celtics,St. Louis Hawks,9,0,9,-383079600.0,1958
+Boston Celtics,Boston Celtics,Minneapolis Lakers,10,0,10,-382993200.0,1958
+Boston Celtics,Boston Celtics,Philadelphia Warriors,11,0,11,-382647600.0,1958
+Boston Celtics,Detroit Pistons,Boston Celtics,12,0,12,-382215600.0,1958
+Boston Celtics,Boston Celtics,Minneapolis Lakers,13,0,13,-382042800.0,1958
+Boston Celtics,Boston Celtics,New York Knicks,14,0,14,-381697200.0,1958
+Boston Celtics,Boston Celtics,New York Knicks,14,1,15,-381610800.0,1958
+Boston Celtics,Boston Celtics,Syracuse Nationals,15,1,16,-381438000.0,1958
+Boston Celtics,Syracuse Nationals,Boston Celtics,15,2,17,-381351600.0,1958
+Boston Celtics,Detroit Pistons,Boston Celtics,16,2,18,-381178800.0,1958
+Boston Celtics,Minneapolis Lakers,Boston Celtics,17,2,19,-381092400.0,1958
+Boston Celtics,Boston Celtics,St. Louis Hawks,18,2,20,-380919600.0,1958
+Boston Celtics,Philadelphia Warriors,Boston Celtics,19,2,21,-380833200.0,1958
+Boston Celtics,New York Knicks,Boston Celtics,19,3,22,-380574000.0,1958
+Boston Celtics,Boston Celtics,Cincinnati Royals,20,3,23,-380487600.0,1958
+Boston Celtics,Boston Celtics,St. Louis Hawks,20,4,24,-380401200.0,1958
+Boston Celtics,Boston Celtics,Philadelphia Warriors,21,4,25,-380228400.0,1958
+Boston Celtics,Boston Celtics,Minneapolis Lakers,22,4,26,-379623600.0,1958
+Boston Celtics,Cincinnati Royals,Boston Celtics,23,4,27,-379537200.0,1958
+Boston Celtics,Philadelphia Warriors,Boston Celtics,23,5,28,-379278000.0,1958
+Boston Celtics,Boston Celtics,New York Knicks,24,5,29,-379191600.0,1958
+Boston Celtics,Boston Celtics,Philadelphia Warriors,24,6,30,-379105200.0,1958
+Boston Celtics,St. Louis Hawks,Boston Celtics,24,7,31,-379018800.0,1958
+Boston Celtics,Syracuse Nationals,Boston Celtics,24,8,32,-378414000.0,1958
+Boston Celtics,Boston Celtics,Minneapolis Lakers,25,8,33,-378327600.0,1958
+Boston Celtics,Minneapolis Lakers,Boston Celtics,26,8,34,-378068400.0,1958
+Boston Celtics,Boston Celtics,New York Knicks,26,9,35,-377982000.0,1958
+Boston Celtics,St. Louis Hawks,Boston Celtics,26,10,36,-377809200.0,1958
+Boston Celtics,Cincinnati Royals,Boston Celtics,26,11,37,-377722800.0,1958
+Boston Celtics,Boston Celtics,Detroit Pistons,27,11,38,-377463600.0,1958
+Boston Celtics,Boston Celtics,Syracuse Nationals,28,11,39,-377290800.0,1958
+Boston Celtics,Philadelphia Warriors,Boston Celtics,28,12,40,-377204400.0,1958
+Boston Celtics,Boston Celtics,Philadelphia Warriors,29,12,41,-377118000.0,1958
+Boston Celtics,Minneapolis Lakers,Boston Celtics,30,12,42,-376858800.0,1958
+Boston Celtics,Boston Celtics,New York Knicks,31,12,43,-376686000.0,1958
+Boston Celtics,Syracuse Nationals,Boston Celtics,31,13,44,-376599600.0,1958
+Boston Celtics,Boston Celtics,Syracuse Nationals,32,13,45,-376513200.0,1958
+Boston Celtics,Boston Celtics,St. Louis Hawks,33,13,46,-376254000.0,1958
+Boston Celtics,Philadelphia Warriors,Boston Celtics,33,14,47,-376167600.0,1958
+Boston Celtics,Boston Celtics,Philadelphia Warriors,33,15,48,-376081200.0,1958
+Boston Celtics,New York Knicks,Boston Celtics,34,15,49,-375994800.0,1958
+Boston Celtics,Boston Celtics,Detroit Pistons,35,15,50,-375908400.0,1958
+Boston Celtics,Boston Celtics,Cincinnati Royals,36,15,51,-375735600.0,1958
+Boston Celtics,Boston Celtics,Cincinnati Royals,37,15,52,-375649200.0,1958
+Boston Celtics,Boston Celtics,Minneapolis Lakers,38,15,53,-375476400.0,1958
+Boston Celtics,Boston Celtics,Cincinnati Royals,39,15,54,-375390000.0,1958
+Boston Celtics,Syracuse Nationals,Boston Celtics,39,16,55,-375303600.0,1958
+Boston Celtics,Boston Celtics,Syracuse Nationals,39,17,56,-375130800.0,1958
+Boston Celtics,Boston Celtics,Syracuse Nationals,40,17,57,-375044400.0,1958
+Boston Celtics,Boston Celtics,Detroit Pistons,40,18,58,-374871600.0,1958
+Boston Celtics,Philadelphia Warriors,Boston Celtics,41,18,59,-374785200.0,1958
+Boston Celtics,New York Knicks,Boston Celtics,42,18,60,-374526000.0,1958
+Boston Celtics,Boston Celtics,Philadelphia Warriors,42,19,61,-374439600.0,1958
+Boston Celtics,Boston Celtics,Cincinnati Royals,43,19,62,-374353200.0,1958
+Boston Celtics,St. Louis Hawks,Boston Celtics,43,20,63,-374266800.0,1958
+Boston Celtics,Boston Celtics,Philadelphia Warriors,44,20,64,-374094000.0,1958
+Boston Celtics,Detroit Pistons,Boston Celtics,45,20,65,-373834800.0,1958
+Boston Celtics,Syracuse Nationals,Boston Celtics,46,20,66,-373489200.0,1958
+Boston Celtics,New York Knicks,Boston Celtics,46,21,67,-373316400.0,1958
+Boston Celtics,Boston Celtics,St. Louis Hawks,47,21,68,-373230000.0,1958
+Boston Celtics,Boston Celtics,Detroit Pistons,48,21,69,-372970800.0,1958
+Boston Celtics,Boston Celtics,Cincinnati Royals,48,22,70,-372884400.0,1958
+Boston Celtics,Boston Celtics,New York Knicks,49,22,71,-372711600.0,1958
+Boston Celtics,Boston Celtics,New York Knicks,49,23,72,-372625200.0,1958
+Cincinnati Royals,Cincinnati Royals,Syracuse Nationals,1,0,1,-384465600.0,1958
+Cincinnati Royals,Cincinnati Royals,St. Louis Hawks,2,0,2,-383943600.0,1958
+Cincinnati Royals,St. Louis Hawks,Cincinnati Royals,2,1,3,-383857200.0,1958
+Cincinnati Royals,Cincinnati Royals,Detroit Pistons,2,2,4,-383770800.0,1958
+Cincinnati Royals,Cincinnati Royals,Boston Celtics,2,3,5,-383338800.0,1958
+Cincinnati Royals,Cincinnati Royals,Philadelphia Warriors,2,4,6,-383166000.0,1958
+Cincinnati Royals,Cincinnati Royals,New York Knicks,3,4,7,-382734000.0,1958
+Cincinnati Royals,Cincinnati Royals,St. Louis Hawks,3,5,8,-382561200.0,1958
+Cincinnati Royals,Cincinnati Royals,Detroit Pistons,4,5,9,-382388400.0,1958
+Cincinnati Royals,Philadelphia Warriors,Cincinnati Royals,5,5,10,-382302000.0,1958
+Cincinnati Royals,Syracuse Nationals,Cincinnati Royals,6,5,11,-382129200.0,1958
+Cincinnati Royals,Cincinnati Royals,Minneapolis Lakers,7,5,12,-381697200.0,1958
+Cincinnati Royals,St. Louis Hawks,Cincinnati Royals,7,6,13,-381610800.0,1958
+Cincinnati Royals,Cincinnati Royals,Detroit Pistons,8,6,14,-381524400.0,1958
+Cincinnati Royals,Detroit Pistons,Cincinnati Royals,8,7,15,-381438000.0,1958
+Cincinnati Royals,Cincinnati Royals,Minneapolis Lakers,9,7,16,-381351600.0,1958
+Cincinnati Royals,New York Knicks,Cincinnati Royals,9,8,17,-381178800.0,1958
+Cincinnati Royals,Cincinnati Royals,Detroit Pistons,10,8,18,-381006000.0,1958
+Cincinnati Royals,Cincinnati Royals,New York Knicks,10,9,19,-380919600.0,1958
+Cincinnati Royals,Detroit Pistons,Cincinnati Royals,10,10,20,-380833200.0,1958
+Cincinnati Royals,Cincinnati Royals,Philadelphia Warriors,11,10,21,-380746800.0,1958
+Cincinnati Royals,Cincinnati Royals,St. Louis Hawks,11,11,22,-380574000.0,1958
+Cincinnati Royals,Boston Celtics,Cincinnati Royals,11,12,23,-380487600.0,1958
+Cincinnati Royals,Cincinnati Royals,Syracuse Nationals,11,13,24,-380228400.0,1958
+Cincinnati Royals,Syracuse Nationals,Cincinnati Royals,11,14,25,-380142000.0,1958
+Cincinnati Royals,Cincinnati Royals,Syracuse Nationals,11,15,26,-379710000.0,1958
+Cincinnati Royals,Detroit Pistons,Cincinnati Royals,11,16,27,-379623600.0,1958
+Cincinnati Royals,Cincinnati Royals,Boston Celtics,11,17,28,-379537200.0,1958
+Cincinnati Royals,Cincinnati Royals,Syracuse Nationals,11,18,29,-379191600.0,1958
+Cincinnati Royals,Cincinnati Royals,St. Louis Hawks,11,19,30,-379105200.0,1958
+Cincinnati Royals,Minneapolis Lakers,Cincinnati Royals,12,19,31,-379018800.0,1958
+Cincinnati Royals,Cincinnati Royals,Minneapolis Lakers,12,20,32,-378932400.0,1958
+Cincinnati Royals,Cincinnati Royals,Detroit Pistons,13,20,33,-378759600.0,1958
+Cincinnati Royals,Cincinnati Royals,Philadelphia Warriors,14,20,34,-378500400.0,1958
+Cincinnati Royals,New York Knicks,Cincinnati Royals,15,20,35,-378327600.0,1958
+Cincinnati Royals,Cincinnati Royals,Detroit Pistons,16,20,36,-378154800.0,1958
+Cincinnati Royals,Cincinnati Royals,New York Knicks,16,21,37,-378068400.0,1958
+Cincinnati Royals,Cincinnati Royals,New York Knicks,17,21,38,-377895600.0,1958
+Cincinnati Royals,Cincinnati Royals,Syracuse Nationals,18,21,39,-377809200.0,1958
+Cincinnati Royals,Cincinnati Royals,Boston Celtics,19,21,40,-377722800.0,1958
+Cincinnati Royals,Cincinnati Royals,New York Knicks,20,21,41,-377550000.0,1958
+Cincinnati Royals,Cincinnati Royals,Minneapolis Lakers,21,21,42,-377377200.0,1958
+Cincinnati Royals,Detroit Pistons,Cincinnati Royals,21,22,43,-377290800.0,1958
+Cincinnati Royals,St. Louis Hawks,Cincinnati Royals,21,23,44,-377118000.0,1958
+Cincinnati Royals,Syracuse Nationals,Cincinnati Royals,22,23,45,-376858800.0,1958
+Cincinnati Royals,Cincinnati Royals,Philadelphia Warriors,22,24,46,-376686000.0,1958
+Cincinnati Royals,Cincinnati Royals,Detroit Pistons,23,24,47,-376513200.0,1958
+Cincinnati Royals,Minneapolis Lakers,Cincinnati Royals,23,25,48,-376167600.0,1958
+Cincinnati Royals,Cincinnati Royals,St. Louis Hawks,24,25,49,-376081200.0,1958
+Cincinnati Royals,St. Louis Hawks,Cincinnati Royals,24,26,50,-375994800.0,1958
+Cincinnati Royals,Minneapolis Lakers,Cincinnati Royals,24,27,51,-375908400.0,1958
+Cincinnati Royals,Boston Celtics,Cincinnati Royals,24,28,52,-375735600.0,1958
+Cincinnati Royals,Boston Celtics,Cincinnati Royals,24,29,53,-375649200.0,1958
+Cincinnati Royals,Philadelphia Warriors,Cincinnati Royals,25,29,54,-375476400.0,1958
+Cincinnati Royals,Boston Celtics,Cincinnati Royals,25,30,55,-375390000.0,1958
+Cincinnati Royals,Cincinnati Royals,Minneapolis Lakers,26,30,56,-375303600.0,1958
+Cincinnati Royals,Cincinnati Royals,Minneapolis Lakers,27,30,57,-375130800.0,1958
+Cincinnati Royals,Cincinnati Royals,New York Knicks,27,31,58,-374871600.0,1958
+Cincinnati Royals,New York Knicks,Cincinnati Royals,27,32,59,-374785200.0,1958
+Cincinnati Royals,Syracuse Nationals,Cincinnati Royals,27,33,60,-374698800.0,1958
+Cincinnati Royals,Boston Celtics,Cincinnati Royals,27,34,61,-374353200.0,1958
+Cincinnati Royals,Cincinnati Royals,Detroit Pistons,27,35,62,-374266800.0,1958
+Cincinnati Royals,Minneapolis Lakers,Cincinnati Royals,27,36,63,-374180400.0,1958
+Cincinnati Royals,Cincinnati Royals,Minneapolis Lakers,28,36,64,-374094000.0,1958
+Cincinnati Royals,Cincinnati Royals,St. Louis Hawks,28,37,65,-373834800.0,1958
+Cincinnati Royals,Philadelphia Warriors,Cincinnati Royals,29,37,66,-373575600.0,1958
+Cincinnati Royals,St. Louis Hawks,Cincinnati Royals,29,38,67,-373489200.0,1958
+Cincinnati Royals,Cincinnati Royals,Philadelphia Warriors,29,39,68,-373316400.0,1958
+Cincinnati Royals,Philadelphia Warriors,Cincinnati Royals,30,39,69,-373143600.0,1958
+Cincinnati Royals,Boston Celtics,Cincinnati Royals,31,39,70,-372884400.0,1958
+Cincinnati Royals,Cincinnati Royals,St. Louis Hawks,32,39,71,-372798000.0,1958
+Cincinnati Royals,Minneapolis Lakers,Cincinnati Royals,33,39,72,-372625200.0,1958
+Detroit Pistons,Detroit Pistons,Boston Celtics,0,1,1,-384724800.0,1958
+Detroit Pistons,Detroit Pistons,Philadelphia Warriors,0,2,2,-384465600.0,1958
+Detroit Pistons,Minneapolis Lakers,Detroit Pistons,1,2,3,-384116400.0,1958
+Detroit Pistons,Cincinnati Royals,Detroit Pistons,2,2,4,-383770800.0,1958
+Detroit Pistons,Boston Celtics,Detroit Pistons,2,3,5,-383598000.0,1958
+Detroit Pistons,Detroit Pistons,New York Knicks,3,3,6,-382993200.0,1958
+Detroit Pistons,Detroit Pistons,Minneapolis Lakers,3,4,7,-382734000.0,1958
+Detroit Pistons,New York Knicks,Detroit Pistons,4,4,8,-382647600.0,1958
+Detroit Pistons,Philadelphia Warriors,Detroit Pistons,5,4,9,-382561200.0,1958
+Detroit Pistons,Cincinnati Royals,Detroit Pistons,5,5,10,-382388400.0,1958
+Detroit Pistons,Detroit Pistons,Boston Celtics,5,6,11,-382215600.0,1958
+Detroit Pistons,St. Louis Hawks,Detroit Pistons,5,7,12,-382042800.0,1958
+Detroit Pistons,Detroit Pistons,Minneapolis Lakers,6,7,13,-381783600.0,1958
+Detroit Pistons,Detroit Pistons,St. Louis Hawks,6,8,14,-381697200.0,1958
+Detroit Pistons,Cincinnati Royals,Detroit Pistons,6,9,15,-381524400.0,1958
+Detroit Pistons,Detroit Pistons,Cincinnati Royals,7,9,16,-381438000.0,1958
+Detroit Pistons,New York Knicks,Detroit Pistons,7,10,17,-381351600.0,1958
+Detroit Pistons,Detroit Pistons,Boston Celtics,7,11,18,-381178800.0,1958
+Detroit Pistons,Cincinnati Royals,Detroit Pistons,7,12,19,-381006000.0,1958
+Detroit Pistons,Syracuse Nationals,Detroit Pistons,7,13,20,-380919600.0,1958
+Detroit Pistons,Detroit Pistons,Cincinnati Royals,8,13,21,-380833200.0,1958
+Detroit Pistons,Detroit Pistons,Philadelphia Warriors,8,14,22,-380574000.0,1958
+Detroit Pistons,Philadelphia Warriors,Detroit Pistons,9,14,23,-380401200.0,1958
+Detroit Pistons,Detroit Pistons,New York Knicks,9,15,24,-380142000.0,1958
+Detroit Pistons,Detroit Pistons,St. Louis Hawks,9,16,25,-379969200.0,1958
+Detroit Pistons,Detroit Pistons,Cincinnati Royals,10,16,26,-379623600.0,1958
+Detroit Pistons,Syracuse Nationals,Detroit Pistons,10,17,27,-379537200.0,1958
+Detroit Pistons,Detroit Pistons,Minneapolis Lakers,10,18,28,-379278000.0,1958
+Detroit Pistons,St. Louis Hawks,Detroit Pistons,11,18,29,-379191600.0,1958
+Detroit Pistons,New York Knicks,Detroit Pistons,11,19,30,-379105200.0,1958
+Detroit Pistons,Detroit Pistons,Syracuse Nationals,12,19,31,-379018800.0,1958
+Detroit Pistons,Cincinnati Royals,Detroit Pistons,12,20,32,-378759600.0,1958
+Detroit Pistons,Detroit Pistons,Philadelphia Warriors,13,20,33,-378414000.0,1958
+Detroit Pistons,St. Louis Hawks,Detroit Pistons,13,21,34,-378327600.0,1958
+Detroit Pistons,Cincinnati Royals,Detroit Pistons,13,22,35,-378154800.0,1958
+Detroit Pistons,Detroit Pistons,Syracuse Nationals,14,22,36,-378068400.0,1958
+Detroit Pistons,Detroit Pistons,Minneapolis Lakers,14,23,37,-377895600.0,1958
+Detroit Pistons,Detroit Pistons,Minneapolis Lakers,15,23,38,-377809200.0,1958
+Detroit Pistons,Syracuse Nationals,Detroit Pistons,15,24,39,-377722800.0,1958
+Detroit Pistons,Boston Celtics,Detroit Pistons,15,25,40,-377463600.0,1958
+Detroit Pistons,Philadelphia Warriors,Detroit Pistons,16,25,41,-377377200.0,1958
+Detroit Pistons,Detroit Pistons,Cincinnati Royals,17,25,42,-377290800.0,1958
+Detroit Pistons,St. Louis Hawks,Detroit Pistons,17,26,43,-377204400.0,1958
+Detroit Pistons,Minneapolis Lakers,Detroit Pistons,17,27,44,-377118000.0,1958
+Detroit Pistons,Detroit Pistons,New York Knicks,17,28,45,-376858800.0,1958
+Detroit Pistons,Minneapolis Lakers,Detroit Pistons,17,29,46,-376772400.0,1958
+Detroit Pistons,Detroit Pistons,St. Louis Hawks,18,29,47,-376599600.0,1958
+Detroit Pistons,Cincinnati Royals,Detroit Pistons,18,30,48,-376513200.0,1958
+Detroit Pistons,Detroit Pistons,Philadelphia Warriors,19,30,49,-376426800.0,1958
+Detroit Pistons,Detroit Pistons,Syracuse Nationals,20,30,50,-376167600.0,1958
+Detroit Pistons,Detroit Pistons,New York Knicks,21,30,51,-376081200.0,1958
+Detroit Pistons,Detroit Pistons,Philadelphia Warriors,21,31,52,-375994800.0,1958
+Detroit Pistons,Boston Celtics,Detroit Pistons,21,32,53,-375908400.0,1958
+Detroit Pistons,Detroit Pistons,Syracuse Nationals,22,32,54,-375735600.0,1958
+Detroit Pistons,Detroit Pistons,St. Louis Hawks,23,32,55,-375476400.0,1958
+Detroit Pistons,Detroit Pistons,New York Knicks,23,33,56,-375303600.0,1958
+Detroit Pistons,Philadelphia Warriors,Detroit Pistons,23,34,57,-375130800.0,1958
+Detroit Pistons,Detroit Pistons,St. Louis Hawks,23,35,58,-375044400.0,1958
+Detroit Pistons,Boston Celtics,Detroit Pistons,24,35,59,-374871600.0,1958
+Detroit Pistons,Detroit Pistons,Minneapolis Lakers,24,36,60,-374785200.0,1958
+Detroit Pistons,St. Louis Hawks,Detroit Pistons,25,36,61,-374698800.0,1958
+Detroit Pistons,Detroit Pistons,Syracuse Nationals,26,36,62,-374526000.0,1958
+Detroit Pistons,Minneapolis Lakers,Detroit Pistons,27,36,63,-374439600.0,1958
+Detroit Pistons,Cincinnati Royals,Detroit Pistons,28,36,64,-374266800.0,1958
+Detroit Pistons,Detroit Pistons,St. Louis Hawks,29,36,65,-374180400.0,1958
+Detroit Pistons,Detroit Pistons,St. Louis Hawks,30,36,66,-373921200.0,1958
+Detroit Pistons,Detroit Pistons,Boston Celtics,30,37,67,-373834800.0,1958
+Detroit Pistons,Detroit Pistons,Minneapolis Lakers,31,37,68,-373748400.0,1958
+Detroit Pistons,New York Knicks,Detroit Pistons,32,37,69,-373575600.0,1958
+Detroit Pistons,Minneapolis Lakers,Detroit Pistons,33,37,70,-373143600.0,1958
+Detroit Pistons,Boston Celtics,Detroit Pistons,33,38,71,-372970800.0,1958
+Detroit Pistons,Syracuse Nationals,Detroit Pistons,33,39,72,-372884400.0,1958
+Minneapolis Lakers,St. Louis Hawks,Minneapolis Lakers,0,1,1,-384465600.0,1958
+Minneapolis Lakers,Minneapolis Lakers,Detroit Pistons,0,2,2,-384116400.0,1958
+Minneapolis Lakers,Syracuse Nationals,Minneapolis Lakers,0,3,3,-383943600.0,1958
+Minneapolis Lakers,Philadelphia Warriors,Minneapolis Lakers,0,4,4,-383857200.0,1958
+Minneapolis Lakers,Minneapolis Lakers,Boston Celtics,0,5,5,-383511600.0,1958
+Minneapolis Lakers,Minneapolis Lakers,Philadelphia Warriors,0,6,6,-383338800.0,1958
+Minneapolis Lakers,Boston Celtics,Minneapolis Lakers,0,7,7,-382993200.0,1958
+Minneapolis Lakers,Minneapolis Lakers,New York Knicks,1,7,8,-382906800.0,1958
+Minneapolis Lakers,Detroit Pistons,Minneapolis Lakers,2,7,9,-382734000.0,1958
+Minneapolis Lakers,Minneapolis Lakers,Syracuse Nationals,2,8,10,-382561200.0,1958
+Minneapolis Lakers,Minneapolis Lakers,New York Knicks,2,9,11,-382302000.0,1958
+Minneapolis Lakers,Minneapolis Lakers,New York Knicks,2,10,12,-382215600.0,1958
+Minneapolis Lakers,Boston Celtics,Minneapolis Lakers,2,11,13,-382042800.0,1958
+Minneapolis Lakers,Philadelphia Warriors,Minneapolis Lakers,2,12,14,-381956400.0,1958
+Minneapolis Lakers,Detroit Pistons,Minneapolis Lakers,2,13,15,-381783600.0,1958
+Minneapolis Lakers,Cincinnati Royals,Minneapolis Lakers,2,14,16,-381697200.0,1958
+Minneapolis Lakers,Minneapolis Lakers,St. Louis Hawks,3,14,17,-381438000.0,1958
+Minneapolis Lakers,Cincinnati Royals,Minneapolis Lakers,3,15,18,-381351600.0,1958
+Minneapolis Lakers,Minneapolis Lakers,St. Louis Hawks,3,16,19,-381178800.0,1958
+Minneapolis Lakers,Minneapolis Lakers,Boston Celtics,3,17,20,-381092400.0,1958
+Minneapolis Lakers,Minneapolis Lakers,Syracuse Nationals,4,17,21,-380833200.0,1958
+Minneapolis Lakers,Minneapolis Lakers,Syracuse Nationals,4,18,22,-380574000.0,1958
+Minneapolis Lakers,Minneapolis Lakers,Syracuse Nationals,5,18,23,-380487600.0,1958
+Minneapolis Lakers,Minneapolis Lakers,St. Louis Hawks,5,19,24,-380142000.0,1958
+Minneapolis Lakers,Minneapolis Lakers,Philadelphia Warriors,6,19,25,-379882800.0,1958
+Minneapolis Lakers,Boston Celtics,Minneapolis Lakers,6,20,26,-379623600.0,1958
+Minneapolis Lakers,St. Louis Hawks,Minneapolis Lakers,6,21,27,-379537200.0,1958
+Minneapolis Lakers,Detroit Pistons,Minneapolis Lakers,7,21,28,-379278000.0,1958
+Minneapolis Lakers,Minneapolis Lakers,Cincinnati Royals,7,22,29,-379018800.0,1958
+Minneapolis Lakers,Cincinnati Royals,Minneapolis Lakers,8,22,30,-378932400.0,1958
+Minneapolis Lakers,Minneapolis Lakers,St. Louis Hawks,8,23,31,-378846000.0,1958
+Minneapolis Lakers,New York Knicks,Minneapolis Lakers,8,24,32,-378759600.0,1958
+Minneapolis Lakers,Syracuse Nationals,Minneapolis Lakers,8,25,33,-378673200.0,1958
+Minneapolis Lakers,Boston Celtics,Minneapolis Lakers,8,26,34,-378327600.0,1958
+Minneapolis Lakers,Minneapolis Lakers,Boston Celtics,8,27,35,-378068400.0,1958
+Minneapolis Lakers,Syracuse Nationals,Minneapolis Lakers,8,28,36,-377982000.0,1958
+Minneapolis Lakers,Detroit Pistons,Minneapolis Lakers,9,28,37,-377895600.0,1958
+Minneapolis Lakers,Detroit Pistons,Minneapolis Lakers,9,29,38,-377809200.0,1958
+Minneapolis Lakers,St. Louis Hawks,Minneapolis Lakers,9,30,39,-377722800.0,1958
+Minneapolis Lakers,Cincinnati Royals,Minneapolis Lakers,9,31,40,-377377200.0,1958
+Minneapolis Lakers,Minneapolis Lakers,St. Louis Hawks,10,31,41,-377290800.0,1958
+Minneapolis Lakers,Minneapolis Lakers,Detroit Pistons,11,31,42,-377118000.0,1958
+Minneapolis Lakers,Minneapolis Lakers,Boston Celtics,11,32,43,-376858800.0,1958
+Minneapolis Lakers,Minneapolis Lakers,Detroit Pistons,12,32,44,-376772400.0,1958
+Minneapolis Lakers,New York Knicks,Minneapolis Lakers,12,33,45,-376599600.0,1958
+Minneapolis Lakers,Minneapolis Lakers,New York Knicks,12,34,46,-376513200.0,1958
+Minneapolis Lakers,Minneapolis Lakers,New York Knicks,12,35,47,-376426800.0,1958
+Minneapolis Lakers,Minneapolis Lakers,Cincinnati Royals,13,35,48,-376167600.0,1958
+Minneapolis Lakers,Minneapolis Lakers,Syracuse Nationals,13,36,49,-375994800.0,1958
+Minneapolis Lakers,Minneapolis Lakers,Cincinnati Royals,14,36,50,-375908400.0,1958
+Minneapolis Lakers,Minneapolis Lakers,Philadelphia Warriors,14,37,51,-375735600.0,1958
+Minneapolis Lakers,Minneapolis Lakers,Philadelphia Warriors,14,38,52,-375649200.0,1958
+Minneapolis Lakers,Boston Celtics,Minneapolis Lakers,14,39,53,-375476400.0,1958
+Minneapolis Lakers,New York Knicks,Minneapolis Lakers,14,40,54,-375390000.0,1958
+Minneapolis Lakers,Cincinnati Royals,Minneapolis Lakers,14,41,55,-375303600.0,1958
+Minneapolis Lakers,Cincinnati Royals,Minneapolis Lakers,14,42,56,-375130800.0,1958
+Minneapolis Lakers,Minneapolis Lakers,New York Knicks,14,43,57,-375044400.0,1958
+Minneapolis Lakers,Minneapolis Lakers,St. Louis Hawks,14,44,58,-374871600.0,1958
+Minneapolis Lakers,Detroit Pistons,Minneapolis Lakers,15,44,59,-374785200.0,1958
+Minneapolis Lakers,Minneapolis Lakers,Philadelphia Warriors,16,44,60,-374698800.0,1958
+Minneapolis Lakers,St. Louis Hawks,Minneapolis Lakers,16,45,61,-374526000.0,1958
+Minneapolis Lakers,Minneapolis Lakers,Detroit Pistons,16,46,62,-374439600.0,1958
+Minneapolis Lakers,Minneapolis Lakers,Cincinnati Royals,17,46,63,-374180400.0,1958
+Minneapolis Lakers,Cincinnati Royals,Minneapolis Lakers,17,47,64,-374094000.0,1958
+Minneapolis Lakers,Minneapolis Lakers,Philadelphia Warriors,17,48,65,-374007600.0,1958
+Minneapolis Lakers,Syracuse Nationals,Minneapolis Lakers,17,49,66,-373834800.0,1958
+Minneapolis Lakers,Detroit Pistons,Minneapolis Lakers,17,50,67,-373748400.0,1958
+Minneapolis Lakers,Minneapolis Lakers,Philadelphia Warriors,18,50,68,-373489200.0,1958
+Minneapolis Lakers,Minneapolis Lakers,Detroit Pistons,18,51,69,-373143600.0,1958
+Minneapolis Lakers,St. Louis Hawks,Minneapolis Lakers,18,52,70,-372970800.0,1958
+Minneapolis Lakers,Minneapolis Lakers,St. Louis Hawks,19,52,71,-372884400.0,1958
+Minneapolis Lakers,Minneapolis Lakers,Cincinnati Royals,19,53,72,-372625200.0,1958
+New York Knicks,New York Knicks,St. Louis Hawks,1,0,1,-384724800.0,1958
+New York Knicks,New York Knicks,Boston Celtics,1,1,2,-384465600.0,1958
+New York Knicks,New York Knicks,Philadelphia Warriors,2,1,3,-383770800.0,1958
+New York Knicks,Philadelphia Warriors,New York Knicks,2,2,4,-383425200.0,1958
+New York Knicks,Syracuse Nationals,New York Knicks,3,2,5,-383338800.0,1958
+New York Knicks,Detroit Pistons,New York Knicks,3,3,6,-382993200.0,1958
+New York Knicks,Minneapolis Lakers,New York Knicks,3,4,7,-382906800.0,1958
+New York Knicks,Cincinnati Royals,New York Knicks,3,5,8,-382734000.0,1958
+New York Knicks,New York Knicks,Detroit Pistons,3,6,9,-382647600.0,1958
+New York Knicks,St. Louis Hawks,New York Knicks,3,7,10,-382388400.0,1958
+New York Knicks,Minneapolis Lakers,New York Knicks,4,7,11,-382302000.0,1958
+New York Knicks,Minneapolis Lakers,New York Knicks,5,7,12,-382215600.0,1958
+New York Knicks,New York Knicks,Syracuse Nationals,5,8,13,-382042800.0,1958
+New York Knicks,New York Knicks,St. Louis Hawks,5,9,14,-381783600.0,1958
+New York Knicks,Boston Celtics,New York Knicks,5,10,15,-381697200.0,1958
+New York Knicks,Boston Celtics,New York Knicks,6,10,16,-381610800.0,1958
+New York Knicks,Philadelphia Warriors,New York Knicks,6,11,17,-381438000.0,1958
+New York Knicks,New York Knicks,Detroit Pistons,7,11,18,-381351600.0,1958
+New York Knicks,New York Knicks,Cincinnati Royals,8,11,19,-381178800.0,1958
+New York Knicks,Cincinnati Royals,New York Knicks,9,11,20,-380919600.0,1958
+New York Knicks,St. Louis Hawks,New York Knicks,10,11,21,-380746800.0,1958
+New York Knicks,New York Knicks,Boston Celtics,11,11,22,-380574000.0,1958
+New York Knicks,New York Knicks,St. Louis Hawks,11,12,23,-380487600.0,1958
+New York Knicks,St. Louis Hawks,New York Knicks,11,13,24,-380228400.0,1958
+New York Knicks,Detroit Pistons,New York Knicks,12,13,25,-380142000.0,1958
+New York Knicks,New York Knicks,Syracuse Nationals,13,13,26,-379969200.0,1958
+New York Knicks,New York Knicks,Philadelphia Warriors,14,13,27,-379537200.0,1958
+New York Knicks,Syracuse Nationals,New York Knicks,14,14,28,-379278000.0,1958
+New York Knicks,Boston Celtics,New York Knicks,14,15,29,-379191600.0,1958
+New York Knicks,New York Knicks,Detroit Pistons,15,15,30,-379105200.0,1958
+New York Knicks,Philadelphia Warriors,New York Knicks,15,16,31,-379018800.0,1958
+New York Knicks,New York Knicks,Minneapolis Lakers,16,16,32,-378759600.0,1958
+New York Knicks,New York Knicks,Syracuse Nationals,17,16,33,-378586800.0,1958
+New York Knicks,New York Knicks,Cincinnati Royals,17,17,34,-378327600.0,1958
+New York Knicks,New York Knicks,St. Louis Hawks,17,18,35,-378154800.0,1958
+New York Knicks,Cincinnati Royals,New York Knicks,18,18,36,-378068400.0,1958
+New York Knicks,Boston Celtics,New York Knicks,19,18,37,-377982000.0,1958
+New York Knicks,Cincinnati Royals,New York Knicks,19,19,38,-377895600.0,1958
+New York Knicks,New York Knicks,Philadelphia Warriors,19,20,39,-377722800.0,1958
+New York Knicks,Cincinnati Royals,New York Knicks,19,21,40,-377550000.0,1958
+New York Knicks,New York Knicks,Philadelphia Warriors,19,22,41,-377290800.0,1958
+New York Knicks,New York Knicks,Syracuse Nationals,20,22,42,-377204400.0,1958
+New York Knicks,Syracuse Nationals,New York Knicks,20,23,43,-377118000.0,1958
+New York Knicks,Detroit Pistons,New York Knicks,21,23,44,-376858800.0,1958
+New York Knicks,Boston Celtics,New York Knicks,21,24,45,-376686000.0,1958
+New York Knicks,New York Knicks,Minneapolis Lakers,22,24,46,-376599600.0,1958
+New York Knicks,Minneapolis Lakers,New York Knicks,23,24,47,-376513200.0,1958
+New York Knicks,Minneapolis Lakers,New York Knicks,24,24,48,-376426800.0,1958
+New York Knicks,New York Knicks,Syracuse Nationals,24,25,49,-376340400.0,1958
+New York Knicks,Detroit Pistons,New York Knicks,24,26,50,-376081200.0,1958
+New York Knicks,New York Knicks,Boston Celtics,24,27,51,-375994800.0,1958
+New York Knicks,Philadelphia Warriors,New York Knicks,24,28,52,-375908400.0,1958
+New York Knicks,New York Knicks,St. Louis Hawks,25,28,53,-375735600.0,1958
+New York Knicks,New York Knicks,Syracuse Nationals,25,29,54,-375476400.0,1958
+New York Knicks,New York Knicks,Minneapolis Lakers,26,29,55,-375390000.0,1958
+New York Knicks,Detroit Pistons,New York Knicks,27,29,56,-375303600.0,1958
+New York Knicks,St. Louis Hawks,New York Knicks,27,30,57,-375130800.0,1958
+New York Knicks,Minneapolis Lakers,New York Knicks,28,30,58,-375044400.0,1958
+New York Knicks,Cincinnati Royals,New York Knicks,29,30,59,-374871600.0,1958
+New York Knicks,New York Knicks,Cincinnati Royals,30,30,60,-374785200.0,1958
+New York Knicks,New York Knicks,Boston Celtics,30,31,61,-374526000.0,1958
+New York Knicks,Syracuse Nationals,New York Knicks,30,32,62,-374439600.0,1958
+New York Knicks,Philadelphia Warriors,New York Knicks,30,33,63,-374266800.0,1958
+New York Knicks,New York Knicks,Syracuse Nationals,31,33,64,-374180400.0,1958
+New York Knicks,New York Knicks,Philadelphia Warriors,31,34,65,-373921200.0,1958
+New York Knicks,New York Knicks,Philadelphia Warriors,32,34,66,-373834800.0,1958
+New York Knicks,New York Knicks,Detroit Pistons,32,35,67,-373575600.0,1958
+New York Knicks,New York Knicks,Boston Celtics,33,35,68,-373316400.0,1958
+New York Knicks,Syracuse Nationals,New York Knicks,33,36,69,-373230000.0,1958
+New York Knicks,New York Knicks,Philadelphia Warriors,34,36,70,-372884400.0,1958
+New York Knicks,Boston Celtics,New York Knicks,34,37,71,-372711600.0,1958
+New York Knicks,Boston Celtics,New York Knicks,35,37,72,-372625200.0,1958
+Philadelphia Warriors,Syracuse Nationals,Philadelphia Warriors,0,1,1,-384552000.0,1958
+Philadelphia Warriors,Detroit Pistons,Philadelphia Warriors,1,1,2,-384465600.0,1958
+Philadelphia Warriors,Philadelphia Warriors,Minneapolis Lakers,2,1,3,-383857200.0,1958
+Philadelphia Warriors,New York Knicks,Philadelphia Warriors,2,2,4,-383770800.0,1958
+Philadelphia Warriors,Philadelphia Warriors,New York Knicks,3,2,5,-383425200.0,1958
+Philadelphia Warriors,Minneapolis Lakers,Philadelphia Warriors,4,2,6,-383338800.0,1958
+Philadelphia Warriors,St. Louis Hawks,Philadelphia Warriors,4,3,7,-383252400.0,1958
+Philadelphia Warriors,Cincinnati Royals,Philadelphia Warriors,5,3,8,-383166000.0,1958
+Philadelphia Warriors,Philadelphia Warriors,Syracuse Nationals,5,4,9,-382820400.0,1958
+Philadelphia Warriors,Boston Celtics,Philadelphia Warriors,5,5,10,-382647600.0,1958
+Philadelphia Warriors,Philadelphia Warriors,Detroit Pistons,5,6,11,-382561200.0,1958
+Philadelphia Warriors,Philadelphia Warriors,Cincinnati Royals,5,7,12,-382302000.0,1958
+Philadelphia Warriors,Philadelphia Warriors,Minneapolis Lakers,6,7,13,-381956400.0,1958
+Philadelphia Warriors,Syracuse Nationals,Philadelphia Warriors,6,8,14,-381697200.0,1958
+Philadelphia Warriors,Philadelphia Warriors,Syracuse Nationals,7,8,15,-381610800.0,1958
+Philadelphia Warriors,Philadelphia Warriors,New York Knicks,8,8,16,-381438000.0,1958
+Philadelphia Warriors,Philadelphia Warriors,Syracuse Nationals,8,9,17,-381178800.0,1958
+Philadelphia Warriors,Philadelphia Warriors,St. Louis Hawks,9,9,18,-381006000.0,1958
+Philadelphia Warriors,Philadelphia Warriors,Boston Celtics,9,10,19,-380833200.0,1958
+Philadelphia Warriors,Cincinnati Royals,Philadelphia Warriors,9,11,20,-380746800.0,1958
+Philadelphia Warriors,Detroit Pistons,Philadelphia Warriors,10,11,21,-380574000.0,1958
+Philadelphia Warriors,Philadelphia Warriors,Detroit Pistons,10,12,22,-380401200.0,1958
+Philadelphia Warriors,Boston Celtics,Philadelphia Warriors,10,13,23,-380228400.0,1958
+Philadelphia Warriors,Minneapolis Lakers,Philadelphia Warriors,10,14,24,-379882800.0,1958
+Philadelphia Warriors,New York Knicks,Philadelphia Warriors,10,15,25,-379537200.0,1958
+Philadelphia Warriors,Philadelphia Warriors,Boston Celtics,11,15,26,-379278000.0,1958
+Philadelphia Warriors,Boston Celtics,Philadelphia Warriors,12,15,27,-379105200.0,1958
+Philadelphia Warriors,Philadelphia Warriors,New York Knicks,13,15,28,-379018800.0,1958
+Philadelphia Warriors,Syracuse Nationals,Philadelphia Warriors,13,16,29,-378932400.0,1958
+Philadelphia Warriors,Philadelphia Warriors,St. Louis Hawks,14,16,30,-378586800.0,1958
+Philadelphia Warriors,Cincinnati Royals,Philadelphia Warriors,14,17,31,-378500400.0,1958
+Philadelphia Warriors,Detroit Pistons,Philadelphia Warriors,14,18,32,-378414000.0,1958
+Philadelphia Warriors,Philadelphia Warriors,Syracuse Nationals,14,19,33,-378327600.0,1958
+Philadelphia Warriors,Philadelphia Warriors,St. Louis Hawks,15,19,34,-377895600.0,1958
+Philadelphia Warriors,New York Knicks,Philadelphia Warriors,16,19,35,-377722800.0,1958
+Philadelphia Warriors,St. Louis Hawks,Philadelphia Warriors,17,19,36,-377550000.0,1958
+Philadelphia Warriors,Philadelphia Warriors,Detroit Pistons,17,20,37,-377377200.0,1958
+Philadelphia Warriors,New York Knicks,Philadelphia Warriors,18,20,38,-377290800.0,1958
+Philadelphia Warriors,Philadelphia Warriors,Boston Celtics,19,20,39,-377204400.0,1958
+Philadelphia Warriors,Boston Celtics,Philadelphia Warriors,19,21,40,-377118000.0,1958
+Philadelphia Warriors,Philadelphia Warriors,Syracuse Nationals,19,22,41,-376772400.0,1958
+Philadelphia Warriors,Cincinnati Royals,Philadelphia Warriors,20,22,42,-376686000.0,1958
+Philadelphia Warriors,St. Louis Hawks,Philadelphia Warriors,21,22,43,-376513200.0,1958
+Philadelphia Warriors,Detroit Pistons,Philadelphia Warriors,21,23,44,-376426800.0,1958
+Philadelphia Warriors,Philadelphia Warriors,St. Louis Hawks,21,24,45,-376340400.0,1958
+Philadelphia Warriors,Philadelphia Warriors,Boston Celtics,22,24,46,-376167600.0,1958
+Philadelphia Warriors,Boston Celtics,Philadelphia Warriors,23,24,47,-376081200.0,1958
+Philadelphia Warriors,Detroit Pistons,Philadelphia Warriors,24,24,48,-375994800.0,1958
+Philadelphia Warriors,Philadelphia Warriors,New York Knicks,25,24,49,-375908400.0,1958
+Philadelphia Warriors,Minneapolis Lakers,Philadelphia Warriors,26,24,50,-375735600.0,1958
+Philadelphia Warriors,Minneapolis Lakers,Philadelphia Warriors,27,24,51,-375649200.0,1958
+Philadelphia Warriors,Philadelphia Warriors,Cincinnati Royals,27,25,52,-375476400.0,1958
+Philadelphia Warriors,Philadelphia Warriors,St. Louis Hawks,28,25,53,-375303600.0,1958
+Philadelphia Warriors,Philadelphia Warriors,Detroit Pistons,29,25,54,-375130800.0,1958
+Philadelphia Warriors,Syracuse Nationals,Philadelphia Warriors,29,26,55,-374958000.0,1958
+Philadelphia Warriors,Philadelphia Warriors,Boston Celtics,29,27,56,-374785200.0,1958
+Philadelphia Warriors,Minneapolis Lakers,Philadelphia Warriors,29,28,57,-374698800.0,1958
+Philadelphia Warriors,Boston Celtics,Philadelphia Warriors,30,28,58,-374439600.0,1958
+Philadelphia Warriors,Philadelphia Warriors,Syracuse Nationals,31,28,59,-374353200.0,1958
+Philadelphia Warriors,Philadelphia Warriors,New York Knicks,32,28,60,-374266800.0,1958
+Philadelphia Warriors,Boston Celtics,Philadelphia Warriors,32,29,61,-374094000.0,1958
+Philadelphia Warriors,Minneapolis Lakers,Philadelphia Warriors,33,29,62,-374007600.0,1958
+Philadelphia Warriors,New York Knicks,Philadelphia Warriors,34,29,63,-373921200.0,1958
+Philadelphia Warriors,New York Knicks,Philadelphia Warriors,34,30,64,-373834800.0,1958
+Philadelphia Warriors,Philadelphia Warriors,Syracuse Nationals,35,30,65,-373748400.0,1958
+Philadelphia Warriors,Philadelphia Warriors,Cincinnati Royals,35,31,66,-373575600.0,1958
+Philadelphia Warriors,Minneapolis Lakers,Philadelphia Warriors,35,32,67,-373489200.0,1958
+Philadelphia Warriors,Cincinnati Royals,Philadelphia Warriors,36,32,68,-373316400.0,1958
+Philadelphia Warriors,Philadelphia Warriors,Cincinnati Royals,36,33,69,-373143600.0,1958
+Philadelphia Warriors,New York Knicks,Philadelphia Warriors,36,34,70,-372884400.0,1958
+Philadelphia Warriors,St. Louis Hawks,Philadelphia Warriors,37,34,71,-372711600.0,1958
+Philadelphia Warriors,Syracuse Nationals,Philadelphia Warriors,37,35,72,-372625200.0,1958
+St. Louis Hawks,St. Louis Hawks,Boston Celtics,0,1,1,-384811200.0,1958
+St. Louis Hawks,New York Knicks,St. Louis Hawks,0,2,2,-384724800.0,1958
+St. Louis Hawks,St. Louis Hawks,Minneapolis Lakers,1,2,3,-384465600.0,1958
+St. Louis Hawks,Cincinnati Royals,St. Louis Hawks,1,3,4,-383943600.0,1958
+St. Louis Hawks,St. Louis Hawks,Cincinnati Royals,2,3,5,-383857200.0,1958
+St. Louis Hawks,St. Louis Hawks,Syracuse Nationals,3,3,6,-383598000.0,1958
+St. Louis Hawks,St. Louis Hawks,Philadelphia Warriors,4,3,7,-383252400.0,1958
+St. Louis Hawks,Boston Celtics,St. Louis Hawks,4,4,8,-383079600.0,1958
+St. Louis Hawks,Syracuse Nationals,St. Louis Hawks,4,5,9,-382734000.0,1958
+St. Louis Hawks,St. Louis Hawks,Syracuse Nationals,5,5,10,-382647600.0,1958
+St. Louis Hawks,Cincinnati Royals,St. Louis Hawks,6,5,11,-382561200.0,1958
+St. Louis Hawks,St. Louis Hawks,New York Knicks,7,5,12,-382388400.0,1958
+St. Louis Hawks,St. Louis Hawks,Detroit Pistons,8,5,13,-382042800.0,1958
+St. Louis Hawks,New York Knicks,St. Louis Hawks,9,5,14,-381783600.0,1958
+St. Louis Hawks,Detroit Pistons,St. Louis Hawks,10,5,15,-381697200.0,1958
+St. Louis Hawks,St. Louis Hawks,Cincinnati Royals,11,5,16,-381610800.0,1958
+St. Louis Hawks,Minneapolis Lakers,St. Louis Hawks,11,6,17,-381438000.0,1958
+St. Louis Hawks,Minneapolis Lakers,St. Louis Hawks,12,6,18,-381178800.0,1958
+St. Louis Hawks,Philadelphia Warriors,St. Louis Hawks,12,7,19,-381006000.0,1958
+St. Louis Hawks,Boston Celtics,St. Louis Hawks,12,8,20,-380919600.0,1958
+St. Louis Hawks,St. Louis Hawks,New York Knicks,12,9,21,-380746800.0,1958
+St. Louis Hawks,Cincinnati Royals,St. Louis Hawks,13,9,22,-380574000.0,1958
+St. Louis Hawks,New York Knicks,St. Louis Hawks,14,9,23,-380487600.0,1958
+St. Louis Hawks,Boston Celtics,St. Louis Hawks,15,9,24,-380401200.0,1958
+St. Louis Hawks,St. Louis Hawks,New York Knicks,16,9,25,-380228400.0,1958
+St. Louis Hawks,Minneapolis Lakers,St. Louis Hawks,17,9,26,-380142000.0,1958
+St. Louis Hawks,Detroit Pistons,St. Louis Hawks,18,9,27,-379969200.0,1958
+St. Louis Hawks,St. Louis Hawks,Syracuse Nationals,19,9,28,-379623600.0,1958
+St. Louis Hawks,St. Louis Hawks,Minneapolis Lakers,20,9,29,-379537200.0,1958
+St. Louis Hawks,St. Louis Hawks,Detroit Pistons,20,10,30,-379191600.0,1958
+St. Louis Hawks,Cincinnati Royals,St. Louis Hawks,21,10,31,-379105200.0,1958
+St. Louis Hawks,St. Louis Hawks,Boston Celtics,22,10,32,-379018800.0,1958
+St. Louis Hawks,Minneapolis Lakers,St. Louis Hawks,23,10,33,-378846000.0,1958
+St. Louis Hawks,Philadelphia Warriors,St. Louis Hawks,23,11,34,-378586800.0,1958
+St. Louis Hawks,St. Louis Hawks,Detroit Pistons,24,11,35,-378327600.0,1958
+St. Louis Hawks,New York Knicks,St. Louis Hawks,25,11,36,-378154800.0,1958
+St. Louis Hawks,Philadelphia Warriors,St. Louis Hawks,25,12,37,-377895600.0,1958
+St. Louis Hawks,St. Louis Hawks,Boston Celtics,26,12,38,-377809200.0,1958
+St. Louis Hawks,St. Louis Hawks,Minneapolis Lakers,27,12,39,-377722800.0,1958
+St. Louis Hawks,St. Louis Hawks,Philadelphia Warriors,27,13,40,-377550000.0,1958
+St. Louis Hawks,Syracuse Nationals,St. Louis Hawks,27,14,41,-377377200.0,1958
+St. Louis Hawks,Minneapolis Lakers,St. Louis Hawks,27,15,42,-377290800.0,1958
+St. Louis Hawks,St. Louis Hawks,Detroit Pistons,28,15,43,-377204400.0,1958
+St. Louis Hawks,St. Louis Hawks,Cincinnati Royals,29,15,44,-377118000.0,1958
+St. Louis Hawks,Detroit Pistons,St. Louis Hawks,29,16,45,-376599600.0,1958
+St. Louis Hawks,St. Louis Hawks,Philadelphia Warriors,29,17,46,-376513200.0,1958
+St. Louis Hawks,Philadelphia Warriors,St. Louis Hawks,30,17,47,-376340400.0,1958
+St. Louis Hawks,Boston Celtics,St. Louis Hawks,30,18,48,-376254000.0,1958
+St. Louis Hawks,Cincinnati Royals,St. Louis Hawks,30,19,49,-376081200.0,1958
+St. Louis Hawks,St. Louis Hawks,Cincinnati Royals,31,19,50,-375994800.0,1958
+St. Louis Hawks,St. Louis Hawks,Syracuse Nationals,31,20,51,-375908400.0,1958
+St. Louis Hawks,New York Knicks,St. Louis Hawks,31,21,52,-375735600.0,1958
+St. Louis Hawks,Detroit Pistons,St. Louis Hawks,31,22,53,-375476400.0,1958
+St. Louis Hawks,Syracuse Nationals,St. Louis Hawks,32,22,54,-375390000.0,1958
+St. Louis Hawks,Philadelphia Warriors,St. Louis Hawks,32,23,55,-375303600.0,1958
+St. Louis Hawks,St. Louis Hawks,New York Knicks,33,23,56,-375130800.0,1958
+St. Louis Hawks,Detroit Pistons,St. Louis Hawks,34,23,57,-375044400.0,1958
+St. Louis Hawks,Minneapolis Lakers,St. Louis Hawks,35,23,58,-374871600.0,1958
+St. Louis Hawks,St. Louis Hawks,Detroit Pistons,35,24,59,-374698800.0,1958
+St. Louis Hawks,St. Louis Hawks,Minneapolis Lakers,36,24,60,-374526000.0,1958
+St. Louis Hawks,St. Louis Hawks,Boston Celtics,37,24,61,-374266800.0,1958
+St. Louis Hawks,Detroit Pistons,St. Louis Hawks,37,25,62,-374180400.0,1958
+St. Louis Hawks,Syracuse Nationals,St. Louis Hawks,37,26,63,-374094000.0,1958
+St. Louis Hawks,Detroit Pistons,St. Louis Hawks,37,27,64,-373921200.0,1958
+St. Louis Hawks,Cincinnati Royals,St. Louis Hawks,38,27,65,-373834800.0,1958
+St. Louis Hawks,St. Louis Hawks,Cincinnati Royals,39,27,66,-373489200.0,1958
+St. Louis Hawks,Boston Celtics,St. Louis Hawks,39,28,67,-373230000.0,1958
+St. Louis Hawks,St. Louis Hawks,Syracuse Nationals,40,28,68,-373057200.0,1958
+St. Louis Hawks,St. Louis Hawks,Minneapolis Lakers,41,28,69,-372970800.0,1958
+St. Louis Hawks,Minneapolis Lakers,St. Louis Hawks,41,29,70,-372884400.0,1958
+St. Louis Hawks,Cincinnati Royals,St. Louis Hawks,41,30,71,-372798000.0,1958
+St. Louis Hawks,St. Louis Hawks,Philadelphia Warriors,41,31,72,-372711600.0,1958
+Syracuse Nationals,Syracuse Nationals,Philadelphia Warriors,1,0,1,-384552000.0,1958
+Syracuse Nationals,Cincinnati Royals,Syracuse Nationals,1,1,2,-384465600.0,1958
+Syracuse Nationals,Syracuse Nationals,Minneapolis Lakers,2,1,3,-383943600.0,1958
+Syracuse Nationals,Boston Celtics,Syracuse Nationals,2,2,4,-383857200.0,1958
+Syracuse Nationals,Boston Celtics,Syracuse Nationals,2,3,5,-383770800.0,1958
+Syracuse Nationals,St. Louis Hawks,Syracuse Nationals,2,4,6,-383598000.0,1958
+Syracuse Nationals,Syracuse Nationals,New York Knicks,2,5,7,-383338800.0,1958
+Syracuse Nationals,Philadelphia Warriors,Syracuse Nationals,3,5,8,-382820400.0,1958
+Syracuse Nationals,Syracuse Nationals,St. Louis Hawks,4,5,9,-382734000.0,1958
+Syracuse Nationals,St. Louis Hawks,Syracuse Nationals,4,6,10,-382647600.0,1958
+Syracuse Nationals,Minneapolis Lakers,Syracuse Nationals,5,6,11,-382561200.0,1958
+Syracuse Nationals,Syracuse Nationals,Cincinnati Royals,5,7,12,-382129200.0,1958
+Syracuse Nationals,New York Knicks,Syracuse Nationals,6,7,13,-382042800.0,1958
+Syracuse Nationals,Syracuse Nationals,Philadelphia Warriors,7,7,14,-381697200.0,1958
+Syracuse Nationals,Philadelphia Warriors,Syracuse Nationals,7,8,15,-381610800.0,1958
+Syracuse Nationals,Boston Celtics,Syracuse Nationals,7,9,16,-381438000.0,1958
+Syracuse Nationals,Syracuse Nationals,Boston Celtics,8,9,17,-381351600.0,1958
+Syracuse Nationals,Philadelphia Warriors,Syracuse Nationals,9,9,18,-381178800.0,1958
+Syracuse Nationals,Syracuse Nationals,Detroit Pistons,10,9,19,-380919600.0,1958
+Syracuse Nationals,Minneapolis Lakers,Syracuse Nationals,10,10,20,-380833200.0,1958
+Syracuse Nationals,Minneapolis Lakers,Syracuse Nationals,11,10,21,-380574000.0,1958
+Syracuse Nationals,Minneapolis Lakers,Syracuse Nationals,11,11,22,-380487600.0,1958
+Syracuse Nationals,Cincinnati Royals,Syracuse Nationals,12,11,23,-380228400.0,1958
+Syracuse Nationals,Syracuse Nationals,Cincinnati Royals,13,11,24,-380142000.0,1958
+Syracuse Nationals,New York Knicks,Syracuse Nationals,13,12,25,-379969200.0,1958
+Syracuse Nationals,Cincinnati Royals,Syracuse Nationals,14,12,26,-379710000.0,1958
+Syracuse Nationals,St. Louis Hawks,Syracuse Nationals,14,13,27,-379623600.0,1958
+Syracuse Nationals,Syracuse Nationals,Detroit Pistons,15,13,28,-379537200.0,1958
+Syracuse Nationals,Syracuse Nationals,New York Knicks,16,13,29,-379278000.0,1958
+Syracuse Nationals,Cincinnati Royals,Syracuse Nationals,17,13,30,-379191600.0,1958
+Syracuse Nationals,Detroit Pistons,Syracuse Nationals,17,14,31,-379018800.0,1958
+Syracuse Nationals,Syracuse Nationals,Philadelphia Warriors,18,14,32,-378932400.0,1958
+Syracuse Nationals,Syracuse Nationals,Minneapolis Lakers,19,14,33,-378673200.0,1958
+Syracuse Nationals,New York Knicks,Syracuse Nationals,19,15,34,-378586800.0,1958
+Syracuse Nationals,Syracuse Nationals,Boston Celtics,20,15,35,-378414000.0,1958
+Syracuse Nationals,Philadelphia Warriors,Syracuse Nationals,21,15,36,-378327600.0,1958
+Syracuse Nationals,Detroit Pistons,Syracuse Nationals,21,16,37,-378068400.0,1958
+Syracuse Nationals,Syracuse Nationals,Minneapolis Lakers,22,16,38,-377982000.0,1958
+Syracuse Nationals,Cincinnati Royals,Syracuse Nationals,22,17,39,-377809200.0,1958
+Syracuse Nationals,Syracuse Nationals,Detroit Pistons,23,17,40,-377722800.0,1958
+Syracuse Nationals,Syracuse Nationals,St. Louis Hawks,24,17,41,-377377200.0,1958
+Syracuse Nationals,Boston Celtics,Syracuse Nationals,24,18,42,-377290800.0,1958
+Syracuse Nationals,New York Knicks,Syracuse Nationals,24,19,43,-377204400.0,1958
+Syracuse Nationals,Syracuse Nationals,New York Knicks,25,19,44,-377118000.0,1958
+Syracuse Nationals,Syracuse Nationals,Cincinnati Royals,25,20,45,-376858800.0,1958
+Syracuse Nationals,Philadelphia Warriors,Syracuse Nationals,26,20,46,-376772400.0,1958
+Syracuse Nationals,Syracuse Nationals,Boston Celtics,27,20,47,-376599600.0,1958
+Syracuse Nationals,Boston Celtics,Syracuse Nationals,27,21,48,-376513200.0,1958
+Syracuse Nationals,New York Knicks,Syracuse Nationals,28,21,49,-376340400.0,1958
+Syracuse Nationals,Detroit Pistons,Syracuse Nationals,28,22,50,-376167600.0,1958
+Syracuse Nationals,Minneapolis Lakers,Syracuse Nationals,29,22,51,-375994800.0,1958
+Syracuse Nationals,St. Louis Hawks,Syracuse Nationals,30,22,52,-375908400.0,1958
+Syracuse Nationals,Detroit Pistons,Syracuse Nationals,30,23,53,-375735600.0,1958
+Syracuse Nationals,New York Knicks,Syracuse Nationals,31,23,54,-375476400.0,1958
+Syracuse Nationals,Syracuse Nationals,St. Louis Hawks,31,24,55,-375390000.0,1958
+Syracuse Nationals,Syracuse Nationals,Boston Celtics,32,24,56,-375303600.0,1958
+Syracuse Nationals,Boston Celtics,Syracuse Nationals,33,24,57,-375130800.0,1958
+Syracuse Nationals,Boston Celtics,Syracuse Nationals,33,25,58,-375044400.0,1958
+Syracuse Nationals,Syracuse Nationals,Philadelphia Warriors,34,25,59,-374958000.0,1958
+Syracuse Nationals,Syracuse Nationals,Cincinnati Royals,35,25,60,-374698800.0,1958
+Syracuse Nationals,Detroit Pistons,Syracuse Nationals,35,26,61,-374526000.0,1958
+Syracuse Nationals,Syracuse Nationals,New York Knicks,36,26,62,-374439600.0,1958
+Syracuse Nationals,Philadelphia Warriors,Syracuse Nationals,36,27,63,-374353200.0,1958
+Syracuse Nationals,New York Knicks,Syracuse Nationals,36,28,64,-374180400.0,1958
+Syracuse Nationals,Syracuse Nationals,St. Louis Hawks,37,28,65,-374094000.0,1958
+Syracuse Nationals,Syracuse Nationals,Minneapolis Lakers,38,28,66,-373834800.0,1958
+Syracuse Nationals,Philadelphia Warriors,Syracuse Nationals,38,29,67,-373748400.0,1958
+Syracuse Nationals,Syracuse Nationals,Boston Celtics,38,30,68,-373489200.0,1958
+Syracuse Nationals,Syracuse Nationals,New York Knicks,39,30,69,-373230000.0,1958
+Syracuse Nationals,St. Louis Hawks,Syracuse Nationals,39,31,70,-373057200.0,1958
+Syracuse Nationals,Syracuse Nationals,Detroit Pistons,40,31,71,-372884400.0,1958
+Syracuse Nationals,Syracuse Nationals,Philadelphia Warriors,41,31,72,-372625200.0,1958

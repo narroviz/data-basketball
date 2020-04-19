@@ -1,0 +1,2215 @@
+id,home_team,away_team,win,loss,game_number,date,year
+Atlanta Hawks,Atlanta Hawks,Detroit Pistons,0,1,1,689058000.0,1992
+Atlanta Hawks,Atlanta Hawks,Utah Jazz,1,1,2,689317200.0,1992
+Atlanta Hawks,Charlotte Hornets (Original),Atlanta Hawks,1,2,3,689403600.0,1992
+Atlanta Hawks,Boston Celtics,Atlanta Hawks,2,2,4,689576400.0,1992
+Atlanta Hawks,Atlanta Hawks,Miami Heat,3,2,5,689662800.0,1992
+Atlanta Hawks,Atlanta Hawks,Charlotte Hornets (Original),4,2,6,689922000.0,1992
+Atlanta Hawks,Sacramento Kings,Atlanta Hawks,4,3,7,690094800.0,1992
+Atlanta Hawks,Phoenix Suns,Atlanta Hawks,5,3,8,690181200.0,1992
+Atlanta Hawks,Los Angeles Lakers,Atlanta Hawks,5,4,9,690354000.0,1992
+Atlanta Hawks,Atlanta Hawks,Sacramento Kings,6,4,10,690613200.0,1992
+Atlanta Hawks,Philadelphia 76ers,Atlanta Hawks,7,4,11,690786000.0,1992
+Atlanta Hawks,Washington Bullets,Atlanta Hawks,7,5,12,690872400.0,1992
+Atlanta Hawks,Atlanta Hawks,Detroit Pistons,7,6,13,691131600.0,1992
+Atlanta Hawks,Detroit Pistons,Atlanta Hawks,7,7,14,691218000.0,1992
+Atlanta Hawks,Atlanta Hawks,San Antonio Spurs,7,8,15,691390800.0,1992
+Atlanta Hawks,Atlanta Hawks,Boston Celtics,8,8,16,691477200.0,1992
+Atlanta Hawks,Dallas Mavericks,Atlanta Hawks,9,8,17,691736400.0,1992
+Atlanta Hawks,Houston Rockets,Atlanta Hawks,10,8,18,691909200.0,1992
+Atlanta Hawks,Atlanta Hawks,New York Knicks,10,9,19,692082000.0,1992
+Atlanta Hawks,Atlanta Hawks,Milwaukee Bucks,11,9,20,692341200.0,1992
+Atlanta Hawks,Cleveland Cavaliers,Atlanta Hawks,11,10,21,692514000.0,1992
+Atlanta Hawks,Miami Heat,Atlanta Hawks,11,11,22,692686800.0,1992
+Atlanta Hawks,Atlanta Hawks,Indiana Pacers,12,11,23,692946000.0,1992
+Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,12,12,24,693205200.0,1992
+Atlanta Hawks,Chicago Bulls,Atlanta Hawks,12,13,25,693291600.0,1992
+Atlanta Hawks,New Jersey Nets,Atlanta Hawks,12,14,26,693464400.0,1992
+Atlanta Hawks,Atlanta Hawks,Chicago Bulls,12,15,27,693723600.0,1992
+Atlanta Hawks,Atlanta Hawks,Minnesota Timberwolves,13,15,28,693896400.0,1992
+Atlanta Hawks,Atlanta Hawks,Phoenix Suns,14,15,29,694328400.0,1992
+Atlanta Hawks,Atlanta Hawks,Los Angeles Clippers,15,15,30,694501200.0,1992
+Atlanta Hawks,Atlanta Hawks,Houston Rockets,16,15,31,694674000.0,1992
+Atlanta Hawks,New York Knicks,Atlanta Hawks,17,15,32,694760400.0,1992
+Atlanta Hawks,Atlanta Hawks,Dallas Mavericks,18,15,33,694933200.0,1992
+Atlanta Hawks,Indiana Pacers,Atlanta Hawks,18,16,34,695106000.0,1992
+Atlanta Hawks,Atlanta Hawks,Milwaukee Bucks,19,16,35,695365200.0,1992
+Atlanta Hawks,Utah Jazz,Atlanta Hawks,19,17,36,695538000.0,1992
+Atlanta Hawks,Los Angeles Clippers,Atlanta Hawks,19,18,37,695624400.0,1992
+Atlanta Hawks,Denver Nuggets,Atlanta Hawks,20,18,38,695797200.0,1992
+Atlanta Hawks,Seattle Supersonics,Atlanta Hawks,21,18,39,695970000.0,1992
+Atlanta Hawks,Golden State Warriors,Atlanta Hawks,21,19,40,696056400.0,1992
+Atlanta Hawks,Portland Trail Blazers,Atlanta Hawks,21,20,41,696229200.0,1992
+Atlanta Hawks,Atlanta Hawks,Philadelphia 76ers,22,20,42,696574800.0,1992
+Atlanta Hawks,Milwaukee Bucks,Atlanta Hawks,23,20,43,696661200.0,1992
+Atlanta Hawks,Indiana Pacers,Atlanta Hawks,23,21,44,696834000.0,1992
+Atlanta Hawks,Atlanta Hawks,Detroit Pistons,23,22,45,696920400.0,1992
+Atlanta Hawks,Atlanta Hawks,Seattle Supersonics,23,23,46,697093200.0,1992
+Atlanta Hawks,Atlanta Hawks,Orlando Magic,24,23,47,697352400.0,1992
+Atlanta Hawks,Atlanta Hawks,Charlotte Hornets (Original),24,24,48,697784400.0,1992
+Atlanta Hawks,Miami Heat,Atlanta Hawks,24,25,49,697957200.0,1992
+Atlanta Hawks,Orlando Magic,Atlanta Hawks,25,25,50,698043600.0,1992
+Atlanta Hawks,Washington Bullets,Atlanta Hawks,26,25,51,698302800.0,1992
+Atlanta Hawks,Atlanta Hawks,Washington Bullets,26,26,52,698475600.0,1992
+Atlanta Hawks,Atlanta Hawks,Chicago Bulls,26,27,53,698648400.0,1992
+Atlanta Hawks,Atlanta Hawks,New Jersey Nets,27,27,54,698734800.0,1992
+Atlanta Hawks,Atlanta Hawks,Denver Nuggets,28,27,55,698907600.0,1992
+Atlanta Hawks,Atlanta Hawks,Boston Celtics,29,27,56,699253200.0,1992
+Atlanta Hawks,Milwaukee Bucks,Atlanta Hawks,29,28,57,699426000.0,1992
+Atlanta Hawks,Philadelphia 76ers,Atlanta Hawks,29,29,58,699685200.0,1992
+Atlanta Hawks,Atlanta Hawks,Indiana Pacers,29,30,59,699858000.0,1992
+Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,29,31,60,699944400.0,1992
+Atlanta Hawks,San Antonio Spurs,Atlanta Hawks,29,32,61,700203600.0,1992
+Atlanta Hawks,Atlanta Hawks,Los Angeles Lakers,29,33,62,700290000.0,1992
+Atlanta Hawks,Atlanta Hawks,Portland Trail Blazers,29,34,63,700462800.0,1992
+Atlanta Hawks,Atlanta Hawks,Miami Heat,30,34,64,700549200.0,1992
+Atlanta Hawks,Detroit Pistons,Atlanta Hawks,31,34,65,700722000.0,1992
+Atlanta Hawks,Atlanta Hawks,Orlando Magic,31,35,66,700894800.0,1992
+Atlanta Hawks,Charlotte Hornets (Original),Atlanta Hawks,32,35,67,701067600.0,1992
+Atlanta Hawks,Cleveland Cavaliers,Atlanta Hawks,32,36,68,701240400.0,1992
+Atlanta Hawks,Atlanta Hawks,Golden State Warriors,33,36,69,701326800.0,1992
+Atlanta Hawks,Atlanta Hawks,Washington Bullets,34,36,70,701586000.0,1992
+Atlanta Hawks,Minnesota Timberwolves,Atlanta Hawks,35,36,71,701672400.0,1992
+Atlanta Hawks,Boston Celtics,Atlanta Hawks,35,37,72,701845200.0,1992
+Atlanta Hawks,Indiana Pacers,Atlanta Hawks,35,38,73,702104400.0,1992
+Atlanta Hawks,New York Knicks,Atlanta Hawks,35,39,74,702277200.0,1992
+Atlanta Hawks,Atlanta Hawks,Philadelphia 76ers,35,40,75,702363600.0,1992
+Atlanta Hawks,New Jersey Nets,Atlanta Hawks,36,40,76,702619200.0,1992
+Atlanta Hawks,Orlando Magic,Atlanta Hawks,36,41,77,702792000.0,1992
+Atlanta Hawks,Atlanta Hawks,New Jersey Nets,37,41,78,702964800.0,1992
+Atlanta Hawks,Chicago Bulls,Atlanta Hawks,37,42,79,703137600.0,1992
+Atlanta Hawks,Atlanta Hawks,New York Knicks,38,42,80,703310400.0,1992
+Atlanta Hawks,Atlanta Hawks,Chicago Bulls,38,43,81,703483200.0,1992
+Atlanta Hawks,Cleveland Cavaliers,Atlanta Hawks,38,44,82,703656000.0,1992
+Boston Celtics,Boston Celtics,Charlotte Hornets (Original),1,0,1,688971600.0,1992
+Boston Celtics,Washington Bullets,Boston Celtics,1,1,2,689058000.0,1992
+Boston Celtics,Miami Heat,Boston Celtics,2,1,3,689317200.0,1992
+Boston Celtics,Boston Celtics,Chicago Bulls,2,2,4,689403600.0,1992
+Boston Celtics,Boston Celtics,Atlanta Hawks,2,3,5,689576400.0,1992
+Boston Celtics,Portland Trail Blazers,Boston Celtics,2,4,6,689749200.0,1992
+Boston Celtics,Sacramento Kings,Boston Celtics,3,4,7,689922000.0,1992
+Boston Celtics,Phoenix Suns,Boston Celtics,4,4,8,690008400.0,1992
+Boston Celtics,Boston Celtics,Philadelphia 76ers,5,4,9,690181200.0,1992
+Boston Celtics,Charlotte Hornets (Original),Boston Celtics,5,5,10,690267600.0,1992
+Boston Celtics,Boston Celtics,Indiana Pacers,6,5,11,690613200.0,1992
+Boston Celtics,New Jersey Nets,Boston Celtics,7,5,12,690872400.0,1992
+Boston Celtics,Boston Celtics,Washington Bullets,8,5,13,691045200.0,1992
+Boston Celtics,Boston Celtics,Orlando Magic,9,5,14,691218000.0,1992
+Boston Celtics,Boston Celtics,Los Angeles Lakers,10,5,15,691390800.0,1992
+Boston Celtics,Atlanta Hawks,Boston Celtics,10,6,16,691477200.0,1992
+Boston Celtics,Boston Celtics,Miami Heat,11,6,17,691822800.0,1992
+Boston Celtics,Boston Celtics,New York Knicks,12,6,18,691995600.0,1992
+Boston Celtics,Boston Celtics,Denver Nuggets,13,6,19,692254800.0,1992
+Boston Celtics,Boston Celtics,Seattle Supersonics,14,6,20,692600400.0,1992
+Boston Celtics,New York Knicks,Boston Celtics,14,7,21,692686800.0,1992
+Boston Celtics,Orlando Magic,Boston Celtics,15,7,22,692946000.0,1992
+Boston Celtics,Boston Celtics,Milwaukee Bucks,16,7,23,693032400.0,1992
+Boston Celtics,Boston Celtics,Utah Jazz,17,7,24,693205200.0,1992
+Boston Celtics,Miami Heat,Boston Celtics,17,8,25,693291600.0,1992
+Boston Celtics,Chicago Bulls,Boston Celtics,17,9,26,693637200.0,1992
+Boston Celtics,Seattle Supersonics,Boston Celtics,18,9,27,693810000.0,1992
+Boston Celtics,Denver Nuggets,Boston Celtics,18,10,28,693896400.0,1992
+Boston Celtics,Los Angeles Clippers,Boston Celtics,19,10,29,694069200.0,1992
+Boston Celtics,Boston Celtics,Cleveland Cavaliers,19,11,30,694414800.0,1992
+Boston Celtics,Minnesota Timberwolves,Boston Celtics,19,12,31,694501200.0,1992
+Boston Celtics,Boston Celtics,Sacramento Kings,20,12,32,694674000.0,1992
+Boston Celtics,Boston Celtics,New York Knicks,21,12,33,694846800.0,1992
+Boston Celtics,Boston Celtics,Minnesota Timberwolves,21,13,34,695019600.0,1992
+Boston Celtics,New York Knicks,Boston Celtics,21,14,35,695106000.0,1992
+Boston Celtics,Boston Celtics,New Jersey Nets,21,15,36,695451600.0,1992
+Boston Celtics,Boston Celtics,Philadelphia 76ers,22,15,37,695624400.0,1992
+Boston Celtics,Boston Celtics,San Antonio Spurs,23,15,38,695797200.0,1992
+Boston Celtics,Cleveland Cavaliers,Boston Celtics,24,15,39,695883600.0,1992
+Boston Celtics,Boston Celtics,Orlando Magic,25,15,40,696056400.0,1992
+Boston Celtics,Boston Celtics,Phoenix Suns,25,16,41,696229200.0,1992
+Boston Celtics,Boston Celtics,Detroit Pistons,26,16,42,696402000.0,1992
+Boston Celtics,Washington Bullets,Boston Celtics,27,16,43,696574800.0,1992
+Boston Celtics,Milwaukee Bucks,Boston Celtics,27,17,44,696834000.0,1992
+Boston Celtics,Philadelphia 76ers,Boston Celtics,27,18,45,696920400.0,1992
+Boston Celtics,Boston Celtics,Houston Rockets,28,18,46,697266000.0,1992
+Boston Celtics,San Antonio Spurs,Boston Celtics,28,19,47,697784400.0,1992
+Boston Celtics,Dallas Mavericks,Boston Celtics,28,20,48,697870800.0,1992
+Boston Celtics,Houston Rockets,Boston Celtics,28,21,49,698043600.0,1992
+Boston Celtics,Los Angeles Lakers,Boston Celtics,29,21,50,698216400.0,1992
+Boston Celtics,Utah Jazz,Boston Celtics,29,22,51,698302800.0,1992
+Boston Celtics,Golden State Warriors,Boston Celtics,29,23,52,698475600.0,1992
+Boston Celtics,Boston Celtics,Charlotte Hornets (Original),30,23,53,698648400.0,1992
+Boston Celtics,Indiana Pacers,Boston Celtics,30,24,54,698821200.0,1992
+Boston Celtics,New Jersey Nets,Boston Celtics,30,25,55,698994000.0,1992
+Boston Celtics,Boston Celtics,Indiana Pacers,31,25,56,699080400.0,1992
+Boston Celtics,Atlanta Hawks,Boston Celtics,31,26,57,699253200.0,1992
+Boston Celtics,Boston Celtics,Dallas Mavericks,32,26,58,699426000.0,1992
+Boston Celtics,Boston Celtics,Orlando Magic,33,26,59,699685200.0,1992
+Boston Celtics,Boston Celtics,Los Angeles Clippers,34,26,60,699858000.0,1992
+Boston Celtics,Orlando Magic,Boston Celtics,35,26,61,700030800.0,1992
+Boston Celtics,Miami Heat,Boston Celtics,35,27,62,700203600.0,1992
+Boston Celtics,Chicago Bulls,Boston Celtics,35,28,63,700290000.0,1992
+Boston Celtics,Boston Celtics,New Jersey Nets,35,29,64,700462800.0,1992
+Boston Celtics,Boston Celtics,Portland Trail Blazers,36,29,65,700635600.0,1992
+Boston Celtics,Milwaukee Bucks,Boston Celtics,36,30,66,700808400.0,1992
+Boston Celtics,Boston Celtics,Cleveland Cavaliers,37,30,67,700894800.0,1992
+Boston Celtics,Detroit Pistons,Boston Celtics,38,30,68,701067600.0,1992
+Boston Celtics,Boston Celtics,Golden State Warriors,39,30,69,701240400.0,1992
+Boston Celtics,New Jersey Nets,Boston Celtics,40,30,70,701499600.0,1992
+Boston Celtics,Boston Celtics,Detroit Pistons,41,30,71,701672400.0,1992
+Boston Celtics,Boston Celtics,Atlanta Hawks,42,30,72,701845200.0,1992
+Boston Celtics,Boston Celtics,Washington Bullets,43,30,73,702104400.0,1992
+Boston Celtics,Indiana Pacers,Boston Celtics,43,31,74,702277200.0,1992
+Boston Celtics,Boston Celtics,Chicago Bulls,44,31,75,702450000.0,1992
+Boston Celtics,Cleveland Cavaliers,Boston Celtics,45,31,76,702619200.0,1992
+Boston Celtics,Boston Celtics,New York Knicks,46,31,77,702705600.0,1992
+Boston Celtics,Boston Celtics,Milwaukee Bucks,47,31,78,702878400.0,1992
+Boston Celtics,Charlotte Hornets (Original),Boston Celtics,48,31,79,703051200.0,1992
+Boston Celtics,Philadelphia 76ers,Boston Celtics,49,31,80,703224000.0,1992
+Boston Celtics,Detroit Pistons,Boston Celtics,50,31,81,703310400.0,1992
+Boston Celtics,Boston Celtics,Miami Heat,51,31,82,703656000.0,1992
+Charlotte Hornets (Original),Boston Celtics,Charlotte Hornets (Original),0,1,1,688971600.0,1992
+Charlotte Hornets (Original),Charlotte Hornets (Original),New Jersey Nets,0,2,2,689058000.0,1992
+Charlotte Hornets (Original),Detroit Pistons,Charlotte Hornets (Original),0,3,3,689317200.0,1992
+Charlotte Hornets (Original),Charlotte Hornets (Original),Atlanta Hawks,1,3,4,689403600.0,1992
+Charlotte Hornets (Original),Charlotte Hornets (Original),Milwaukee Bucks,1,4,5,689576400.0,1992
+Charlotte Hornets (Original),New York Knicks,Charlotte Hornets (Original),1,5,6,689662800.0,1992
+Charlotte Hornets (Original),Atlanta Hawks,Charlotte Hornets (Original),1,6,7,689922000.0,1992
+Charlotte Hornets (Original),Charlotte Hornets (Original),Chicago Bulls,1,7,8,690008400.0,1992
+Charlotte Hornets (Original),Miami Heat,Charlotte Hornets (Original),1,8,9,690181200.0,1992
+Charlotte Hornets (Original),Charlotte Hornets (Original),Boston Celtics,2,8,10,690267600.0,1992
+Charlotte Hornets (Original),Milwaukee Bucks,Charlotte Hornets (Original),2,9,11,690526800.0,1992
+Charlotte Hornets (Original),Charlotte Hornets (Original),Cleveland Cavaliers,3,9,12,690613200.0,1992
+Charlotte Hornets (Original),Charlotte Hornets (Original),Indiana Pacers,4,9,13,690786000.0,1992
+Charlotte Hornets (Original),Denver Nuggets,Charlotte Hornets (Original),4,10,14,691131600.0,1992
+Charlotte Hornets (Original),Utah Jazz,Charlotte Hornets (Original),4,11,15,691218000.0,1992
+Charlotte Hornets (Original),Phoenix Suns,Charlotte Hornets (Original),4,12,16,691390800.0,1992
+Charlotte Hornets (Original),Los Angeles Clippers,Charlotte Hornets (Original),4,13,17,691477200.0,1992
+Charlotte Hornets (Original),Charlotte Hornets (Original),New York Knicks,4,14,18,691650000.0,1992
+Charlotte Hornets (Original),Charlotte Hornets (Original),Los Angeles Lakers,5,14,19,691822800.0,1992
+Charlotte Hornets (Original),Chicago Bulls,Charlotte Hornets (Original),5,15,20,691995600.0,1992
+Charlotte Hornets (Original),Orlando Magic,Charlotte Hornets (Original),6,15,21,692082000.0,1992
+Charlotte Hornets (Original),Charlotte Hornets (Original),Dallas Mavericks,6,16,22,692427600.0,1992
+Charlotte Hornets (Original),Charlotte Hornets (Original),Miami Heat,6,17,23,692600400.0,1992
+Charlotte Hornets (Original),New Jersey Nets,Charlotte Hornets (Original),7,17,24,692686800.0,1992
+Charlotte Hornets (Original),Charlotte Hornets (Original),Utah Jazz,7,18,25,692946000.0,1992
+Charlotte Hornets (Original),Detroit Pistons,Charlotte Hornets (Original),7,19,26,693032400.0,1992
+Charlotte Hornets (Original),Charlotte Hornets (Original),Houston Rockets,7,20,27,693205200.0,1992
+Charlotte Hornets (Original),Cleveland Cavaliers,Charlotte Hornets (Original),7,21,28,693291600.0,1992
+Charlotte Hornets (Original),Philadelphia 76ers,Charlotte Hornets (Original),8,21,29,693464400.0,1992
+Charlotte Hornets (Original),Charlotte Hornets (Original),New Jersey Nets,8,22,30,693810000.0,1992
+Charlotte Hornets (Original),Washington Bullets,Charlotte Hornets (Original),8,23,31,693896400.0,1992
+Charlotte Hornets (Original),Charlotte Hornets (Original),Los Angeles Clippers,8,24,32,694328400.0,1992
+Charlotte Hornets (Original),Charlotte Hornets (Original),Phoenix Suns,9,24,33,694501200.0,1992
+Charlotte Hornets (Original),Charlotte Hornets (Original),Sacramento Kings,10,24,34,694933200.0,1992
+Charlotte Hornets (Original),Charlotte Hornets (Original),Portland Trail Blazers,10,25,35,695106000.0,1992
+Charlotte Hornets (Original),Seattle Supersonics,Charlotte Hornets (Original),11,25,36,695365200.0,1992
+Charlotte Hornets (Original),Los Angeles Lakers,Charlotte Hornets (Original),11,26,37,695451600.0,1992
+Charlotte Hornets (Original),Portland Trail Blazers,Charlotte Hornets (Original),11,27,38,695624400.0,1992
+Charlotte Hornets (Original),Sacramento Kings,Charlotte Hornets (Original),11,28,39,695710800.0,1992
+Charlotte Hornets (Original),Golden State Warriors,Charlotte Hornets (Original),11,29,40,695883600.0,1992
+Charlotte Hornets (Original),Charlotte Hornets (Original),Chicago Bulls,11,30,41,696056400.0,1992
+Charlotte Hornets (Original),Charlotte Hornets (Original),Indiana Pacers,12,30,42,696315600.0,1992
+Charlotte Hornets (Original),Charlotte Hornets (Original),Detroit Pistons,12,31,43,696574800.0,1992
+Charlotte Hornets (Original),Charlotte Hornets (Original),Seattle Supersonics,12,32,44,696834000.0,1992
+Charlotte Hornets (Original),Miami Heat,Charlotte Hornets (Original),12,33,45,697006800.0,1992
+Charlotte Hornets (Original),Charlotte Hornets (Original),Washington Bullets,13,33,46,697179600.0,1992
+Charlotte Hornets (Original),Charlotte Hornets (Original),Golden State Warriors,14,33,47,697352400.0,1992
+Charlotte Hornets (Original),Atlanta Hawks,Charlotte Hornets (Original),15,33,48,697784400.0,1992
+Charlotte Hornets (Original),Milwaukee Bucks,Charlotte Hornets (Original),15,34,49,697957200.0,1992
+Charlotte Hornets (Original),Charlotte Hornets (Original),Miami Heat,16,34,50,698216400.0,1992
+Charlotte Hornets (Original),Indiana Pacers,Charlotte Hornets (Original),16,35,51,698302800.0,1992
+Charlotte Hornets (Original),Charlotte Hornets (Original),Denver Nuggets,17,35,52,698475600.0,1992
+Charlotte Hornets (Original),Boston Celtics,Charlotte Hornets (Original),17,36,53,698648400.0,1992
+Charlotte Hornets (Original),Charlotte Hornets (Original),Orlando Magic,18,36,54,698734800.0,1992
+Charlotte Hornets (Original),Charlotte Hornets (Original),Milwaukee Bucks,19,36,55,698994000.0,1992
+Charlotte Hornets (Original),Charlotte Hornets (Original),Philadelphia 76ers,20,36,56,699166800.0,1992
+Charlotte Hornets (Original),Charlotte Hornets (Original),Indiana Pacers,21,36,57,699339600.0,1992
+Charlotte Hornets (Original),Milwaukee Bucks,Charlotte Hornets (Original),22,36,58,699685200.0,1992
+Charlotte Hornets (Original),New York Knicks,Charlotte Hornets (Original),22,37,59,699944400.0,1992
+Charlotte Hornets (Original),Charlotte Hornets (Original),Minnesota Timberwolves,23,37,60,700203600.0,1992
+Charlotte Hornets (Original),Dallas Mavericks,Charlotte Hornets (Original),24,37,61,700290000.0,1992
+Charlotte Hornets (Original),Houston Rockets,Charlotte Hornets (Original),24,38,62,700462800.0,1992
+Charlotte Hornets (Original),San Antonio Spurs,Charlotte Hornets (Original),25,38,63,700722000.0,1992
+Charlotte Hornets (Original),Philadelphia 76ers,Charlotte Hornets (Original),26,38,64,700981200.0,1992
+Charlotte Hornets (Original),Charlotte Hornets (Original),Atlanta Hawks,26,39,65,701067600.0,1992
+Charlotte Hornets (Original),Charlotte Hornets (Original),Detroit Pistons,27,39,66,701240400.0,1992
+Charlotte Hornets (Original),New Jersey Nets,Charlotte Hornets (Original),27,40,67,701326800.0,1992
+Charlotte Hornets (Original),Charlotte Hornets (Original),San Antonio Spurs,28,40,68,701499600.0,1992
+Charlotte Hornets (Original),Charlotte Hornets (Original),Cleveland Cavaliers,28,41,69,701672400.0,1992
+Charlotte Hornets (Original),Washington Bullets,Charlotte Hornets (Original),28,42,70,701758800.0,1992
+Charlotte Hornets (Original),Charlotte Hornets (Original),Orlando Magic,29,42,71,701931600.0,1992
+Charlotte Hornets (Original),Chicago Bulls,Charlotte Hornets (Original),29,43,72,702104400.0,1992
+Charlotte Hornets (Original),Charlotte Hornets (Original),New York Knicks,29,44,73,702190800.0,1992
+Charlotte Hornets (Original),Charlotte Hornets (Original),Washington Bullets,30,44,74,702363600.0,1992
+Charlotte Hornets (Original),Orlando Magic,Charlotte Hornets (Original),30,45,75,702619200.0,1992
+Charlotte Hornets (Original),Cleveland Cavaliers,Charlotte Hornets (Original),30,46,76,702792000.0,1992
+Charlotte Hornets (Original),Detroit Pistons,Charlotte Hornets (Original),30,47,77,702878400.0,1992
+Charlotte Hornets (Original),Charlotte Hornets (Original),Boston Celtics,30,48,78,703051200.0,1992
+Charlotte Hornets (Original),Indiana Pacers,Charlotte Hornets (Original),30,49,79,703224000.0,1992
+Charlotte Hornets (Original),Charlotte Hornets (Original),Cleveland Cavaliers,31,49,80,703310400.0,1992
+Charlotte Hornets (Original),Charlotte Hornets (Original),Philadelphia 76ers,31,50,81,703483200.0,1992
+Charlotte Hornets (Original),Minnesota Timberwolves,Charlotte Hornets (Original),31,51,82,703656000.0,1992
+Chicago Bulls,Chicago Bulls,Philadelphia 76ers,1,0,1,688971600.0,1992
+Chicago Bulls,Milwaukee Bucks,Chicago Bulls,1,1,2,689058000.0,1992
+Chicago Bulls,Chicago Bulls,Golden State Warriors,1,2,3,689317200.0,1992
+Chicago Bulls,Boston Celtics,Chicago Bulls,2,2,4,689403600.0,1992
+Chicago Bulls,Chicago Bulls,Dallas Mavericks,3,2,5,689576400.0,1992
+Chicago Bulls,Chicago Bulls,Orlando Magic,4,2,6,689662800.0,1992
+Chicago Bulls,Chicago Bulls,Detroit Pistons,5,2,7,689922000.0,1992
+Chicago Bulls,Charlotte Hornets (Original),Chicago Bulls,6,2,8,690008400.0,1992
+Chicago Bulls,Chicago Bulls,Milwaukee Bucks,7,2,9,690181200.0,1992
+Chicago Bulls,Golden State Warriors,Chicago Bulls,8,2,10,690613200.0,1992
+Chicago Bulls,Seattle Supersonics,Chicago Bulls,9,2,11,690786000.0,1992
+Chicago Bulls,Denver Nuggets,Chicago Bulls,10,2,12,690872400.0,1992
+Chicago Bulls,Los Angeles Clippers,Chicago Bulls,11,2,13,691131600.0,1992
+Chicago Bulls,Portland Trail Blazers,Chicago Bulls,12,2,14,691390800.0,1992
+Chicago Bulls,Sacramento Kings,Chicago Bulls,13,2,15,691477200.0,1992
+Chicago Bulls,Chicago Bulls,Cleveland Cavaliers,14,2,16,691822800.0,1992
+Chicago Bulls,Chicago Bulls,Charlotte Hornets (Original),15,2,17,691995600.0,1992
+Chicago Bulls,Philadelphia 76ers,Chicago Bulls,15,3,18,692082000.0,1992
+Chicago Bulls,Chicago Bulls,Seattle Supersonics,16,3,19,692341200.0,1992
+Chicago Bulls,Chicago Bulls,New York Knicks,17,3,20,692600400.0,1992
+Chicago Bulls,Washington Bullets,Chicago Bulls,18,3,21,692686800.0,1992
+Chicago Bulls,Chicago Bulls,Los Angeles Lakers,18,4,22,692946000.0,1992
+Chicago Bulls,New Jersey Nets,Chicago Bulls,19,4,23,693205200.0,1992
+Chicago Bulls,Chicago Bulls,Atlanta Hawks,20,4,24,693291600.0,1992
+Chicago Bulls,Chicago Bulls,Boston Celtics,21,4,25,693637200.0,1992
+Chicago Bulls,Atlanta Hawks,Chicago Bulls,22,4,26,693723600.0,1992
+Chicago Bulls,Chicago Bulls,Sacramento Kings,23,4,27,693896400.0,1992
+Chicago Bulls,Indiana Pacers,Chicago Bulls,24,4,28,694069200.0,1992
+Chicago Bulls,Milwaukee Bucks,Chicago Bulls,24,5,29,694414800.0,1992
+Chicago Bulls,Chicago Bulls,New Jersey Nets,25,5,30,694501200.0,1992
+Chicago Bulls,Chicago Bulls,Washington Bullets,26,5,31,694760400.0,1992
+Chicago Bulls,Miami Heat,Chicago Bulls,27,5,32,694846800.0,1992
+Chicago Bulls,Chicago Bulls,Utah Jazz,28,5,33,695019600.0,1992
+Chicago Bulls,Chicago Bulls,Miami Heat,29,5,34,695106000.0,1992
+Chicago Bulls,Chicago Bulls,Philadelphia 76ers,30,5,35,695365200.0,1992
+Chicago Bulls,Cleveland Cavaliers,Chicago Bulls,31,5,36,695538000.0,1992
+Chicago Bulls,Chicago Bulls,San Antonio Spurs,32,5,37,695624400.0,1992
+Chicago Bulls,Detroit Pistons,Chicago Bulls,33,5,38,695797200.0,1992
+Chicago Bulls,Chicago Bulls,Phoenix Suns,34,5,39,695970000.0,1992
+Chicago Bulls,Charlotte Hornets (Original),Chicago Bulls,35,5,40,696056400.0,1992
+Chicago Bulls,Chicago Bulls,Detroit Pistons,36,5,41,696229200.0,1992
+Chicago Bulls,Chicago Bulls,Houston Rockets,37,5,42,696315600.0,1992
+Chicago Bulls,San Antonio Spurs,Chicago Bulls,37,6,43,696574800.0,1992
+Chicago Bulls,Houston Rockets,Chicago Bulls,37,7,44,696747600.0,1992
+Chicago Bulls,Dallas Mavericks,Chicago Bulls,38,7,45,696834000.0,1992
+Chicago Bulls,Los Angeles Lakers,Chicago Bulls,39,7,46,697006800.0,1992
+Chicago Bulls,Utah Jazz,Chicago Bulls,39,8,47,697093200.0,1992
+Chicago Bulls,Phoenix Suns,Chicago Bulls,39,9,48,697266000.0,1992
+Chicago Bulls,Chicago Bulls,New Jersey Nets,40,9,49,697784400.0,1992
+Chicago Bulls,New York Knicks,Chicago Bulls,41,9,50,697957200.0,1992
+Chicago Bulls,Chicago Bulls,New York Knicks,42,9,51,698130000.0,1992
+Chicago Bulls,Chicago Bulls,Cleveland Cavaliers,42,10,52,698302800.0,1992
+Chicago Bulls,Orlando Magic,Chicago Bulls,43,10,53,698475600.0,1992
+Chicago Bulls,Atlanta Hawks,Chicago Bulls,44,10,54,698648400.0,1992
+Chicago Bulls,Chicago Bulls,Minnesota Timberwolves,45,10,55,698734800.0,1992
+Chicago Bulls,Detroit Pistons,Chicago Bulls,45,11,56,698994000.0,1992
+Chicago Bulls,Chicago Bulls,Washington Bullets,46,11,57,699080400.0,1992
+Chicago Bulls,Milwaukee Bucks,Chicago Bulls,47,11,58,699253200.0,1992
+Chicago Bulls,Chicago Bulls,Portland Trail Blazers,48,11,59,699426000.0,1992
+Chicago Bulls,Chicago Bulls,Indiana Pacers,48,12,60,699598800.0,1992
+Chicago Bulls,Minnesota Timberwolves,Chicago Bulls,49,12,61,699771600.0,1992
+Chicago Bulls,Chicago Bulls,Miami Heat,50,12,62,699858000.0,1992
+Chicago Bulls,Philadelphia 76ers,Chicago Bulls,51,12,63,700030800.0,1992
+Chicago Bulls,Chicago Bulls,Boston Celtics,52,12,64,700290000.0,1992
+Chicago Bulls,Orlando Magic,Chicago Bulls,53,12,65,700549200.0,1992
+Chicago Bulls,Miami Heat,Chicago Bulls,54,12,66,700722000.0,1992
+Chicago Bulls,New Jersey Nets,Chicago Bulls,55,12,67,700808400.0,1992
+Chicago Bulls,Washington Bullets,Chicago Bulls,56,12,68,700981200.0,1992
+Chicago Bulls,Chicago Bulls,Orlando Magic,56,13,69,701154000.0,1992
+Chicago Bulls,Chicago Bulls,Denver Nuggets,57,13,70,701413200.0,1992
+Chicago Bulls,Chicago Bulls,Cleveland Cavaliers,58,13,71,701758800.0,1992
+Chicago Bulls,New York Knicks,Chicago Bulls,59,13,72,702018000.0,1992
+Chicago Bulls,Chicago Bulls,Charlotte Hornets (Original),60,13,73,702104400.0,1992
+Chicago Bulls,Chicago Bulls,Los Angeles Clippers,61,13,74,702277200.0,1992
+Chicago Bulls,Boston Celtics,Chicago Bulls,61,14,75,702450000.0,1992
+Chicago Bulls,Chicago Bulls,Milwaukee Bucks,62,14,76,702619200.0,1992
+Chicago Bulls,Indiana Pacers,Chicago Bulls,63,14,77,702878400.0,1992
+Chicago Bulls,Chicago Bulls,Indiana Pacers,64,14,78,702964800.0,1992
+Chicago Bulls,Chicago Bulls,Atlanta Hawks,65,14,79,703137600.0,1992
+Chicago Bulls,Cleveland Cavaliers,Chicago Bulls,65,15,80,703224000.0,1992
+Chicago Bulls,Atlanta Hawks,Chicago Bulls,66,15,81,703483200.0,1992
+Chicago Bulls,Chicago Bulls,Detroit Pistons,67,15,82,703656000.0,1992
+Cleveland Cavaliers,Portland Trail Blazers,Cleveland Cavaliers,0,1,1,688971600.0,1992
+Cleveland Cavaliers,Los Angeles Clippers,Cleveland Cavaliers,0,2,2,689058000.0,1992
+Cleveland Cavaliers,Dallas Mavericks,Cleveland Cavaliers,1,2,3,689317200.0,1992
+Cleveland Cavaliers,Houston Rockets,Cleveland Cavaliers,1,3,4,689490000.0,1992
+Cleveland Cavaliers,San Antonio Spurs,Cleveland Cavaliers,1,4,5,689576400.0,1992
+Cleveland Cavaliers,Cleveland Cavaliers,Milwaukee Bucks,2,4,6,689922000.0,1992
+Cleveland Cavaliers,Cleveland Cavaliers,Seattle Supersonics,3,4,7,690094800.0,1992
+Cleveland Cavaliers,Cleveland Cavaliers,Indiana Pacers,4,4,8,690267600.0,1992
+Cleveland Cavaliers,Charlotte Hornets (Original),Cleveland Cavaliers,4,5,9,690613200.0,1992
+Cleveland Cavaliers,Cleveland Cavaliers,New Jersey Nets,5,5,10,690699600.0,1992
+Cleveland Cavaliers,Cleveland Cavaliers,Detroit Pistons,6,5,11,690872400.0,1992
+Cleveland Cavaliers,Philadelphia 76ers,Cleveland Cavaliers,7,5,12,691131600.0,1992
+Cleveland Cavaliers,Cleveland Cavaliers,Philadelphia 76ers,8,5,13,691218000.0,1992
+Cleveland Cavaliers,Cleveland Cavaliers,Orlando Magic,9,5,14,691390800.0,1992
+Cleveland Cavaliers,Chicago Bulls,Cleveland Cavaliers,9,6,15,691822800.0,1992
+Cleveland Cavaliers,Detroit Pistons,Cleveland Cavaliers,10,6,16,691909200.0,1992
+Cleveland Cavaliers,Cleveland Cavaliers,Washington Bullets,11,6,17,692082000.0,1992
+Cleveland Cavaliers,Miami Heat,Cleveland Cavaliers,11,7,18,692427600.0,1992
+Cleveland Cavaliers,Cleveland Cavaliers,Atlanta Hawks,12,7,19,692514000.0,1992
+Cleveland Cavaliers,Cleveland Cavaliers,Dallas Mavericks,12,8,20,692686800.0,1992
+Cleveland Cavaliers,Cleveland Cavaliers,Miami Heat,13,8,21,692946000.0,1992
+Cleveland Cavaliers,New Jersey Nets,Cleveland Cavaliers,13,9,22,693032400.0,1992
+Cleveland Cavaliers,Atlanta Hawks,Cleveland Cavaliers,14,9,23,693205200.0,1992
+Cleveland Cavaliers,Cleveland Cavaliers,Charlotte Hornets (Original),15,9,24,693291600.0,1992
+Cleveland Cavaliers,Cleveland Cavaliers,Utah Jazz,16,9,25,693464400.0,1992
+Cleveland Cavaliers,Milwaukee Bucks,Cleveland Cavaliers,17,9,26,693723600.0,1992
+Cleveland Cavaliers,Cleveland Cavaliers,San Antonio Spurs,18,9,27,693810000.0,1992
+Cleveland Cavaliers,Cleveland Cavaliers,Houston Rockets,19,9,28,694069200.0,1992
+Cleveland Cavaliers,New York Knicks,Cleveland Cavaliers,20,9,29,694328400.0,1992
+Cleveland Cavaliers,Boston Celtics,Cleveland Cavaliers,21,9,30,694414800.0,1992
+Cleveland Cavaliers,Minnesota Timberwolves,Cleveland Cavaliers,22,9,31,694760400.0,1992
+Cleveland Cavaliers,Washington Bullets,Cleveland Cavaliers,23,9,32,694933200.0,1992
+Cleveland Cavaliers,Cleveland Cavaliers,Philadelphia 76ers,24,9,33,695106000.0,1992
+Cleveland Cavaliers,Cleveland Cavaliers,Portland Trail Blazers,24,10,34,695365200.0,1992
+Cleveland Cavaliers,Cleveland Cavaliers,Chicago Bulls,24,11,35,695538000.0,1992
+Cleveland Cavaliers,Cleveland Cavaliers,New York Knicks,25,11,36,695710800.0,1992
+Cleveland Cavaliers,Cleveland Cavaliers,Boston Celtics,25,12,37,695883600.0,1992
+Cleveland Cavaliers,Cleveland Cavaliers,Indiana Pacers,26,12,38,696056400.0,1992
+Cleveland Cavaliers,Indiana Pacers,Cleveland Cavaliers,27,12,39,696229200.0,1992
+Cleveland Cavaliers,Orlando Magic,Cleveland Cavaliers,27,13,40,696315600.0,1992
+Cleveland Cavaliers,Detroit Pistons,Cleveland Cavaliers,28,13,41,696661200.0,1992
+Cleveland Cavaliers,Cleveland Cavaliers,Orlando Magic,29,13,42,696747600.0,1992
+Cleveland Cavaliers,Cleveland Cavaliers,Minnesota Timberwolves,30,13,43,697006800.0,1992
+Cleveland Cavaliers,Philadelphia 76ers,Cleveland Cavaliers,31,13,44,697266000.0,1992
+Cleveland Cavaliers,Cleveland Cavaliers,Detroit Pistons,31,14,45,697352400.0,1992
+Cleveland Cavaliers,Utah Jazz,Cleveland Cavaliers,31,15,46,697784400.0,1992
+Cleveland Cavaliers,Denver Nuggets,Cleveland Cavaliers,31,16,47,697870800.0,1992
+Cleveland Cavaliers,Cleveland Cavaliers,New Jersey Nets,32,16,48,698130000.0,1992
+Cleveland Cavaliers,Chicago Bulls,Cleveland Cavaliers,33,16,49,698302800.0,1992
+Cleveland Cavaliers,Milwaukee Bucks,Cleveland Cavaliers,33,17,50,698389200.0,1992
+Cleveland Cavaliers,New York Knicks,Cleveland Cavaliers,34,17,51,698562000.0,1992
+Cleveland Cavaliers,Cleveland Cavaliers,Sacramento Kings,35,17,52,698648400.0,1992
+Cleveland Cavaliers,Cleveland Cavaliers,Milwaukee Bucks,36,17,53,698821200.0,1992
+Cleveland Cavaliers,Phoenix Suns,Cleveland Cavaliers,36,18,54,699080400.0,1992
+Cleveland Cavaliers,Los Angeles Lakers,Cleveland Cavaliers,37,18,55,699253200.0,1992
+Cleveland Cavaliers,Seattle Supersonics,Cleveland Cavaliers,37,19,56,699426000.0,1992
+Cleveland Cavaliers,Sacramento Kings,Cleveland Cavaliers,38,19,57,699685200.0,1992
+Cleveland Cavaliers,Golden State Warriors,Cleveland Cavaliers,38,20,58,699771600.0,1992
+Cleveland Cavaliers,Atlanta Hawks,Cleveland Cavaliers,39,20,59,699944400.0,1992
+Cleveland Cavaliers,Cleveland Cavaliers,Phoenix Suns,40,20,60,700203600.0,1992
+Cleveland Cavaliers,Cleveland Cavaliers,Los Angeles Lakers,41,20,61,700462800.0,1992
+Cleveland Cavaliers,Cleveland Cavaliers,Denver Nuggets,42,20,62,700635600.0,1992
+Cleveland Cavaliers,Washington Bullets,Cleveland Cavaliers,43,20,63,700722000.0,1992
+Cleveland Cavaliers,Boston Celtics,Cleveland Cavaliers,43,21,64,700894800.0,1992
+Cleveland Cavaliers,Cleveland Cavaliers,Golden State Warriors,44,21,65,701067600.0,1992
+Cleveland Cavaliers,Cleveland Cavaliers,Atlanta Hawks,45,21,66,701240400.0,1992
+Cleveland Cavaliers,Cleveland Cavaliers,Indiana Pacers,46,21,67,701413200.0,1992
+Cleveland Cavaliers,Orlando Magic,Cleveland Cavaliers,47,21,68,701499600.0,1992
+Cleveland Cavaliers,Charlotte Hornets (Original),Cleveland Cavaliers,48,21,69,701672400.0,1992
+Cleveland Cavaliers,Chicago Bulls,Cleveland Cavaliers,48,22,70,701758800.0,1992
+Cleveland Cavaliers,Cleveland Cavaliers,Miami Heat,49,22,71,702018000.0,1992
+Cleveland Cavaliers,Cleveland Cavaliers,Los Angeles Clippers,50,22,72,702190800.0,1992
+Cleveland Cavaliers,Miami Heat,Cleveland Cavaliers,51,22,73,702277200.0,1992
+Cleveland Cavaliers,Cleveland Cavaliers,New York Knicks,52,22,74,702450000.0,1992
+Cleveland Cavaliers,Cleveland Cavaliers,Boston Celtics,52,23,75,702619200.0,1992
+Cleveland Cavaliers,Cleveland Cavaliers,Charlotte Hornets (Original),53,23,76,702792000.0,1992
+Cleveland Cavaliers,New Jersey Nets,Cleveland Cavaliers,53,24,77,702878400.0,1992
+Cleveland Cavaliers,Cleveland Cavaliers,Washington Bullets,54,24,78,703051200.0,1992
+Cleveland Cavaliers,Cleveland Cavaliers,Chicago Bulls,55,24,79,703224000.0,1992
+Cleveland Cavaliers,Charlotte Hornets (Original),Cleveland Cavaliers,55,25,80,703310400.0,1992
+Cleveland Cavaliers,Indiana Pacers,Cleveland Cavaliers,56,25,81,703483200.0,1992
+Cleveland Cavaliers,Cleveland Cavaliers,Atlanta Hawks,57,25,82,703656000.0,1992
+Dallas Mavericks,San Antonio Spurs,Dallas Mavericks,0,1,1,688971600.0,1992
+Dallas Mavericks,Dallas Mavericks,Los Angeles Lakers,0,2,2,689058000.0,1992
+Dallas Mavericks,Dallas Mavericks,Cleveland Cavaliers,0,3,3,689317200.0,1992
+Dallas Mavericks,Minnesota Timberwolves,Dallas Mavericks,1,3,4,689403600.0,1992
+Dallas Mavericks,Chicago Bulls,Dallas Mavericks,1,4,5,689576400.0,1992
+Dallas Mavericks,Milwaukee Bucks,Dallas Mavericks,1,5,6,689662800.0,1992
+Dallas Mavericks,Dallas Mavericks,Houston Rockets,1,6,7,689922000.0,1992
+Dallas Mavericks,Dallas Mavericks,Los Angeles Clippers,2,6,8,690094800.0,1992
+Dallas Mavericks,Dallas Mavericks,Phoenix Suns,3,6,9,690267600.0,1992
+Dallas Mavericks,Denver Nuggets,Dallas Mavericks,4,6,10,690526800.0,1992
+Dallas Mavericks,Dallas Mavericks,New York Knicks,4,7,11,690613200.0,1992
+Dallas Mavericks,Dallas Mavericks,Utah Jazz,5,7,12,690872400.0,1992
+Dallas Mavericks,Dallas Mavericks,Indiana Pacers,6,7,13,691218000.0,1992
+Dallas Mavericks,Dallas Mavericks,New Jersey Nets,6,8,14,691390800.0,1992
+Dallas Mavericks,Dallas Mavericks,Minnesota Timberwolves,7,8,15,691477200.0,1992
+Dallas Mavericks,Dallas Mavericks,Atlanta Hawks,7,9,16,691736400.0,1992
+Dallas Mavericks,Golden State Warriors,Dallas Mavericks,7,10,17,691909200.0,1992
+Dallas Mavericks,Seattle Supersonics,Dallas Mavericks,7,11,18,692082000.0,1992
+Dallas Mavericks,Los Angeles Lakers,Dallas Mavericks,7,12,19,692168400.0,1992
+Dallas Mavericks,Dallas Mavericks,Miami Heat,8,12,20,692341200.0,1992
+Dallas Mavericks,Charlotte Hornets (Original),Dallas Mavericks,9,12,21,692427600.0,1992
+Dallas Mavericks,Indiana Pacers,Dallas Mavericks,9,13,22,692600400.0,1992
+Dallas Mavericks,Cleveland Cavaliers,Dallas Mavericks,10,13,23,692686800.0,1992
+Dallas Mavericks,Dallas Mavericks,San Antonio Spurs,10,14,24,692946000.0,1992
+Dallas Mavericks,Dallas Mavericks,Washington Bullets,10,15,25,693205200.0,1992
+Dallas Mavericks,Dallas Mavericks,Sacramento Kings,11,15,26,693291600.0,1992
+Dallas Mavericks,Houston Rockets,Dallas Mavericks,12,15,27,693464400.0,1992
+Dallas Mavericks,Portland Trail Blazers,Dallas Mavericks,12,16,28,693723600.0,1992
+Dallas Mavericks,Phoenix Suns,Dallas Mavericks,12,17,29,693896400.0,1992
+Dallas Mavericks,Dallas Mavericks,Detroit Pistons,12,18,30,694414800.0,1992
+Dallas Mavericks,Utah Jazz,Dallas Mavericks,12,19,31,694501200.0,1992
+Dallas Mavericks,Dallas Mavericks,Los Angeles Lakers,12,20,32,694760400.0,1992
+Dallas Mavericks,Atlanta Hawks,Dallas Mavericks,12,21,33,694933200.0,1992
+Dallas Mavericks,Dallas Mavericks,Seattle Supersonics,12,22,34,695019600.0,1992
+Dallas Mavericks,Detroit Pistons,Dallas Mavericks,12,23,35,695278800.0,1992
+Dallas Mavericks,New Jersey Nets,Dallas Mavericks,12,24,36,695365200.0,1992
+Dallas Mavericks,Dallas Mavericks,Denver Nuggets,12,25,37,695538000.0,1992
+Dallas Mavericks,Dallas Mavericks,Golden State Warriors,12,26,38,695710800.0,1992
+Dallas Mavericks,Dallas Mavericks,Milwaukee Bucks,13,26,39,696056400.0,1992
+Dallas Mavericks,Orlando Magic,Dallas Mavericks,13,27,40,696229200.0,1992
+Dallas Mavericks,Miami Heat,Dallas Mavericks,13,28,41,696315600.0,1992
+Dallas Mavericks,Dallas Mavericks,San Antonio Spurs,13,29,42,696661200.0,1992
+Dallas Mavericks,Dallas Mavericks,Chicago Bulls,13,30,43,696834000.0,1992
+Dallas Mavericks,Dallas Mavericks,Utah Jazz,13,31,44,696920400.0,1992
+Dallas Mavericks,Sacramento Kings,Dallas Mavericks,13,32,45,697093200.0,1992
+Dallas Mavericks,Los Angeles Clippers,Dallas Mavericks,13,33,46,697179600.0,1992
+Dallas Mavericks,Dallas Mavericks,Portland Trail Blazers,13,34,47,697352400.0,1992
+Dallas Mavericks,Dallas Mavericks,Boston Celtics,14,34,48,697870800.0,1992
+Dallas Mavericks,Denver Nuggets,Dallas Mavericks,14,35,49,698043600.0,1992
+Dallas Mavericks,Dallas Mavericks,Houston Rockets,15,35,50,698130000.0,1992
+Dallas Mavericks,Dallas Mavericks,Philadelphia 76ers,15,36,51,698389200.0,1992
+Dallas Mavericks,Utah Jazz,Dallas Mavericks,15,37,52,698475600.0,1992
+Dallas Mavericks,Dallas Mavericks,Minnesota Timberwolves,16,37,53,698648400.0,1992
+Dallas Mavericks,Dallas Mavericks,Golden State Warriors,16,38,54,698907600.0,1992
+Dallas Mavericks,Minnesota Timberwolves,Dallas Mavericks,16,39,55,699080400.0,1992
+Dallas Mavericks,Dallas Mavericks,Phoenix Suns,17,39,56,699253200.0,1992
+Dallas Mavericks,Boston Celtics,Dallas Mavericks,17,40,57,699426000.0,1992
+Dallas Mavericks,New York Knicks,Dallas Mavericks,17,41,58,699598800.0,1992
+Dallas Mavericks,Washington Bullets,Dallas Mavericks,17,42,59,699771600.0,1992
+Dallas Mavericks,Philadelphia 76ers,Dallas Mavericks,17,43,60,699858000.0,1992
+Dallas Mavericks,Dallas Mavericks,San Antonio Spurs,17,44,61,700030800.0,1992
+Dallas Mavericks,Houston Rockets,Dallas Mavericks,17,45,62,700203600.0,1992
+Dallas Mavericks,Dallas Mavericks,Charlotte Hornets (Original),17,46,63,700290000.0,1992
+Dallas Mavericks,Los Angeles Clippers,Dallas Mavericks,17,47,64,700462800.0,1992
+Dallas Mavericks,Seattle Supersonics,Dallas Mavericks,17,48,65,700635600.0,1992
+Dallas Mavericks,Phoenix Suns,Dallas Mavericks,17,49,66,700808400.0,1992
+Dallas Mavericks,Dallas Mavericks,Los Angeles Clippers,17,50,67,700894800.0,1992
+Dallas Mavericks,Dallas Mavericks,Sacramento Kings,17,51,68,701067600.0,1992
+Dallas Mavericks,Dallas Mavericks,Seattle Supersonics,17,52,69,701240400.0,1992
+Dallas Mavericks,Portland Trail Blazers,Dallas Mavericks,17,53,70,701413200.0,1992
+Dallas Mavericks,Los Angeles Lakers,Dallas Mavericks,17,54,71,701586000.0,1992
+Dallas Mavericks,Dallas Mavericks,Denver Nuggets,18,54,72,701845200.0,1992
+Dallas Mavericks,Dallas Mavericks,Orlando Magic,19,54,73,702104400.0,1992
+Dallas Mavericks,Dallas Mavericks,Minnesota Timberwolves,19,55,74,702277200.0,1992
+Dallas Mavericks,Sacramento Kings,Dallas Mavericks,19,56,75,702450000.0,1992
+Dallas Mavericks,Golden State Warriors,Dallas Mavericks,19,57,76,702705600.0,1992
+Dallas Mavericks,Utah Jazz,Dallas Mavericks,19,58,77,702792000.0,1992
+Dallas Mavericks,Houston Rockets,Dallas Mavericks,20,58,78,702964800.0,1992
+Dallas Mavericks,San Antonio Spurs,Dallas Mavericks,20,59,79,703224000.0,1992
+Dallas Mavericks,Dallas Mavericks,Portland Trail Blazers,20,60,80,703310400.0,1992
+Dallas Mavericks,Dallas Mavericks,Houston Rockets,21,60,81,703483200.0,1992
+Dallas Mavericks,Denver Nuggets,Dallas Mavericks,22,60,82,703656000.0,1992
+Denver Nuggets,Denver Nuggets,Golden State Warriors,0,1,1,688971600.0,1992
+Denver Nuggets,Denver Nuggets,Houston Rockets,1,1,2,689058000.0,1992
+Denver Nuggets,Denver Nuggets,San Antonio Spurs,2,1,3,689317200.0,1992
+Denver Nuggets,Denver Nuggets,Minnesota Timberwolves,3,1,4,689490000.0,1992
+Denver Nuggets,Los Angeles Clippers,Denver Nuggets,3,2,5,689576400.0,1992
+Denver Nuggets,Portland Trail Blazers,Denver Nuggets,3,3,6,689922000.0,1992
+Denver Nuggets,Denver Nuggets,Portland Trail Blazers,4,3,7,690267600.0,1992
+Denver Nuggets,Denver Nuggets,Dallas Mavericks,4,4,8,690526800.0,1992
+Denver Nuggets,Phoenix Suns,Denver Nuggets,4,5,9,690613200.0,1992
+Denver Nuggets,Utah Jazz,Denver Nuggets,4,6,10,690786000.0,1992
+Denver Nuggets,Denver Nuggets,Chicago Bulls,4,7,11,690872400.0,1992
+Denver Nuggets,Denver Nuggets,Charlotte Hornets (Original),5,7,12,691131600.0,1992
+Denver Nuggets,Minnesota Timberwolves,Denver Nuggets,5,8,13,691218000.0,1992
+Denver Nuggets,Denver Nuggets,Seattle Supersonics,6,8,14,691390800.0,1992
+Denver Nuggets,Denver Nuggets,New Jersey Nets,7,8,15,691477200.0,1992
+Denver Nuggets,Houston Rockets,Denver Nuggets,8,8,16,691736400.0,1992
+Denver Nuggets,Denver Nuggets,Los Angeles Clippers,8,9,17,691995600.0,1992
+Denver Nuggets,Boston Celtics,Denver Nuggets,8,10,18,692254800.0,1992
+Denver Nuggets,Philadelphia 76ers,Denver Nuggets,9,10,19,692427600.0,1992
+Denver Nuggets,New Jersey Nets,Denver Nuggets,9,11,20,692514000.0,1992
+Denver Nuggets,Indiana Pacers,Denver Nuggets,9,12,21,692686800.0,1992
+Denver Nuggets,Detroit Pistons,Denver Nuggets,9,13,22,692859600.0,1992
+Denver Nuggets,Denver Nuggets,Phoenix Suns,10,13,23,693032400.0,1992
+Denver Nuggets,Seattle Supersonics,Denver Nuggets,10,14,24,693118800.0,1992
+Denver Nuggets,Denver Nuggets,Washington Bullets,10,15,25,693291600.0,1992
+Denver Nuggets,Denver Nuggets,Golden State Warriors,10,16,26,693723600.0,1992
+Denver Nuggets,Denver Nuggets,Boston Celtics,11,16,27,693896400.0,1992
+Denver Nuggets,Denver Nuggets,Philadelphia 76ers,12,16,28,694069200.0,1992
+Denver Nuggets,Golden State Warriors,Denver Nuggets,12,17,29,694328400.0,1992
+Denver Nuggets,Denver Nuggets,Orlando Magic,13,17,30,694501200.0,1992
+Denver Nuggets,Denver Nuggets,Seattle Supersonics,13,18,31,694760400.0,1992
+Denver Nuggets,Phoenix Suns,Denver Nuggets,13,19,32,694846800.0,1992
+Denver Nuggets,Los Angeles Lakers,Denver Nuggets,13,20,33,695019600.0,1992
+Denver Nuggets,Denver Nuggets,San Antonio Spurs,13,21,34,695106000.0,1992
+Denver Nuggets,Denver Nuggets,Sacramento Kings,14,21,35,695278800.0,1992
+Denver Nuggets,Houston Rockets,Denver Nuggets,14,22,36,695365200.0,1992
+Denver Nuggets,Dallas Mavericks,Denver Nuggets,15,22,37,695538000.0,1992
+Denver Nuggets,Denver Nuggets,Atlanta Hawks,15,23,38,695797200.0,1992
+Denver Nuggets,Sacramento Kings,Denver Nuggets,15,24,39,695970000.0,1992
+Denver Nuggets,Denver Nuggets,Utah Jazz,16,24,40,696142800.0,1992
+Denver Nuggets,Denver Nuggets,Milwaukee Bucks,17,24,41,696315600.0,1992
+Denver Nuggets,Denver Nuggets,Los Angeles Lakers,17,25,42,696747600.0,1992
+Denver Nuggets,Golden State Warriors,Denver Nuggets,17,26,43,696834000.0,1992
+Denver Nuggets,Denver Nuggets,Indiana Pacers,17,27,44,697006800.0,1992
+Denver Nuggets,Minnesota Timberwolves,Denver Nuggets,17,28,45,697093200.0,1992
+Denver Nuggets,Milwaukee Bucks,Denver Nuggets,17,29,46,697352400.0,1992
+Denver Nuggets,Portland Trail Blazers,Denver Nuggets,17,30,47,697784400.0,1992
+Denver Nuggets,Denver Nuggets,Cleveland Cavaliers,18,30,48,697870800.0,1992
+Denver Nuggets,Denver Nuggets,Dallas Mavericks,19,30,49,698043600.0,1992
+Denver Nuggets,Utah Jazz,Denver Nuggets,19,31,50,698130000.0,1992
+Denver Nuggets,Charlotte Hornets (Original),Denver Nuggets,19,32,51,698475600.0,1992
+Denver Nuggets,Washington Bullets,Denver Nuggets,20,32,52,698648400.0,1992
+Denver Nuggets,New York Knicks,Denver Nuggets,20,33,53,698734800.0,1992
+Denver Nuggets,Atlanta Hawks,Denver Nuggets,20,34,54,698907600.0,1992
+Denver Nuggets,Denver Nuggets,Miami Heat,20,35,55,699080400.0,1992
+Denver Nuggets,Denver Nuggets,Houston Rockets,20,36,56,699253200.0,1992
+Denver Nuggets,San Antonio Spurs,Denver Nuggets,20,37,57,699339600.0,1992
+Denver Nuggets,Seattle Supersonics,Denver Nuggets,20,38,58,699598800.0,1992
+Denver Nuggets,Denver Nuggets,Portland Trail Blazers,20,39,59,699685200.0,1992
+Denver Nuggets,Denver Nuggets,Detroit Pistons,20,40,60,699858000.0,1992
+Denver Nuggets,Denver Nuggets,Utah Jazz,20,41,61,700030800.0,1992
+Denver Nuggets,Orlando Magic,Denver Nuggets,21,41,62,700203600.0,1992
+Denver Nuggets,Miami Heat,Denver Nuggets,21,42,63,700462800.0,1992
+Denver Nuggets,Cleveland Cavaliers,Denver Nuggets,21,43,64,700635600.0,1992
+Denver Nuggets,Denver Nuggets,Sacramento Kings,22,43,65,700808400.0,1992
+Denver Nuggets,Utah Jazz,Denver Nuggets,22,44,66,700981200.0,1992
+Denver Nuggets,Denver Nuggets,Los Angeles Clippers,22,45,67,701154000.0,1992
+Denver Nuggets,Minnesota Timberwolves,Denver Nuggets,23,45,68,701326800.0,1992
+Denver Nuggets,Chicago Bulls,Denver Nuggets,23,46,69,701413200.0,1992
+Denver Nuggets,Denver Nuggets,New York Knicks,23,47,70,701586000.0,1992
+Denver Nuggets,Denver Nuggets,Phoenix Suns,23,48,71,701758800.0,1992
+Denver Nuggets,Dallas Mavericks,Denver Nuggets,23,49,72,701845200.0,1992
+Denver Nuggets,Denver Nuggets,Minnesota Timberwolves,23,50,73,702018000.0,1992
+Denver Nuggets,Houston Rockets,Denver Nuggets,23,51,74,702190800.0,1992
+Denver Nuggets,Denver Nuggets,San Antonio Spurs,23,52,75,702450000.0,1992
+Denver Nuggets,Denver Nuggets,Utah Jazz,23,53,76,702619200.0,1992
+Denver Nuggets,Sacramento Kings,Denver Nuggets,23,54,77,702792000.0,1992
+Denver Nuggets,Los Angeles Clippers,Denver Nuggets,23,55,78,702964800.0,1992
+Denver Nuggets,Los Angeles Lakers,Denver Nuggets,23,56,79,703137600.0,1992
+Denver Nuggets,Denver Nuggets,Los Angeles Lakers,24,56,80,703310400.0,1992
+Denver Nuggets,San Antonio Spurs,Denver Nuggets,24,57,81,703483200.0,1992
+Denver Nuggets,Denver Nuggets,Dallas Mavericks,24,58,82,703656000.0,1992
+Detroit Pistons,Detroit Pistons,Milwaukee Bucks,0,1,1,688971600.0,1992
+Detroit Pistons,Atlanta Hawks,Detroit Pistons,1,1,2,689058000.0,1992
+Detroit Pistons,Detroit Pistons,Charlotte Hornets (Original),2,1,3,689317200.0,1992
+Detroit Pistons,New Jersey Nets,Detroit Pistons,3,1,4,689662800.0,1992
+Detroit Pistons,Detroit Pistons,Washington Bullets,4,1,5,689749200.0,1992
+Detroit Pistons,Chicago Bulls,Detroit Pistons,4,2,6,689922000.0,1992
+Detroit Pistons,Miami Heat,Detroit Pistons,4,3,7,690008400.0,1992
+Detroit Pistons,Detroit Pistons,Utah Jazz,5,3,8,690181200.0,1992
+Detroit Pistons,Detroit Pistons,Philadelphia 76ers,5,4,9,690267600.0,1992
+Detroit Pistons,Indiana Pacers,Detroit Pistons,5,5,10,690440400.0,1992
+Detroit Pistons,Detroit Pistons,Seattle Supersonics,5,6,11,690613200.0,1992
+Detroit Pistons,Detroit Pistons,New York Knicks,5,7,12,690786000.0,1992
+Detroit Pistons,Cleveland Cavaliers,Detroit Pistons,5,8,13,690872400.0,1992
+Detroit Pistons,Atlanta Hawks,Detroit Pistons,6,8,14,691131600.0,1992
+Detroit Pistons,Detroit Pistons,Atlanta Hawks,7,8,15,691218000.0,1992
+Detroit Pistons,New York Knicks,Detroit Pistons,7,9,16,691477200.0,1992
+Detroit Pistons,Detroit Pistons,Houston Rockets,8,9,17,691563600.0,1992
+Detroit Pistons,Detroit Pistons,Indiana Pacers,8,10,18,691736400.0,1992
+Detroit Pistons,Detroit Pistons,Cleveland Cavaliers,8,11,19,691909200.0,1992
+Detroit Pistons,Washington Bullets,Detroit Pistons,9,11,20,691995600.0,1992
+Detroit Pistons,Phoenix Suns,Detroit Pistons,9,12,21,692341200.0,1992
+Detroit Pistons,Los Angeles Clippers,Detroit Pistons,9,13,22,692427600.0,1992
+Detroit Pistons,Portland Trail Blazers,Detroit Pistons,10,13,23,692600400.0,1992
+Detroit Pistons,Utah Jazz,Detroit Pistons,10,14,24,692686800.0,1992
+Detroit Pistons,Detroit Pistons,Denver Nuggets,11,14,25,692859600.0,1992
+Detroit Pistons,Detroit Pistons,Charlotte Hornets (Original),12,14,26,693032400.0,1992
+Detroit Pistons,Detroit Pistons,Los Angeles Lakers,13,14,27,693205200.0,1992
+Detroit Pistons,Orlando Magic,Detroit Pistons,14,14,28,693723600.0,1992
+Detroit Pistons,Detroit Pistons,Orlando Magic,15,14,29,693810000.0,1992
+Detroit Pistons,Detroit Pistons,Phoenix Suns,15,15,30,694069200.0,1992
+Detroit Pistons,Houston Rockets,Detroit Pistons,16,15,31,694328400.0,1992
+Detroit Pistons,Dallas Mavericks,Detroit Pistons,17,15,32,694414800.0,1992
+Detroit Pistons,San Antonio Spurs,Detroit Pistons,17,16,33,694674000.0,1992
+Detroit Pistons,Detroit Pistons,Sacramento Kings,18,16,34,694846800.0,1992
+Detroit Pistons,Detroit Pistons,Portland Trail Blazers,19,16,35,695019600.0,1992
+Detroit Pistons,Detroit Pistons,New Jersey Nets,20,16,36,695106000.0,1992
+Detroit Pistons,Detroit Pistons,Dallas Mavericks,21,16,37,695278800.0,1992
+Detroit Pistons,Indiana Pacers,Detroit Pistons,22,16,38,695451600.0,1992
+Detroit Pistons,Detroit Pistons,Chicago Bulls,22,17,39,695797200.0,1992
+Detroit Pistons,Minnesota Timberwolves,Detroit Pistons,23,17,40,696142800.0,1992
+Detroit Pistons,Chicago Bulls,Detroit Pistons,23,18,41,696229200.0,1992
+Detroit Pistons,Boston Celtics,Detroit Pistons,23,19,42,696402000.0,1992
+Detroit Pistons,Charlotte Hornets (Original),Detroit Pistons,24,19,43,696574800.0,1992
+Detroit Pistons,Detroit Pistons,Cleveland Cavaliers,24,20,44,696661200.0,1992
+Detroit Pistons,Detroit Pistons,Miami Heat,25,20,45,696834000.0,1992
+Detroit Pistons,Atlanta Hawks,Detroit Pistons,26,20,46,696920400.0,1992
+Detroit Pistons,Detroit Pistons,Milwaukee Bucks,27,20,47,697266000.0,1992
+Detroit Pistons,Cleveland Cavaliers,Detroit Pistons,28,20,48,697352400.0,1992
+Detroit Pistons,Milwaukee Bucks,Detroit Pistons,28,21,49,697784400.0,1992
+Detroit Pistons,Detroit Pistons,Minnesota Timberwolves,28,22,50,697957200.0,1992
+Detroit Pistons,Philadelphia 76ers,Detroit Pistons,29,22,51,698216400.0,1992
+Detroit Pistons,Detroit Pistons,Orlando Magic,30,22,52,698389200.0,1992
+Detroit Pistons,New Jersey Nets,Detroit Pistons,30,23,53,698475600.0,1992
+Detroit Pistons,Orlando Magic,Detroit Pistons,31,23,54,698648400.0,1992
+Detroit Pistons,Miami Heat,Detroit Pistons,31,24,55,698734800.0,1992
+Detroit Pistons,Detroit Pistons,Chicago Bulls,32,24,56,698994000.0,1992
+Detroit Pistons,Detroit Pistons,Milwaukee Bucks,33,24,57,699166800.0,1992
+Detroit Pistons,Detroit Pistons,New Jersey Nets,33,25,58,699339600.0,1992
+Detroit Pistons,Detroit Pistons,Washington Bullets,34,25,59,699512400.0,1992
+Detroit Pistons,Detroit Pistons,Indiana Pacers,35,25,60,699685200.0,1992
+Detroit Pistons,Denver Nuggets,Detroit Pistons,36,25,61,699858000.0,1992
+Detroit Pistons,Los Angeles Lakers,Detroit Pistons,37,25,62,700030800.0,1992
+Detroit Pistons,Seattle Supersonics,Detroit Pistons,38,25,63,700203600.0,1992
+Detroit Pistons,Golden State Warriors,Detroit Pistons,39,25,64,700376400.0,1992
+Detroit Pistons,Sacramento Kings,Detroit Pistons,40,25,65,700549200.0,1992
+Detroit Pistons,Detroit Pistons,Atlanta Hawks,40,26,66,700722000.0,1992
+Detroit Pistons,Detroit Pistons,Philadelphia 76ers,41,26,67,700894800.0,1992
+Detroit Pistons,Detroit Pistons,Boston Celtics,41,27,68,701067600.0,1992
+Detroit Pistons,Charlotte Hornets (Original),Detroit Pistons,41,28,69,701240400.0,1992
+Detroit Pistons,Detroit Pistons,Golden State Warriors,41,29,70,701499600.0,1992
+Detroit Pistons,Boston Celtics,Detroit Pistons,41,30,71,701672400.0,1992
+Detroit Pistons,Detroit Pistons,San Antonio Spurs,42,30,72,701845200.0,1992
+Detroit Pistons,Detroit Pistons,Los Angeles Clippers,42,31,73,702018000.0,1992
+Detroit Pistons,Washington Bullets,Detroit Pistons,42,32,74,702277200.0,1992
+Detroit Pistons,Detroit Pistons,Miami Heat,43,32,75,702450000.0,1992
+Detroit Pistons,New York Knicks,Detroit Pistons,44,32,76,702619200.0,1992
+Detroit Pistons,Philadelphia 76ers,Detroit Pistons,45,32,77,702705600.0,1992
+Detroit Pistons,Detroit Pistons,Charlotte Hornets (Original),46,32,78,702878400.0,1992
+Detroit Pistons,Detroit Pistons,New York Knicks,47,32,79,703051200.0,1992
+Detroit Pistons,Milwaukee Bucks,Detroit Pistons,48,32,80,703224000.0,1992
+Detroit Pistons,Detroit Pistons,Boston Celtics,48,33,81,703310400.0,1992
+Detroit Pistons,Chicago Bulls,Detroit Pistons,48,34,82,703656000.0,1992
+Golden State Warriors,Denver Nuggets,Golden State Warriors,1,0,1,688971600.0,1992
+Golden State Warriors,Golden State Warriors,Sacramento Kings,2,0,2,689058000.0,1992
+Golden State Warriors,Chicago Bulls,Golden State Warriors,3,0,3,689317200.0,1992
+Golden State Warriors,Milwaukee Bucks,Golden State Warriors,4,0,4,689403600.0,1992
+Golden State Warriors,Philadelphia 76ers,Golden State Warriors,4,1,5,689576400.0,1992
+Golden State Warriors,Washington Bullets,Golden State Warriors,5,1,6,689662800.0,1992
+Golden State Warriors,Golden State Warriors,Phoenix Suns,6,1,7,689922000.0,1992
+Golden State Warriors,Golden State Warriors,Los Angeles Lakers,6,2,8,690094800.0,1992
+Golden State Warriors,Los Angeles Clippers,Golden State Warriors,7,2,9,690267600.0,1992
+Golden State Warriors,Golden State Warriors,Chicago Bulls,7,3,10,690613200.0,1992
+Golden State Warriors,Portland Trail Blazers,Golden State Warriors,8,3,11,690786000.0,1992
+Golden State Warriors,Golden State Warriors,Milwaukee Bucks,9,3,12,690872400.0,1992
+Golden State Warriors,Seattle Supersonics,Golden State Warriors,9,4,13,691131600.0,1992
+Golden State Warriors,Utah Jazz,Golden State Warriors,9,5,14,691390800.0,1992
+Golden State Warriors,Golden State Warriors,Utah Jazz,10,5,15,691736400.0,1992
+Golden State Warriors,Golden State Warriors,Dallas Mavericks,11,5,16,691909200.0,1992
+Golden State Warriors,Golden State Warriors,Sacramento Kings,12,5,17,692082000.0,1992
+Golden State Warriors,Golden State Warriors,Los Angeles Clippers,12,6,18,692341200.0,1992
+Golden State Warriors,Golden State Warriors,Houston Rockets,12,7,19,692514000.0,1992
+Golden State Warriors,Golden State Warriors,Orlando Magic,13,7,20,692686800.0,1992
+Golden State Warriors,Golden State Warriors,Minnesota Timberwolves,14,7,21,692946000.0,1992
+Golden State Warriors,Los Angeles Clippers,Golden State Warriors,15,7,22,693032400.0,1992
+Golden State Warriors,Golden State Warriors,Portland Trail Blazers,16,7,23,693205200.0,1992
+Golden State Warriors,Seattle Supersonics,Golden State Warriors,16,8,24,693291600.0,1992
+Golden State Warriors,Denver Nuggets,Golden State Warriors,17,8,25,693723600.0,1992
+Golden State Warriors,Minnesota Timberwolves,Golden State Warriors,18,8,26,693810000.0,1992
+Golden State Warriors,Los Angeles Lakers,Golden State Warriors,19,8,27,694069200.0,1992
+Golden State Warriors,Golden State Warriors,Denver Nuggets,20,8,28,694328400.0,1992
+Golden State Warriors,Golden State Warriors,Indiana Pacers,21,8,29,694501200.0,1992
+Golden State Warriors,Golden State Warriors,San Antonio Spurs,21,9,30,695019600.0,1992
+Golden State Warriors,Phoenix Suns,Golden State Warriors,21,10,31,695106000.0,1992
+Golden State Warriors,San Antonio Spurs,Golden State Warriors,22,10,32,695365200.0,1992
+Golden State Warriors,Houston Rockets,Golden State Warriors,23,10,33,695538000.0,1992
+Golden State Warriors,Dallas Mavericks,Golden State Warriors,24,10,34,695710800.0,1992
+Golden State Warriors,Golden State Warriors,Charlotte Hornets (Original),25,10,35,695883600.0,1992
+Golden State Warriors,Golden State Warriors,Atlanta Hawks,26,10,36,696056400.0,1992
+Golden State Warriors,Golden State Warriors,New York Knicks,26,11,37,696229200.0,1992
+Golden State Warriors,Golden State Warriors,Portland Trail Blazers,26,12,38,696574800.0,1992
+Golden State Warriors,Los Angeles Lakers,Golden State Warriors,26,13,39,696661200.0,1992
+Golden State Warriors,Golden State Warriors,Denver Nuggets,27,13,40,696834000.0,1992
+Golden State Warriors,New York Knicks,Golden State Warriors,28,13,41,697006800.0,1992
+Golden State Warriors,Orlando Magic,Golden State Warriors,29,13,42,697093200.0,1992
+Golden State Warriors,Miami Heat,Golden State Warriors,29,14,43,697266000.0,1992
+Golden State Warriors,Charlotte Hornets (Original),Golden State Warriors,29,15,44,697352400.0,1992
+Golden State Warriors,Golden State Warriors,Washington Bullets,30,15,45,697784400.0,1992
+Golden State Warriors,Golden State Warriors,San Antonio Spurs,31,15,46,697957200.0,1992
+Golden State Warriors,Golden State Warriors,Seattle Supersonics,32,15,47,698130000.0,1992
+Golden State Warriors,Golden State Warriors,Los Angeles Lakers,33,15,48,698302800.0,1992
+Golden State Warriors,Golden State Warriors,Boston Celtics,34,15,49,698475600.0,1992
+Golden State Warriors,Golden State Warriors,Phoenix Suns,35,15,50,698648400.0,1992
+Golden State Warriors,Los Angeles Lakers,Golden State Warriors,36,15,51,698734800.0,1992
+Golden State Warriors,Dallas Mavericks,Golden State Warriors,37,15,52,698907600.0,1992
+Golden State Warriors,Houston Rockets,Golden State Warriors,37,16,53,699080400.0,1992
+Golden State Warriors,San Antonio Spurs,Golden State Warriors,37,17,54,699166800.0,1992
+Golden State Warriors,Golden State Warriors,Miami Heat,38,17,55,699339600.0,1992
+Golden State Warriors,Sacramento Kings,Golden State Warriors,39,17,56,699512400.0,1992
+Golden State Warriors,Golden State Warriors,Utah Jazz,39,18,57,699598800.0,1992
+Golden State Warriors,Golden State Warriors,Cleveland Cavaliers,40,18,58,699771600.0,1992
+Golden State Warriors,Golden State Warriors,Houston Rockets,41,18,59,699944400.0,1992
+Golden State Warriors,Los Angeles Clippers,Golden State Warriors,41,19,60,700030800.0,1992
+Golden State Warriors,Golden State Warriors,New Jersey Nets,42,19,61,700203600.0,1992
+Golden State Warriors,Golden State Warriors,Detroit Pistons,42,20,62,700376400.0,1992
+Golden State Warriors,Seattle Supersonics,Golden State Warriors,43,20,63,700808400.0,1992
+Golden State Warriors,Golden State Warriors,Minnesota Timberwolves,44,20,64,700894800.0,1992
+Golden State Warriors,Cleveland Cavaliers,Golden State Warriors,44,21,65,701067600.0,1992
+Golden State Warriors,Boston Celtics,Golden State Warriors,44,22,66,701240400.0,1992
+Golden State Warriors,Atlanta Hawks,Golden State Warriors,44,23,67,701326800.0,1992
+Golden State Warriors,Detroit Pistons,Golden State Warriors,45,23,68,701499600.0,1992
+Golden State Warriors,Indiana Pacers,Golden State Warriors,46,23,69,701672400.0,1992
+Golden State Warriors,New Jersey Nets,Golden State Warriors,47,23,70,701758800.0,1992
+Golden State Warriors,Golden State Warriors,Philadelphia 76ers,48,23,71,701931600.0,1992
+Golden State Warriors,Sacramento Kings,Golden State Warriors,49,23,72,702018000.0,1992
+Golden State Warriors,Phoenix Suns,Golden State Warriors,49,24,73,702190800.0,1992
+Golden State Warriors,Golden State Warriors,Sacramento Kings,50,24,74,702277200.0,1992
+Golden State Warriors,Golden State Warriors,Portland Trail Blazers,50,25,75,702450000.0,1992
+Golden State Warriors,Portland Trail Blazers,Golden State Warriors,50,26,76,702619200.0,1992
+Golden State Warriors,Golden State Warriors,Dallas Mavericks,51,26,77,702705600.0,1992
+Golden State Warriors,Golden State Warriors,Phoenix Suns,52,26,78,702964800.0,1992
+Golden State Warriors,Utah Jazz,Golden State Warriors,52,27,79,703137600.0,1992
+Golden State Warriors,Minnesota Timberwolves,Golden State Warriors,53,27,80,703224000.0,1992
+Golden State Warriors,Golden State Warriors,Los Angeles Clippers,54,27,81,703483200.0,1992
+Golden State Warriors,Golden State Warriors,Seattle Supersonics,55,27,82,703656000.0,1992
+Houston Rockets,Houston Rockets,Los Angeles Lakers,1,0,1,688971600.0,1992
+Houston Rockets,Denver Nuggets,Houston Rockets,1,1,2,689058000.0,1992
+Houston Rockets,Houston Rockets,Portland Trail Blazers,2,1,3,689317200.0,1992
+Houston Rockets,Houston Rockets,Cleveland Cavaliers,3,1,4,689490000.0,1992
+Houston Rockets,Houston Rockets,Phoenix Suns,4,1,5,689662800.0,1992
+Houston Rockets,Dallas Mavericks,Houston Rockets,5,1,6,689922000.0,1992
+Houston Rockets,Los Angeles Lakers,Houston Rockets,5,2,7,690181200.0,1992
+Houston Rockets,Sacramento Kings,Houston Rockets,6,2,8,690267600.0,1992
+Houston Rockets,Houston Rockets,New York Knicks,7,2,9,690526800.0,1992
+Houston Rockets,Houston Rockets,Minnesota Timberwolves,8,2,10,690699600.0,1992
+Houston Rockets,Minnesota Timberwolves,Houston Rockets,8,3,11,690872400.0,1992
+Houston Rockets,Houston Rockets,New Jersey Nets,9,3,12,691131600.0,1992
+Houston Rockets,Indiana Pacers,Houston Rockets,9,4,13,691390800.0,1992
+Houston Rockets,Detroit Pistons,Houston Rockets,9,5,14,691563600.0,1992
+Houston Rockets,Houston Rockets,Denver Nuggets,9,6,15,691736400.0,1992
+Houston Rockets,Houston Rockets,Atlanta Hawks,9,7,16,691909200.0,1992
+Houston Rockets,Houston Rockets,Utah Jazz,9,8,17,692082000.0,1992
+Houston Rockets,Portland Trail Blazers,Houston Rockets,10,8,18,692341200.0,1992
+Houston Rockets,Golden State Warriors,Houston Rockets,11,8,19,692514000.0,1992
+Houston Rockets,Houston Rockets,San Antonio Spurs,11,9,20,692686800.0,1992
+Houston Rockets,Houston Rockets,Washington Bullets,12,9,21,692946000.0,1992
+Houston Rockets,Houston Rockets,Sacramento Kings,13,9,22,693118800.0,1992
+Houston Rockets,Charlotte Hornets (Original),Houston Rockets,14,9,23,693205200.0,1992
+Houston Rockets,Orlando Magic,Houston Rockets,15,9,24,693378000.0,1992
+Houston Rockets,Houston Rockets,Dallas Mavericks,15,10,25,693464400.0,1992
+Houston Rockets,New Jersey Nets,Houston Rockets,15,11,26,693723600.0,1992
+Houston Rockets,Washington Bullets,Houston Rockets,16,11,27,693810000.0,1992
+Houston Rockets,Milwaukee Bucks,Houston Rockets,16,12,28,693982800.0,1992
+Houston Rockets,Cleveland Cavaliers,Houston Rockets,16,13,29,694069200.0,1992
+Houston Rockets,Houston Rockets,Detroit Pistons,16,14,30,694328400.0,1992
+Houston Rockets,San Antonio Spurs,Houston Rockets,17,14,31,694501200.0,1992
+Houston Rockets,Atlanta Hawks,Houston Rockets,17,15,32,694674000.0,1992
+Houston Rockets,Philadelphia 76ers,Houston Rockets,17,16,33,694846800.0,1992
+Houston Rockets,Miami Heat,Houston Rockets,18,16,34,695019600.0,1992
+Houston Rockets,Houston Rockets,Seattle Supersonics,19,16,35,695106000.0,1992
+Houston Rockets,Houston Rockets,Denver Nuggets,20,16,36,695365200.0,1992
+Houston Rockets,Houston Rockets,Golden State Warriors,20,17,37,695538000.0,1992
+Houston Rockets,Utah Jazz,Houston Rockets,20,18,38,695710800.0,1992
+Houston Rockets,Houston Rockets,Milwaukee Bucks,21,18,39,695970000.0,1992
+Houston Rockets,Houston Rockets,Los Angeles Clippers,22,18,40,696142800.0,1992
+Houston Rockets,Chicago Bulls,Houston Rockets,22,19,41,696315600.0,1992
+Houston Rockets,Houston Rockets,Minnesota Timberwolves,23,19,42,696574800.0,1992
+Houston Rockets,Houston Rockets,Chicago Bulls,24,19,43,696747600.0,1992
+Houston Rockets,Phoenix Suns,Houston Rockets,24,20,44,696920400.0,1992
+Houston Rockets,Houston Rockets,Indiana Pacers,25,20,45,697093200.0,1992
+Houston Rockets,Boston Celtics,Houston Rockets,25,21,46,697266000.0,1992
+Houston Rockets,New York Knicks,Houston Rockets,25,22,47,697352400.0,1992
+Houston Rockets,Seattle Supersonics,Houston Rockets,25,23,48,697784400.0,1992
+Houston Rockets,Los Angeles Clippers,Houston Rockets,25,24,49,697870800.0,1992
+Houston Rockets,Houston Rockets,Boston Celtics,26,24,50,698043600.0,1992
+Houston Rockets,Dallas Mavericks,Houston Rockets,26,25,51,698130000.0,1992
+Houston Rockets,Houston Rockets,Minnesota Timberwolves,26,26,52,698302800.0,1992
+Houston Rockets,Houston Rockets,Philadelphia 76ers,27,26,53,698562000.0,1992
+Houston Rockets,Utah Jazz,Houston Rockets,27,27,54,698648400.0,1992
+Houston Rockets,Houston Rockets,San Antonio Spurs,28,27,55,698821200.0,1992
+Houston Rockets,Houston Rockets,Golden State Warriors,29,27,56,699080400.0,1992
+Houston Rockets,Denver Nuggets,Houston Rockets,30,27,57,699253200.0,1992
+Houston Rockets,Los Angeles Lakers,Houston Rockets,31,27,58,699426000.0,1992
+Houston Rockets,Phoenix Suns,Houston Rockets,31,28,59,699598800.0,1992
+Houston Rockets,Houston Rockets,Miami Heat,32,28,60,699771600.0,1992
+Houston Rockets,Golden State Warriors,Houston Rockets,32,29,61,699944400.0,1992
+Houston Rockets,Sacramento Kings,Houston Rockets,33,29,62,700030800.0,1992
+Houston Rockets,Houston Rockets,Dallas Mavericks,34,29,63,700203600.0,1992
+Houston Rockets,San Antonio Spurs,Houston Rockets,34,30,64,700376400.0,1992
+Houston Rockets,Houston Rockets,Charlotte Hornets (Original),35,30,65,700462800.0,1992
+Houston Rockets,Houston Rockets,Utah Jazz,36,30,66,700635600.0,1992
+Houston Rockets,Houston Rockets,Los Angeles Clippers,37,30,67,700808400.0,1992
+Houston Rockets,Houston Rockets,Seattle Supersonics,37,31,68,700981200.0,1992
+Houston Rockets,Houston Rockets,Sacramento Kings,37,32,69,701154000.0,1992
+Houston Rockets,Seattle Supersonics,Houston Rockets,37,33,70,701413200.0,1992
+Houston Rockets,Los Angeles Clippers,Houston Rockets,37,34,71,701586000.0,1992
+Houston Rockets,Portland Trail Blazers,Houston Rockets,37,35,72,701758800.0,1992
+Houston Rockets,Houston Rockets,Los Angeles Lakers,37,36,73,702018000.0,1992
+Houston Rockets,Houston Rockets,Denver Nuggets,38,36,74,702190800.0,1992
+Houston Rockets,Houston Rockets,Orlando Magic,39,36,75,702363600.0,1992
+Houston Rockets,San Antonio Spurs,Houston Rockets,40,36,76,702619200.0,1992
+Houston Rockets,Minnesota Timberwolves,Houston Rockets,41,36,77,702792000.0,1992
+Houston Rockets,Houston Rockets,Dallas Mavericks,41,37,78,702964800.0,1992
+Houston Rockets,Houston Rockets,Portland Trail Blazers,42,37,79,703224000.0,1992
+Houston Rockets,Utah Jazz,Houston Rockets,42,38,80,703310400.0,1992
+Houston Rockets,Dallas Mavericks,Houston Rockets,42,39,81,703483200.0,1992
+Houston Rockets,Houston Rockets,Phoenix Suns,42,40,82,703656000.0,1992
+Indiana Pacers,Indiana Pacers,Washington Bullets,0,1,1,688971600.0,1992
+Indiana Pacers,Indiana Pacers,Utah Jazz,1,1,2,689058000.0,1992
+Indiana Pacers,Phoenix Suns,Indiana Pacers,2,1,3,689317200.0,1992
+Indiana Pacers,Sacramento Kings,Indiana Pacers,2,2,4,689403600.0,1992
+Indiana Pacers,Portland Trail Blazers,Indiana Pacers,2,3,5,689576400.0,1992
+Indiana Pacers,Seattle Supersonics,Indiana Pacers,2,4,6,689662800.0,1992
+Indiana Pacers,Los Angeles Clippers,Indiana Pacers,2,5,7,689835600.0,1992
+Indiana Pacers,Indiana Pacers,New York Knicks,3,5,8,690008400.0,1992
+Indiana Pacers,Indiana Pacers,Seattle Supersonics,3,6,9,690181200.0,1992
+Indiana Pacers,Cleveland Cavaliers,Indiana Pacers,3,7,10,690267600.0,1992
+Indiana Pacers,Indiana Pacers,Detroit Pistons,4,7,11,690440400.0,1992
+Indiana Pacers,Boston Celtics,Indiana Pacers,4,8,12,690613200.0,1992
+Indiana Pacers,Charlotte Hornets (Original),Indiana Pacers,4,9,13,690786000.0,1992
+Indiana Pacers,Indiana Pacers,Miami Heat,5,9,14,690872400.0,1992
+Indiana Pacers,Dallas Mavericks,Indiana Pacers,5,10,15,691218000.0,1992
+Indiana Pacers,Indiana Pacers,Houston Rockets,6,10,16,691390800.0,1992
+Indiana Pacers,Milwaukee Bucks,Indiana Pacers,6,11,17,691477200.0,1992
+Indiana Pacers,Detroit Pistons,Indiana Pacers,7,11,18,691736400.0,1992
+Indiana Pacers,Indiana Pacers,Phoenix Suns,7,12,19,691822800.0,1992
+Indiana Pacers,Indiana Pacers,Milwaukee Bucks,8,12,20,691995600.0,1992
+Indiana Pacers,Indiana Pacers,Portland Trail Blazers,8,13,21,692082000.0,1992
+Indiana Pacers,Indiana Pacers,San Antonio Spurs,9,13,22,692341200.0,1992
+Indiana Pacers,Indiana Pacers,Dallas Mavericks,10,13,23,692600400.0,1992
+Indiana Pacers,Indiana Pacers,Denver Nuggets,11,13,24,692686800.0,1992
+Indiana Pacers,Atlanta Hawks,Indiana Pacers,11,14,25,692946000.0,1992
+Indiana Pacers,Miami Heat,Indiana Pacers,11,15,26,693032400.0,1992
+Indiana Pacers,Indiana Pacers,New Jersey Nets,12,15,27,693291600.0,1992
+Indiana Pacers,Indiana Pacers,Philadelphia 76ers,12,16,28,693723600.0,1992
+Indiana Pacers,New York Knicks,Indiana Pacers,12,17,29,693896400.0,1992
+Indiana Pacers,Indiana Pacers,Chicago Bulls,12,18,30,694069200.0,1992
+Indiana Pacers,Los Angeles Lakers,Indiana Pacers,13,18,31,694414800.0,1992
+Indiana Pacers,Golden State Warriors,Indiana Pacers,13,19,32,694501200.0,1992
+Indiana Pacers,Utah Jazz,Indiana Pacers,13,20,33,694674000.0,1992
+Indiana Pacers,Indiana Pacers,Los Angeles Clippers,13,21,34,694846800.0,1992
+Indiana Pacers,Indiana Pacers,Atlanta Hawks,14,21,35,695106000.0,1992
+Indiana Pacers,Washington Bullets,Indiana Pacers,14,22,36,695365200.0,1992
+Indiana Pacers,Indiana Pacers,Detroit Pistons,14,23,37,695451600.0,1992
+Indiana Pacers,Indiana Pacers,Orlando Magic,14,24,38,695624400.0,1992
+Indiana Pacers,Indiana Pacers,Miami Heat,15,24,39,695710800.0,1992
+Indiana Pacers,New York Knicks,Indiana Pacers,15,25,40,695883600.0,1992
+Indiana Pacers,Cleveland Cavaliers,Indiana Pacers,15,26,41,696056400.0,1992
+Indiana Pacers,Indiana Pacers,Cleveland Cavaliers,15,27,42,696229200.0,1992
+Indiana Pacers,Charlotte Hornets (Original),Indiana Pacers,15,28,43,696315600.0,1992
+Indiana Pacers,Philadelphia 76ers,Indiana Pacers,16,28,44,696661200.0,1992
+Indiana Pacers,Indiana Pacers,Atlanta Hawks,17,28,45,696834000.0,1992
+Indiana Pacers,Denver Nuggets,Indiana Pacers,18,28,46,697006800.0,1992
+Indiana Pacers,Houston Rockets,Indiana Pacers,18,29,47,697093200.0,1992
+Indiana Pacers,San Antonio Spurs,Indiana Pacers,19,29,48,697352400.0,1992
+Indiana Pacers,Orlando Magic,Indiana Pacers,20,29,49,697784400.0,1992
+Indiana Pacers,Indiana Pacers,New York Knicks,20,30,50,697870800.0,1992
+Indiana Pacers,Indiana Pacers,Milwaukee Bucks,21,30,51,698043600.0,1992
+Indiana Pacers,Minnesota Timberwolves,Indiana Pacers,22,30,52,698130000.0,1992
+Indiana Pacers,Indiana Pacers,Charlotte Hornets (Original),23,30,53,698302800.0,1992
+Indiana Pacers,Indiana Pacers,Sacramento Kings,24,30,54,698475600.0,1992
+Indiana Pacers,New Jersey Nets,Indiana Pacers,24,31,55,698648400.0,1992
+Indiana Pacers,Indiana Pacers,Boston Celtics,25,31,56,698821200.0,1992
+Indiana Pacers,Boston Celtics,Indiana Pacers,25,32,57,699080400.0,1992
+Indiana Pacers,Indiana Pacers,Orlando Magic,26,32,58,699253200.0,1992
+Indiana Pacers,Charlotte Hornets (Original),Indiana Pacers,26,33,59,699339600.0,1992
+Indiana Pacers,Chicago Bulls,Indiana Pacers,27,33,60,699598800.0,1992
+Indiana Pacers,Detroit Pistons,Indiana Pacers,27,34,61,699685200.0,1992
+Indiana Pacers,Atlanta Hawks,Indiana Pacers,28,34,62,699858000.0,1992
+Indiana Pacers,Indiana Pacers,Minnesota Timberwolves,29,34,63,699944400.0,1992
+Indiana Pacers,Indiana Pacers,Washington Bullets,30,34,64,700203600.0,1992
+Indiana Pacers,Philadelphia 76ers,Indiana Pacers,30,35,65,700290000.0,1992
+Indiana Pacers,Orlando Magic,Indiana Pacers,30,36,66,700462800.0,1992
+Indiana Pacers,Indiana Pacers,Los Angeles Lakers,31,36,67,700722000.0,1992
+Indiana Pacers,Miami Heat,Indiana Pacers,32,36,68,700894800.0,1992
+Indiana Pacers,Indiana Pacers,Milwaukee Bucks,33,36,69,701067600.0,1992
+Indiana Pacers,Indiana Pacers,Philadelphia 76ers,34,36,70,701240400.0,1992
+Indiana Pacers,Cleveland Cavaliers,Indiana Pacers,34,37,71,701413200.0,1992
+Indiana Pacers,Washington Bullets,Indiana Pacers,35,37,72,701499600.0,1992
+Indiana Pacers,Indiana Pacers,Golden State Warriors,35,38,73,701672400.0,1992
+Indiana Pacers,Indiana Pacers,Atlanta Hawks,36,38,74,702104400.0,1992
+Indiana Pacers,Indiana Pacers,Boston Celtics,37,38,75,702277200.0,1992
+Indiana Pacers,Indiana Pacers,New Jersey Nets,37,39,76,702450000.0,1992
+Indiana Pacers,Milwaukee Bucks,Indiana Pacers,38,39,77,702705600.0,1992
+Indiana Pacers,Indiana Pacers,Chicago Bulls,38,40,78,702878400.0,1992
+Indiana Pacers,Chicago Bulls,Indiana Pacers,38,41,79,702964800.0,1992
+Indiana Pacers,Indiana Pacers,Charlotte Hornets (Original),39,41,80,703224000.0,1992
+Indiana Pacers,New Jersey Nets,Indiana Pacers,40,41,81,703396800.0,1992
+Indiana Pacers,Indiana Pacers,Cleveland Cavaliers,40,42,82,703483200.0,1992
+Los Angeles Clippers,Sacramento Kings,Los Angeles Clippers,0,1,1,688971600.0,1992
+Los Angeles Clippers,Los Angeles Clippers,Cleveland Cavaliers,1,1,2,689058000.0,1992
+Los Angeles Clippers,Los Angeles Lakers,Los Angeles Clippers,2,1,3,689317200.0,1992
+Los Angeles Clippers,Los Angeles Clippers,Phoenix Suns,3,1,4,689403600.0,1992
+Los Angeles Clippers,Los Angeles Clippers,Denver Nuggets,4,1,5,689576400.0,1992
+Los Angeles Clippers,Utah Jazz,Los Angeles Clippers,4,2,6,689662800.0,1992
+Los Angeles Clippers,Los Angeles Clippers,Indiana Pacers,5,2,7,689835600.0,1992
+Los Angeles Clippers,San Antonio Spurs,Los Angeles Clippers,5,3,8,690008400.0,1992
+Los Angeles Clippers,Dallas Mavericks,Los Angeles Clippers,5,4,9,690094800.0,1992
+Los Angeles Clippers,Los Angeles Clippers,Golden State Warriors,5,5,10,690267600.0,1992
+Los Angeles Clippers,Portland Trail Blazers,Los Angeles Clippers,5,6,11,690526800.0,1992
+Los Angeles Clippers,Los Angeles Clippers,Portland Trail Blazers,5,7,12,690699600.0,1992
+Los Angeles Clippers,Phoenix Suns,Los Angeles Clippers,5,8,13,690786000.0,1992
+Los Angeles Clippers,Los Angeles Clippers,Seattle Supersonics,6,8,14,690958800.0,1992
+Los Angeles Clippers,Los Angeles Clippers,Chicago Bulls,6,9,15,691131600.0,1992
+Los Angeles Clippers,Los Angeles Clippers,Washington Bullets,6,10,16,691390800.0,1992
+Los Angeles Clippers,Los Angeles Clippers,Charlotte Hornets (Original),7,10,17,691477200.0,1992
+Los Angeles Clippers,Los Angeles Clippers,San Antonio Spurs,8,10,18,691822800.0,1992
+Los Angeles Clippers,Denver Nuggets,Los Angeles Clippers,9,10,19,691995600.0,1992
+Los Angeles Clippers,Los Angeles Clippers,Minnesota Timberwolves,10,10,20,692082000.0,1992
+Los Angeles Clippers,Golden State Warriors,Los Angeles Clippers,11,10,21,692341200.0,1992
+Los Angeles Clippers,Los Angeles Clippers,Detroit Pistons,12,10,22,692427600.0,1992
+Los Angeles Clippers,Los Angeles Clippers,Utah Jazz,13,10,23,692600400.0,1992
+Los Angeles Clippers,Los Angeles Clippers,Orlando Magic,14,10,24,692773200.0,1992
+Los Angeles Clippers,Seattle Supersonics,Los Angeles Clippers,14,11,25,692946000.0,1992
+Los Angeles Clippers,Los Angeles Clippers,Golden State Warriors,14,12,26,693032400.0,1992
+Los Angeles Clippers,Minnesota Timberwolves,Los Angeles Clippers,15,12,27,693291600.0,1992
+Los Angeles Clippers,Los Angeles Clippers,Los Angeles Lakers,15,13,28,693637200.0,1992
+Los Angeles Clippers,Utah Jazz,Los Angeles Clippers,15,14,29,693723600.0,1992
+Los Angeles Clippers,Los Angeles Clippers,Philadelphia 76ers,16,14,30,693896400.0,1992
+Los Angeles Clippers,Los Angeles Clippers,Boston Celtics,16,15,31,694069200.0,1992
+Los Angeles Clippers,Charlotte Hornets (Original),Los Angeles Clippers,17,15,32,694328400.0,1992
+Los Angeles Clippers,Atlanta Hawks,Los Angeles Clippers,17,16,33,694501200.0,1992
+Los Angeles Clippers,New Jersey Nets,Los Angeles Clippers,17,17,34,694674000.0,1992
+Los Angeles Clippers,Indiana Pacers,Los Angeles Clippers,18,17,35,694846800.0,1992
+Los Angeles Clippers,Philadelphia 76ers,Los Angeles Clippers,18,18,36,695019600.0,1992
+Los Angeles Clippers,Washington Bullets,Los Angeles Clippers,18,19,37,695106000.0,1992
+Los Angeles Clippers,Los Angeles Clippers,Seattle Supersonics,19,19,38,695278800.0,1992
+Los Angeles Clippers,Seattle Supersonics,Los Angeles Clippers,19,20,39,695538000.0,1992
+Los Angeles Clippers,Los Angeles Clippers,Atlanta Hawks,20,20,40,695624400.0,1992
+Los Angeles Clippers,San Antonio Spurs,Los Angeles Clippers,20,21,41,695970000.0,1992
+Los Angeles Clippers,Houston Rockets,Los Angeles Clippers,20,22,42,696142800.0,1992
+Los Angeles Clippers,Los Angeles Clippers,New York Knicks,20,23,43,696315600.0,1992
+Los Angeles Clippers,Sacramento Kings,Los Angeles Clippers,20,24,44,696834000.0,1992
+Los Angeles Clippers,Los Angeles Clippers,New Jersey Nets,21,24,45,696920400.0,1992
+Los Angeles Clippers,Los Angeles Clippers,Dallas Mavericks,22,24,46,697179600.0,1992
+Los Angeles Clippers,Los Angeles Lakers,Los Angeles Clippers,22,25,47,697266000.0,1992
+Los Angeles Clippers,Los Angeles Clippers,Houston Rockets,23,25,48,697870800.0,1992
+Los Angeles Clippers,Los Angeles Clippers,Phoenix Suns,24,25,49,698043600.0,1992
+Los Angeles Clippers,Portland Trail Blazers,Los Angeles Clippers,25,25,50,698216400.0,1992
+Los Angeles Clippers,Los Angeles Clippers,San Antonio Spurs,26,25,51,698302800.0,1992
+Los Angeles Clippers,Los Angeles Clippers,Los Angeles Lakers,27,25,52,698475600.0,1992
+Los Angeles Clippers,Los Angeles Clippers,Portland Trail Blazers,27,26,53,698648400.0,1992
+Los Angeles Clippers,Phoenix Suns,Los Angeles Clippers,27,27,54,698734800.0,1992
+Los Angeles Clippers,Los Angeles Clippers,Utah Jazz,27,28,55,698994000.0,1992
+Los Angeles Clippers,Los Angeles Clippers,Miami Heat,28,28,56,699253200.0,1992
+Los Angeles Clippers,Orlando Magic,Los Angeles Clippers,29,28,57,699426000.0,1992
+Los Angeles Clippers,Miami Heat,Los Angeles Clippers,30,28,58,699598800.0,1992
+Los Angeles Clippers,New York Knicks,Los Angeles Clippers,30,29,59,699771600.0,1992
+Los Angeles Clippers,Boston Celtics,Los Angeles Clippers,30,30,60,699858000.0,1992
+Los Angeles Clippers,Los Angeles Clippers,Golden State Warriors,31,30,61,700030800.0,1992
+Los Angeles Clippers,Sacramento Kings,Los Angeles Clippers,32,30,62,700203600.0,1992
+Los Angeles Clippers,Los Angeles Clippers,Seattle Supersonics,32,31,63,700290000.0,1992
+Los Angeles Clippers,Los Angeles Clippers,Dallas Mavericks,33,31,64,700462800.0,1992
+Los Angeles Clippers,Los Angeles Clippers,Sacramento Kings,34,31,65,700635600.0,1992
+Los Angeles Clippers,Houston Rockets,Los Angeles Clippers,34,32,66,700808400.0,1992
+Los Angeles Clippers,Dallas Mavericks,Los Angeles Clippers,35,32,67,700894800.0,1992
+Los Angeles Clippers,Phoenix Suns,Los Angeles Clippers,36,32,68,701067600.0,1992
+Los Angeles Clippers,Denver Nuggets,Los Angeles Clippers,37,32,69,701154000.0,1992
+Los Angeles Clippers,Los Angeles Clippers,Houston Rockets,38,32,70,701586000.0,1992
+Los Angeles Clippers,Los Angeles Clippers,Milwaukee Bucks,39,32,71,701758800.0,1992
+Los Angeles Clippers,Detroit Pistons,Los Angeles Clippers,40,32,72,702018000.0,1992
+Los Angeles Clippers,Cleveland Cavaliers,Los Angeles Clippers,40,33,73,702190800.0,1992
+Los Angeles Clippers,Chicago Bulls,Los Angeles Clippers,40,34,74,702277200.0,1992
+Los Angeles Clippers,Milwaukee Bucks,Los Angeles Clippers,41,34,75,702450000.0,1992
+Los Angeles Clippers,Minnesota Timberwolves,Los Angeles Clippers,42,34,76,702619200.0,1992
+Los Angeles Clippers,Los Angeles Clippers,Portland Trail Blazers,43,34,77,702792000.0,1992
+Los Angeles Clippers,Los Angeles Clippers,Denver Nuggets,44,34,78,702964800.0,1992
+Los Angeles Clippers,Los Angeles Clippers,Sacramento Kings,44,35,79,703224000.0,1992
+Los Angeles Clippers,Los Angeles Clippers,Minnesota Timberwolves,45,35,80,703396800.0,1992
+Los Angeles Clippers,Golden State Warriors,Los Angeles Clippers,45,36,81,703483200.0,1992
+Los Angeles Clippers,Los Angeles Lakers,Los Angeles Clippers,45,37,82,703656000.0,1992
+Los Angeles Lakers,Houston Rockets,Los Angeles Lakers,0,1,1,688971600.0,1992
+Los Angeles Lakers,Dallas Mavericks,Los Angeles Lakers,1,1,2,689058000.0,1992
+Los Angeles Lakers,Los Angeles Lakers,Los Angeles Clippers,1,2,3,689317200.0,1992
+Los Angeles Lakers,Phoenix Suns,Los Angeles Lakers,1,3,4,689576400.0,1992
+Los Angeles Lakers,Los Angeles Lakers,Minnesota Timberwolves,2,3,5,689749200.0,1992
+Los Angeles Lakers,Golden State Warriors,Los Angeles Lakers,3,3,6,690094800.0,1992
+Los Angeles Lakers,Los Angeles Lakers,Houston Rockets,4,3,7,690181200.0,1992
+Los Angeles Lakers,Los Angeles Lakers,Atlanta Hawks,5,3,8,690354000.0,1992
+Los Angeles Lakers,Los Angeles Lakers,Phoenix Suns,6,3,9,690526800.0,1992
+Los Angeles Lakers,Los Angeles Lakers,San Antonio Spurs,7,3,10,690786000.0,1992
+Los Angeles Lakers,Los Angeles Lakers,Milwaukee Bucks,8,3,11,690958800.0,1992
+Los Angeles Lakers,Orlando Magic,Los Angeles Lakers,9,3,12,691131600.0,1992
+Los Angeles Lakers,Miami Heat,Los Angeles Lakers,10,3,13,691218000.0,1992
+Los Angeles Lakers,Boston Celtics,Los Angeles Lakers,10,4,14,691390800.0,1992
+Los Angeles Lakers,Philadelphia 76ers,Los Angeles Lakers,11,4,15,691477200.0,1992
+Los Angeles Lakers,Milwaukee Bucks,Los Angeles Lakers,11,5,16,691736400.0,1992
+Los Angeles Lakers,Charlotte Hornets (Original),Los Angeles Lakers,11,6,17,691822800.0,1992
+Los Angeles Lakers,New Jersey Nets,Los Angeles Lakers,12,6,18,691995600.0,1992
+Los Angeles Lakers,Los Angeles Lakers,Dallas Mavericks,13,6,19,692168400.0,1992
+Los Angeles Lakers,Sacramento Kings,Los Angeles Lakers,14,6,20,692341200.0,1992
+Los Angeles Lakers,Los Angeles Lakers,Utah Jazz,14,7,21,692427600.0,1992
+Los Angeles Lakers,Los Angeles Lakers,Sacramento Kings,15,7,22,692773200.0,1992
+Los Angeles Lakers,Chicago Bulls,Los Angeles Lakers,16,7,23,692946000.0,1992
+Los Angeles Lakers,Minnesota Timberwolves,Los Angeles Lakers,16,8,24,693118800.0,1992
+Los Angeles Lakers,Detroit Pistons,Los Angeles Lakers,16,9,25,693205200.0,1992
+Los Angeles Lakers,Los Angeles Lakers,Phoenix Suns,16,10,26,693378000.0,1992
+Los Angeles Lakers,Los Angeles Clippers,Los Angeles Lakers,17,10,27,693637200.0,1992
+Los Angeles Lakers,Los Angeles Lakers,Portland Trail Blazers,17,11,28,693896400.0,1992
+Los Angeles Lakers,Los Angeles Lakers,Golden State Warriors,17,12,29,694069200.0,1992
+Los Angeles Lakers,Los Angeles Lakers,Indiana Pacers,17,13,30,694414800.0,1992
+Los Angeles Lakers,Los Angeles Lakers,Miami Heat,18,13,31,694587600.0,1992
+Los Angeles Lakers,Dallas Mavericks,Los Angeles Lakers,19,13,32,694760400.0,1992
+Los Angeles Lakers,San Antonio Spurs,Los Angeles Lakers,19,14,33,694846800.0,1992
+Los Angeles Lakers,Los Angeles Lakers,Denver Nuggets,20,14,34,695019600.0,1992
+Los Angeles Lakers,Los Angeles Lakers,Orlando Magic,21,14,35,695192400.0,1992
+Los Angeles Lakers,Los Angeles Lakers,Charlotte Hornets (Original),22,14,36,695451600.0,1992
+Los Angeles Lakers,Seattle Supersonics,Los Angeles Lakers,22,15,37,695710800.0,1992
+Los Angeles Lakers,Los Angeles Lakers,Seattle Supersonics,23,15,38,695883600.0,1992
+Los Angeles Lakers,Portland Trail Blazers,Los Angeles Lakers,23,16,39,695970000.0,1992
+Los Angeles Lakers,Sacramento Kings,Los Angeles Lakers,24,16,40,696142800.0,1992
+Los Angeles Lakers,Los Angeles Lakers,Sacramento Kings,25,16,41,696229200.0,1992
+Los Angeles Lakers,Los Angeles Lakers,Golden State Warriors,26,16,42,696661200.0,1992
+Los Angeles Lakers,Denver Nuggets,Los Angeles Lakers,27,16,43,696747600.0,1992
+Los Angeles Lakers,Los Angeles Lakers,Chicago Bulls,27,17,44,697006800.0,1992
+Los Angeles Lakers,Phoenix Suns,Los Angeles Lakers,27,18,45,697093200.0,1992
+Los Angeles Lakers,Los Angeles Lakers,Los Angeles Clippers,28,18,46,697266000.0,1992
+Los Angeles Lakers,Minnesota Timberwolves,Los Angeles Lakers,29,18,47,697784400.0,1992
+Los Angeles Lakers,Utah Jazz,Los Angeles Lakers,29,19,48,697957200.0,1992
+Los Angeles Lakers,Los Angeles Lakers,Washington Bullets,29,20,49,698043600.0,1992
+Los Angeles Lakers,Los Angeles Lakers,Boston Celtics,29,21,50,698216400.0,1992
+Los Angeles Lakers,Golden State Warriors,Los Angeles Lakers,29,22,51,698302800.0,1992
+Los Angeles Lakers,Los Angeles Clippers,Los Angeles Lakers,29,23,52,698475600.0,1992
+Los Angeles Lakers,Seattle Supersonics,Los Angeles Lakers,29,24,53,698562000.0,1992
+Los Angeles Lakers,Los Angeles Lakers,Golden State Warriors,29,25,54,698734800.0,1992
+Los Angeles Lakers,Los Angeles Lakers,New York Knicks,30,25,55,699080400.0,1992
+Los Angeles Lakers,Los Angeles Lakers,Cleveland Cavaliers,30,26,56,699253200.0,1992
+Los Angeles Lakers,Los Angeles Lakers,Houston Rockets,30,27,57,699426000.0,1992
+Los Angeles Lakers,Portland Trail Blazers,Los Angeles Lakers,30,28,58,699598800.0,1992
+Los Angeles Lakers,Los Angeles Lakers,New Jersey Nets,31,28,59,699685200.0,1992
+Los Angeles Lakers,Los Angeles Lakers,Detroit Pistons,31,29,60,700030800.0,1992
+Los Angeles Lakers,New York Knicks,Los Angeles Lakers,32,29,61,700203600.0,1992
+Los Angeles Lakers,Atlanta Hawks,Los Angeles Lakers,33,29,62,700290000.0,1992
+Los Angeles Lakers,Cleveland Cavaliers,Los Angeles Lakers,33,30,63,700462800.0,1992
+Los Angeles Lakers,Washington Bullets,Los Angeles Lakers,34,30,64,700549200.0,1992
+Los Angeles Lakers,Indiana Pacers,Los Angeles Lakers,34,31,65,700722000.0,1992
+Los Angeles Lakers,Los Angeles Lakers,Portland Trail Blazers,34,32,66,700894800.0,1992
+Los Angeles Lakers,Los Angeles Lakers,Minnesota Timberwolves,35,32,67,701067600.0,1992
+Los Angeles Lakers,Los Angeles Lakers,Dallas Mavericks,36,32,68,701586000.0,1992
+Los Angeles Lakers,Utah Jazz,Los Angeles Lakers,37,32,69,701672400.0,1992
+Los Angeles Lakers,Los Angeles Lakers,Philadelphia 76ers,38,32,70,701845200.0,1992
+Los Angeles Lakers,Houston Rockets,Los Angeles Lakers,39,32,71,702018000.0,1992
+Los Angeles Lakers,San Antonio Spurs,Los Angeles Lakers,39,33,72,702104400.0,1992
+Los Angeles Lakers,Los Angeles Lakers,Seattle Supersonics,39,34,73,702277200.0,1992
+Los Angeles Lakers,Los Angeles Lakers,Phoenix Suns,40,34,74,702450000.0,1992
+Los Angeles Lakers,Seattle Supersonics,Los Angeles Lakers,40,35,75,702619200.0,1992
+Los Angeles Lakers,Los Angeles Lakers,San Antonio Spurs,40,36,76,702792000.0,1992
+Los Angeles Lakers,Los Angeles Lakers,Utah Jazz,40,37,77,702964800.0,1992
+Los Angeles Lakers,Los Angeles Lakers,Denver Nuggets,41,37,78,703137600.0,1992
+Los Angeles Lakers,Denver Nuggets,Los Angeles Lakers,41,38,79,703310400.0,1992
+Los Angeles Lakers,Sacramento Kings,Los Angeles Lakers,41,39,80,703396800.0,1992
+Los Angeles Lakers,Portland Trail Blazers,Los Angeles Lakers,42,39,81,703569600.0,1992
+Los Angeles Lakers,Los Angeles Lakers,Los Angeles Clippers,43,39,82,703656000.0,1992
+Miami Heat,Miami Heat,New York Knicks,1,0,1,689058000.0,1992
+Miami Heat,Miami Heat,Boston Celtics,1,1,2,689317200.0,1992
+Miami Heat,New Jersey Nets,Miami Heat,2,1,3,689490000.0,1992
+Miami Heat,Atlanta Hawks,Miami Heat,2,2,4,689662800.0,1992
+Miami Heat,Miami Heat,Detroit Pistons,3,2,5,690008400.0,1992
+Miami Heat,Miami Heat,Charlotte Hornets (Original),4,2,6,690181200.0,1992
+Miami Heat,Milwaukee Bucks,Miami Heat,5,2,7,690267600.0,1992
+Miami Heat,Miami Heat,Utah Jazz,6,2,8,690526800.0,1992
+Miami Heat,Philadelphia 76ers,Miami Heat,6,3,9,690613200.0,1992
+Miami Heat,Miami Heat,Sacramento Kings,7,3,10,690786000.0,1992
+Miami Heat,Indiana Pacers,Miami Heat,7,4,11,690872400.0,1992
+Miami Heat,New York Knicks,Miami Heat,7,5,12,691131600.0,1992
+Miami Heat,Miami Heat,Los Angeles Lakers,7,6,13,691218000.0,1992
+Miami Heat,Miami Heat,Philadelphia 76ers,8,6,14,691390800.0,1992
+Miami Heat,Orlando Magic,Miami Heat,8,7,15,691477200.0,1992
+Miami Heat,Miami Heat,Portland Trail Blazers,8,8,16,691736400.0,1992
+Miami Heat,Boston Celtics,Miami Heat,8,9,17,691822800.0,1992
+Miami Heat,Miami Heat,Phoenix Suns,8,10,18,692082000.0,1992
+Miami Heat,Dallas Mavericks,Miami Heat,8,11,19,692341200.0,1992
+Miami Heat,Miami Heat,Cleveland Cavaliers,9,11,20,692427600.0,1992
+Miami Heat,Charlotte Hornets (Original),Miami Heat,10,11,21,692600400.0,1992
+Miami Heat,Miami Heat,Atlanta Hawks,11,11,22,692686800.0,1992
+Miami Heat,Cleveland Cavaliers,Miami Heat,11,12,23,692946000.0,1992
+Miami Heat,Miami Heat,Indiana Pacers,12,12,24,693032400.0,1992
+Miami Heat,Philadelphia 76ers,Miami Heat,12,13,25,693205200.0,1992
+Miami Heat,Miami Heat,Boston Celtics,13,13,26,693291600.0,1992
+Miami Heat,Miami Heat,Orlando Magic,14,13,27,693464400.0,1992
+Miami Heat,Phoenix Suns,Miami Heat,14,14,28,693723600.0,1992
+Miami Heat,Utah Jazz,Miami Heat,14,15,29,693896400.0,1992
+Miami Heat,Portland Trail Blazers,Miami Heat,14,16,30,693982800.0,1992
+Miami Heat,Seattle Supersonics,Miami Heat,14,17,31,694328400.0,1992
+Miami Heat,Sacramento Kings,Miami Heat,15,17,32,694501200.0,1992
+Miami Heat,Los Angeles Lakers,Miami Heat,15,18,33,694587600.0,1992
+Miami Heat,Miami Heat,Chicago Bulls,15,19,34,694846800.0,1992
+Miami Heat,Miami Heat,Houston Rockets,15,20,35,695019600.0,1992
+Miami Heat,Chicago Bulls,Miami Heat,15,21,36,695106000.0,1992
+Miami Heat,Miami Heat,Milwaukee Bucks,16,21,37,695451600.0,1992
+Miami Heat,Washington Bullets,Miami Heat,17,21,38,695538000.0,1992
+Miami Heat,Indiana Pacers,Miami Heat,17,22,39,695710800.0,1992
+Miami Heat,Miami Heat,Minnesota Timberwolves,18,22,40,695883600.0,1992
+Miami Heat,Miami Heat,Washington Bullets,19,22,41,696056400.0,1992
+Miami Heat,New Jersey Nets,Miami Heat,19,23,42,696229200.0,1992
+Miami Heat,Miami Heat,Dallas Mavericks,20,23,43,696315600.0,1992
+Miami Heat,Miami Heat,Seattle Supersonics,21,23,44,696661200.0,1992
+Miami Heat,Detroit Pistons,Miami Heat,21,24,45,696834000.0,1992
+Miami Heat,Miami Heat,Charlotte Hornets (Original),22,24,46,697006800.0,1992
+Miami Heat,New York Knicks,Miami Heat,22,25,47,697179600.0,1992
+Miami Heat,Miami Heat,Golden State Warriors,23,25,48,697266000.0,1992
+Miami Heat,Miami Heat,Philadelphia 76ers,23,26,49,697784400.0,1992
+Miami Heat,Miami Heat,Atlanta Hawks,24,26,50,697957200.0,1992
+Miami Heat,Charlotte Hornets (Original),Miami Heat,24,27,51,698216400.0,1992
+Miami Heat,Miami Heat,New York Knicks,24,28,52,698302800.0,1992
+Miami Heat,Milwaukee Bucks,Miami Heat,25,28,53,698562000.0,1992
+Miami Heat,Miami Heat,Detroit Pistons,26,28,54,698734800.0,1992
+Miami Heat,San Antonio Spurs,Miami Heat,26,29,55,698994000.0,1992
+Miami Heat,Denver Nuggets,Miami Heat,27,29,56,699080400.0,1992
+Miami Heat,Los Angeles Clippers,Miami Heat,27,30,57,699253200.0,1992
+Miami Heat,Golden State Warriors,Miami Heat,27,31,58,699339600.0,1992
+Miami Heat,Miami Heat,Los Angeles Clippers,27,32,59,699598800.0,1992
+Miami Heat,Houston Rockets,Miami Heat,27,33,60,699771600.0,1992
+Miami Heat,Chicago Bulls,Miami Heat,27,34,61,699858000.0,1992
+Miami Heat,Miami Heat,Washington Bullets,28,34,62,700030800.0,1992
+Miami Heat,Miami Heat,Boston Celtics,29,34,63,700203600.0,1992
+Miami Heat,Miami Heat,Denver Nuggets,30,34,64,700462800.0,1992
+Miami Heat,Atlanta Hawks,Miami Heat,30,35,65,700549200.0,1992
+Miami Heat,Miami Heat,Chicago Bulls,30,36,66,700722000.0,1992
+Miami Heat,Miami Heat,Indiana Pacers,30,37,67,700894800.0,1992
+Miami Heat,New York Knicks,Miami Heat,30,38,68,701154000.0,1992
+Miami Heat,Miami Heat,New Jersey Nets,31,38,69,701240400.0,1992
+Miami Heat,Minnesota Timberwolves,Miami Heat,32,38,70,701499600.0,1992
+Miami Heat,Miami Heat,San Antonio Spurs,33,38,71,701672400.0,1992
+Miami Heat,Orlando Magic,Miami Heat,34,38,72,701758800.0,1992
+Miami Heat,Cleveland Cavaliers,Miami Heat,34,39,73,702018000.0,1992
+Miami Heat,Philadelphia 76ers,Miami Heat,34,40,74,702104400.0,1992
+Miami Heat,Miami Heat,Cleveland Cavaliers,34,41,75,702277200.0,1992
+Miami Heat,Detroit Pistons,Miami Heat,34,42,76,702450000.0,1992
+Miami Heat,Miami Heat,Washington Bullets,35,42,77,702619200.0,1992
+Miami Heat,Washington Bullets,Miami Heat,36,42,78,702878400.0,1992
+Miami Heat,Miami Heat,Orlando Magic,37,42,79,702964800.0,1992
+Miami Heat,Miami Heat,New Jersey Nets,37,43,80,703224000.0,1992
+Miami Heat,Miami Heat,Milwaukee Bucks,38,43,81,703396800.0,1992
+Miami Heat,Boston Celtics,Miami Heat,38,44,82,703656000.0,1992
+Milwaukee Bucks,Detroit Pistons,Milwaukee Bucks,1,0,1,688971600.0,1992
+Milwaukee Bucks,Milwaukee Bucks,Chicago Bulls,2,0,2,689058000.0,1992
+Milwaukee Bucks,New York Knicks,Milwaukee Bucks,2,1,3,689317200.0,1992
+Milwaukee Bucks,Milwaukee Bucks,Golden State Warriors,2,2,4,689403600.0,1992
+Milwaukee Bucks,Charlotte Hornets (Original),Milwaukee Bucks,3,2,5,689576400.0,1992
+Milwaukee Bucks,Milwaukee Bucks,Dallas Mavericks,4,2,6,689662800.0,1992
+Milwaukee Bucks,Philadelphia 76ers,Milwaukee Bucks,4,3,7,689835600.0,1992
+Milwaukee Bucks,Cleveland Cavaliers,Milwaukee Bucks,4,4,8,689922000.0,1992
+Milwaukee Bucks,Chicago Bulls,Milwaukee Bucks,4,5,9,690181200.0,1992
+Milwaukee Bucks,Milwaukee Bucks,Miami Heat,4,6,10,690267600.0,1992
+Milwaukee Bucks,Milwaukee Bucks,Charlotte Hornets (Original),5,6,11,690526800.0,1992
+Milwaukee Bucks,Milwaukee Bucks,Washington Bullets,6,6,12,690699600.0,1992
+Milwaukee Bucks,Golden State Warriors,Milwaukee Bucks,6,7,13,690872400.0,1992
+Milwaukee Bucks,Los Angeles Lakers,Milwaukee Bucks,6,8,14,690958800.0,1992
+Milwaukee Bucks,Portland Trail Blazers,Milwaukee Bucks,6,9,15,691131600.0,1992
+Milwaukee Bucks,Milwaukee Bucks,Indiana Pacers,7,9,16,691477200.0,1992
+Milwaukee Bucks,Milwaukee Bucks,Los Angeles Lakers,8,9,17,691736400.0,1992
+Milwaukee Bucks,Milwaukee Bucks,New Jersey Nets,8,10,18,691909200.0,1992
+Milwaukee Bucks,Indiana Pacers,Milwaukee Bucks,8,11,19,691995600.0,1992
+Milwaukee Bucks,Milwaukee Bucks,San Antonio Spurs,9,11,20,692168400.0,1992
+Milwaukee Bucks,Atlanta Hawks,Milwaukee Bucks,9,12,21,692341200.0,1992
+Milwaukee Bucks,Washington Bullets,Milwaukee Bucks,10,12,22,692514000.0,1992
+Milwaukee Bucks,Milwaukee Bucks,Minnesota Timberwolves,11,12,23,692686800.0,1992
+Milwaukee Bucks,Boston Celtics,Milwaukee Bucks,11,13,24,693032400.0,1992
+Milwaukee Bucks,Orlando Magic,Milwaukee Bucks,12,13,25,693118800.0,1992
+Milwaukee Bucks,Milwaukee Bucks,Philadelphia 76ers,13,13,26,693291600.0,1992
+Milwaukee Bucks,Milwaukee Bucks,Cleveland Cavaliers,13,14,27,693723600.0,1992
+Milwaukee Bucks,Milwaukee Bucks,Houston Rockets,14,14,28,693982800.0,1992
+Milwaukee Bucks,Minnesota Timberwolves,Milwaukee Bucks,15,14,29,694328400.0,1992
+Milwaukee Bucks,Milwaukee Bucks,Chicago Bulls,16,14,30,694414800.0,1992
+Milwaukee Bucks,Milwaukee Bucks,Utah Jazz,17,14,31,694846800.0,1992
+Milwaukee Bucks,New Jersey Nets,Milwaukee Bucks,17,15,32,695019600.0,1992
+Milwaukee Bucks,Milwaukee Bucks,Sacramento Kings,17,16,33,695106000.0,1992
+Milwaukee Bucks,Atlanta Hawks,Milwaukee Bucks,17,17,34,695365200.0,1992
+Milwaukee Bucks,Miami Heat,Milwaukee Bucks,17,18,35,695451600.0,1992
+Milwaukee Bucks,Milwaukee Bucks,New York Knicks,18,18,36,695624400.0,1992
+Milwaukee Bucks,Milwaukee Bucks,Orlando Magic,19,18,37,695797200.0,1992
+Milwaukee Bucks,Houston Rockets,Milwaukee Bucks,19,19,38,695970000.0,1992
+Milwaukee Bucks,Dallas Mavericks,Milwaukee Bucks,19,20,39,696056400.0,1992
+Milwaukee Bucks,San Antonio Spurs,Milwaukee Bucks,19,21,40,696229200.0,1992
+Milwaukee Bucks,Denver Nuggets,Milwaukee Bucks,19,22,41,696315600.0,1992
+Milwaukee Bucks,Milwaukee Bucks,Atlanta Hawks,19,23,42,696661200.0,1992
+Milwaukee Bucks,Milwaukee Bucks,Boston Celtics,20,23,43,696834000.0,1992
+Milwaukee Bucks,Milwaukee Bucks,Seattle Supersonics,21,23,44,697006800.0,1992
+Milwaukee Bucks,Detroit Pistons,Milwaukee Bucks,21,24,45,697266000.0,1992
+Milwaukee Bucks,Milwaukee Bucks,Denver Nuggets,22,24,46,697352400.0,1992
+Milwaukee Bucks,Milwaukee Bucks,Detroit Pistons,23,24,47,697784400.0,1992
+Milwaukee Bucks,Milwaukee Bucks,Charlotte Hornets (Original),24,24,48,697957200.0,1992
+Milwaukee Bucks,Indiana Pacers,Milwaukee Bucks,24,25,49,698043600.0,1992
+Milwaukee Bucks,Orlando Magic,Milwaukee Bucks,24,26,50,698216400.0,1992
+Milwaukee Bucks,Milwaukee Bucks,Cleveland Cavaliers,25,26,51,698389200.0,1992
+Milwaukee Bucks,Milwaukee Bucks,Miami Heat,25,27,52,698562000.0,1992
+Milwaukee Bucks,Cleveland Cavaliers,Milwaukee Bucks,25,28,53,698821200.0,1992
+Milwaukee Bucks,Charlotte Hornets (Original),Milwaukee Bucks,25,29,54,698994000.0,1992
+Milwaukee Bucks,Detroit Pistons,Milwaukee Bucks,25,30,55,699166800.0,1992
+Milwaukee Bucks,Milwaukee Bucks,Chicago Bulls,25,31,56,699253200.0,1992
+Milwaukee Bucks,Milwaukee Bucks,Atlanta Hawks,26,31,57,699426000.0,1992
+Milwaukee Bucks,Milwaukee Bucks,Charlotte Hornets (Original),26,32,58,699685200.0,1992
+Milwaukee Bucks,Milwaukee Bucks,Orlando Magic,27,32,59,699858000.0,1992
+Milwaukee Bucks,Washington Bullets,Milwaukee Bucks,27,33,60,699944400.0,1992
+Milwaukee Bucks,Milwaukee Bucks,Portland Trail Blazers,27,34,61,700203600.0,1992
+Milwaukee Bucks,Milwaukee Bucks,Phoenix Suns,27,35,62,700376400.0,1992
+Milwaukee Bucks,Milwaukee Bucks,Philadelphia 76ers,28,35,63,700549200.0,1992
+Milwaukee Bucks,Milwaukee Bucks,Boston Celtics,29,35,64,700808400.0,1992
+Milwaukee Bucks,New York Knicks,Milwaukee Bucks,29,36,65,700981200.0,1992
+Milwaukee Bucks,Indiana Pacers,Milwaukee Bucks,29,37,66,701067600.0,1992
+Milwaukee Bucks,Milwaukee Bucks,Washington Bullets,30,37,67,701240400.0,1992
+Milwaukee Bucks,Sacramento Kings,Milwaukee Bucks,30,38,68,701413200.0,1992
+Milwaukee Bucks,Phoenix Suns,Milwaukee Bucks,30,39,69,701499600.0,1992
+Milwaukee Bucks,Seattle Supersonics,Milwaukee Bucks,30,40,70,701672400.0,1992
+Milwaukee Bucks,Los Angeles Clippers,Milwaukee Bucks,30,41,71,701758800.0,1992
+Milwaukee Bucks,Utah Jazz,Milwaukee Bucks,30,42,72,701931600.0,1992
+Milwaukee Bucks,Milwaukee Bucks,New Jersey Nets,30,43,73,702104400.0,1992
+Milwaukee Bucks,New Jersey Nets,Milwaukee Bucks,30,44,74,702277200.0,1992
+Milwaukee Bucks,Milwaukee Bucks,Los Angeles Clippers,30,45,75,702450000.0,1992
+Milwaukee Bucks,Chicago Bulls,Milwaukee Bucks,30,46,76,702619200.0,1992
+Milwaukee Bucks,Milwaukee Bucks,Indiana Pacers,30,47,77,702705600.0,1992
+Milwaukee Bucks,Boston Celtics,Milwaukee Bucks,30,48,78,702878400.0,1992
+Milwaukee Bucks,Philadelphia 76ers,Milwaukee Bucks,31,48,79,703051200.0,1992
+Milwaukee Bucks,Milwaukee Bucks,Detroit Pistons,31,49,80,703224000.0,1992
+Milwaukee Bucks,Miami Heat,Milwaukee Bucks,31,50,81,703396800.0,1992
+Milwaukee Bucks,Milwaukee Bucks,New York Knicks,31,51,82,703569600.0,1992
+Minnesota Timberwolves,Minnesota Timberwolves,Utah Jazz,0,1,1,688971600.0,1992
+Minnesota Timberwolves,Minnesota Timberwolves,Dallas Mavericks,0,2,2,689403600.0,1992
+Minnesota Timberwolves,Denver Nuggets,Minnesota Timberwolves,0,3,3,689490000.0,1992
+Minnesota Timberwolves,Sacramento Kings,Minnesota Timberwolves,1,3,4,689662800.0,1992
+Minnesota Timberwolves,Los Angeles Lakers,Minnesota Timberwolves,1,4,5,689749200.0,1992
+Minnesota Timberwolves,Minnesota Timberwolves,Washington Bullets,1,5,6,690008400.0,1992
+Minnesota Timberwolves,Minnesota Timberwolves,Portland Trail Blazers,1,6,7,690181200.0,1992
+Minnesota Timberwolves,Minnesota Timberwolves,Seattle Supersonics,1,7,8,690354000.0,1992
+Minnesota Timberwolves,San Antonio Spurs,Minnesota Timberwolves,1,8,9,690613200.0,1992
+Minnesota Timberwolves,Houston Rockets,Minnesota Timberwolves,1,9,10,690699600.0,1992
+Minnesota Timberwolves,Minnesota Timberwolves,Houston Rockets,2,9,11,690872400.0,1992
+Minnesota Timberwolves,Minnesota Timberwolves,Denver Nuggets,3,9,12,691218000.0,1992
+Minnesota Timberwolves,Dallas Mavericks,Minnesota Timberwolves,3,10,13,691477200.0,1992
+Minnesota Timberwolves,Minnesota Timberwolves,Phoenix Suns,3,11,14,691736400.0,1992
+Minnesota Timberwolves,Seattle Supersonics,Minnesota Timberwolves,3,12,15,691995600.0,1992
+Minnesota Timberwolves,Los Angeles Clippers,Minnesota Timberwolves,3,13,16,692082000.0,1992
+Minnesota Timberwolves,Minnesota Timberwolves,San Antonio Spurs,3,14,17,692427600.0,1992
+Minnesota Timberwolves,Minnesota Timberwolves,Philadelphia 76ers,3,15,18,692600400.0,1992
+Minnesota Timberwolves,Milwaukee Bucks,Minnesota Timberwolves,3,16,19,692686800.0,1992
+Minnesota Timberwolves,Portland Trail Blazers,Minnesota Timberwolves,3,17,20,692859600.0,1992
+Minnesota Timberwolves,Golden State Warriors,Minnesota Timberwolves,3,18,21,692946000.0,1992
+Minnesota Timberwolves,Minnesota Timberwolves,Los Angeles Lakers,4,18,22,693118800.0,1992
+Minnesota Timberwolves,Minnesota Timberwolves,Los Angeles Clippers,4,19,23,693291600.0,1992
+Minnesota Timberwolves,Minnesota Timberwolves,New York Knicks,4,20,24,693464400.0,1992
+Minnesota Timberwolves,Minnesota Timberwolves,Golden State Warriors,4,21,25,693810000.0,1992
+Minnesota Timberwolves,Atlanta Hawks,Minnesota Timberwolves,4,22,26,693896400.0,1992
+Minnesota Timberwolves,Minnesota Timberwolves,Sacramento Kings,4,23,27,694069200.0,1992
+Minnesota Timberwolves,Minnesota Timberwolves,Milwaukee Bucks,4,24,28,694328400.0,1992
+Minnesota Timberwolves,Minnesota Timberwolves,Boston Celtics,5,24,29,694501200.0,1992
+Minnesota Timberwolves,Minnesota Timberwolves,Cleveland Cavaliers,5,25,30,694760400.0,1992
+Minnesota Timberwolves,New Jersey Nets,Minnesota Timberwolves,5,26,31,694846800.0,1992
+Minnesota Timberwolves,Boston Celtics,Minnesota Timberwolves,6,26,32,695019600.0,1992
+Minnesota Timberwolves,Minnesota Timberwolves,Utah Jazz,7,26,33,695106000.0,1992
+Minnesota Timberwolves,Phoenix Suns,Minnesota Timberwolves,7,27,34,695278800.0,1992
+Minnesota Timberwolves,Utah Jazz,Minnesota Timberwolves,7,28,35,695365200.0,1992
+Minnesota Timberwolves,Minnesota Timberwolves,San Antonio Spurs,7,29,36,695538000.0,1992
+Minnesota Timberwolves,Minnesota Timberwolves,New Jersey Nets,7,30,37,695710800.0,1992
+Minnesota Timberwolves,Miami Heat,Minnesota Timberwolves,7,31,38,695883600.0,1992
+Minnesota Timberwolves,Orlando Magic,Minnesota Timberwolves,7,32,39,695970000.0,1992
+Minnesota Timberwolves,Minnesota Timberwolves,Detroit Pistons,7,33,40,696142800.0,1992
+Minnesota Timberwolves,Philadelphia 76ers,Minnesota Timberwolves,7,34,41,696229200.0,1992
+Minnesota Timberwolves,Houston Rockets,Minnesota Timberwolves,7,35,42,696574800.0,1992
+Minnesota Timberwolves,San Antonio Spurs,Minnesota Timberwolves,7,36,43,696834000.0,1992
+Minnesota Timberwolves,Cleveland Cavaliers,Minnesota Timberwolves,7,37,44,697006800.0,1992
+Minnesota Timberwolves,Minnesota Timberwolves,Denver Nuggets,8,37,45,697093200.0,1992
+Minnesota Timberwolves,Minnesota Timberwolves,Orlando Magic,8,38,46,697266000.0,1992
+Minnesota Timberwolves,Minnesota Timberwolves,Los Angeles Lakers,8,39,47,697784400.0,1992
+Minnesota Timberwolves,Detroit Pistons,Minnesota Timberwolves,9,39,48,697957200.0,1992
+Minnesota Timberwolves,Minnesota Timberwolves,Indiana Pacers,9,40,49,698130000.0,1992
+Minnesota Timberwolves,Houston Rockets,Minnesota Timberwolves,10,40,50,698302800.0,1992
+Minnesota Timberwolves,San Antonio Spurs,Minnesota Timberwolves,10,41,51,698475600.0,1992
+Minnesota Timberwolves,Dallas Mavericks,Minnesota Timberwolves,10,42,52,698648400.0,1992
+Minnesota Timberwolves,Chicago Bulls,Minnesota Timberwolves,10,43,53,698734800.0,1992
+Minnesota Timberwolves,Minnesota Timberwolves,Seattle Supersonics,10,44,54,698907600.0,1992
+Minnesota Timberwolves,Minnesota Timberwolves,Dallas Mavericks,11,44,55,699080400.0,1992
+Minnesota Timberwolves,New York Knicks,Minnesota Timberwolves,11,45,56,699339600.0,1992
+Minnesota Timberwolves,Minnesota Timberwolves,San Antonio Spurs,11,46,57,699598800.0,1992
+Minnesota Timberwolves,Minnesota Timberwolves,Chicago Bulls,11,47,58,699771600.0,1992
+Minnesota Timberwolves,Indiana Pacers,Minnesota Timberwolves,11,48,59,699944400.0,1992
+Minnesota Timberwolves,Charlotte Hornets (Original),Minnesota Timberwolves,11,49,60,700203600.0,1992
+Minnesota Timberwolves,Minnesota Timberwolves,Portland Trail Blazers,11,50,61,700290000.0,1992
+Minnesota Timberwolves,Washington Bullets,Minnesota Timberwolves,11,51,62,700462800.0,1992
+Minnesota Timberwolves,Minnesota Timberwolves,Phoenix Suns,11,52,63,700635600.0,1992
+Minnesota Timberwolves,Portland Trail Blazers,Minnesota Timberwolves,11,53,64,700808400.0,1992
+Minnesota Timberwolves,Golden State Warriors,Minnesota Timberwolves,11,54,65,700894800.0,1992
+Minnesota Timberwolves,Los Angeles Lakers,Minnesota Timberwolves,11,55,66,701067600.0,1992
+Minnesota Timberwolves,Phoenix Suns,Minnesota Timberwolves,11,56,67,701154000.0,1992
+Minnesota Timberwolves,Minnesota Timberwolves,Denver Nuggets,11,57,68,701326800.0,1992
+Minnesota Timberwolves,Minnesota Timberwolves,Miami Heat,11,58,69,701499600.0,1992
+Minnesota Timberwolves,Minnesota Timberwolves,Atlanta Hawks,11,59,70,701672400.0,1992
+Minnesota Timberwolves,Minnesota Timberwolves,Sacramento Kings,11,60,71,701845200.0,1992
+Minnesota Timberwolves,Denver Nuggets,Minnesota Timberwolves,12,60,72,702018000.0,1992
+Minnesota Timberwolves,Dallas Mavericks,Minnesota Timberwolves,13,60,73,702277200.0,1992
+Minnesota Timberwolves,Minnesota Timberwolves,Utah Jazz,14,60,74,702450000.0,1992
+Minnesota Timberwolves,Minnesota Timberwolves,Los Angeles Clippers,14,61,75,702619200.0,1992
+Minnesota Timberwolves,Minnesota Timberwolves,Houston Rockets,14,62,76,702792000.0,1992
+Minnesota Timberwolves,Sacramento Kings,Minnesota Timberwolves,14,63,77,702964800.0,1992
+Minnesota Timberwolves,Seattle Supersonics,Minnesota Timberwolves,14,64,78,703051200.0,1992
+Minnesota Timberwolves,Minnesota Timberwolves,Golden State Warriors,14,65,79,703224000.0,1992
+Minnesota Timberwolves,Los Angeles Clippers,Minnesota Timberwolves,14,66,80,703396800.0,1992
+Minnesota Timberwolves,Utah Jazz,Minnesota Timberwolves,14,67,81,703483200.0,1992
+Minnesota Timberwolves,Minnesota Timberwolves,Charlotte Hornets (Original),15,67,82,703656000.0,1992
+New Jersey Nets,Charlotte Hornets (Original),New Jersey Nets,1,0,1,689058000.0,1992
+New Jersey Nets,Philadelphia 76ers,New Jersey Nets,1,1,2,689403600.0,1992
+New Jersey Nets,New Jersey Nets,Miami Heat,1,2,3,689490000.0,1992
+New Jersey Nets,New Jersey Nets,Detroit Pistons,1,3,4,689662800.0,1992
+New Jersey Nets,New York Knicks,New Jersey Nets,1,4,5,689922000.0,1992
+New Jersey Nets,New Jersey Nets,Utah Jazz,1,5,6,690008400.0,1992
+New Jersey Nets,New Jersey Nets,Washington Bullets,1,6,7,690181200.0,1992
+New Jersey Nets,Orlando Magic,New Jersey Nets,1,7,8,690267600.0,1992
+New Jersey Nets,New Jersey Nets,Sacramento Kings,2,7,9,690526800.0,1992
+New Jersey Nets,Cleveland Cavaliers,New Jersey Nets,2,8,10,690699600.0,1992
+New Jersey Nets,New Jersey Nets,Boston Celtics,2,9,11,690872400.0,1992
+New Jersey Nets,Houston Rockets,New Jersey Nets,2,10,12,691131600.0,1992
+New Jersey Nets,San Antonio Spurs,New Jersey Nets,2,11,13,691218000.0,1992
+New Jersey Nets,Dallas Mavericks,New Jersey Nets,3,11,14,691390800.0,1992
+New Jersey Nets,Denver Nuggets,New Jersey Nets,3,12,15,691477200.0,1992
+New Jersey Nets,New Jersey Nets,Philadelphia 76ers,4,12,16,691736400.0,1992
+New Jersey Nets,Milwaukee Bucks,New Jersey Nets,5,12,17,691909200.0,1992
+New Jersey Nets,New Jersey Nets,Los Angeles Lakers,5,13,18,691995600.0,1992
+New Jersey Nets,New Jersey Nets,New York Knicks,5,14,19,692341200.0,1992
+New Jersey Nets,New Jersey Nets,Denver Nuggets,6,14,20,692514000.0,1992
+New Jersey Nets,New Jersey Nets,Charlotte Hornets (Original),6,15,21,692686800.0,1992
+New Jersey Nets,New York Knicks,New Jersey Nets,6,16,22,692946000.0,1992
+New Jersey Nets,New Jersey Nets,Cleveland Cavaliers,7,16,23,693032400.0,1992
+New Jersey Nets,New Jersey Nets,Chicago Bulls,7,17,24,693205200.0,1992
+New Jersey Nets,Indiana Pacers,New Jersey Nets,7,18,25,693291600.0,1992
+New Jersey Nets,New Jersey Nets,Atlanta Hawks,8,18,26,693464400.0,1992
+New Jersey Nets,New Jersey Nets,Houston Rockets,9,18,27,693723600.0,1992
+New Jersey Nets,Charlotte Hornets (Original),New Jersey Nets,10,18,28,693810000.0,1992
+New Jersey Nets,New Jersey Nets,Orlando Magic,11,18,29,694069200.0,1992
+New Jersey Nets,New Jersey Nets,Washington Bullets,11,19,30,694414800.0,1992
+New Jersey Nets,Chicago Bulls,New Jersey Nets,11,20,31,694501200.0,1992
+New Jersey Nets,New Jersey Nets,Los Angeles Clippers,12,20,32,694674000.0,1992
+New Jersey Nets,New Jersey Nets,Minnesota Timberwolves,13,20,33,694846800.0,1992
+New Jersey Nets,New Jersey Nets,Milwaukee Bucks,14,20,34,695019600.0,1992
+New Jersey Nets,Detroit Pistons,New Jersey Nets,14,21,35,695106000.0,1992
+New Jersey Nets,New Jersey Nets,Dallas Mavericks,15,21,36,695365200.0,1992
+New Jersey Nets,Boston Celtics,New Jersey Nets,16,21,37,695451600.0,1992
+New Jersey Nets,Minnesota Timberwolves,New Jersey Nets,17,21,38,695710800.0,1992
+New Jersey Nets,New Jersey Nets,Phoenix Suns,18,21,39,696056400.0,1992
+New Jersey Nets,New Jersey Nets,Miami Heat,19,21,40,696229200.0,1992
+New Jersey Nets,Philadelphia 76ers,New Jersey Nets,19,22,41,696315600.0,1992
+New Jersey Nets,Sacramento Kings,New Jersey Nets,19,23,42,696574800.0,1992
+New Jersey Nets,Phoenix Suns,New Jersey Nets,19,24,43,696661200.0,1992
+New Jersey Nets,Portland Trail Blazers,New Jersey Nets,19,25,44,696834000.0,1992
+New Jersey Nets,Los Angeles Clippers,New Jersey Nets,19,26,45,696920400.0,1992
+New Jersey Nets,New Jersey Nets,Seattle Supersonics,19,27,46,697266000.0,1992
+New Jersey Nets,Washington Bullets,New Jersey Nets,19,28,47,697352400.0,1992
+New Jersey Nets,Chicago Bulls,New Jersey Nets,19,29,48,697784400.0,1992
+New Jersey Nets,Philadelphia 76ers,New Jersey Nets,20,29,49,697870800.0,1992
+New Jersey Nets,New Jersey Nets,Philadelphia 76ers,21,29,50,698043600.0,1992
+New Jersey Nets,Cleveland Cavaliers,New Jersey Nets,21,30,51,698130000.0,1992
+New Jersey Nets,New Jersey Nets,Detroit Pistons,22,30,52,698475600.0,1992
+New Jersey Nets,New Jersey Nets,Indiana Pacers,23,30,53,698648400.0,1992
+New Jersey Nets,Atlanta Hawks,New Jersey Nets,23,31,54,698734800.0,1992
+New Jersey Nets,New Jersey Nets,Boston Celtics,24,31,55,698994000.0,1992
+New Jersey Nets,New Jersey Nets,Portland Trail Blazers,25,31,56,699166800.0,1992
+New Jersey Nets,Detroit Pistons,New Jersey Nets,26,31,57,699339600.0,1992
+New Jersey Nets,New Jersey Nets,New York Knicks,27,31,58,699426000.0,1992
+New Jersey Nets,Los Angeles Lakers,New Jersey Nets,27,32,59,699685200.0,1992
+New Jersey Nets,Utah Jazz,New Jersey Nets,27,33,60,699858000.0,1992
+New Jersey Nets,Seattle Supersonics,New Jersey Nets,27,34,61,699944400.0,1992
+New Jersey Nets,Golden State Warriors,New Jersey Nets,27,35,62,700203600.0,1992
+New Jersey Nets,Boston Celtics,New Jersey Nets,28,35,63,700462800.0,1992
+New Jersey Nets,New York Knicks,New Jersey Nets,29,35,64,700549200.0,1992
+New Jersey Nets,New Jersey Nets,Chicago Bulls,29,36,65,700808400.0,1992
+New Jersey Nets,New Jersey Nets,Washington Bullets,30,36,66,701067600.0,1992
+New Jersey Nets,Miami Heat,New Jersey Nets,30,37,67,701240400.0,1992
+New Jersey Nets,New Jersey Nets,Charlotte Hornets (Original),31,37,68,701326800.0,1992
+New Jersey Nets,New Jersey Nets,Boston Celtics,31,38,69,701499600.0,1992
+New Jersey Nets,New Jersey Nets,Golden State Warriors,31,39,70,701758800.0,1992
+New Jersey Nets,New Jersey Nets,San Antonio Spurs,32,39,71,701931600.0,1992
+New Jersey Nets,Milwaukee Bucks,New Jersey Nets,33,39,72,702104400.0,1992
+New Jersey Nets,New Jersey Nets,Milwaukee Bucks,34,39,73,702277200.0,1992
+New Jersey Nets,Indiana Pacers,New Jersey Nets,35,39,74,702450000.0,1992
+New Jersey Nets,New Jersey Nets,Atlanta Hawks,35,40,75,702619200.0,1992
+New Jersey Nets,Washington Bullets,New Jersey Nets,36,40,76,702705600.0,1992
+New Jersey Nets,New Jersey Nets,Cleveland Cavaliers,37,40,77,702878400.0,1992
+New Jersey Nets,Atlanta Hawks,New Jersey Nets,37,41,78,702964800.0,1992
+New Jersey Nets,Orlando Magic,New Jersey Nets,38,41,79,703137600.0,1992
+New Jersey Nets,Miami Heat,New Jersey Nets,39,41,80,703224000.0,1992
+New Jersey Nets,New Jersey Nets,Indiana Pacers,39,42,81,703396800.0,1992
+New Jersey Nets,New Jersey Nets,Orlando Magic,40,42,82,703569600.0,1992
+New York Knicks,Orlando Magic,New York Knicks,0,1,1,688971600.0,1992
+New York Knicks,Miami Heat,New York Knicks,0,2,2,689058000.0,1992
+New York Knicks,New York Knicks,Milwaukee Bucks,1,2,3,689317200.0,1992
+New York Knicks,New York Knicks,Orlando Magic,2,2,4,689490000.0,1992
+New York Knicks,New York Knicks,Charlotte Hornets (Original),3,2,5,689662800.0,1992
+New York Knicks,New York Knicks,New Jersey Nets,4,2,6,689922000.0,1992
+New York Knicks,Indiana Pacers,New York Knicks,4,3,7,690008400.0,1992
+New York Knicks,San Antonio Spurs,New York Knicks,4,4,8,690267600.0,1992
+New York Knicks,Houston Rockets,New York Knicks,4,5,9,690526800.0,1992
+New York Knicks,Dallas Mavericks,New York Knicks,5,5,10,690613200.0,1992
+New York Knicks,Detroit Pistons,New York Knicks,6,5,11,690786000.0,1992
+New York Knicks,New York Knicks,Philadelphia 76ers,7,5,12,690872400.0,1992
+New York Knicks,New York Knicks,Miami Heat,8,5,13,691131600.0,1992
+New York Knicks,New York Knicks,Detroit Pistons,9,5,14,691477200.0,1992
+New York Knicks,Charlotte Hornets (Original),New York Knicks,10,5,15,691650000.0,1992
+New York Knicks,Boston Celtics,New York Knicks,10,6,16,691995600.0,1992
+New York Knicks,Atlanta Hawks,New York Knicks,11,6,17,692082000.0,1992
+New York Knicks,New Jersey Nets,New York Knicks,12,6,18,692341200.0,1992
+New York Knicks,New York Knicks,Seattle Supersonics,13,6,19,692427600.0,1992
+New York Knicks,Chicago Bulls,New York Knicks,13,7,20,692600400.0,1992
+New York Knicks,New York Knicks,Boston Celtics,14,7,21,692686800.0,1992
+New York Knicks,New York Knicks,New Jersey Nets,15,7,22,692946000.0,1992
+New York Knicks,New York Knicks,Utah Jazz,16,7,23,693291600.0,1992
+New York Knicks,Minnesota Timberwolves,New York Knicks,17,7,24,693464400.0,1992
+New York Knicks,New York Knicks,San Antonio Spurs,17,8,25,693723600.0,1992
+New York Knicks,New York Knicks,Indiana Pacers,18,8,26,693896400.0,1992
+New York Knicks,New York Knicks,Cleveland Cavaliers,18,9,27,694328400.0,1992
+New York Knicks,Washington Bullets,New York Knicks,19,9,28,694501200.0,1992
+New York Knicks,New York Knicks,Phoenix Suns,20,9,29,694587600.0,1992
+New York Knicks,New York Knicks,Atlanta Hawks,20,10,30,694760400.0,1992
+New York Knicks,Boston Celtics,New York Knicks,20,11,31,694846800.0,1992
+New York Knicks,New York Knicks,Boston Celtics,21,11,32,695106000.0,1992
+New York Knicks,Orlando Magic,New York Knicks,22,11,33,695365200.0,1992
+New York Knicks,New York Knicks,Portland Trail Blazers,22,12,34,695451600.0,1992
+New York Knicks,Milwaukee Bucks,New York Knicks,22,13,35,695624400.0,1992
+New York Knicks,Cleveland Cavaliers,New York Knicks,22,14,36,695710800.0,1992
+New York Knicks,New York Knicks,Indiana Pacers,23,14,37,695883600.0,1992
+New York Knicks,Philadelphia 76ers,New York Knicks,23,15,38,696056400.0,1992
+New York Knicks,Golden State Warriors,New York Knicks,24,15,39,696229200.0,1992
+New York Knicks,Los Angeles Clippers,New York Knicks,25,15,40,696315600.0,1992
+New York Knicks,Utah Jazz,New York Knicks,26,15,41,696488400.0,1992
+New York Knicks,New York Knicks,Washington Bullets,27,15,42,696661200.0,1992
+New York Knicks,Washington Bullets,New York Knicks,28,15,43,696834000.0,1992
+New York Knicks,New York Knicks,Golden State Warriors,28,16,44,697006800.0,1992
+New York Knicks,New York Knicks,Miami Heat,29,16,45,697179600.0,1992
+New York Knicks,New York Knicks,Houston Rockets,30,16,46,697352400.0,1992
+New York Knicks,Indiana Pacers,New York Knicks,31,16,47,697870800.0,1992
+New York Knicks,New York Knicks,Chicago Bulls,31,17,48,697957200.0,1992
+New York Knicks,Chicago Bulls,New York Knicks,31,18,49,698130000.0,1992
+New York Knicks,Miami Heat,New York Knicks,32,18,50,698302800.0,1992
+New York Knicks,New York Knicks,Sacramento Kings,33,18,51,698389200.0,1992
+New York Knicks,New York Knicks,Cleveland Cavaliers,33,19,52,698562000.0,1992
+New York Knicks,New York Knicks,Denver Nuggets,34,19,53,698734800.0,1992
+New York Knicks,Phoenix Suns,New York Knicks,34,20,54,698907600.0,1992
+New York Knicks,Los Angeles Lakers,New York Knicks,34,21,55,699080400.0,1992
+New York Knicks,Sacramento Kings,New York Knicks,34,22,56,699166800.0,1992
+New York Knicks,New York Knicks,Minnesota Timberwolves,35,22,57,699339600.0,1992
+New York Knicks,New Jersey Nets,New York Knicks,35,23,58,699426000.0,1992
+New York Knicks,New York Knicks,Dallas Mavericks,36,23,59,699598800.0,1992
+New York Knicks,New York Knicks,Los Angeles Clippers,37,23,60,699771600.0,1992
+New York Knicks,New York Knicks,Charlotte Hornets (Original),38,23,61,699944400.0,1992
+New York Knicks,Philadelphia 76ers,New York Knicks,39,23,62,700117200.0,1992
+New York Knicks,New York Knicks,Los Angeles Lakers,39,24,63,700203600.0,1992
+New York Knicks,New York Knicks,New Jersey Nets,39,25,64,700549200.0,1992
+New York Knicks,Orlando Magic,New York Knicks,40,25,65,700808400.0,1992
+New York Knicks,New York Knicks,Milwaukee Bucks,41,25,66,700981200.0,1992
+New York Knicks,New York Knicks,Miami Heat,42,25,67,701154000.0,1992
+New York Knicks,New York Knicks,Orlando Magic,43,25,68,701413200.0,1992
+New York Knicks,Denver Nuggets,New York Knicks,44,25,69,701586000.0,1992
+New York Knicks,Seattle Supersonics,New York Knicks,45,25,70,701758800.0,1992
+New York Knicks,Portland Trail Blazers,New York Knicks,46,25,71,701845200.0,1992
+New York Knicks,New York Knicks,Chicago Bulls,46,26,72,702018000.0,1992
+New York Knicks,Charlotte Hornets (Original),New York Knicks,47,26,73,702190800.0,1992
+New York Knicks,New York Knicks,Atlanta Hawks,48,26,74,702277200.0,1992
+New York Knicks,Cleveland Cavaliers,New York Knicks,48,27,75,702450000.0,1992
+New York Knicks,New York Knicks,Detroit Pistons,48,28,76,702619200.0,1992
+New York Knicks,Boston Celtics,New York Knicks,48,29,77,702705600.0,1992
+New York Knicks,New York Knicks,Philadelphia 76ers,49,29,78,702878400.0,1992
+New York Knicks,Detroit Pistons,New York Knicks,49,30,79,703051200.0,1992
+New York Knicks,New York Knicks,Washington Bullets,50,30,80,703224000.0,1992
+New York Knicks,Atlanta Hawks,New York Knicks,50,31,81,703310400.0,1992
+New York Knicks,Milwaukee Bucks,New York Knicks,51,31,82,703569600.0,1992
+Orlando Magic,Orlando Magic,New York Knicks,1,0,1,688971600.0,1992
+Orlando Magic,Philadelphia 76ers,Orlando Magic,2,0,2,689058000.0,1992
+Orlando Magic,Orlando Magic,Washington Bullets,3,0,3,689403600.0,1992
+Orlando Magic,New York Knicks,Orlando Magic,3,1,4,689490000.0,1992
+Orlando Magic,Chicago Bulls,Orlando Magic,3,2,5,689662800.0,1992
+Orlando Magic,Washington Bullets,Orlando Magic,4,2,6,689922000.0,1992
+Orlando Magic,Orlando Magic,Philadelphia 76ers,4,3,7,690008400.0,1992
+Orlando Magic,Orlando Magic,New Jersey Nets,5,3,8,690267600.0,1992
+Orlando Magic,Orlando Magic,Utah Jazz,5,4,9,690613200.0,1992
+Orlando Magic,Orlando Magic,Sacramento Kings,5,5,10,690872400.0,1992
+Orlando Magic,Orlando Magic,Los Angeles Lakers,5,6,11,691131600.0,1992
+Orlando Magic,Boston Celtics,Orlando Magic,5,7,12,691218000.0,1992
+Orlando Magic,Cleveland Cavaliers,Orlando Magic,5,8,13,691390800.0,1992
+Orlando Magic,Orlando Magic,Miami Heat,6,8,14,691477200.0,1992
+Orlando Magic,Orlando Magic,Portland Trail Blazers,6,9,15,691822800.0,1992
+Orlando Magic,Orlando Magic,Phoenix Suns,6,10,16,691995600.0,1992
+Orlando Magic,Orlando Magic,Charlotte Hornets (Original),6,11,17,692082000.0,1992
+Orlando Magic,Utah Jazz,Orlando Magic,6,12,18,692341200.0,1992
+Orlando Magic,Sacramento Kings,Orlando Magic,6,13,19,692514000.0,1992
+Orlando Magic,Golden State Warriors,Orlando Magic,6,14,20,692686800.0,1992
+Orlando Magic,Los Angeles Clippers,Orlando Magic,6,15,21,692773200.0,1992
+Orlando Magic,Orlando Magic,Boston Celtics,6,16,22,692946000.0,1992
+Orlando Magic,Orlando Magic,Milwaukee Bucks,6,17,23,693118800.0,1992
+Orlando Magic,Orlando Magic,Houston Rockets,6,18,24,693378000.0,1992
+Orlando Magic,Miami Heat,Orlando Magic,6,19,25,693464400.0,1992
+Orlando Magic,Orlando Magic,Detroit Pistons,6,20,26,693723600.0,1992
+Orlando Magic,Detroit Pistons,Orlando Magic,6,21,27,693810000.0,1992
+Orlando Magic,Orlando Magic,San Antonio Spurs,6,22,28,693982800.0,1992
+Orlando Magic,New Jersey Nets,Orlando Magic,6,23,29,694069200.0,1992
+Orlando Magic,Denver Nuggets,Orlando Magic,6,24,30,694501200.0,1992
+Orlando Magic,Portland Trail Blazers,Orlando Magic,6,25,31,694760400.0,1992
+Orlando Magic,Seattle Supersonics,Orlando Magic,7,25,32,694846800.0,1992
+Orlando Magic,Phoenix Suns,Orlando Magic,7,26,33,695019600.0,1992
+Orlando Magic,Los Angeles Lakers,Orlando Magic,7,27,34,695192400.0,1992
+Orlando Magic,Orlando Magic,New York Knicks,7,28,35,695365200.0,1992
+Orlando Magic,Indiana Pacers,Orlando Magic,8,28,36,695624400.0,1992
+Orlando Magic,Milwaukee Bucks,Orlando Magic,8,29,37,695797200.0,1992
+Orlando Magic,Orlando Magic,Minnesota Timberwolves,9,29,38,695970000.0,1992
+Orlando Magic,Boston Celtics,Orlando Magic,9,30,39,696056400.0,1992
+Orlando Magic,Orlando Magic,Dallas Mavericks,10,30,40,696229200.0,1992
+Orlando Magic,Orlando Magic,Cleveland Cavaliers,11,30,41,696315600.0,1992
+Orlando Magic,Orlando Magic,Seattle Supersonics,11,31,42,696574800.0,1992
+Orlando Magic,Cleveland Cavaliers,Orlando Magic,11,32,43,696747600.0,1992
+Orlando Magic,Philadelphia 76ers,Orlando Magic,11,33,44,696834000.0,1992
+Orlando Magic,Washington Bullets,Orlando Magic,11,34,45,697006800.0,1992
+Orlando Magic,Orlando Magic,Golden State Warriors,11,35,46,697093200.0,1992
+Orlando Magic,Minnesota Timberwolves,Orlando Magic,12,35,47,697266000.0,1992
+Orlando Magic,Atlanta Hawks,Orlando Magic,12,36,48,697352400.0,1992
+Orlando Magic,Orlando Magic,Indiana Pacers,12,37,49,697784400.0,1992
+Orlando Magic,Orlando Magic,Atlanta Hawks,12,38,50,698043600.0,1992
+Orlando Magic,Orlando Magic,Milwaukee Bucks,13,38,51,698216400.0,1992
+Orlando Magic,Detroit Pistons,Orlando Magic,13,39,52,698389200.0,1992
+Orlando Magic,Orlando Magic,Chicago Bulls,13,40,53,698475600.0,1992
+Orlando Magic,Orlando Magic,Detroit Pistons,13,41,54,698648400.0,1992
+Orlando Magic,Charlotte Hornets (Original),Orlando Magic,13,42,55,698734800.0,1992
+Orlando Magic,Orlando Magic,Philadelphia 76ers,14,42,56,699080400.0,1992
+Orlando Magic,Indiana Pacers,Orlando Magic,14,43,57,699253200.0,1992
+Orlando Magic,Orlando Magic,Los Angeles Clippers,14,44,58,699426000.0,1992
+Orlando Magic,Orlando Magic,Washington Bullets,14,45,59,699598800.0,1992
+Orlando Magic,Boston Celtics,Orlando Magic,14,46,60,699685200.0,1992
+Orlando Magic,Milwaukee Bucks,Orlando Magic,14,47,61,699858000.0,1992
+Orlando Magic,Orlando Magic,Boston Celtics,14,48,62,700030800.0,1992
+Orlando Magic,Orlando Magic,Denver Nuggets,14,49,63,700203600.0,1992
+Orlando Magic,Orlando Magic,Indiana Pacers,15,49,64,700462800.0,1992
+Orlando Magic,Orlando Magic,Chicago Bulls,15,50,65,700549200.0,1992
+Orlando Magic,Orlando Magic,New York Knicks,15,51,66,700808400.0,1992
+Orlando Magic,Atlanta Hawks,Orlando Magic,16,51,67,700894800.0,1992
+Orlando Magic,Chicago Bulls,Orlando Magic,17,51,68,701154000.0,1992
+Orlando Magic,New York Knicks,Orlando Magic,17,52,69,701413200.0,1992
+Orlando Magic,Orlando Magic,Cleveland Cavaliers,17,53,70,701499600.0,1992
+Orlando Magic,Orlando Magic,Miami Heat,17,54,71,701758800.0,1992
+Orlando Magic,Charlotte Hornets (Original),Orlando Magic,17,55,72,701931600.0,1992
+Orlando Magic,Dallas Mavericks,Orlando Magic,17,56,73,702104400.0,1992
+Orlando Magic,San Antonio Spurs,Orlando Magic,18,56,74,702277200.0,1992
+Orlando Magic,Houston Rockets,Orlando Magic,18,57,75,702363600.0,1992
+Orlando Magic,Orlando Magic,Charlotte Hornets (Original),19,57,76,702619200.0,1992
+Orlando Magic,Orlando Magic,Atlanta Hawks,20,57,77,702792000.0,1992
+Orlando Magic,Miami Heat,Orlando Magic,20,58,78,702964800.0,1992
+Orlando Magic,Orlando Magic,New Jersey Nets,20,59,79,703137600.0,1992
+Orlando Magic,Orlando Magic,Philadelphia 76ers,21,59,80,703310400.0,1992
+Orlando Magic,Washington Bullets,Orlando Magic,21,60,81,703396800.0,1992
+Orlando Magic,New Jersey Nets,Orlando Magic,21,61,82,703569600.0,1992
+Philadelphia 76ers,Chicago Bulls,Philadelphia 76ers,0,1,1,688971600.0,1992
+Philadelphia 76ers,Philadelphia 76ers,Orlando Magic,0,2,2,689058000.0,1992
+Philadelphia 76ers,Washington Bullets,Philadelphia 76ers,1,2,3,689317200.0,1992
+Philadelphia 76ers,Philadelphia 76ers,New Jersey Nets,2,2,4,689403600.0,1992
+Philadelphia 76ers,Philadelphia 76ers,Golden State Warriors,3,2,5,689576400.0,1992
+Philadelphia 76ers,Philadelphia 76ers,Milwaukee Bucks,4,2,6,689835600.0,1992
+Philadelphia 76ers,Orlando Magic,Philadelphia 76ers,5,2,7,690008400.0,1992
+Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,5,3,8,690181200.0,1992
+Philadelphia 76ers,Detroit Pistons,Philadelphia 76ers,6,3,9,690267600.0,1992
+Philadelphia 76ers,Philadelphia 76ers,Miami Heat,7,3,10,690613200.0,1992
+Philadelphia 76ers,Philadelphia 76ers,Atlanta Hawks,7,4,11,690786000.0,1992
+Philadelphia 76ers,New York Knicks,Philadelphia 76ers,7,5,12,690872400.0,1992
+Philadelphia 76ers,Philadelphia 76ers,Cleveland Cavaliers,7,6,13,691131600.0,1992
+Philadelphia 76ers,Cleveland Cavaliers,Philadelphia 76ers,7,7,14,691218000.0,1992
+Philadelphia 76ers,Miami Heat,Philadelphia 76ers,7,8,15,691390800.0,1992
+Philadelphia 76ers,Philadelphia 76ers,Los Angeles Lakers,7,9,16,691477200.0,1992
+Philadelphia 76ers,New Jersey Nets,Philadelphia 76ers,7,10,17,691736400.0,1992
+Philadelphia 76ers,Philadelphia 76ers,Portland Trail Blazers,8,10,18,691995600.0,1992
+Philadelphia 76ers,Philadelphia 76ers,Chicago Bulls,9,10,19,692082000.0,1992
+Philadelphia 76ers,Philadelphia 76ers,Denver Nuggets,9,11,20,692427600.0,1992
+Philadelphia 76ers,Minnesota Timberwolves,Philadelphia 76ers,10,11,21,692600400.0,1992
+Philadelphia 76ers,Philadelphia 76ers,Seattle Supersonics,11,11,22,692686800.0,1992
+Philadelphia 76ers,Philadelphia 76ers,Utah Jazz,11,12,23,693032400.0,1992
+Philadelphia 76ers,Philadelphia 76ers,Miami Heat,12,12,24,693205200.0,1992
+Philadelphia 76ers,Milwaukee Bucks,Philadelphia 76ers,12,13,25,693291600.0,1992
+Philadelphia 76ers,Philadelphia 76ers,Charlotte Hornets (Original),12,14,26,693464400.0,1992
+Philadelphia 76ers,Indiana Pacers,Philadelphia 76ers,13,14,27,693723600.0,1992
+Philadelphia 76ers,Los Angeles Clippers,Philadelphia 76ers,13,15,28,693896400.0,1992
+Philadelphia 76ers,Denver Nuggets,Philadelphia 76ers,13,16,29,694069200.0,1992
+Philadelphia 76ers,Sacramento Kings,Philadelphia 76ers,13,17,30,694328400.0,1992
+Philadelphia 76ers,Seattle Supersonics,Philadelphia 76ers,14,17,31,694501200.0,1992
+Philadelphia 76ers,Portland Trail Blazers,Philadelphia 76ers,14,18,32,694587600.0,1992
+Philadelphia 76ers,Philadelphia 76ers,Houston Rockets,15,18,33,694846800.0,1992
+Philadelphia 76ers,Philadelphia 76ers,Los Angeles Clippers,16,18,34,695019600.0,1992
+Philadelphia 76ers,Cleveland Cavaliers,Philadelphia 76ers,16,19,35,695106000.0,1992
+Philadelphia 76ers,Chicago Bulls,Philadelphia 76ers,16,20,36,695365200.0,1992
+Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,16,21,37,695624400.0,1992
+Philadelphia 76ers,Washington Bullets,Philadelphia 76ers,17,21,38,695710800.0,1992
+Philadelphia 76ers,Philadelphia 76ers,Washington Bullets,18,21,39,695883600.0,1992
+Philadelphia 76ers,Philadelphia 76ers,New York Knicks,19,21,40,696056400.0,1992
+Philadelphia 76ers,Philadelphia 76ers,Minnesota Timberwolves,20,21,41,696229200.0,1992
+Philadelphia 76ers,Philadelphia 76ers,New Jersey Nets,21,21,42,696315600.0,1992
+Philadelphia 76ers,Atlanta Hawks,Philadelphia 76ers,21,22,43,696574800.0,1992
+Philadelphia 76ers,Philadelphia 76ers,Indiana Pacers,21,23,44,696661200.0,1992
+Philadelphia 76ers,Philadelphia 76ers,Orlando Magic,22,23,45,696834000.0,1992
+Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,23,23,46,696920400.0,1992
+Philadelphia 76ers,Philadelphia 76ers,Cleveland Cavaliers,23,24,47,697266000.0,1992
+Philadelphia 76ers,Miami Heat,Philadelphia 76ers,24,24,48,697784400.0,1992
+Philadelphia 76ers,Philadelphia 76ers,New Jersey Nets,24,25,49,697870800.0,1992
+Philadelphia 76ers,New Jersey Nets,Philadelphia 76ers,24,26,50,698043600.0,1992
+Philadelphia 76ers,Philadelphia 76ers,Detroit Pistons,24,27,51,698216400.0,1992
+Philadelphia 76ers,Dallas Mavericks,Philadelphia 76ers,25,27,52,698389200.0,1992
+Philadelphia 76ers,Houston Rockets,Philadelphia 76ers,25,28,53,698562000.0,1992
+Philadelphia 76ers,San Antonio Spurs,Philadelphia 76ers,25,29,54,698648400.0,1992
+Philadelphia 76ers,Philadelphia 76ers,Sacramento Kings,26,29,55,698907600.0,1992
+Philadelphia 76ers,Orlando Magic,Philadelphia 76ers,26,30,56,699080400.0,1992
+Philadelphia 76ers,Charlotte Hornets (Original),Philadelphia 76ers,26,31,57,699166800.0,1992
+Philadelphia 76ers,Washington Bullets,Philadelphia 76ers,27,31,58,699339600.0,1992
+Philadelphia 76ers,Philadelphia 76ers,Atlanta Hawks,28,31,59,699685200.0,1992
+Philadelphia 76ers,Philadelphia 76ers,Dallas Mavericks,29,31,60,699858000.0,1992
+Philadelphia 76ers,Philadelphia 76ers,Chicago Bulls,29,32,61,700030800.0,1992
+Philadelphia 76ers,Philadelphia 76ers,New York Knicks,29,33,62,700117200.0,1992
+Philadelphia 76ers,Philadelphia 76ers,Indiana Pacers,30,33,63,700290000.0,1992
+Philadelphia 76ers,Philadelphia 76ers,Phoenix Suns,30,34,64,700462800.0,1992
+Philadelphia 76ers,Milwaukee Bucks,Philadelphia 76ers,30,35,65,700549200.0,1992
+Philadelphia 76ers,Detroit Pistons,Philadelphia 76ers,30,36,66,700894800.0,1992
+Philadelphia 76ers,Philadelphia 76ers,Charlotte Hornets (Original),30,37,67,700981200.0,1992
+Philadelphia 76ers,Indiana Pacers,Philadelphia 76ers,30,38,68,701240400.0,1992
+Philadelphia 76ers,Philadelphia 76ers,San Antonio Spurs,31,38,69,701326800.0,1992
+Philadelphia 76ers,Utah Jazz,Philadelphia 76ers,31,39,70,701499600.0,1992
+Philadelphia 76ers,Phoenix Suns,Philadelphia 76ers,31,40,71,701672400.0,1992
+Philadelphia 76ers,Los Angeles Lakers,Philadelphia 76ers,31,41,72,701845200.0,1992
+Philadelphia 76ers,Golden State Warriors,Philadelphia 76ers,31,42,73,701931600.0,1992
+Philadelphia 76ers,Philadelphia 76ers,Miami Heat,32,42,74,702104400.0,1992
+Philadelphia 76ers,Atlanta Hawks,Philadelphia 76ers,33,42,75,702363600.0,1992
+Philadelphia 76ers,Philadelphia 76ers,Detroit Pistons,33,43,76,702705600.0,1992
+Philadelphia 76ers,New York Knicks,Philadelphia 76ers,33,44,77,702878400.0,1992
+Philadelphia 76ers,Philadelphia 76ers,Milwaukee Bucks,33,45,78,703051200.0,1992
+Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,33,46,79,703224000.0,1992
+Philadelphia 76ers,Orlando Magic,Philadelphia 76ers,33,47,80,703310400.0,1992
+Philadelphia 76ers,Charlotte Hornets (Original),Philadelphia 76ers,34,47,81,703483200.0,1992
+Philadelphia 76ers,Philadelphia 76ers,Washington Bullets,35,47,82,703569600.0,1992
+Phoenix Suns,Seattle Supersonics,Phoenix Suns,1,0,1,688971600.0,1992
+Phoenix Suns,Portland Trail Blazers,Phoenix Suns,2,0,2,689058000.0,1992
+Phoenix Suns,Phoenix Suns,Indiana Pacers,2,1,3,689317200.0,1992
+Phoenix Suns,Los Angeles Clippers,Phoenix Suns,2,2,4,689403600.0,1992
+Phoenix Suns,Phoenix Suns,Los Angeles Lakers,3,2,5,689576400.0,1992
+Phoenix Suns,Houston Rockets,Phoenix Suns,3,3,6,689662800.0,1992
+Phoenix Suns,Golden State Warriors,Phoenix Suns,3,4,7,689922000.0,1992
+Phoenix Suns,Phoenix Suns,Boston Celtics,3,5,8,690008400.0,1992
+Phoenix Suns,Phoenix Suns,Atlanta Hawks,3,6,9,690181200.0,1992
+Phoenix Suns,Dallas Mavericks,Phoenix Suns,3,7,10,690267600.0,1992
+Phoenix Suns,Los Angeles Lakers,Phoenix Suns,3,8,11,690526800.0,1992
+Phoenix Suns,Phoenix Suns,Denver Nuggets,4,8,12,690613200.0,1992
+Phoenix Suns,Phoenix Suns,Los Angeles Clippers,5,8,13,690786000.0,1992
+Phoenix Suns,Sacramento Kings,Phoenix Suns,5,9,14,691131600.0,1992
+Phoenix Suns,Phoenix Suns,Sacramento Kings,6,9,15,691218000.0,1992
+Phoenix Suns,Phoenix Suns,Charlotte Hornets (Original),7,9,16,691390800.0,1992
+Phoenix Suns,Phoenix Suns,Utah Jazz,8,9,17,691477200.0,1992
+Phoenix Suns,Minnesota Timberwolves,Phoenix Suns,9,9,18,691736400.0,1992
+Phoenix Suns,Indiana Pacers,Phoenix Suns,10,9,19,691822800.0,1992
+Phoenix Suns,Orlando Magic,Phoenix Suns,11,9,20,691995600.0,1992
+Phoenix Suns,Miami Heat,Phoenix Suns,12,9,21,692082000.0,1992
+Phoenix Suns,Phoenix Suns,Detroit Pistons,13,9,22,692341200.0,1992
+Phoenix Suns,San Antonio Spurs,Phoenix Suns,14,9,23,692600400.0,1992
+Phoenix Suns,Denver Nuggets,Phoenix Suns,14,10,24,693032400.0,1992
+Phoenix Suns,Phoenix Suns,San Antonio Spurs,15,10,25,693205200.0,1992
+Phoenix Suns,Los Angeles Lakers,Phoenix Suns,16,10,26,693378000.0,1992
+Phoenix Suns,Phoenix Suns,Miami Heat,17,10,27,693723600.0,1992
+Phoenix Suns,Phoenix Suns,Dallas Mavericks,18,10,28,693896400.0,1992
+Phoenix Suns,Detroit Pistons,Phoenix Suns,19,10,29,694069200.0,1992
+Phoenix Suns,Atlanta Hawks,Phoenix Suns,19,11,30,694328400.0,1992
+Phoenix Suns,Charlotte Hornets (Original),Phoenix Suns,19,12,31,694501200.0,1992
+Phoenix Suns,New York Knicks,Phoenix Suns,19,13,32,694587600.0,1992
+Phoenix Suns,Phoenix Suns,Denver Nuggets,20,13,33,694846800.0,1992
+Phoenix Suns,Phoenix Suns,Orlando Magic,21,13,34,695019600.0,1992
+Phoenix Suns,Phoenix Suns,Golden State Warriors,22,13,35,695106000.0,1992
+Phoenix Suns,Phoenix Suns,Minnesota Timberwolves,23,13,36,695278800.0,1992
+Phoenix Suns,Sacramento Kings,Phoenix Suns,24,13,37,695451600.0,1992
+Phoenix Suns,Phoenix Suns,Sacramento Kings,25,13,38,695624400.0,1992
+Phoenix Suns,Phoenix Suns,Portland Trail Blazers,26,13,39,695797200.0,1992
+Phoenix Suns,Chicago Bulls,Phoenix Suns,26,14,40,695970000.0,1992
+Phoenix Suns,New Jersey Nets,Phoenix Suns,26,15,41,696056400.0,1992
+Phoenix Suns,Boston Celtics,Phoenix Suns,27,15,42,696229200.0,1992
+Phoenix Suns,Washington Bullets,Phoenix Suns,28,15,43,696315600.0,1992
+Phoenix Suns,Phoenix Suns,New Jersey Nets,29,15,44,696661200.0,1992
+Phoenix Suns,Utah Jazz,Phoenix Suns,29,16,45,696834000.0,1992
+Phoenix Suns,Phoenix Suns,Houston Rockets,30,16,46,696920400.0,1992
+Phoenix Suns,Phoenix Suns,Los Angeles Lakers,31,16,47,697093200.0,1992
+Phoenix Suns,Phoenix Suns,Chicago Bulls,32,16,48,697266000.0,1992
+Phoenix Suns,Phoenix Suns,Portland Trail Blazers,32,17,49,697870800.0,1992
+Phoenix Suns,Los Angeles Clippers,Phoenix Suns,32,18,50,698043600.0,1992
+Phoenix Suns,Phoenix Suns,Washington Bullets,33,18,51,698130000.0,1992
+Phoenix Suns,Seattle Supersonics,Phoenix Suns,33,19,52,698302800.0,1992
+Phoenix Suns,Portland Trail Blazers,Phoenix Suns,33,20,53,698389200.0,1992
+Phoenix Suns,Golden State Warriors,Phoenix Suns,33,21,54,698648400.0,1992
+Phoenix Suns,Phoenix Suns,Los Angeles Clippers,34,21,55,698734800.0,1992
+Phoenix Suns,Phoenix Suns,New York Knicks,35,21,56,698907600.0,1992
+Phoenix Suns,Phoenix Suns,Cleveland Cavaliers,36,21,57,699080400.0,1992
+Phoenix Suns,Dallas Mavericks,Phoenix Suns,36,22,58,699253200.0,1992
+Phoenix Suns,Phoenix Suns,Utah Jazz,37,22,59,699426000.0,1992
+Phoenix Suns,Phoenix Suns,Houston Rockets,38,22,60,699598800.0,1992
+Phoenix Suns,Phoenix Suns,Seattle Supersonics,39,22,61,699771600.0,1992
+Phoenix Suns,San Antonio Spurs,Phoenix Suns,39,23,62,699944400.0,1992
+Phoenix Suns,Cleveland Cavaliers,Phoenix Suns,39,24,63,700203600.0,1992
+Phoenix Suns,Milwaukee Bucks,Phoenix Suns,40,24,64,700376400.0,1992
+Phoenix Suns,Philadelphia 76ers,Phoenix Suns,41,24,65,700462800.0,1992
+Phoenix Suns,Minnesota Timberwolves,Phoenix Suns,42,24,66,700635600.0,1992
+Phoenix Suns,Phoenix Suns,Dallas Mavericks,43,24,67,700808400.0,1992
+Phoenix Suns,Phoenix Suns,Los Angeles Clippers,43,25,68,701067600.0,1992
+Phoenix Suns,Phoenix Suns,Minnesota Timberwolves,44,25,69,701154000.0,1992
+Phoenix Suns,Phoenix Suns,Milwaukee Bucks,45,25,70,701499600.0,1992
+Phoenix Suns,Phoenix Suns,Philadelphia 76ers,46,25,71,701672400.0,1992
+Phoenix Suns,Denver Nuggets,Phoenix Suns,47,25,72,701758800.0,1992
+Phoenix Suns,Phoenix Suns,Portland Trail Blazers,48,25,73,702018000.0,1992
+Phoenix Suns,Phoenix Suns,Golden State Warriors,49,25,74,702190800.0,1992
+Phoenix Suns,Utah Jazz,Phoenix Suns,49,26,75,702277200.0,1992
+Phoenix Suns,Los Angeles Lakers,Phoenix Suns,49,27,76,702450000.0,1992
+Phoenix Suns,Phoenix Suns,Sacramento Kings,50,27,77,702619200.0,1992
+Phoenix Suns,Seattle Supersonics,Phoenix Suns,50,28,78,702792000.0,1992
+Phoenix Suns,Golden State Warriors,Phoenix Suns,50,29,79,702964800.0,1992
+Phoenix Suns,Phoenix Suns,Seattle Supersonics,51,29,80,703224000.0,1992
+Phoenix Suns,Phoenix Suns,San Antonio Spurs,52,29,81,703396800.0,1992
+Phoenix Suns,Houston Rockets,Phoenix Suns,53,29,82,703656000.0,1992
+Portland Trail Blazers,Portland Trail Blazers,Cleveland Cavaliers,1,0,1,688971600.0,1992
+Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,1,1,2,689058000.0,1992
+Portland Trail Blazers,Houston Rockets,Portland Trail Blazers,1,2,3,689317200.0,1992
+Portland Trail Blazers,San Antonio Spurs,Portland Trail Blazers,1,3,4,689403600.0,1992
+Portland Trail Blazers,Portland Trail Blazers,Indiana Pacers,2,3,5,689576400.0,1992
+Portland Trail Blazers,Portland Trail Blazers,Boston Celtics,3,3,6,689749200.0,1992
+Portland Trail Blazers,Portland Trail Blazers,Denver Nuggets,4,3,7,689922000.0,1992
+Portland Trail Blazers,Minnesota Timberwolves,Portland Trail Blazers,5,3,8,690181200.0,1992
+Portland Trail Blazers,Denver Nuggets,Portland Trail Blazers,5,4,9,690267600.0,1992
+Portland Trail Blazers,Portland Trail Blazers,Los Angeles Clippers,6,4,10,690526800.0,1992
+Portland Trail Blazers,Los Angeles Clippers,Portland Trail Blazers,7,4,11,690699600.0,1992
+Portland Trail Blazers,Portland Trail Blazers,Golden State Warriors,7,5,12,690786000.0,1992
+Portland Trail Blazers,Portland Trail Blazers,San Antonio Spurs,8,5,13,690958800.0,1992
+Portland Trail Blazers,Portland Trail Blazers,Milwaukee Bucks,9,5,14,691131600.0,1992
+Portland Trail Blazers,Portland Trail Blazers,Chicago Bulls,9,6,15,691390800.0,1992
+Portland Trail Blazers,Portland Trail Blazers,Washington Bullets,10,6,16,691563600.0,1992
+Portland Trail Blazers,Miami Heat,Portland Trail Blazers,11,6,17,691736400.0,1992
+Portland Trail Blazers,Orlando Magic,Portland Trail Blazers,12,6,18,691822800.0,1992
+Portland Trail Blazers,Philadelphia 76ers,Portland Trail Blazers,12,7,19,691995600.0,1992
+Portland Trail Blazers,Indiana Pacers,Portland Trail Blazers,13,7,20,692082000.0,1992
+Portland Trail Blazers,Portland Trail Blazers,Houston Rockets,13,8,21,692341200.0,1992
+Portland Trail Blazers,Portland Trail Blazers,Detroit Pistons,13,9,22,692600400.0,1992
+Portland Trail Blazers,Portland Trail Blazers,Sacramento Kings,14,9,23,692686800.0,1992
+Portland Trail Blazers,Portland Trail Blazers,Minnesota Timberwolves,15,9,24,692859600.0,1992
+Portland Trail Blazers,Golden State Warriors,Portland Trail Blazers,15,10,25,693205200.0,1992
+Portland Trail Blazers,Portland Trail Blazers,Seattle Supersonics,16,10,26,693378000.0,1992
+Portland Trail Blazers,Portland Trail Blazers,Dallas Mavericks,17,10,27,693723600.0,1992
+Portland Trail Blazers,Los Angeles Lakers,Portland Trail Blazers,18,10,28,693896400.0,1992
+Portland Trail Blazers,Portland Trail Blazers,Miami Heat,19,10,29,693982800.0,1992
+Portland Trail Blazers,Utah Jazz,Portland Trail Blazers,19,11,30,694328400.0,1992
+Portland Trail Blazers,Portland Trail Blazers,Philadelphia 76ers,20,11,31,694587600.0,1992
+Portland Trail Blazers,Portland Trail Blazers,Orlando Magic,21,11,32,694760400.0,1992
+Portland Trail Blazers,Detroit Pistons,Portland Trail Blazers,21,12,33,695019600.0,1992
+Portland Trail Blazers,Charlotte Hornets (Original),Portland Trail Blazers,22,12,34,695106000.0,1992
+Portland Trail Blazers,Cleveland Cavaliers,Portland Trail Blazers,23,12,35,695365200.0,1992
+Portland Trail Blazers,New York Knicks,Portland Trail Blazers,24,12,36,695451600.0,1992
+Portland Trail Blazers,Portland Trail Blazers,Charlotte Hornets (Original),25,12,37,695624400.0,1992
+Portland Trail Blazers,Phoenix Suns,Portland Trail Blazers,25,13,38,695797200.0,1992
+Portland Trail Blazers,Portland Trail Blazers,Los Angeles Lakers,26,13,39,695970000.0,1992
+Portland Trail Blazers,Seattle Supersonics,Portland Trail Blazers,27,13,40,696142800.0,1992
+Portland Trail Blazers,Portland Trail Blazers,Atlanta Hawks,28,13,41,696229200.0,1992
+Portland Trail Blazers,Golden State Warriors,Portland Trail Blazers,29,13,42,696574800.0,1992
+Portland Trail Blazers,Portland Trail Blazers,New Jersey Nets,30,13,43,696834000.0,1992
+Portland Trail Blazers,Portland Trail Blazers,Sacramento Kings,31,13,44,697006800.0,1992
+Portland Trail Blazers,San Antonio Spurs,Portland Trail Blazers,31,14,45,697179600.0,1992
+Portland Trail Blazers,Dallas Mavericks,Portland Trail Blazers,32,14,46,697352400.0,1992
+Portland Trail Blazers,Portland Trail Blazers,Denver Nuggets,33,14,47,697784400.0,1992
+Portland Trail Blazers,Phoenix Suns,Portland Trail Blazers,34,14,48,697870800.0,1992
+Portland Trail Blazers,Sacramento Kings,Portland Trail Blazers,35,14,49,698043600.0,1992
+Portland Trail Blazers,Portland Trail Blazers,Los Angeles Clippers,35,15,50,698216400.0,1992
+Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,36,15,51,698389200.0,1992
+Portland Trail Blazers,Los Angeles Clippers,Portland Trail Blazers,37,15,52,698648400.0,1992
+Portland Trail Blazers,Seattle Supersonics,Portland Trail Blazers,37,16,53,698734800.0,1992
+Portland Trail Blazers,Portland Trail Blazers,Utah Jazz,38,16,54,698907600.0,1992
+Portland Trail Blazers,New Jersey Nets,Portland Trail Blazers,38,17,55,699166800.0,1992
+Portland Trail Blazers,Washington Bullets,Portland Trail Blazers,39,17,56,699253200.0,1992
+Portland Trail Blazers,Chicago Bulls,Portland Trail Blazers,39,18,57,699426000.0,1992
+Portland Trail Blazers,Portland Trail Blazers,Los Angeles Lakers,40,18,58,699598800.0,1992
+Portland Trail Blazers,Denver Nuggets,Portland Trail Blazers,41,18,59,699685200.0,1992
+Portland Trail Blazers,Portland Trail Blazers,Sacramento Kings,42,18,60,699858000.0,1992
+Portland Trail Blazers,Portland Trail Blazers,Seattle Supersonics,43,18,61,700030800.0,1992
+Portland Trail Blazers,Milwaukee Bucks,Portland Trail Blazers,44,18,62,700203600.0,1992
+Portland Trail Blazers,Minnesota Timberwolves,Portland Trail Blazers,45,18,63,700290000.0,1992
+Portland Trail Blazers,Atlanta Hawks,Portland Trail Blazers,46,18,64,700462800.0,1992
+Portland Trail Blazers,Boston Celtics,Portland Trail Blazers,46,19,65,700635600.0,1992
+Portland Trail Blazers,Portland Trail Blazers,Minnesota Timberwolves,47,19,66,700808400.0,1992
+Portland Trail Blazers,Los Angeles Lakers,Portland Trail Blazers,48,19,67,700894800.0,1992
+Portland Trail Blazers,Utah Jazz,Portland Trail Blazers,48,20,68,701154000.0,1992
+Portland Trail Blazers,Portland Trail Blazers,Dallas Mavericks,49,20,69,701413200.0,1992
+Portland Trail Blazers,Sacramento Kings,Portland Trail Blazers,50,20,70,701586000.0,1992
+Portland Trail Blazers,Portland Trail Blazers,Houston Rockets,51,20,71,701758800.0,1992
+Portland Trail Blazers,Portland Trail Blazers,New York Knicks,51,21,72,701845200.0,1992
+Portland Trail Blazers,Phoenix Suns,Portland Trail Blazers,51,22,73,702018000.0,1992
+Portland Trail Blazers,Portland Trail Blazers,Utah Jazz,52,22,74,702190800.0,1992
+Portland Trail Blazers,Golden State Warriors,Portland Trail Blazers,53,22,75,702450000.0,1992
+Portland Trail Blazers,Portland Trail Blazers,Golden State Warriors,54,22,76,702619200.0,1992
+Portland Trail Blazers,Los Angeles Clippers,Portland Trail Blazers,54,23,77,702792000.0,1992
+Portland Trail Blazers,Portland Trail Blazers,Seattle Supersonics,55,23,78,702878400.0,1992
+Portland Trail Blazers,Portland Trail Blazers,San Antonio Spurs,56,23,79,703051200.0,1992
+Portland Trail Blazers,Houston Rockets,Portland Trail Blazers,56,24,80,703224000.0,1992
+Portland Trail Blazers,Dallas Mavericks,Portland Trail Blazers,57,24,81,703310400.0,1992
+Portland Trail Blazers,Portland Trail Blazers,Los Angeles Lakers,57,25,82,703569600.0,1992
+Sacramento Kings,Sacramento Kings,Los Angeles Clippers,1,0,1,688971600.0,1992
+Sacramento Kings,Golden State Warriors,Sacramento Kings,1,1,2,689058000.0,1992
+Sacramento Kings,Seattle Supersonics,Sacramento Kings,1,2,3,689317200.0,1992
+Sacramento Kings,Sacramento Kings,Indiana Pacers,2,2,4,689403600.0,1992
+Sacramento Kings,Sacramento Kings,Minnesota Timberwolves,2,3,5,689662800.0,1992
+Sacramento Kings,Utah Jazz,Sacramento Kings,2,4,6,689835600.0,1992
+Sacramento Kings,Sacramento Kings,Boston Celtics,2,5,7,689922000.0,1992
+Sacramento Kings,Sacramento Kings,Atlanta Hawks,3,5,8,690094800.0,1992
+Sacramento Kings,Sacramento Kings,Houston Rockets,3,6,9,690267600.0,1992
+Sacramento Kings,New Jersey Nets,Sacramento Kings,3,7,10,690526800.0,1992
+Sacramento Kings,Atlanta Hawks,Sacramento Kings,3,8,11,690613200.0,1992
+Sacramento Kings,Miami Heat,Sacramento Kings,3,9,12,690786000.0,1992
+Sacramento Kings,Orlando Magic,Sacramento Kings,4,9,13,690872400.0,1992
+Sacramento Kings,Sacramento Kings,Phoenix Suns,5,9,14,691131600.0,1992
+Sacramento Kings,Phoenix Suns,Sacramento Kings,5,10,15,691218000.0,1992
+Sacramento Kings,Sacramento Kings,Chicago Bulls,5,11,16,691477200.0,1992
+Sacramento Kings,Sacramento Kings,San Antonio Spurs,6,11,17,691736400.0,1992
+Sacramento Kings,Golden State Warriors,Sacramento Kings,6,12,18,692082000.0,1992
+Sacramento Kings,Sacramento Kings,Los Angeles Lakers,6,13,19,692341200.0,1992
+Sacramento Kings,Sacramento Kings,Orlando Magic,7,13,20,692514000.0,1992
+Sacramento Kings,Portland Trail Blazers,Sacramento Kings,7,14,21,692686800.0,1992
+Sacramento Kings,Los Angeles Lakers,Sacramento Kings,7,15,22,692773200.0,1992
+Sacramento Kings,Houston Rockets,Sacramento Kings,7,16,23,693118800.0,1992
+Sacramento Kings,Dallas Mavericks,Sacramento Kings,7,17,24,693291600.0,1992
+Sacramento Kings,San Antonio Spurs,Sacramento Kings,7,18,25,693464400.0,1992
+Sacramento Kings,Sacramento Kings,Seattle Supersonics,7,19,26,693723600.0,1992
+Sacramento Kings,Chicago Bulls,Sacramento Kings,7,20,27,693896400.0,1992
+Sacramento Kings,Minnesota Timberwolves,Sacramento Kings,8,20,28,694069200.0,1992
+Sacramento Kings,Sacramento Kings,Philadelphia 76ers,9,20,29,694328400.0,1992
+Sacramento Kings,Sacramento Kings,Miami Heat,9,21,30,694501200.0,1992
+Sacramento Kings,Boston Celtics,Sacramento Kings,9,22,31,694674000.0,1992
+Sacramento Kings,Detroit Pistons,Sacramento Kings,9,23,32,694846800.0,1992
+Sacramento Kings,Charlotte Hornets (Original),Sacramento Kings,9,24,33,694933200.0,1992
+Sacramento Kings,Milwaukee Bucks,Sacramento Kings,10,24,34,695106000.0,1992
+Sacramento Kings,Denver Nuggets,Sacramento Kings,10,25,35,695278800.0,1992
+Sacramento Kings,Sacramento Kings,Phoenix Suns,10,26,36,695451600.0,1992
+Sacramento Kings,Phoenix Suns,Sacramento Kings,10,27,37,695624400.0,1992
+Sacramento Kings,Sacramento Kings,Charlotte Hornets (Original),11,27,38,695710800.0,1992
+Sacramento Kings,Sacramento Kings,Denver Nuggets,12,27,39,695970000.0,1992
+Sacramento Kings,Sacramento Kings,Los Angeles Lakers,12,28,40,696142800.0,1992
+Sacramento Kings,Los Angeles Lakers,Sacramento Kings,12,29,41,696229200.0,1992
+Sacramento Kings,Sacramento Kings,New Jersey Nets,13,29,42,696574800.0,1992
+Sacramento Kings,Utah Jazz,Sacramento Kings,13,30,43,696661200.0,1992
+Sacramento Kings,Sacramento Kings,Los Angeles Clippers,14,30,44,696834000.0,1992
+Sacramento Kings,Portland Trail Blazers,Sacramento Kings,14,31,45,697006800.0,1992
+Sacramento Kings,Sacramento Kings,Dallas Mavericks,15,31,46,697093200.0,1992
+Sacramento Kings,Sacramento Kings,Utah Jazz,16,31,47,697266000.0,1992
+Sacramento Kings,Sacramento Kings,Washington Bullets,17,31,48,697870800.0,1992
+Sacramento Kings,Sacramento Kings,Portland Trail Blazers,17,32,49,698043600.0,1992
+Sacramento Kings,Sacramento Kings,San Antonio Spurs,17,33,50,698216400.0,1992
+Sacramento Kings,New York Knicks,Sacramento Kings,17,34,51,698389200.0,1992
+Sacramento Kings,Indiana Pacers,Sacramento Kings,17,35,52,698475600.0,1992
+Sacramento Kings,Cleveland Cavaliers,Sacramento Kings,17,36,53,698648400.0,1992
+Sacramento Kings,Washington Bullets,Sacramento Kings,18,36,54,698821200.0,1992
+Sacramento Kings,Philadelphia 76ers,Sacramento Kings,18,37,55,698907600.0,1992
+Sacramento Kings,Sacramento Kings,New York Knicks,19,37,56,699166800.0,1992
+Sacramento Kings,Sacramento Kings,Seattle Supersonics,20,37,57,699339600.0,1992
+Sacramento Kings,Sacramento Kings,Golden State Warriors,20,38,58,699512400.0,1992
+Sacramento Kings,Sacramento Kings,Cleveland Cavaliers,20,39,59,699685200.0,1992
+Sacramento Kings,Portland Trail Blazers,Sacramento Kings,20,40,60,699858000.0,1992
+Sacramento Kings,Sacramento Kings,Houston Rockets,20,41,61,700030800.0,1992
+Sacramento Kings,Sacramento Kings,Los Angeles Clippers,20,42,62,700203600.0,1992
+Sacramento Kings,Sacramento Kings,Utah Jazz,20,43,63,700376400.0,1992
+Sacramento Kings,Sacramento Kings,Detroit Pistons,20,44,64,700549200.0,1992
+Sacramento Kings,Los Angeles Clippers,Sacramento Kings,20,45,65,700635600.0,1992
+Sacramento Kings,Denver Nuggets,Sacramento Kings,20,46,66,700808400.0,1992
+Sacramento Kings,San Antonio Spurs,Sacramento Kings,20,47,67,700894800.0,1992
+Sacramento Kings,Dallas Mavericks,Sacramento Kings,21,47,68,701067600.0,1992
+Sacramento Kings,Houston Rockets,Sacramento Kings,22,47,69,701154000.0,1992
+Sacramento Kings,Sacramento Kings,Milwaukee Bucks,23,47,70,701413200.0,1992
+Sacramento Kings,Sacramento Kings,Portland Trail Blazers,23,48,71,701586000.0,1992
+Sacramento Kings,Minnesota Timberwolves,Sacramento Kings,24,48,72,701845200.0,1992
+Sacramento Kings,Sacramento Kings,Golden State Warriors,24,49,73,702018000.0,1992
+Sacramento Kings,Sacramento Kings,Seattle Supersonics,24,50,74,702190800.0,1992
+Sacramento Kings,Golden State Warriors,Sacramento Kings,24,51,75,702277200.0,1992
+Sacramento Kings,Sacramento Kings,Dallas Mavericks,25,51,76,702450000.0,1992
+Sacramento Kings,Phoenix Suns,Sacramento Kings,25,52,77,702619200.0,1992
+Sacramento Kings,Sacramento Kings,Denver Nuggets,26,52,78,702792000.0,1992
+Sacramento Kings,Sacramento Kings,Minnesota Timberwolves,27,52,79,702964800.0,1992
+Sacramento Kings,Los Angeles Clippers,Sacramento Kings,28,52,80,703224000.0,1992
+Sacramento Kings,Sacramento Kings,Los Angeles Lakers,29,52,81,703396800.0,1992
+Sacramento Kings,Seattle Supersonics,Sacramento Kings,29,53,82,703483200.0,1992
+San Antonio Spurs,San Antonio Spurs,Dallas Mavericks,1,0,1,688971600.0,1992
+San Antonio Spurs,Seattle Supersonics,San Antonio Spurs,2,0,2,689144400.0,1992
+San Antonio Spurs,Denver Nuggets,San Antonio Spurs,2,1,3,689317200.0,1992
+San Antonio Spurs,San Antonio Spurs,Portland Trail Blazers,3,1,4,689403600.0,1992
+San Antonio Spurs,San Antonio Spurs,Cleveland Cavaliers,4,1,5,689576400.0,1992
+San Antonio Spurs,San Antonio Spurs,Los Angeles Clippers,5,1,6,690008400.0,1992
+San Antonio Spurs,San Antonio Spurs,New York Knicks,6,1,7,690267600.0,1992
+San Antonio Spurs,San Antonio Spurs,Minnesota Timberwolves,7,1,8,690613200.0,1992
+San Antonio Spurs,Los Angeles Lakers,San Antonio Spurs,7,2,9,690786000.0,1992
+San Antonio Spurs,Portland Trail Blazers,San Antonio Spurs,7,3,10,690958800.0,1992
+San Antonio Spurs,San Antonio Spurs,New Jersey Nets,8,3,11,691218000.0,1992
+San Antonio Spurs,Atlanta Hawks,San Antonio Spurs,9,3,12,691390800.0,1992
+San Antonio Spurs,San Antonio Spurs,Seattle Supersonics,10,3,13,691477200.0,1992
+San Antonio Spurs,Sacramento Kings,San Antonio Spurs,10,4,14,691736400.0,1992
+San Antonio Spurs,Los Angeles Clippers,San Antonio Spurs,10,5,15,691822800.0,1992
+San Antonio Spurs,San Antonio Spurs,Utah Jazz,10,6,16,691995600.0,1992
+San Antonio Spurs,Milwaukee Bucks,San Antonio Spurs,10,7,17,692168400.0,1992
+San Antonio Spurs,Indiana Pacers,San Antonio Spurs,10,8,18,692341200.0,1992
+San Antonio Spurs,Minnesota Timberwolves,San Antonio Spurs,11,8,19,692427600.0,1992
+San Antonio Spurs,San Antonio Spurs,Phoenix Suns,11,9,20,692600400.0,1992
+San Antonio Spurs,Houston Rockets,San Antonio Spurs,12,9,21,692686800.0,1992
+San Antonio Spurs,Dallas Mavericks,San Antonio Spurs,13,9,22,692946000.0,1992
+San Antonio Spurs,San Antonio Spurs,Washington Bullets,13,10,23,693032400.0,1992
+San Antonio Spurs,Phoenix Suns,San Antonio Spurs,13,11,24,693205200.0,1992
+San Antonio Spurs,San Antonio Spurs,Sacramento Kings,14,11,25,693464400.0,1992
+San Antonio Spurs,New York Knicks,San Antonio Spurs,15,11,26,693723600.0,1992
+San Antonio Spurs,Cleveland Cavaliers,San Antonio Spurs,15,12,27,693810000.0,1992
+San Antonio Spurs,Orlando Magic,San Antonio Spurs,16,12,28,693982800.0,1992
+San Antonio Spurs,Washington Bullets,San Antonio Spurs,16,13,29,694069200.0,1992
+San Antonio Spurs,San Antonio Spurs,Houston Rockets,16,14,30,694501200.0,1992
+San Antonio Spurs,San Antonio Spurs,Detroit Pistons,17,14,31,694674000.0,1992
+San Antonio Spurs,San Antonio Spurs,Los Angeles Lakers,18,14,32,694846800.0,1992
+San Antonio Spurs,Golden State Warriors,San Antonio Spurs,19,14,33,695019600.0,1992
+San Antonio Spurs,Denver Nuggets,San Antonio Spurs,20,14,34,695106000.0,1992
+San Antonio Spurs,San Antonio Spurs,Golden State Warriors,20,15,35,695365200.0,1992
+San Antonio Spurs,Minnesota Timberwolves,San Antonio Spurs,21,15,36,695538000.0,1992
+San Antonio Spurs,Chicago Bulls,San Antonio Spurs,21,16,37,695624400.0,1992
+San Antonio Spurs,Boston Celtics,San Antonio Spurs,21,17,38,695797200.0,1992
+San Antonio Spurs,San Antonio Spurs,Los Angeles Clippers,22,17,39,695970000.0,1992
+San Antonio Spurs,Utah Jazz,San Antonio Spurs,22,18,40,696056400.0,1992
+San Antonio Spurs,San Antonio Spurs,Milwaukee Bucks,23,18,41,696229200.0,1992
+San Antonio Spurs,San Antonio Spurs,Chicago Bulls,24,18,42,696574800.0,1992
+San Antonio Spurs,Dallas Mavericks,San Antonio Spurs,25,18,43,696661200.0,1992
+San Antonio Spurs,San Antonio Spurs,Minnesota Timberwolves,26,18,44,696834000.0,1992
+San Antonio Spurs,San Antonio Spurs,Portland Trail Blazers,27,18,45,697179600.0,1992
+San Antonio Spurs,San Antonio Spurs,Indiana Pacers,27,19,46,697352400.0,1992
+San Antonio Spurs,San Antonio Spurs,Boston Celtics,28,19,47,697784400.0,1992
+San Antonio Spurs,Golden State Warriors,San Antonio Spurs,28,20,48,697957200.0,1992
+San Antonio Spurs,Seattle Supersonics,San Antonio Spurs,28,21,49,698043600.0,1992
+San Antonio Spurs,Sacramento Kings,San Antonio Spurs,29,21,50,698216400.0,1992
+San Antonio Spurs,Los Angeles Clippers,San Antonio Spurs,29,22,51,698302800.0,1992
+San Antonio Spurs,San Antonio Spurs,Minnesota Timberwolves,30,22,52,698475600.0,1992
+San Antonio Spurs,San Antonio Spurs,Philadelphia 76ers,31,22,53,698648400.0,1992
+San Antonio Spurs,Houston Rockets,San Antonio Spurs,31,23,54,698821200.0,1992
+San Antonio Spurs,San Antonio Spurs,Miami Heat,32,23,55,698994000.0,1992
+San Antonio Spurs,San Antonio Spurs,Golden State Warriors,33,23,56,699166800.0,1992
+San Antonio Spurs,San Antonio Spurs,Denver Nuggets,34,23,57,699339600.0,1992
+San Antonio Spurs,Minnesota Timberwolves,San Antonio Spurs,35,23,58,699598800.0,1992
+San Antonio Spurs,Utah Jazz,San Antonio Spurs,35,24,59,699685200.0,1992
+San Antonio Spurs,San Antonio Spurs,Phoenix Suns,36,24,60,699944400.0,1992
+San Antonio Spurs,Dallas Mavericks,San Antonio Spurs,37,24,61,700030800.0,1992
+San Antonio Spurs,San Antonio Spurs,Atlanta Hawks,38,24,62,700203600.0,1992
+San Antonio Spurs,San Antonio Spurs,Houston Rockets,39,24,63,700376400.0,1992
+San Antonio Spurs,San Antonio Spurs,Utah Jazz,40,24,64,700549200.0,1992
+San Antonio Spurs,San Antonio Spurs,Charlotte Hornets (Original),40,25,65,700722000.0,1992
+San Antonio Spurs,San Antonio Spurs,Sacramento Kings,41,25,66,700894800.0,1992
+San Antonio Spurs,San Antonio Spurs,Seattle Supersonics,42,25,67,701154000.0,1992
+San Antonio Spurs,Philadelphia 76ers,San Antonio Spurs,42,26,68,701326800.0,1992
+San Antonio Spurs,Charlotte Hornets (Original),San Antonio Spurs,42,27,69,701499600.0,1992
+San Antonio Spurs,Miami Heat,San Antonio Spurs,42,28,70,701672400.0,1992
+San Antonio Spurs,Detroit Pistons,San Antonio Spurs,42,29,71,701845200.0,1992
+San Antonio Spurs,New Jersey Nets,San Antonio Spurs,42,30,72,701931600.0,1992
+San Antonio Spurs,San Antonio Spurs,Los Angeles Lakers,43,30,73,702104400.0,1992
+San Antonio Spurs,San Antonio Spurs,Orlando Magic,43,31,74,702277200.0,1992
+San Antonio Spurs,Denver Nuggets,San Antonio Spurs,44,31,75,702450000.0,1992
+San Antonio Spurs,San Antonio Spurs,Houston Rockets,44,32,76,702619200.0,1992
+San Antonio Spurs,Los Angeles Lakers,San Antonio Spurs,45,32,77,702792000.0,1992
+San Antonio Spurs,Portland Trail Blazers,San Antonio Spurs,45,33,78,703051200.0,1992
+San Antonio Spurs,San Antonio Spurs,Dallas Mavericks,46,33,79,703224000.0,1992
+San Antonio Spurs,Phoenix Suns,San Antonio Spurs,46,34,80,703396800.0,1992
+San Antonio Spurs,San Antonio Spurs,Denver Nuggets,47,34,81,703483200.0,1992
+San Antonio Spurs,San Antonio Spurs,Utah Jazz,47,35,82,703656000.0,1992
+Seattle Supersonics,Seattle Supersonics,Phoenix Suns,0,1,1,688971600.0,1992
+Seattle Supersonics,Seattle Supersonics,San Antonio Spurs,0,2,2,689144400.0,1992
+Seattle Supersonics,Seattle Supersonics,Sacramento Kings,1,2,3,689317200.0,1992
+Seattle Supersonics,Utah Jazz,Seattle Supersonics,2,2,4,689490000.0,1992
+Seattle Supersonics,Seattle Supersonics,Indiana Pacers,3,2,5,689662800.0,1992
+Seattle Supersonics,Cleveland Cavaliers,Seattle Supersonics,3,3,6,690094800.0,1992
+Seattle Supersonics,Indiana Pacers,Seattle Supersonics,4,3,7,690181200.0,1992
+Seattle Supersonics,Minnesota Timberwolves,Seattle Supersonics,5,3,8,690354000.0,1992
+Seattle Supersonics,Washington Bullets,Seattle Supersonics,6,3,9,690526800.0,1992
+Seattle Supersonics,Detroit Pistons,Seattle Supersonics,7,3,10,690613200.0,1992
+Seattle Supersonics,Seattle Supersonics,Chicago Bulls,7,4,11,690786000.0,1992
+Seattle Supersonics,Los Angeles Clippers,Seattle Supersonics,7,5,12,690958800.0,1992
+Seattle Supersonics,Seattle Supersonics,Golden State Warriors,8,5,13,691131600.0,1992
+Seattle Supersonics,Denver Nuggets,Seattle Supersonics,8,6,14,691390800.0,1992
+Seattle Supersonics,San Antonio Spurs,Seattle Supersonics,8,7,15,691477200.0,1992
+Seattle Supersonics,Seattle Supersonics,Washington Bullets,9,7,16,691736400.0,1992
+Seattle Supersonics,Seattle Supersonics,Minnesota Timberwolves,10,7,17,691995600.0,1992
+Seattle Supersonics,Seattle Supersonics,Dallas Mavericks,11,7,18,692082000.0,1992
+Seattle Supersonics,Chicago Bulls,Seattle Supersonics,11,8,19,692341200.0,1992
+Seattle Supersonics,New York Knicks,Seattle Supersonics,11,9,20,692427600.0,1992
+Seattle Supersonics,Boston Celtics,Seattle Supersonics,11,10,21,692600400.0,1992
+Seattle Supersonics,Philadelphia 76ers,Seattle Supersonics,11,11,22,692686800.0,1992
+Seattle Supersonics,Seattle Supersonics,Los Angeles Clippers,12,11,23,692946000.0,1992
+Seattle Supersonics,Seattle Supersonics,Denver Nuggets,13,11,24,693118800.0,1992
+Seattle Supersonics,Seattle Supersonics,Golden State Warriors,14,11,25,693291600.0,1992
+Seattle Supersonics,Portland Trail Blazers,Seattle Supersonics,14,12,26,693378000.0,1992
+Seattle Supersonics,Sacramento Kings,Seattle Supersonics,15,12,27,693723600.0,1992
+Seattle Supersonics,Seattle Supersonics,Boston Celtics,15,13,28,693810000.0,1992
+Seattle Supersonics,Seattle Supersonics,Miami Heat,16,13,29,694328400.0,1992
+Seattle Supersonics,Seattle Supersonics,Philadelphia 76ers,16,14,30,694501200.0,1992
+Seattle Supersonics,Denver Nuggets,Seattle Supersonics,17,14,31,694760400.0,1992
+Seattle Supersonics,Seattle Supersonics,Orlando Magic,17,15,32,694846800.0,1992
+Seattle Supersonics,Dallas Mavericks,Seattle Supersonics,18,15,33,695019600.0,1992
+Seattle Supersonics,Houston Rockets,Seattle Supersonics,18,16,34,695106000.0,1992
+Seattle Supersonics,Los Angeles Clippers,Seattle Supersonics,18,17,35,695278800.0,1992
+Seattle Supersonics,Seattle Supersonics,Charlotte Hornets (Original),18,18,36,695365200.0,1992
+Seattle Supersonics,Seattle Supersonics,Los Angeles Clippers,19,18,37,695538000.0,1992
+Seattle Supersonics,Seattle Supersonics,Los Angeles Lakers,20,18,38,695710800.0,1992
+Seattle Supersonics,Los Angeles Lakers,Seattle Supersonics,20,19,39,695883600.0,1992
+Seattle Supersonics,Seattle Supersonics,Atlanta Hawks,20,20,40,695970000.0,1992
+Seattle Supersonics,Seattle Supersonics,Portland Trail Blazers,20,21,41,696142800.0,1992
+Seattle Supersonics,Seattle Supersonics,Utah Jazz,20,22,42,696315600.0,1992
+Seattle Supersonics,Orlando Magic,Seattle Supersonics,21,22,43,696574800.0,1992
+Seattle Supersonics,Miami Heat,Seattle Supersonics,21,23,44,696661200.0,1992
+Seattle Supersonics,Charlotte Hornets (Original),Seattle Supersonics,22,23,45,696834000.0,1992
+Seattle Supersonics,Milwaukee Bucks,Seattle Supersonics,22,24,46,697006800.0,1992
+Seattle Supersonics,Atlanta Hawks,Seattle Supersonics,23,24,47,697093200.0,1992
+Seattle Supersonics,New Jersey Nets,Seattle Supersonics,24,24,48,697266000.0,1992
+Seattle Supersonics,Seattle Supersonics,Houston Rockets,25,24,49,697784400.0,1992
+Seattle Supersonics,Seattle Supersonics,San Antonio Spurs,26,24,50,698043600.0,1992
+Seattle Supersonics,Golden State Warriors,Seattle Supersonics,26,25,51,698130000.0,1992
+Seattle Supersonics,Seattle Supersonics,Phoenix Suns,27,25,52,698302800.0,1992
+Seattle Supersonics,Seattle Supersonics,Los Angeles Lakers,28,25,53,698562000.0,1992
+Seattle Supersonics,Seattle Supersonics,Portland Trail Blazers,29,25,54,698734800.0,1992
+Seattle Supersonics,Minnesota Timberwolves,Seattle Supersonics,30,25,55,698907600.0,1992
+Seattle Supersonics,Utah Jazz,Seattle Supersonics,31,25,56,699166800.0,1992
+Seattle Supersonics,Sacramento Kings,Seattle Supersonics,31,26,57,699339600.0,1992
+Seattle Supersonics,Seattle Supersonics,Cleveland Cavaliers,32,26,58,699426000.0,1992
+Seattle Supersonics,Seattle Supersonics,Denver Nuggets,33,26,59,699598800.0,1992
+Seattle Supersonics,Phoenix Suns,Seattle Supersonics,33,27,60,699771600.0,1992
+Seattle Supersonics,Seattle Supersonics,New Jersey Nets,34,27,61,699944400.0,1992
+Seattle Supersonics,Portland Trail Blazers,Seattle Supersonics,34,28,62,700030800.0,1992
+Seattle Supersonics,Seattle Supersonics,Detroit Pistons,34,29,63,700203600.0,1992
+Seattle Supersonics,Los Angeles Clippers,Seattle Supersonics,35,29,64,700290000.0,1992
+Seattle Supersonics,Seattle Supersonics,Dallas Mavericks,36,29,65,700635600.0,1992
+Seattle Supersonics,Seattle Supersonics,Golden State Warriors,36,30,66,700808400.0,1992
+Seattle Supersonics,Houston Rockets,Seattle Supersonics,37,30,67,700981200.0,1992
+Seattle Supersonics,San Antonio Spurs,Seattle Supersonics,37,31,68,701154000.0,1992
+Seattle Supersonics,Dallas Mavericks,Seattle Supersonics,38,31,69,701240400.0,1992
+Seattle Supersonics,Seattle Supersonics,Houston Rockets,39,31,70,701413200.0,1992
+Seattle Supersonics,Seattle Supersonics,Milwaukee Bucks,40,31,71,701672400.0,1992
+Seattle Supersonics,Seattle Supersonics,New York Knicks,40,32,72,701758800.0,1992
+Seattle Supersonics,Seattle Supersonics,Utah Jazz,41,32,73,702018000.0,1992
+Seattle Supersonics,Sacramento Kings,Seattle Supersonics,42,32,74,702190800.0,1992
+Seattle Supersonics,Los Angeles Lakers,Seattle Supersonics,43,32,75,702277200.0,1992
+Seattle Supersonics,Seattle Supersonics,Los Angeles Lakers,44,32,76,702619200.0,1992
+Seattle Supersonics,Seattle Supersonics,Phoenix Suns,45,32,77,702792000.0,1992
+Seattle Supersonics,Portland Trail Blazers,Seattle Supersonics,45,33,78,702878400.0,1992
+Seattle Supersonics,Seattle Supersonics,Minnesota Timberwolves,46,33,79,703051200.0,1992
+Seattle Supersonics,Phoenix Suns,Seattle Supersonics,46,34,80,703224000.0,1992
+Seattle Supersonics,Seattle Supersonics,Sacramento Kings,47,34,81,703483200.0,1992
+Seattle Supersonics,Golden State Warriors,Seattle Supersonics,47,35,82,703656000.0,1992
+Utah Jazz,Minnesota Timberwolves,Utah Jazz,1,0,1,688971600.0,1992
+Utah Jazz,Indiana Pacers,Utah Jazz,1,1,2,689058000.0,1992
+Utah Jazz,Atlanta Hawks,Utah Jazz,1,2,3,689317200.0,1992
+Utah Jazz,Utah Jazz,Seattle Supersonics,1,3,4,689490000.0,1992
+Utah Jazz,Utah Jazz,Los Angeles Clippers,2,3,5,689662800.0,1992
+Utah Jazz,Utah Jazz,Sacramento Kings,3,3,6,689835600.0,1992
+Utah Jazz,New Jersey Nets,Utah Jazz,4,3,7,690008400.0,1992
+Utah Jazz,Detroit Pistons,Utah Jazz,4,4,8,690181200.0,1992
+Utah Jazz,Washington Bullets,Utah Jazz,5,4,9,690267600.0,1992
+Utah Jazz,Miami Heat,Utah Jazz,5,5,10,690526800.0,1992
+Utah Jazz,Orlando Magic,Utah Jazz,6,5,11,690613200.0,1992
+Utah Jazz,Utah Jazz,Denver Nuggets,7,5,12,690786000.0,1992
+Utah Jazz,Dallas Mavericks,Utah Jazz,7,6,13,690872400.0,1992
+Utah Jazz,Utah Jazz,Charlotte Hornets (Original),8,6,14,691218000.0,1992
+Utah Jazz,Utah Jazz,Golden State Warriors,9,6,15,691390800.0,1992
+Utah Jazz,Phoenix Suns,Utah Jazz,9,7,16,691477200.0,1992
+Utah Jazz,Golden State Warriors,Utah Jazz,9,8,17,691736400.0,1992
+Utah Jazz,Utah Jazz,Washington Bullets,10,8,18,691822800.0,1992
+Utah Jazz,San Antonio Spurs,Utah Jazz,11,8,19,691995600.0,1992
+Utah Jazz,Houston Rockets,Utah Jazz,12,8,20,692082000.0,1992
+Utah Jazz,Utah Jazz,Orlando Magic,13,8,21,692341200.0,1992
+Utah Jazz,Los Angeles Lakers,Utah Jazz,14,8,22,692427600.0,1992
+Utah Jazz,Los Angeles Clippers,Utah Jazz,14,9,23,692600400.0,1992
+Utah Jazz,Utah Jazz,Detroit Pistons,15,9,24,692686800.0,1992
+Utah Jazz,Charlotte Hornets (Original),Utah Jazz,16,9,25,692946000.0,1992
+Utah Jazz,Philadelphia 76ers,Utah Jazz,17,9,26,693032400.0,1992
+Utah Jazz,Boston Celtics,Utah Jazz,17,10,27,693205200.0,1992
+Utah Jazz,New York Knicks,Utah Jazz,17,11,28,693291600.0,1992
+Utah Jazz,Cleveland Cavaliers,Utah Jazz,17,12,29,693464400.0,1992
+Utah Jazz,Utah Jazz,Los Angeles Clippers,18,12,30,693723600.0,1992
+Utah Jazz,Utah Jazz,Miami Heat,19,12,31,693896400.0,1992
+Utah Jazz,Utah Jazz,Portland Trail Blazers,20,12,32,694328400.0,1992
+Utah Jazz,Utah Jazz,Dallas Mavericks,21,12,33,694501200.0,1992
+Utah Jazz,Utah Jazz,Indiana Pacers,22,12,34,694674000.0,1992
+Utah Jazz,Milwaukee Bucks,Utah Jazz,22,13,35,694846800.0,1992
+Utah Jazz,Chicago Bulls,Utah Jazz,22,14,36,695019600.0,1992
+Utah Jazz,Minnesota Timberwolves,Utah Jazz,22,15,37,695106000.0,1992
+Utah Jazz,Utah Jazz,Minnesota Timberwolves,23,15,38,695365200.0,1992
+Utah Jazz,Utah Jazz,Atlanta Hawks,24,15,39,695538000.0,1992
+Utah Jazz,Utah Jazz,Houston Rockets,25,15,40,695710800.0,1992
+Utah Jazz,Utah Jazz,San Antonio Spurs,26,15,41,696056400.0,1992
+Utah Jazz,Denver Nuggets,Utah Jazz,26,16,42,696142800.0,1992
+Utah Jazz,Seattle Supersonics,Utah Jazz,27,16,43,696315600.0,1992
+Utah Jazz,Utah Jazz,New York Knicks,27,17,44,696488400.0,1992
+Utah Jazz,Utah Jazz,Sacramento Kings,28,17,45,696661200.0,1992
+Utah Jazz,Utah Jazz,Phoenix Suns,29,17,46,696834000.0,1992
+Utah Jazz,Dallas Mavericks,Utah Jazz,30,17,47,696920400.0,1992
+Utah Jazz,Utah Jazz,Chicago Bulls,31,17,48,697093200.0,1992
+Utah Jazz,Sacramento Kings,Utah Jazz,31,18,49,697266000.0,1992
+Utah Jazz,Utah Jazz,Cleveland Cavaliers,32,18,50,697784400.0,1992
+Utah Jazz,Utah Jazz,Los Angeles Lakers,33,18,51,697957200.0,1992
+Utah Jazz,Utah Jazz,Denver Nuggets,34,18,52,698130000.0,1992
+Utah Jazz,Utah Jazz,Boston Celtics,35,18,53,698302800.0,1992
+Utah Jazz,Utah Jazz,Dallas Mavericks,36,18,54,698475600.0,1992
+Utah Jazz,Utah Jazz,Houston Rockets,37,18,55,698648400.0,1992
+Utah Jazz,Portland Trail Blazers,Utah Jazz,37,19,56,698907600.0,1992
+Utah Jazz,Los Angeles Clippers,Utah Jazz,38,19,57,698994000.0,1992
+Utah Jazz,Utah Jazz,Seattle Supersonics,38,20,58,699166800.0,1992
+Utah Jazz,Phoenix Suns,Utah Jazz,38,21,59,699426000.0,1992
+Utah Jazz,Golden State Warriors,Utah Jazz,39,21,60,699598800.0,1992
+Utah Jazz,Utah Jazz,San Antonio Spurs,40,21,61,699685200.0,1992
+Utah Jazz,Utah Jazz,New Jersey Nets,41,21,62,699858000.0,1992
+Utah Jazz,Denver Nuggets,Utah Jazz,42,21,63,700030800.0,1992
+Utah Jazz,Sacramento Kings,Utah Jazz,43,21,64,700376400.0,1992
+Utah Jazz,San Antonio Spurs,Utah Jazz,43,22,65,700549200.0,1992
+Utah Jazz,Houston Rockets,Utah Jazz,43,23,66,700635600.0,1992
+Utah Jazz,Utah Jazz,Denver Nuggets,44,23,67,700981200.0,1992
+Utah Jazz,Utah Jazz,Portland Trail Blazers,45,23,68,701154000.0,1992
+Utah Jazz,Utah Jazz,Philadelphia 76ers,46,23,69,701499600.0,1992
+Utah Jazz,Utah Jazz,Los Angeles Lakers,46,24,70,701672400.0,1992
+Utah Jazz,Utah Jazz,Milwaukee Bucks,47,24,71,701931600.0,1992
+Utah Jazz,Seattle Supersonics,Utah Jazz,47,25,72,702018000.0,1992
+Utah Jazz,Portland Trail Blazers,Utah Jazz,47,26,73,702190800.0,1992
+Utah Jazz,Utah Jazz,Phoenix Suns,48,26,74,702277200.0,1992
+Utah Jazz,Minnesota Timberwolves,Utah Jazz,48,27,75,702450000.0,1992
+Utah Jazz,Denver Nuggets,Utah Jazz,49,27,76,702619200.0,1992
+Utah Jazz,Utah Jazz,Dallas Mavericks,50,27,77,702792000.0,1992
+Utah Jazz,Los Angeles Lakers,Utah Jazz,51,27,78,702964800.0,1992
+Utah Jazz,Utah Jazz,Golden State Warriors,52,27,79,703137600.0,1992
+Utah Jazz,Utah Jazz,Houston Rockets,53,27,80,703310400.0,1992
+Utah Jazz,Utah Jazz,Minnesota Timberwolves,54,27,81,703483200.0,1992
+Utah Jazz,San Antonio Spurs,Utah Jazz,55,27,82,703656000.0,1992
+Washington Bullets,Indiana Pacers,Washington Bullets,1,0,1,688971600.0,1992
+Washington Bullets,Washington Bullets,Boston Celtics,2,0,2,689058000.0,1992
+Washington Bullets,Washington Bullets,Philadelphia 76ers,2,1,3,689317200.0,1992
+Washington Bullets,Orlando Magic,Washington Bullets,2,2,4,689403600.0,1992
+Washington Bullets,Washington Bullets,Golden State Warriors,2,3,5,689662800.0,1992
+Washington Bullets,Detroit Pistons,Washington Bullets,2,4,6,689749200.0,1992
+Washington Bullets,Washington Bullets,Orlando Magic,2,5,7,689922000.0,1992
+Washington Bullets,Minnesota Timberwolves,Washington Bullets,3,5,8,690008400.0,1992
+Washington Bullets,New Jersey Nets,Washington Bullets,4,5,9,690181200.0,1992
+Washington Bullets,Washington Bullets,Utah Jazz,4,6,10,690267600.0,1992
+Washington Bullets,Washington Bullets,Seattle Supersonics,4,7,11,690526800.0,1992
+Washington Bullets,Milwaukee Bucks,Washington Bullets,4,8,12,690699600.0,1992
+Washington Bullets,Washington Bullets,Atlanta Hawks,5,8,13,690872400.0,1992
+Washington Bullets,Boston Celtics,Washington Bullets,5,9,14,691045200.0,1992
+Washington Bullets,Los Angeles Clippers,Washington Bullets,6,9,15,691390800.0,1992
+Washington Bullets,Portland Trail Blazers,Washington Bullets,6,10,16,691563600.0,1992
+Washington Bullets,Seattle Supersonics,Washington Bullets,6,11,17,691736400.0,1992
+Washington Bullets,Utah Jazz,Washington Bullets,6,12,18,691822800.0,1992
+Washington Bullets,Washington Bullets,Detroit Pistons,6,13,19,691995600.0,1992
+Washington Bullets,Cleveland Cavaliers,Washington Bullets,6,14,20,692082000.0,1992
+Washington Bullets,Washington Bullets,Milwaukee Bucks,6,15,21,692514000.0,1992
+Washington Bullets,Washington Bullets,Chicago Bulls,6,16,22,692686800.0,1992
+Washington Bullets,Houston Rockets,Washington Bullets,6,17,23,692946000.0,1992
+Washington Bullets,San Antonio Spurs,Washington Bullets,7,17,24,693032400.0,1992
+Washington Bullets,Dallas Mavericks,Washington Bullets,8,17,25,693205200.0,1992
+Washington Bullets,Denver Nuggets,Washington Bullets,9,17,26,693291600.0,1992
+Washington Bullets,Washington Bullets,Houston Rockets,9,18,27,693810000.0,1992
+Washington Bullets,Washington Bullets,Charlotte Hornets (Original),10,18,28,693896400.0,1992
+Washington Bullets,Washington Bullets,San Antonio Spurs,11,18,29,694069200.0,1992
+Washington Bullets,New Jersey Nets,Washington Bullets,12,18,30,694414800.0,1992
+Washington Bullets,Washington Bullets,New York Knicks,12,19,31,694501200.0,1992
+Washington Bullets,Chicago Bulls,Washington Bullets,12,20,32,694760400.0,1992
+Washington Bullets,Washington Bullets,Cleveland Cavaliers,12,21,33,694933200.0,1992
+Washington Bullets,Washington Bullets,Los Angeles Clippers,13,21,34,695106000.0,1992
+Washington Bullets,Washington Bullets,Indiana Pacers,14,21,35,695365200.0,1992
+Washington Bullets,Washington Bullets,Miami Heat,14,22,36,695538000.0,1992
+Washington Bullets,Washington Bullets,Philadelphia 76ers,14,23,37,695710800.0,1992
+Washington Bullets,Philadelphia 76ers,Washington Bullets,14,24,38,695883600.0,1992
+Washington Bullets,Miami Heat,Washington Bullets,14,25,39,696056400.0,1992
+Washington Bullets,Washington Bullets,Phoenix Suns,14,26,40,696315600.0,1992
+Washington Bullets,Washington Bullets,Boston Celtics,14,27,41,696574800.0,1992
+Washington Bullets,New York Knicks,Washington Bullets,14,28,42,696661200.0,1992
+Washington Bullets,Washington Bullets,New York Knicks,14,29,43,696834000.0,1992
+Washington Bullets,Washington Bullets,Orlando Magic,15,29,44,697006800.0,1992
+Washington Bullets,Charlotte Hornets (Original),Washington Bullets,15,30,45,697179600.0,1992
+Washington Bullets,Washington Bullets,New Jersey Nets,16,30,46,697352400.0,1992
+Washington Bullets,Golden State Warriors,Washington Bullets,16,31,47,697784400.0,1992
+Washington Bullets,Sacramento Kings,Washington Bullets,16,32,48,697870800.0,1992
+Washington Bullets,Los Angeles Lakers,Washington Bullets,17,32,49,698043600.0,1992
+Washington Bullets,Phoenix Suns,Washington Bullets,17,33,50,698130000.0,1992
+Washington Bullets,Washington Bullets,Atlanta Hawks,17,34,51,698302800.0,1992
+Washington Bullets,Atlanta Hawks,Washington Bullets,18,34,52,698475600.0,1992
+Washington Bullets,Washington Bullets,Denver Nuggets,18,35,53,698648400.0,1992
+Washington Bullets,Washington Bullets,Sacramento Kings,18,36,54,698821200.0,1992
+Washington Bullets,Chicago Bulls,Washington Bullets,18,37,55,699080400.0,1992
+Washington Bullets,Washington Bullets,Portland Trail Blazers,18,38,56,699253200.0,1992
+Washington Bullets,Washington Bullets,Philadelphia 76ers,18,39,57,699339600.0,1992
+Washington Bullets,Detroit Pistons,Washington Bullets,18,40,58,699512400.0,1992
+Washington Bullets,Orlando Magic,Washington Bullets,19,40,59,699598800.0,1992
+Washington Bullets,Washington Bullets,Dallas Mavericks,20,40,60,699771600.0,1992
+Washington Bullets,Washington Bullets,Milwaukee Bucks,21,40,61,699944400.0,1992
+Washington Bullets,Miami Heat,Washington Bullets,21,41,62,700030800.0,1992
+Washington Bullets,Indiana Pacers,Washington Bullets,21,42,63,700203600.0,1992
+Washington Bullets,Washington Bullets,Minnesota Timberwolves,22,42,64,700462800.0,1992
+Washington Bullets,Washington Bullets,Los Angeles Lakers,22,43,65,700549200.0,1992
+Washington Bullets,Washington Bullets,Cleveland Cavaliers,22,44,66,700722000.0,1992
+Washington Bullets,Washington Bullets,Chicago Bulls,22,45,67,700981200.0,1992
+Washington Bullets,New Jersey Nets,Washington Bullets,22,46,68,701067600.0,1992
+Washington Bullets,Milwaukee Bucks,Washington Bullets,22,47,69,701240400.0,1992
+Washington Bullets,Washington Bullets,Indiana Pacers,22,48,70,701499600.0,1992
+Washington Bullets,Atlanta Hawks,Washington Bullets,22,49,71,701586000.0,1992
+Washington Bullets,Washington Bullets,Charlotte Hornets (Original),23,49,72,701758800.0,1992
+Washington Bullets,Boston Celtics,Washington Bullets,23,50,73,702104400.0,1992
+Washington Bullets,Washington Bullets,Detroit Pistons,24,50,74,702277200.0,1992
+Washington Bullets,Charlotte Hornets (Original),Washington Bullets,24,51,75,702363600.0,1992
+Washington Bullets,Miami Heat,Washington Bullets,24,52,76,702619200.0,1992
+Washington Bullets,Washington Bullets,New Jersey Nets,24,53,77,702705600.0,1992
+Washington Bullets,Washington Bullets,Miami Heat,24,54,78,702878400.0,1992
+Washington Bullets,Cleveland Cavaliers,Washington Bullets,24,55,79,703051200.0,1992
+Washington Bullets,New York Knicks,Washington Bullets,24,56,80,703224000.0,1992
+Washington Bullets,Washington Bullets,Orlando Magic,25,56,81,703396800.0,1992
+Washington Bullets,Philadelphia 76ers,Washington Bullets,25,57,82,703569600.0,1992

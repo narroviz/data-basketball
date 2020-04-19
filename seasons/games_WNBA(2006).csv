@@ -1,0 +1,477 @@
+id,home_team,away_team,win,loss,game_number,date,year
+Charlotte Sting,Charlotte Sting,Chicago Sky,0,1,1,1148097600.0,2006
+Charlotte Sting,Charlotte Sting,Los Angeles Sparks,0,2,2,1148356800.0,2006
+Charlotte Sting,Charlotte Sting,Washington Mystics,1,2,3,1148529600.0,2006
+Charlotte Sting,Charlotte Sting,Connecticut Sun,1,3,4,1149134400.0,2006
+Charlotte Sting,Connecticut Sun,Charlotte Sting,1,4,5,1149307200.0,2006
+Charlotte Sting,Charlotte Sting,Indiana Fever,2,4,6,1149825600.0,2006
+Charlotte Sting,Washington Mystics,Charlotte Sting,2,5,7,1150171200.0,2006
+Charlotte Sting,Charlotte Sting,Washington Mystics,2,6,8,1150344000.0,2006
+Charlotte Sting,Indiana Fever,Charlotte Sting,2,7,9,1150603200.0,2006
+Charlotte Sting,Charlotte Sting,Connecticut Sun,2,8,10,1150776000.0,2006
+Charlotte Sting,Charlotte Sting,Detroit Shock,2,9,11,1150948800.0,2006
+Charlotte Sting,Houston Comets,Charlotte Sting,2,10,12,1151035200.0,2006
+Charlotte Sting,Detroit Shock,Charlotte Sting,2,11,13,1151208000.0,2006
+Charlotte Sting,New York Liberty,Charlotte Sting,3,11,14,1151380800.0,2006
+Charlotte Sting,Chicago Sky,Charlotte Sting,3,12,15,1151553600.0,2006
+Charlotte Sting,Charlotte Sting,Sacramento Monarchs,3,13,16,1151726400.0,2006
+Charlotte Sting,Connecticut Sun,Charlotte Sting,3,14,17,1152158400.0,2006
+Charlotte Sting,Los Angeles Sparks,Charlotte Sting,3,15,18,1152331200.0,2006
+Charlotte Sting,Sacramento Monarchs,Charlotte Sting,3,16,19,1152417600.0,2006
+Charlotte Sting,Charlotte Sting,San Antonio Silver Stars,4,16,20,1152849600.0,2006
+Charlotte Sting,Charlotte Sting,Indiana Fever,5,16,21,1152936000.0,2006
+Charlotte Sting,Detroit Shock,Charlotte Sting,6,16,22,1153281600.0,2006
+Charlotte Sting,Charlotte Sting,Seattle Storm,7,16,23,1153368000.0,2006
+Charlotte Sting,Charlotte Sting,Phoenix Mercury,7,17,24,1153540800.0,2006
+Charlotte Sting,Charlotte Sting,Minnesota Lynx,7,18,25,1153800000.0,2006
+Charlotte Sting,Minnesota Lynx,Charlotte Sting,8,18,26,1153972800.0,2006
+Charlotte Sting,Charlotte Sting,New York Liberty,8,19,27,1154145600.0,2006
+Charlotte Sting,Washington Mystics,Charlotte Sting,8,20,28,1154232000.0,2006
+Charlotte Sting,San Antonio Silver Stars,Charlotte Sting,9,20,29,1154404800.0,2006
+Charlotte Sting,Phoenix Mercury,Charlotte Sting,9,21,30,1154577600.0,2006
+Charlotte Sting,Seattle Storm,Charlotte Sting,9,22,31,1154750400.0,2006
+Charlotte Sting,Charlotte Sting,Houston Comets,10,22,32,1155009600.0,2006
+Charlotte Sting,New York Liberty,Charlotte Sting,10,23,33,1155268800.0,2006
+Charlotte Sting,Charlotte Sting,Chicago Sky,11,23,34,1155355200.0,2006
+Chicago Sky,Charlotte Sting,Chicago Sky,1,0,1,1148097600.0,2006
+Chicago Sky,Chicago Sky,Sacramento Monarchs,1,1,2,1148356800.0,2006
+Chicago Sky,Chicago Sky,Indiana Fever,1,2,3,1148616000.0,2006
+Chicago Sky,Chicago Sky,Los Angeles Sparks,1,3,4,1148961600.0,2006
+Chicago Sky,Houston Comets,Chicago Sky,1,4,5,1149220800.0,2006
+Chicago Sky,Chicago Sky,Detroit Shock,1,5,6,1149393600.0,2006
+Chicago Sky,Seattle Storm,Chicago Sky,1,6,7,1149652800.0,2006
+Chicago Sky,Los Angeles Sparks,Chicago Sky,1,7,8,1149825600.0,2006
+Chicago Sky,Sacramento Monarchs,Chicago Sky,1,8,9,1149912000.0,2006
+Chicago Sky,Chicago Sky,Seattle Storm,1,9,10,1150344000.0,2006
+Chicago Sky,Chicago Sky,San Antonio Silver Stars,1,10,11,1150516800.0,2006
+Chicago Sky,Indiana Fever,Chicago Sky,1,11,12,1150862400.0,2006
+Chicago Sky,Chicago Sky,Connecticut Sun,1,12,13,1151035200.0,2006
+Chicago Sky,Phoenix Mercury,Chicago Sky,1,13,14,1151208000.0,2006
+Chicago Sky,Chicago Sky,Charlotte Sting,2,13,15,1151553600.0,2006
+Chicago Sky,San Antonio Silver Stars,Chicago Sky,2,14,16,1151726400.0,2006
+Chicago Sky,Chicago Sky,New York Liberty,3,14,17,1152244800.0,2006
+Chicago Sky,Washington Mystics,Chicago Sky,3,15,18,1152417600.0,2006
+Chicago Sky,Chicago Sky,Houston Comets,3,16,19,1152849600.0,2006
+Chicago Sky,Chicago Sky,Washington Mystics,3,17,20,1153022400.0,2006
+Chicago Sky,Minnesota Lynx,Chicago Sky,3,18,21,1153281600.0,2006
+Chicago Sky,Connecticut Sun,Chicago Sky,3,19,22,1153368000.0,2006
+Chicago Sky,Detroit Shock,Chicago Sky,3,20,23,1153540800.0,2006
+Chicago Sky,Chicago Sky,New York Liberty,3,21,24,1153800000.0,2006
+Chicago Sky,Washington Mystics,Chicago Sky,3,22,25,1153972800.0,2006
+Chicago Sky,Chicago Sky,Minnesota Lynx,4,22,26,1154059200.0,2006
+Chicago Sky,Chicago Sky,Indiana Fever,4,23,27,1154232000.0,2006
+Chicago Sky,Chicago Sky,Phoenix Mercury,4,24,28,1154404800.0,2006
+Chicago Sky,Chicago Sky,Detroit Shock,4,25,29,1154664000.0,2006
+Chicago Sky,New York Liberty,Chicago Sky,4,26,30,1154750400.0,2006
+Chicago Sky,Chicago Sky,Connecticut Sun,4,27,31,1155009600.0,2006
+Chicago Sky,Detroit Shock,Chicago Sky,4,28,32,1155182400.0,2006
+Chicago Sky,Charlotte Sting,Chicago Sky,4,29,33,1155355200.0,2006
+Chicago Sky,Indiana Fever,Chicago Sky,5,29,34,1155441600.0,2006
+Connecticut Sun,Connecticut Sun,New York Liberty,1,0,1,1148097600.0,2006
+Connecticut Sun,Minnesota Lynx,Connecticut Sun,2,0,2,1148356800.0,2006
+Connecticut Sun,Connecticut Sun,Detroit Shock,2,1,3,1148702400.0,2006
+Connecticut Sun,Charlotte Sting,Connecticut Sun,3,1,4,1149134400.0,2006
+Connecticut Sun,Connecticut Sun,Charlotte Sting,4,1,5,1149307200.0,2006
+Connecticut Sun,New York Liberty,Connecticut Sun,5,1,6,1149652800.0,2006
+Connecticut Sun,Connecticut Sun,Seattle Storm,6,1,7,1149825600.0,2006
+Connecticut Sun,Connecticut Sun,Washington Mystics,7,1,8,1149998400.0,2006
+Connecticut Sun,Phoenix Mercury,Connecticut Sun,7,2,9,1150430400.0,2006
+Connecticut Sun,Los Angeles Sparks,Connecticut Sun,7,3,10,1150516800.0,2006
+Connecticut Sun,Charlotte Sting,Connecticut Sun,8,3,11,1150776000.0,2006
+Connecticut Sun,Connecticut Sun,Minnesota Lynx,9,3,12,1150948800.0,2006
+Connecticut Sun,Chicago Sky,Connecticut Sun,10,3,13,1151035200.0,2006
+Connecticut Sun,Washington Mystics,Connecticut Sun,10,4,14,1151208000.0,2006
+Connecticut Sun,Connecticut Sun,Houston Comets,11,4,15,1151380800.0,2006
+Connecticut Sun,Connecticut Sun,Detroit Shock,11,5,16,1151640000.0,2006
+Connecticut Sun,Indiana Fever,Connecticut Sun,12,5,17,1151726400.0,2006
+Connecticut Sun,Connecticut Sun,Charlotte Sting,13,5,18,1152158400.0,2006
+Connecticut Sun,Connecticut Sun,Phoenix Mercury,14,5,19,1152331200.0,2006
+Connecticut Sun,Sacramento Monarchs,Connecticut Sun,14,6,20,1152936000.0,2006
+Connecticut Sun,Seattle Storm,Connecticut Sun,15,6,21,1153022400.0,2006
+Connecticut Sun,Connecticut Sun,Chicago Sky,16,6,22,1153368000.0,2006
+Connecticut Sun,San Antonio Silver Stars,Connecticut Sun,17,6,23,1153540800.0,2006
+Connecticut Sun,New York Liberty,Connecticut Sun,18,6,24,1153713600.0,2006
+Connecticut Sun,Connecticut Sun,Washington Mystics,19,6,25,1153800000.0,2006
+Connecticut Sun,Connecticut Sun,Sacramento Monarchs,20,6,26,1154059200.0,2006
+Connecticut Sun,Connecticut Sun,San Antonio Silver Stars,21,6,27,1154232000.0,2006
+Connecticut Sun,Connecticut Sun,New York Liberty,22,6,28,1154404800.0,2006
+Connecticut Sun,Connecticut Sun,Los Angeles Sparks,23,6,29,1154577600.0,2006
+Connecticut Sun,Houston Comets,Connecticut Sun,24,6,30,1154836800.0,2006
+Connecticut Sun,Chicago Sky,Connecticut Sun,25,6,31,1155009600.0,2006
+Connecticut Sun,Indiana Fever,Connecticut Sun,26,6,32,1155096000.0,2006
+Connecticut Sun,Connecticut Sun,Indiana Fever,26,7,33,1155268800.0,2006
+Connecticut Sun,Detroit Shock,Connecticut Sun,26,8,34,1155441600.0,2006
+Detroit Shock,Indiana Fever,Detroit Shock,0,1,1,1148097600.0,2006
+Detroit Shock,Detroit Shock,Minnesota Lynx,1,1,2,1148443200.0,2006
+Detroit Shock,Connecticut Sun,Detroit Shock,2,1,3,1148702400.0,2006
+Detroit Shock,Detroit Shock,New York Liberty,3,1,4,1149134400.0,2006
+Detroit Shock,Washington Mystics,Detroit Shock,3,2,5,1149307200.0,2006
+Detroit Shock,Chicago Sky,Detroit Shock,4,2,6,1149393600.0,2006
+Detroit Shock,Los Angeles Sparks,Detroit Shock,4,3,7,1149652800.0,2006
+Detroit Shock,Phoenix Mercury,Detroit Shock,4,4,8,1149825600.0,2006
+Detroit Shock,Detroit Shock,Indiana Fever,5,4,9,1150430400.0,2006
+Detroit Shock,Detroit Shock,Houston Comets,6,4,10,1150516800.0,2006
+Detroit Shock,Charlotte Sting,Detroit Shock,7,4,11,1150948800.0,2006
+Detroit Shock,Detroit Shock,Washington Mystics,8,4,12,1151121600.0,2006
+Detroit Shock,Detroit Shock,Charlotte Sting,9,4,13,1151208000.0,2006
+Detroit Shock,San Antonio Silver Stars,Detroit Shock,10,4,14,1151380800.0,2006
+Detroit Shock,Indiana Fever,Detroit Shock,10,5,15,1151553600.0,2006
+Detroit Shock,Connecticut Sun,Detroit Shock,11,5,16,1151640000.0,2006
+Detroit Shock,Detroit Shock,Phoenix Mercury,11,6,17,1152158400.0,2006
+Detroit Shock,Minnesota Lynx,Detroit Shock,12,6,18,1152244800.0,2006
+Detroit Shock,Houston Comets,Detroit Shock,13,6,19,1152417600.0,2006
+Detroit Shock,Detroit Shock,San Antonio Silver Stars,14,6,20,1153022400.0,2006
+Detroit Shock,Detroit Shock,Charlotte Sting,14,7,21,1153281600.0,2006
+Detroit Shock,Detroit Shock,Los Angeles Sparks,15,7,22,1153454400.0,2006
+Detroit Shock,Detroit Shock,Chicago Sky,16,7,23,1153540800.0,2006
+Detroit Shock,Detroit Shock,Sacramento Monarchs,17,7,24,1153886400.0,2006
+Detroit Shock,Seattle Storm,Detroit Shock,18,7,25,1154059200.0,2006
+Detroit Shock,Sacramento Monarchs,Detroit Shock,18,8,26,1154232000.0,2006
+Detroit Shock,Detroit Shock,Indiana Fever,19,8,27,1154404800.0,2006
+Detroit Shock,New York Liberty,Detroit Shock,19,9,28,1154577600.0,2006
+Detroit Shock,Chicago Sky,Detroit Shock,20,9,29,1154664000.0,2006
+Detroit Shock,Detroit Shock,New York Liberty,21,9,30,1154836800.0,2006
+Detroit Shock,Detroit Shock,Seattle Storm,21,10,31,1155009600.0,2006
+Detroit Shock,Detroit Shock,Chicago Sky,22,10,32,1155182400.0,2006
+Detroit Shock,Washington Mystics,Detroit Shock,22,11,33,1155268800.0,2006
+Detroit Shock,Detroit Shock,Connecticut Sun,23,11,34,1155441600.0,2006
+Houston Comets,Houston Comets,San Antonio Silver Stars,0,1,1,1148184000.0,2006
+Houston Comets,Seattle Storm,Houston Comets,1,1,2,1148356800.0,2006
+Houston Comets,Sacramento Monarchs,Houston Comets,2,1,3,1148529600.0,2006
+Houston Comets,Houston Comets,Indiana Fever,3,1,4,1149048000.0,2006
+Houston Comets,Houston Comets,Chicago Sky,4,1,5,1149220800.0,2006
+Houston Comets,Houston Comets,Minnesota Lynx,5,1,6,1149393600.0,2006
+Houston Comets,Washington Mystics,Houston Comets,5,2,7,1149566400.0,2006
+Houston Comets,Houston Comets,New York Liberty,6,2,8,1149825600.0,2006
+Houston Comets,Minnesota Lynx,Houston Comets,6,3,9,1149998400.0,2006
+Houston Comets,Houston Comets,Sacramento Monarchs,7,3,10,1150257600.0,2006
+Houston Comets,New York Liberty,Houston Comets,8,3,11,1150430400.0,2006
+Houston Comets,Detroit Shock,Houston Comets,8,4,12,1150516800.0,2006
+Houston Comets,Los Angeles Sparks,Houston Comets,8,5,13,1150862400.0,2006
+Houston Comets,Houston Comets,Charlotte Sting,9,5,14,1151035200.0,2006
+Houston Comets,Houston Comets,Seattle Storm,10,5,15,1151208000.0,2006
+Houston Comets,Connecticut Sun,Houston Comets,10,6,16,1151380800.0,2006
+Houston Comets,Houston Comets,Washington Mystics,11,6,17,1151553600.0,2006
+Houston Comets,Houston Comets,Sacramento Monarchs,12,6,18,1151812800.0,2006
+Houston Comets,Los Angeles Sparks,Houston Comets,12,7,19,1152072000.0,2006
+Houston Comets,San Antonio Silver Stars,Houston Comets,12,8,20,1152244800.0,2006
+Houston Comets,Houston Comets,Detroit Shock,12,9,21,1152417600.0,2006
+Houston Comets,Chicago Sky,Houston Comets,13,9,22,1152849600.0,2006
+Houston Comets,Indiana Fever,Houston Comets,13,10,23,1153022400.0,2006
+Houston Comets,San Antonio Silver Stars,Houston Comets,13,11,24,1153195200.0,2006
+Houston Comets,Houston Comets,Minnesota Lynx,14,11,25,1153368000.0,2006
+Houston Comets,Houston Comets,Los Angeles Sparks,14,12,26,1153800000.0,2006
+Houston Comets,Houston Comets,Phoenix Mercury,15,12,27,1153972800.0,2006
+Houston Comets,Phoenix Mercury,Houston Comets,16,12,28,1154232000.0,2006
+Houston Comets,Sacramento Monarchs,Houston Comets,16,13,29,1154404800.0,2006
+Houston Comets,Minnesota Lynx,Houston Comets,17,13,30,1154664000.0,2006
+Houston Comets,Houston Comets,Connecticut Sun,17,14,31,1154836800.0,2006
+Houston Comets,Charlotte Sting,Houston Comets,17,15,32,1155009600.0,2006
+Houston Comets,Houston Comets,Phoenix Mercury,17,16,33,1155182400.0,2006
+Houston Comets,Houston Comets,Seattle Storm,18,16,34,1155355200.0,2006
+Indiana Fever,Indiana Fever,Detroit Shock,1,0,1,1148097600.0,2006
+Indiana Fever,San Antonio Silver Stars,Indiana Fever,2,0,2,1148356800.0,2006
+Indiana Fever,Chicago Sky,Indiana Fever,3,0,3,1148616000.0,2006
+Indiana Fever,Indiana Fever,New York Liberty,4,0,4,1148961600.0,2006
+Indiana Fever,Houston Comets,Indiana Fever,4,1,5,1149048000.0,2006
+Indiana Fever,Minnesota Lynx,Indiana Fever,4,2,6,1149220800.0,2006
+Indiana Fever,Indiana Fever,Washington Mystics,5,2,7,1149652800.0,2006
+Indiana Fever,Charlotte Sting,Indiana Fever,5,3,8,1149825600.0,2006
+Indiana Fever,Indiana Fever,Seattle Storm,6,3,9,1149998400.0,2006
+Indiana Fever,New York Liberty,Indiana Fever,7,3,10,1150171200.0,2006
+Indiana Fever,Detroit Shock,Indiana Fever,7,4,11,1150430400.0,2006
+Indiana Fever,Indiana Fever,Charlotte Sting,8,4,12,1150603200.0,2006
+Indiana Fever,Indiana Fever,Chicago Sky,9,4,13,1150862400.0,2006
+Indiana Fever,Phoenix Mercury,Indiana Fever,10,4,14,1151035200.0,2006
+Indiana Fever,Sacramento Monarchs,Indiana Fever,10,5,15,1151208000.0,2006
+Indiana Fever,Washington Mystics,Indiana Fever,11,5,16,1151380800.0,2006
+Indiana Fever,Indiana Fever,Detroit Shock,12,5,17,1151553600.0,2006
+Indiana Fever,Indiana Fever,Connecticut Sun,12,6,18,1151726400.0,2006
+Indiana Fever,Los Angeles Sparks,Indiana Fever,12,7,19,1152244800.0,2006
+Indiana Fever,Seattle Storm,Indiana Fever,13,7,20,1152417600.0,2006
+Indiana Fever,Charlotte Sting,Indiana Fever,13,8,21,1152936000.0,2006
+Indiana Fever,Indiana Fever,Houston Comets,14,8,22,1153022400.0,2006
+Indiana Fever,Indiana Fever,Phoenix Mercury,15,8,23,1153195200.0,2006
+Indiana Fever,Indiana Fever,Los Angeles Sparks,15,9,24,1153540800.0,2006
+Indiana Fever,Indiana Fever,Sacramento Monarchs,16,9,25,1153800000.0,2006
+Indiana Fever,Indiana Fever,Washington Mystics,16,10,26,1154145600.0,2006
+Indiana Fever,Chicago Sky,Indiana Fever,17,10,27,1154232000.0,2006
+Indiana Fever,Detroit Shock,Indiana Fever,17,11,28,1154404800.0,2006
+Indiana Fever,Indiana Fever,Minnesota Lynx,18,11,29,1154577600.0,2006
+Indiana Fever,Indiana Fever,San Antonio Silver Stars,19,11,30,1154750400.0,2006
+Indiana Fever,New York Liberty,Indiana Fever,20,11,31,1155009600.0,2006
+Indiana Fever,Indiana Fever,Connecticut Sun,20,12,32,1155096000.0,2006
+Indiana Fever,Connecticut Sun,Indiana Fever,21,12,33,1155268800.0,2006
+Indiana Fever,Indiana Fever,Chicago Sky,21,13,34,1155441600.0,2006
+Los Angeles Sparks,Seattle Storm,Los Angeles Sparks,0,1,1,1148184000.0,2006
+Los Angeles Sparks,Charlotte Sting,Los Angeles Sparks,1,1,2,1148356800.0,2006
+Los Angeles Sparks,San Antonio Silver Stars,Los Angeles Sparks,2,1,3,1148529600.0,2006
+Los Angeles Sparks,Chicago Sky,Los Angeles Sparks,3,1,4,1148961600.0,2006
+Los Angeles Sparks,Minnesota Lynx,Los Angeles Sparks,3,2,5,1149048000.0,2006
+Los Angeles Sparks,New York Liberty,Los Angeles Sparks,3,3,6,1149307200.0,2006
+Los Angeles Sparks,Los Angeles Sparks,Detroit Shock,4,3,7,1149652800.0,2006
+Los Angeles Sparks,Los Angeles Sparks,Chicago Sky,5,3,8,1149825600.0,2006
+Los Angeles Sparks,Los Angeles Sparks,Phoenix Mercury,6,3,9,1150171200.0,2006
+Los Angeles Sparks,Los Angeles Sparks,Connecticut Sun,7,3,10,1150516800.0,2006
+Los Angeles Sparks,Los Angeles Sparks,Sacramento Monarchs,8,3,11,1150603200.0,2006
+Los Angeles Sparks,Los Angeles Sparks,Houston Comets,9,3,12,1150862400.0,2006
+Los Angeles Sparks,Sacramento Monarchs,Los Angeles Sparks,10,3,13,1151035200.0,2006
+Los Angeles Sparks,Los Angeles Sparks,San Antonio Silver Stars,11,3,14,1151208000.0,2006
+Los Angeles Sparks,Los Angeles Sparks,Seattle Storm,11,4,15,1151467200.0,2006
+Los Angeles Sparks,Los Angeles Sparks,Phoenix Mercury,12,4,16,1151640000.0,2006
+Los Angeles Sparks,Los Angeles Sparks,Washington Mystics,13,4,17,1151726400.0,2006
+Los Angeles Sparks,Los Angeles Sparks,San Antonio Silver Stars,13,5,18,1151899200.0,2006
+Los Angeles Sparks,Los Angeles Sparks,Houston Comets,14,5,19,1152072000.0,2006
+Los Angeles Sparks,Los Angeles Sparks,Indiana Fever,15,5,20,1152244800.0,2006
+Los Angeles Sparks,Los Angeles Sparks,Charlotte Sting,16,5,21,1152331200.0,2006
+Los Angeles Sparks,Phoenix Mercury,Los Angeles Sparks,17,5,22,1152849600.0,2006
+Los Angeles Sparks,Minnesota Lynx,Los Angeles Sparks,18,5,23,1153022400.0,2006
+Los Angeles Sparks,Los Angeles Sparks,New York Liberty,19,5,24,1153195200.0,2006
+Los Angeles Sparks,Detroit Shock,Los Angeles Sparks,19,6,25,1153454400.0,2006
+Los Angeles Sparks,Indiana Fever,Los Angeles Sparks,20,6,26,1153540800.0,2006
+Los Angeles Sparks,Houston Comets,Los Angeles Sparks,21,6,27,1153800000.0,2006
+Los Angeles Sparks,San Antonio Silver Stars,Los Angeles Sparks,22,6,28,1153886400.0,2006
+Los Angeles Sparks,Seattle Storm,Los Angeles Sparks,23,6,29,1154232000.0,2006
+Los Angeles Sparks,Washington Mystics,Los Angeles Sparks,23,7,30,1154404800.0,2006
+Los Angeles Sparks,Connecticut Sun,Los Angeles Sparks,23,8,31,1154577600.0,2006
+Los Angeles Sparks,Phoenix Mercury,Los Angeles Sparks,23,9,32,1154750400.0,2006
+Los Angeles Sparks,Los Angeles Sparks,Sacramento Monarchs,24,9,33,1155096000.0,2006
+Los Angeles Sparks,Los Angeles Sparks,Minnesota Lynx,25,9,34,1155441600.0,2006
+Minnesota Lynx,Minnesota Lynx,Connecticut Sun,0,1,1,1148356800.0,2006
+Minnesota Lynx,Detroit Shock,Minnesota Lynx,0,2,2,1148443200.0,2006
+Minnesota Lynx,Washington Mystics,Minnesota Lynx,0,3,3,1148702400.0,2006
+Minnesota Lynx,Minnesota Lynx,Los Angeles Sparks,1,3,4,1149048000.0,2006
+Minnesota Lynx,Minnesota Lynx,Indiana Fever,2,3,5,1149220800.0,2006
+Minnesota Lynx,Houston Comets,Minnesota Lynx,2,4,6,1149393600.0,2006
+Minnesota Lynx,San Antonio Silver Stars,Minnesota Lynx,3,4,7,1149825600.0,2006
+Minnesota Lynx,Minnesota Lynx,Houston Comets,4,4,8,1149998400.0,2006
+Minnesota Lynx,Minnesota Lynx,Seattle Storm,4,5,9,1150257600.0,2006
+Minnesota Lynx,San Antonio Silver Stars,Minnesota Lynx,4,6,10,1150430400.0,2006
+Minnesota Lynx,Minnesota Lynx,Phoenix Mercury,5,6,11,1150603200.0,2006
+Minnesota Lynx,Connecticut Sun,Minnesota Lynx,5,7,12,1150948800.0,2006
+Minnesota Lynx,Minnesota Lynx,New York Liberty,5,8,13,1151121600.0,2006
+Minnesota Lynx,Phoenix Mercury,Minnesota Lynx,5,9,14,1151467200.0,2006
+Minnesota Lynx,Sacramento Monarchs,Minnesota Lynx,5,10,15,1151553600.0,2006
+Minnesota Lynx,Seattle Storm,Minnesota Lynx,5,11,16,1151726400.0,2006
+Minnesota Lynx,Minnesota Lynx,Washington Mystics,6,11,17,1152072000.0,2006
+Minnesota Lynx,Minnesota Lynx,Detroit Shock,6,12,18,1152244800.0,2006
+Minnesota Lynx,Minnesota Lynx,San Antonio Silver Stars,7,12,19,1152417600.0,2006
+Minnesota Lynx,Minnesota Lynx,Los Angeles Sparks,7,13,20,1153022400.0,2006
+Minnesota Lynx,Minnesota Lynx,Chicago Sky,8,13,21,1153281600.0,2006
+Minnesota Lynx,Houston Comets,Minnesota Lynx,8,14,22,1153368000.0,2006
+Minnesota Lynx,Minnesota Lynx,Sacramento Monarchs,8,15,23,1153540800.0,2006
+Minnesota Lynx,Charlotte Sting,Minnesota Lynx,9,15,24,1153800000.0,2006
+Minnesota Lynx,Minnesota Lynx,Charlotte Sting,9,16,25,1153972800.0,2006
+Minnesota Lynx,Chicago Sky,Minnesota Lynx,9,17,26,1154059200.0,2006
+Minnesota Lynx,New York Liberty,Minnesota Lynx,9,18,27,1154232000.0,2006
+Minnesota Lynx,Minnesota Lynx,Seattle Storm,9,19,28,1154404800.0,2006
+Minnesota Lynx,Indiana Fever,Minnesota Lynx,9,20,29,1154577600.0,2006
+Minnesota Lynx,Minnesota Lynx,Houston Comets,9,21,30,1154664000.0,2006
+Minnesota Lynx,Minnesota Lynx,San Antonio Silver Stars,10,21,31,1154836800.0,2006
+Minnesota Lynx,Phoenix Mercury,Minnesota Lynx,10,22,32,1155009600.0,2006
+Minnesota Lynx,Sacramento Monarchs,Minnesota Lynx,10,23,33,1155182400.0,2006
+Minnesota Lynx,Los Angeles Sparks,Minnesota Lynx,10,24,34,1155441600.0,2006
+New York Liberty,Connecticut Sun,New York Liberty,0,1,1,1148097600.0,2006
+New York Liberty,Washington Mystics,New York Liberty,0,2,2,1148356800.0,2006
+New York Liberty,Indiana Fever,New York Liberty,0,3,3,1148961600.0,2006
+New York Liberty,Detroit Shock,New York Liberty,0,4,4,1149134400.0,2006
+New York Liberty,New York Liberty,Los Angeles Sparks,1,4,5,1149307200.0,2006
+New York Liberty,New York Liberty,Connecticut Sun,1,5,6,1149652800.0,2006
+New York Liberty,Houston Comets,New York Liberty,1,6,7,1149825600.0,2006
+New York Liberty,San Antonio Silver Stars,New York Liberty,2,6,8,1149912000.0,2006
+New York Liberty,New York Liberty,Indiana Fever,2,7,9,1150171200.0,2006
+New York Liberty,New York Liberty,Houston Comets,2,8,10,1150430400.0,2006
+New York Liberty,Washington Mystics,New York Liberty,2,9,11,1150516800.0,2006
+New York Liberty,New York Liberty,Washington Mystics,3,9,12,1150862400.0,2006
+New York Liberty,Minnesota Lynx,New York Liberty,4,9,13,1151121600.0,2006
+New York Liberty,New York Liberty,Charlotte Sting,4,10,14,1151380800.0,2006
+New York Liberty,New York Liberty,San Antonio Silver Stars,4,11,15,1151640000.0,2006
+New York Liberty,New York Liberty,Sacramento Monarchs,4,12,16,1152158400.0,2006
+New York Liberty,Chicago Sky,New York Liberty,4,13,17,1152244800.0,2006
+New York Liberty,New York Liberty,Phoenix Mercury,4,14,18,1152417600.0,2006
+New York Liberty,Seattle Storm,New York Liberty,4,15,19,1152849600.0,2006
+New York Liberty,Phoenix Mercury,New York Liberty,4,16,20,1153022400.0,2006
+New York Liberty,Los Angeles Sparks,New York Liberty,4,17,21,1153195200.0,2006
+New York Liberty,Sacramento Monarchs,New York Liberty,4,18,22,1153368000.0,2006
+New York Liberty,New York Liberty,Seattle Storm,4,19,23,1153540800.0,2006
+New York Liberty,New York Liberty,Connecticut Sun,4,20,24,1153713600.0,2006
+New York Liberty,Chicago Sky,New York Liberty,5,20,25,1153800000.0,2006
+New York Liberty,Charlotte Sting,New York Liberty,6,20,26,1154145600.0,2006
+New York Liberty,New York Liberty,Minnesota Lynx,7,20,27,1154232000.0,2006
+New York Liberty,Connecticut Sun,New York Liberty,7,21,28,1154404800.0,2006
+New York Liberty,New York Liberty,Detroit Shock,8,21,29,1154577600.0,2006
+New York Liberty,New York Liberty,Chicago Sky,9,21,30,1154750400.0,2006
+New York Liberty,Detroit Shock,New York Liberty,9,22,31,1154836800.0,2006
+New York Liberty,New York Liberty,Indiana Fever,9,23,32,1155009600.0,2006
+New York Liberty,New York Liberty,Charlotte Sting,10,23,33,1155268800.0,2006
+New York Liberty,New York Liberty,Washington Mystics,11,23,34,1155441600.0,2006
+Phoenix Mercury,Sacramento Monarchs,Phoenix Mercury,0,1,1,1148097600.0,2006
+Phoenix Mercury,Phoenix Mercury,Seattle Storm,0,2,2,1148529600.0,2006
+Phoenix Mercury,Phoenix Mercury,San Antonio Silver Stars,0,3,3,1149048000.0,2006
+Phoenix Mercury,Seattle Storm,Phoenix Mercury,0,4,4,1149220800.0,2006
+Phoenix Mercury,Phoenix Mercury,Sacramento Monarchs,1,4,5,1149566400.0,2006
+Phoenix Mercury,Phoenix Mercury,Detroit Shock,2,4,6,1149825600.0,2006
+Phoenix Mercury,Los Angeles Sparks,Phoenix Mercury,2,5,7,1150171200.0,2006
+Phoenix Mercury,Phoenix Mercury,Connecticut Sun,3,5,8,1150430400.0,2006
+Phoenix Mercury,Minnesota Lynx,Phoenix Mercury,3,6,9,1150603200.0,2006
+Phoenix Mercury,Seattle Storm,Phoenix Mercury,4,6,10,1150862400.0,2006
+Phoenix Mercury,Phoenix Mercury,Indiana Fever,4,7,11,1151035200.0,2006
+Phoenix Mercury,Phoenix Mercury,Chicago Sky,5,7,12,1151208000.0,2006
+Phoenix Mercury,Phoenix Mercury,Minnesota Lynx,6,7,13,1151467200.0,2006
+Phoenix Mercury,Los Angeles Sparks,Phoenix Mercury,6,8,14,1151640000.0,2006
+Phoenix Mercury,Phoenix Mercury,Washington Mystics,6,9,15,1151812800.0,2006
+Phoenix Mercury,Detroit Shock,Phoenix Mercury,7,9,16,1152158400.0,2006
+Phoenix Mercury,Connecticut Sun,Phoenix Mercury,7,10,17,1152331200.0,2006
+Phoenix Mercury,New York Liberty,Phoenix Mercury,8,10,18,1152417600.0,2006
+Phoenix Mercury,Phoenix Mercury,Los Angeles Sparks,8,11,19,1152849600.0,2006
+Phoenix Mercury,Phoenix Mercury,New York Liberty,9,11,20,1153022400.0,2006
+Phoenix Mercury,Indiana Fever,Phoenix Mercury,9,12,21,1153195200.0,2006
+Phoenix Mercury,Washington Mystics,Phoenix Mercury,10,12,22,1153281600.0,2006
+Phoenix Mercury,Charlotte Sting,Phoenix Mercury,11,12,23,1153540800.0,2006
+Phoenix Mercury,Phoenix Mercury,Seattle Storm,11,13,24,1153800000.0,2006
+Phoenix Mercury,Houston Comets,Phoenix Mercury,11,14,25,1153972800.0,2006
+Phoenix Mercury,San Antonio Silver Stars,Phoenix Mercury,11,15,26,1154059200.0,2006
+Phoenix Mercury,Phoenix Mercury,Houston Comets,11,16,27,1154232000.0,2006
+Phoenix Mercury,Chicago Sky,Phoenix Mercury,12,16,28,1154404800.0,2006
+Phoenix Mercury,Phoenix Mercury,Charlotte Sting,13,16,29,1154577600.0,2006
+Phoenix Mercury,Phoenix Mercury,Los Angeles Sparks,14,16,30,1154750400.0,2006
+Phoenix Mercury,Phoenix Mercury,Minnesota Lynx,15,16,31,1155009600.0,2006
+Phoenix Mercury,Houston Comets,Phoenix Mercury,16,16,32,1155182400.0,2006
+Phoenix Mercury,San Antonio Silver Stars,Phoenix Mercury,17,16,33,1155355200.0,2006
+Phoenix Mercury,Phoenix Mercury,Sacramento Monarchs,18,16,34,1155441600.0,2006
+Sacramento Monarchs,Sacramento Monarchs,Phoenix Mercury,1,0,1,1148097600.0,2006
+Sacramento Monarchs,Chicago Sky,Sacramento Monarchs,2,0,2,1148356800.0,2006
+Sacramento Monarchs,Sacramento Monarchs,Houston Comets,2,1,3,1148529600.0,2006
+Sacramento Monarchs,Sacramento Monarchs,Seattle Storm,3,1,4,1149048000.0,2006
+Sacramento Monarchs,Sacramento Monarchs,San Antonio Silver Stars,3,2,5,1149220800.0,2006
+Sacramento Monarchs,Phoenix Mercury,Sacramento Monarchs,3,3,6,1149566400.0,2006
+Sacramento Monarchs,Sacramento Monarchs,Chicago Sky,4,3,7,1149912000.0,2006
+Sacramento Monarchs,Houston Comets,Sacramento Monarchs,4,4,8,1150257600.0,2006
+Sacramento Monarchs,Sacramento Monarchs,Seattle Storm,5,4,9,1150516800.0,2006
+Sacramento Monarchs,Los Angeles Sparks,Sacramento Monarchs,5,5,10,1150603200.0,2006
+Sacramento Monarchs,Sacramento Monarchs,San Antonio Silver Stars,6,5,11,1150862400.0,2006
+Sacramento Monarchs,Sacramento Monarchs,Los Angeles Sparks,6,6,12,1151035200.0,2006
+Sacramento Monarchs,Sacramento Monarchs,Indiana Fever,7,6,13,1151208000.0,2006
+Sacramento Monarchs,Seattle Storm,Sacramento Monarchs,7,7,14,1151380800.0,2006
+Sacramento Monarchs,Sacramento Monarchs,Minnesota Lynx,8,7,15,1151553600.0,2006
+Sacramento Monarchs,Charlotte Sting,Sacramento Monarchs,9,7,16,1151726400.0,2006
+Sacramento Monarchs,Houston Comets,Sacramento Monarchs,9,8,17,1151812800.0,2006
+Sacramento Monarchs,New York Liberty,Sacramento Monarchs,10,8,18,1152158400.0,2006
+Sacramento Monarchs,Washington Mystics,Sacramento Monarchs,11,8,19,1152244800.0,2006
+Sacramento Monarchs,Sacramento Monarchs,Charlotte Sting,12,8,20,1152417600.0,2006
+Sacramento Monarchs,Sacramento Monarchs,Connecticut Sun,13,8,21,1152936000.0,2006
+Sacramento Monarchs,Seattle Storm,Sacramento Monarchs,14,8,22,1153195200.0,2006
+Sacramento Monarchs,Sacramento Monarchs,New York Liberty,15,8,23,1153368000.0,2006
+Sacramento Monarchs,Minnesota Lynx,Sacramento Monarchs,16,8,24,1153540800.0,2006
+Sacramento Monarchs,Indiana Fever,Sacramento Monarchs,16,9,25,1153800000.0,2006
+Sacramento Monarchs,Detroit Shock,Sacramento Monarchs,16,10,26,1153886400.0,2006
+Sacramento Monarchs,Connecticut Sun,Sacramento Monarchs,16,11,27,1154059200.0,2006
+Sacramento Monarchs,Sacramento Monarchs,Detroit Shock,17,11,28,1154232000.0,2006
+Sacramento Monarchs,Sacramento Monarchs,Houston Comets,18,11,29,1154404800.0,2006
+Sacramento Monarchs,San Antonio Silver Stars,Sacramento Monarchs,19,11,30,1154577600.0,2006
+Sacramento Monarchs,Sacramento Monarchs,Washington Mystics,20,11,31,1154750400.0,2006
+Sacramento Monarchs,Los Angeles Sparks,Sacramento Monarchs,20,12,32,1155096000.0,2006
+Sacramento Monarchs,Sacramento Monarchs,Minnesota Lynx,21,12,33,1155182400.0,2006
+Sacramento Monarchs,Phoenix Mercury,Sacramento Monarchs,21,13,34,1155441600.0,2006
+San Antonio Silver Stars,Houston Comets,San Antonio Silver Stars,1,0,1,1148184000.0,2006
+San Antonio Silver Stars,San Antonio Silver Stars,Indiana Fever,1,1,2,1148356800.0,2006
+San Antonio Silver Stars,San Antonio Silver Stars,Los Angeles Sparks,1,2,3,1148529600.0,2006
+San Antonio Silver Stars,Phoenix Mercury,San Antonio Silver Stars,2,2,4,1149048000.0,2006
+San Antonio Silver Stars,Sacramento Monarchs,San Antonio Silver Stars,3,2,5,1149220800.0,2006
+San Antonio Silver Stars,Seattle Storm,San Antonio Silver Stars,4,2,6,1149393600.0,2006
+San Antonio Silver Stars,San Antonio Silver Stars,Minnesota Lynx,4,3,7,1149825600.0,2006
+San Antonio Silver Stars,San Antonio Silver Stars,New York Liberty,4,4,8,1149912000.0,2006
+San Antonio Silver Stars,San Antonio Silver Stars,Minnesota Lynx,5,4,9,1150430400.0,2006
+San Antonio Silver Stars,Chicago Sky,San Antonio Silver Stars,6,4,10,1150516800.0,2006
+San Antonio Silver Stars,Sacramento Monarchs,San Antonio Silver Stars,6,5,11,1150862400.0,2006
+San Antonio Silver Stars,Seattle Storm,San Antonio Silver Stars,6,6,12,1151035200.0,2006
+San Antonio Silver Stars,Los Angeles Sparks,San Antonio Silver Stars,6,7,13,1151208000.0,2006
+San Antonio Silver Stars,San Antonio Silver Stars,Detroit Shock,6,8,14,1151380800.0,2006
+San Antonio Silver Stars,New York Liberty,San Antonio Silver Stars,7,8,15,1151640000.0,2006
+San Antonio Silver Stars,San Antonio Silver Stars,Chicago Sky,8,8,16,1151726400.0,2006
+San Antonio Silver Stars,Los Angeles Sparks,San Antonio Silver Stars,9,8,17,1151899200.0,2006
+San Antonio Silver Stars,San Antonio Silver Stars,Houston Comets,10,8,18,1152244800.0,2006
+San Antonio Silver Stars,Minnesota Lynx,San Antonio Silver Stars,10,9,19,1152417600.0,2006
+San Antonio Silver Stars,Charlotte Sting,San Antonio Silver Stars,10,10,20,1152849600.0,2006
+San Antonio Silver Stars,Detroit Shock,San Antonio Silver Stars,10,11,21,1153022400.0,2006
+San Antonio Silver Stars,San Antonio Silver Stars,Houston Comets,11,11,22,1153195200.0,2006
+San Antonio Silver Stars,San Antonio Silver Stars,Washington Mystics,11,12,23,1153454400.0,2006
+San Antonio Silver Stars,San Antonio Silver Stars,Connecticut Sun,11,13,24,1153540800.0,2006
+San Antonio Silver Stars,San Antonio Silver Stars,Los Angeles Sparks,11,14,25,1153886400.0,2006
+San Antonio Silver Stars,San Antonio Silver Stars,Phoenix Mercury,12,14,26,1154059200.0,2006
+San Antonio Silver Stars,Connecticut Sun,San Antonio Silver Stars,12,15,27,1154232000.0,2006
+San Antonio Silver Stars,San Antonio Silver Stars,Charlotte Sting,12,16,28,1154404800.0,2006
+San Antonio Silver Stars,San Antonio Silver Stars,Sacramento Monarchs,12,17,29,1154577600.0,2006
+San Antonio Silver Stars,Indiana Fever,San Antonio Silver Stars,12,18,30,1154750400.0,2006
+San Antonio Silver Stars,Minnesota Lynx,San Antonio Silver Stars,12,19,31,1154836800.0,2006
+San Antonio Silver Stars,Washington Mystics,San Antonio Silver Stars,12,20,32,1155009600.0,2006
+San Antonio Silver Stars,San Antonio Silver Stars,Seattle Storm,13,20,33,1155182400.0,2006
+San Antonio Silver Stars,San Antonio Silver Stars,Phoenix Mercury,13,21,34,1155355200.0,2006
+Seattle Storm,Seattle Storm,Los Angeles Sparks,1,0,1,1148184000.0,2006
+Seattle Storm,Seattle Storm,Houston Comets,1,1,2,1148356800.0,2006
+Seattle Storm,Phoenix Mercury,Seattle Storm,2,1,3,1148529600.0,2006
+Seattle Storm,Sacramento Monarchs,Seattle Storm,2,2,4,1149048000.0,2006
+Seattle Storm,Seattle Storm,Phoenix Mercury,3,2,5,1149220800.0,2006
+Seattle Storm,Seattle Storm,San Antonio Silver Stars,3,3,6,1149393600.0,2006
+Seattle Storm,Seattle Storm,Chicago Sky,4,3,7,1149652800.0,2006
+Seattle Storm,Connecticut Sun,Seattle Storm,4,4,8,1149825600.0,2006
+Seattle Storm,Indiana Fever,Seattle Storm,4,5,9,1149998400.0,2006
+Seattle Storm,Minnesota Lynx,Seattle Storm,5,5,10,1150257600.0,2006
+Seattle Storm,Chicago Sky,Seattle Storm,6,5,11,1150344000.0,2006
+Seattle Storm,Sacramento Monarchs,Seattle Storm,6,6,12,1150516800.0,2006
+Seattle Storm,Seattle Storm,Phoenix Mercury,6,7,13,1150862400.0,2006
+Seattle Storm,Seattle Storm,San Antonio Silver Stars,7,7,14,1151035200.0,2006
+Seattle Storm,Houston Comets,Seattle Storm,7,8,15,1151208000.0,2006
+Seattle Storm,Seattle Storm,Sacramento Monarchs,8,8,16,1151380800.0,2006
+Seattle Storm,Los Angeles Sparks,Seattle Storm,9,8,17,1151467200.0,2006
+Seattle Storm,Seattle Storm,Minnesota Lynx,10,8,18,1151726400.0,2006
+Seattle Storm,Seattle Storm,Indiana Fever,10,9,19,1152417600.0,2006
+Seattle Storm,Seattle Storm,New York Liberty,11,9,20,1152849600.0,2006
+Seattle Storm,Seattle Storm,Connecticut Sun,11,10,21,1153022400.0,2006
+Seattle Storm,Seattle Storm,Sacramento Monarchs,11,11,22,1153195200.0,2006
+Seattle Storm,Charlotte Sting,Seattle Storm,11,12,23,1153368000.0,2006
+Seattle Storm,New York Liberty,Seattle Storm,12,12,24,1153540800.0,2006
+Seattle Storm,Washington Mystics,Seattle Storm,13,12,25,1153627200.0,2006
+Seattle Storm,Phoenix Mercury,Seattle Storm,14,12,26,1153800000.0,2006
+Seattle Storm,Seattle Storm,Detroit Shock,14,13,27,1154059200.0,2006
+Seattle Storm,Seattle Storm,Los Angeles Sparks,14,14,28,1154232000.0,2006
+Seattle Storm,Minnesota Lynx,Seattle Storm,15,14,29,1154404800.0,2006
+Seattle Storm,Seattle Storm,Washington Mystics,16,14,30,1154577600.0,2006
+Seattle Storm,Seattle Storm,Charlotte Sting,17,14,31,1154750400.0,2006
+Seattle Storm,Detroit Shock,Seattle Storm,18,14,32,1155009600.0,2006
+Seattle Storm,San Antonio Silver Stars,Seattle Storm,18,15,33,1155182400.0,2006
+Seattle Storm,Houston Comets,Seattle Storm,18,16,34,1155355200.0,2006
+Washington Mystics,Washington Mystics,New York Liberty,1,0,1,1148356800.0,2006
+Washington Mystics,Charlotte Sting,Washington Mystics,1,1,2,1148529600.0,2006
+Washington Mystics,Washington Mystics,Minnesota Lynx,2,1,3,1148702400.0,2006
+Washington Mystics,Washington Mystics,Detroit Shock,3,1,4,1149307200.0,2006
+Washington Mystics,Washington Mystics,Houston Comets,4,1,5,1149566400.0,2006
+Washington Mystics,Indiana Fever,Washington Mystics,4,2,6,1149652800.0,2006
+Washington Mystics,Connecticut Sun,Washington Mystics,4,3,7,1149998400.0,2006
+Washington Mystics,Washington Mystics,Charlotte Sting,5,3,8,1150171200.0,2006
+Washington Mystics,Charlotte Sting,Washington Mystics,6,3,9,1150344000.0,2006
+Washington Mystics,Washington Mystics,New York Liberty,7,3,10,1150516800.0,2006
+Washington Mystics,New York Liberty,Washington Mystics,7,4,11,1150862400.0,2006
+Washington Mystics,Detroit Shock,Washington Mystics,7,5,12,1151121600.0,2006
+Washington Mystics,Washington Mystics,Connecticut Sun,8,5,13,1151208000.0,2006
+Washington Mystics,Washington Mystics,Indiana Fever,8,6,14,1151380800.0,2006
+Washington Mystics,Houston Comets,Washington Mystics,8,7,15,1151553600.0,2006
+Washington Mystics,Los Angeles Sparks,Washington Mystics,8,8,16,1151726400.0,2006
+Washington Mystics,Phoenix Mercury,Washington Mystics,9,8,17,1151812800.0,2006
+Washington Mystics,Minnesota Lynx,Washington Mystics,9,9,18,1152072000.0,2006
+Washington Mystics,Washington Mystics,Sacramento Monarchs,9,10,19,1152244800.0,2006
+Washington Mystics,Washington Mystics,Chicago Sky,10,10,20,1152417600.0,2006
+Washington Mystics,Chicago Sky,Washington Mystics,11,10,21,1153022400.0,2006
+Washington Mystics,Washington Mystics,Phoenix Mercury,11,11,22,1153281600.0,2006
+Washington Mystics,San Antonio Silver Stars,Washington Mystics,12,11,23,1153454400.0,2006
+Washington Mystics,Washington Mystics,Seattle Storm,12,12,24,1153627200.0,2006
+Washington Mystics,Connecticut Sun,Washington Mystics,12,13,25,1153800000.0,2006
+Washington Mystics,Washington Mystics,Chicago Sky,13,13,26,1153972800.0,2006
+Washington Mystics,Indiana Fever,Washington Mystics,14,13,27,1154145600.0,2006
+Washington Mystics,Washington Mystics,Charlotte Sting,15,13,28,1154232000.0,2006
+Washington Mystics,Washington Mystics,Los Angeles Sparks,16,13,29,1154404800.0,2006
+Washington Mystics,Seattle Storm,Washington Mystics,16,14,30,1154577600.0,2006
+Washington Mystics,Sacramento Monarchs,Washington Mystics,16,15,31,1154750400.0,2006
+Washington Mystics,Washington Mystics,San Antonio Silver Stars,17,15,32,1155009600.0,2006
+Washington Mystics,Washington Mystics,Detroit Shock,18,15,33,1155268800.0,2006
+Washington Mystics,New York Liberty,Washington Mystics,18,16,34,1155441600.0,2006

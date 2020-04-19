@@ -1,0 +1,24 @@
+team,parent,history,prefix_1,prefix_2,url,secondary_color,tertiary_color,primary_color
+Atlanta Dream,,,atl,,https://www.basketball-reference.com/wnba/teams/ATL/,#418FDE,#CED9E5,#C8102E
+Chicago Sky,,,chi,,https://www.basketball-reference.com/wnba/teams/CHI/,#FFCD00,#e6e6e6,#418FDE
+Connecticut Sun,,"[""Connecticut Sun"", ""Orlando Miracle""]",con,,https://www.basketball-reference.com/wnba/teams/CON/,#041E42,#DC4405,#A6192E
+Dallas Wings,,"[""Dallas Wings"", ""Tulsa Shock"", ""Detroit Shock""]",dal,,https://www.basketball-reference.com/wnba/teams/DAL/2016.html,#00A9E0,#C4D600,#0C2340
+Indiana Fever,,,ind,,https://www.basketball-reference.com/wnba/teams/IND/,#041E42,#FFCD00,#C8102E
+Las Vegas Aces,,"[""Las Vegas Aces"", ""San Antonio Silver Stars"", ""Utah Starzz""]",lva,,https://www.basketball-reference.com/wnba/teams/LVA/2018.html,#BA0C2F,#85714D,#000000
+Los Angeles Sparks,,,las,,https://www.basketball-reference.com/wnba/teams/LAS/,#FFC72C,#00B398,#702F8A
+Minnesota Lynx,,,min,,https://www.basketball-reference.com/wnba/teams/MIN/,#236192,#78BE20,#0C2340
+New York Liberty,,,nyl,,https://www.basketball-reference.com/wnba/teams/NYL/,#FF671F,#003DA5,#6ECEB2
+Phoenix Mercury,,,pho,,https://www.basketball-reference.com/wnba/teams/PHO/,#CB6015,#B1B3B3,#201747
+Seattle Storm,,,sea,,https://www.basketball-reference.com/wnba/teams/SEA/,#FBE122,#A2AAAD,#2C5234
+Washington Mystics,,,was,,https://www.basketball-reference.com/wnba/teams/WAS/,#C8102E,#8A8D8F,#0C2340
+Charlotte Sting,deprecated,,cha,,https://www.basketball-reference.com/wnba/teams/CHA/,#f15830,#d8d8d8,#035a89
+Cleveland Rockers,deprecated,,cle,,https://www.basketball-reference.com/wnba/teams/CLE/,#f06f3a,#d8d8d8,#076d94
+Detroit Shock,Dallas Wings,,det,,https://www.basketball-reference.com/wnba/teams/DET/2009.html,#ed164c,#d8d8d8,#00255d
+Houston Comets,deprecated,,hou,,https://www.basketball-reference.com/wnba/teams/HOU/,#ce0c40,#d8d8d8,#00255d
+Miami Sol,deprecated,,mia,,https://www.basketball-reference.com/wnba/teams/MIA/,#bd303b,#d8d8d8,#f49d36
+Orlando Miracle,Connecticut Sun,,orl,,https://www.basketball-reference.com/wnba/teams/ORL/1999.html,#e55301,#c4c9cb,#066ca9
+Portland Fire,deprecated,,por,,https://www.basketball-reference.com/wnba/teams/POR/,#ca2d33,#d8d8d8,#e5a716
+Sacramento Monarchs,deprecated,,sac,,https://www.basketball-reference.com/wnba/teams/SAC/,#9a0e37,#d8d8d8,#363996
+San Antonio Silver Stars,Las Vegas Aces,,sas,,https://www.basketball-reference.com/wnba/teams/SAS/2003.html,#a8aaa8,#e6e6e6,#2e2a25
+Tulsa Shock,Dallas Wings,,tul,,https://www.basketball-reference.com/wnba/teams/TUL/2010.html,#c41230,#d8d8d8,#febd30
+Utah Starzz,Las Vegas Aces,,uta,,https://www.basketball-reference.com/wnba/teams/UTA/1997.html,#bf4a3a,#d8d8d8,#016b6d

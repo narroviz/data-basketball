@@ -1,0 +1,1477 @@
+id,home_team,away_team,win,loss,game_number,date,year
+Atlanta Hawks,Buffalo Braves,Atlanta Hawks,1,0,1,87537600.0,1973
+Atlanta Hawks,Baltimore Bullets,Atlanta Hawks,1,1,2,87796800.0,1973
+Atlanta Hawks,Atlanta Hawks,New York Knicks,2,1,3,87969600.0,1973
+Atlanta Hawks,Atlanta Hawks,Boston Celtics,2,2,4,88142400.0,1973
+Atlanta Hawks,Houston Rockets,Atlanta Hawks,2,3,5,88401600.0,1973
+Atlanta Hawks,Kansas City-Omaha Kings,Atlanta Hawks,2,4,6,88488000.0,1973
+Atlanta Hawks,Portland Trail Blazers,Atlanta Hawks,3,4,7,88747200.0,1973
+Atlanta Hawks,Seattle Supersonics,Atlanta Hawks,4,4,8,88833600.0,1973
+Atlanta Hawks,Golden State Warriors,Atlanta Hawks,4,5,9,89092800.0,1973
+Atlanta Hawks,Atlanta Hawks,Houston Rockets,4,6,10,89355600.0,1973
+Atlanta Hawks,Houston Rockets,Atlanta Hawks,5,6,11,89614800.0,1973
+Atlanta Hawks,Atlanta Hawks,Philadelphia 76ers,6,6,12,89701200.0,1973
+Atlanta Hawks,Atlanta Hawks,Baltimore Bullets,7,6,13,89960400.0,1973
+Atlanta Hawks,New York Knicks,Atlanta Hawks,7,7,14,90133200.0,1973
+Atlanta Hawks,Atlanta Hawks,Milwaukee Bucks,8,7,15,90306000.0,1973
+Atlanta Hawks,Atlanta Hawks,Golden State Warriors,8,8,16,90565200.0,1973
+Atlanta Hawks,Atlanta Hawks,Phoenix Suns,9,8,17,90910800.0,1973
+Atlanta Hawks,Cleveland Cavaliers,Atlanta Hawks,9,9,18,90997200.0,1973
+Atlanta Hawks,Detroit Pistons,Atlanta Hawks,9,10,19,91170000.0,1973
+Atlanta Hawks,Atlanta Hawks,Seattle Supersonics,10,10,20,91342800.0,1973
+Atlanta Hawks,Atlanta Hawks,Chicago Bulls,10,11,21,91515600.0,1973
+Atlanta Hawks,Milwaukee Bucks,Atlanta Hawks,10,12,22,91602000.0,1973
+Atlanta Hawks,Phoenix Suns,Atlanta Hawks,10,13,23,91861200.0,1973
+Atlanta Hawks,Los Angeles Lakers,Atlanta Hawks,11,13,24,92034000.0,1973
+Atlanta Hawks,Portland Trail Blazers,Atlanta Hawks,12,13,25,92120400.0,1973
+Atlanta Hawks,Atlanta Hawks,Portland Trail Blazers,13,13,26,92379600.0,1973
+Atlanta Hawks,Chicago Bulls,Atlanta Hawks,14,13,27,92552400.0,1973
+Atlanta Hawks,Atlanta Hawks,Baltimore Bullets,15,13,28,92638800.0,1973
+Atlanta Hawks,Kansas City-Omaha Kings,Atlanta Hawks,15,14,29,92811600.0,1973
+Atlanta Hawks,New York Knicks,Atlanta Hawks,15,15,30,92984400.0,1973
+Atlanta Hawks,Atlanta Hawks,New York Knicks,16,15,31,93070800.0,1973
+Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,17,15,32,93330000.0,1973
+Atlanta Hawks,Atlanta Hawks,Kansas City-Omaha Kings,18,15,33,93589200.0,1973
+Atlanta Hawks,Buffalo Braves,Atlanta Hawks,19,15,34,93848400.0,1973
+Atlanta Hawks,Atlanta Hawks,Philadelphia 76ers,20,15,35,93934800.0,1973
+Atlanta Hawks,Cleveland Cavaliers,Atlanta Hawks,20,16,36,94194000.0,1973
+Atlanta Hawks,Atlanta Hawks,Philadelphia 76ers,21,16,37,94280400.0,1973
+Atlanta Hawks,Atlanta Hawks,Baltimore Bullets,21,17,38,94366800.0,1973
+Atlanta Hawks,Atlanta Hawks,Buffalo Braves,22,17,39,94539600.0,1973
+Atlanta Hawks,Chicago Bulls,Atlanta Hawks,22,18,40,94798800.0,1973
+Atlanta Hawks,Milwaukee Bucks,Atlanta Hawks,22,19,41,94885200.0,1973
+Atlanta Hawks,Atlanta Hawks,Boston Celtics,22,20,42,95058000.0,1973
+Atlanta Hawks,Detroit Pistons,Atlanta Hawks,23,20,43,95144400.0,1973
+Atlanta Hawks,Atlanta Hawks,Houston Rockets,24,20,44,95403600.0,1973
+Atlanta Hawks,Atlanta Hawks,New York Knicks,24,21,45,95576400.0,1973
+Atlanta Hawks,Boston Celtics,Atlanta Hawks,24,22,46,95662800.0,1973
+Atlanta Hawks,Atlanta Hawks,Los Angeles Lakers,24,23,47,95835600.0,1973
+Atlanta Hawks,Atlanta Hawks,Detroit Pistons,25,23,48,96008400.0,1973
+Atlanta Hawks,Philadelphia 76ers,Atlanta Hawks,26,23,49,96094800.0,1973
+Atlanta Hawks,Atlanta Hawks,Buffalo Braves,26,24,50,96181200.0,1973
+Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,27,24,51,96354000.0,1973
+Atlanta Hawks,Buffalo Braves,Atlanta Hawks,28,24,52,96872400.0,1973
+Atlanta Hawks,Atlanta Hawks,Kansas City-Omaha Kings,29,24,53,96958800.0,1973
+Atlanta Hawks,Houston Rockets,Atlanta Hawks,29,25,54,97045200.0,1973
+Atlanta Hawks,Atlanta Hawks,Detroit Pistons,29,26,55,97218000.0,1973
+Atlanta Hawks,Boston Celtics,Atlanta Hawks,30,26,56,97477200.0,1973
+Atlanta Hawks,Atlanta Hawks,Buffalo Braves,31,26,57,97563600.0,1973
+Atlanta Hawks,Atlanta Hawks,Baltimore Bullets,32,26,58,97822800.0,1973
+Atlanta Hawks,Baltimore Bullets,Atlanta Hawks,32,27,59,97909200.0,1973
+Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,32,28,60,97995600.0,1973
+Atlanta Hawks,Atlanta Hawks,Houston Rockets,33,28,61,98168400.0,1973
+Atlanta Hawks,Cleveland Cavaliers,Atlanta Hawks,34,28,62,98254800.0,1973
+Atlanta Hawks,Phoenix Suns,Atlanta Hawks,35,28,63,98686800.0,1973
+Atlanta Hawks,Los Angeles Lakers,Atlanta Hawks,36,28,64,98859600.0,1973
+Atlanta Hawks,Golden State Warriors,Atlanta Hawks,36,29,65,99032400.0,1973
+Atlanta Hawks,Seattle Supersonics,Atlanta Hawks,36,30,66,99291600.0,1973
+Atlanta Hawks,Atlanta Hawks,Seattle Supersonics,37,30,67,99637200.0,1973
+Atlanta Hawks,Philadelphia 76ers,Atlanta Hawks,38,30,68,99896400.0,1973
+Atlanta Hawks,Atlanta Hawks,Houston Rockets,39,30,69,99982800.0,1973
+Atlanta Hawks,Atlanta Hawks,Philadelphia 76ers,40,30,70,100069200.0,1973
+Atlanta Hawks,Atlanta Hawks,Portland Trail Blazers,41,30,71,100414800.0,1973
+Atlanta Hawks,Atlanta Hawks,Golden State Warriors,42,30,72,100587600.0,1973
+Atlanta Hawks,Houston Rockets,Atlanta Hawks,42,31,73,100674000.0,1973
+Atlanta Hawks,Cleveland Cavaliers,Atlanta Hawks,42,32,74,100846800.0,1973
+Atlanta Hawks,Atlanta Hawks,Phoenix Suns,43,32,75,101106000.0,1973
+Atlanta Hawks,Atlanta Hawks,Milwaukee Bucks,43,33,76,101278800.0,1973
+Atlanta Hawks,Atlanta Hawks,Los Angeles Lakers,44,33,77,101451600.0,1973
+Atlanta Hawks,New York Knicks,Atlanta Hawks,45,33,78,101538000.0,1973
+Atlanta Hawks,Boston Celtics,Atlanta Hawks,45,34,79,101710800.0,1973
+Atlanta Hawks,Atlanta Hawks,Chicago Bulls,46,34,80,101797200.0,1973
+Atlanta Hawks,Baltimore Bullets,Atlanta Hawks,46,35,81,101883600.0,1973
+Atlanta Hawks,Atlanta Hawks,Boston Celtics,46,36,82,102056400.0,1973
+Baltimore Bullets,Cleveland Cavaliers,Baltimore Bullets,1,0,1,87537600.0,1973
+Baltimore Bullets,Baltimore Bullets,Atlanta Hawks,2,0,2,87796800.0,1973
+Baltimore Bullets,Phoenix Suns,Baltimore Bullets,2,1,3,87969600.0,1973
+Baltimore Bullets,Golden State Warriors,Baltimore Bullets,2,2,4,88056000.0,1973
+Baltimore Bullets,Kansas City-Omaha Kings,Baltimore Bullets,3,2,5,88315200.0,1973
+Baltimore Bullets,Baltimore Bullets,Boston Celtics,3,3,6,88488000.0,1973
+Baltimore Bullets,Detroit Pistons,Baltimore Bullets,4,3,7,88833600.0,1973
+Baltimore Bullets,Baltimore Bullets,New York Knicks,4,4,8,89006400.0,1973
+Baltimore Bullets,New York Knicks,Baltimore Bullets,4,5,9,89092800.0,1973
+Baltimore Bullets,Boston Celtics,Baltimore Bullets,4,6,10,89614800.0,1973
+Baltimore Bullets,Baltimore Bullets,Cleveland Cavaliers,5,6,11,89701200.0,1973
+Baltimore Bullets,Atlanta Hawks,Baltimore Bullets,5,7,12,89960400.0,1973
+Baltimore Bullets,Baltimore Bullets,Buffalo Braves,6,7,13,90046800.0,1973
+Baltimore Bullets,Milwaukee Bucks,Baltimore Bullets,6,8,14,90219600.0,1973
+Baltimore Bullets,Baltimore Bullets,Chicago Bulls,6,9,15,90306000.0,1973
+Baltimore Bullets,Baltimore Bullets,Houston Rockets,7,9,16,90565200.0,1973
+Baltimore Bullets,Baltimore Bullets,Phoenix Suns,8,9,17,90824400.0,1973
+Baltimore Bullets,Chicago Bulls,Baltimore Bullets,8,10,18,90910800.0,1973
+Baltimore Bullets,Buffalo Braves,Baltimore Bullets,9,10,19,91170000.0,1973
+Baltimore Bullets,Baltimore Bullets,Seattle Supersonics,10,10,20,91256400.0,1973
+Baltimore Bullets,Baltimore Bullets,Milwaukee Bucks,10,11,21,91515600.0,1973
+Baltimore Bullets,Baltimore Bullets,Houston Rockets,11,11,22,91774800.0,1973
+Baltimore Bullets,Baltimore Bullets,Houston Rockets,11,12,23,91861200.0,1973
+Baltimore Bullets,Baltimore Bullets,Houston Rockets,12,12,24,92034000.0,1973
+Baltimore Bullets,Cleveland Cavaliers,Baltimore Bullets,13,12,25,92379600.0,1973
+Baltimore Bullets,Baltimore Bullets,Portland Trail Blazers,14,12,26,92466000.0,1973
+Baltimore Bullets,Atlanta Hawks,Baltimore Bullets,14,13,27,92638800.0,1973
+Baltimore Bullets,Baltimore Bullets,Kansas City-Omaha Kings,15,13,28,92725200.0,1973
+Baltimore Bullets,Baltimore Bullets,Philadelphia 76ers,16,13,29,92984400.0,1973
+Baltimore Bullets,Baltimore Bullets,Houston Rockets,17,13,30,93243600.0,1973
+Baltimore Bullets,Baltimore Bullets,Golden State Warriors,18,13,31,93330000.0,1973
+Baltimore Bullets,Baltimore Bullets,Los Angeles Lakers,18,14,32,93675600.0,1973
+Baltimore Bullets,Baltimore Bullets,Detroit Pistons,19,14,33,93934800.0,1973
+Baltimore Bullets,Buffalo Braves,Baltimore Bullets,20,14,34,94194000.0,1973
+Baltimore Bullets,Atlanta Hawks,Baltimore Bullets,21,14,35,94366800.0,1973
+Baltimore Bullets,Baltimore Bullets,Buffalo Braves,21,15,36,94453200.0,1973
+Baltimore Bullets,New York Knicks,Baltimore Bullets,21,16,37,94539600.0,1973
+Baltimore Bullets,Milwaukee Bucks,Baltimore Bullets,22,16,38,94712400.0,1973
+Baltimore Bullets,Baltimore Bullets,Cleveland Cavaliers,23,16,39,94885200.0,1973
+Baltimore Bullets,Baltimore Bullets,Boston Celtics,23,17,40,95230800.0,1973
+Baltimore Bullets,Portland Trail Blazers,Baltimore Bullets,24,17,41,95403600.0,1973
+Baltimore Bullets,Seattle Supersonics,Baltimore Bullets,25,17,42,95490000.0,1973
+Baltimore Bullets,Phoenix Suns,Baltimore Bullets,26,17,43,95835600.0,1973
+Baltimore Bullets,Los Angeles Lakers,Baltimore Bullets,27,17,44,96008400.0,1973
+Baltimore Bullets,Baltimore Bullets,Philadelphia 76ers,28,17,45,96267600.0,1973
+Baltimore Bullets,Baltimore Bullets,Seattle Supersonics,29,17,46,96354000.0,1973
+Baltimore Bullets,Baltimore Bullets,Philadelphia 76ers,30,17,47,96440400.0,1973
+Baltimore Bullets,Chicago Bulls,Baltimore Bullets,30,18,48,96872400.0,1973
+Baltimore Bullets,Baltimore Bullets,Buffalo Braves,31,18,49,96958800.0,1973
+Baltimore Bullets,Cleveland Cavaliers,Baltimore Bullets,32,18,50,97045200.0,1973
+Baltimore Bullets,Baltimore Bullets,Golden State Warriors,33,18,51,97218000.0,1973
+Baltimore Bullets,Baltimore Bullets,New York Knicks,34,18,52,97477200.0,1973
+Baltimore Bullets,Baltimore Bullets,Los Angeles Lakers,34,19,53,97650000.0,1973
+Baltimore Bullets,Atlanta Hawks,Baltimore Bullets,34,20,54,97822800.0,1973
+Baltimore Bullets,Baltimore Bullets,Atlanta Hawks,35,20,55,97909200.0,1973
+Baltimore Bullets,Buffalo Braves,Baltimore Bullets,36,20,56,98082000.0,1973
+Baltimore Bullets,Portland Trail Blazers,Baltimore Bullets,37,20,57,98254800.0,1973
+Baltimore Bullets,Seattle Supersonics,Baltimore Bullets,38,20,58,98514000.0,1973
+Baltimore Bullets,Golden State Warriors,Baltimore Bullets,39,20,59,98600400.0,1973
+Baltimore Bullets,Los Angeles Lakers,Baltimore Bullets,39,21,60,98686800.0,1973
+Baltimore Bullets,Baltimore Bullets,Milwaukee Bucks,40,21,61,98859600.0,1973
+Baltimore Bullets,Baltimore Bullets,Phoenix Suns,40,22,62,99118800.0,1973
+Baltimore Bullets,Detroit Pistons,Baltimore Bullets,40,23,63,99291600.0,1973
+Baltimore Bullets,Baltimore Bullets,Portland Trail Blazers,41,23,64,99378000.0,1973
+Baltimore Bullets,Baltimore Bullets,Cleveland Cavaliers,42,23,65,99637200.0,1973
+Baltimore Bullets,Philadelphia 76ers,Baltimore Bullets,42,24,66,99723600.0,1973
+Baltimore Bullets,New York Knicks,Baltimore Bullets,43,24,67,99982800.0,1973
+Baltimore Bullets,Baltimore Bullets,New York Knicks,44,24,68,100069200.0,1973
+Baltimore Bullets,Kansas City-Omaha Kings,Baltimore Bullets,44,25,69,100414800.0,1973
+Baltimore Bullets,Houston Rockets,Baltimore Bullets,45,25,70,100501200.0,1973
+Baltimore Bullets,Baltimore Bullets,Chicago Bulls,45,26,71,100587600.0,1973
+Baltimore Bullets,Baltimore Bullets,Kansas City-Omaha Kings,46,26,72,100846800.0,1973
+Baltimore Bullets,Boston Celtics,Baltimore Bullets,46,27,73,100933200.0,1973
+Baltimore Bullets,Baltimore Bullets,Boston Celtics,47,27,74,101106000.0,1973
+Baltimore Bullets,Philadelphia 76ers,Baltimore Bullets,48,27,75,101192400.0,1973
+Baltimore Bullets,Baltimore Bullets,Philadelphia 76ers,49,27,76,101278800.0,1973
+Baltimore Bullets,Baltimore Bullets,Houston Rockets,49,28,77,101538000.0,1973
+Baltimore Bullets,Cleveland Cavaliers,Baltimore Bullets,50,28,78,101710800.0,1973
+Baltimore Bullets,Baltimore Bullets,Cleveland Cavaliers,51,28,79,101797200.0,1973
+Baltimore Bullets,Baltimore Bullets,Atlanta Hawks,52,28,80,101883600.0,1973
+Baltimore Bullets,Baltimore Bullets,Detroit Pistons,52,29,81,102056400.0,1973
+Baltimore Bullets,Boston Celtics,Baltimore Bullets,52,30,82,102142800.0,1973
+Boston Celtics,Detroit Pistons,Boston Celtics,1,0,1,87624000.0,1973
+Boston Celtics,Boston Celtics,Los Angeles Lakers,2,0,2,87796800.0,1973
+Boston Celtics,Chicago Bulls,Boston Celtics,3,0,3,87883200.0,1973
+Boston Celtics,Atlanta Hawks,Boston Celtics,4,0,4,88142400.0,1973
+Boston Celtics,Boston Celtics,Buffalo Braves,5,0,5,88401600.0,1973
+Boston Celtics,Baltimore Bullets,Boston Celtics,6,0,6,88488000.0,1973
+Boston Celtics,Boston Celtics,Philadelphia 76ers,7,0,7,88660800.0,1973
+Boston Celtics,Buffalo Braves,Boston Celtics,8,0,8,88747200.0,1973
+Boston Celtics,Boston Celtics,Cleveland Cavaliers,9,0,9,89006400.0,1973
+Boston Celtics,Boston Celtics,Baltimore Bullets,10,0,10,89614800.0,1973
+Boston Celtics,Boston Celtics,Kansas City-Omaha Kings,10,1,11,89701200.0,1973
+Boston Celtics,Boston Celtics,Golden State Warriors,11,1,12,90046800.0,1973
+Boston Celtics,Buffalo Braves,Boston Celtics,12,1,13,90219600.0,1973
+Boston Celtics,Boston Celtics,Detroit Pistons,13,1,14,90306000.0,1973
+Boston Celtics,Boston Celtics,Phoenix Suns,14,1,15,90651600.0,1973
+Boston Celtics,Boston Celtics,Milwaukee Bucks,14,2,16,90824400.0,1973
+Boston Celtics,Milwaukee Bucks,Boston Celtics,15,2,17,91170000.0,1973
+Boston Celtics,Boston Celtics,Portland Trail Blazers,16,2,18,91256400.0,1973
+Boston Celtics,Boston Celtics,New York Knicks,17,2,19,91429200.0,1973
+Boston Celtics,New York Knicks,Boston Celtics,17,3,20,91515600.0,1973
+Boston Celtics,Boston Celtics,Seattle Supersonics,18,3,21,91861200.0,1973
+Boston Celtics,Philadelphia 76ers,Boston Celtics,19,3,22,92034000.0,1973
+Boston Celtics,Boston Celtics,Philadelphia 76ers,20,3,23,92120400.0,1973
+Boston Celtics,Cleveland Cavaliers,Boston Celtics,21,3,24,92638800.0,1973
+Boston Celtics,Boston Celtics,Cleveland Cavaliers,22,3,25,92725200.0,1973
+Boston Celtics,Phoenix Suns,Boston Celtics,23,3,26,93070800.0,1973
+Boston Celtics,Los Angeles Lakers,Boston Celtics,24,3,27,93243600.0,1973
+Boston Celtics,Portland Trail Blazers,Boston Celtics,25,3,28,93330000.0,1973
+Boston Celtics,Seattle Supersonics,Boston Celtics,26,3,29,93416400.0,1973
+Boston Celtics,Golden State Warriors,Boston Celtics,26,4,30,93589200.0,1973
+Boston Celtics,Kansas City-Omaha Kings,Boston Celtics,27,4,31,93848400.0,1973
+Boston Celtics,Milwaukee Bucks,Boston Celtics,27,5,32,93934800.0,1973
+Boston Celtics,Boston Celtics,New York Knicks,28,5,33,94194000.0,1973
+Boston Celtics,Boston Celtics,Chicago Bulls,28,6,34,94453200.0,1973
+Boston Celtics,Boston Celtics,Philadelphia 76ers,29,6,35,94539600.0,1973
+Boston Celtics,Houston Rockets,Boston Celtics,30,6,36,94798800.0,1973
+Boston Celtics,Houston Rockets,Boston Celtics,30,7,37,94885200.0,1973
+Boston Celtics,Atlanta Hawks,Boston Celtics,31,7,38,95058000.0,1973
+Boston Celtics,Baltimore Bullets,Boston Celtics,32,7,39,95230800.0,1973
+Boston Celtics,Boston Celtics,Houston Rockets,33,7,40,95490000.0,1973
+Boston Celtics,Boston Celtics,Atlanta Hawks,34,7,41,95662800.0,1973
+Boston Celtics,Philadelphia 76ers,Boston Celtics,35,7,42,95749200.0,1973
+Boston Celtics,Buffalo Braves,Boston Celtics,36,7,43,96008400.0,1973
+Boston Celtics,Boston Celtics,Portland Trail Blazers,37,7,44,96094800.0,1973
+Boston Celtics,Boston Celtics,Seattle Supersonics,38,7,45,96267600.0,1973
+Boston Celtics,Boston Celtics,Buffalo Braves,39,7,46,96440400.0,1973
+Boston Celtics,Boston Celtics,Houston Rockets,40,7,47,96872400.0,1973
+Boston Celtics,New York Knicks,Boston Celtics,40,8,48,96958800.0,1973
+Boston Celtics,Boston Celtics,New York Knicks,40,9,49,97045200.0,1973
+Boston Celtics,Boston Celtics,Cleveland Cavaliers,41,9,50,97304400.0,1973
+Boston Celtics,Boston Celtics,Atlanta Hawks,41,10,51,97477200.0,1973
+Boston Celtics,Philadelphia 76ers,Boston Celtics,42,10,52,97563600.0,1973
+Boston Celtics,Boston Celtics,Philadelphia 76ers,43,10,53,97650000.0,1973
+Boston Celtics,Cleveland Cavaliers,Boston Celtics,43,11,54,97822800.0,1973
+Boston Celtics,Boston Celtics,Los Angeles Lakers,44,11,55,97909200.0,1973
+Boston Celtics,Boston Celtics,Detroit Pistons,44,12,56,98082000.0,1973
+Boston Celtics,Boston Celtics,Milwaukee Bucks,45,12,57,98254800.0,1973
+Boston Celtics,Chicago Bulls,Boston Celtics,46,12,58,98427600.0,1973
+Boston Celtics,Kansas City-Omaha Kings,Boston Celtics,47,12,59,98514000.0,1973
+Boston Celtics,Portland Trail Blazers,Boston Celtics,48,12,60,98686800.0,1973
+Boston Celtics,Golden State Warriors,Boston Celtics,49,12,61,98773200.0,1973
+Boston Celtics,Seattle Supersonics,Boston Celtics,50,12,62,98859600.0,1973
+Boston Celtics,Boston Celtics,Phoenix Suns,51,12,63,99032400.0,1973
+Boston Celtics,Cleveland Cavaliers,Boston Celtics,52,12,64,99464400.0,1973
+Boston Celtics,New York Knicks,Boston Celtics,52,13,65,99637200.0,1973
+Boston Celtics,Boston Celtics,Golden State Warriors,53,13,66,99723600.0,1973
+Boston Celtics,Detroit Pistons,Boston Celtics,54,13,67,99896400.0,1973
+Boston Celtics,Boston Celtics,Buffalo Braves,55,13,68,100069200.0,1973
+Boston Celtics,Buffalo Braves,Boston Celtics,56,13,69,100242000.0,1973
+Boston Celtics,Phoenix Suns,Boston Celtics,57,13,70,100414800.0,1973
+Boston Celtics,Los Angeles Lakers,Boston Celtics,58,13,71,100501200.0,1973
+Boston Celtics,Boston Celtics,New York Knicks,59,13,72,100674000.0,1973
+Boston Celtics,Boston Celtics,Baltimore Bullets,60,13,73,100933200.0,1973
+Boston Celtics,Baltimore Bullets,Boston Celtics,60,14,74,101106000.0,1973
+Boston Celtics,Boston Celtics,Kansas City-Omaha Kings,61,14,75,101278800.0,1973
+Boston Celtics,Boston Celtics,Houston Rockets,62,14,76,101451600.0,1973
+Boston Celtics,Boston Celtics,Chicago Bulls,63,14,77,101538000.0,1973
+Boston Celtics,Boston Celtics,Atlanta Hawks,64,14,78,101710800.0,1973
+Boston Celtics,New York Knicks,Boston Celtics,65,14,79,101797200.0,1973
+Boston Celtics,Houston Rockets,Boston Celtics,66,14,80,101883600.0,1973
+Boston Celtics,Atlanta Hawks,Boston Celtics,67,14,81,102056400.0,1973
+Boston Celtics,Boston Celtics,Baltimore Bullets,68,14,82,102142800.0,1973
+Buffalo Braves,Buffalo Braves,Atlanta Hawks,0,1,1,87537600.0,1973
+Buffalo Braves,Philadelphia 76ers,Buffalo Braves,1,1,2,87796800.0,1973
+Buffalo Braves,Buffalo Braves,Houston Rockets,1,2,3,87883200.0,1973
+Buffalo Braves,Buffalo Braves,Philadelphia 76ers,2,2,4,88142400.0,1973
+Buffalo Braves,Boston Celtics,Buffalo Braves,2,3,5,88401600.0,1973
+Buffalo Braves,Buffalo Braves,Milwaukee Bucks,2,4,6,88488000.0,1973
+Buffalo Braves,Buffalo Braves,Boston Celtics,2,5,7,88747200.0,1973
+Buffalo Braves,Milwaukee Bucks,Buffalo Braves,2,6,8,88833600.0,1973
+Buffalo Braves,Buffalo Braves,Kansas City-Omaha Kings,2,7,9,89092800.0,1973
+Buffalo Braves,Cleveland Cavaliers,Buffalo Braves,2,8,10,89614800.0,1973
+Buffalo Braves,Buffalo Braves,Chicago Bulls,3,8,11,89701200.0,1973
+Buffalo Braves,Buffalo Braves,Golden State Warriors,3,9,12,89960400.0,1973
+Buffalo Braves,Baltimore Bullets,Buffalo Braves,3,10,13,90046800.0,1973
+Buffalo Braves,Buffalo Braves,Boston Celtics,3,11,14,90219600.0,1973
+Buffalo Braves,Kansas City-Omaha Kings,Buffalo Braves,3,12,15,90565200.0,1973
+Buffalo Braves,Los Angeles Lakers,Buffalo Braves,3,13,16,90824400.0,1973
+Buffalo Braves,Golden State Warriors,Buffalo Braves,3,14,17,90910800.0,1973
+Buffalo Braves,Seattle Supersonics,Buffalo Braves,3,15,18,90997200.0,1973
+Buffalo Braves,Buffalo Braves,Baltimore Bullets,3,16,19,91170000.0,1973
+Buffalo Braves,Buffalo Braves,Philadelphia 76ers,4,16,20,91429200.0,1973
+Buffalo Braves,Buffalo Braves,Cleveland Cavaliers,4,17,21,91515600.0,1973
+Buffalo Braves,Buffalo Braves,Philadelphia 76ers,4,18,22,91774800.0,1973
+Buffalo Braves,Detroit Pistons,Buffalo Braves,4,19,23,91947600.0,1973
+Buffalo Braves,Buffalo Braves,Seattle Supersonics,5,19,24,92034000.0,1973
+Buffalo Braves,New York Knicks,Buffalo Braves,5,20,25,92120400.0,1973
+Buffalo Braves,Buffalo Braves,Phoenix Suns,6,20,26,92379600.0,1973
+Buffalo Braves,Buffalo Braves,New York Knicks,7,20,27,92638800.0,1973
+Buffalo Braves,Chicago Bulls,Buffalo Braves,7,21,28,92725200.0,1973
+Buffalo Braves,Buffalo Braves,Houston Rockets,8,21,29,92984400.0,1973
+Buffalo Braves,Buffalo Braves,Golden State Warriors,8,22,30,93243600.0,1973
+Buffalo Braves,Philadelphia 76ers,Buffalo Braves,9,22,31,93330000.0,1973
+Buffalo Braves,Buffalo Braves,Los Angeles Lakers,9,23,32,93589200.0,1973
+Buffalo Braves,Buffalo Braves,Atlanta Hawks,9,24,33,93848400.0,1973
+Buffalo Braves,Buffalo Braves,Baltimore Bullets,9,25,34,94194000.0,1973
+Buffalo Braves,New York Knicks,Buffalo Braves,9,26,35,94366800.0,1973
+Buffalo Braves,Baltimore Bullets,Buffalo Braves,10,26,36,94453200.0,1973
+Buffalo Braves,Atlanta Hawks,Buffalo Braves,10,27,37,94539600.0,1973
+Buffalo Braves,Buffalo Braves,Philadelphia 76ers,11,27,38,94798800.0,1973
+Buffalo Braves,Buffalo Braves,New York Knicks,11,28,39,95058000.0,1973
+Buffalo Braves,Milwaukee Bucks,Buffalo Braves,11,29,40,95144400.0,1973
+Buffalo Braves,Chicago Bulls,Buffalo Braves,11,30,41,95230800.0,1973
+Buffalo Braves,Buffalo Braves,Cleveland Cavaliers,12,30,42,95403600.0,1973
+Buffalo Braves,Buffalo Braves,Portland Trail Blazers,13,30,43,95662800.0,1973
+Buffalo Braves,Buffalo Braves,Boston Celtics,13,31,44,96008400.0,1973
+Buffalo Braves,Atlanta Hawks,Buffalo Braves,14,31,45,96181200.0,1973
+Buffalo Braves,Buffalo Braves,Detroit Pistons,15,31,46,96267600.0,1973
+Buffalo Braves,Boston Celtics,Buffalo Braves,15,32,47,96440400.0,1973
+Buffalo Braves,New York Knicks,Buffalo Braves,15,33,48,96786000.0,1973
+Buffalo Braves,Buffalo Braves,Atlanta Hawks,15,34,49,96872400.0,1973
+Buffalo Braves,Baltimore Bullets,Buffalo Braves,15,35,50,96958800.0,1973
+Buffalo Braves,Philadelphia 76ers,Buffalo Braves,16,35,51,97045200.0,1973
+Buffalo Braves,Buffalo Braves,Philadelphia 76ers,17,35,52,97218000.0,1973
+Buffalo Braves,Buffalo Braves,Milwaukee Bucks,17,36,53,97477200.0,1973
+Buffalo Braves,Atlanta Hawks,Buffalo Braves,17,37,54,97563600.0,1973
+Buffalo Braves,Buffalo Braves,Houston Rockets,17,38,55,97650000.0,1973
+Buffalo Braves,Buffalo Braves,Detroit Pistons,17,39,56,97822800.0,1973
+Buffalo Braves,Buffalo Braves,Baltimore Bullets,17,40,57,98082000.0,1973
+Buffalo Braves,Seattle Supersonics,Buffalo Braves,18,40,58,98254800.0,1973
+Buffalo Braves,Portland Trail Blazers,Buffalo Braves,18,41,59,98427600.0,1973
+Buffalo Braves,Phoenix Suns,Buffalo Braves,18,42,60,98514000.0,1973
+Buffalo Braves,Buffalo Braves,New York Knicks,18,43,61,98686800.0,1973
+Buffalo Braves,Cleveland Cavaliers,Buffalo Braves,18,44,62,98859600.0,1973
+Buffalo Braves,Buffalo Braves,Kansas City-Omaha Kings,19,44,63,99032400.0,1973
+Buffalo Braves,Buffalo Braves,Phoenix Suns,19,45,64,99291600.0,1973
+Buffalo Braves,New York Knicks,Buffalo Braves,19,46,65,99378000.0,1973
+Buffalo Braves,Buffalo Braves,Houston Rockets,19,47,66,99637200.0,1973
+Buffalo Braves,Buffalo Braves,Seattle Supersonics,19,48,67,99896400.0,1973
+Buffalo Braves,Boston Celtics,Buffalo Braves,19,49,68,100069200.0,1973
+Buffalo Braves,Buffalo Braves,Boston Celtics,19,50,69,100242000.0,1973
+Buffalo Braves,Buffalo Braves,Chicago Bulls,20,50,70,100414800.0,1973
+Buffalo Braves,Buffalo Braves,Portland Trail Blazers,21,50,71,100587600.0,1973
+Buffalo Braves,Buffalo Braves,Los Angeles Lakers,21,51,72,100846800.0,1973
+Buffalo Braves,Detroit Pistons,Buffalo Braves,21,52,73,101106000.0,1973
+Buffalo Braves,Buffalo Braves,Cleveland Cavaliers,21,53,74,101192400.0,1973
+Buffalo Braves,Cleveland Cavaliers,Buffalo Braves,21,54,75,101278800.0,1973
+Buffalo Braves,Kansas City-Omaha Kings,Buffalo Braves,21,55,76,101451600.0,1973
+Buffalo Braves,Phoenix Suns,Buffalo Braves,21,56,77,101538000.0,1973
+Buffalo Braves,Los Angeles Lakers,Buffalo Braves,21,57,78,101710800.0,1973
+Buffalo Braves,Golden State Warriors,Buffalo Braves,21,58,79,101797200.0,1973
+Buffalo Braves,Portland Trail Blazers,Buffalo Braves,21,59,80,101883600.0,1973
+Buffalo Braves,Buffalo Braves,Houston Rockets,21,60,81,102056400.0,1973
+Buffalo Braves,Buffalo Braves,Houston Rockets,21,61,82,102142800.0,1973
+Chicago Bulls,Chicago Bulls,Philadelphia 76ers,1,0,1,87537600.0,1973
+Chicago Bulls,Detroit Pistons,Chicago Bulls,1,1,2,87796800.0,1973
+Chicago Bulls,Chicago Bulls,Boston Celtics,1,2,3,87883200.0,1973
+Chicago Bulls,Houston Rockets,Chicago Bulls,2,2,4,88488000.0,1973
+Chicago Bulls,Los Angeles Lakers,Chicago Bulls,2,3,5,88574400.0,1973
+Chicago Bulls,Phoenix Suns,Chicago Bulls,3,3,6,88747200.0,1973
+Chicago Bulls,Golden State Warriors,Chicago Bulls,4,3,7,88920000.0,1973
+Chicago Bulls,Portland Trail Blazers,Chicago Bulls,5,3,8,89006400.0,1973
+Chicago Bulls,Seattle Supersonics,Chicago Bulls,6,3,9,89179200.0,1973
+Chicago Bulls,Chicago Bulls,Kansas City-Omaha Kings,7,3,10,89355600.0,1973
+Chicago Bulls,Chicago Bulls,Phoenix Suns,8,3,11,89614800.0,1973
+Chicago Bulls,Buffalo Braves,Chicago Bulls,8,4,12,89701200.0,1973
+Chicago Bulls,Baltimore Bullets,Chicago Bulls,9,4,13,90306000.0,1973
+Chicago Bulls,Chicago Bulls,Seattle Supersonics,10,4,14,90565200.0,1973
+Chicago Bulls,Detroit Pistons,Chicago Bulls,10,5,15,90824400.0,1973
+Chicago Bulls,Chicago Bulls,Baltimore Bullets,11,5,16,90910800.0,1973
+Chicago Bulls,Chicago Bulls,Houston Rockets,12,5,17,91170000.0,1973
+Chicago Bulls,Chicago Bulls,Golden State Warriors,13,5,18,91429200.0,1973
+Chicago Bulls,Atlanta Hawks,Chicago Bulls,14,5,19,91515600.0,1973
+Chicago Bulls,Chicago Bulls,Kansas City-Omaha Kings,14,6,20,91774800.0,1973
+Chicago Bulls,Milwaukee Bucks,Chicago Bulls,14,7,21,91861200.0,1973
+Chicago Bulls,Kansas City-Omaha Kings,Chicago Bulls,15,7,22,92034000.0,1973
+Chicago Bulls,Chicago Bulls,Seattle Supersonics,16,7,23,92120400.0,1973
+Chicago Bulls,Chicago Bulls,Detroit Pistons,17,7,24,92379600.0,1973
+Chicago Bulls,Chicago Bulls,Atlanta Hawks,17,8,25,92552400.0,1973
+Chicago Bulls,Philadelphia 76ers,Chicago Bulls,18,8,26,92638800.0,1973
+Chicago Bulls,Chicago Bulls,Buffalo Braves,19,8,27,92725200.0,1973
+Chicago Bulls,Chicago Bulls,Los Angeles Lakers,19,9,28,92984400.0,1973
+Chicago Bulls,Chicago Bulls,New York Knicks,20,9,29,93243600.0,1973
+Chicago Bulls,New York Knicks,Chicago Bulls,20,10,30,93330000.0,1973
+Chicago Bulls,Chicago Bulls,Portland Trail Blazers,20,11,31,93589200.0,1973
+Chicago Bulls,Portland Trail Blazers,Chicago Bulls,21,11,32,93848400.0,1973
+Chicago Bulls,Golden State Warriors,Chicago Bulls,21,12,33,93934800.0,1973
+Chicago Bulls,Phoenix Suns,Chicago Bulls,21,13,34,94107600.0,1973
+Chicago Bulls,Chicago Bulls,Kansas City-Omaha Kings,22,13,35,94194000.0,1973
+Chicago Bulls,Boston Celtics,Chicago Bulls,23,13,36,94453200.0,1973
+Chicago Bulls,Chicago Bulls,Milwaukee Bucks,24,13,37,94539600.0,1973
+Chicago Bulls,Chicago Bulls,Atlanta Hawks,25,13,38,94798800.0,1973
+Chicago Bulls,Chicago Bulls,Houston Rockets,26,13,39,94971600.0,1973
+Chicago Bulls,Chicago Bulls,Phoenix Suns,26,14,40,95058000.0,1973
+Chicago Bulls,Chicago Bulls,Buffalo Braves,27,14,41,95230800.0,1973
+Chicago Bulls,Chicago Bulls,Philadelphia 76ers,28,14,42,95403600.0,1973
+Chicago Bulls,Kansas City-Omaha Kings,Chicago Bulls,28,15,43,95490000.0,1973
+Chicago Bulls,Chicago Bulls,Los Angeles Lakers,28,16,44,95662800.0,1973
+Chicago Bulls,Milwaukee Bucks,Chicago Bulls,28,17,45,95835600.0,1973
+Chicago Bulls,Chicago Bulls,Portland Trail Blazers,29,17,46,96008400.0,1973
+Chicago Bulls,Chicago Bulls,Golden State Warriors,29,18,47,96267600.0,1973
+Chicago Bulls,Detroit Pistons,Chicago Bulls,29,19,48,96354000.0,1973
+Chicago Bulls,Chicago Bulls,Baltimore Bullets,30,19,49,96872400.0,1973
+Chicago Bulls,Chicago Bulls,Detroit Pistons,31,19,50,97045200.0,1973
+Chicago Bulls,Los Angeles Lakers,Chicago Bulls,31,20,51,97218000.0,1973
+Chicago Bulls,Seattle Supersonics,Chicago Bulls,31,21,52,97477200.0,1973
+Chicago Bulls,Chicago Bulls,Milwaukee Bucks,32,21,53,97650000.0,1973
+Chicago Bulls,Chicago Bulls,Kansas City-Omaha Kings,33,21,54,97822800.0,1973
+Chicago Bulls,Cleveland Cavaliers,Chicago Bulls,34,21,55,98082000.0,1973
+Chicago Bulls,Kansas City-Omaha Kings,Chicago Bulls,35,21,56,98168400.0,1973
+Chicago Bulls,Chicago Bulls,Golden State Warriors,35,22,57,98254800.0,1973
+Chicago Bulls,Chicago Bulls,Boston Celtics,35,23,58,98427600.0,1973
+Chicago Bulls,New York Knicks,Chicago Bulls,36,23,59,98514000.0,1973
+Chicago Bulls,Chicago Bulls,Cleveland Cavaliers,37,23,60,98686800.0,1973
+Chicago Bulls,Houston Rockets,Chicago Bulls,38,23,61,98859600.0,1973
+Chicago Bulls,Chicago Bulls,Los Angeles Lakers,39,23,62,99032400.0,1973
+Chicago Bulls,Chicago Bulls,New York Knicks,40,23,63,99291600.0,1973
+Chicago Bulls,Chicago Bulls,Phoenix Suns,41,23,64,99378000.0,1973
+Chicago Bulls,Seattle Supersonics,Chicago Bulls,42,23,65,99464400.0,1973
+Chicago Bulls,Portland Trail Blazers,Chicago Bulls,43,23,66,99637200.0,1973
+Chicago Bulls,Los Angeles Lakers,Chicago Bulls,43,24,67,99896400.0,1973
+Chicago Bulls,Golden State Warriors,Chicago Bulls,44,24,68,99982800.0,1973
+Chicago Bulls,Phoenix Suns,Chicago Bulls,45,24,69,100069200.0,1973
+Chicago Bulls,Milwaukee Bucks,Chicago Bulls,45,25,70,100242000.0,1973
+Chicago Bulls,Buffalo Braves,Chicago Bulls,45,26,71,100414800.0,1973
+Chicago Bulls,Chicago Bulls,Philadelphia 76ers,46,26,72,100501200.0,1973
+Chicago Bulls,Baltimore Bullets,Chicago Bulls,47,26,73,100587600.0,1973
+Chicago Bulls,Chicago Bulls,Seattle Supersonics,48,26,74,100846800.0,1973
+Chicago Bulls,Chicago Bulls,Milwaukee Bucks,48,27,75,101106000.0,1973
+Chicago Bulls,Chicago Bulls,Detroit Pistons,48,28,76,101192400.0,1973
+Chicago Bulls,Detroit Pistons,Chicago Bulls,49,28,77,101278800.0,1973
+Chicago Bulls,Chicago Bulls,Portland Trail Blazers,50,28,78,101451600.0,1973
+Chicago Bulls,Boston Celtics,Chicago Bulls,50,29,79,101538000.0,1973
+Chicago Bulls,Atlanta Hawks,Chicago Bulls,50,30,80,101797200.0,1973
+Chicago Bulls,Cleveland Cavaliers,Chicago Bulls,50,31,81,101883600.0,1973
+Chicago Bulls,Chicago Bulls,Cleveland Cavaliers,51,31,82,102056400.0,1973
+Cleveland Cavaliers,Cleveland Cavaliers,Baltimore Bullets,0,1,1,87537600.0,1973
+Cleveland Cavaliers,Cleveland Cavaliers,Houston Rockets,0,2,2,87796800.0,1973
+Cleveland Cavaliers,Cleveland Cavaliers,Los Angeles Lakers,0,3,3,87969600.0,1973
+Cleveland Cavaliers,Cleveland Cavaliers,New York Knicks,0,4,4,88401600.0,1973
+Cleveland Cavaliers,Detroit Pistons,Cleveland Cavaliers,0,5,5,88488000.0,1973
+Cleveland Cavaliers,Cleveland Cavaliers,Milwaukee Bucks,0,6,6,88574400.0,1973
+Cleveland Cavaliers,New York Knicks,Cleveland Cavaliers,0,7,7,88747200.0,1973
+Cleveland Cavaliers,Philadelphia 76ers,Cleveland Cavaliers,1,7,8,88833600.0,1973
+Cleveland Cavaliers,Boston Celtics,Cleveland Cavaliers,1,8,9,89006400.0,1973
+Cleveland Cavaliers,Cleveland Cavaliers,Kansas City-Omaha Kings,2,8,10,89179200.0,1973
+Cleveland Cavaliers,Cleveland Cavaliers,Philadelphia 76ers,3,8,11,89355600.0,1973
+Cleveland Cavaliers,Cleveland Cavaliers,Buffalo Braves,4,8,12,89614800.0,1973
+Cleveland Cavaliers,Baltimore Bullets,Cleveland Cavaliers,4,9,13,89701200.0,1973
+Cleveland Cavaliers,Cleveland Cavaliers,Phoenix Suns,4,10,14,89787600.0,1973
+Cleveland Cavaliers,Phoenix Suns,Cleveland Cavaliers,4,11,15,90046800.0,1973
+Cleveland Cavaliers,Los Angeles Lakers,Cleveland Cavaliers,4,12,16,90219600.0,1973
+Cleveland Cavaliers,Seattle Supersonics,Cleveland Cavaliers,5,12,17,90392400.0,1973
+Cleveland Cavaliers,Portland Trail Blazers,Cleveland Cavaliers,5,13,18,90565200.0,1973
+Cleveland Cavaliers,Kansas City-Omaha Kings,Cleveland Cavaliers,5,14,19,90824400.0,1973
+Cleveland Cavaliers,Cleveland Cavaliers,Atlanta Hawks,6,14,20,90997200.0,1973
+Cleveland Cavaliers,Cleveland Cavaliers,Seattle Supersonics,7,14,21,91170000.0,1973
+Cleveland Cavaliers,Buffalo Braves,Cleveland Cavaliers,8,14,22,91515600.0,1973
+Cleveland Cavaliers,Cleveland Cavaliers,Portland Trail Blazers,8,15,23,91602000.0,1973
+Cleveland Cavaliers,New York Knicks,Cleveland Cavaliers,8,16,24,91774800.0,1973
+Cleveland Cavaliers,Cleveland Cavaliers,Detroit Pistons,8,17,25,92034000.0,1973
+Cleveland Cavaliers,Cleveland Cavaliers,Seattle Supersonics,9,17,26,92206800.0,1973
+Cleveland Cavaliers,Cleveland Cavaliers,Baltimore Bullets,9,18,27,92379600.0,1973
+Cleveland Cavaliers,Cleveland Cavaliers,Boston Celtics,9,19,28,92638800.0,1973
+Cleveland Cavaliers,Boston Celtics,Cleveland Cavaliers,9,20,29,92725200.0,1973
+Cleveland Cavaliers,Cleveland Cavaliers,Golden State Warriors,9,21,30,92811600.0,1973
+Cleveland Cavaliers,Kansas City-Omaha Kings,Cleveland Cavaliers,9,22,31,92984400.0,1973
+Cleveland Cavaliers,Milwaukee Bucks,Cleveland Cavaliers,9,23,32,93243600.0,1973
+Cleveland Cavaliers,Atlanta Hawks,Cleveland Cavaliers,9,24,33,93330000.0,1973
+Cleveland Cavaliers,Cleveland Cavaliers,Houston Rockets,9,25,34,93416400.0,1973
+Cleveland Cavaliers,Cleveland Cavaliers,New York Knicks,9,26,35,93848400.0,1973
+Cleveland Cavaliers,Cleveland Cavaliers,Atlanta Hawks,10,26,36,94194000.0,1973
+Cleveland Cavaliers,Golden State Warriors,Cleveland Cavaliers,10,27,37,94366800.0,1973
+Cleveland Cavaliers,Seattle Supersonics,Cleveland Cavaliers,10,28,38,94453200.0,1973
+Cleveland Cavaliers,Cleveland Cavaliers,Phoenix Suns,11,28,39,94798800.0,1973
+Cleveland Cavaliers,Baltimore Bullets,Cleveland Cavaliers,11,29,40,94885200.0,1973
+Cleveland Cavaliers,Cleveland Cavaliers,Los Angeles Lakers,12,29,41,95144400.0,1973
+Cleveland Cavaliers,Cleveland Cavaliers,Houston Rockets,13,29,42,95230800.0,1973
+Cleveland Cavaliers,Buffalo Braves,Cleveland Cavaliers,13,30,43,95403600.0,1973
+Cleveland Cavaliers,Cleveland Cavaliers,Philadelphia 76ers,14,30,44,95662800.0,1973
+Cleveland Cavaliers,Houston Rockets,Cleveland Cavaliers,15,30,45,95749200.0,1973
+Cleveland Cavaliers,Golden State Warriors,Cleveland Cavaliers,16,30,46,96008400.0,1973
+Cleveland Cavaliers,Houston Rockets,Cleveland Cavaliers,17,30,47,96267600.0,1973
+Cleveland Cavaliers,Atlanta Hawks,Cleveland Cavaliers,17,31,48,96354000.0,1973
+Cleveland Cavaliers,Cleveland Cavaliers,Philadelphia 76ers,18,31,49,96872400.0,1973
+Cleveland Cavaliers,Cleveland Cavaliers,Baltimore Bullets,18,32,50,97045200.0,1973
+Cleveland Cavaliers,Cleveland Cavaliers,Milwaukee Bucks,19,32,51,97218000.0,1973
+Cleveland Cavaliers,Boston Celtics,Cleveland Cavaliers,19,33,52,97304400.0,1973
+Cleveland Cavaliers,New York Knicks,Cleveland Cavaliers,19,34,53,97563600.0,1973
+Cleveland Cavaliers,Cleveland Cavaliers,New York Knicks,19,35,54,97650000.0,1973
+Cleveland Cavaliers,Cleveland Cavaliers,Boston Celtics,20,35,55,97822800.0,1973
+Cleveland Cavaliers,Atlanta Hawks,Cleveland Cavaliers,21,35,56,97995600.0,1973
+Cleveland Cavaliers,Cleveland Cavaliers,Chicago Bulls,21,36,57,98082000.0,1973
+Cleveland Cavaliers,Cleveland Cavaliers,Atlanta Hawks,21,37,58,98254800.0,1973
+Cleveland Cavaliers,Cleveland Cavaliers,Golden State Warriors,21,38,59,98427600.0,1973
+Cleveland Cavaliers,Chicago Bulls,Cleveland Cavaliers,21,39,60,98686800.0,1973
+Cleveland Cavaliers,Detroit Pistons,Cleveland Cavaliers,22,39,61,98773200.0,1973
+Cleveland Cavaliers,Cleveland Cavaliers,Buffalo Braves,23,39,62,98859600.0,1973
+Cleveland Cavaliers,Cleveland Cavaliers,Milwaukee Bucks,23,40,63,99032400.0,1973
+Cleveland Cavaliers,Cleveland Cavaliers,Portland Trail Blazers,24,40,64,99291600.0,1973
+Cleveland Cavaliers,Cleveland Cavaliers,Boston Celtics,24,41,65,99464400.0,1973
+Cleveland Cavaliers,Baltimore Bullets,Cleveland Cavaliers,24,42,66,99637200.0,1973
+Cleveland Cavaliers,Portland Trail Blazers,Cleveland Cavaliers,24,43,67,99896400.0,1973
+Cleveland Cavaliers,Los Angeles Lakers,Cleveland Cavaliers,24,44,68,100069200.0,1973
+Cleveland Cavaliers,Phoenix Suns,Cleveland Cavaliers,24,45,69,100242000.0,1973
+Cleveland Cavaliers,Cleveland Cavaliers,Houston Rockets,25,45,70,100328400.0,1973
+Cleveland Cavaliers,Houston Rockets,Cleveland Cavaliers,25,46,71,100587600.0,1973
+Cleveland Cavaliers,Cleveland Cavaliers,Atlanta Hawks,26,46,72,100846800.0,1973
+Cleveland Cavaliers,Cleveland Cavaliers,Kansas City-Omaha Kings,27,46,73,101106000.0,1973
+Cleveland Cavaliers,Buffalo Braves,Cleveland Cavaliers,28,46,74,101192400.0,1973
+Cleveland Cavaliers,Cleveland Cavaliers,Buffalo Braves,29,46,75,101278800.0,1973
+Cleveland Cavaliers,Cleveland Cavaliers,Philadelphia 76ers,30,46,76,101451600.0,1973
+Cleveland Cavaliers,Philadelphia 76ers,Cleveland Cavaliers,31,46,77,101538000.0,1973
+Cleveland Cavaliers,Cleveland Cavaliers,Baltimore Bullets,31,47,78,101710800.0,1973
+Cleveland Cavaliers,Baltimore Bullets,Cleveland Cavaliers,31,48,79,101797200.0,1973
+Cleveland Cavaliers,Cleveland Cavaliers,Chicago Bulls,32,48,80,101883600.0,1973
+Cleveland Cavaliers,Chicago Bulls,Cleveland Cavaliers,32,49,81,102056400.0,1973
+Cleveland Cavaliers,Cleveland Cavaliers,Detroit Pistons,32,50,82,102142800.0,1973
+Detroit Pistons,Detroit Pistons,Boston Celtics,0,1,1,87624000.0,1973
+Detroit Pistons,Detroit Pistons,Chicago Bulls,1,1,2,87796800.0,1973
+Detroit Pistons,Kansas City-Omaha Kings,Detroit Pistons,1,2,3,87883200.0,1973
+Detroit Pistons,Milwaukee Bucks,Detroit Pistons,1,3,4,88401600.0,1973
+Detroit Pistons,Detroit Pistons,Cleveland Cavaliers,2,3,5,88488000.0,1973
+Detroit Pistons,Detroit Pistons,Baltimore Bullets,2,4,6,88833600.0,1973
+Detroit Pistons,Houston Rockets,Detroit Pistons,2,5,7,89006400.0,1973
+Detroit Pistons,Portland Trail Blazers,Detroit Pistons,3,5,8,89179200.0,1973
+Detroit Pistons,Golden State Warriors,Detroit Pistons,3,6,9,89355600.0,1973
+Detroit Pistons,Seattle Supersonics,Detroit Pistons,4,6,10,89442000.0,1973
+Detroit Pistons,Los Angeles Lakers,Detroit Pistons,4,7,11,89614800.0,1973
+Detroit Pistons,Detroit Pistons,Houston Rockets,4,8,12,89701200.0,1973
+Detroit Pistons,Detroit Pistons,Golden State Warriors,5,8,13,90219600.0,1973
+Detroit Pistons,Boston Celtics,Detroit Pistons,5,9,14,90306000.0,1973
+Detroit Pistons,Detroit Pistons,Los Angeles Lakers,5,10,15,90651600.0,1973
+Detroit Pistons,Detroit Pistons,Chicago Bulls,6,10,16,90824400.0,1973
+Detroit Pistons,Detroit Pistons,Atlanta Hawks,7,10,17,91170000.0,1973
+Detroit Pistons,Phoenix Suns,Detroit Pistons,7,11,18,91342800.0,1973
+Detroit Pistons,Los Angeles Lakers,Detroit Pistons,7,12,19,91429200.0,1973
+Detroit Pistons,Seattle Supersonics,Detroit Pistons,7,13,20,91602000.0,1973
+Detroit Pistons,Detroit Pistons,Portland Trail Blazers,8,13,21,91774800.0,1973
+Detroit Pistons,Detroit Pistons,Buffalo Braves,9,13,22,91947600.0,1973
+Detroit Pistons,Cleveland Cavaliers,Detroit Pistons,10,13,23,92034000.0,1973
+Detroit Pistons,Chicago Bulls,Detroit Pistons,10,14,24,92379600.0,1973
+Detroit Pistons,Detroit Pistons,Phoenix Suns,11,14,25,92466000.0,1973
+Detroit Pistons,Detroit Pistons,Kansas City-Omaha Kings,12,14,26,92638800.0,1973
+Detroit Pistons,Milwaukee Bucks,Detroit Pistons,13,14,27,92725200.0,1973
+Detroit Pistons,Detroit Pistons,Golden State Warriors,13,15,28,93070800.0,1973
+Detroit Pistons,Kansas City-Omaha Kings,Detroit Pistons,13,16,29,93243600.0,1973
+Detroit Pistons,Detroit Pistons,Houston Rockets,13,17,30,93330000.0,1973
+Detroit Pistons,Detroit Pistons,Philadelphia 76ers,14,17,31,93675600.0,1973
+Detroit Pistons,Detroit Pistons,Seattle Supersonics,15,17,32,93848400.0,1973
+Detroit Pistons,Baltimore Bullets,Detroit Pistons,15,18,33,93934800.0,1973
+Detroit Pistons,New York Knicks,Detroit Pistons,15,19,34,94107600.0,1973
+Detroit Pistons,Detroit Pistons,Milwaukee Bucks,16,19,35,94194000.0,1973
+Detroit Pistons,Milwaukee Bucks,Detroit Pistons,16,20,36,94366800.0,1973
+Detroit Pistons,Detroit Pistons,New York Knicks,16,21,37,94453200.0,1973
+Detroit Pistons,Detroit Pistons,Phoenix Suns,17,21,38,94885200.0,1973
+Detroit Pistons,Kansas City-Omaha Kings,Detroit Pistons,17,22,39,95058000.0,1973
+Detroit Pistons,Detroit Pistons,Atlanta Hawks,17,23,40,95144400.0,1973
+Detroit Pistons,Portland Trail Blazers,Detroit Pistons,18,23,41,95230800.0,1973
+Detroit Pistons,Golden State Warriors,Detroit Pistons,18,24,42,95403600.0,1973
+Detroit Pistons,Phoenix Suns,Detroit Pistons,18,25,43,95490000.0,1973
+Detroit Pistons,Seattle Supersonics,Detroit Pistons,18,26,44,95662800.0,1973
+Detroit Pistons,Detroit Pistons,Portland Trail Blazers,19,26,45,95922000.0,1973
+Detroit Pistons,Atlanta Hawks,Detroit Pistons,19,27,46,96008400.0,1973
+Detroit Pistons,Detroit Pistons,Seattle Supersonics,19,28,47,96094800.0,1973
+Detroit Pistons,Buffalo Braves,Detroit Pistons,19,29,48,96267600.0,1973
+Detroit Pistons,Detroit Pistons,Chicago Bulls,20,29,49,96354000.0,1973
+Detroit Pistons,Detroit Pistons,Milwaukee Bucks,20,30,50,96872400.0,1973
+Detroit Pistons,Chicago Bulls,Detroit Pistons,20,31,51,97045200.0,1973
+Detroit Pistons,Atlanta Hawks,Detroit Pistons,21,31,52,97218000.0,1973
+Detroit Pistons,Detroit Pistons,New York Knicks,22,31,53,97304400.0,1973
+Detroit Pistons,Detroit Pistons,Philadelphia 76ers,23,31,54,97477200.0,1973
+Detroit Pistons,Buffalo Braves,Detroit Pistons,24,31,55,97822800.0,1973
+Detroit Pistons,Detroit Pistons,Phoenix Suns,25,31,56,97909200.0,1973
+Detroit Pistons,Boston Celtics,Detroit Pistons,26,31,57,98082000.0,1973
+Detroit Pistons,New York Knicks,Detroit Pistons,26,32,58,98168400.0,1973
+Detroit Pistons,Detroit Pistons,Milwaukee Bucks,26,33,59,98427600.0,1973
+Detroit Pistons,Philadelphia 76ers,Detroit Pistons,26,34,60,98686800.0,1973
+Detroit Pistons,Detroit Pistons,Cleveland Cavaliers,26,35,61,98773200.0,1973
+Detroit Pistons,Detroit Pistons,Kansas City-Omaha Kings,27,35,62,98859600.0,1973
+Detroit Pistons,Detroit Pistons,Los Angeles Lakers,28,35,63,99118800.0,1973
+Detroit Pistons,Detroit Pistons,Baltimore Bullets,29,35,64,99291600.0,1973
+Detroit Pistons,Detroit Pistons,Houston Rockets,30,35,65,99464400.0,1973
+Detroit Pistons,Detroit Pistons,Golden State Warriors,31,35,66,99637200.0,1973
+Detroit Pistons,Detroit Pistons,Boston Celtics,31,36,67,99896400.0,1973
+Detroit Pistons,Detroit Pistons,Seattle Supersonics,31,37,68,99982800.0,1973
+Detroit Pistons,Portland Trail Blazers,Detroit Pistons,32,37,69,100069200.0,1973
+Detroit Pistons,Golden State Warriors,Detroit Pistons,32,38,70,100242000.0,1973
+Detroit Pistons,Phoenix Suns,Detroit Pistons,33,38,71,100587600.0,1973
+Detroit Pistons,Los Angeles Lakers,Detroit Pistons,33,39,72,100674000.0,1973
+Detroit Pistons,Detroit Pistons,Los Angeles Lakers,33,40,73,100933200.0,1973
+Detroit Pistons,Detroit Pistons,Buffalo Braves,34,40,74,101106000.0,1973
+Detroit Pistons,Chicago Bulls,Detroit Pistons,35,40,75,101192400.0,1973
+Detroit Pistons,Detroit Pistons,Chicago Bulls,35,41,76,101278800.0,1973
+Detroit Pistons,Detroit Pistons,Milwaukee Bucks,35,42,77,101365200.0,1973
+Detroit Pistons,Detroit Pistons,Portland Trail Blazers,36,42,78,101538000.0,1973
+Detroit Pistons,Detroit Pistons,Kansas City-Omaha Kings,37,42,79,101797200.0,1973
+Detroit Pistons,Detroit Pistons,Philadelphia 76ers,38,42,80,101883600.0,1973
+Detroit Pistons,Baltimore Bullets,Detroit Pistons,39,42,81,102056400.0,1973
+Detroit Pistons,Cleveland Cavaliers,Detroit Pistons,40,42,82,102142800.0,1973
+Golden State Warriors,Golden State Warriors,Milwaukee Bucks,0,1,1,87883200.0,1973
+Golden State Warriors,Golden State Warriors,Baltimore Bullets,1,1,2,88056000.0,1973
+Golden State Warriors,Seattle Supersonics,Golden State Warriors,2,1,3,88401600.0,1973
+Golden State Warriors,Portland Trail Blazers,Golden State Warriors,3,1,4,88488000.0,1973
+Golden State Warriors,Golden State Warriors,Chicago Bulls,3,2,5,88920000.0,1973
+Golden State Warriors,Los Angeles Lakers,Golden State Warriors,4,2,6,89006400.0,1973
+Golden State Warriors,Golden State Warriors,Atlanta Hawks,5,2,7,89092800.0,1973
+Golden State Warriors,Golden State Warriors,Detroit Pistons,6,2,8,89355600.0,1973
+Golden State Warriors,Golden State Warriors,Portland Trail Blazers,7,2,9,89528400.0,1973
+Golden State Warriors,Golden State Warriors,New York Knicks,8,2,10,89701200.0,1973
+Golden State Warriors,Buffalo Braves,Golden State Warriors,9,2,11,89960400.0,1973
+Golden State Warriors,Boston Celtics,Golden State Warriors,9,3,12,90046800.0,1973
+Golden State Warriors,Detroit Pistons,Golden State Warriors,9,4,13,90219600.0,1973
+Golden State Warriors,New York Knicks,Golden State Warriors,10,4,14,90306000.0,1973
+Golden State Warriors,Atlanta Hawks,Golden State Warriors,11,4,15,90565200.0,1973
+Golden State Warriors,Golden State Warriors,Philadelphia 76ers,12,4,16,90738000.0,1973
+Golden State Warriors,Portland Trail Blazers,Golden State Warriors,12,5,17,90824400.0,1973
+Golden State Warriors,Golden State Warriors,Buffalo Braves,13,5,18,90910800.0,1973
+Golden State Warriors,Houston Rockets,Golden State Warriors,13,6,19,91256400.0,1973
+Golden State Warriors,Chicago Bulls,Golden State Warriors,13,7,20,91429200.0,1973
+Golden State Warriors,Kansas City-Omaha Kings,Golden State Warriors,14,7,21,91515600.0,1973
+Golden State Warriors,Golden State Warriors,Phoenix Suns,15,7,22,91774800.0,1973
+Golden State Warriors,Phoenix Suns,Golden State Warriors,15,8,23,92034000.0,1973
+Golden State Warriors,Golden State Warriors,Los Angeles Lakers,15,9,24,92120400.0,1973
+Golden State Warriors,Golden State Warriors,Houston Rockets,16,9,25,92379600.0,1973
+Golden State Warriors,Milwaukee Bucks,Golden State Warriors,16,10,26,92638800.0,1973
+Golden State Warriors,Cleveland Cavaliers,Golden State Warriors,17,10,27,92811600.0,1973
+Golden State Warriors,Detroit Pistons,Golden State Warriors,18,10,28,93070800.0,1973
+Golden State Warriors,Buffalo Braves,Golden State Warriors,19,10,29,93243600.0,1973
+Golden State Warriors,Baltimore Bullets,Golden State Warriors,19,11,30,93330000.0,1973
+Golden State Warriors,Golden State Warriors,Boston Celtics,20,11,31,93589200.0,1973
+Golden State Warriors,Golden State Warriors,Chicago Bulls,21,11,32,93934800.0,1973
+Golden State Warriors,Golden State Warriors,Seattle Supersonics,21,12,33,94194000.0,1973
+Golden State Warriors,Golden State Warriors,Cleveland Cavaliers,22,12,34,94366800.0,1973
+Golden State Warriors,Golden State Warriors,Kansas City-Omaha Kings,23,12,35,94539600.0,1973
+Golden State Warriors,Golden State Warriors,Los Angeles Lakers,24,12,36,94798800.0,1973
+Golden State Warriors,Golden State Warriors,Portland Trail Blazers,25,12,37,94971600.0,1973
+Golden State Warriors,Seattle Supersonics,Golden State Warriors,26,12,38,95058000.0,1973
+Golden State Warriors,Golden State Warriors,Philadelphia 76ers,27,12,39,95144400.0,1973
+Golden State Warriors,Golden State Warriors,Detroit Pistons,28,12,40,95403600.0,1973
+Golden State Warriors,Kansas City-Omaha Kings,Golden State Warriors,28,13,41,95576400.0,1973
+Golden State Warriors,Phoenix Suns,Golden State Warriors,29,13,42,95662800.0,1973
+Golden State Warriors,Golden State Warriors,Phoenix Suns,29,14,43,95749200.0,1973
+Golden State Warriors,Golden State Warriors,Cleveland Cavaliers,29,15,44,96008400.0,1973
+Golden State Warriors,Golden State Warriors,Houston Rockets,30,15,45,96094800.0,1973
+Golden State Warriors,Chicago Bulls,Golden State Warriors,31,15,46,96267600.0,1973
+Golden State Warriors,Milwaukee Bucks,Golden State Warriors,31,16,47,96440400.0,1973
+Golden State Warriors,Golden State Warriors,Kansas City-Omaha Kings,32,16,48,96786000.0,1973
+Golden State Warriors,Los Angeles Lakers,Golden State Warriors,32,17,49,96872400.0,1973
+Golden State Warriors,Golden State Warriors,Los Angeles Lakers,32,18,50,96958800.0,1973
+Golden State Warriors,New York Knicks,Golden State Warriors,32,19,51,97131600.0,1973
+Golden State Warriors,Baltimore Bullets,Golden State Warriors,32,20,52,97218000.0,1973
+Golden State Warriors,Philadelphia 76ers,Golden State Warriors,33,20,53,97304400.0,1973
+Golden State Warriors,Kansas City-Omaha Kings,Golden State Warriors,33,21,54,97390800.0,1973
+Golden State Warriors,Golden State Warriors,Seattle Supersonics,34,21,55,97563600.0,1973
+Golden State Warriors,Golden State Warriors,Portland Trail Blazers,35,21,56,97995600.0,1973
+Golden State Warriors,Milwaukee Bucks,Golden State Warriors,35,22,57,98168400.0,1973
+Golden State Warriors,Chicago Bulls,Golden State Warriors,36,22,58,98254800.0,1973
+Golden State Warriors,Cleveland Cavaliers,Golden State Warriors,37,22,59,98427600.0,1973
+Golden State Warriors,Golden State Warriors,Baltimore Bullets,37,23,60,98600400.0,1973
+Golden State Warriors,Seattle Supersonics,Golden State Warriors,37,24,61,98686800.0,1973
+Golden State Warriors,Golden State Warriors,Boston Celtics,37,25,62,98773200.0,1973
+Golden State Warriors,Golden State Warriors,Atlanta Hawks,38,25,63,99032400.0,1973
+Golden State Warriors,Los Angeles Lakers,Golden State Warriors,39,25,64,99291600.0,1973
+Golden State Warriors,Golden State Warriors,Milwaukee Bucks,40,25,65,99378000.0,1973
+Golden State Warriors,Detroit Pistons,Golden State Warriors,40,26,66,99637200.0,1973
+Golden State Warriors,Boston Celtics,Golden State Warriors,40,27,67,99723600.0,1973
+Golden State Warriors,Golden State Warriors,Kansas City-Omaha Kings,41,27,68,99896400.0,1973
+Golden State Warriors,Golden State Warriors,Chicago Bulls,41,28,69,99982800.0,1973
+Golden State Warriors,Golden State Warriors,Detroit Pistons,42,28,70,100242000.0,1973
+Golden State Warriors,Atlanta Hawks,Golden State Warriors,42,29,71,100587600.0,1973
+Golden State Warriors,Golden State Warriors,Philadelphia 76ers,43,29,72,100674000.0,1973
+Golden State Warriors,Portland Trail Blazers,Golden State Warriors,44,29,73,100846800.0,1973
+Golden State Warriors,Golden State Warriors,Houston Rockets,45,29,74,101019600.0,1973
+Golden State Warriors,Seattle Supersonics,Golden State Warriors,45,30,75,101106000.0,1973
+Golden State Warriors,Golden State Warriors,New York Knicks,45,31,76,101192400.0,1973
+Golden State Warriors,Golden State Warriors,Seattle Supersonics,46,31,77,101451600.0,1973
+Golden State Warriors,Golden State Warriors,Milwaukee Bucks,46,32,78,101624400.0,1973
+Golden State Warriors,Phoenix Suns,Golden State Warriors,46,33,79,101710800.0,1973
+Golden State Warriors,Golden State Warriors,Buffalo Braves,47,33,80,101797200.0,1973
+Golden State Warriors,Golden State Warriors,Phoenix Suns,47,34,81,101970000.0,1973
+Golden State Warriors,Golden State Warriors,Los Angeles Lakers,47,35,82,102142800.0,1973
+Houston Rockets,Cleveland Cavaliers,Houston Rockets,1,0,1,87796800.0,1973
+Houston Rockets,Buffalo Braves,Houston Rockets,2,0,2,87883200.0,1973
+Houston Rockets,New York Knicks,Houston Rockets,2,1,3,88142400.0,1973
+Houston Rockets,Houston Rockets,Atlanta Hawks,3,1,4,88401600.0,1973
+Houston Rockets,Houston Rockets,Chicago Bulls,3,2,5,88488000.0,1973
+Houston Rockets,Houston Rockets,Los Angeles Lakers,3,3,6,88833600.0,1973
+Houston Rockets,Houston Rockets,Detroit Pistons,4,3,7,89006400.0,1973
+Houston Rockets,Atlanta Hawks,Houston Rockets,5,3,8,89355600.0,1973
+Houston Rockets,Philadelphia 76ers,Houston Rockets,6,3,9,89442000.0,1973
+Houston Rockets,Houston Rockets,Atlanta Hawks,6,4,10,89614800.0,1973
+Houston Rockets,Detroit Pistons,Houston Rockets,7,4,11,89701200.0,1973
+Houston Rockets,Los Angeles Lakers,Houston Rockets,7,5,12,89960400.0,1973
+Houston Rockets,Phoenix Suns,Houston Rockets,7,6,13,90219600.0,1973
+Houston Rockets,Houston Rockets,Philadelphia 76ers,7,7,14,90306000.0,1973
+Houston Rockets,Baltimore Bullets,Houston Rockets,7,8,15,90565200.0,1973
+Houston Rockets,New York Knicks,Houston Rockets,7,9,16,90738000.0,1973
+Houston Rockets,Kansas City-Omaha Kings,Houston Rockets,7,10,17,90910800.0,1973
+Houston Rockets,Chicago Bulls,Houston Rockets,7,11,18,91170000.0,1973
+Houston Rockets,Houston Rockets,Golden State Warriors,8,11,19,91256400.0,1973
+Houston Rockets,Houston Rockets,Seattle Supersonics,9,11,20,91515600.0,1973
+Houston Rockets,Baltimore Bullets,Houston Rockets,9,12,21,91774800.0,1973
+Houston Rockets,Baltimore Bullets,Houston Rockets,10,12,22,91861200.0,1973
+Houston Rockets,Baltimore Bullets,Houston Rockets,10,13,23,92034000.0,1973
+Houston Rockets,Houston Rockets,Kansas City-Omaha Kings,10,14,24,92120400.0,1973
+Houston Rockets,Golden State Warriors,Houston Rockets,10,15,25,92379600.0,1973
+Houston Rockets,Houston Rockets,Portland Trail Blazers,11,15,26,92638800.0,1973
+Houston Rockets,Buffalo Braves,Houston Rockets,11,16,27,92984400.0,1973
+Houston Rockets,Baltimore Bullets,Houston Rockets,11,17,28,93243600.0,1973
+Houston Rockets,Detroit Pistons,Houston Rockets,12,17,29,93330000.0,1973
+Houston Rockets,Cleveland Cavaliers,Houston Rockets,13,17,30,93416400.0,1973
+Houston Rockets,Houston Rockets,New York Knicks,13,18,31,93675600.0,1973
+Houston Rockets,Houston Rockets,Philadelphia 76ers,14,18,32,93848400.0,1973
+Houston Rockets,Houston Rockets,Phoenix Suns,15,18,33,94194000.0,1973
+Houston Rockets,Houston Rockets,Los Angeles Lakers,16,18,34,94280400.0,1973
+Houston Rockets,Houston Rockets,Milwaukee Bucks,16,19,35,94453200.0,1973
+Houston Rockets,Houston Rockets,Boston Celtics,16,20,36,94798800.0,1973
+Houston Rockets,Houston Rockets,Boston Celtics,17,20,37,94885200.0,1973
+Houston Rockets,Chicago Bulls,Houston Rockets,17,21,38,94971600.0,1973
+Houston Rockets,New York Knicks,Houston Rockets,17,22,39,95144400.0,1973
+Houston Rockets,Cleveland Cavaliers,Houston Rockets,17,23,40,95230800.0,1973
+Houston Rockets,Atlanta Hawks,Houston Rockets,17,24,41,95403600.0,1973
+Houston Rockets,Boston Celtics,Houston Rockets,17,25,42,95490000.0,1973
+Houston Rockets,Houston Rockets,New York Knicks,17,26,43,95662800.0,1973
+Houston Rockets,Houston Rockets,Cleveland Cavaliers,17,27,44,95749200.0,1973
+Houston Rockets,Golden State Warriors,Houston Rockets,17,28,45,96094800.0,1973
+Houston Rockets,Houston Rockets,Cleveland Cavaliers,17,29,46,96267600.0,1973
+Houston Rockets,Houston Rockets,Portland Trail Blazers,17,30,47,96354000.0,1973
+Houston Rockets,Houston Rockets,New York Knicks,18,30,48,96440400.0,1973
+Houston Rockets,Houston Rockets,Milwaukee Bucks,19,30,49,96786000.0,1973
+Houston Rockets,Boston Celtics,Houston Rockets,19,31,50,96872400.0,1973
+Houston Rockets,Houston Rockets,Atlanta Hawks,20,31,51,97045200.0,1973
+Houston Rockets,Portland Trail Blazers,Houston Rockets,21,31,52,97218000.0,1973
+Houston Rockets,Seattle Supersonics,Houston Rockets,21,32,53,97304400.0,1973
+Houston Rockets,Los Angeles Lakers,Houston Rockets,21,33,54,97477200.0,1973
+Houston Rockets,Phoenix Suns,Houston Rockets,21,34,55,97563600.0,1973
+Houston Rockets,Buffalo Braves,Houston Rockets,22,34,56,97650000.0,1973
+Houston Rockets,Houston Rockets,Philadelphia 76ers,23,34,57,97822800.0,1973
+Houston Rockets,Houston Rockets,Kansas City-Omaha Kings,23,35,58,98082000.0,1973
+Houston Rockets,Atlanta Hawks,Houston Rockets,23,36,59,98168400.0,1973
+Houston Rockets,Kansas City-Omaha Kings,Houston Rockets,23,37,60,98427600.0,1973
+Houston Rockets,Milwaukee Bucks,Houston Rockets,23,38,61,98686800.0,1973
+Houston Rockets,Houston Rockets,Phoenix Suns,24,38,62,98773200.0,1973
+Houston Rockets,Houston Rockets,Chicago Bulls,24,39,63,98859600.0,1973
+Houston Rockets,Houston Rockets,Seattle Supersonics,25,39,64,99118800.0,1973
+Houston Rockets,Houston Rockets,Philadelphia 76ers,26,39,65,99291600.0,1973
+Houston Rockets,Detroit Pistons,Houston Rockets,26,40,66,99464400.0,1973
+Houston Rockets,Buffalo Braves,Houston Rockets,27,40,67,99637200.0,1973
+Houston Rockets,Atlanta Hawks,Houston Rockets,27,41,68,99982800.0,1973
+Houston Rockets,Houston Rockets,Milwaukee Bucks,27,42,69,100069200.0,1973
+Houston Rockets,Cleveland Cavaliers,Houston Rockets,27,43,70,100328400.0,1973
+Houston Rockets,Houston Rockets,Baltimore Bullets,27,44,71,100501200.0,1973
+Houston Rockets,Houston Rockets,Cleveland Cavaliers,28,44,72,100587600.0,1973
+Houston Rockets,Houston Rockets,Atlanta Hawks,29,44,73,100674000.0,1973
+Houston Rockets,Golden State Warriors,Houston Rockets,29,45,74,101019600.0,1973
+Houston Rockets,Portland Trail Blazers,Houston Rockets,29,46,75,101106000.0,1973
+Houston Rockets,Seattle Supersonics,Houston Rockets,29,47,76,101278800.0,1973
+Houston Rockets,Boston Celtics,Houston Rockets,29,48,77,101451600.0,1973
+Houston Rockets,Baltimore Bullets,Houston Rockets,30,48,78,101538000.0,1973
+Houston Rockets,Philadelphia 76ers,Houston Rockets,31,48,79,101710800.0,1973
+Houston Rockets,Houston Rockets,Boston Celtics,31,49,80,101883600.0,1973
+Houston Rockets,Buffalo Braves,Houston Rockets,32,49,81,102056400.0,1973
+Houston Rockets,Buffalo Braves,Houston Rockets,33,49,82,102142800.0,1973
+Kansas City-Omaha Kings,Kansas City-Omaha Kings,Los Angeles Lakers,0,1,1,87624000.0,1973
+Kansas City-Omaha Kings,Kansas City-Omaha Kings,Detroit Pistons,1,1,2,87883200.0,1973
+Kansas City-Omaha Kings,Kansas City-Omaha Kings,Baltimore Bullets,1,2,3,88315200.0,1973
+Kansas City-Omaha Kings,Kansas City-Omaha Kings,Atlanta Hawks,2,2,4,88488000.0,1973
+Kansas City-Omaha Kings,Kansas City-Omaha Kings,Los Angeles Lakers,2,3,5,88747200.0,1973
+Kansas City-Omaha Kings,Kansas City-Omaha Kings,Milwaukee Bucks,2,4,6,88920000.0,1973
+Kansas City-Omaha Kings,Buffalo Braves,Kansas City-Omaha Kings,3,4,7,89092800.0,1973
+Kansas City-Omaha Kings,Cleveland Cavaliers,Kansas City-Omaha Kings,3,5,8,89179200.0,1973
+Kansas City-Omaha Kings,Chicago Bulls,Kansas City-Omaha Kings,3,6,9,89355600.0,1973
+Kansas City-Omaha Kings,Kansas City-Omaha Kings,New York Knicks,3,7,10,89442000.0,1973
+Kansas City-Omaha Kings,Philadelphia 76ers,Kansas City-Omaha Kings,4,7,11,89614800.0,1973
+Kansas City-Omaha Kings,Boston Celtics,Kansas City-Omaha Kings,5,7,12,89701200.0,1973
+Kansas City-Omaha Kings,Kansas City-Omaha Kings,Philadelphia 76ers,6,7,13,90046800.0,1973
+Kansas City-Omaha Kings,Seattle Supersonics,Kansas City-Omaha Kings,7,7,14,90219600.0,1973
+Kansas City-Omaha Kings,Portland Trail Blazers,Kansas City-Omaha Kings,7,8,15,90392400.0,1973
+Kansas City-Omaha Kings,Kansas City-Omaha Kings,Buffalo Braves,8,8,16,90565200.0,1973
+Kansas City-Omaha Kings,Kansas City-Omaha Kings,Seattle Supersonics,9,8,17,90651600.0,1973
+Kansas City-Omaha Kings,Kansas City-Omaha Kings,Cleveland Cavaliers,10,8,18,90824400.0,1973
+Kansas City-Omaha Kings,Kansas City-Omaha Kings,Houston Rockets,11,8,19,90910800.0,1973
+Kansas City-Omaha Kings,Kansas City-Omaha Kings,Phoenix Suns,12,8,20,91170000.0,1973
+Kansas City-Omaha Kings,Milwaukee Bucks,Kansas City-Omaha Kings,12,9,21,91429200.0,1973
+Kansas City-Omaha Kings,Kansas City-Omaha Kings,Golden State Warriors,12,10,22,91515600.0,1973
+Kansas City-Omaha Kings,Chicago Bulls,Kansas City-Omaha Kings,13,10,23,91774800.0,1973
+Kansas City-Omaha Kings,Kansas City-Omaha Kings,Portland Trail Blazers,14,10,24,91861200.0,1973
+Kansas City-Omaha Kings,Kansas City-Omaha Kings,Chicago Bulls,14,11,25,92034000.0,1973
+Kansas City-Omaha Kings,Houston Rockets,Kansas City-Omaha Kings,15,11,26,92120400.0,1973
+Kansas City-Omaha Kings,New York Knicks,Kansas City-Omaha Kings,15,12,27,92379600.0,1973
+Kansas City-Omaha Kings,Philadelphia 76ers,Kansas City-Omaha Kings,15,13,28,92466000.0,1973
+Kansas City-Omaha Kings,Detroit Pistons,Kansas City-Omaha Kings,15,14,29,92638800.0,1973
+Kansas City-Omaha Kings,Baltimore Bullets,Kansas City-Omaha Kings,15,15,30,92725200.0,1973
+Kansas City-Omaha Kings,Kansas City-Omaha Kings,Atlanta Hawks,16,15,31,92811600.0,1973
+Kansas City-Omaha Kings,Kansas City-Omaha Kings,Cleveland Cavaliers,17,15,32,92984400.0,1973
+Kansas City-Omaha Kings,Kansas City-Omaha Kings,Detroit Pistons,18,15,33,93243600.0,1973
+Kansas City-Omaha Kings,Phoenix Suns,Kansas City-Omaha Kings,18,16,34,93416400.0,1973
+Kansas City-Omaha Kings,Kansas City-Omaha Kings,Portland Trail Blazers,19,16,35,93502800.0,1973
+Kansas City-Omaha Kings,Atlanta Hawks,Kansas City-Omaha Kings,19,17,36,93589200.0,1973
+Kansas City-Omaha Kings,Kansas City-Omaha Kings,Seattle Supersonics,20,17,37,93675600.0,1973
+Kansas City-Omaha Kings,Kansas City-Omaha Kings,Boston Celtics,20,18,38,93848400.0,1973
+Kansas City-Omaha Kings,Kansas City-Omaha Kings,Milwaukee Bucks,20,19,39,94107600.0,1973
+Kansas City-Omaha Kings,Chicago Bulls,Kansas City-Omaha Kings,20,20,40,94194000.0,1973
+Kansas City-Omaha Kings,Los Angeles Lakers,Kansas City-Omaha Kings,20,21,41,94453200.0,1973
+Kansas City-Omaha Kings,Golden State Warriors,Kansas City-Omaha Kings,20,22,42,94539600.0,1973
+Kansas City-Omaha Kings,Portland Trail Blazers,Kansas City-Omaha Kings,20,23,43,94798800.0,1973
+Kansas City-Omaha Kings,Seattle Supersonics,Kansas City-Omaha Kings,20,24,44,94885200.0,1973
+Kansas City-Omaha Kings,Kansas City-Omaha Kings,Detroit Pistons,21,24,45,95058000.0,1973
+Kansas City-Omaha Kings,Kansas City-Omaha Kings,Phoenix Suns,21,25,46,95144400.0,1973
+Kansas City-Omaha Kings,Kansas City-Omaha Kings,New York Knicks,21,26,47,95403600.0,1973
+Kansas City-Omaha Kings,Kansas City-Omaha Kings,Chicago Bulls,22,26,48,95490000.0,1973
+Kansas City-Omaha Kings,Kansas City-Omaha Kings,Golden State Warriors,23,26,49,95576400.0,1973
+Kansas City-Omaha Kings,Milwaukee Bucks,Kansas City-Omaha Kings,23,27,50,95662800.0,1973
+Kansas City-Omaha Kings,Kansas City-Omaha Kings,Philadelphia 76ers,24,27,51,95922000.0,1973
+Kansas City-Omaha Kings,Kansas City-Omaha Kings,Seattle Supersonics,24,28,52,96008400.0,1973
+Kansas City-Omaha Kings,Phoenix Suns,Kansas City-Omaha Kings,25,28,53,96181200.0,1973
+Kansas City-Omaha Kings,Los Angeles Lakers,Kansas City-Omaha Kings,25,29,54,96440400.0,1973
+Kansas City-Omaha Kings,Golden State Warriors,Kansas City-Omaha Kings,25,30,55,96786000.0,1973
+Kansas City-Omaha Kings,Atlanta Hawks,Kansas City-Omaha Kings,25,31,56,96958800.0,1973
+Kansas City-Omaha Kings,Kansas City-Omaha Kings,Golden State Warriors,26,31,57,97390800.0,1973
+Kansas City-Omaha Kings,Portland Trail Blazers,Kansas City-Omaha Kings,27,31,58,97563600.0,1973
+Kansas City-Omaha Kings,Seattle Supersonics,Kansas City-Omaha Kings,28,31,59,97650000.0,1973
+Kansas City-Omaha Kings,Chicago Bulls,Kansas City-Omaha Kings,28,32,60,97822800.0,1973
+Kansas City-Omaha Kings,Kansas City-Omaha Kings,Milwaukee Bucks,29,32,61,97909200.0,1973
+Kansas City-Omaha Kings,Houston Rockets,Kansas City-Omaha Kings,30,32,62,98082000.0,1973
+Kansas City-Omaha Kings,Kansas City-Omaha Kings,Chicago Bulls,30,33,63,98168400.0,1973
+Kansas City-Omaha Kings,Kansas City-Omaha Kings,Houston Rockets,31,33,64,98427600.0,1973
+Kansas City-Omaha Kings,Kansas City-Omaha Kings,Boston Celtics,31,34,65,98514000.0,1973
+Kansas City-Omaha Kings,Milwaukee Bucks,Kansas City-Omaha Kings,31,35,66,98773200.0,1973
+Kansas City-Omaha Kings,Detroit Pistons,Kansas City-Omaha Kings,31,36,67,98859600.0,1973
+Kansas City-Omaha Kings,Buffalo Braves,Kansas City-Omaha Kings,31,37,68,99032400.0,1973
+Kansas City-Omaha Kings,Kansas City-Omaha Kings,Milwaukee Bucks,31,38,69,99205200.0,1973
+Kansas City-Omaha Kings,Kansas City-Omaha Kings,Phoenix Suns,31,39,70,99464400.0,1973
+Kansas City-Omaha Kings,Los Angeles Lakers,Kansas City-Omaha Kings,32,39,71,99637200.0,1973
+Kansas City-Omaha Kings,Phoenix Suns,Kansas City-Omaha Kings,33,39,72,99723600.0,1973
+Kansas City-Omaha Kings,Golden State Warriors,Kansas City-Omaha Kings,33,40,73,99896400.0,1973
+Kansas City-Omaha Kings,Kansas City-Omaha Kings,Baltimore Bullets,34,40,74,100414800.0,1973
+Kansas City-Omaha Kings,New York Knicks,Kansas City-Omaha Kings,34,41,75,100587600.0,1973
+Kansas City-Omaha Kings,Baltimore Bullets,Kansas City-Omaha Kings,34,42,76,100846800.0,1973
+Kansas City-Omaha Kings,Cleveland Cavaliers,Kansas City-Omaha Kings,34,43,77,101106000.0,1973
+Kansas City-Omaha Kings,Boston Celtics,Kansas City-Omaha Kings,34,44,78,101278800.0,1973
+Kansas City-Omaha Kings,Kansas City-Omaha Kings,Portland Trail Blazers,35,44,79,101365200.0,1973
+Kansas City-Omaha Kings,Kansas City-Omaha Kings,Buffalo Braves,36,44,80,101451600.0,1973
+Kansas City-Omaha Kings,Kansas City-Omaha Kings,Los Angeles Lakers,36,45,81,101538000.0,1973
+Kansas City-Omaha Kings,Detroit Pistons,Kansas City-Omaha Kings,36,46,82,101797200.0,1973
+Los Angeles Lakers,Kansas City-Omaha Kings,Los Angeles Lakers,1,0,1,87624000.0,1973
+Los Angeles Lakers,Boston Celtics,Los Angeles Lakers,1,1,2,87796800.0,1973
+Los Angeles Lakers,New York Knicks,Los Angeles Lakers,1,2,3,87883200.0,1973
+Los Angeles Lakers,Cleveland Cavaliers,Los Angeles Lakers,2,2,4,87969600.0,1973
+Los Angeles Lakers,Los Angeles Lakers,Portland Trail Blazers,3,2,5,88401600.0,1973
+Los Angeles Lakers,Los Angeles Lakers,Chicago Bulls,4,2,6,88574400.0,1973
+Los Angeles Lakers,Kansas City-Omaha Kings,Los Angeles Lakers,5,2,7,88747200.0,1973
+Los Angeles Lakers,Houston Rockets,Los Angeles Lakers,6,2,8,88833600.0,1973
+Los Angeles Lakers,Los Angeles Lakers,Golden State Warriors,6,3,9,89006400.0,1973
+Los Angeles Lakers,Los Angeles Lakers,Phoenix Suns,7,3,10,89179200.0,1973
+Los Angeles Lakers,Los Angeles Lakers,Detroit Pistons,8,3,11,89614800.0,1973
+Los Angeles Lakers,Portland Trail Blazers,Los Angeles Lakers,9,3,12,89701200.0,1973
+Los Angeles Lakers,Seattle Supersonics,Los Angeles Lakers,10,3,13,89787600.0,1973
+Los Angeles Lakers,Los Angeles Lakers,Houston Rockets,11,3,14,89960400.0,1973
+Los Angeles Lakers,Los Angeles Lakers,Cleveland Cavaliers,12,3,15,90219600.0,1973
+Los Angeles Lakers,Milwaukee Bucks,Los Angeles Lakers,13,3,16,90565200.0,1973
+Los Angeles Lakers,Detroit Pistons,Los Angeles Lakers,14,3,17,90651600.0,1973
+Los Angeles Lakers,Los Angeles Lakers,Buffalo Braves,15,3,18,90824400.0,1973
+Los Angeles Lakers,Los Angeles Lakers,Philadelphia 76ers,16,3,19,90997200.0,1973
+Los Angeles Lakers,Los Angeles Lakers,Detroit Pistons,17,3,20,91429200.0,1973
+Los Angeles Lakers,Phoenix Suns,Los Angeles Lakers,18,3,21,91515600.0,1973
+Los Angeles Lakers,Los Angeles Lakers,Phoenix Suns,19,3,22,91602000.0,1973
+Los Angeles Lakers,Los Angeles Lakers,Atlanta Hawks,19,4,23,92034000.0,1973
+Los Angeles Lakers,Golden State Warriors,Los Angeles Lakers,20,4,24,92120400.0,1973
+Los Angeles Lakers,Los Angeles Lakers,Milwaukee Bucks,21,4,25,92379600.0,1973
+Los Angeles Lakers,Los Angeles Lakers,Seattle Supersonics,22,4,26,92638800.0,1973
+Los Angeles Lakers,Los Angeles Lakers,Portland Trail Blazers,23,4,27,92811600.0,1973
+Los Angeles Lakers,Chicago Bulls,Los Angeles Lakers,24,4,28,92984400.0,1973
+Los Angeles Lakers,Philadelphia 76ers,Los Angeles Lakers,25,4,29,93070800.0,1973
+Los Angeles Lakers,Los Angeles Lakers,Boston Celtics,25,5,30,93243600.0,1973
+Los Angeles Lakers,Buffalo Braves,Los Angeles Lakers,26,5,31,93589200.0,1973
+Los Angeles Lakers,Baltimore Bullets,Los Angeles Lakers,27,5,32,93675600.0,1973
+Los Angeles Lakers,Los Angeles Lakers,Phoenix Suns,27,6,33,93848400.0,1973
+Los Angeles Lakers,Los Angeles Lakers,Portland Trail Blazers,28,6,34,94194000.0,1973
+Los Angeles Lakers,Houston Rockets,Los Angeles Lakers,28,7,35,94280400.0,1973
+Los Angeles Lakers,Los Angeles Lakers,Kansas City-Omaha Kings,29,7,36,94453200.0,1973
+Los Angeles Lakers,Seattle Supersonics,Los Angeles Lakers,30,7,37,94712400.0,1973
+Los Angeles Lakers,Golden State Warriors,Los Angeles Lakers,30,8,38,94798800.0,1973
+Los Angeles Lakers,Cleveland Cavaliers,Los Angeles Lakers,30,9,39,95144400.0,1973
+Los Angeles Lakers,Milwaukee Bucks,Los Angeles Lakers,30,10,40,95230800.0,1973
+Los Angeles Lakers,Philadelphia 76ers,Los Angeles Lakers,31,10,41,95490000.0,1973
+Los Angeles Lakers,Chicago Bulls,Los Angeles Lakers,32,10,42,95662800.0,1973
+Los Angeles Lakers,Atlanta Hawks,Los Angeles Lakers,33,10,43,95835600.0,1973
+Los Angeles Lakers,Los Angeles Lakers,Baltimore Bullets,33,11,44,96008400.0,1973
+Los Angeles Lakers,Los Angeles Lakers,New York Knicks,34,11,45,96267600.0,1973
+Los Angeles Lakers,Phoenix Suns,Los Angeles Lakers,35,11,46,96354000.0,1973
+Los Angeles Lakers,Los Angeles Lakers,Kansas City-Omaha Kings,36,11,47,96440400.0,1973
+Los Angeles Lakers,Los Angeles Lakers,Golden State Warriors,37,11,48,96872400.0,1973
+Los Angeles Lakers,Golden State Warriors,Los Angeles Lakers,38,11,49,96958800.0,1973
+Los Angeles Lakers,Los Angeles Lakers,Seattle Supersonics,39,11,50,97045200.0,1973
+Los Angeles Lakers,Los Angeles Lakers,Chicago Bulls,40,11,51,97218000.0,1973
+Los Angeles Lakers,Phoenix Suns,Los Angeles Lakers,41,11,52,97390800.0,1973
+Los Angeles Lakers,Los Angeles Lakers,Houston Rockets,42,11,53,97477200.0,1973
+Los Angeles Lakers,Baltimore Bullets,Los Angeles Lakers,43,11,54,97650000.0,1973
+Los Angeles Lakers,New York Knicks,Los Angeles Lakers,44,11,55,97822800.0,1973
+Los Angeles Lakers,Boston Celtics,Los Angeles Lakers,44,12,56,97909200.0,1973
+Los Angeles Lakers,Milwaukee Bucks,Los Angeles Lakers,44,13,57,98082000.0,1973
+Los Angeles Lakers,Los Angeles Lakers,Philadelphia 76ers,45,13,58,98254800.0,1973
+Los Angeles Lakers,Los Angeles Lakers,Seattle Supersonics,46,13,59,98427600.0,1973
+Los Angeles Lakers,Los Angeles Lakers,Baltimore Bullets,47,13,60,98686800.0,1973
+Los Angeles Lakers,Portland Trail Blazers,Los Angeles Lakers,48,13,61,98773200.0,1973
+Los Angeles Lakers,Los Angeles Lakers,Atlanta Hawks,48,14,62,98859600.0,1973
+Los Angeles Lakers,Chicago Bulls,Los Angeles Lakers,48,15,63,99032400.0,1973
+Los Angeles Lakers,Detroit Pistons,Los Angeles Lakers,48,16,64,99118800.0,1973
+Los Angeles Lakers,Los Angeles Lakers,Golden State Warriors,48,17,65,99291600.0,1973
+Los Angeles Lakers,Los Angeles Lakers,Milwaukee Bucks,49,17,66,99464400.0,1973
+Los Angeles Lakers,Los Angeles Lakers,Kansas City-Omaha Kings,49,18,67,99637200.0,1973
+Los Angeles Lakers,Los Angeles Lakers,Chicago Bulls,50,18,68,99896400.0,1973
+Los Angeles Lakers,Los Angeles Lakers,Cleveland Cavaliers,51,18,69,100069200.0,1973
+Los Angeles Lakers,Portland Trail Blazers,Los Angeles Lakers,52,18,70,100242000.0,1973
+Los Angeles Lakers,Los Angeles Lakers,Boston Celtics,52,19,71,100501200.0,1973
+Los Angeles Lakers,Los Angeles Lakers,Detroit Pistons,53,19,72,100674000.0,1973
+Los Angeles Lakers,Buffalo Braves,Los Angeles Lakers,54,19,73,100846800.0,1973
+Los Angeles Lakers,Detroit Pistons,Los Angeles Lakers,55,19,74,100933200.0,1973
+Los Angeles Lakers,Los Angeles Lakers,New York Knicks,55,20,75,101106000.0,1973
+Los Angeles Lakers,Los Angeles Lakers,Phoenix Suns,56,20,76,101278800.0,1973
+Los Angeles Lakers,Atlanta Hawks,Los Angeles Lakers,56,21,77,101451600.0,1973
+Los Angeles Lakers,Kansas City-Omaha Kings,Los Angeles Lakers,57,21,78,101538000.0,1973
+Los Angeles Lakers,Los Angeles Lakers,Buffalo Braves,58,21,79,101710800.0,1973
+Los Angeles Lakers,Seattle Supersonics,Los Angeles Lakers,59,21,80,101883600.0,1973
+Los Angeles Lakers,Los Angeles Lakers,Milwaukee Bucks,59,22,81,102056400.0,1973
+Los Angeles Lakers,Golden State Warriors,Los Angeles Lakers,60,22,82,102142800.0,1973
+Milwaukee Bucks,Phoenix Suns,Milwaukee Bucks,1,0,1,87796800.0,1973
+Milwaukee Bucks,Golden State Warriors,Milwaukee Bucks,2,0,2,87883200.0,1973
+Milwaukee Bucks,Portland Trail Blazers,Milwaukee Bucks,2,1,3,88142400.0,1973
+Milwaukee Bucks,Milwaukee Bucks,Detroit Pistons,3,1,4,88401600.0,1973
+Milwaukee Bucks,Buffalo Braves,Milwaukee Bucks,4,1,5,88488000.0,1973
+Milwaukee Bucks,Cleveland Cavaliers,Milwaukee Bucks,5,1,6,88574400.0,1973
+Milwaukee Bucks,Milwaukee Bucks,Buffalo Braves,6,1,7,88833600.0,1973
+Milwaukee Bucks,Kansas City-Omaha Kings,Milwaukee Bucks,7,1,8,88920000.0,1973
+Milwaukee Bucks,Philadelphia 76ers,Milwaukee Bucks,8,1,9,89092800.0,1973
+Milwaukee Bucks,Milwaukee Bucks,Phoenix Suns,8,2,10,89701200.0,1973
+Milwaukee Bucks,Milwaukee Bucks,Philadelphia 76ers,9,2,11,89787600.0,1973
+Milwaukee Bucks,Milwaukee Bucks,Seattle Supersonics,10,2,12,90046800.0,1973
+Milwaukee Bucks,Milwaukee Bucks,Baltimore Bullets,11,2,13,90219600.0,1973
+Milwaukee Bucks,Atlanta Hawks,Milwaukee Bucks,11,3,14,90306000.0,1973
+Milwaukee Bucks,Milwaukee Bucks,Los Angeles Lakers,11,4,15,90565200.0,1973
+Milwaukee Bucks,Boston Celtics,Milwaukee Bucks,12,4,16,90824400.0,1973
+Milwaukee Bucks,New York Knicks,Milwaukee Bucks,12,5,17,90910800.0,1973
+Milwaukee Bucks,Milwaukee Bucks,Boston Celtics,12,6,18,91170000.0,1973
+Milwaukee Bucks,Milwaukee Bucks,Kansas City-Omaha Kings,13,6,19,91429200.0,1973
+Milwaukee Bucks,Baltimore Bullets,Milwaukee Bucks,14,6,20,91515600.0,1973
+Milwaukee Bucks,Milwaukee Bucks,Atlanta Hawks,15,6,21,91602000.0,1973
+Milwaukee Bucks,Milwaukee Bucks,Chicago Bulls,16,6,22,91861200.0,1973
+Milwaukee Bucks,Milwaukee Bucks,New York Knicks,17,6,23,92034000.0,1973
+Milwaukee Bucks,Phoenix Suns,Milwaukee Bucks,18,6,24,92206800.0,1973
+Milwaukee Bucks,Los Angeles Lakers,Milwaukee Bucks,18,7,25,92379600.0,1973
+Milwaukee Bucks,Seattle Supersonics,Milwaukee Bucks,18,8,26,92466000.0,1973
+Milwaukee Bucks,Milwaukee Bucks,Golden State Warriors,19,8,27,92638800.0,1973
+Milwaukee Bucks,Milwaukee Bucks,Detroit Pistons,19,9,28,92725200.0,1973
+Milwaukee Bucks,Portland Trail Blazers,Milwaukee Bucks,20,9,29,92984400.0,1973
+Milwaukee Bucks,Seattle Supersonics,Milwaukee Bucks,21,9,30,93070800.0,1973
+Milwaukee Bucks,Milwaukee Bucks,Cleveland Cavaliers,22,9,31,93243600.0,1973
+Milwaukee Bucks,Milwaukee Bucks,Seattle Supersonics,23,9,32,93589200.0,1973
+Milwaukee Bucks,Milwaukee Bucks,Portland Trail Blazers,24,9,33,93675600.0,1973
+Milwaukee Bucks,Milwaukee Bucks,Boston Celtics,25,9,34,93934800.0,1973
+Milwaukee Bucks,Kansas City-Omaha Kings,Milwaukee Bucks,26,9,35,94107600.0,1973
+Milwaukee Bucks,Detroit Pistons,Milwaukee Bucks,26,10,36,94194000.0,1973
+Milwaukee Bucks,Milwaukee Bucks,Detroit Pistons,27,10,37,94366800.0,1973
+Milwaukee Bucks,Houston Rockets,Milwaukee Bucks,28,10,38,94453200.0,1973
+Milwaukee Bucks,Chicago Bulls,Milwaukee Bucks,28,11,39,94539600.0,1973
+Milwaukee Bucks,Milwaukee Bucks,Baltimore Bullets,28,12,40,94712400.0,1973
+Milwaukee Bucks,New York Knicks,Milwaukee Bucks,28,13,41,94798800.0,1973
+Milwaukee Bucks,Milwaukee Bucks,Atlanta Hawks,29,13,42,94885200.0,1973
+Milwaukee Bucks,Milwaukee Bucks,Buffalo Braves,30,13,43,95144400.0,1973
+Milwaukee Bucks,Milwaukee Bucks,Los Angeles Lakers,31,13,44,95230800.0,1973
+Milwaukee Bucks,Milwaukee Bucks,Kansas City-Omaha Kings,32,13,45,95662800.0,1973
+Milwaukee Bucks,Milwaukee Bucks,Chicago Bulls,33,13,46,95835600.0,1973
+Milwaukee Bucks,Milwaukee Bucks,Philadelphia 76ers,34,13,47,96008400.0,1973
+Milwaukee Bucks,Milwaukee Bucks,Portland Trail Blazers,35,13,48,96267600.0,1973
+Milwaukee Bucks,Milwaukee Bucks,Golden State Warriors,36,13,49,96440400.0,1973
+Milwaukee Bucks,Houston Rockets,Milwaukee Bucks,36,14,50,96786000.0,1973
+Milwaukee Bucks,Detroit Pistons,Milwaukee Bucks,37,14,51,96872400.0,1973
+Milwaukee Bucks,Cleveland Cavaliers,Milwaukee Bucks,37,15,52,97218000.0,1973
+Milwaukee Bucks,Buffalo Braves,Milwaukee Bucks,38,15,53,97477200.0,1973
+Milwaukee Bucks,Chicago Bulls,Milwaukee Bucks,38,16,54,97650000.0,1973
+Milwaukee Bucks,Milwaukee Bucks,Phoenix Suns,39,16,55,97822800.0,1973
+Milwaukee Bucks,Kansas City-Omaha Kings,Milwaukee Bucks,39,17,56,97909200.0,1973
+Milwaukee Bucks,Milwaukee Bucks,Los Angeles Lakers,40,17,57,98082000.0,1973
+Milwaukee Bucks,Milwaukee Bucks,Golden State Warriors,41,17,58,98168400.0,1973
+Milwaukee Bucks,Boston Celtics,Milwaukee Bucks,41,18,59,98254800.0,1973
+Milwaukee Bucks,Detroit Pistons,Milwaukee Bucks,42,18,60,98427600.0,1973
+Milwaukee Bucks,Philadelphia 76ers,Milwaukee Bucks,42,19,61,98514000.0,1973
+Milwaukee Bucks,Milwaukee Bucks,Houston Rockets,43,19,62,98686800.0,1973
+Milwaukee Bucks,Milwaukee Bucks,Kansas City-Omaha Kings,44,19,63,98773200.0,1973
+Milwaukee Bucks,Baltimore Bullets,Milwaukee Bucks,44,20,64,98859600.0,1973
+Milwaukee Bucks,Cleveland Cavaliers,Milwaukee Bucks,45,20,65,99032400.0,1973
+Milwaukee Bucks,Kansas City-Omaha Kings,Milwaukee Bucks,46,20,66,99205200.0,1973
+Milwaukee Bucks,Golden State Warriors,Milwaukee Bucks,46,21,67,99378000.0,1973
+Milwaukee Bucks,Los Angeles Lakers,Milwaukee Bucks,46,22,68,99464400.0,1973
+Milwaukee Bucks,Milwaukee Bucks,Seattle Supersonics,47,22,69,99723600.0,1973
+Milwaukee Bucks,Milwaukee Bucks,New York Knicks,48,22,70,99810000.0,1973
+Milwaukee Bucks,Houston Rockets,Milwaukee Bucks,49,22,71,100069200.0,1973
+Milwaukee Bucks,Milwaukee Bucks,Chicago Bulls,50,22,72,100242000.0,1973
+Milwaukee Bucks,Milwaukee Bucks,Portland Trail Blazers,51,22,73,100501200.0,1973
+Milwaukee Bucks,Milwaukee Bucks,Phoenix Suns,52,22,74,100760400.0,1973
+Milwaukee Bucks,Chicago Bulls,Milwaukee Bucks,53,22,75,101106000.0,1973
+Milwaukee Bucks,Atlanta Hawks,Milwaukee Bucks,54,22,76,101278800.0,1973
+Milwaukee Bucks,Detroit Pistons,Milwaukee Bucks,55,22,77,101365200.0,1973
+Milwaukee Bucks,Seattle Supersonics,Milwaukee Bucks,56,22,78,101538000.0,1973
+Milwaukee Bucks,Golden State Warriors,Milwaukee Bucks,57,22,79,101624400.0,1973
+Milwaukee Bucks,Phoenix Suns,Milwaukee Bucks,58,22,80,101883600.0,1973
+Milwaukee Bucks,Portland Trail Blazers,Milwaukee Bucks,59,22,81,101970000.0,1973
+Milwaukee Bucks,Los Angeles Lakers,Milwaukee Bucks,60,22,82,102056400.0,1973
+New York Knicks,New York Knicks,Seattle Supersonics,1,0,1,87537600.0,1973
+New York Knicks,New York Knicks,Los Angeles Lakers,2,0,2,87883200.0,1973
+New York Knicks,Atlanta Hawks,New York Knicks,2,1,3,87969600.0,1973
+New York Knicks,New York Knicks,Houston Rockets,3,1,4,88142400.0,1973
+New York Knicks,Cleveland Cavaliers,New York Knicks,4,1,5,88401600.0,1973
+New York Knicks,New York Knicks,Philadelphia 76ers,5,1,6,88488000.0,1973
+New York Knicks,New York Knicks,Cleveland Cavaliers,6,1,7,88747200.0,1973
+New York Knicks,Baltimore Bullets,New York Knicks,7,1,8,89006400.0,1973
+New York Knicks,New York Knicks,Baltimore Bullets,8,1,9,89092800.0,1973
+New York Knicks,Kansas City-Omaha Kings,New York Knicks,9,1,10,89442000.0,1973
+New York Knicks,Seattle Supersonics,New York Knicks,10,1,11,89614800.0,1973
+New York Knicks,Golden State Warriors,New York Knicks,10,2,12,89701200.0,1973
+New York Knicks,Portland Trail Blazers,New York Knicks,11,2,13,89874000.0,1973
+New York Knicks,New York Knicks,Atlanta Hawks,12,2,14,90133200.0,1973
+New York Knicks,Philadelphia 76ers,New York Knicks,13,2,15,90219600.0,1973
+New York Knicks,New York Knicks,Golden State Warriors,13,3,16,90306000.0,1973
+New York Knicks,New York Knicks,Phoenix Suns,14,3,17,90565200.0,1973
+New York Knicks,New York Knicks,Houston Rockets,15,3,18,90738000.0,1973
+New York Knicks,New York Knicks,Milwaukee Bucks,16,3,19,90910800.0,1973
+New York Knicks,New York Knicks,Portland Trail Blazers,17,3,20,91170000.0,1973
+New York Knicks,Boston Celtics,New York Knicks,17,4,21,91429200.0,1973
+New York Knicks,New York Knicks,Boston Celtics,18,4,22,91515600.0,1973
+New York Knicks,New York Knicks,Cleveland Cavaliers,19,4,23,91774800.0,1973
+New York Knicks,Philadelphia 76ers,New York Knicks,20,4,24,91861200.0,1973
+New York Knicks,Milwaukee Bucks,New York Knicks,20,5,25,92034000.0,1973
+New York Knicks,New York Knicks,Buffalo Braves,21,5,26,92120400.0,1973
+New York Knicks,New York Knicks,Kansas City-Omaha Kings,22,5,27,92379600.0,1973
+New York Knicks,Buffalo Braves,New York Knicks,22,6,28,92638800.0,1973
+New York Knicks,New York Knicks,Philadelphia 76ers,23,6,29,92725200.0,1973
+New York Knicks,New York Knicks,Atlanta Hawks,24,6,30,92984400.0,1973
+New York Knicks,Atlanta Hawks,New York Knicks,24,7,31,93070800.0,1973
+New York Knicks,Chicago Bulls,New York Knicks,24,8,32,93243600.0,1973
+New York Knicks,New York Knicks,Chicago Bulls,25,8,33,93330000.0,1973
+New York Knicks,Phoenix Suns,New York Knicks,25,9,34,93589200.0,1973
+New York Knicks,Houston Rockets,New York Knicks,26,9,35,93675600.0,1973
+New York Knicks,Cleveland Cavaliers,New York Knicks,27,9,36,93848400.0,1973
+New York Knicks,New York Knicks,Detroit Pistons,28,9,37,94107600.0,1973
+New York Knicks,Boston Celtics,New York Knicks,28,10,38,94194000.0,1973
+New York Knicks,New York Knicks,Buffalo Braves,29,10,39,94366800.0,1973
+New York Knicks,Detroit Pistons,New York Knicks,30,10,40,94453200.0,1973
+New York Knicks,New York Knicks,Baltimore Bullets,31,10,41,94539600.0,1973
+New York Knicks,New York Knicks,Milwaukee Bucks,32,10,42,94798800.0,1973
+New York Knicks,Buffalo Braves,New York Knicks,33,10,43,95058000.0,1973
+New York Knicks,New York Knicks,Houston Rockets,34,10,44,95144400.0,1973
+New York Knicks,Kansas City-Omaha Kings,New York Knicks,35,10,45,95403600.0,1973
+New York Knicks,Atlanta Hawks,New York Knicks,36,10,46,95576400.0,1973
+New York Knicks,Houston Rockets,New York Knicks,37,10,47,95662800.0,1973
+New York Knicks,Seattle Supersonics,New York Knicks,38,10,48,95835600.0,1973
+New York Knicks,Phoenix Suns,New York Knicks,39,10,49,96008400.0,1973
+New York Knicks,Los Angeles Lakers,New York Knicks,39,11,50,96267600.0,1973
+New York Knicks,Houston Rockets,New York Knicks,39,12,51,96440400.0,1973
+New York Knicks,New York Knicks,Buffalo Braves,40,12,52,96786000.0,1973
+New York Knicks,New York Knicks,Boston Celtics,41,12,53,96958800.0,1973
+New York Knicks,Boston Celtics,New York Knicks,42,12,54,97045200.0,1973
+New York Knicks,New York Knicks,Golden State Warriors,43,12,55,97131600.0,1973
+New York Knicks,Detroit Pistons,New York Knicks,43,13,56,97304400.0,1973
+New York Knicks,Baltimore Bullets,New York Knicks,43,14,57,97477200.0,1973
+New York Knicks,New York Knicks,Cleveland Cavaliers,44,14,58,97563600.0,1973
+New York Knicks,Cleveland Cavaliers,New York Knicks,45,14,59,97650000.0,1973
+New York Knicks,New York Knicks,Los Angeles Lakers,45,15,60,97822800.0,1973
+New York Knicks,New York Knicks,Detroit Pistons,46,15,61,98168400.0,1973
+New York Knicks,New York Knicks,Chicago Bulls,46,16,62,98514000.0,1973
+New York Knicks,Buffalo Braves,New York Knicks,47,16,63,98686800.0,1973
+New York Knicks,New York Knicks,Philadelphia 76ers,48,16,64,98773200.0,1973
+New York Knicks,Philadelphia 76ers,New York Knicks,48,17,65,98859600.0,1973
+New York Knicks,New York Knicks,Portland Trail Blazers,49,17,66,99032400.0,1973
+New York Knicks,Chicago Bulls,New York Knicks,49,18,67,99291600.0,1973
+New York Knicks,New York Knicks,Buffalo Braves,50,18,68,99378000.0,1973
+New York Knicks,New York Knicks,Boston Celtics,51,18,69,99637200.0,1973
+New York Knicks,Milwaukee Bucks,New York Knicks,51,19,70,99810000.0,1973
+New York Knicks,New York Knicks,Baltimore Bullets,51,20,71,99982800.0,1973
+New York Knicks,Baltimore Bullets,New York Knicks,51,21,72,100069200.0,1973
+New York Knicks,New York Knicks,Seattle Supersonics,52,21,73,100242000.0,1973
+New York Knicks,Philadelphia 76ers,New York Knicks,53,21,74,100328400.0,1973
+New York Knicks,New York Knicks,Kansas City-Omaha Kings,54,21,75,100587600.0,1973
+New York Knicks,Boston Celtics,New York Knicks,54,22,76,100674000.0,1973
+New York Knicks,New York Knicks,Phoenix Suns,55,22,77,100846800.0,1973
+New York Knicks,Los Angeles Lakers,New York Knicks,56,22,78,101106000.0,1973
+New York Knicks,Golden State Warriors,New York Knicks,57,22,79,101192400.0,1973
+New York Knicks,Portland Trail Blazers,New York Knicks,57,23,80,101278800.0,1973
+New York Knicks,New York Knicks,Atlanta Hawks,57,24,81,101538000.0,1973
+New York Knicks,New York Knicks,Boston Celtics,57,25,82,101797200.0,1973
+Philadelphia 76ers,Chicago Bulls,Philadelphia 76ers,0,1,1,87537600.0,1973
+Philadelphia 76ers,Philadelphia 76ers,Seattle Supersonics,0,2,2,87624000.0,1973
+Philadelphia 76ers,Philadelphia 76ers,Buffalo Braves,0,3,3,87796800.0,1973
+Philadelphia 76ers,Buffalo Braves,Philadelphia 76ers,0,4,4,88142400.0,1973
+Philadelphia 76ers,New York Knicks,Philadelphia 76ers,0,5,5,88488000.0,1973
+Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,0,6,6,88660800.0,1973
+Philadelphia 76ers,Philadelphia 76ers,Cleveland Cavaliers,0,7,7,88833600.0,1973
+Philadelphia 76ers,Philadelphia 76ers,Milwaukee Bucks,0,8,8,89092800.0,1973
+Philadelphia 76ers,Cleveland Cavaliers,Philadelphia 76ers,0,9,9,89355600.0,1973
+Philadelphia 76ers,Philadelphia 76ers,Houston Rockets,0,10,10,89442000.0,1973
+Philadelphia 76ers,Philadelphia 76ers,Kansas City-Omaha Kings,0,11,11,89614800.0,1973
+Philadelphia 76ers,Atlanta Hawks,Philadelphia 76ers,0,12,12,89701200.0,1973
+Philadelphia 76ers,Milwaukee Bucks,Philadelphia 76ers,0,13,13,89787600.0,1973
+Philadelphia 76ers,Kansas City-Omaha Kings,Philadelphia 76ers,0,14,14,90046800.0,1973
+Philadelphia 76ers,Philadelphia 76ers,New York Knicks,0,15,15,90219600.0,1973
+Philadelphia 76ers,Houston Rockets,Philadelphia 76ers,1,15,16,90306000.0,1973
+Philadelphia 76ers,Phoenix Suns,Philadelphia 76ers,1,16,17,90392400.0,1973
+Philadelphia 76ers,Golden State Warriors,Philadelphia 76ers,1,17,18,90738000.0,1973
+Philadelphia 76ers,Seattle Supersonics,Philadelphia 76ers,1,18,19,90824400.0,1973
+Philadelphia 76ers,Los Angeles Lakers,Philadelphia 76ers,1,19,20,90997200.0,1973
+Philadelphia 76ers,Buffalo Braves,Philadelphia 76ers,1,20,21,91429200.0,1973
+Philadelphia 76ers,Philadelphia 76ers,Portland Trail Blazers,1,21,22,91515600.0,1973
+Philadelphia 76ers,Buffalo Braves,Philadelphia 76ers,2,21,23,91774800.0,1973
+Philadelphia 76ers,Philadelphia 76ers,New York Knicks,2,22,24,91861200.0,1973
+Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,2,23,25,92034000.0,1973
+Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,2,24,26,92120400.0,1973
+Philadelphia 76ers,Philadelphia 76ers,Kansas City-Omaha Kings,3,24,27,92466000.0,1973
+Philadelphia 76ers,Philadelphia 76ers,Phoenix Suns,3,25,28,92552400.0,1973
+Philadelphia 76ers,Philadelphia 76ers,Chicago Bulls,3,26,29,92638800.0,1973
+Philadelphia 76ers,New York Knicks,Philadelphia 76ers,3,27,30,92725200.0,1973
+Philadelphia 76ers,Baltimore Bullets,Philadelphia 76ers,3,28,31,92984400.0,1973
+Philadelphia 76ers,Philadelphia 76ers,Los Angeles Lakers,3,29,32,93070800.0,1973
+Philadelphia 76ers,Philadelphia 76ers,Buffalo Braves,3,30,33,93330000.0,1973
+Philadelphia 76ers,Detroit Pistons,Philadelphia 76ers,3,31,34,93675600.0,1973
+Philadelphia 76ers,Houston Rockets,Philadelphia 76ers,3,32,35,93848400.0,1973
+Philadelphia 76ers,Atlanta Hawks,Philadelphia 76ers,3,33,36,93934800.0,1973
+Philadelphia 76ers,Atlanta Hawks,Philadelphia 76ers,3,34,37,94280400.0,1973
+Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,3,35,38,94539600.0,1973
+Philadelphia 76ers,Buffalo Braves,Philadelphia 76ers,3,36,39,94798800.0,1973
+Philadelphia 76ers,Portland Trail Blazers,Philadelphia 76ers,3,37,40,95058000.0,1973
+Philadelphia 76ers,Golden State Warriors,Philadelphia 76ers,3,38,41,95144400.0,1973
+Philadelphia 76ers,Seattle Supersonics,Philadelphia 76ers,4,38,42,95230800.0,1973
+Philadelphia 76ers,Chicago Bulls,Philadelphia 76ers,4,39,43,95403600.0,1973
+Philadelphia 76ers,Philadelphia 76ers,Los Angeles Lakers,4,40,44,95490000.0,1973
+Philadelphia 76ers,Cleveland Cavaliers,Philadelphia 76ers,4,41,45,95662800.0,1973
+Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,4,42,46,95749200.0,1973
+Philadelphia 76ers,Kansas City-Omaha Kings,Philadelphia 76ers,4,43,47,95922000.0,1973
+Philadelphia 76ers,Milwaukee Bucks,Philadelphia 76ers,4,44,48,96008400.0,1973
+Philadelphia 76ers,Philadelphia 76ers,Atlanta Hawks,4,45,49,96094800.0,1973
+Philadelphia 76ers,Baltimore Bullets,Philadelphia 76ers,4,46,50,96267600.0,1973
+Philadelphia 76ers,Baltimore Bullets,Philadelphia 76ers,4,47,51,96440400.0,1973
+Philadelphia 76ers,Cleveland Cavaliers,Philadelphia 76ers,4,48,52,96872400.0,1973
+Philadelphia 76ers,Philadelphia 76ers,Buffalo Braves,4,49,53,97045200.0,1973
+Philadelphia 76ers,Buffalo Braves,Philadelphia 76ers,4,50,54,97218000.0,1973
+Philadelphia 76ers,Philadelphia 76ers,Golden State Warriors,4,51,55,97304400.0,1973
+Philadelphia 76ers,Detroit Pistons,Philadelphia 76ers,4,52,56,97477200.0,1973
+Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,4,53,57,97563600.0,1973
+Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,4,54,58,97650000.0,1973
+Philadelphia 76ers,Houston Rockets,Philadelphia 76ers,4,55,59,97822800.0,1973
+Philadelphia 76ers,Portland Trail Blazers,Philadelphia 76ers,4,56,60,98082000.0,1973
+Philadelphia 76ers,Phoenix Suns,Philadelphia 76ers,4,57,61,98168400.0,1973
+Philadelphia 76ers,Los Angeles Lakers,Philadelphia 76ers,4,58,62,98254800.0,1973
+Philadelphia 76ers,Philadelphia 76ers,Milwaukee Bucks,5,58,63,98514000.0,1973
+Philadelphia 76ers,Philadelphia 76ers,Detroit Pistons,6,58,64,98686800.0,1973
+Philadelphia 76ers,New York Knicks,Philadelphia 76ers,6,59,65,98773200.0,1973
+Philadelphia 76ers,Philadelphia 76ers,New York Knicks,7,59,66,98859600.0,1973
+Philadelphia 76ers,Houston Rockets,Philadelphia 76ers,7,60,67,99291600.0,1973
+Philadelphia 76ers,Philadelphia 76ers,Portland Trail Blazers,8,60,68,99464400.0,1973
+Philadelphia 76ers,Philadelphia 76ers,Baltimore Bullets,9,60,69,99723600.0,1973
+Philadelphia 76ers,Philadelphia 76ers,Atlanta Hawks,9,61,70,99896400.0,1973
+Philadelphia 76ers,Atlanta Hawks,Philadelphia 76ers,9,62,71,100069200.0,1973
+Philadelphia 76ers,Philadelphia 76ers,New York Knicks,9,63,72,100328400.0,1973
+Philadelphia 76ers,Chicago Bulls,Philadelphia 76ers,9,64,73,100501200.0,1973
+Philadelphia 76ers,Philadelphia 76ers,Seattle Supersonics,9,65,74,100587600.0,1973
+Philadelphia 76ers,Golden State Warriors,Philadelphia 76ers,9,66,75,100674000.0,1973
+Philadelphia 76ers,Philadelphia 76ers,Phoenix Suns,9,67,76,100933200.0,1973
+Philadelphia 76ers,Philadelphia 76ers,Baltimore Bullets,9,68,77,101192400.0,1973
+Philadelphia 76ers,Baltimore Bullets,Philadelphia 76ers,9,69,78,101278800.0,1973
+Philadelphia 76ers,Cleveland Cavaliers,Philadelphia 76ers,9,70,79,101451600.0,1973
+Philadelphia 76ers,Philadelphia 76ers,Cleveland Cavaliers,9,71,80,101538000.0,1973
+Philadelphia 76ers,Philadelphia 76ers,Houston Rockets,9,72,81,101710800.0,1973
+Philadelphia 76ers,Detroit Pistons,Philadelphia 76ers,9,73,82,101883600.0,1973
+Phoenix Suns,Phoenix Suns,Milwaukee Bucks,0,1,1,87796800.0,1973
+Phoenix Suns,Portland Trail Blazers,Phoenix Suns,1,1,2,87883200.0,1973
+Phoenix Suns,Phoenix Suns,Baltimore Bullets,2,1,3,87969600.0,1973
+Phoenix Suns,Phoenix Suns,Seattle Supersonics,3,1,4,88488000.0,1973
+Phoenix Suns,Phoenix Suns,Chicago Bulls,3,2,5,88747200.0,1973
+Phoenix Suns,Seattle Supersonics,Phoenix Suns,3,3,6,89006400.0,1973
+Phoenix Suns,Los Angeles Lakers,Phoenix Suns,3,4,7,89179200.0,1973
+Phoenix Suns,Chicago Bulls,Phoenix Suns,3,5,8,89614800.0,1973
+Phoenix Suns,Milwaukee Bucks,Phoenix Suns,4,5,9,89701200.0,1973
+Phoenix Suns,Cleveland Cavaliers,Phoenix Suns,5,5,10,89787600.0,1973
+Phoenix Suns,Phoenix Suns,Cleveland Cavaliers,6,5,11,90046800.0,1973
+Phoenix Suns,Phoenix Suns,Houston Rockets,7,5,12,90219600.0,1973
+Phoenix Suns,Phoenix Suns,Philadelphia 76ers,8,5,13,90392400.0,1973
+Phoenix Suns,New York Knicks,Phoenix Suns,8,6,14,90565200.0,1973
+Phoenix Suns,Boston Celtics,Phoenix Suns,8,7,15,90651600.0,1973
+Phoenix Suns,Baltimore Bullets,Phoenix Suns,8,8,16,90824400.0,1973
+Phoenix Suns,Atlanta Hawks,Phoenix Suns,8,9,17,90910800.0,1973
+Phoenix Suns,Kansas City-Omaha Kings,Phoenix Suns,8,10,18,91170000.0,1973
+Phoenix Suns,Phoenix Suns,Detroit Pistons,9,10,19,91342800.0,1973
+Phoenix Suns,Phoenix Suns,Los Angeles Lakers,9,11,20,91515600.0,1973
+Phoenix Suns,Los Angeles Lakers,Phoenix Suns,9,12,21,91602000.0,1973
+Phoenix Suns,Golden State Warriors,Phoenix Suns,9,13,22,91774800.0,1973
+Phoenix Suns,Phoenix Suns,Atlanta Hawks,10,13,23,91861200.0,1973
+Phoenix Suns,Phoenix Suns,Golden State Warriors,11,13,24,92034000.0,1973
+Phoenix Suns,Phoenix Suns,Milwaukee Bucks,11,14,25,92206800.0,1973
+Phoenix Suns,Buffalo Braves,Phoenix Suns,11,15,26,92379600.0,1973
+Phoenix Suns,Detroit Pistons,Phoenix Suns,11,16,27,92466000.0,1973
+Phoenix Suns,Philadelphia 76ers,Phoenix Suns,12,16,28,92552400.0,1973
+Phoenix Suns,Phoenix Suns,Portland Trail Blazers,13,16,29,92725200.0,1973
+Phoenix Suns,Seattle Supersonics,Phoenix Suns,13,17,30,92811600.0,1973
+Phoenix Suns,Phoenix Suns,Boston Celtics,13,18,31,93070800.0,1973
+Phoenix Suns,Phoenix Suns,Kansas City-Omaha Kings,14,18,32,93416400.0,1973
+Phoenix Suns,Phoenix Suns,New York Knicks,15,18,33,93589200.0,1973
+Phoenix Suns,Los Angeles Lakers,Phoenix Suns,16,18,34,93848400.0,1973
+Phoenix Suns,Phoenix Suns,Chicago Bulls,17,18,35,94107600.0,1973
+Phoenix Suns,Houston Rockets,Phoenix Suns,17,19,36,94194000.0,1973
+Phoenix Suns,Phoenix Suns,Portland Trail Blazers,18,19,37,94453200.0,1973
+Phoenix Suns,Portland Trail Blazers,Phoenix Suns,19,19,38,94539600.0,1973
+Phoenix Suns,Cleveland Cavaliers,Phoenix Suns,19,20,39,94798800.0,1973
+Phoenix Suns,Detroit Pistons,Phoenix Suns,19,21,40,94885200.0,1973
+Phoenix Suns,Chicago Bulls,Phoenix Suns,20,21,41,95058000.0,1973
+Phoenix Suns,Kansas City-Omaha Kings,Phoenix Suns,21,21,42,95144400.0,1973
+Phoenix Suns,Phoenix Suns,Detroit Pistons,22,21,43,95490000.0,1973
+Phoenix Suns,Phoenix Suns,Golden State Warriors,22,22,44,95662800.0,1973
+Phoenix Suns,Golden State Warriors,Phoenix Suns,23,22,45,95749200.0,1973
+Phoenix Suns,Phoenix Suns,Baltimore Bullets,23,23,46,95835600.0,1973
+Phoenix Suns,Phoenix Suns,New York Knicks,23,24,47,96008400.0,1973
+Phoenix Suns,Phoenix Suns,Kansas City-Omaha Kings,23,25,48,96181200.0,1973
+Phoenix Suns,Phoenix Suns,Los Angeles Lakers,23,26,49,96354000.0,1973
+Phoenix Suns,Phoenix Suns,Seattle Supersonics,24,26,50,96786000.0,1973
+Phoenix Suns,Portland Trail Blazers,Phoenix Suns,25,26,51,96872400.0,1973
+Phoenix Suns,Phoenix Suns,Portland Trail Blazers,25,27,52,96958800.0,1973
+Phoenix Suns,Phoenix Suns,Los Angeles Lakers,25,28,53,97390800.0,1973
+Phoenix Suns,Phoenix Suns,Houston Rockets,26,28,54,97563600.0,1973
+Phoenix Suns,Milwaukee Bucks,Phoenix Suns,26,29,55,97822800.0,1973
+Phoenix Suns,Detroit Pistons,Phoenix Suns,26,30,56,97909200.0,1973
+Phoenix Suns,Phoenix Suns,Seattle Supersonics,27,30,57,97995600.0,1973
+Phoenix Suns,Phoenix Suns,Philadelphia 76ers,28,30,58,98168400.0,1973
+Phoenix Suns,Phoenix Suns,Buffalo Braves,29,30,59,98514000.0,1973
+Phoenix Suns,Phoenix Suns,Atlanta Hawks,29,31,60,98686800.0,1973
+Phoenix Suns,Houston Rockets,Phoenix Suns,29,32,61,98773200.0,1973
+Phoenix Suns,Phoenix Suns,Portland Trail Blazers,29,33,62,98859600.0,1973
+Phoenix Suns,Boston Celtics,Phoenix Suns,29,34,63,99032400.0,1973
+Phoenix Suns,Baltimore Bullets,Phoenix Suns,30,34,64,99118800.0,1973
+Phoenix Suns,Buffalo Braves,Phoenix Suns,31,34,65,99291600.0,1973
+Phoenix Suns,Chicago Bulls,Phoenix Suns,31,35,66,99378000.0,1973
+Phoenix Suns,Kansas City-Omaha Kings,Phoenix Suns,32,35,67,99464400.0,1973
+Phoenix Suns,Phoenix Suns,Kansas City-Omaha Kings,32,36,68,99723600.0,1973
+Phoenix Suns,Phoenix Suns,Chicago Bulls,32,37,69,100069200.0,1973
+Phoenix Suns,Phoenix Suns,Cleveland Cavaliers,33,37,70,100242000.0,1973
+Phoenix Suns,Phoenix Suns,Boston Celtics,33,38,71,100414800.0,1973
+Phoenix Suns,Phoenix Suns,Detroit Pistons,33,39,72,100587600.0,1973
+Phoenix Suns,Milwaukee Bucks,Phoenix Suns,33,40,73,100760400.0,1973
+Phoenix Suns,New York Knicks,Phoenix Suns,33,41,74,100846800.0,1973
+Phoenix Suns,Philadelphia 76ers,Phoenix Suns,34,41,75,100933200.0,1973
+Phoenix Suns,Atlanta Hawks,Phoenix Suns,34,42,76,101106000.0,1973
+Phoenix Suns,Los Angeles Lakers,Phoenix Suns,34,43,77,101278800.0,1973
+Phoenix Suns,Phoenix Suns,Buffalo Braves,35,43,78,101538000.0,1973
+Phoenix Suns,Phoenix Suns,Golden State Warriors,36,43,79,101710800.0,1973
+Phoenix Suns,Phoenix Suns,Milwaukee Bucks,36,44,80,101883600.0,1973
+Phoenix Suns,Golden State Warriors,Phoenix Suns,37,44,81,101970000.0,1973
+Phoenix Suns,Seattle Supersonics,Phoenix Suns,38,44,82,102142800.0,1973
+Portland Trail Blazers,Portland Trail Blazers,Seattle Supersonics,0,1,1,87796800.0,1973
+Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,0,2,2,87883200.0,1973
+Portland Trail Blazers,Portland Trail Blazers,Milwaukee Bucks,1,2,3,88142400.0,1973
+Portland Trail Blazers,Los Angeles Lakers,Portland Trail Blazers,1,3,4,88401600.0,1973
+Portland Trail Blazers,Portland Trail Blazers,Golden State Warriors,1,4,5,88488000.0,1973
+Portland Trail Blazers,Seattle Supersonics,Portland Trail Blazers,1,5,6,88574400.0,1973
+Portland Trail Blazers,Portland Trail Blazers,Atlanta Hawks,1,6,7,88747200.0,1973
+Portland Trail Blazers,Portland Trail Blazers,Chicago Bulls,1,7,8,89006400.0,1973
+Portland Trail Blazers,Portland Trail Blazers,Detroit Pistons,1,8,9,89179200.0,1973
+Portland Trail Blazers,Golden State Warriors,Portland Trail Blazers,1,9,10,89528400.0,1973
+Portland Trail Blazers,Portland Trail Blazers,Los Angeles Lakers,1,10,11,89701200.0,1973
+Portland Trail Blazers,Portland Trail Blazers,New York Knicks,1,11,12,89874000.0,1973
+Portland Trail Blazers,Portland Trail Blazers,Kansas City-Omaha Kings,2,11,13,90392400.0,1973
+Portland Trail Blazers,Portland Trail Blazers,Cleveland Cavaliers,3,11,14,90565200.0,1973
+Portland Trail Blazers,Portland Trail Blazers,Golden State Warriors,4,11,15,90824400.0,1973
+Portland Trail Blazers,Portland Trail Blazers,Seattle Supersonics,4,12,16,90910800.0,1973
+Portland Trail Blazers,New York Knicks,Portland Trail Blazers,4,13,17,91170000.0,1973
+Portland Trail Blazers,Boston Celtics,Portland Trail Blazers,4,14,18,91256400.0,1973
+Portland Trail Blazers,Philadelphia 76ers,Portland Trail Blazers,5,14,19,91515600.0,1973
+Portland Trail Blazers,Cleveland Cavaliers,Portland Trail Blazers,6,14,20,91602000.0,1973
+Portland Trail Blazers,Detroit Pistons,Portland Trail Blazers,6,15,21,91774800.0,1973
+Portland Trail Blazers,Kansas City-Omaha Kings,Portland Trail Blazers,6,16,22,91861200.0,1973
+Portland Trail Blazers,Portland Trail Blazers,Atlanta Hawks,6,17,23,92120400.0,1973
+Portland Trail Blazers,Atlanta Hawks,Portland Trail Blazers,6,18,24,92379600.0,1973
+Portland Trail Blazers,Baltimore Bullets,Portland Trail Blazers,6,19,25,92466000.0,1973
+Portland Trail Blazers,Houston Rockets,Portland Trail Blazers,6,20,26,92638800.0,1973
+Portland Trail Blazers,Phoenix Suns,Portland Trail Blazers,6,21,27,92725200.0,1973
+Portland Trail Blazers,Los Angeles Lakers,Portland Trail Blazers,6,22,28,92811600.0,1973
+Portland Trail Blazers,Portland Trail Blazers,Milwaukee Bucks,6,23,29,92984400.0,1973
+Portland Trail Blazers,Seattle Supersonics,Portland Trail Blazers,7,23,30,93243600.0,1973
+Portland Trail Blazers,Portland Trail Blazers,Boston Celtics,7,24,31,93330000.0,1973
+Portland Trail Blazers,Kansas City-Omaha Kings,Portland Trail Blazers,7,25,32,93502800.0,1973
+Portland Trail Blazers,Chicago Bulls,Portland Trail Blazers,8,25,33,93589200.0,1973
+Portland Trail Blazers,Milwaukee Bucks,Portland Trail Blazers,8,26,34,93675600.0,1973
+Portland Trail Blazers,Portland Trail Blazers,Chicago Bulls,8,27,35,93848400.0,1973
+Portland Trail Blazers,Portland Trail Blazers,Seattle Supersonics,9,27,36,94107600.0,1973
+Portland Trail Blazers,Los Angeles Lakers,Portland Trail Blazers,9,28,37,94194000.0,1973
+Portland Trail Blazers,Phoenix Suns,Portland Trail Blazers,9,29,38,94453200.0,1973
+Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,9,30,39,94539600.0,1973
+Portland Trail Blazers,Portland Trail Blazers,Kansas City-Omaha Kings,10,30,40,94798800.0,1973
+Portland Trail Blazers,Golden State Warriors,Portland Trail Blazers,10,31,41,94971600.0,1973
+Portland Trail Blazers,Portland Trail Blazers,Philadelphia 76ers,11,31,42,95058000.0,1973
+Portland Trail Blazers,Portland Trail Blazers,Detroit Pistons,11,32,43,95230800.0,1973
+Portland Trail Blazers,Portland Trail Blazers,Baltimore Bullets,11,33,44,95403600.0,1973
+Portland Trail Blazers,Buffalo Braves,Portland Trail Blazers,11,34,45,95662800.0,1973
+Portland Trail Blazers,Detroit Pistons,Portland Trail Blazers,11,35,46,95922000.0,1973
+Portland Trail Blazers,Chicago Bulls,Portland Trail Blazers,11,36,47,96008400.0,1973
+Portland Trail Blazers,Boston Celtics,Portland Trail Blazers,11,37,48,96094800.0,1973
+Portland Trail Blazers,Milwaukee Bucks,Portland Trail Blazers,11,38,49,96267600.0,1973
+Portland Trail Blazers,Houston Rockets,Portland Trail Blazers,12,38,50,96354000.0,1973
+Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,12,39,51,96872400.0,1973
+Portland Trail Blazers,Phoenix Suns,Portland Trail Blazers,13,39,52,96958800.0,1973
+Portland Trail Blazers,Portland Trail Blazers,Houston Rockets,13,40,53,97218000.0,1973
+Portland Trail Blazers,Portland Trail Blazers,Kansas City-Omaha Kings,13,41,54,97563600.0,1973
+Portland Trail Blazers,Portland Trail Blazers,Seattle Supersonics,13,42,55,97822800.0,1973
+Portland Trail Blazers,Golden State Warriors,Portland Trail Blazers,13,43,56,97995600.0,1973
+Portland Trail Blazers,Portland Trail Blazers,Philadelphia 76ers,14,43,57,98082000.0,1973
+Portland Trail Blazers,Portland Trail Blazers,Baltimore Bullets,14,44,58,98254800.0,1973
+Portland Trail Blazers,Portland Trail Blazers,Buffalo Braves,15,44,59,98427600.0,1973
+Portland Trail Blazers,Portland Trail Blazers,Boston Celtics,15,45,60,98686800.0,1973
+Portland Trail Blazers,Portland Trail Blazers,Los Angeles Lakers,15,46,61,98773200.0,1973
+Portland Trail Blazers,Phoenix Suns,Portland Trail Blazers,16,46,62,98859600.0,1973
+Portland Trail Blazers,New York Knicks,Portland Trail Blazers,16,47,63,99032400.0,1973
+Portland Trail Blazers,Cleveland Cavaliers,Portland Trail Blazers,16,48,64,99291600.0,1973
+Portland Trail Blazers,Baltimore Bullets,Portland Trail Blazers,16,49,65,99378000.0,1973
+Portland Trail Blazers,Philadelphia 76ers,Portland Trail Blazers,16,50,66,99464400.0,1973
+Portland Trail Blazers,Portland Trail Blazers,Chicago Bulls,16,51,67,99637200.0,1973
+Portland Trail Blazers,Portland Trail Blazers,Cleveland Cavaliers,17,51,68,99896400.0,1973
+Portland Trail Blazers,Portland Trail Blazers,Detroit Pistons,17,52,69,100069200.0,1973
+Portland Trail Blazers,Portland Trail Blazers,Los Angeles Lakers,17,53,70,100242000.0,1973
+Portland Trail Blazers,Atlanta Hawks,Portland Trail Blazers,17,54,71,100414800.0,1973
+Portland Trail Blazers,Milwaukee Bucks,Portland Trail Blazers,17,55,72,100501200.0,1973
+Portland Trail Blazers,Buffalo Braves,Portland Trail Blazers,17,56,73,100587600.0,1973
+Portland Trail Blazers,Portland Trail Blazers,Golden State Warriors,17,57,74,100846800.0,1973
+Portland Trail Blazers,Portland Trail Blazers,Houston Rockets,18,57,75,101106000.0,1973
+Portland Trail Blazers,Portland Trail Blazers,New York Knicks,19,57,76,101278800.0,1973
+Portland Trail Blazers,Kansas City-Omaha Kings,Portland Trail Blazers,19,58,77,101365200.0,1973
+Portland Trail Blazers,Chicago Bulls,Portland Trail Blazers,19,59,78,101451600.0,1973
+Portland Trail Blazers,Detroit Pistons,Portland Trail Blazers,19,60,79,101538000.0,1973
+Portland Trail Blazers,Seattle Supersonics,Portland Trail Blazers,20,60,80,101710800.0,1973
+Portland Trail Blazers,Portland Trail Blazers,Buffalo Braves,21,60,81,101883600.0,1973
+Portland Trail Blazers,Portland Trail Blazers,Milwaukee Bucks,21,61,82,101970000.0,1973
+Seattle Supersonics,New York Knicks,Seattle Supersonics,0,1,1,87537600.0,1973
+Seattle Supersonics,Philadelphia 76ers,Seattle Supersonics,1,1,2,87624000.0,1973
+Seattle Supersonics,Portland Trail Blazers,Seattle Supersonics,2,1,3,87796800.0,1973
+Seattle Supersonics,Seattle Supersonics,Golden State Warriors,2,2,4,88401600.0,1973
+Seattle Supersonics,Phoenix Suns,Seattle Supersonics,2,3,5,88488000.0,1973
+Seattle Supersonics,Seattle Supersonics,Portland Trail Blazers,3,3,6,88574400.0,1973
+Seattle Supersonics,Seattle Supersonics,Atlanta Hawks,3,4,7,88833600.0,1973
+Seattle Supersonics,Seattle Supersonics,Phoenix Suns,4,4,8,89006400.0,1973
+Seattle Supersonics,Seattle Supersonics,Chicago Bulls,4,5,9,89179200.0,1973
+Seattle Supersonics,Seattle Supersonics,Detroit Pistons,4,6,10,89442000.0,1973
+Seattle Supersonics,Seattle Supersonics,New York Knicks,4,7,11,89614800.0,1973
+Seattle Supersonics,Seattle Supersonics,Los Angeles Lakers,4,8,12,89787600.0,1973
+Seattle Supersonics,Milwaukee Bucks,Seattle Supersonics,4,9,13,90046800.0,1973
+Seattle Supersonics,Seattle Supersonics,Kansas City-Omaha Kings,4,10,14,90219600.0,1973
+Seattle Supersonics,Seattle Supersonics,Cleveland Cavaliers,4,11,15,90392400.0,1973
+Seattle Supersonics,Chicago Bulls,Seattle Supersonics,4,12,16,90565200.0,1973
+Seattle Supersonics,Kansas City-Omaha Kings,Seattle Supersonics,4,13,17,90651600.0,1973
+Seattle Supersonics,Seattle Supersonics,Philadelphia 76ers,5,13,18,90824400.0,1973
+Seattle Supersonics,Portland Trail Blazers,Seattle Supersonics,6,13,19,90910800.0,1973
+Seattle Supersonics,Seattle Supersonics,Buffalo Braves,7,13,20,90997200.0,1973
+Seattle Supersonics,Cleveland Cavaliers,Seattle Supersonics,7,14,21,91170000.0,1973
+Seattle Supersonics,Baltimore Bullets,Seattle Supersonics,7,15,22,91256400.0,1973
+Seattle Supersonics,Atlanta Hawks,Seattle Supersonics,7,16,23,91342800.0,1973
+Seattle Supersonics,Houston Rockets,Seattle Supersonics,7,17,24,91515600.0,1973
+Seattle Supersonics,Seattle Supersonics,Detroit Pistons,8,17,25,91602000.0,1973
+Seattle Supersonics,Boston Celtics,Seattle Supersonics,8,18,26,91861200.0,1973
+Seattle Supersonics,Buffalo Braves,Seattle Supersonics,8,19,27,92034000.0,1973
+Seattle Supersonics,Chicago Bulls,Seattle Supersonics,8,20,28,92120400.0,1973
+Seattle Supersonics,Cleveland Cavaliers,Seattle Supersonics,8,21,29,92206800.0,1973
+Seattle Supersonics,Seattle Supersonics,Milwaukee Bucks,9,21,30,92466000.0,1973
+Seattle Supersonics,Los Angeles Lakers,Seattle Supersonics,9,22,31,92638800.0,1973
+Seattle Supersonics,Seattle Supersonics,Phoenix Suns,10,22,32,92811600.0,1973
+Seattle Supersonics,Seattle Supersonics,Milwaukee Bucks,10,23,33,93070800.0,1973
+Seattle Supersonics,Seattle Supersonics,Portland Trail Blazers,10,24,34,93243600.0,1973
+Seattle Supersonics,Seattle Supersonics,Boston Celtics,10,25,35,93416400.0,1973
+Seattle Supersonics,Milwaukee Bucks,Seattle Supersonics,10,26,36,93589200.0,1973
+Seattle Supersonics,Kansas City-Omaha Kings,Seattle Supersonics,10,27,37,93675600.0,1973
+Seattle Supersonics,Detroit Pistons,Seattle Supersonics,10,28,38,93848400.0,1973
+Seattle Supersonics,Portland Trail Blazers,Seattle Supersonics,10,29,39,94107600.0,1973
+Seattle Supersonics,Golden State Warriors,Seattle Supersonics,11,29,40,94194000.0,1973
+Seattle Supersonics,Seattle Supersonics,Cleveland Cavaliers,12,29,41,94453200.0,1973
+Seattle Supersonics,Seattle Supersonics,Los Angeles Lakers,12,30,42,94712400.0,1973
+Seattle Supersonics,Seattle Supersonics,Kansas City-Omaha Kings,13,30,43,94885200.0,1973
+Seattle Supersonics,Seattle Supersonics,Golden State Warriors,13,31,44,95058000.0,1973
+Seattle Supersonics,Seattle Supersonics,Philadelphia 76ers,13,32,45,95230800.0,1973
+Seattle Supersonics,Seattle Supersonics,Baltimore Bullets,13,33,46,95490000.0,1973
+Seattle Supersonics,Seattle Supersonics,Detroit Pistons,14,33,47,95662800.0,1973
+Seattle Supersonics,Seattle Supersonics,New York Knicks,14,34,48,95835600.0,1973
+Seattle Supersonics,Kansas City-Omaha Kings,Seattle Supersonics,15,34,49,96008400.0,1973
+Seattle Supersonics,Detroit Pistons,Seattle Supersonics,16,34,50,96094800.0,1973
+Seattle Supersonics,Boston Celtics,Seattle Supersonics,16,35,51,96267600.0,1973
+Seattle Supersonics,Baltimore Bullets,Seattle Supersonics,16,36,52,96354000.0,1973
+Seattle Supersonics,Phoenix Suns,Seattle Supersonics,16,37,53,96786000.0,1973
+Seattle Supersonics,Los Angeles Lakers,Seattle Supersonics,16,38,54,97045200.0,1973
+Seattle Supersonics,Seattle Supersonics,Houston Rockets,17,38,55,97304400.0,1973
+Seattle Supersonics,Seattle Supersonics,Chicago Bulls,18,38,56,97477200.0,1973
+Seattle Supersonics,Golden State Warriors,Seattle Supersonics,18,39,57,97563600.0,1973
+Seattle Supersonics,Seattle Supersonics,Kansas City-Omaha Kings,18,40,58,97650000.0,1973
+Seattle Supersonics,Portland Trail Blazers,Seattle Supersonics,19,40,59,97822800.0,1973
+Seattle Supersonics,Phoenix Suns,Seattle Supersonics,19,41,60,97995600.0,1973
+Seattle Supersonics,Seattle Supersonics,Buffalo Braves,19,42,61,98254800.0,1973
+Seattle Supersonics,Los Angeles Lakers,Seattle Supersonics,19,43,62,98427600.0,1973
+Seattle Supersonics,Seattle Supersonics,Baltimore Bullets,19,44,63,98514000.0,1973
+Seattle Supersonics,Seattle Supersonics,Golden State Warriors,20,44,64,98686800.0,1973
+Seattle Supersonics,Seattle Supersonics,Boston Celtics,20,45,65,98859600.0,1973
+Seattle Supersonics,Houston Rockets,Seattle Supersonics,20,46,66,99118800.0,1973
+Seattle Supersonics,Seattle Supersonics,Atlanta Hawks,21,46,67,99291600.0,1973
+Seattle Supersonics,Seattle Supersonics,Chicago Bulls,21,47,68,99464400.0,1973
+Seattle Supersonics,Atlanta Hawks,Seattle Supersonics,21,48,69,99637200.0,1973
+Seattle Supersonics,Milwaukee Bucks,Seattle Supersonics,21,49,70,99723600.0,1973
+Seattle Supersonics,Buffalo Braves,Seattle Supersonics,22,49,71,99896400.0,1973
+Seattle Supersonics,Detroit Pistons,Seattle Supersonics,23,49,72,99982800.0,1973
+Seattle Supersonics,New York Knicks,Seattle Supersonics,23,50,73,100242000.0,1973
+Seattle Supersonics,Philadelphia 76ers,Seattle Supersonics,24,50,74,100587600.0,1973
+Seattle Supersonics,Chicago Bulls,Seattle Supersonics,24,51,75,100846800.0,1973
+Seattle Supersonics,Seattle Supersonics,Golden State Warriors,25,51,76,101106000.0,1973
+Seattle Supersonics,Seattle Supersonics,Houston Rockets,26,51,77,101278800.0,1973
+Seattle Supersonics,Golden State Warriors,Seattle Supersonics,26,52,78,101451600.0,1973
+Seattle Supersonics,Seattle Supersonics,Milwaukee Bucks,26,53,79,101538000.0,1973
+Seattle Supersonics,Seattle Supersonics,Portland Trail Blazers,26,54,80,101710800.0,1973
+Seattle Supersonics,Seattle Supersonics,Los Angeles Lakers,26,55,81,101883600.0,1973
+Seattle Supersonics,Seattle Supersonics,Phoenix Suns,26,56,82,102142800.0,1973
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,

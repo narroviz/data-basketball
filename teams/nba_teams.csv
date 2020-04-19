@@ -1,0 +1,74 @@
+team,parent,history,prefix_1,prefix_2,url,secondary_color,tertiary_color,primary_color
+Atlanta Hawks,,"[""Atlanta Hawks"", ""St. Louis Hawks"", ""Milwaukee Hawks"", ""Tri-Cities Blackhawks""]",atl,atlanta-hawks,http://espn.go.com/nba/team/_/name/atl/atlanta-hawks,#26282A,#D8D8D8,#E03A3E
+Boston Celtics,,,bos,boston-celtics,http://espn.go.com/nba/team/_/name/bos/boston-celtics,#000000,#BA9653,#007A33
+Brooklyn Nets,,"[""Brooklyn Nets"", ""New Jersey Nets"", ""New York Nets""]",bkn,brooklyn-nets,http://espn.go.com/nba/team/_/name/bkn/brooklyn-nets,#8C8C8C,#D8D8D8,#000000
+Charlotte Hornets,,"[""Charlotte Hornets"", ""Charlotte Bobcats"", ""Charlotte Hornets (Original)""]",cha,charlotte-hornets,http://espn.go.com/nba/team/_/name/cha/charlotte-hornets,#1D1160,#D8D8D8,#008CA8
+Chicago Bulls,,,chi,chicago-bulls,http://espn.go.com/nba/team/_/name/chi/chicago-bulls,#000000,#D8D8D8,#CE1141
+Cleveland Cavaliers,,,cle,cleveland-cavaliers,http://espn.go.com/nba/team/_/name/cle/cleveland-cavaliers,#002D62,#D8D8D8,#860038
+Dallas Mavericks,,,dal,dallas-mavericks,http://espn.go.com/nba/team/_/name/dal/dallas-mavericks,#002B5E,#D8D8D8,#00538C
+Denver Nuggets,,,den,denver-nuggets,http://espn.go.com/nba/team/_/name/den/denver-nuggets,#4B90CD,#D8D8D8,#002D62
+Detroit Pistons,,"[""Detroit Pistons"", ""Fort Wayne Pistons""]",det,detroit-pistons,http://espn.go.com/nba/team/_/name/det/detroit-pistons,#00519A,#D8D8D8,#EB003C
+Golden State Warriors,,"[""Golden State Warriors"", ""San Francisco Warriors"", ""Philadelphia Warriors""]",gs,golden-state-warriors,http://espn.go.com/nba/team/_/name/gs/golden-state-warriors,#0E3499,#e6e6e6,#FFCC33
+Houston Rockets,,"[""Houston Rockets"", ""San Diego Rockets""]",hou,houston-rockets,http://espn.go.com/nba/team/_/name/hou/houston-rockets,#000000,#D8D8D8,#CE1138
+Indiana Pacers,,,ind,indiana-pacers,http://espn.go.com/nba/team/_/name/ind/indiana-pacers,#FFC322,#e6e6e6,#092C57
+Los Angeles Clippers,,"[""Los Angeles Clippers"", ""San Diego Clippers"", ""Buffalo Braves""]",lac,los-angeles-clippers,http://espn.go.com/nba/team/_/name/lac/los-angeles-clippers,#EE2944,#D8D8D8,#0E48AB
+Los Angeles Lakers,,"[""Los Angeles Lakers"", ""Minneapolis Lakers""]",lal,los-angeles-lakers,http://espn.go.com/nba/team/_/name/lal/los-angeles-lakers,#F5AF1B,#e6e6e6,#4A2583
+Memphis Grizzlies,,"[""Memphis Grizzlies"", ""Vancouver Grizzlies""]",mem,memphis-grizzlies,http://espn.go.com/nba/team/_/name/mem/memphis-grizzlies,#001F70,#D8D8D8,#7399C6
+Miami Heat,,,mia,miami-heat,http://espn.go.com/nba/team/_/name/mia/miami-heat,#000000,#D8D8D8,#B62630
+Milwaukee Bucks,,,mil,milwaukee-bucks,http://espn.go.com/nba/team/_/name/mil/milwaukee-bucks,#EEE1C6,#D8D8D8,#003614
+Minnesota Timberwolves,,,min,minnesota-timberwolves,http://espn.go.com/nba/team/_/name/min/minnesota-timberwolves,#0C2340,#D8D8D8,#0F4D92
+New Orleans Pelicans,,"[""New Orleans Pelicans"", ""New Orleans Hornets""]",no,new-orleans-pelicans,http://espn.go.com/nba/team/_/name/no/new-orleans-pelicans,#E31836,#D8D8D8,#002B5C
+New York Knicks,,,ny,new-york-knicks,http://espn.go.com/nba/team/_/name/ny/new-york-knicks,#0953A0,#D8D8D8,#FF7518
+Oklahoma City Thunder,,"[""Oklahoma City Thunder"", ""Seattle Supersonics""]",okc,oklahoma-city-thunder,http://espn.go.com/nba/team/_/name/okc/oklahoma-city-thunder,#EF3B24,#D8D8D8,#007AC1
+Orlando Magic,,,orl,orlando-magic,http://espn.go.com/nba/team/_/name/orl/orlando-magic,#000000,#D8D8D8,#0077C0
+Philadelphia 76ers,,"[""Philadelphia 76ers"", ""Syracuse Nationals""]",phi,philadelphia-76ers,http://espn.go.com/nba/team/_/name/phi/philadelphia-76ers,#ED174C,#D8D8D8,#006BB6
+Phoenix Suns,,,phx,phoenix-suns,http://espn.go.com/nba/team/_/name/phx/phoenix-suns,#E56020,#D8D8D8,#1D1160
+Portland Trail Blazers,,,por,portland-trail-blazers,http://espn.go.com/nba/team/_/name/por/portland-trail-blazers,#000000,#D8D8D8,#E03A3E
+Sacramento Kings,,"[""Sacramento Kings"", ""Kansas City Kings"", ""Kansas City-Omaha Kings"", ""Cincinnati Royals"", ""Rochester Royals""]",sac,sacramento-kings,http://espn.go.com/nba/team/_/name/sac/sacramento-kings,#000000,#63727A,#5A2D81
+San Antonio Spurs,,,sa,san-antonio-spurs,http://espn.go.com/nba/team/_/name/sa/san-antonio-spurs,#C4CED4,#D4DBDC,#000000
+Toronto Raptors,,,tor,toronto-raptors,http://espn.go.com/nba/team/_/name/tor/toronto-raptors,#000000,#A1A1A4,#CE1141
+Utah Jazz,,"[""Utah Jazz"", ""New Orleans Jazz""]",utah,utah-jazz,http://espn.go.com/nba/team/_/name/utah/utah-jazz,#00471B,#F9A01B,#002B5C
+Washington Wizards,,"[""Washington Wizards"", ""Washington Bullets"", ""Capital Bullets"", ""Baltimore Bullets"", ""Chicago Zephyrs"", ""Chicago Packers""]",wsh,washington-wizards,http://espn.go.com/nba/team/_/name/wsh/washington-wizards,#C60C30,#D8D8D8,#002244
+Anderson Packers,deprecated,,,,,#060615,#D8D8D8,#f7341e
+Baltimore Bullets,Washington Wizards,,,,,#ec311b,#D8D8D8,#283469
+Baltimore Bullets (Original),deprecated,,,,,#dd0031,#ffffff,#003da6
+Buffalo Braves,Los Angeles Clippers,,buf,buffalo-braves,https://www.basketball-reference.com/teams/BUF/1978.html,#E31837,#C4CED4,#002B5C
+Capital Bullets,Washington Wizards,,,,,#c33e0d,#D8D8D8,#023291
+Chicago Stags,deprecated,,,,,#c13037,#D8D8D8,#232b80
+Chicago Packers,Washington Wizards,,,,,#6f1300,#ffefbb,#d9531f
+Chicago Zephyrs,Washington Wizards,,,,,#052a62,#D8D8D8,#bb9b6c
+Cincinnati Royals,Sacramento Kings,,,,,#dbe3ef,#e6e6e6,#183891
+Charlotte Bobcats,Charlotte Hornets,,bob,charlotte-bobcats,https://www.basketball-reference.com/teams/CHA/2014.html,#bc6a34,#a0a1a5,#032a5b
+Charlotte Hornets (Original),Charlotte Hornets,,cha,charlotte-hornets,https://www.basketball-reference.com/teams/CHA/1988.html,#251272,#fc3f32,#01778c
+Cleveland Rebels,deprecated,,,,,#192d52,#D8D8D8,#e49951
+Denver Nuggets (Original),deprecated,,,,,#000000,#D8D8D8,#00008b
+Detroit Falcons,deprecated,,,,,#ffb905,#e6e6e6,#ec1c24
+Fort Wayne Pistons,Detroit Pistons,,,,,#181926,#b5b6b5,#ad2a40
+Indianapolis Jets,deprecated,,,,,#c52105,#D8D8D8,#0f1a3a
+Indianapolis Olympians,deprecated,,,,,#c52229,#D8D8D8,#172336
+Kansas City Kings,Sacramento Kings,,kck,kansas-city-kings,https://www.basketball-reference.com/teams/KCK/1977.html,#cf331f,#D8D8D8,#045aaa
+Kansas City-Omaha Kings,Sacramento Kings,,,,,#ff002e,#D8D8D8,#002a6f
+Milwaukee Hawks,Atlanta Hawks,,,,,#f9b4cc,#D8D8D8,#e60102
+Minneapolis Lakers,Los Angeles Lakers,,,,,#fece00,#D8D8D8,#6bace1
+New Jersey Nets,Brooklyn Nets,,njn,new-jersey-nets,https://www.basketball-reference.com/teams/NJN/2012.html,#bf1345,#c6cfd4,#002960
+New Orleans Hornets,New Orleans Pelicans,,noh,new-orleans-hornets,https://www.basketball-reference.com/teams/NOH/2003.html,#fdb927,#e6e6e6,#0190b0
+New Orleans Jazz,Utah Jazz,,noj,new-orleans-jazz,https://www.basketball-reference.com/teams/NOJ/1977.html,#360149,#fbc60e,#017223
+New York Nets,Brooklyn Nets,,nyn,new-york-nets,https://www.basketball-reference.com/teams/NYN/1977.html,#af160c,#D8D8D8,#00016c
+Pittsburgh Ironmen,deprecated,,,,,#040304,#d9b103,#e5d17b
+Philadelphia Warriors,Golden State Warriors,,,,,#e0e2ef,#e6e6e6,#162a9a
+Providence Steamrollers,deprecated,,,,,#f0bd9f,#D8D8D8,#921e30
+Rochester Royals,Sacramento Kings,,,,,#c1bfd2,#e6e6e6,#2b2660
+San Diego Clippers,Los Angeles Clippers,,sdc,san-diego-clippers,https://www.basketball-reference.com/teams/SDC/1979.html,#eb3830,#D8D8D8,#273a89
+San Diego Rockets,Houston Rockets,,,,,#194884,#fcd418,#046136
+San Francisco Warriors,Golden State Warriors,,,,,#ffc325,#D8D8D8,#15659e
+Seattle Supersonics,Oklahoma City Thunder,,sea,seattle-supersonics,https://www.basketball-reference.com/teams/SEA/2008.html,#FFC200,#e6e6e6,#00653A
+Sheboygan R-- S----,deprecated,,,,,#f7d9d7,#e6e6e6,#d10501
+St. Louis Bombers,deprecated,,,,,#e5cebc,#e6e6e6,#b2611c
+St. Louis Hawks,Atlanta Hawks,,,,,#daadbc,#e6e6e6,#a32243
+Syracuse Nationals,Philadelphia 76ers,,,,,#cc3300,#D8D8D8,#346699
+Toronto Huskies,deprecated,,,,,#6976aa,#e6e6e6,#1d284e
+Tri-Cities Blackhawks,Atlanta Hawks,,,,,#461d1d,#66615a,#10121e
+Washington Bullets,Washington Wizards,,wsb,washington-bullets,https://www.basketball-reference.com/teams/WSB/1997.html,#0145ad,#D8D8D8,#c91239
+Washington Capitols,deprecated,,,,,#000c00,#D8D8D8,#3b7c4a
+Waterloo Hawks,deprecated,,,,,#0f3c70,#D8D8D8,#4d85c5
+Vancouver Grizzlies,Memphis Grizzlies,,van,vancouver-grizzlies,https://www.basketball-reference.com/teams/VAN/2001.html,#c92133,#a7a6a6,#11b3ab

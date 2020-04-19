@@ -1,0 +1,385 @@
+id,home_team,away_team,win,loss,game_number,date,year
+Baltimore Bullets (Original),Washington Capitols,Baltimore Bullets (Original),0,1,1,-698612400.0,1948
+Baltimore Bullets (Original),Baltimore Bullets (Original),Boston Celtics,1,1,2,-698526000.0,1948
+Baltimore Bullets (Original),Chicago Stags,Baltimore Bullets (Original),2,1,3,-698353200.0,1948
+Baltimore Bullets (Original),Baltimore Bullets (Original),New York Knicks,3,1,4,-697921200.0,1948
+Baltimore Bullets (Original),Boston Celtics,Baltimore Bullets (Original),4,1,5,-697834800.0,1948
+Baltimore Bullets (Original),Baltimore Bullets (Original),Chicago Stags,5,1,6,-697748400.0,1948
+Baltimore Bullets (Original),Providence Steamrollers,Baltimore Bullets (Original),6,1,7,-697316400.0,1948
+Baltimore Bullets (Original),St. Louis Bombers,Baltimore Bullets (Original),7,1,8,-697143600.0,1948
+Baltimore Bullets (Original),Boston Celtics,Baltimore Bullets (Original),8,1,9,-696884400.0,1948
+Baltimore Bullets (Original),Philadelphia Warriors,Baltimore Bullets (Original),9,1,10,-696798000.0,1948
+Baltimore Bullets (Original),Baltimore Bullets (Original),St. Louis Bombers,9,2,11,-696711600.0,1948
+Baltimore Bullets (Original),Chicago Stags,Baltimore Bullets (Original),9,3,12,-696538800.0,1948
+Baltimore Bullets (Original),Baltimore Bullets (Original),Washington Capitols,9,4,13,-696106800.0,1948
+Baltimore Bullets (Original),Baltimore Bullets (Original),New York Knicks,9,5,14,-695934000.0,1948
+Baltimore Bullets (Original),Washington Capitols,Baltimore Bullets (Original),9,6,15,-695588400.0,1948
+Baltimore Bullets (Original),Baltimore Bullets (Original),St. Louis Bombers,10,6,16,-695502000.0,1948
+Baltimore Bullets (Original),Chicago Stags,Baltimore Bullets (Original),10,7,17,-695242800.0,1948
+Baltimore Bullets (Original),Baltimore Bullets (Original),Chicago Stags,11,7,18,-694897200.0,1948
+Baltimore Bullets (Original),St. Louis Bombers,Baltimore Bullets (Original),11,8,19,-694638000.0,1948
+Baltimore Bullets (Original),Baltimore Bullets (Original),Philadelphia Warriors,11,9,20,-694292400.0,1948
+Baltimore Bullets (Original),New York Knicks,Baltimore Bullets (Original),12,9,21,-694119600.0,1948
+Baltimore Bullets (Original),Baltimore Bullets (Original),Providence Steamrollers,13,9,22,-693860400.0,1948
+Baltimore Bullets (Original),Baltimore Bullets (Original),Chicago Stags,14,9,23,-693687600.0,1948
+Baltimore Bullets (Original),St. Louis Bombers,Baltimore Bullets (Original),14,10,24,-693428400.0,1948
+Baltimore Bullets (Original),Providence Steamrollers,Baltimore Bullets (Original),15,10,25,-693082800.0,1948
+Baltimore Bullets (Original),Philadelphia Warriors,Baltimore Bullets (Original),15,11,26,-692996400.0,1948
+Baltimore Bullets (Original),Baltimore Bullets (Original),Philadelphia Warriors,15,12,27,-692910000.0,1948
+Baltimore Bullets (Original),Baltimore Bullets (Original),St. Louis Bombers,15,13,28,-692478000.0,1948
+Baltimore Bullets (Original),New York Knicks,Baltimore Bullets (Original),16,13,29,-692305200.0,1948
+Baltimore Bullets (Original),Chicago Stags,Baltimore Bullets (Original),16,14,30,-692046000.0,1948
+Baltimore Bullets (Original),Baltimore Bullets (Original),Washington Capitols,17,14,31,-691786800.0,1948
+Baltimore Bullets (Original),Providence Steamrollers,Baltimore Bullets (Original),18,14,32,-691700400.0,1948
+Baltimore Bullets (Original),Washington Capitols,Baltimore Bullets (Original),18,15,33,-691354800.0,1948
+Baltimore Bullets (Original),Baltimore Bullets (Original),Providence Steamrollers,19,15,34,-691268400.0,1948
+Baltimore Bullets (Original),Baltimore Bullets (Original),New York Knicks,20,15,35,-690663600.0,1948
+Baltimore Bullets (Original),St. Louis Bombers,Baltimore Bullets (Original),20,16,36,-690404400.0,1948
+Baltimore Bullets (Original),Boston Celtics,Baltimore Bullets (Original),21,16,37,-690058800.0,1948
+Baltimore Bullets (Original),Washington Capitols,Baltimore Bullets (Original),21,17,38,-689886000.0,1948
+Baltimore Bullets (Original),Philadelphia Warriors,Baltimore Bullets (Original),21,18,39,-689626800.0,1948
+Baltimore Bullets (Original),Baltimore Bullets (Original),Washington Capitols,22,18,40,-689454000.0,1948
+Baltimore Bullets (Original),New York Knicks,Baltimore Bullets (Original),23,18,41,-689281200.0,1948
+Baltimore Bullets (Original),Boston Celtics,Baltimore Bullets (Original),23,19,42,-689194800.0,1948
+Baltimore Bullets (Original),Baltimore Bullets (Original),St. Louis Bombers,24,19,43,-688849200.0,1948
+Baltimore Bullets (Original),Baltimore Bullets (Original),Boston Celtics,25,19,44,-688676400.0,1948
+Baltimore Bullets (Original),Baltimore Bullets (Original),Chicago Stags,26,19,45,-688244400.0,1948
+Baltimore Bullets (Original),Baltimore Bullets (Original),Philadelphia Warriors,27,19,46,-688071600.0,1948
+Baltimore Bullets (Original),Baltimore Bullets (Original),Washington Capitols,27,20,47,-687639600.0,1948
+Baltimore Bullets (Original),Baltimore Bullets (Original),Providence Steamrollers,28,20,48,-687466800.0,1948
+Boston Celtics,Baltimore Bullets (Original),Boston Celtics,0,1,1,-698526000.0,1948
+Boston Celtics,Boston Celtics,Philadelphia Warriors,0,2,2,-698439600.0,1948
+Boston Celtics,Boston Celtics,Washington Capitols,1,2,3,-698353200.0,1948
+Boston Celtics,Boston Celtics,St. Louis Bombers,1,3,4,-698094000.0,1948
+Boston Celtics,Philadelphia Warriors,Boston Celtics,2,3,5,-697921200.0,1948
+Boston Celtics,Boston Celtics,Baltimore Bullets (Original),2,4,6,-697834800.0,1948
+Boston Celtics,Boston Celtics,Providence Steamrollers,3,4,7,-697748400.0,1948
+Boston Celtics,Boston Celtics,New York Knicks,3,5,8,-697489200.0,1948
+Boston Celtics,New York Knicks,Boston Celtics,4,5,9,-697402800.0,1948
+Boston Celtics,Boston Celtics,Washington Capitols,5,5,10,-697230000.0,1948
+Boston Celtics,Boston Celtics,Baltimore Bullets (Original),5,6,11,-696884400.0,1948
+Boston Celtics,Boston Celtics,Providence Steamrollers,6,6,12,-696625200.0,1948
+Boston Celtics,Boston Celtics,New York Knicks,6,7,13,-696193200.0,1948
+Boston Celtics,Boston Celtics,Philadelphia Warriors,7,7,14,-696020400.0,1948
+Boston Celtics,Boston Celtics,Providence Steamrollers,8,7,15,-695588400.0,1948
+Boston Celtics,Boston Celtics,St. Louis Bombers,9,7,16,-695415600.0,1948
+Boston Celtics,New York Knicks,Boston Celtics,9,8,17,-695329200.0,1948
+Boston Celtics,Boston Celtics,Chicago Stags,9,9,18,-695070000.0,1948
+Boston Celtics,Boston Celtics,Providence Steamrollers,10,9,19,-694724400.0,1948
+Boston Celtics,Boston Celtics,Philadelphia Warriors,11,9,20,-694465200.0,1948
+Boston Celtics,St. Louis Bombers,Boston Celtics,11,10,21,-694292400.0,1948
+Boston Celtics,Washington Capitols,Boston Celtics,11,11,22,-694119600.0,1948
+Boston Celtics,Providence Steamrollers,Boston Celtics,11,12,23,-693514800.0,1948
+Boston Celtics,Boston Celtics,Washington Capitols,12,12,24,-693428400.0,1948
+Boston Celtics,Boston Celtics,Chicago Stags,13,12,25,-692996400.0,1948
+Boston Celtics,Chicago Stags,Boston Celtics,13,13,26,-692823600.0,1948
+Boston Celtics,Philadelphia Warriors,Boston Celtics,14,13,27,-692478000.0,1948
+Boston Celtics,Boston Celtics,New York Knicks,14,14,28,-692391600.0,1948
+Boston Celtics,St. Louis Bombers,Boston Celtics,14,15,29,-692218800.0,1948
+Boston Celtics,Boston Celtics,Philadelphia Warriors,14,16,30,-692046000.0,1948
+Boston Celtics,Boston Celtics,Providence Steamrollers,14,17,31,-691786800.0,1948
+Boston Celtics,New York Knicks,Boston Celtics,14,18,32,-691700400.0,1948
+Boston Celtics,Boston Celtics,New York Knicks,14,19,33,-691182000.0,1948
+Boston Celtics,New York Knicks,Boston Celtics,14,20,34,-691009200.0,1948
+Boston Celtics,Philadelphia Warriors,Boston Celtics,14,21,35,-690663600.0,1948
+Boston Celtics,Boston Celtics,Providence Steamrollers,15,21,36,-690577200.0,1948
+Boston Celtics,Washington Capitols,Boston Celtics,15,22,37,-690490800.0,1948
+Boston Celtics,Boston Celtics,Baltimore Bullets (Original),15,23,38,-690058800.0,1948
+Boston Celtics,Boston Celtics,Chicago Stags,15,24,39,-689799600.0,1948
+Boston Celtics,St. Louis Bombers,Boston Celtics,15,25,40,-689454000.0,1948
+Boston Celtics,Chicago Stags,Boston Celtics,16,25,41,-689367600.0,1948
+Boston Celtics,Boston Celtics,Baltimore Bullets (Original),17,25,42,-689194800.0,1948
+Boston Celtics,Philadelphia Warriors,Boston Celtics,17,26,43,-688849200.0,1948
+Boston Celtics,Boston Celtics,St. Louis Bombers,18,26,44,-688762800.0,1948
+Boston Celtics,Baltimore Bullets (Original),Boston Celtics,18,27,45,-688676400.0,1948
+Boston Celtics,Providence Steamrollers,Boston Celtics,19,27,46,-688071600.0,1948
+Boston Celtics,Boston Celtics,Washington Capitols,19,28,47,-687812400.0,1948
+Boston Celtics,Chicago Stags,Boston Celtics,20,28,48,-687639600.0,1948
+Chicago Stags,Chicago Stags,St. Louis Bombers,1,0,1,-698526000.0,1948
+Chicago Stags,Chicago Stags,Baltimore Bullets (Original),1,1,2,-698353200.0,1948
+Chicago Stags,New York Knicks,Chicago Stags,2,1,3,-698007600.0,1948
+Chicago Stags,Chicago Stags,Washington Capitols,3,1,4,-697921200.0,1948
+Chicago Stags,Baltimore Bullets (Original),Chicago Stags,3,2,5,-697748400.0,1948
+Chicago Stags,Chicago Stags,Philadelphia Warriors,4,2,6,-697230000.0,1948
+Chicago Stags,Chicago Stags,Washington Capitols,5,2,7,-696798000.0,1948
+Chicago Stags,Chicago Stags,Baltimore Bullets (Original),6,2,8,-696538800.0,1948
+Chicago Stags,Chicago Stags,St. Louis Bombers,6,3,9,-696020400.0,1948
+Chicago Stags,Chicago Stags,Washington Capitols,6,4,10,-695502000.0,1948
+Chicago Stags,Chicago Stags,Baltimore Bullets (Original),7,4,11,-695242800.0,1948
+Chicago Stags,Boston Celtics,Chicago Stags,8,4,12,-695070000.0,1948
+Chicago Stags,Baltimore Bullets (Original),Chicago Stags,8,5,13,-694897200.0,1948
+Chicago Stags,New York Knicks,Chicago Stags,9,5,14,-694724400.0,1948
+Chicago Stags,Providence Steamrollers,Chicago Stags,10,5,15,-694465200.0,1948
+Chicago Stags,Providence Steamrollers,Chicago Stags,11,5,16,-694119600.0,1948
+Chicago Stags,New York Knicks,Chicago Stags,12,5,17,-693774000.0,1948
+Chicago Stags,Baltimore Bullets (Original),Chicago Stags,12,6,18,-693687600.0,1948
+Chicago Stags,Philadelphia Warriors,Chicago Stags,13,6,19,-693601200.0,1948
+Chicago Stags,Chicago Stags,New York Knicks,14,6,20,-693428400.0,1948
+Chicago Stags,Washington Capitols,Chicago Stags,14,7,21,-693169200.0,1948
+Chicago Stags,Boston Celtics,Chicago Stags,14,8,22,-692996400.0,1948
+Chicago Stags,Chicago Stags,Boston Celtics,15,8,23,-692823600.0,1948
+Chicago Stags,Chicago Stags,Providence Steamrollers,15,9,24,-692478000.0,1948
+Chicago Stags,Chicago Stags,Baltimore Bullets (Original),16,9,25,-692046000.0,1948
+Chicago Stags,St. Louis Bombers,Chicago Stags,16,10,26,-691873200.0,1948
+Chicago Stags,Washington Capitols,Chicago Stags,16,11,27,-691700400.0,1948
+Chicago Stags,Chicago Stags,Philadelphia Warriors,16,12,28,-691614000.0,1948
+Chicago Stags,St. Louis Bombers,Chicago Stags,17,12,29,-691268400.0,1948
+Chicago Stags,Chicago Stags,Philadelphia Warriors,18,12,30,-691009200.0,1948
+Chicago Stags,Chicago Stags,St. Louis Bombers,18,13,31,-690750000.0,1948
+Chicago Stags,St. Louis Bombers,Chicago Stags,19,13,32,-690663600.0,1948
+Chicago Stags,Chicago Stags,Providence Steamrollers,19,14,33,-690404400.0,1948
+Chicago Stags,Chicago Stags,New York Knicks,20,14,34,-690058800.0,1948
+Chicago Stags,Providence Steamrollers,Chicago Stags,21,14,35,-689886000.0,1948
+Chicago Stags,Boston Celtics,Chicago Stags,22,14,36,-689799600.0,1948
+Chicago Stags,Washington Capitols,Chicago Stags,23,14,37,-689540400.0,1948
+Chicago Stags,Philadelphia Warriors,Chicago Stags,23,15,38,-689454000.0,1948
+Chicago Stags,Chicago Stags,Boston Celtics,23,16,39,-689367600.0,1948
+Chicago Stags,Chicago Stags,Washington Capitols,24,16,40,-689194800.0,1948
+Chicago Stags,Chicago Stags,Providence Steamrollers,25,16,41,-688590000.0,1948
+Chicago Stags,Philadelphia Warriors,Chicago Stags,26,16,42,-688417200.0,1948
+Chicago Stags,Washington Capitols,Chicago Stags,27,16,43,-688330800.0,1948
+Chicago Stags,Baltimore Bullets (Original),Chicago Stags,27,17,44,-688244400.0,1948
+Chicago Stags,Chicago Stags,New York Knicks,28,17,45,-688071600.0,1948
+Chicago Stags,Chicago Stags,Boston Celtics,28,18,46,-687639600.0,1948
+Chicago Stags,St. Louis Bombers,Chicago Stags,28,19,47,-687466800.0,1948
+Chicago Stags,Chicago Stags,St. Louis Bombers,28,20,48,-687380400.0,1948
+New York Knicks,New York Knicks,Washington Capitols,1,0,1,-698526000.0,1948
+New York Knicks,New York Knicks,St. Louis Bombers,2,0,2,-698353200.0,1948
+New York Knicks,Providence Steamrollers,New York Knicks,3,0,3,-698094000.0,1948
+New York Knicks,New York Knicks,Chicago Stags,3,1,4,-698007600.0,1948
+New York Knicks,Baltimore Bullets (Original),New York Knicks,3,2,5,-697921200.0,1948
+New York Knicks,New York Knicks,Philadelphia Warriors,3,3,6,-697748400.0,1948
+New York Knicks,Boston Celtics,New York Knicks,4,3,7,-697489200.0,1948
+New York Knicks,New York Knicks,Boston Celtics,4,4,8,-697402800.0,1948
+New York Knicks,Philadelphia Warriors,New York Knicks,5,4,9,-697316400.0,1948
+New York Knicks,New York Knicks,Washington Capitols,5,5,10,-696970800.0,1948
+New York Knicks,Providence Steamrollers,New York Knicks,6,5,11,-696538800.0,1948
+New York Knicks,New York Knicks,St. Louis Bombers,7,5,12,-696366000.0,1948
+New York Knicks,Boston Celtics,New York Knicks,8,5,13,-696193200.0,1948
+New York Knicks,Baltimore Bullets (Original),New York Knicks,9,5,14,-695934000.0,1948
+New York Knicks,New York Knicks,Philadelphia Warriors,9,6,15,-695761200.0,1948
+New York Knicks,Philadelphia Warriors,New York Knicks,10,6,16,-695502000.0,1948
+New York Knicks,New York Knicks,Boston Celtics,11,6,17,-695329200.0,1948
+New York Knicks,Providence Steamrollers,New York Knicks,11,7,18,-695070000.0,1948
+New York Knicks,New York Knicks,Providence Steamrollers,12,7,19,-694897200.0,1948
+New York Knicks,New York Knicks,Chicago Stags,12,8,20,-694724400.0,1948
+New York Knicks,New York Knicks,Baltimore Bullets (Original),12,9,21,-694119600.0,1948
+New York Knicks,New York Knicks,Chicago Stags,12,10,22,-693774000.0,1948
+New York Knicks,Chicago Stags,New York Knicks,12,11,23,-693428400.0,1948
+New York Knicks,St. Louis Bombers,New York Knicks,13,11,24,-693082800.0,1948
+New York Knicks,Washington Capitols,New York Knicks,13,12,25,-692910000.0,1948
+New York Knicks,New York Knicks,Philadelphia Warriors,13,13,26,-692737200.0,1948
+New York Knicks,Boston Celtics,New York Knicks,14,13,27,-692391600.0,1948
+New York Knicks,New York Knicks,Baltimore Bullets (Original),14,14,28,-692305200.0,1948
+New York Knicks,New York Knicks,Providence Steamrollers,15,14,29,-691959600.0,1948
+New York Knicks,Philadelphia Warriors,New York Knicks,16,14,30,-691873200.0,1948
+New York Knicks,New York Knicks,Boston Celtics,17,14,31,-691700400.0,1948
+New York Knicks,Providence Steamrollers,New York Knicks,18,14,32,-691441200.0,1948
+New York Knicks,New York Knicks,Providence Steamrollers,19,14,33,-691354800.0,1948
+New York Knicks,Boston Celtics,New York Knicks,20,14,34,-691182000.0,1948
+New York Knicks,New York Knicks,Boston Celtics,21,14,35,-691009200.0,1948
+New York Knicks,New York Knicks,Providence Steamrollers,22,14,36,-690750000.0,1948
+New York Knicks,Baltimore Bullets (Original),New York Knicks,22,15,37,-690663600.0,1948
+New York Knicks,New York Knicks,Philadelphia Warriors,23,15,38,-690490800.0,1948
+New York Knicks,Washington Capitols,New York Knicks,24,15,39,-690145200.0,1948
+New York Knicks,Chicago Stags,New York Knicks,24,16,40,-690058800.0,1948
+New York Knicks,St. Louis Bombers,New York Knicks,24,17,41,-689799600.0,1948
+New York Knicks,New York Knicks,Baltimore Bullets (Original),24,18,42,-689281200.0,1948
+New York Knicks,Philadelphia Warriors,New York Knicks,24,19,43,-689022000.0,1948
+New York Knicks,New York Knicks,Washington Capitols,25,19,44,-688676400.0,1948
+New York Knicks,New York Knicks,St. Louis Bombers,25,20,45,-688330800.0,1948
+New York Knicks,Chicago Stags,New York Knicks,25,21,46,-688071600.0,1948
+New York Knicks,St. Louis Bombers,New York Knicks,26,21,47,-687639600.0,1948
+New York Knicks,Washington Capitols,New York Knicks,26,22,48,-687466800.0,1948
+Philadelphia Warriors,Philadelphia Warriors,Providence Steamrollers,1,0,1,-698526000.0,1948
+Philadelphia Warriors,Boston Celtics,Philadelphia Warriors,2,0,2,-698439600.0,1948
+Philadelphia Warriors,Providence Steamrollers,Philadelphia Warriors,3,0,3,-698353200.0,1948
+Philadelphia Warriors,Washington Capitols,Philadelphia Warriors,3,1,4,-698007600.0,1948
+Philadelphia Warriors,Philadelphia Warriors,Boston Celtics,3,2,5,-697921200.0,1948
+Philadelphia Warriors,New York Knicks,Philadelphia Warriors,4,2,6,-697748400.0,1948
+Philadelphia Warriors,Philadelphia Warriors,New York Knicks,4,3,7,-697316400.0,1948
+Philadelphia Warriors,Chicago Stags,Philadelphia Warriors,4,4,8,-697230000.0,1948
+Philadelphia Warriors,Philadelphia Warriors,Baltimore Bullets (Original),4,5,9,-696798000.0,1948
+Philadelphia Warriors,Philadelphia Warriors,Providence Steamrollers,5,5,10,-696279600.0,1948
+Philadelphia Warriors,Philadelphia Warriors,St. Louis Bombers,5,6,11,-696106800.0,1948
+Philadelphia Warriors,Boston Celtics,Philadelphia Warriors,5,7,12,-696020400.0,1948
+Philadelphia Warriors,New York Knicks,Philadelphia Warriors,6,7,13,-695761200.0,1948
+Philadelphia Warriors,Philadelphia Warriors,New York Knicks,6,8,14,-695502000.0,1948
+Philadelphia Warriors,Providence Steamrollers,Philadelphia Warriors,7,8,15,-695329200.0,1948
+Philadelphia Warriors,Philadelphia Warriors,Providence Steamrollers,8,8,16,-694810800.0,1948
+Philadelphia Warriors,Washington Capitols,Philadelphia Warriors,8,9,17,-694724400.0,1948
+Philadelphia Warriors,Boston Celtics,Philadelphia Warriors,8,10,18,-694465200.0,1948
+Philadelphia Warriors,Baltimore Bullets (Original),Philadelphia Warriors,9,10,19,-694292400.0,1948
+Philadelphia Warriors,Philadelphia Warriors,Washington Capitols,10,10,20,-694206000.0,1948
+Philadelphia Warriors,St. Louis Bombers,Philadelphia Warriors,10,11,21,-694033200.0,1948
+Philadelphia Warriors,Philadelphia Warriors,Chicago Stags,10,12,22,-693601200.0,1948
+Philadelphia Warriors,Washington Capitols,Philadelphia Warriors,10,13,23,-693514800.0,1948
+Philadelphia Warriors,Philadelphia Warriors,Baltimore Bullets (Original),11,13,24,-692996400.0,1948
+Philadelphia Warriors,Baltimore Bullets (Original),Philadelphia Warriors,12,13,25,-692910000.0,1948
+Philadelphia Warriors,New York Knicks,Philadelphia Warriors,13,13,26,-692737200.0,1948
+Philadelphia Warriors,Philadelphia Warriors,St. Louis Bombers,14,13,27,-692650800.0,1948
+Philadelphia Warriors,Philadelphia Warriors,Boston Celtics,14,14,28,-692478000.0,1948
+Philadelphia Warriors,Boston Celtics,Philadelphia Warriors,15,14,29,-692046000.0,1948
+Philadelphia Warriors,Philadelphia Warriors,New York Knicks,15,15,30,-691873200.0,1948
+Philadelphia Warriors,St. Louis Bombers,Philadelphia Warriors,16,15,31,-691700400.0,1948
+Philadelphia Warriors,Chicago Stags,Philadelphia Warriors,17,15,32,-691614000.0,1948
+Philadelphia Warriors,Philadelphia Warriors,Washington Capitols,17,16,33,-691268400.0,1948
+Philadelphia Warriors,St. Louis Bombers,Philadelphia Warriors,17,17,34,-691095600.0,1948
+Philadelphia Warriors,Chicago Stags,Philadelphia Warriors,17,18,35,-691009200.0,1948
+Philadelphia Warriors,Philadelphia Warriors,Boston Celtics,18,18,36,-690663600.0,1948
+Philadelphia Warriors,New York Knicks,Philadelphia Warriors,18,19,37,-690490800.0,1948
+Philadelphia Warriors,Philadelphia Warriors,Washington Capitols,19,19,38,-690058800.0,1948
+Philadelphia Warriors,Philadelphia Warriors,Baltimore Bullets (Original),20,19,39,-689626800.0,1948
+Philadelphia Warriors,Philadelphia Warriors,Chicago Stags,21,19,40,-689454000.0,1948
+Philadelphia Warriors,Providence Steamrollers,Philadelphia Warriors,22,19,41,-689281200.0,1948
+Philadelphia Warriors,Philadelphia Warriors,New York Knicks,23,19,42,-689022000.0,1948
+Philadelphia Warriors,Philadelphia Warriors,Boston Celtics,24,19,43,-688849200.0,1948
+Philadelphia Warriors,Philadelphia Warriors,Chicago Stags,24,20,44,-688417200.0,1948
+Philadelphia Warriors,Philadelphia Warriors,St. Louis Bombers,25,20,45,-688244400.0,1948
+Philadelphia Warriors,Baltimore Bullets (Original),Philadelphia Warriors,25,21,46,-688071600.0,1948
+Philadelphia Warriors,Providence Steamrollers,Philadelphia Warriors,26,21,47,-687812400.0,1948
+Philadelphia Warriors,Philadelphia Warriors,Providence Steamrollers,27,21,48,-687639600.0,1948
+Providence Steamrollers,Philadelphia Warriors,Providence Steamrollers,0,1,1,-698526000.0,1948
+Providence Steamrollers,Providence Steamrollers,Philadelphia Warriors,0,2,2,-698353200.0,1948
+Providence Steamrollers,Providence Steamrollers,New York Knicks,0,3,3,-698094000.0,1948
+Providence Steamrollers,St. Louis Bombers,Providence Steamrollers,0,4,4,-697921200.0,1948
+Providence Steamrollers,Boston Celtics,Providence Steamrollers,0,5,5,-697748400.0,1948
+Providence Steamrollers,Providence Steamrollers,Baltimore Bullets (Original),0,6,6,-697316400.0,1948
+Providence Steamrollers,Washington Capitols,Providence Steamrollers,1,6,7,-697143600.0,1948
+Providence Steamrollers,Providence Steamrollers,St. Louis Bombers,1,7,8,-696884400.0,1948
+Providence Steamrollers,Boston Celtics,Providence Steamrollers,1,8,9,-696625200.0,1948
+Providence Steamrollers,Providence Steamrollers,New York Knicks,1,9,10,-696538800.0,1948
+Providence Steamrollers,Philadelphia Warriors,Providence Steamrollers,1,10,11,-696279600.0,1948
+Providence Steamrollers,Washington Capitols,Providence Steamrollers,1,11,12,-695934000.0,1948
+Providence Steamrollers,Boston Celtics,Providence Steamrollers,1,12,13,-695588400.0,1948
+Providence Steamrollers,Providence Steamrollers,Philadelphia Warriors,1,13,14,-695329200.0,1948
+Providence Steamrollers,Providence Steamrollers,New York Knicks,2,13,15,-695070000.0,1948
+Providence Steamrollers,New York Knicks,Providence Steamrollers,2,14,16,-694897200.0,1948
+Providence Steamrollers,Philadelphia Warriors,Providence Steamrollers,2,15,17,-694810800.0,1948
+Providence Steamrollers,Boston Celtics,Providence Steamrollers,2,16,18,-694724400.0,1948
+Providence Steamrollers,Providence Steamrollers,Chicago Stags,2,17,19,-694465200.0,1948
+Providence Steamrollers,Providence Steamrollers,Chicago Stags,2,18,20,-694119600.0,1948
+Providence Steamrollers,Baltimore Bullets (Original),Providence Steamrollers,2,19,21,-693860400.0,1948
+Providence Steamrollers,Providence Steamrollers,Boston Celtics,3,19,22,-693514800.0,1948
+Providence Steamrollers,Providence Steamrollers,Baltimore Bullets (Original),3,20,23,-693082800.0,1948
+Providence Steamrollers,St. Louis Bombers,Providence Steamrollers,3,21,24,-692823600.0,1948
+Providence Steamrollers,Chicago Stags,Providence Steamrollers,4,21,25,-692478000.0,1948
+Providence Steamrollers,Washington Capitols,Providence Steamrollers,4,22,26,-692305200.0,1948
+Providence Steamrollers,Providence Steamrollers,St. Louis Bombers,4,23,27,-692046000.0,1948
+Providence Steamrollers,New York Knicks,Providence Steamrollers,4,24,28,-691959600.0,1948
+Providence Steamrollers,Boston Celtics,Providence Steamrollers,5,24,29,-691786800.0,1948
+Providence Steamrollers,Providence Steamrollers,Baltimore Bullets (Original),5,25,30,-691700400.0,1948
+Providence Steamrollers,Providence Steamrollers,New York Knicks,5,26,31,-691441200.0,1948
+Providence Steamrollers,New York Knicks,Providence Steamrollers,5,27,32,-691354800.0,1948
+Providence Steamrollers,Baltimore Bullets (Original),Providence Steamrollers,5,28,33,-691268400.0,1948
+Providence Steamrollers,Providence Steamrollers,Washington Capitols,5,29,34,-691095600.0,1948
+Providence Steamrollers,Washington Capitols,Providence Steamrollers,5,30,35,-690836400.0,1948
+Providence Steamrollers,New York Knicks,Providence Steamrollers,5,31,36,-690750000.0,1948
+Providence Steamrollers,Boston Celtics,Providence Steamrollers,5,32,37,-690577200.0,1948
+Providence Steamrollers,Chicago Stags,Providence Steamrollers,6,32,38,-690404400.0,1948
+Providence Steamrollers,St. Louis Bombers,Providence Steamrollers,6,33,39,-690058800.0,1948
+Providence Steamrollers,Providence Steamrollers,Chicago Stags,6,34,40,-689886000.0,1948
+Providence Steamrollers,Providence Steamrollers,Philadelphia Warriors,6,35,41,-689281200.0,1948
+Providence Steamrollers,Chicago Stags,Providence Steamrollers,6,36,42,-688590000.0,1948
+Providence Steamrollers,Providence Steamrollers,St. Louis Bombers,6,37,43,-688417200.0,1948
+Providence Steamrollers,Providence Steamrollers,Boston Celtics,6,38,44,-688071600.0,1948
+Providence Steamrollers,Providence Steamrollers,Philadelphia Warriors,6,39,45,-687812400.0,1948
+Providence Steamrollers,Washington Capitols,Providence Steamrollers,6,40,46,-687726000.0,1948
+Providence Steamrollers,Philadelphia Warriors,Providence Steamrollers,6,41,47,-687639600.0,1948
+Providence Steamrollers,Baltimore Bullets (Original),Providence Steamrollers,6,42,48,-687466800.0,1948
+St. Louis Bombers,Chicago Stags,St. Louis Bombers,0,1,1,-698526000.0,1948
+St. Louis Bombers,New York Knicks,St. Louis Bombers,0,2,2,-698353200.0,1948
+St. Louis Bombers,Boston Celtics,St. Louis Bombers,1,2,3,-698094000.0,1948
+St. Louis Bombers,St. Louis Bombers,Providence Steamrollers,2,2,4,-697921200.0,1948
+St. Louis Bombers,St. Louis Bombers,Washington Capitols,3,2,5,-697748400.0,1948
+St. Louis Bombers,Washington Capitols,St. Louis Bombers,3,3,6,-697402800.0,1948
+St. Louis Bombers,St. Louis Bombers,Baltimore Bullets (Original),3,4,7,-697143600.0,1948
+St. Louis Bombers,Providence Steamrollers,St. Louis Bombers,4,4,8,-696884400.0,1948
+St. Louis Bombers,Baltimore Bullets (Original),St. Louis Bombers,5,4,9,-696711600.0,1948
+St. Louis Bombers,New York Knicks,St. Louis Bombers,5,5,10,-696366000.0,1948
+St. Louis Bombers,Philadelphia Warriors,St. Louis Bombers,6,5,11,-696106800.0,1948
+St. Louis Bombers,Chicago Stags,St. Louis Bombers,7,5,12,-696020400.0,1948
+St. Louis Bombers,Baltimore Bullets (Original),St. Louis Bombers,7,6,13,-695502000.0,1948
+St. Louis Bombers,Boston Celtics,St. Louis Bombers,7,7,14,-695415600.0,1948
+St. Louis Bombers,Washington Capitols,St. Louis Bombers,8,7,15,-695329200.0,1948
+St. Louis Bombers,St. Louis Bombers,Washington Capitols,8,8,16,-694897200.0,1948
+St. Louis Bombers,St. Louis Bombers,Baltimore Bullets (Original),9,8,17,-694638000.0,1948
+St. Louis Bombers,St. Louis Bombers,Boston Celtics,10,8,18,-694292400.0,1948
+St. Louis Bombers,St. Louis Bombers,Philadelphia Warriors,11,8,19,-694033200.0,1948
+St. Louis Bombers,St. Louis Bombers,Washington Capitols,12,8,20,-693687600.0,1948
+St. Louis Bombers,St. Louis Bombers,Baltimore Bullets (Original),13,8,21,-693428400.0,1948
+St. Louis Bombers,St. Louis Bombers,New York Knicks,13,9,22,-693082800.0,1948
+St. Louis Bombers,St. Louis Bombers,Providence Steamrollers,14,9,23,-692823600.0,1948
+St. Louis Bombers,Philadelphia Warriors,St. Louis Bombers,14,10,24,-692650800.0,1948
+St. Louis Bombers,Washington Capitols,St. Louis Bombers,14,11,25,-692564400.0,1948
+St. Louis Bombers,Baltimore Bullets (Original),St. Louis Bombers,15,11,26,-692478000.0,1948
+St. Louis Bombers,St. Louis Bombers,Boston Celtics,16,11,27,-692218800.0,1948
+St. Louis Bombers,Providence Steamrollers,St. Louis Bombers,17,11,28,-692046000.0,1948
+St. Louis Bombers,St. Louis Bombers,Chicago Stags,18,11,29,-691873200.0,1948
+St. Louis Bombers,St. Louis Bombers,Philadelphia Warriors,18,12,30,-691700400.0,1948
+St. Louis Bombers,St. Louis Bombers,Chicago Stags,18,13,31,-691268400.0,1948
+St. Louis Bombers,St. Louis Bombers,Philadelphia Warriors,19,13,32,-691095600.0,1948
+St. Louis Bombers,Chicago Stags,St. Louis Bombers,20,13,33,-690750000.0,1948
+St. Louis Bombers,St. Louis Bombers,Chicago Stags,20,14,34,-690663600.0,1948
+St. Louis Bombers,St. Louis Bombers,Baltimore Bullets (Original),21,14,35,-690404400.0,1948
+St. Louis Bombers,St. Louis Bombers,Providence Steamrollers,22,14,36,-690058800.0,1948
+St. Louis Bombers,St. Louis Bombers,New York Knicks,23,14,37,-689799600.0,1948
+St. Louis Bombers,St. Louis Bombers,Boston Celtics,24,14,38,-689454000.0,1948
+St. Louis Bombers,St. Louis Bombers,Washington Capitols,25,14,39,-689281200.0,1948
+St. Louis Bombers,Baltimore Bullets (Original),St. Louis Bombers,25,15,40,-688849200.0,1948
+St. Louis Bombers,Boston Celtics,St. Louis Bombers,25,16,41,-688762800.0,1948
+St. Louis Bombers,Providence Steamrollers,St. Louis Bombers,26,16,42,-688417200.0,1948
+St. Louis Bombers,New York Knicks,St. Louis Bombers,27,16,43,-688330800.0,1948
+St. Louis Bombers,Philadelphia Warriors,St. Louis Bombers,27,17,44,-688244400.0,1948
+St. Louis Bombers,Washington Capitols,St. Louis Bombers,27,18,45,-688071600.0,1948
+St. Louis Bombers,St. Louis Bombers,New York Knicks,27,19,46,-687639600.0,1948
+St. Louis Bombers,St. Louis Bombers,Chicago Stags,28,19,47,-687466800.0,1948
+St. Louis Bombers,Chicago Stags,St. Louis Bombers,29,19,48,-687380400.0,1948
+Washington Capitols,Washington Capitols,Baltimore Bullets (Original),1,0,1,-698612400.0,1948
+Washington Capitols,New York Knicks,Washington Capitols,1,1,2,-698526000.0,1948
+Washington Capitols,Boston Celtics,Washington Capitols,1,2,3,-698353200.0,1948
+Washington Capitols,Washington Capitols,Philadelphia Warriors,2,2,4,-698007600.0,1948
+Washington Capitols,Chicago Stags,Washington Capitols,2,3,5,-697921200.0,1948
+Washington Capitols,St. Louis Bombers,Washington Capitols,2,4,6,-697748400.0,1948
+Washington Capitols,Washington Capitols,St. Louis Bombers,3,4,7,-697402800.0,1948
+Washington Capitols,Boston Celtics,Washington Capitols,3,5,8,-697230000.0,1948
+Washington Capitols,Washington Capitols,Providence Steamrollers,3,6,9,-697143600.0,1948
+Washington Capitols,New York Knicks,Washington Capitols,4,6,10,-696970800.0,1948
+Washington Capitols,Chicago Stags,Washington Capitols,4,7,11,-696798000.0,1948
+Washington Capitols,Baltimore Bullets (Original),Washington Capitols,5,7,12,-696106800.0,1948
+Washington Capitols,Washington Capitols,Providence Steamrollers,6,7,13,-695934000.0,1948
+Washington Capitols,Washington Capitols,Baltimore Bullets (Original),7,7,14,-695588400.0,1948
+Washington Capitols,Chicago Stags,Washington Capitols,8,7,15,-695502000.0,1948
+Washington Capitols,Washington Capitols,St. Louis Bombers,8,8,16,-695329200.0,1948
+Washington Capitols,St. Louis Bombers,Washington Capitols,9,8,17,-694897200.0,1948
+Washington Capitols,Washington Capitols,Philadelphia Warriors,10,8,18,-694724400.0,1948
+Washington Capitols,Philadelphia Warriors,Washington Capitols,10,9,19,-694206000.0,1948
+Washington Capitols,Washington Capitols,Boston Celtics,11,9,20,-694119600.0,1948
+Washington Capitols,St. Louis Bombers,Washington Capitols,11,10,21,-693687600.0,1948
+Washington Capitols,Washington Capitols,Philadelphia Warriors,12,10,22,-693514800.0,1948
+Washington Capitols,Boston Celtics,Washington Capitols,12,11,23,-693428400.0,1948
+Washington Capitols,Washington Capitols,Chicago Stags,13,11,24,-693169200.0,1948
+Washington Capitols,Washington Capitols,New York Knicks,14,11,25,-692910000.0,1948
+Washington Capitols,Washington Capitols,St. Louis Bombers,15,11,26,-692564400.0,1948
+Washington Capitols,Washington Capitols,Providence Steamrollers,16,11,27,-692305200.0,1948
+Washington Capitols,Baltimore Bullets (Original),Washington Capitols,16,12,28,-691786800.0,1948
+Washington Capitols,Washington Capitols,Chicago Stags,17,12,29,-691700400.0,1948
+Washington Capitols,Washington Capitols,Baltimore Bullets (Original),18,12,30,-691354800.0,1948
+Washington Capitols,Philadelphia Warriors,Washington Capitols,19,12,31,-691268400.0,1948
+Washington Capitols,Providence Steamrollers,Washington Capitols,20,12,32,-691095600.0,1948
+Washington Capitols,Washington Capitols,Providence Steamrollers,21,12,33,-690836400.0,1948
+Washington Capitols,Washington Capitols,Boston Celtics,22,12,34,-690490800.0,1948
+Washington Capitols,Washington Capitols,New York Knicks,22,13,35,-690145200.0,1948
+Washington Capitols,Philadelphia Warriors,Washington Capitols,22,14,36,-690058800.0,1948
+Washington Capitols,Washington Capitols,Baltimore Bullets (Original),23,14,37,-689886000.0,1948
+Washington Capitols,Washington Capitols,Chicago Stags,23,15,38,-689540400.0,1948
+Washington Capitols,Baltimore Bullets (Original),Washington Capitols,23,16,39,-689454000.0,1948
+Washington Capitols,St. Louis Bombers,Washington Capitols,23,17,40,-689281200.0,1948
+Washington Capitols,Chicago Stags,Washington Capitols,23,18,41,-689194800.0,1948
+Washington Capitols,New York Knicks,Washington Capitols,23,19,42,-688676400.0,1948
+Washington Capitols,Washington Capitols,Chicago Stags,23,20,43,-688330800.0,1948
+Washington Capitols,Washington Capitols,St. Louis Bombers,24,20,44,-688071600.0,1948
+Washington Capitols,Boston Celtics,Washington Capitols,25,20,45,-687812400.0,1948
+Washington Capitols,Washington Capitols,Providence Steamrollers,26,20,46,-687726000.0,1948
+Washington Capitols,Baltimore Bullets (Original),Washington Capitols,27,20,47,-687639600.0,1948
+Washington Capitols,Washington Capitols,New York Knicks,28,20,48,-687466800.0,1948

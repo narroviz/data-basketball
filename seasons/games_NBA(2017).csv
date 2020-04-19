@@ -1,0 +1,2461 @@
+id,home_team,away_team,win,loss,game_number,date,year
+Atlanta Hawks,Atlanta Hawks,Washington Wizards,1,0,1,1477611000.0,2017
+Atlanta Hawks,Philadelphia 76ers,Atlanta Hawks,2,0,2,1477758600.0,2017
+Atlanta Hawks,Atlanta Hawks,Sacramento Kings,3,0,3,1477956600.0,2017
+Atlanta Hawks,Atlanta Hawks,Los Angeles Lakers,3,1,4,1478129400.0,2017
+Atlanta Hawks,Washington Wizards,Atlanta Hawks,3,2,5,1478300400.0,2017
+Atlanta Hawks,Atlanta Hawks,Houston Rockets,4,2,6,1478388600.0,2017
+Atlanta Hawks,Cleveland Cavaliers,Atlanta Hawks,5,2,7,1478649600.0,2017
+Atlanta Hawks,Atlanta Hawks,Chicago Bulls,6,2,8,1478737800.0,2017
+Atlanta Hawks,Atlanta Hawks,Philadelphia 76ers,7,2,9,1478997000.0,2017
+Atlanta Hawks,Miami Heat,Atlanta Hawks,8,2,10,1479256200.0,2017
+Atlanta Hawks,Atlanta Hawks,Milwaukee Bucks,9,2,11,1479342600.0,2017
+Atlanta Hawks,Charlotte Hornets,Atlanta Hawks,9,3,12,1479513600.0,2017
+Atlanta Hawks,New York Knicks,Atlanta Hawks,9,4,13,1479661200.0,2017
+Atlanta Hawks,Atlanta Hawks,New Orleans Pelicans,9,5,14,1479861000.0,2017
+Atlanta Hawks,Indiana Pacers,Atlanta Hawks,10,5,15,1479945600.0,2017
+Atlanta Hawks,Utah Jazz,Atlanta Hawks,10,6,16,1480122000.0,2017
+Atlanta Hawks,Los Angeles Lakers,Atlanta Hawks,10,7,17,1480300200.0,2017
+Atlanta Hawks,Golden State Warriors,Atlanta Hawks,10,8,18,1480390200.0,2017
+Atlanta Hawks,Phoenix Suns,Atlanta Hawks,10,9,19,1480557600.0,2017
+Atlanta Hawks,Atlanta Hawks,Detroit Pistons,10,10,20,1480726800.0,2017
+Atlanta Hawks,Toronto Raptors,Atlanta Hawks,10,11,21,1480811400.0,2017
+Atlanta Hawks,Atlanta Hawks,Oklahoma City Thunder,10,12,22,1480984200.0,2017
+Atlanta Hawks,Atlanta Hawks,Miami Heat,11,12,23,1481157000.0,2017
+Atlanta Hawks,Milwaukee Bucks,Atlanta Hawks,12,12,24,1481331600.0,2017
+Atlanta Hawks,Atlanta Hawks,Orlando Magic,12,13,25,1481675400.0,2017
+Atlanta Hawks,Toronto Raptors,Atlanta Hawks,13,13,26,1481934600.0,2017
+Atlanta Hawks,Atlanta Hawks,Charlotte Hornets,13,14,27,1482021000.0,2017
+Atlanta Hawks,Oklahoma City Thunder,Atlanta Hawks,14,14,28,1482195600.0,2017
+Atlanta Hawks,Atlanta Hawks,Minnesota Timberwolves,14,15,29,1482366600.0,2017
+Atlanta Hawks,Denver Nuggets,Atlanta Hawks,15,15,30,1482544800.0,2017
+Atlanta Hawks,Minnesota Timberwolves,Atlanta Hawks,15,16,31,1482800400.0,2017
+Atlanta Hawks,Atlanta Hawks,New York Knicks,16,16,32,1482971400.0,2017
+Atlanta Hawks,Atlanta Hawks,Detroit Pistons,17,16,33,1483146000.0,2017
+Atlanta Hawks,Atlanta Hawks,San Antonio Spurs,18,16,34,1483311600.0,2017
+Atlanta Hawks,Orlando Magic,Atlanta Hawks,19,16,35,1483574400.0,2017
+Atlanta Hawks,New Orleans Pelicans,Atlanta Hawks,20,16,36,1483664400.0,2017
+Atlanta Hawks,Dallas Mavericks,Atlanta Hawks,21,16,37,1483839000.0,2017
+Atlanta Hawks,Brooklyn Nets,Atlanta Hawks,22,16,38,1484094600.0,2017
+Atlanta Hawks,Atlanta Hawks,Boston Celtics,22,17,39,1484355600.0,2017
+Atlanta Hawks,Atlanta Hawks,Milwaukee Bucks,23,17,40,1484510400.0,2017
+Atlanta Hawks,New York Knicks,Atlanta Hawks,24,17,41,1484589600.0,2017
+Atlanta Hawks,Detroit Pistons,Atlanta Hawks,24,18,42,1484787600.0,2017
+Atlanta Hawks,Atlanta Hawks,Chicago Bulls,25,18,43,1484960400.0,2017
+Atlanta Hawks,Atlanta Hawks,Philadelphia 76ers,26,18,44,1485043200.0,2017
+Atlanta Hawks,Atlanta Hawks,Los Angeles Clippers,26,19,45,1485217800.0,2017
+Atlanta Hawks,Chicago Bulls,Atlanta Hawks,27,19,46,1485392400.0,2017
+Atlanta Hawks,Atlanta Hawks,Washington Wizards,27,20,47,1485565200.0,2017
+Atlanta Hawks,Atlanta Hawks,New York Knicks,28,20,48,1485720000.0,2017
+Atlanta Hawks,Miami Heat,Atlanta Hawks,28,21,49,1485995400.0,2017
+Atlanta Hawks,Houston Rockets,Atlanta Hawks,29,21,50,1486083600.0,2017
+Atlanta Hawks,Atlanta Hawks,Orlando Magic,30,21,51,1486252800.0,2017
+Atlanta Hawks,Atlanta Hawks,Utah Jazz,30,22,52,1486427400.0,2017
+Atlanta Hawks,Atlanta Hawks,Denver Nuggets,31,22,53,1486600200.0,2017
+Atlanta Hawks,Sacramento Kings,Atlanta Hawks,31,23,54,1486783800.0,2017
+Atlanta Hawks,Portland Trail Blazers,Atlanta Hawks,32,23,55,1487043000.0,2017
+Atlanta Hawks,Los Angeles Clippers,Atlanta Hawks,32,24,56,1487215800.0,2017
+Atlanta Hawks,Atlanta Hawks,Miami Heat,32,25,57,1487984400.0,2017
+Atlanta Hawks,Orlando Magic,Atlanta Hawks,32,26,58,1488067200.0,2017
+Atlanta Hawks,Boston Celtics,Atlanta Hawks,33,26,59,1488241800.0,2017
+Atlanta Hawks,Atlanta Hawks,Dallas Mavericks,34,26,60,1488414600.0,2017
+Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,34,27,61,1488585600.0,2017
+Atlanta Hawks,Atlanta Hawks,Indiana Pacers,34,28,62,1488736800.0,2017
+Atlanta Hawks,Atlanta Hawks,Golden State Warriors,34,29,63,1488846600.0,2017
+Atlanta Hawks,Atlanta Hawks,Brooklyn Nets,35,29,64,1489019400.0,2017
+Atlanta Hawks,Atlanta Hawks,Toronto Raptors,36,29,65,1489194000.0,2017
+Atlanta Hawks,Memphis Grizzlies,Atlanta Hawks,37,29,66,1489284000.0,2017
+Atlanta Hawks,San Antonio Spurs,Atlanta Hawks,37,30,67,1489449600.0,2017
+Atlanta Hawks,Atlanta Hawks,Memphis Grizzlies,37,31,68,1489707000.0,2017
+Atlanta Hawks,Atlanta Hawks,Portland Trail Blazers,37,32,69,1489874400.0,2017
+Atlanta Hawks,Charlotte Hornets,Atlanta Hawks,37,33,70,1490050800.0,2017
+Atlanta Hawks,Washington Wizards,Atlanta Hawks,37,34,71,1490227200.0,2017
+Atlanta Hawks,Milwaukee Bucks,Atlanta Hawks,37,35,72,1490400000.0,2017
+Atlanta Hawks,Atlanta Hawks,Brooklyn Nets,37,36,73,1490547600.0,2017
+Atlanta Hawks,Atlanta Hawks,Phoenix Suns,38,36,74,1490743800.0,2017
+Atlanta Hawks,Philadelphia 76ers,Atlanta Hawks,39,36,75,1490828400.0,2017
+Atlanta Hawks,Chicago Bulls,Atlanta Hawks,39,37,76,1491080400.0,2017
+Atlanta Hawks,Brooklyn Nets,Atlanta Hawks,39,38,77,1491170400.0,2017
+Atlanta Hawks,Atlanta Hawks,Boston Celtics,40,38,78,1491523200.0,2017
+Atlanta Hawks,Cleveland Cavaliers,Atlanta Hawks,41,38,79,1491607800.0,2017
+Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,42,38,80,1491766200.0,2017
+Atlanta Hawks,Atlanta Hawks,Charlotte Hornets,43,38,81,1491953400.0,2017
+Atlanta Hawks,Indiana Pacers,Atlanta Hawks,43,39,82,1492041600.0,2017
+Boston Celtics,Boston Celtics,Brooklyn Nets,1,0,1,1477524600.0,2017
+Boston Celtics,Chicago Bulls,Boston Celtics,1,1,2,1477612800.0,2017
+Boston Celtics,Charlotte Hornets,Boston Celtics,2,1,3,1477782000.0,2017
+Boston Celtics,Boston Celtics,Chicago Bulls,3,1,4,1478131200.0,2017
+Boston Celtics,Cleveland Cavaliers,Boston Celtics,3,2,5,1478217600.0,2017
+Boston Celtics,Boston Celtics,Denver Nuggets,3,3,6,1478478600.0,2017
+Boston Celtics,Washington Wizards,Boston Celtics,3,4,7,1478736000.0,2017
+Boston Celtics,Boston Celtics,New York Knicks,4,4,8,1478910600.0,2017
+Boston Celtics,Indiana Pacers,Boston Celtics,5,4,9,1478995200.0,2017
+Boston Celtics,New Orleans Pelicans,Boston Celtics,5,5,10,1479171600.0,2017
+Boston Celtics,Boston Celtics,Dallas Mavericks,6,5,11,1479342600.0,2017
+Boston Celtics,Boston Celtics,Golden State Warriors,6,6,12,1479517200.0,2017
+Boston Celtics,Detroit Pistons,Boston Celtics,7,6,13,1479600000.0,2017
+Boston Celtics,Minnesota Timberwolves,Boston Celtics,8,6,14,1479776400.0,2017
+Boston Celtics,Brooklyn Nets,Boston Celtics,9,6,15,1479947400.0,2017
+Boston Celtics,Boston Celtics,San Antonio Spurs,9,7,16,1480096800.0,2017
+Boston Celtics,Miami Heat,Boston Celtics,10,7,17,1480379400.0,2017
+Boston Celtics,Boston Celtics,Detroit Pistons,10,8,18,1480552200.0,2017
+Boston Celtics,Boston Celtics,Sacramento Kings,11,8,19,1480725000.0,2017
+Boston Celtics,Philadelphia 76ers,Boston Celtics,12,8,20,1480811400.0,2017
+Boston Celtics,Houston Rockets,Boston Celtics,12,9,21,1480986000.0,2017
+Boston Celtics,Orlando Magic,Boston Celtics,13,9,22,1481155200.0,2017
+Boston Celtics,Boston Celtics,Toronto Raptors,13,10,23,1481329800.0,2017
+Boston Celtics,Oklahoma City Thunder,Boston Celtics,13,11,24,1481500800.0,2017
+Boston Celtics,San Antonio Spurs,Boston Celtics,13,12,25,1481769000.0,2017
+Boston Celtics,Boston Celtics,Charlotte Hornets,14,12,26,1481934600.0,2017
+Boston Celtics,Miami Heat,Boston Celtics,15,12,27,1482102000.0,2017
+Boston Celtics,Memphis Grizzlies,Boston Celtics,16,12,28,1482282000.0,2017
+Boston Celtics,Indiana Pacers,Boston Celtics,17,12,29,1482451200.0,2017
+Boston Celtics,Boston Celtics,Oklahoma City Thunder,17,13,30,1482539400.0,2017
+Boston Celtics,New York Knicks,Boston Celtics,18,13,31,1482685200.0,2017
+Boston Celtics,Boston Celtics,Memphis Grizzlies,19,13,32,1482885000.0,2017
+Boston Celtics,Cleveland Cavaliers,Boston Celtics,19,14,33,1483059600.0,2017
+Boston Celtics,Boston Celtics,Miami Heat,20,14,34,1483144200.0,2017
+Boston Celtics,Boston Celtics,Utah Jazz,21,14,35,1483489800.0,2017
+Boston Celtics,Boston Celtics,Philadelphia 76ers,22,14,36,1483749000.0,2017
+Boston Celtics,Boston Celtics,New Orleans Pelicans,23,14,37,1483835400.0,2017
+Boston Celtics,Toronto Raptors,Boston Celtics,23,15,38,1484094600.0,2017
+Boston Celtics,Boston Celtics,Washington Wizards,24,15,39,1484182800.0,2017
+Boston Celtics,Atlanta Hawks,Boston Celtics,25,15,40,1484355600.0,2017
+Boston Celtics,Boston Celtics,Charlotte Hornets,26,15,41,1484613000.0,2017
+Boston Celtics,Boston Celtics,New York Knicks,26,16,42,1484785800.0,2017
+Boston Celtics,Boston Celtics,Portland Trail Blazers,26,17,43,1485036000.0,2017
+Boston Celtics,Washington Wizards,Boston Celtics,26,18,44,1485302400.0,2017
+Boston Celtics,Boston Celtics,Houston Rockets,27,18,45,1485390600.0,2017
+Boston Celtics,Boston Celtics,Orlando Magic,28,18,46,1485563400.0,2017
+Boston Celtics,Milwaukee Bucks,Boston Celtics,29,18,47,1485651600.0,2017
+Boston Celtics,Boston Celtics,Detroit Pistons,30,18,48,1485824400.0,2017
+Boston Celtics,Boston Celtics,Toronto Raptors,31,18,49,1485995400.0,2017
+Boston Celtics,Boston Celtics,Los Angeles Lakers,32,18,50,1486170000.0,2017
+Boston Celtics,Boston Celtics,Los Angeles Clippers,33,18,51,1486321200.0,2017
+Boston Celtics,Sacramento Kings,Boston Celtics,33,19,52,1486611000.0,2017
+Boston Celtics,Portland Trail Blazers,Boston Celtics,34,19,53,1486697400.0,2017
+Boston Celtics,Utah Jazz,Boston Celtics,35,19,54,1486868400.0,2017
+Boston Celtics,Dallas Mavericks,Boston Celtics,36,19,55,1487035800.0,2017
+Boston Celtics,Boston Celtics,Philadelphia 76ers,37,19,56,1487205000.0,2017
+Boston Celtics,Chicago Bulls,Boston Celtics,37,20,57,1487293200.0,2017
+Boston Celtics,Toronto Raptors,Boston Celtics,37,21,58,1487984400.0,2017
+Boston Celtics,Detroit Pistons,Boston Celtics,38,21,59,1488150000.0,2017
+Boston Celtics,Boston Celtics,Atlanta Hawks,38,22,60,1488241800.0,2017
+Boston Celtics,Boston Celtics,Cleveland Cavaliers,39,22,61,1488416400.0,2017
+Boston Celtics,Los Angeles Lakers,Boston Celtics,40,22,62,1488598200.0,2017
+Boston Celtics,Phoenix Suns,Boston Celtics,40,23,63,1488751200.0,2017
+Boston Celtics,Los Angeles Clippers,Boston Celtics,40,24,64,1488857400.0,2017
+Boston Celtics,Golden State Warriors,Boston Celtics,41,24,65,1489030200.0,2017
+Boston Celtics,Denver Nuggets,Boston Celtics,41,25,66,1489197600.0,2017
+Boston Celtics,Boston Celtics,Chicago Bulls,42,25,67,1489347000.0,2017
+Boston Celtics,Boston Celtics,Minnesota Timberwolves,43,25,68,1489620600.0,2017
+Boston Celtics,Brooklyn Nets,Boston Celtics,44,25,69,1489793400.0,2017
+Boston Celtics,Philadelphia 76ers,Boston Celtics,44,26,70,1489942800.0,2017
+Boston Celtics,Boston Celtics,Washington Wizards,45,26,71,1490052600.0,2017
+Boston Celtics,Boston Celtics,Indiana Pacers,46,26,72,1490225400.0,2017
+Boston Celtics,Boston Celtics,Phoenix Suns,47,26,73,1490398200.0,2017
+Boston Celtics,Boston Celtics,Miami Heat,48,26,74,1490565600.0,2017
+Boston Celtics,Boston Celtics,Milwaukee Bucks,48,27,75,1490830200.0,2017
+Boston Celtics,Boston Celtics,Orlando Magic,49,27,76,1491003000.0,2017
+Boston Celtics,New York Knicks,Boston Celtics,50,27,77,1491152400.0,2017
+Boston Celtics,Boston Celtics,Cleveland Cavaliers,50,28,78,1491436800.0,2017
+Boston Celtics,Atlanta Hawks,Boston Celtics,50,29,79,1491523200.0,2017
+Boston Celtics,Charlotte Hornets,Boston Celtics,51,29,80,1491688800.0,2017
+Boston Celtics,Boston Celtics,Brooklyn Nets,52,29,81,1491867000.0,2017
+Boston Celtics,Boston Celtics,Milwaukee Bucks,53,29,82,1492041600.0,2017
+Brooklyn Nets,Boston Celtics,Brooklyn Nets,0,1,1,1477524600.0,2017
+Brooklyn Nets,Brooklyn Nets,Indiana Pacers,1,1,2,1477697400.0,2017
+Brooklyn Nets,Milwaukee Bucks,Brooklyn Nets,1,2,3,1477785600.0,2017
+Brooklyn Nets,Brooklyn Nets,Chicago Bulls,1,3,4,1477956600.0,2017
+Brooklyn Nets,Brooklyn Nets,Detroit Pistons,2,3,5,1478129400.0,2017
+Brooklyn Nets,Brooklyn Nets,Charlotte Hornets,2,4,6,1478302200.0,2017
+Brooklyn Nets,Brooklyn Nets,Minnesota Timberwolves,3,4,7,1478651400.0,2017
+Brooklyn Nets,New York Knicks,Brooklyn Nets,3,5,8,1478736000.0,2017
+Brooklyn Nets,Phoenix Suns,Brooklyn Nets,4,5,9,1479002400.0,2017
+Brooklyn Nets,Los Angeles Clippers,Brooklyn Nets,4,6,10,1479180600.0,2017
+Brooklyn Nets,Los Angeles Lakers,Brooklyn Nets,4,7,11,1479267000.0,2017
+Brooklyn Nets,Oklahoma City Thunder,Brooklyn Nets,4,8,12,1479517200.0,2017
+Brooklyn Nets,Brooklyn Nets,Portland Trail Blazers,4,9,13,1479673800.0,2017
+Brooklyn Nets,Brooklyn Nets,Boston Celtics,4,10,14,1479947400.0,2017
+Brooklyn Nets,Indiana Pacers,Brooklyn Nets,4,11,15,1480122000.0,2017
+Brooklyn Nets,Brooklyn Nets,Sacramento Kings,4,12,16,1480287600.0,2017
+Brooklyn Nets,Brooklyn Nets,Los Angeles Clippers,5,12,17,1480465800.0,2017
+Brooklyn Nets,Brooklyn Nets,Milwaukee Bucks,5,13,18,1480638600.0,2017
+Brooklyn Nets,Milwaukee Bucks,Brooklyn Nets,5,14,19,1480802400.0,2017
+Brooklyn Nets,Brooklyn Nets,Washington Wizards,5,15,20,1480984200.0,2017
+Brooklyn Nets,Brooklyn Nets,Denver Nuggets,6,15,21,1481157000.0,2017
+Brooklyn Nets,San Antonio Spurs,Brooklyn Nets,6,16,22,1481419800.0,2017
+Brooklyn Nets,Houston Rockets,Brooklyn Nets,6,17,23,1481590800.0,2017
+Brooklyn Nets,Brooklyn Nets,Los Angeles Lakers,7,17,24,1481761800.0,2017
+Brooklyn Nets,Orlando Magic,Brooklyn Nets,7,18,25,1481932800.0,2017
+Brooklyn Nets,Philadelphia 76ers,Brooklyn Nets,7,19,26,1482102000.0,2017
+Brooklyn Nets,Toronto Raptors,Brooklyn Nets,7,20,27,1482280200.0,2017
+Brooklyn Nets,Brooklyn Nets,Golden State Warriors,7,21,28,1482453000.0,2017
+Brooklyn Nets,Cleveland Cavaliers,Brooklyn Nets,7,22,29,1482539400.0,2017
+Brooklyn Nets,Brooklyn Nets,Charlotte Hornets,8,22,30,1482798600.0,2017
+Brooklyn Nets,Chicago Bulls,Brooklyn Nets,8,23,31,1482973200.0,2017
+Brooklyn Nets,Washington Wizards,Brooklyn Nets,8,24,32,1483142400.0,2017
+Brooklyn Nets,Brooklyn Nets,Utah Jazz,8,25,33,1483403400.0,2017
+Brooklyn Nets,Indiana Pacers,Brooklyn Nets,8,26,34,1483660800.0,2017
+Brooklyn Nets,Brooklyn Nets,Cleveland Cavaliers,8,27,35,1483749000.0,2017
+Brooklyn Nets,Brooklyn Nets,Philadelphia 76ers,8,28,36,1483894800.0,2017
+Brooklyn Nets,Brooklyn Nets,Atlanta Hawks,8,29,37,1484094600.0,2017
+Brooklyn Nets,Brooklyn Nets,New Orleans Pelicans,8,30,38,1484267400.0,2017
+Brooklyn Nets,Toronto Raptors,Brooklyn Nets,8,31,39,1484353800.0,2017
+Brooklyn Nets,Brooklyn Nets,Houston Rockets,8,32,40,1484521200.0,2017
+Brooklyn Nets,Brooklyn Nets,Toronto Raptors,8,33,41,1484699400.0,2017
+Brooklyn Nets,New Orleans Pelicans,Brooklyn Nets,9,33,42,1484960400.0,2017
+Brooklyn Nets,Charlotte Hornets,Brooklyn Nets,9,34,43,1485043200.0,2017
+Brooklyn Nets,Brooklyn Nets,San Antonio Spurs,9,35,44,1485217800.0,2017
+Brooklyn Nets,Brooklyn Nets,Miami Heat,9,36,45,1485390600.0,2017
+Brooklyn Nets,Cleveland Cavaliers,Brooklyn Nets,9,37,46,1485563400.0,2017
+Brooklyn Nets,Minnesota Timberwolves,Brooklyn Nets,9,38,47,1485655200.0,2017
+Brooklyn Nets,Miami Heat,Brooklyn Nets,9,39,48,1485822600.0,2017
+Brooklyn Nets,Brooklyn Nets,New York Knicks,9,40,49,1485995400.0,2017
+Brooklyn Nets,Brooklyn Nets,Indiana Pacers,9,41,50,1486168200.0,2017
+Brooklyn Nets,Brooklyn Nets,Toronto Raptors,9,42,51,1486314000.0,2017
+Brooklyn Nets,Charlotte Hornets,Brooklyn Nets,9,43,52,1486512000.0,2017
+Brooklyn Nets,Brooklyn Nets,Washington Wizards,9,44,53,1486600200.0,2017
+Brooklyn Nets,Brooklyn Nets,Miami Heat,9,45,54,1486773000.0,2017
+Brooklyn Nets,Brooklyn Nets,Memphis Grizzlies,9,46,55,1487032200.0,2017
+Brooklyn Nets,Brooklyn Nets,Milwaukee Bucks,9,47,56,1487205000.0,2017
+Brooklyn Nets,Denver Nuggets,Brooklyn Nets,9,48,57,1487988000.0,2017
+Brooklyn Nets,Golden State Warriors,Brooklyn Nets,9,49,58,1488079800.0,2017
+Brooklyn Nets,Sacramento Kings,Brooklyn Nets,10,49,59,1488425400.0,2017
+Brooklyn Nets,Utah Jazz,Brooklyn Nets,10,50,60,1488592800.0,2017
+Brooklyn Nets,Portland Trail Blazers,Brooklyn Nets,10,51,61,1488682800.0,2017
+Brooklyn Nets,Memphis Grizzlies,Brooklyn Nets,11,51,62,1488848400.0,2017
+Brooklyn Nets,Atlanta Hawks,Brooklyn Nets,11,52,63,1489019400.0,2017
+Brooklyn Nets,Dallas Mavericks,Brooklyn Nets,11,53,64,1489197600.0,2017
+Brooklyn Nets,Brooklyn Nets,New York Knicks,12,53,65,1489356000.0,2017
+Brooklyn Nets,Brooklyn Nets,Oklahoma City Thunder,12,54,66,1489534200.0,2017
+Brooklyn Nets,New York Knicks,Brooklyn Nets,13,54,67,1489707000.0,2017
+Brooklyn Nets,Brooklyn Nets,Boston Celtics,13,55,68,1489793400.0,2017
+Brooklyn Nets,Brooklyn Nets,Dallas Mavericks,13,56,69,1489939200.0,2017
+Brooklyn Nets,Brooklyn Nets,Detroit Pistons,14,56,70,1490139000.0,2017
+Brooklyn Nets,Brooklyn Nets,Phoenix Suns,15,56,71,1490311800.0,2017
+Brooklyn Nets,Washington Wizards,Brooklyn Nets,15,57,72,1490396400.0,2017
+Brooklyn Nets,Atlanta Hawks,Brooklyn Nets,16,57,73,1490547600.0,2017
+Brooklyn Nets,Brooklyn Nets,Philadelphia 76ers,16,58,74,1490743800.0,2017
+Brooklyn Nets,Detroit Pistons,Brooklyn Nets,16,59,75,1490916600.0,2017
+Brooklyn Nets,Brooklyn Nets,Orlando Magic,17,59,76,1491084000.0,2017
+Brooklyn Nets,Brooklyn Nets,Atlanta Hawks,18,59,77,1491170400.0,2017
+Brooklyn Nets,Philadelphia 76ers,Brooklyn Nets,19,59,78,1491346800.0,2017
+Brooklyn Nets,Orlando Magic,Brooklyn Nets,19,60,79,1491519600.0,2017
+Brooklyn Nets,Brooklyn Nets,Chicago Bulls,20,60,80,1491685200.0,2017
+Brooklyn Nets,Boston Celtics,Brooklyn Nets,20,61,81,1491867000.0,2017
+Brooklyn Nets,Chicago Bulls,Brooklyn Nets,20,62,82,1492041600.0,2017
+Charlotte Hornets,Milwaukee Bucks,Charlotte Hornets,1,0,1,1477526400.0,2017
+Charlotte Hornets,Miami Heat,Charlotte Hornets,2,0,2,1477699200.0,2017
+Charlotte Hornets,Charlotte Hornets,Boston Celtics,2,1,3,1477782000.0,2017
+Charlotte Hornets,Charlotte Hornets,Philadelphia 76ers,3,1,4,1478127600.0,2017
+Charlotte Hornets,Brooklyn Nets,Charlotte Hornets,4,1,5,1478302200.0,2017
+Charlotte Hornets,Charlotte Hornets,Indiana Pacers,5,1,6,1478563200.0,2017
+Charlotte Hornets,Charlotte Hornets,Utah Jazz,6,1,7,1478736000.0,2017
+Charlotte Hornets,Charlotte Hornets,Toronto Raptors,6,2,8,1478908800.0,2017
+Charlotte Hornets,Cleveland Cavaliers,Charlotte Hornets,6,3,9,1479069000.0,2017
+Charlotte Hornets,Minnesota Timberwolves,Charlotte Hornets,7,3,10,1479258000.0,2017
+Charlotte Hornets,Charlotte Hornets,Atlanta Hawks,8,3,11,1479513600.0,2017
+Charlotte Hornets,New Orleans Pelicans,Charlotte Hornets,8,4,12,1479600000.0,2017
+Charlotte Hornets,Charlotte Hornets,Memphis Grizzlies,8,5,13,1479772800.0,2017
+Charlotte Hornets,Charlotte Hornets,San Antonio Spurs,8,6,14,1479945600.0,2017
+Charlotte Hornets,New York Knicks,Charlotte Hornets,8,7,15,1480120200.0,2017
+Charlotte Hornets,Charlotte Hornets,New York Knicks,9,7,16,1480204800.0,2017
+Charlotte Hornets,Memphis Grizzlies,Charlotte Hornets,10,7,17,1480381200.0,2017
+Charlotte Hornets,Charlotte Hornets,Detroit Pistons,10,8,18,1480464000.0,2017
+Charlotte Hornets,Charlotte Hornets,Dallas Mavericks,11,8,19,1480636800.0,2017
+Charlotte Hornets,Charlotte Hornets,Minnesota Timberwolves,11,9,20,1480809600.0,2017
+Charlotte Hornets,Dallas Mavericks,Charlotte Hornets,12,9,21,1480987800.0,2017
+Charlotte Hornets,Charlotte Hornets,Detroit Pistons,13,9,22,1481155200.0,2017
+Charlotte Hornets,Charlotte Hornets,Orlando Magic,14,9,23,1481328000.0,2017
+Charlotte Hornets,Cleveland Cavaliers,Charlotte Hornets,14,10,24,1481416200.0,2017
+Charlotte Hornets,Indiana Pacers,Charlotte Hornets,14,11,25,1481587200.0,2017
+Charlotte Hornets,Washington Wizards,Charlotte Hornets,14,12,26,1481760000.0,2017
+Charlotte Hornets,Boston Celtics,Charlotte Hornets,14,13,27,1481934600.0,2017
+Charlotte Hornets,Atlanta Hawks,Charlotte Hornets,15,13,28,1482021000.0,2017
+Charlotte Hornets,Charlotte Hornets,Los Angeles Lakers,16,13,29,1482278400.0,2017
+Charlotte Hornets,Charlotte Hornets,Chicago Bulls,17,13,30,1482537600.0,2017
+Charlotte Hornets,Brooklyn Nets,Charlotte Hornets,17,14,31,1482798600.0,2017
+Charlotte Hornets,Orlando Magic,Charlotte Hornets,18,14,32,1482969600.0,2017
+Charlotte Hornets,Charlotte Hornets,Miami Heat,19,14,33,1483056000.0,2017
+Charlotte Hornets,Charlotte Hornets,Cleveland Cavaliers,19,15,34,1483228800.0,2017
+Charlotte Hornets,Chicago Bulls,Charlotte Hornets,19,16,35,1483405200.0,2017
+Charlotte Hornets,Charlotte Hornets,Oklahoma City Thunder,20,16,36,1483574400.0,2017
+Charlotte Hornets,Detroit Pistons,Charlotte Hornets,20,17,37,1483662600.0,2017
+Charlotte Hornets,San Antonio Spurs,Charlotte Hornets,20,18,38,1483839000.0,2017
+Charlotte Hornets,Houston Rockets,Charlotte Hornets,20,19,39,1484096400.0,2017
+Charlotte Hornets,Philadelphia 76ers,Charlotte Hornets,20,20,40,1484352000.0,2017
+Charlotte Hornets,Boston Celtics,Charlotte Hornets,20,21,41,1484613000.0,2017
+Charlotte Hornets,Charlotte Hornets,Portland Trail Blazers,21,21,42,1484784000.0,2017
+Charlotte Hornets,Charlotte Hornets,Toronto Raptors,22,21,43,1484956800.0,2017
+Charlotte Hornets,Charlotte Hornets,Brooklyn Nets,23,21,44,1485043200.0,2017
+Charlotte Hornets,Charlotte Hornets,Washington Wizards,23,22,45,1485216000.0,2017
+Charlotte Hornets,Charlotte Hornets,Golden State Warriors,23,23,46,1485392400.0,2017
+Charlotte Hornets,New York Knicks,Charlotte Hornets,23,24,47,1485563400.0,2017
+Charlotte Hornets,Charlotte Hornets,Sacramento Kings,23,25,48,1485648000.0,2017
+Charlotte Hornets,Portland Trail Blazers,Charlotte Hornets,23,26,49,1485918000.0,2017
+Charlotte Hornets,Golden State Warriors,Charlotte Hornets,23,27,50,1486006200.0,2017
+Charlotte Hornets,Utah Jazz,Charlotte Hornets,23,28,51,1486260000.0,2017
+Charlotte Hornets,Charlotte Hornets,Brooklyn Nets,24,28,52,1486512000.0,2017
+Charlotte Hornets,Charlotte Hornets,Houston Rockets,24,29,53,1486684800.0,2017
+Charlotte Hornets,Charlotte Hornets,Los Angeles Clippers,24,30,54,1486850400.0,2017
+Charlotte Hornets,Charlotte Hornets,Philadelphia 76ers,24,31,55,1487030400.0,2017
+Charlotte Hornets,Toronto Raptors,Charlotte Hornets,24,32,56,1487205000.0,2017
+Charlotte Hornets,Detroit Pistons,Charlotte Hornets,24,33,57,1487896200.0,2017
+Charlotte Hornets,Sacramento Kings,Charlotte Hornets,25,33,58,1488060000.0,2017
+Charlotte Hornets,Los Angeles Clippers,Charlotte Hornets,25,34,59,1488162600.0,2017
+Charlotte Hornets,Los Angeles Lakers,Charlotte Hornets,26,34,60,1488339000.0,2017
+Charlotte Hornets,Phoenix Suns,Charlotte Hornets,26,35,61,1488506400.0,2017
+Charlotte Hornets,Denver Nuggets,Charlotte Hornets,27,35,62,1488679200.0,2017
+Charlotte Hornets,Charlotte Hornets,Indiana Pacers,28,35,63,1488848400.0,2017
+Charlotte Hornets,Miami Heat,Charlotte Hornets,28,36,64,1489019400.0,2017
+Charlotte Hornets,Charlotte Hornets,Orlando Magic,29,36,65,1489190400.0,2017
+Charlotte Hornets,Charlotte Hornets,New Orleans Pelicans,29,37,66,1489276800.0,2017
+Charlotte Hornets,Charlotte Hornets,Chicago Bulls,29,38,67,1489446000.0,2017
+Charlotte Hornets,Indiana Pacers,Charlotte Hornets,29,39,68,1489618800.0,2017
+Charlotte Hornets,Charlotte Hornets,Washington Wizards,30,39,69,1489878000.0,2017
+Charlotte Hornets,Charlotte Hornets,Atlanta Hawks,31,39,70,1490050800.0,2017
+Charlotte Hornets,Orlando Magic,Charlotte Hornets,32,39,71,1490223600.0,2017
+Charlotte Hornets,Charlotte Hornets,Cleveland Cavaliers,32,40,72,1490396400.0,2017
+Charlotte Hornets,Charlotte Hornets,Phoenix Suns,33,40,73,1490547600.0,2017
+Charlotte Hornets,Charlotte Hornets,Milwaukee Bucks,33,41,74,1490742000.0,2017
+Charlotte Hornets,Toronto Raptors,Charlotte Hornets,34,41,75,1490830200.0,2017
+Charlotte Hornets,Charlotte Hornets,Denver Nuggets,35,41,76,1491001200.0,2017
+Charlotte Hornets,Oklahoma City Thunder,Charlotte Hornets,36,41,77,1491159600.0,2017
+Charlotte Hornets,Washington Wizards,Charlotte Hornets,36,42,78,1491346800.0,2017
+Charlotte Hornets,Charlotte Hornets,Miami Heat,36,43,79,1491433200.0,2017
+Charlotte Hornets,Charlotte Hornets,Boston Celtics,36,44,80,1491688800.0,2017
+Charlotte Hornets,Milwaukee Bucks,Charlotte Hornets,36,45,81,1491868800.0,2017
+Charlotte Hornets,Atlanta Hawks,Charlotte Hornets,36,46,82,1491953400.0,2017
+Chicago Bulls,Chicago Bulls,Boston Celtics,1,0,1,1477612800.0,2017
+Chicago Bulls,Chicago Bulls,Indiana Pacers,2,0,2,1477785600.0,2017
+Chicago Bulls,Brooklyn Nets,Chicago Bulls,3,0,3,1477956600.0,2017
+Chicago Bulls,Boston Celtics,Chicago Bulls,3,1,4,1478131200.0,2017
+Chicago Bulls,Chicago Bulls,New York Knicks,3,2,5,1478304000.0,2017
+Chicago Bulls,Indiana Pacers,Chicago Bulls,3,3,6,1478386800.0,2017
+Chicago Bulls,Chicago Bulls,Orlando Magic,4,3,7,1478566800.0,2017
+Chicago Bulls,Atlanta Hawks,Chicago Bulls,4,4,8,1478737800.0,2017
+Chicago Bulls,Miami Heat,Chicago Bulls,5,4,9,1478826000.0,2017
+Chicago Bulls,Chicago Bulls,Washington Wizards,6,4,10,1478998800.0,2017
+Chicago Bulls,Portland Trail Blazers,Chicago Bulls,7,4,11,1479265200.0,2017
+Chicago Bulls,Utah Jazz,Chicago Bulls,8,4,12,1479439800.0,2017
+Chicago Bulls,Los Angeles Clippers,Chicago Bulls,8,5,13,1479612600.0,2017
+Chicago Bulls,Los Angeles Lakers,Chicago Bulls,9,5,14,1479695400.0,2017
+Chicago Bulls,Denver Nuggets,Chicago Bulls,9,6,15,1479866400.0,2017
+Chicago Bulls,Philadelphia 76ers,Chicago Bulls,10,6,16,1480120200.0,2017
+Chicago Bulls,Chicago Bulls,Los Angeles Lakers,10,7,17,1480554000.0,2017
+Chicago Bulls,Chicago Bulls,Cleveland Cavaliers,11,7,18,1480726800.0,2017
+Chicago Bulls,Dallas Mavericks,Chicago Bulls,11,8,19,1480815000.0,2017
+Chicago Bulls,Chicago Bulls,Portland Trail Blazers,11,9,20,1480986000.0,2017
+Chicago Bulls,Detroit Pistons,Chicago Bulls,11,10,21,1481070600.0,2017
+Chicago Bulls,Chicago Bulls,San Antonio Spurs,12,10,22,1481250600.0,2017
+Chicago Bulls,Chicago Bulls,Miami Heat,13,10,23,1481418000.0,2017
+Chicago Bulls,Chicago Bulls,Minnesota Timberwolves,13,11,24,1481677200.0,2017
+Chicago Bulls,Milwaukee Bucks,Chicago Bulls,13,12,25,1481850000.0,2017
+Chicago Bulls,Chicago Bulls,Milwaukee Bucks,13,13,26,1481936400.0,2017
+Chicago Bulls,Chicago Bulls,Detroit Pistons,14,13,27,1482195600.0,2017
+Chicago Bulls,Chicago Bulls,Washington Wizards,14,14,28,1482368400.0,2017
+Chicago Bulls,Charlotte Hornets,Chicago Bulls,14,15,29,1482537600.0,2017
+Chicago Bulls,San Antonio Spurs,Chicago Bulls,14,16,30,1482703200.0,2017
+Chicago Bulls,Chicago Bulls,Indiana Pacers,15,16,31,1482800400.0,2017
+Chicago Bulls,Chicago Bulls,Brooklyn Nets,16,16,32,1482973200.0,2017
+Chicago Bulls,Indiana Pacers,Chicago Bulls,16,17,33,1483131600.0,2017
+Chicago Bulls,Chicago Bulls,Milwaukee Bucks,16,18,34,1483228800.0,2017
+Chicago Bulls,Chicago Bulls,Charlotte Hornets,17,18,35,1483405200.0,2017
+Chicago Bulls,Cleveland Cavaliers,Chicago Bulls,18,18,36,1483578000.0,2017
+Chicago Bulls,Chicago Bulls,Toronto Raptors,19,18,37,1483837200.0,2017
+Chicago Bulls,Chicago Bulls,Oklahoma City Thunder,19,19,38,1484010000.0,2017
+Chicago Bulls,Washington Wizards,Chicago Bulls,19,20,39,1484092800.0,2017
+Chicago Bulls,New York Knicks,Chicago Bulls,19,21,40,1484269200.0,2017
+Chicago Bulls,Chicago Bulls,New Orleans Pelicans,20,21,41,1484431200.0,2017
+Chicago Bulls,Memphis Grizzlies,Chicago Bulls,21,21,42,1484532000.0,2017
+Chicago Bulls,Chicago Bulls,Dallas Mavericks,21,22,43,1484701200.0,2017
+Chicago Bulls,Atlanta Hawks,Chicago Bulls,21,23,44,1484960400.0,2017
+Chicago Bulls,Chicago Bulls,Sacramento Kings,22,23,45,1485050400.0,2017
+Chicago Bulls,Orlando Magic,Chicago Bulls,23,23,46,1485302400.0,2017
+Chicago Bulls,Chicago Bulls,Atlanta Hawks,23,24,47,1485392400.0,2017
+Chicago Bulls,Chicago Bulls,Miami Heat,23,25,48,1485565200.0,2017
+Chicago Bulls,Chicago Bulls,Philadelphia 76ers,24,25,49,1485734400.0,2017
+Chicago Bulls,Oklahoma City Thunder,Chicago Bulls,25,25,50,1486002600.0,2017
+Chicago Bulls,Houston Rockets,Chicago Bulls,25,26,51,1486170000.0,2017
+Chicago Bulls,Sacramento Kings,Chicago Bulls,26,26,52,1486438200.0,2017
+Chicago Bulls,Golden State Warriors,Chicago Bulls,26,27,53,1486611000.0,2017
+Chicago Bulls,Phoenix Suns,Chicago Bulls,26,28,54,1486783800.0,2017
+Chicago Bulls,Minnesota Timberwolves,Chicago Bulls,26,29,55,1486931400.0,2017
+Chicago Bulls,Chicago Bulls,Toronto Raptors,27,29,56,1487120400.0,2017
+Chicago Bulls,Chicago Bulls,Boston Celtics,28,29,57,1487293200.0,2017
+Chicago Bulls,Chicago Bulls,Phoenix Suns,29,29,58,1487984400.0,2017
+Chicago Bulls,Cleveland Cavaliers,Chicago Bulls,30,29,59,1488072600.0,2017
+Chicago Bulls,Chicago Bulls,Denver Nuggets,30,30,60,1488330000.0,2017
+Chicago Bulls,Chicago Bulls,Golden State Warriors,31,30,61,1488502800.0,2017
+Chicago Bulls,Chicago Bulls,Los Angeles Clippers,31,31,62,1488677400.0,2017
+Chicago Bulls,Detroit Pistons,Chicago Bulls,31,32,63,1488846600.0,2017
+Chicago Bulls,Orlando Magic,Chicago Bulls,31,33,64,1489017600.0,2017
+Chicago Bulls,Chicago Bulls,Houston Rockets,31,34,65,1489194000.0,2017
+Chicago Bulls,Boston Celtics,Chicago Bulls,31,35,66,1489347000.0,2017
+Chicago Bulls,Charlotte Hornets,Chicago Bulls,32,35,67,1489446000.0,2017
+Chicago Bulls,Chicago Bulls,Memphis Grizzlies,32,36,68,1489622400.0,2017
+Chicago Bulls,Washington Wizards,Chicago Bulls,32,37,69,1489791600.0,2017
+Chicago Bulls,Chicago Bulls,Utah Jazz,33,37,70,1489885200.0,2017
+Chicago Bulls,Toronto Raptors,Chicago Bulls,33,38,71,1490137200.0,2017
+Chicago Bulls,Chicago Bulls,Detroit Pistons,34,38,72,1490227200.0,2017
+Chicago Bulls,Chicago Bulls,Philadelphia 76ers,34,39,73,1490400000.0,2017
+Chicago Bulls,Milwaukee Bucks,Chicago Bulls,35,39,74,1490556600.0,2017
+Chicago Bulls,Chicago Bulls,Cleveland Cavaliers,36,39,75,1490918400.0,2017
+Chicago Bulls,Chicago Bulls,Atlanta Hawks,37,39,76,1491080400.0,2017
+Chicago Bulls,New Orleans Pelicans,Chicago Bulls,38,39,77,1491170400.0,2017
+Chicago Bulls,New York Knicks,Chicago Bulls,38,40,78,1491350400.0,2017
+Chicago Bulls,Philadelphia 76ers,Chicago Bulls,39,40,79,1491519600.0,2017
+Chicago Bulls,Brooklyn Nets,Chicago Bulls,39,41,80,1491685200.0,2017
+Chicago Bulls,Chicago Bulls,Orlando Magic,40,41,81,1491868800.0,2017
+Chicago Bulls,Chicago Bulls,Brooklyn Nets,41,41,82,1492041600.0,2017
+Cleveland Cavaliers,Cleveland Cavaliers,New York Knicks,1,0,1,1477438200.0,2017
+Cleveland Cavaliers,Toronto Raptors,Cleveland Cavaliers,2,0,2,1477695600.0,2017
+Cleveland Cavaliers,Cleveland Cavaliers,Orlando Magic,3,0,3,1477783800.0,2017
+Cleveland Cavaliers,Cleveland Cavaliers,Houston Rockets,4,0,4,1478037600.0,2017
+Cleveland Cavaliers,Cleveland Cavaliers,Boston Celtics,5,0,5,1478217600.0,2017
+Cleveland Cavaliers,Philadelphia 76ers,Cleveland Cavaliers,6,0,6,1478386800.0,2017
+Cleveland Cavaliers,Cleveland Cavaliers,Atlanta Hawks,6,1,7,1478649600.0,2017
+Cleveland Cavaliers,Washington Wizards,Cleveland Cavaliers,7,1,8,1478908800.0,2017
+Cleveland Cavaliers,Cleveland Cavaliers,Charlotte Hornets,8,1,9,1479069000.0,2017
+Cleveland Cavaliers,Cleveland Cavaliers,Toronto Raptors,9,1,10,1479254400.0,2017
+Cleveland Cavaliers,Indiana Pacers,Cleveland Cavaliers,9,2,11,1479340800.0,2017
+Cleveland Cavaliers,Cleveland Cavaliers,Detroit Pistons,10,2,12,1479515400.0,2017
+Cleveland Cavaliers,Cleveland Cavaliers,Portland Trail Blazers,11,2,13,1479945600.0,2017
+Cleveland Cavaliers,Cleveland Cavaliers,Dallas Mavericks,12,2,14,1480120200.0,2017
+Cleveland Cavaliers,Philadelphia 76ers,Cleveland Cavaliers,13,2,15,1480269600.0,2017
+Cleveland Cavaliers,Milwaukee Bucks,Cleveland Cavaliers,13,3,16,1480467600.0,2017
+Cleveland Cavaliers,Cleveland Cavaliers,Los Angeles Clippers,13,4,17,1480640400.0,2017
+Cleveland Cavaliers,Chicago Bulls,Cleveland Cavaliers,13,5,18,1480726800.0,2017
+Cleveland Cavaliers,Toronto Raptors,Cleveland Cavaliers,14,5,19,1480984200.0,2017
+Cleveland Cavaliers,New York Knicks,Cleveland Cavaliers,15,5,20,1481158800.0,2017
+Cleveland Cavaliers,Cleveland Cavaliers,Miami Heat,16,5,21,1481329800.0,2017
+Cleveland Cavaliers,Cleveland Cavaliers,Charlotte Hornets,17,5,22,1481416200.0,2017
+Cleveland Cavaliers,Cleveland Cavaliers,Memphis Grizzlies,18,5,23,1481673600.0,2017
+Cleveland Cavaliers,Memphis Grizzlies,Cleveland Cavaliers,18,6,24,1481763600.0,2017
+Cleveland Cavaliers,Cleveland Cavaliers,Los Angeles Lakers,19,6,25,1482021000.0,2017
+Cleveland Cavaliers,Milwaukee Bucks,Cleveland Cavaliers,20,6,26,1482282000.0,2017
+Cleveland Cavaliers,Cleveland Cavaliers,Milwaukee Bucks,21,6,27,1482364800.0,2017
+Cleveland Cavaliers,Cleveland Cavaliers,Brooklyn Nets,22,6,28,1482539400.0,2017
+Cleveland Cavaliers,Cleveland Cavaliers,Golden State Warriors,23,6,29,1482694200.0,2017
+Cleveland Cavaliers,Detroit Pistons,Cleveland Cavaliers,23,7,30,1482798600.0,2017
+Cleveland Cavaliers,Cleveland Cavaliers,Boston Celtics,24,7,31,1483059600.0,2017
+Cleveland Cavaliers,Charlotte Hornets,Cleveland Cavaliers,25,7,32,1483228800.0,2017
+Cleveland Cavaliers,Cleveland Cavaliers,New Orleans Pelicans,26,7,33,1483401600.0,2017
+Cleveland Cavaliers,Cleveland Cavaliers,Chicago Bulls,26,8,34,1483578000.0,2017
+Cleveland Cavaliers,Brooklyn Nets,Cleveland Cavaliers,27,8,35,1483749000.0,2017
+Cleveland Cavaliers,Phoenix Suns,Cleveland Cavaliers,28,8,36,1483925400.0,2017
+Cleveland Cavaliers,Utah Jazz,Cleveland Cavaliers,28,9,37,1484100000.0,2017
+Cleveland Cavaliers,Portland Trail Blazers,Cleveland Cavaliers,28,10,38,1484191800.0,2017
+Cleveland Cavaliers,Sacramento Kings,Cleveland Cavaliers,29,10,39,1484364600.0,2017
+Cleveland Cavaliers,Golden State Warriors,Cleveland Cavaliers,29,11,40,1484614800.0,2017
+Cleveland Cavaliers,Cleveland Cavaliers,Phoenix Suns,30,11,41,1484870400.0,2017
+Cleveland Cavaliers,Cleveland Cavaliers,San Antonio Spurs,30,12,42,1485048600.0,2017
+Cleveland Cavaliers,New Orleans Pelicans,Cleveland Cavaliers,30,13,43,1485219600.0,2017
+Cleveland Cavaliers,Cleveland Cavaliers,Sacramento Kings,30,14,44,1485388800.0,2017
+Cleveland Cavaliers,Cleveland Cavaliers,Brooklyn Nets,31,14,45,1485563400.0,2017
+Cleveland Cavaliers,Cleveland Cavaliers,Oklahoma City Thunder,32,14,46,1485721800.0,2017
+Cleveland Cavaliers,Dallas Mavericks,Cleveland Cavaliers,32,15,47,1485826200.0,2017
+Cleveland Cavaliers,Cleveland Cavaliers,Minnesota Timberwolves,33,15,48,1485993600.0,2017
+Cleveland Cavaliers,New York Knicks,Cleveland Cavaliers,34,15,49,1486258200.0,2017
+Cleveland Cavaliers,Washington Wizards,Cleveland Cavaliers,35,15,50,1486425600.0,2017
+Cleveland Cavaliers,Indiana Pacers,Cleveland Cavaliers,36,15,51,1486598400.0,2017
+Cleveland Cavaliers,Oklahoma City Thunder,Cleveland Cavaliers,36,16,52,1486688400.0,2017
+Cleveland Cavaliers,Cleveland Cavaliers,Denver Nuggets,37,16,53,1486859400.0,2017
+Cleveland Cavaliers,Minnesota Timberwolves,Cleveland Cavaliers,38,16,54,1487120400.0,2017
+Cleveland Cavaliers,Cleveland Cavaliers,Indiana Pacers,39,16,55,1487203200.0,2017
+Cleveland Cavaliers,Cleveland Cavaliers,New York Knicks,40,16,56,1487898000.0,2017
+Cleveland Cavaliers,Cleveland Cavaliers,Chicago Bulls,40,17,57,1488072600.0,2017
+Cleveland Cavaliers,Cleveland Cavaliers,Milwaukee Bucks,41,17,58,1488240000.0,2017
+Cleveland Cavaliers,Boston Celtics,Cleveland Cavaliers,41,18,59,1488416400.0,2017
+Cleveland Cavaliers,Atlanta Hawks,Cleveland Cavaliers,42,18,60,1488585600.0,2017
+Cleveland Cavaliers,Miami Heat,Cleveland Cavaliers,42,19,61,1488675600.0,2017
+Cleveland Cavaliers,Cleveland Cavaliers,Miami Heat,42,20,62,1488844800.0,2017
+Cleveland Cavaliers,Detroit Pistons,Cleveland Cavaliers,42,21,63,1489105800.0,2017
+Cleveland Cavaliers,Orlando Magic,Cleveland Cavaliers,43,21,64,1489276800.0,2017
+Cleveland Cavaliers,Houston Rockets,Cleveland Cavaliers,43,22,65,1489366800.0,2017
+Cleveland Cavaliers,Cleveland Cavaliers,Detroit Pistons,44,22,66,1489532400.0,2017
+Cleveland Cavaliers,Cleveland Cavaliers,Utah Jazz,45,22,67,1489705200.0,2017
+Cleveland Cavaliers,Los Angeles Clippers,Cleveland Cavaliers,45,23,68,1489883400.0,2017
+Cleveland Cavaliers,Los Angeles Lakers,Cleveland Cavaliers,46,23,69,1489973400.0,2017
+Cleveland Cavaliers,Denver Nuggets,Cleveland Cavaliers,46,24,70,1490230800.0,2017
+Cleveland Cavaliers,Charlotte Hornets,Cleveland Cavaliers,47,24,71,1490396400.0,2017
+Cleveland Cavaliers,Cleveland Cavaliers,Washington Wizards,47,25,72,1490484600.0,2017
+Cleveland Cavaliers,San Antonio Spurs,Cleveland Cavaliers,47,26,73,1490659200.0,2017
+Cleveland Cavaliers,Chicago Bulls,Cleveland Cavaliers,47,27,74,1490918400.0,2017
+Cleveland Cavaliers,Cleveland Cavaliers,Philadelphia 76ers,48,27,75,1491003000.0,2017
+Cleveland Cavaliers,Cleveland Cavaliers,Indiana Pacers,49,27,76,1491170400.0,2017
+Cleveland Cavaliers,Cleveland Cavaliers,Orlando Magic,50,27,77,1491346800.0,2017
+Cleveland Cavaliers,Boston Celtics,Cleveland Cavaliers,51,27,78,1491436800.0,2017
+Cleveland Cavaliers,Cleveland Cavaliers,Atlanta Hawks,51,28,79,1491607800.0,2017
+Cleveland Cavaliers,Atlanta Hawks,Cleveland Cavaliers,51,29,80,1491766200.0,2017
+Cleveland Cavaliers,Miami Heat,Cleveland Cavaliers,51,30,81,1491867000.0,2017
+Cleveland Cavaliers,Cleveland Cavaliers,Toronto Raptors,51,31,82,1492041600.0,2017
+Dallas Mavericks,Indiana Pacers,Dallas Mavericks,0,1,1,1477522800.0,2017
+Dallas Mavericks,Dallas Mavericks,Houston Rockets,0,2,2,1477701000.0,2017
+Dallas Mavericks,Houston Rockets,Dallas Mavericks,0,3,3,1477872000.0,2017
+Dallas Mavericks,Utah Jazz,Dallas Mavericks,0,4,4,1478134800.0,2017
+Dallas Mavericks,Dallas Mavericks,Portland Trail Blazers,0,5,5,1478305800.0,2017
+Dallas Mavericks,Dallas Mavericks,Milwaukee Bucks,1,5,6,1478476800.0,2017
+Dallas Mavericks,Los Angeles Lakers,Dallas Mavericks,2,5,7,1478662200.0,2017
+Dallas Mavericks,Golden State Warriors,Dallas Mavericks,2,6,8,1478748600.0,2017
+Dallas Mavericks,New York Knicks,Dallas Mavericks,2,7,9,1479169800.0,2017
+Dallas Mavericks,Boston Celtics,Dallas Mavericks,2,8,10,1479342600.0,2017
+Dallas Mavericks,Dallas Mavericks,Memphis Grizzlies,2,9,11,1479519000.0,2017
+Dallas Mavericks,Orlando Magic,Dallas Mavericks,2,10,12,1479600000.0,2017
+Dallas Mavericks,San Antonio Spurs,Dallas Mavericks,2,11,13,1479778200.0,2017
+Dallas Mavericks,Dallas Mavericks,Los Angeles Clippers,2,12,14,1479951000.0,2017
+Dallas Mavericks,Cleveland Cavaliers,Dallas Mavericks,2,13,15,1480120200.0,2017
+Dallas Mavericks,Dallas Mavericks,New Orleans Pelicans,3,13,16,1480291200.0,2017
+Dallas Mavericks,Dallas Mavericks,San Antonio Spurs,3,14,17,1480555800.0,2017
+Dallas Mavericks,Charlotte Hornets,Dallas Mavericks,3,15,18,1480636800.0,2017
+Dallas Mavericks,Dallas Mavericks,Chicago Bulls,4,15,19,1480815000.0,2017
+Dallas Mavericks,Dallas Mavericks,Charlotte Hornets,4,16,20,1480987800.0,2017
+Dallas Mavericks,Dallas Mavericks,Sacramento Kings,4,17,21,1481160600.0,2017
+Dallas Mavericks,Dallas Mavericks,Indiana Pacers,5,17,22,1481333400.0,2017
+Dallas Mavericks,Houston Rockets,Dallas Mavericks,5,18,23,1481418000.0,2017
+Dallas Mavericks,Dallas Mavericks,Denver Nuggets,6,18,24,1481592600.0,2017
+Dallas Mavericks,Dallas Mavericks,Detroit Pistons,6,19,25,1481765400.0,2017
+Dallas Mavericks,Utah Jazz,Dallas Mavericks,6,20,26,1481945400.0,2017
+Dallas Mavericks,Dallas Mavericks,Sacramento Kings,7,20,27,1482094800.0,2017
+Dallas Mavericks,Denver Nuggets,Dallas Mavericks,7,21,28,1482199200.0,2017
+Dallas Mavericks,Portland Trail Blazers,Dallas Mavericks,8,21,29,1482375600.0,2017
+Dallas Mavericks,Los Angeles Clippers,Dallas Mavericks,9,21,30,1482550200.0,2017
+Dallas Mavericks,New Orleans Pelicans,Dallas Mavericks,9,22,31,1482800400.0,2017
+Dallas Mavericks,Dallas Mavericks,Houston Rockets,9,23,32,1482888600.0,2017
+Dallas Mavericks,Los Angeles Lakers,Dallas Mavericks,10,23,33,1483068600.0,2017
+Dallas Mavericks,Golden State Warriors,Dallas Mavericks,10,24,34,1483155000.0,2017
+Dallas Mavericks,Dallas Mavericks,Washington Wizards,11,24,35,1483493400.0,2017
+Dallas Mavericks,Dallas Mavericks,Phoenix Suns,11,25,36,1483666200.0,2017
+Dallas Mavericks,Dallas Mavericks,Atlanta Hawks,11,26,37,1483839000.0,2017
+Dallas Mavericks,Minnesota Timberwolves,Dallas Mavericks,11,27,38,1484010000.0,2017
+Dallas Mavericks,Phoenix Suns,Dallas Mavericks,12,27,39,1484276400.0,2017
+Dallas Mavericks,Dallas Mavericks,Minnesota Timberwolves,13,27,40,1484506800.0,2017
+Dallas Mavericks,Chicago Bulls,Dallas Mavericks,14,27,41,1484701200.0,2017
+Dallas Mavericks,Miami Heat,Dallas Mavericks,14,28,42,1484872200.0,2017
+Dallas Mavericks,Dallas Mavericks,Utah Jazz,14,29,43,1484962200.0,2017
+Dallas Mavericks,Dallas Mavericks,Los Angeles Lakers,15,29,44,1485117000.0,2017
+Dallas Mavericks,Dallas Mavericks,New York Knicks,16,29,45,1485394200.0,2017
+Dallas Mavericks,Oklahoma City Thunder,Dallas Mavericks,16,30,46,1485478800.0,2017
+Dallas Mavericks,San Antonio Spurs,Dallas Mavericks,17,30,47,1485734400.0,2017
+Dallas Mavericks,Dallas Mavericks,Cleveland Cavaliers,18,30,48,1485826200.0,2017
+Dallas Mavericks,Dallas Mavericks,Philadelphia 76ers,19,30,49,1485999000.0,2017
+Dallas Mavericks,Portland Trail Blazers,Dallas Mavericks,20,30,50,1486179000.0,2017
+Dallas Mavericks,Denver Nuggets,Dallas Mavericks,20,31,51,1486432800.0,2017
+Dallas Mavericks,Dallas Mavericks,Portland Trail Blazers,20,32,52,1486517400.0,2017
+Dallas Mavericks,Dallas Mavericks,Utah Jazz,21,32,53,1486690200.0,2017
+Dallas Mavericks,Dallas Mavericks,Orlando Magic,22,32,54,1486864800.0,2017
+Dallas Mavericks,Dallas Mavericks,Boston Celtics,22,33,55,1487035800.0,2017
+Dallas Mavericks,Detroit Pistons,Dallas Mavericks,22,34,56,1487205000.0,2017
+Dallas Mavericks,Minnesota Timberwolves,Dallas Mavericks,22,35,57,1487984400.0,2017
+Dallas Mavericks,Dallas Mavericks,New Orleans Pelicans,23,35,58,1488072600.0,2017
+Dallas Mavericks,Dallas Mavericks,Miami Heat,24,35,59,1488245400.0,2017
+Dallas Mavericks,Atlanta Hawks,Dallas Mavericks,24,36,60,1488414600.0,2017
+Dallas Mavericks,Dallas Mavericks,Memphis Grizzlies,25,36,61,1488591000.0,2017
+Dallas Mavericks,Dallas Mavericks,Oklahoma City Thunder,26,36,62,1488763800.0,2017
+Dallas Mavericks,Dallas Mavericks,Los Angeles Lakers,27,36,63,1488936600.0,2017
+Dallas Mavericks,Dallas Mavericks,Brooklyn Nets,28,36,64,1489197600.0,2017
+Dallas Mavericks,Dallas Mavericks,Phoenix Suns,28,37,65,1489284000.0,2017
+Dallas Mavericks,Toronto Raptors,Dallas Mavericks,28,38,66,1489447800.0,2017
+Dallas Mavericks,Washington Wizards,Dallas Mavericks,29,38,67,1489618800.0,2017
+Dallas Mavericks,Philadelphia 76ers,Dallas Mavericks,29,39,68,1489791600.0,2017
+Dallas Mavericks,Brooklyn Nets,Dallas Mavericks,30,39,69,1489939200.0,2017
+Dallas Mavericks,Dallas Mavericks,Golden State Warriors,30,40,70,1490142600.0,2017
+Dallas Mavericks,Dallas Mavericks,Los Angeles Clippers,31,40,71,1490315400.0,2017
+Dallas Mavericks,Dallas Mavericks,Toronto Raptors,31,41,72,1490488200.0,2017
+Dallas Mavericks,Dallas Mavericks,Oklahoma City Thunder,31,42,73,1490661000.0,2017
+Dallas Mavericks,New Orleans Pelicans,Dallas Mavericks,31,43,74,1490832000.0,2017
+Dallas Mavericks,Memphis Grizzlies,Dallas Mavericks,31,44,75,1491004800.0,2017
+Dallas Mavericks,Milwaukee Bucks,Dallas Mavericks,32,44,76,1491161400.0,2017
+Dallas Mavericks,Sacramento Kings,Dallas Mavericks,32,45,77,1491359400.0,2017
+Dallas Mavericks,Los Angeles Clippers,Dallas Mavericks,32,46,78,1491445800.0,2017
+Dallas Mavericks,Dallas Mavericks,San Antonio Spurs,32,47,79,1491611400.0,2017
+Dallas Mavericks,Phoenix Suns,Dallas Mavericks,32,48,80,1491775200.0,2017
+Dallas Mavericks,Dallas Mavericks,Denver Nuggets,32,49,81,1491957000.0,2017
+Dallas Mavericks,Memphis Grizzlies,Dallas Mavericks,33,49,82,1492041600.0,2017
+Denver Nuggets,New Orleans Pelicans,Denver Nuggets,1,0,1,1477526400.0,2017
+Denver Nuggets,Denver Nuggets,Portland Trail Blazers,1,1,2,1477789200.0,2017
+Denver Nuggets,Toronto Raptors,Denver Nuggets,1,2,3,1477956600.0,2017
+Denver Nuggets,Minnesota Timberwolves,Denver Nuggets,2,2,4,1478217600.0,2017
+Denver Nuggets,Detroit Pistons,Denver Nuggets,2,3,5,1478386800.0,2017
+Denver Nuggets,Boston Celtics,Denver Nuggets,3,3,6,1478478600.0,2017
+Denver Nuggets,Memphis Grizzlies,Denver Nuggets,3,4,7,1478653200.0,2017
+Denver Nuggets,Denver Nuggets,Golden State Warriors,3,5,8,1478829600.0,2017
+Denver Nuggets,Denver Nuggets,Detroit Pistons,3,6,9,1479002400.0,2017
+Denver Nuggets,Portland Trail Blazers,Denver Nuggets,3,7,10,1479088800.0,2017
+Denver Nuggets,Denver Nuggets,Phoenix Suns,4,7,11,1479348000.0,2017
+Denver Nuggets,Denver Nuggets,Toronto Raptors,4,8,12,1479520800.0,2017
+Denver Nuggets,Denver Nuggets,Utah Jazz,5,8,13,1479693600.0,2017
+Denver Nuggets,Denver Nuggets,Chicago Bulls,6,8,14,1479866400.0,2017
+Denver Nuggets,Utah Jazz,Denver Nuggets,6,9,15,1479952800.0,2017
+Denver Nuggets,Denver Nuggets,Oklahoma City Thunder,6,10,16,1480125600.0,2017
+Denver Nuggets,Phoenix Suns,Denver Nuggets,7,10,17,1480278600.0,2017
+Denver Nuggets,Denver Nuggets,Miami Heat,7,11,18,1480557600.0,2017
+Denver Nuggets,Denver Nuggets,Houston Rockets,7,12,19,1480735800.0,2017
+Denver Nuggets,Utah Jazz,Denver Nuggets,7,13,20,1480816800.0,2017
+Denver Nuggets,Philadelphia 76ers,Denver Nuggets,8,13,21,1480982400.0,2017
+Denver Nuggets,Brooklyn Nets,Denver Nuggets,8,14,22,1481157000.0,2017
+Denver Nuggets,Washington Wizards,Denver Nuggets,8,15,23,1481241600.0,2017
+Denver Nuggets,Orlando Magic,Denver Nuggets,9,15,24,1481414400.0,2017
+Denver Nuggets,Dallas Mavericks,Denver Nuggets,9,16,25,1481592600.0,2017
+Denver Nuggets,Denver Nuggets,Portland Trail Blazers,10,16,26,1481853600.0,2017
+Denver Nuggets,Denver Nuggets,New York Knicks,11,16,27,1482026400.0,2017
+Denver Nuggets,Denver Nuggets,Dallas Mavericks,12,16,28,1482199200.0,2017
+Denver Nuggets,Los Angeles Clippers,Denver Nuggets,12,17,29,1482291000.0,2017
+Denver Nuggets,Denver Nuggets,Atlanta Hawks,12,18,30,1482544800.0,2017
+Denver Nuggets,Los Angeles Clippers,Denver Nuggets,13,18,31,1482809400.0,2017
+Denver Nuggets,Denver Nuggets,Minnesota Timberwolves,14,18,32,1482976800.0,2017
+Denver Nuggets,Denver Nuggets,Philadelphia 76ers,14,19,33,1483149600.0,2017
+Denver Nuggets,Golden State Warriors,Denver Nuggets,14,20,34,1483414200.0,2017
+Denver Nuggets,Denver Nuggets,Sacramento Kings,14,21,35,1483495200.0,2017
+Denver Nuggets,Denver Nuggets,San Antonio Spurs,14,22,36,1483668000.0,2017
+Denver Nuggets,Oklahoma City Thunder,Denver Nuggets,14,23,37,1483837200.0,2017
+Denver Nuggets,Denver Nuggets,Indiana Pacers,15,23,38,1484251200.0,2017
+Denver Nuggets,Denver Nuggets,Orlando Magic,16,23,39,1484604000.0,2017
+Denver Nuggets,Los Angeles Lakers,Denver Nuggets,17,23,40,1484710200.0,2017
+Denver Nuggets,San Antonio Spurs,Denver Nuggets,17,24,41,1484875800.0,2017
+Denver Nuggets,Denver Nuggets,Los Angeles Clippers,18,24,42,1485050400.0,2017
+Denver Nuggets,Minnesota Timberwolves,Denver Nuggets,18,25,43,1485129600.0,2017
+Denver Nuggets,Denver Nuggets,Utah Jazz,19,25,44,1485309600.0,2017
+Denver Nuggets,Denver Nuggets,Phoenix Suns,20,25,45,1485482400.0,2017
+Denver Nuggets,Phoenix Suns,Denver Nuggets,21,25,46,1485655200.0,2017
+Denver Nuggets,Los Angeles Lakers,Denver Nuggets,21,26,47,1485919800.0,2017
+Denver Nuggets,Denver Nuggets,Memphis Grizzlies,21,27,48,1486000800.0,2017
+Denver Nuggets,Denver Nuggets,Milwaukee Bucks,22,27,49,1486173600.0,2017
+Denver Nuggets,San Antonio Spurs,Denver Nuggets,22,28,50,1486260000.0,2017
+Denver Nuggets,Denver Nuggets,Dallas Mavericks,23,28,51,1486432800.0,2017
+Denver Nuggets,Atlanta Hawks,Denver Nuggets,23,29,52,1486600200.0,2017
+Denver Nuggets,New York Knicks,Denver Nuggets,24,29,53,1486773000.0,2017
+Denver Nuggets,Cleveland Cavaliers,Denver Nuggets,24,30,54,1486859400.0,2017
+Denver Nuggets,Denver Nuggets,Golden State Warriors,25,30,55,1487037600.0,2017
+Denver Nuggets,Denver Nuggets,Minnesota Timberwolves,25,31,56,1487210400.0,2017
+Denver Nuggets,Sacramento Kings,Denver Nuggets,25,32,57,1487907000.0,2017
+Denver Nuggets,Denver Nuggets,Brooklyn Nets,26,32,58,1487988000.0,2017
+Denver Nuggets,Denver Nuggets,Memphis Grizzlies,26,33,59,1488146400.0,2017
+Denver Nuggets,Chicago Bulls,Denver Nuggets,27,33,60,1488330000.0,2017
+Denver Nuggets,Milwaukee Bucks,Denver Nuggets,28,33,61,1488416400.0,2017
+Denver Nuggets,Denver Nuggets,Charlotte Hornets,28,34,62,1488679200.0,2017
+Denver Nuggets,Denver Nuggets,Sacramento Kings,29,34,63,1488852000.0,2017
+Denver Nuggets,Denver Nuggets,Washington Wizards,29,35,64,1489024800.0,2017
+Denver Nuggets,Denver Nuggets,Boston Celtics,30,35,65,1489197600.0,2017
+Denver Nuggets,Sacramento Kings,Denver Nuggets,31,35,66,1489289400.0,2017
+Denver Nuggets,Denver Nuggets,Los Angeles Lakers,32,35,67,1489458600.0,2017
+Denver Nuggets,Denver Nuggets,Los Angeles Clippers,33,35,68,1489712400.0,2017
+Denver Nuggets,Denver Nuggets,Houston Rockets,33,36,69,1489887000.0,2017
+Denver Nuggets,Houston Rockets,Denver Nuggets,33,37,70,1490054400.0,2017
+Denver Nuggets,Denver Nuggets,Cleveland Cavaliers,34,37,71,1490230800.0,2017
+Denver Nuggets,Indiana Pacers,Denver Nuggets,35,37,72,1490396400.0,2017
+Denver Nuggets,Denver Nuggets,New Orleans Pelicans,35,38,73,1490572800.0,2017
+Denver Nuggets,Portland Trail Blazers,Denver Nuggets,35,39,74,1490752800.0,2017
+Denver Nuggets,Charlotte Hornets,Denver Nuggets,35,40,75,1491001200.0,2017
+Denver Nuggets,Miami Heat,Denver Nuggets,36,40,76,1491170400.0,2017
+Denver Nuggets,New Orleans Pelicans,Denver Nuggets,37,40,77,1491350400.0,2017
+Denver Nuggets,Houston Rockets,Denver Nuggets,37,41,78,1491436800.0,2017
+Denver Nuggets,Denver Nuggets,New Orleans Pelicans,38,41,79,1491613200.0,2017
+Denver Nuggets,Denver Nuggets,Oklahoma City Thunder,38,42,80,1491771600.0,2017
+Denver Nuggets,Dallas Mavericks,Denver Nuggets,39,42,81,1491957000.0,2017
+Denver Nuggets,Oklahoma City Thunder,Denver Nuggets,40,42,82,1492041600.0,2017
+Detroit Pistons,Toronto Raptors,Detroit Pistons,0,1,1,1477524600.0,2017
+Detroit Pistons,Detroit Pistons,Orlando Magic,1,1,2,1477697400.0,2017
+Detroit Pistons,Detroit Pistons,Milwaukee Bucks,2,1,3,1477864800.0,2017
+Detroit Pistons,Detroit Pistons,New York Knicks,3,1,4,1478043000.0,2017
+Detroit Pistons,Brooklyn Nets,Detroit Pistons,3,2,5,1478129400.0,2017
+Detroit Pistons,Detroit Pistons,Denver Nuggets,4,2,6,1478386800.0,2017
+Detroit Pistons,Los Angeles Clippers,Detroit Pistons,4,3,7,1478575800.0,2017
+Detroit Pistons,Phoenix Suns,Detroit Pistons,4,4,8,1478743200.0,2017
+Detroit Pistons,San Antonio Spurs,Detroit Pistons,4,5,9,1478914200.0,2017
+Detroit Pistons,Denver Nuggets,Detroit Pistons,5,5,10,1479002400.0,2017
+Detroit Pistons,Detroit Pistons,Oklahoma City Thunder,6,5,11,1479169800.0,2017
+Detroit Pistons,New York Knicks,Detroit Pistons,6,6,12,1479342600.0,2017
+Detroit Pistons,Cleveland Cavaliers,Detroit Pistons,6,7,13,1479515400.0,2017
+Detroit Pistons,Detroit Pistons,Boston Celtics,6,8,14,1479600000.0,2017
+Detroit Pistons,Detroit Pistons,Houston Rockets,6,9,15,1479774600.0,2017
+Detroit Pistons,Detroit Pistons,Miami Heat,7,9,16,1479947400.0,2017
+Detroit Pistons,Detroit Pistons,Los Angeles Clippers,8,9,17,1480120200.0,2017
+Detroit Pistons,Oklahoma City Thunder,Detroit Pistons,8,10,18,1480208400.0,2017
+Detroit Pistons,Charlotte Hornets,Detroit Pistons,9,10,19,1480464000.0,2017
+Detroit Pistons,Boston Celtics,Detroit Pistons,10,10,20,1480552200.0,2017
+Detroit Pistons,Atlanta Hawks,Detroit Pistons,11,10,21,1480726800.0,2017
+Detroit Pistons,Detroit Pistons,Orlando Magic,11,11,22,1480892400.0,2017
+Detroit Pistons,Detroit Pistons,Chicago Bulls,12,11,23,1481070600.0,2017
+Detroit Pistons,Charlotte Hornets,Detroit Pistons,12,12,24,1481155200.0,2017
+Detroit Pistons,Minnesota Timberwolves,Detroit Pistons,13,12,25,1481331600.0,2017
+Detroit Pistons,Detroit Pistons,Philadelphia 76ers,13,13,26,1481497200.0,2017
+Detroit Pistons,Dallas Mavericks,Detroit Pistons,14,13,27,1481765400.0,2017
+Detroit Pistons,Washington Wizards,Detroit Pistons,14,14,28,1481932800.0,2017
+Detroit Pistons,Detroit Pistons,Indiana Pacers,14,15,29,1482019200.0,2017
+Detroit Pistons,Chicago Bulls,Detroit Pistons,14,16,30,1482195600.0,2017
+Detroit Pistons,Detroit Pistons,Memphis Grizzlies,14,17,31,1482366600.0,2017
+Detroit Pistons,Detroit Pistons,Golden State Warriors,14,18,32,1482539400.0,2017
+Detroit Pistons,Detroit Pistons,Cleveland Cavaliers,15,18,33,1482798600.0,2017
+Detroit Pistons,Detroit Pistons,Milwaukee Bucks,15,19,34,1482971400.0,2017
+Detroit Pistons,Atlanta Hawks,Detroit Pistons,15,20,35,1483146000.0,2017
+Detroit Pistons,Miami Heat,Detroit Pistons,16,20,36,1483311600.0,2017
+Detroit Pistons,Detroit Pistons,Indiana Pacers,16,21,37,1483489800.0,2017
+Detroit Pistons,Detroit Pistons,Charlotte Hornets,17,21,38,1483662600.0,2017
+Detroit Pistons,Portland Trail Blazers,Detroit Pistons,18,21,39,1483927200.0,2017
+Detroit Pistons,Sacramento Kings,Detroit Pistons,18,22,40,1484105400.0,2017
+Detroit Pistons,Golden State Warriors,Detroit Pistons,18,23,41,1484278200.0,2017
+Detroit Pistons,Utah Jazz,Detroit Pistons,18,24,42,1484364600.0,2017
+Detroit Pistons,Los Angeles Lakers,Detroit Pistons,19,24,43,1484533800.0,2017
+Detroit Pistons,Detroit Pistons,Atlanta Hawks,20,24,44,1484787600.0,2017
+Detroit Pistons,Detroit Pistons,Washington Wizards,21,24,45,1485039600.0,2017
+Detroit Pistons,Detroit Pistons,Sacramento Kings,21,25,46,1485217800.0,2017
+Detroit Pistons,Miami Heat,Detroit Pistons,21,26,47,1485649800.0,2017
+Detroit Pistons,Boston Celtics,Detroit Pistons,21,27,48,1485824400.0,2017
+Detroit Pistons,Detroit Pistons,New Orleans Pelicans,22,27,49,1485995400.0,2017
+Detroit Pistons,Detroit Pistons,Minnesota Timberwolves,23,27,50,1486168200.0,2017
+Detroit Pistons,Indiana Pacers,Detroit Pistons,23,28,51,1486252800.0,2017
+Detroit Pistons,Detroit Pistons,Philadelphia 76ers,24,28,52,1486427400.0,2017
+Detroit Pistons,Detroit Pistons,Los Angeles Lakers,25,28,53,1486600200.0,2017
+Detroit Pistons,Detroit Pistons,San Antonio Spurs,25,29,54,1486773000.0,2017
+Detroit Pistons,Toronto Raptors,Detroit Pistons,26,29,55,1486940400.0,2017
+Detroit Pistons,Milwaukee Bucks,Detroit Pistons,26,30,56,1487034000.0,2017
+Detroit Pistons,Detroit Pistons,Dallas Mavericks,27,30,57,1487205000.0,2017
+Detroit Pistons,Detroit Pistons,Charlotte Hornets,28,30,58,1487896200.0,2017
+Detroit Pistons,Detroit Pistons,Boston Celtics,28,31,59,1488150000.0,2017
+Detroit Pistons,Detroit Pistons,Portland Trail Blazers,29,31,60,1488328200.0,2017
+Detroit Pistons,New Orleans Pelicans,Detroit Pistons,29,32,61,1488416400.0,2017
+Detroit Pistons,Philadelphia 76ers,Detroit Pistons,30,32,62,1488668400.0,2017
+Detroit Pistons,Detroit Pistons,Chicago Bulls,31,32,63,1488846600.0,2017
+Detroit Pistons,Indiana Pacers,Detroit Pistons,31,33,64,1489021200.0,2017
+Detroit Pistons,Detroit Pistons,Cleveland Cavaliers,32,33,65,1489105800.0,2017
+Detroit Pistons,Detroit Pistons,New York Knicks,33,33,66,1489269600.0,2017
+Detroit Pistons,Cleveland Cavaliers,Detroit Pistons,33,34,67,1489532400.0,2017
+Detroit Pistons,Detroit Pistons,Utah Jazz,33,35,68,1489620600.0,2017
+Detroit Pistons,Detroit Pistons,Toronto Raptors,33,36,69,1489793400.0,2017
+Detroit Pistons,Detroit Pistons,Phoenix Suns,34,36,70,1489955400.0,2017
+Detroit Pistons,Brooklyn Nets,Detroit Pistons,34,37,71,1490139000.0,2017
+Detroit Pistons,Chicago Bulls,Detroit Pistons,34,38,72,1490227200.0,2017
+Detroit Pistons,Orlando Magic,Detroit Pistons,34,39,73,1490396400.0,2017
+Detroit Pistons,New York Knicks,Detroit Pistons,34,40,74,1490657400.0,2017
+Detroit Pistons,Detroit Pistons,Miami Heat,34,41,75,1490743800.0,2017
+Detroit Pistons,Detroit Pistons,Brooklyn Nets,35,41,76,1490916600.0,2017
+Detroit Pistons,Milwaukee Bucks,Detroit Pistons,35,42,77,1491004800.0,2017
+Detroit Pistons,Detroit Pistons,Toronto Raptors,35,43,78,1491435000.0,2017
+Detroit Pistons,Houston Rockets,Detroit Pistons,36,43,79,1491609600.0,2017
+Detroit Pistons,Memphis Grizzlies,Detroit Pistons,37,43,80,1491775200.0,2017
+Detroit Pistons,Detroit Pistons,Washington Wizards,37,44,81,1491868800.0,2017
+Detroit Pistons,Orlando Magic,Detroit Pistons,37,45,82,1492041600.0,2017
+Golden State Warriors,Golden State Warriors,San Antonio Spurs,0,1,1,1477449000.0,2017
+Golden State Warriors,New Orleans Pelicans,Golden State Warriors,1,1,2,1477704600.0,2017
+Golden State Warriors,Phoenix Suns,Golden State Warriors,2,1,3,1477864800.0,2017
+Golden State Warriors,Portland Trail Blazers,Golden State Warriors,3,1,4,1478052000.0,2017
+Golden State Warriors,Golden State Warriors,Oklahoma City Thunder,4,1,5,1478226600.0,2017
+Golden State Warriors,Los Angeles Lakers,Golden State Warriors,4,2,6,1478313000.0,2017
+Golden State Warriors,Golden State Warriors,New Orleans Pelicans,5,2,7,1478575800.0,2017
+Golden State Warriors,Golden State Warriors,Dallas Mavericks,6,2,8,1478748600.0,2017
+Golden State Warriors,Denver Nuggets,Golden State Warriors,7,2,9,1478829600.0,2017
+Golden State Warriors,Golden State Warriors,Phoenix Suns,8,2,10,1479085200.0,2017
+Golden State Warriors,Toronto Raptors,Golden State Warriors,9,2,11,1479344400.0,2017
+Golden State Warriors,Boston Celtics,Golden State Warriors,10,2,12,1479517200.0,2017
+Golden State Warriors,Milwaukee Bucks,Golden State Warriors,11,2,13,1479605400.0,2017
+Golden State Warriors,Indiana Pacers,Golden State Warriors,12,2,14,1479772800.0,2017
+Golden State Warriors,Golden State Warriors,Los Angeles Lakers,13,2,15,1479958200.0,2017
+Golden State Warriors,Los Angeles Lakers,Golden State Warriors,14,2,16,1480131000.0,2017
+Golden State Warriors,Golden State Warriors,Minnesota Timberwolves,15,2,17,1480217400.0,2017
+Golden State Warriors,Golden State Warriors,Atlanta Hawks,16,2,18,1480390200.0,2017
+Golden State Warriors,Golden State Warriors,Houston Rockets,16,3,19,1480649400.0,2017
+Golden State Warriors,Golden State Warriors,Phoenix Suns,17,3,20,1480822200.0,2017
+Golden State Warriors,Golden State Warriors,Indiana Pacers,18,3,21,1480995000.0,2017
+Golden State Warriors,Los Angeles Clippers,Golden State Warriors,19,3,22,1481167800.0,2017
+Golden State Warriors,Utah Jazz,Golden State Warriors,20,3,23,1481248800.0,2017
+Golden State Warriors,Memphis Grizzlies,Golden State Warriors,20,4,24,1481418000.0,2017
+Golden State Warriors,Minnesota Timberwolves,Golden State Warriors,21,4,25,1481500800.0,2017
+Golden State Warriors,New Orleans Pelicans,Golden State Warriors,22,4,26,1481677200.0,2017
+Golden State Warriors,Golden State Warriors,New York Knicks,23,4,27,1481859000.0,2017
+Golden State Warriors,Golden State Warriors,Portland Trail Blazers,24,4,28,1482031800.0,2017
+Golden State Warriors,Golden State Warriors,Utah Jazz,25,4,29,1482291000.0,2017
+Golden State Warriors,Brooklyn Nets,Golden State Warriors,26,4,30,1482453000.0,2017
+Golden State Warriors,Detroit Pistons,Golden State Warriors,27,4,31,1482539400.0,2017
+Golden State Warriors,Cleveland Cavaliers,Golden State Warriors,27,5,32,1482694200.0,2017
+Golden State Warriors,Golden State Warriors,Toronto Raptors,28,5,33,1482982200.0,2017
+Golden State Warriors,Golden State Warriors,Dallas Mavericks,29,5,34,1483155000.0,2017
+Golden State Warriors,Golden State Warriors,Denver Nuggets,30,5,35,1483414200.0,2017
+Golden State Warriors,Golden State Warriors,Portland Trail Blazers,31,5,36,1483587000.0,2017
+Golden State Warriors,Golden State Warriors,Memphis Grizzlies,31,6,37,1483759800.0,2017
+Golden State Warriors,Sacramento Kings,Golden State Warriors,32,6,38,1483927200.0,2017
+Golden State Warriors,Golden State Warriors,Miami Heat,33,6,39,1484105400.0,2017
+Golden State Warriors,Golden State Warriors,Detroit Pistons,34,6,40,1484278200.0,2017
+Golden State Warriors,Golden State Warriors,Cleveland Cavaliers,35,6,41,1484614800.0,2017
+Golden State Warriors,Golden State Warriors,Oklahoma City Thunder,36,6,42,1484796600.0,2017
+Golden State Warriors,Houston Rockets,Golden State Warriors,37,6,43,1484960400.0,2017
+Golden State Warriors,Orlando Magic,Golden State Warriors,38,6,44,1485104400.0,2017
+Golden State Warriors,Miami Heat,Golden State Warriors,38,7,45,1485217800.0,2017
+Golden State Warriors,Charlotte Hornets,Golden State Warriors,39,7,46,1485392400.0,2017
+Golden State Warriors,Golden State Warriors,Los Angeles Clippers,40,7,47,1485653400.0,2017
+Golden State Warriors,Portland Trail Blazers,Golden State Warriors,41,7,48,1485741600.0,2017
+Golden State Warriors,Golden State Warriors,Charlotte Hornets,42,7,49,1486006200.0,2017
+Golden State Warriors,Los Angeles Clippers,Golden State Warriors,43,7,50,1486092600.0,2017
+Golden State Warriors,Sacramento Kings,Golden State Warriors,43,8,51,1486265400.0,2017
+Golden State Warriors,Golden State Warriors,Chicago Bulls,44,8,52,1486611000.0,2017
+Golden State Warriors,Memphis Grizzlies,Golden State Warriors,45,8,53,1486774800.0,2017
+Golden State Warriors,Oklahoma City Thunder,Golden State Warriors,46,8,54,1486863000.0,2017
+Golden State Warriors,Denver Nuggets,Golden State Warriors,46,9,55,1487037600.0,2017
+Golden State Warriors,Golden State Warriors,Sacramento Kings,47,9,56,1487215800.0,2017
+Golden State Warriors,Golden State Warriors,Los Angeles Clippers,48,9,57,1487907000.0,2017
+Golden State Warriors,Golden State Warriors,Brooklyn Nets,49,9,58,1488079800.0,2017
+Golden State Warriors,Philadelphia 76ers,Golden State Warriors,50,9,59,1488240000.0,2017
+Golden State Warriors,Washington Wizards,Golden State Warriors,50,10,60,1488326400.0,2017
+Golden State Warriors,Chicago Bulls,Golden State Warriors,50,11,61,1488502800.0,2017
+Golden State Warriors,New York Knicks,Golden State Warriors,51,11,62,1488745800.0,2017
+Golden State Warriors,Atlanta Hawks,Golden State Warriors,52,11,63,1488846600.0,2017
+Golden State Warriors,Golden State Warriors,Boston Celtics,52,12,64,1489030200.0,2017
+Golden State Warriors,Minnesota Timberwolves,Golden State Warriors,52,13,65,1489194000.0,2017
+Golden State Warriors,San Antonio Spurs,Golden State Warriors,52,14,66,1489282200.0,2017
+Golden State Warriors,Golden State Warriors,Philadelphia 76ers,53,14,67,1489545000.0,2017
+Golden State Warriors,Golden State Warriors,Orlando Magic,54,14,68,1489717800.0,2017
+Golden State Warriors,Golden State Warriors,Milwaukee Bucks,55,14,69,1489890600.0,2017
+Golden State Warriors,Oklahoma City Thunder,Golden State Warriors,56,14,70,1490054400.0,2017
+Golden State Warriors,Dallas Mavericks,Golden State Warriors,57,14,71,1490142600.0,2017
+Golden State Warriors,Golden State Warriors,Sacramento Kings,58,14,72,1490409000.0,2017
+Golden State Warriors,Golden State Warriors,Memphis Grizzlies,59,14,73,1490572800.0,2017
+Golden State Warriors,Houston Rockets,Golden State Warriors,60,14,74,1490745600.0,2017
+Golden State Warriors,San Antonio Spurs,Golden State Warriors,61,14,75,1490837400.0,2017
+Golden State Warriors,Golden State Warriors,Houston Rockets,62,14,76,1491013800.0,2017
+Golden State Warriors,Golden State Warriors,Washington Wizards,63,14,77,1491177600.0,2017
+Golden State Warriors,Golden State Warriors,Minnesota Timberwolves,64,14,78,1491359400.0,2017
+Golden State Warriors,Phoenix Suns,Golden State Warriors,65,14,79,1491444000.0,2017
+Golden State Warriors,Golden State Warriors,New Orleans Pelicans,66,14,80,1491705000.0,2017
+Golden State Warriors,Golden State Warriors,Utah Jazz,66,15,81,1491877800.0,2017
+Golden State Warriors,Golden State Warriors,Los Angeles Lakers,67,15,82,1492050600.0,2017
+Houston Rockets,Los Angeles Lakers,Houston Rockets,0,1,1,1477535400.0,2017
+Houston Rockets,Dallas Mavericks,Houston Rockets,1,1,2,1477701000.0,2017
+Houston Rockets,Houston Rockets,Dallas Mavericks,2,1,3,1477872000.0,2017
+Houston Rockets,Cleveland Cavaliers,Houston Rockets,2,2,4,1478037600.0,2017
+Houston Rockets,New York Knicks,Houston Rockets,3,2,5,1478129400.0,2017
+Houston Rockets,Atlanta Hawks,Houston Rockets,3,3,6,1478388600.0,2017
+Houston Rockets,Washington Wizards,Houston Rockets,4,3,7,1478563200.0,2017
+Houston Rockets,San Antonio Spurs,Houston Rockets,5,3,8,1478745000.0,2017
+Houston Rockets,Houston Rockets,San Antonio Spurs,5,4,9,1478998800.0,2017
+Houston Rockets,Houston Rockets,Philadelphia 76ers,6,4,10,1479171600.0,2017
+Houston Rockets,Oklahoma City Thunder,Houston Rockets,6,5,11,1479344400.0,2017
+Houston Rockets,Houston Rockets,Portland Trail Blazers,7,5,12,1479430800.0,2017
+Houston Rockets,Houston Rockets,Utah Jazz,8,5,13,1479592800.0,2017
+Houston Rockets,Detroit Pistons,Houston Rockets,9,5,14,1479774600.0,2017
+Houston Rockets,Houston Rockets,Toronto Raptors,9,6,15,1479949200.0,2017
+Houston Rockets,Sacramento Kings,Houston Rockets,10,6,16,1480131000.0,2017
+Houston Rockets,Portland Trail Blazers,Houston Rockets,11,6,17,1480298400.0,2017
+Houston Rockets,Utah Jazz,Houston Rockets,11,7,18,1480471200.0,2017
+Houston Rockets,Golden State Warriors,Houston Rockets,12,7,19,1480649400.0,2017
+Houston Rockets,Denver Nuggets,Houston Rockets,13,7,20,1480735800.0,2017
+Houston Rockets,Houston Rockets,Boston Celtics,14,7,21,1480986000.0,2017
+Houston Rockets,Houston Rockets,Los Angeles Lakers,15,7,22,1481158800.0,2017
+Houston Rockets,Oklahoma City Thunder,Houston Rockets,16,7,23,1481331600.0,2017
+Houston Rockets,Houston Rockets,Dallas Mavericks,17,7,24,1481418000.0,2017
+Houston Rockets,Houston Rockets,Brooklyn Nets,18,7,25,1481590800.0,2017
+Houston Rockets,Houston Rockets,Sacramento Kings,19,7,26,1481763600.0,2017
+Houston Rockets,Houston Rockets,New Orleans Pelicans,20,7,27,1481936400.0,2017
+Houston Rockets,Minnesota Timberwolves,Houston Rockets,21,7,28,1482022800.0,2017
+Houston Rockets,Houston Rockets,San Antonio Spurs,21,8,29,1482282000.0,2017
+Houston Rockets,Phoenix Suns,Houston Rockets,22,8,30,1482372000.0,2017
+Houston Rockets,Memphis Grizzlies,Houston Rockets,22,9,31,1482541200.0,2017
+Houston Rockets,Houston Rockets,Phoenix Suns,23,9,32,1482800400.0,2017
+Houston Rockets,Dallas Mavericks,Houston Rockets,24,9,33,1482888600.0,2017
+Houston Rockets,Houston Rockets,Los Angeles Clippers,25,9,34,1483146000.0,2017
+Houston Rockets,Houston Rockets,New York Knicks,26,9,35,1483232400.0,2017
+Houston Rockets,Houston Rockets,Washington Wizards,27,9,36,1483405200.0,2017
+Houston Rockets,Houston Rockets,Oklahoma City Thunder,28,9,37,1483664400.0,2017
+Houston Rockets,Orlando Magic,Houston Rockets,29,9,38,1483747200.0,2017
+Houston Rockets,Toronto Raptors,Houston Rockets,30,9,39,1483916400.0,2017
+Houston Rockets,Houston Rockets,Charlotte Hornets,31,9,40,1484096400.0,2017
+Houston Rockets,Minnesota Timberwolves,Houston Rockets,31,10,41,1484182800.0,2017
+Houston Rockets,Houston Rockets,Memphis Grizzlies,31,11,42,1484355600.0,2017
+Houston Rockets,Brooklyn Nets,Houston Rockets,32,11,43,1484521200.0,2017
+Houston Rockets,Miami Heat,Houston Rockets,32,12,44,1484699400.0,2017
+Houston Rockets,Houston Rockets,Milwaukee Bucks,33,12,45,1484787600.0,2017
+Houston Rockets,Houston Rockets,Golden State Warriors,33,13,46,1484960400.0,2017
+Houston Rockets,Memphis Grizzlies,Houston Rockets,34,13,47,1485046800.0,2017
+Houston Rockets,Milwaukee Bucks,Houston Rockets,34,14,48,1485219600.0,2017
+Houston Rockets,Boston Celtics,Houston Rockets,34,15,49,1485390600.0,2017
+Houston Rockets,Philadelphia 76ers,Houston Rockets,35,15,50,1485565200.0,2017
+Houston Rockets,Indiana Pacers,Houston Rockets,35,16,51,1485730800.0,2017
+Houston Rockets,Houston Rockets,Sacramento Kings,36,16,52,1485910800.0,2017
+Houston Rockets,Houston Rockets,Atlanta Hawks,36,17,53,1486083600.0,2017
+Houston Rockets,Houston Rockets,Chicago Bulls,37,17,54,1486170000.0,2017
+Houston Rockets,Houston Rockets,Orlando Magic,38,17,55,1486515600.0,2017
+Houston Rockets,Charlotte Hornets,Houston Rockets,39,17,56,1486684800.0,2017
+Houston Rockets,Houston Rockets,Phoenix Suns,40,17,57,1486864800.0,2017
+Houston Rockets,Houston Rockets,Miami Heat,40,18,58,1487206800.0,2017
+Houston Rockets,New Orleans Pelicans,Houston Rockets,41,18,59,1487898000.0,2017
+Houston Rockets,Houston Rockets,Minnesota Timberwolves,42,18,60,1488074400.0,2017
+Houston Rockets,Houston Rockets,Indiana Pacers,42,19,61,1488249000.0,2017
+Houston Rockets,Los Angeles Clippers,Houston Rockets,43,19,62,1488425400.0,2017
+Houston Rockets,Houston Rockets,Memphis Grizzlies,44,19,63,1488679200.0,2017
+Houston Rockets,San Antonio Spurs,Houston Rockets,44,20,64,1488850200.0,2017
+Houston Rockets,Houston Rockets,Utah Jazz,44,21,65,1489021200.0,2017
+Houston Rockets,Chicago Bulls,Houston Rockets,45,21,66,1489194000.0,2017
+Houston Rockets,Houston Rockets,Cleveland Cavaliers,46,21,67,1489366800.0,2017
+Houston Rockets,Houston Rockets,Los Angeles Lakers,47,21,68,1489622400.0,2017
+Houston Rockets,New Orleans Pelicans,Houston Rockets,47,22,69,1489795200.0,2017
+Houston Rockets,Denver Nuggets,Houston Rockets,48,22,70,1489887000.0,2017
+Houston Rockets,Houston Rockets,Denver Nuggets,49,22,71,1490054400.0,2017
+Houston Rockets,Houston Rockets,New Orleans Pelicans,50,22,72,1490400000.0,2017
+Houston Rockets,Houston Rockets,Oklahoma City Thunder,51,22,73,1490556600.0,2017
+Houston Rockets,Houston Rockets,Golden State Warriors,51,23,74,1490745600.0,2017
+Houston Rockets,Portland Trail Blazers,Houston Rockets,51,24,75,1490927400.0,2017
+Houston Rockets,Golden State Warriors,Houston Rockets,51,25,76,1491013800.0,2017
+Houston Rockets,Phoenix Suns,Houston Rockets,52,25,77,1491181200.0,2017
+Houston Rockets,Houston Rockets,Denver Nuggets,53,25,78,1491436800.0,2017
+Houston Rockets,Houston Rockets,Detroit Pistons,53,26,79,1491609600.0,2017
+Houston Rockets,Sacramento Kings,Houston Rockets,54,26,80,1491775200.0,2017
+Houston Rockets,Los Angeles Clippers,Houston Rockets,54,27,81,1491877800.0,2017
+Houston Rockets,Houston Rockets,Minnesota Timberwolves,55,27,82,1492041600.0,2017
+Indiana Pacers,Indiana Pacers,Dallas Mavericks,1,0,1,1477522800.0,2017
+Indiana Pacers,Brooklyn Nets,Indiana Pacers,1,1,2,1477697400.0,2017
+Indiana Pacers,Chicago Bulls,Indiana Pacers,1,2,3,1477785600.0,2017
+Indiana Pacers,Indiana Pacers,Los Angeles Lakers,2,2,4,1478041200.0,2017
+Indiana Pacers,Milwaukee Bucks,Indiana Pacers,2,3,5,1478217600.0,2017
+Indiana Pacers,Indiana Pacers,Chicago Bulls,3,3,6,1478386800.0,2017
+Indiana Pacers,Charlotte Hornets,Indiana Pacers,3,4,7,1478563200.0,2017
+Indiana Pacers,Indiana Pacers,Philadelphia 76ers,4,4,8,1478736000.0,2017
+Indiana Pacers,Philadelphia 76ers,Indiana Pacers,4,5,9,1478908800.0,2017
+Indiana Pacers,Indiana Pacers,Boston Celtics,4,6,10,1478995200.0,2017
+Indiana Pacers,Indiana Pacers,Orlando Magic,5,6,11,1479168000.0,2017
+Indiana Pacers,Indiana Pacers,Cleveland Cavaliers,6,6,12,1479340800.0,2017
+Indiana Pacers,Indiana Pacers,Phoenix Suns,6,7,13,1479513600.0,2017
+Indiana Pacers,Oklahoma City Thunder,Indiana Pacers,7,7,14,1479686400.0,2017
+Indiana Pacers,Indiana Pacers,Golden State Warriors,7,8,15,1479772800.0,2017
+Indiana Pacers,Indiana Pacers,Atlanta Hawks,7,9,16,1479945600.0,2017
+Indiana Pacers,Indiana Pacers,Brooklyn Nets,8,9,17,1480122000.0,2017
+Indiana Pacers,Indiana Pacers,Los Angeles Clippers,9,9,18,1480287600.0,2017
+Indiana Pacers,Portland Trail Blazers,Indiana Pacers,9,10,19,1480561200.0,2017
+Indiana Pacers,Los Angeles Clippers,Indiana Pacers,10,10,20,1480905000.0,2017
+Indiana Pacers,Golden State Warriors,Indiana Pacers,10,11,21,1480995000.0,2017
+Indiana Pacers,Phoenix Suns,Indiana Pacers,11,11,22,1481162400.0,2017
+Indiana Pacers,Dallas Mavericks,Indiana Pacers,11,12,23,1481333400.0,2017
+Indiana Pacers,Indiana Pacers,Portland Trail Blazers,12,12,24,1481414400.0,2017
+Indiana Pacers,Indiana Pacers,Charlotte Hornets,13,12,25,1481587200.0,2017
+Indiana Pacers,Miami Heat,Indiana Pacers,13,13,26,1481760000.0,2017
+Indiana Pacers,New Orleans Pelicans,Indiana Pacers,13,14,27,1481850000.0,2017
+Indiana Pacers,Detroit Pistons,Indiana Pacers,14,14,28,1482019200.0,2017
+Indiana Pacers,Indiana Pacers,Washington Wizards,15,14,29,1482192000.0,2017
+Indiana Pacers,New York Knicks,Indiana Pacers,15,15,30,1482280200.0,2017
+Indiana Pacers,Indiana Pacers,Boston Celtics,15,16,31,1482451200.0,2017
+Indiana Pacers,Chicago Bulls,Indiana Pacers,15,17,32,1482800400.0,2017
+Indiana Pacers,Washington Wizards,Indiana Pacers,15,18,33,1482969600.0,2017
+Indiana Pacers,Indiana Pacers,Chicago Bulls,16,18,34,1483131600.0,2017
+Indiana Pacers,Indiana Pacers,Orlando Magic,17,18,35,1483311600.0,2017
+Indiana Pacers,Detroit Pistons,Indiana Pacers,18,18,36,1483489800.0,2017
+Indiana Pacers,Indiana Pacers,Brooklyn Nets,19,18,37,1483660800.0,2017
+Indiana Pacers,Indiana Pacers,New York Knicks,20,18,38,1483833600.0,2017
+Indiana Pacers,Denver Nuggets,Indiana Pacers,20,19,39,1484251200.0,2017
+Indiana Pacers,Indiana Pacers,New Orleans Pelicans,21,19,40,1484600400.0,2017
+Indiana Pacers,Sacramento Kings,Indiana Pacers,22,19,41,1484796600.0,2017
+Indiana Pacers,Los Angeles Lakers,Indiana Pacers,22,20,42,1484969400.0,2017
+Indiana Pacers,Utah Jazz,Indiana Pacers,22,21,43,1485050400.0,2017
+Indiana Pacers,Indiana Pacers,New York Knicks,22,22,44,1485219600.0,2017
+Indiana Pacers,Minnesota Timberwolves,Indiana Pacers,23,22,45,1485478800.0,2017
+Indiana Pacers,Indiana Pacers,Sacramento Kings,24,22,46,1485561600.0,2017
+Indiana Pacers,Indiana Pacers,Houston Rockets,25,22,47,1485730800.0,2017
+Indiana Pacers,Orlando Magic,Indiana Pacers,26,22,48,1485993600.0,2017
+Indiana Pacers,Brooklyn Nets,Indiana Pacers,27,22,49,1486168200.0,2017
+Indiana Pacers,Indiana Pacers,Detroit Pistons,28,22,50,1486252800.0,2017
+Indiana Pacers,Indiana Pacers,Oklahoma City Thunder,29,22,51,1486425600.0,2017
+Indiana Pacers,Indiana Pacers,Cleveland Cavaliers,29,23,52,1486598400.0,2017
+Indiana Pacers,Washington Wizards,Indiana Pacers,29,24,53,1486774800.0,2017
+Indiana Pacers,Indiana Pacers,Milwaukee Bucks,29,25,54,1486857600.0,2017
+Indiana Pacers,Indiana Pacers,San Antonio Spurs,29,26,55,1487030400.0,2017
+Indiana Pacers,Cleveland Cavaliers,Indiana Pacers,29,27,56,1487203200.0,2017
+Indiana Pacers,Indiana Pacers,Washington Wizards,29,28,57,1487289600.0,2017
+Indiana Pacers,Indiana Pacers,Memphis Grizzlies,30,28,58,1487980800.0,2017
+Indiana Pacers,Miami Heat,Indiana Pacers,30,29,59,1488070800.0,2017
+Indiana Pacers,Houston Rockets,Indiana Pacers,31,29,60,1488249000.0,2017
+Indiana Pacers,San Antonio Spurs,Indiana Pacers,31,30,61,1488418200.0,2017
+Indiana Pacers,Atlanta Hawks,Indiana Pacers,32,30,62,1488736800.0,2017
+Indiana Pacers,Charlotte Hornets,Indiana Pacers,32,31,63,1488848400.0,2017
+Indiana Pacers,Indiana Pacers,Detroit Pistons,33,31,64,1489021200.0,2017
+Indiana Pacers,Milwaukee Bucks,Indiana Pacers,33,32,65,1489194000.0,2017
+Indiana Pacers,Indiana Pacers,Miami Heat,34,32,66,1489356000.0,2017
+Indiana Pacers,New York Knicks,Indiana Pacers,34,33,67,1489534200.0,2017
+Indiana Pacers,Indiana Pacers,Charlotte Hornets,35,33,68,1489618800.0,2017
+Indiana Pacers,Toronto Raptors,Indiana Pacers,35,34,69,1489960800.0,2017
+Indiana Pacers,Indiana Pacers,Utah Jazz,36,34,70,1490050800.0,2017
+Indiana Pacers,Boston Celtics,Indiana Pacers,36,35,71,1490225400.0,2017
+Indiana Pacers,Indiana Pacers,Denver Nuggets,36,36,72,1490396400.0,2017
+Indiana Pacers,Indiana Pacers,Philadelphia 76ers,37,36,73,1490565600.0,2017
+Indiana Pacers,Indiana Pacers,Minnesota Timberwolves,37,37,74,1490742000.0,2017
+Indiana Pacers,Memphis Grizzlies,Indiana Pacers,37,38,75,1490832000.0,2017
+Indiana Pacers,Toronto Raptors,Indiana Pacers,37,39,76,1491001200.0,2017
+Indiana Pacers,Cleveland Cavaliers,Indiana Pacers,37,40,77,1491170400.0,2017
+Indiana Pacers,Indiana Pacers,Toronto Raptors,38,40,78,1491346800.0,2017
+Indiana Pacers,Indiana Pacers,Milwaukee Bucks,39,40,79,1491519600.0,2017
+Indiana Pacers,Orlando Magic,Indiana Pacers,40,40,80,1491688800.0,2017
+Indiana Pacers,Philadelphia 76ers,Indiana Pacers,41,40,81,1491865200.0,2017
+Indiana Pacers,Indiana Pacers,Atlanta Hawks,42,40,82,1492041600.0,2017
+Los Angeles Clippers,Portland Trail Blazers,Los Angeles Clippers,1,0,1,1477621800.0,2017
+Los Angeles Clippers,Los Angeles Clippers,Utah Jazz,2,0,2,1477859400.0,2017
+Los Angeles Clippers,Los Angeles Clippers,Phoenix Suns,3,0,3,1477967400.0,2017
+Los Angeles Clippers,Los Angeles Clippers,Oklahoma City Thunder,3,1,4,1478140200.0,2017
+Los Angeles Clippers,Memphis Grizzlies,Los Angeles Clippers,4,1,5,1478304000.0,2017
+Los Angeles Clippers,San Antonio Spurs,Los Angeles Clippers,5,1,6,1478392200.0,2017
+Los Angeles Clippers,Los Angeles Clippers,Detroit Pistons,6,1,7,1478575800.0,2017
+Los Angeles Clippers,Los Angeles Clippers,Portland Trail Blazers,7,1,8,1478748600.0,2017
+Los Angeles Clippers,Oklahoma City Thunder,Los Angeles Clippers,8,1,9,1478912400.0,2017
+Los Angeles Clippers,Minnesota Timberwolves,Los Angeles Clippers,9,1,10,1478998800.0,2017
+Los Angeles Clippers,Los Angeles Clippers,Brooklyn Nets,10,1,11,1479180600.0,2017
+Los Angeles Clippers,Los Angeles Clippers,Memphis Grizzlies,10,2,12,1479353400.0,2017
+Los Angeles Clippers,Sacramento Kings,Los Angeles Clippers,11,2,13,1479526200.0,2017
+Los Angeles Clippers,Los Angeles Clippers,Chicago Bulls,12,2,14,1479612600.0,2017
+Los Angeles Clippers,Los Angeles Clippers,Toronto Raptors,13,2,15,1479785400.0,2017
+Los Angeles Clippers,Dallas Mavericks,Los Angeles Clippers,14,2,16,1479951000.0,2017
+Los Angeles Clippers,Detroit Pistons,Los Angeles Clippers,14,3,17,1480120200.0,2017
+Los Angeles Clippers,Indiana Pacers,Los Angeles Clippers,14,4,18,1480287600.0,2017
+Los Angeles Clippers,Brooklyn Nets,Los Angeles Clippers,14,5,19,1480465800.0,2017
+Los Angeles Clippers,Cleveland Cavaliers,Los Angeles Clippers,15,5,20,1480640400.0,2017
+Los Angeles Clippers,New Orleans Pelicans,Los Angeles Clippers,16,5,21,1480726800.0,2017
+Los Angeles Clippers,Los Angeles Clippers,Indiana Pacers,16,6,22,1480905000.0,2017
+Los Angeles Clippers,Los Angeles Clippers,Golden State Warriors,16,7,23,1481167800.0,2017
+Los Angeles Clippers,Los Angeles Clippers,New Orleans Pelicans,17,7,24,1481427000.0,2017
+Los Angeles Clippers,Los Angeles Clippers,Portland Trail Blazers,18,7,25,1481599800.0,2017
+Los Angeles Clippers,Orlando Magic,Los Angeles Clippers,19,7,26,1481760000.0,2017
+Los Angeles Clippers,Miami Heat,Los Angeles Clippers,20,7,27,1481936400.0,2017
+Los Angeles Clippers,Washington Wizards,Los Angeles Clippers,20,8,28,1482093000.0,2017
+Los Angeles Clippers,Los Angeles Clippers,Denver Nuggets,21,8,29,1482291000.0,2017
+Los Angeles Clippers,Los Angeles Clippers,San Antonio Spurs,22,8,30,1482463800.0,2017
+Los Angeles Clippers,Los Angeles Clippers,Dallas Mavericks,22,9,31,1482550200.0,2017
+Los Angeles Clippers,Los Angeles Lakers,Los Angeles Clippers,22,10,32,1482723000.0,2017
+Los Angeles Clippers,Los Angeles Clippers,Denver Nuggets,22,11,33,1482809400.0,2017
+Los Angeles Clippers,New Orleans Pelicans,Los Angeles Clippers,22,12,34,1482973200.0,2017
+Los Angeles Clippers,Houston Rockets,Los Angeles Clippers,22,13,35,1483146000.0,2017
+Los Angeles Clippers,Oklahoma City Thunder,Los Angeles Clippers,22,14,36,1483232400.0,2017
+Los Angeles Clippers,Los Angeles Clippers,Phoenix Suns,23,14,37,1483414200.0,2017
+Los Angeles Clippers,Los Angeles Clippers,Memphis Grizzlies,24,14,38,1483587000.0,2017
+Los Angeles Clippers,Sacramento Kings,Los Angeles Clippers,25,14,39,1483759800.0,2017
+Los Angeles Clippers,Los Angeles Clippers,Miami Heat,26,14,40,1483907400.0,2017
+Los Angeles Clippers,Los Angeles Clippers,Orlando Magic,27,14,41,1484191800.0,2017
+Los Angeles Clippers,Los Angeles Clippers,Los Angeles Lakers,28,14,42,1484425800.0,2017
+Los Angeles Clippers,Los Angeles Clippers,Oklahoma City Thunder,29,14,43,1484623800.0,2017
+Los Angeles Clippers,Los Angeles Clippers,Minnesota Timberwolves,29,15,44,1484883000.0,2017
+Los Angeles Clippers,Denver Nuggets,Los Angeles Clippers,29,16,45,1485050400.0,2017
+Los Angeles Clippers,Atlanta Hawks,Los Angeles Clippers,30,16,46,1485217800.0,2017
+Los Angeles Clippers,Philadelphia 76ers,Los Angeles Clippers,30,17,47,1485302400.0,2017
+Los Angeles Clippers,Golden State Warriors,Los Angeles Clippers,30,18,48,1485653400.0,2017
+Los Angeles Clippers,Phoenix Suns,Los Angeles Clippers,31,18,49,1486000800.0,2017
+Los Angeles Clippers,Los Angeles Clippers,Golden State Warriors,31,19,50,1486092600.0,2017
+Los Angeles Clippers,Boston Celtics,Los Angeles Clippers,31,20,51,1486321200.0,2017
+Los Angeles Clippers,Toronto Raptors,Los Angeles Clippers,31,21,52,1486427400.0,2017
+Los Angeles Clippers,New York Knicks,Los Angeles Clippers,32,21,53,1486602000.0,2017
+Los Angeles Clippers,Charlotte Hornets,Los Angeles Clippers,33,21,54,1486850400.0,2017
+Los Angeles Clippers,Utah Jazz,Los Angeles Clippers,34,21,55,1487037600.0,2017
+Los Angeles Clippers,Los Angeles Clippers,Atlanta Hawks,35,21,56,1487215800.0,2017
+Los Angeles Clippers,Golden State Warriors,Los Angeles Clippers,35,22,57,1487907000.0,2017
+Los Angeles Clippers,Los Angeles Clippers,San Antonio Spurs,35,23,58,1487993400.0,2017
+Los Angeles Clippers,Los Angeles Clippers,Charlotte Hornets,36,23,59,1488162600.0,2017
+Los Angeles Clippers,Los Angeles Clippers,Houston Rockets,36,24,60,1488425400.0,2017
+Los Angeles Clippers,Milwaukee Bucks,Los Angeles Clippers,36,25,61,1488589200.0,2017
+Los Angeles Clippers,Chicago Bulls,Los Angeles Clippers,37,25,62,1488677400.0,2017
+Los Angeles Clippers,Los Angeles Clippers,Boston Celtics,38,25,63,1488857400.0,2017
+Los Angeles Clippers,Minnesota Timberwolves,Los Angeles Clippers,38,26,64,1489021200.0,2017
+Los Angeles Clippers,Memphis Grizzlies,Los Angeles Clippers,39,26,65,1489107600.0,2017
+Los Angeles Clippers,Los Angeles Clippers,Philadelphia 76ers,40,26,66,1489264200.0,2017
+Los Angeles Clippers,Utah Jazz,Los Angeles Clippers,40,27,67,1489453200.0,2017
+Los Angeles Clippers,Los Angeles Clippers,Milwaukee Bucks,40,28,68,1489631400.0,2017
+Los Angeles Clippers,Denver Nuggets,Los Angeles Clippers,40,29,69,1489712400.0,2017
+Los Angeles Clippers,Los Angeles Clippers,Cleveland Cavaliers,41,29,70,1489883400.0,2017
+Los Angeles Clippers,Los Angeles Clippers,New York Knicks,42,29,71,1490063400.0,2017
+Los Angeles Clippers,Los Angeles Lakers,Los Angeles Clippers,43,29,72,1490149800.0,2017
+Los Angeles Clippers,Dallas Mavericks,Los Angeles Clippers,43,30,73,1490315400.0,2017
+Los Angeles Clippers,Los Angeles Clippers,Utah Jazz,44,30,74,1490470200.0,2017
+Los Angeles Clippers,Los Angeles Clippers,Sacramento Kings,44,31,75,1490556600.0,2017
+Los Angeles Clippers,Los Angeles Clippers,Washington Wizards,45,31,76,1490841000.0,2017
+Los Angeles Clippers,Phoenix Suns,Los Angeles Clippers,46,31,77,1490925600.0,2017
+Los Angeles Clippers,Los Angeles Clippers,Los Angeles Lakers,47,31,78,1491075000.0,2017
+Los Angeles Clippers,Los Angeles Clippers,Dallas Mavericks,48,31,79,1491445800.0,2017
+Los Angeles Clippers,San Antonio Spurs,Los Angeles Clippers,49,31,80,1491697800.0,2017
+Los Angeles Clippers,Los Angeles Clippers,Houston Rockets,50,31,81,1491877800.0,2017
+Los Angeles Clippers,Los Angeles Clippers,Sacramento Kings,51,31,82,1492050600.0,2017
+Los Angeles Lakers,Los Angeles Lakers,Houston Rockets,1,0,1,1477535400.0,2017
+Los Angeles Lakers,Utah Jazz,Los Angeles Lakers,1,1,2,1477702800.0,2017
+Los Angeles Lakers,Oklahoma City Thunder,Los Angeles Lakers,1,2,3,1477868400.0,2017
+Los Angeles Lakers,Indiana Pacers,Los Angeles Lakers,1,3,4,1478041200.0,2017
+Los Angeles Lakers,Atlanta Hawks,Los Angeles Lakers,2,3,5,1478129400.0,2017
+Los Angeles Lakers,Los Angeles Lakers,Golden State Warriors,3,3,6,1478313000.0,2017
+Los Angeles Lakers,Los Angeles Lakers,Phoenix Suns,4,3,7,1478485800.0,2017
+Los Angeles Lakers,Los Angeles Lakers,Dallas Mavericks,4,4,8,1478662200.0,2017
+Los Angeles Lakers,Sacramento Kings,Los Angeles Lakers,5,4,9,1478835000.0,2017
+Los Angeles Lakers,New Orleans Pelicans,Los Angeles Lakers,6,4,10,1478995200.0,2017
+Los Angeles Lakers,Minnesota Timberwolves,Los Angeles Lakers,6,5,11,1479081600.0,2017
+Los Angeles Lakers,Los Angeles Lakers,Brooklyn Nets,7,5,12,1479267000.0,2017
+Los Angeles Lakers,Los Angeles Lakers,San Antonio Spurs,7,6,13,1479526200.0,2017
+Los Angeles Lakers,Los Angeles Lakers,Chicago Bulls,7,7,14,1479695400.0,2017
+Los Angeles Lakers,Los Angeles Lakers,Oklahoma City Thunder,8,7,15,1479871800.0,2017
+Los Angeles Lakers,Golden State Warriors,Los Angeles Lakers,8,8,16,1479958200.0,2017
+Los Angeles Lakers,Los Angeles Lakers,Golden State Warriors,8,9,17,1480131000.0,2017
+Los Angeles Lakers,Los Angeles Lakers,Atlanta Hawks,9,9,18,1480300200.0,2017
+Los Angeles Lakers,New Orleans Pelicans,Los Angeles Lakers,9,10,19,1480467600.0,2017
+Los Angeles Lakers,Chicago Bulls,Los Angeles Lakers,10,10,20,1480554000.0,2017
+Los Angeles Lakers,Toronto Raptors,Los Angeles Lakers,10,11,21,1480725000.0,2017
+Los Angeles Lakers,Memphis Grizzlies,Los Angeles Lakers,10,12,22,1480813200.0,2017
+Los Angeles Lakers,Los Angeles Lakers,Utah Jazz,10,13,23,1480995000.0,2017
+Los Angeles Lakers,Houston Rockets,Los Angeles Lakers,10,14,24,1481158800.0,2017
+Los Angeles Lakers,Los Angeles Lakers,Phoenix Suns,10,15,25,1481340600.0,2017
+Los Angeles Lakers,Los Angeles Lakers,New York Knicks,10,16,26,1481509800.0,2017
+Los Angeles Lakers,Sacramento Kings,Los Angeles Lakers,10,17,27,1481599800.0,2017
+Los Angeles Lakers,Brooklyn Nets,Los Angeles Lakers,10,18,28,1481761800.0,2017
+Los Angeles Lakers,Philadelphia 76ers,Los Angeles Lakers,11,18,29,1481936400.0,2017
+Los Angeles Lakers,Cleveland Cavaliers,Los Angeles Lakers,11,19,30,1482021000.0,2017
+Los Angeles Lakers,Charlotte Hornets,Los Angeles Lakers,11,20,31,1482278400.0,2017
+Los Angeles Lakers,Miami Heat,Los Angeles Lakers,11,21,32,1482454800.0,2017
+Los Angeles Lakers,Orlando Magic,Los Angeles Lakers,11,22,33,1482537600.0,2017
+Los Angeles Lakers,Los Angeles Lakers,Los Angeles Clippers,12,22,34,1482723000.0,2017
+Los Angeles Lakers,Los Angeles Lakers,Utah Jazz,12,23,35,1482895800.0,2017
+Los Angeles Lakers,Los Angeles Lakers,Dallas Mavericks,12,24,36,1483068600.0,2017
+Los Angeles Lakers,Los Angeles Lakers,Toronto Raptors,12,25,37,1483324200.0,2017
+Los Angeles Lakers,Los Angeles Lakers,Memphis Grizzlies,13,25,38,1483500600.0,2017
+Los Angeles Lakers,Portland Trail Blazers,Los Angeles Lakers,13,26,39,1483673400.0,2017
+Los Angeles Lakers,Los Angeles Lakers,Miami Heat,14,26,40,1483759800.0,2017
+Los Angeles Lakers,Los Angeles Lakers,Orlando Magic,15,26,41,1483929000.0,2017
+Los Angeles Lakers,Los Angeles Lakers,Portland Trail Blazers,15,27,42,1484105400.0,2017
+Los Angeles Lakers,San Antonio Spurs,Los Angeles Lakers,15,28,43,1484271000.0,2017
+Los Angeles Lakers,Los Angeles Clippers,Los Angeles Lakers,15,29,44,1484425800.0,2017
+Los Angeles Lakers,Los Angeles Lakers,Detroit Pistons,15,30,45,1484533800.0,2017
+Los Angeles Lakers,Los Angeles Lakers,Denver Nuggets,15,31,46,1484710200.0,2017
+Los Angeles Lakers,Los Angeles Lakers,Indiana Pacers,16,31,47,1484969400.0,2017
+Los Angeles Lakers,Dallas Mavericks,Los Angeles Lakers,16,32,48,1485117000.0,2017
+Los Angeles Lakers,Portland Trail Blazers,Los Angeles Lakers,16,33,49,1485401400.0,2017
+Los Angeles Lakers,Utah Jazz,Los Angeles Lakers,16,34,50,1485487800.0,2017
+Los Angeles Lakers,Los Angeles Lakers,Denver Nuggets,17,34,51,1485919800.0,2017
+Los Angeles Lakers,Washington Wizards,Los Angeles Lakers,17,35,52,1486080000.0,2017
+Los Angeles Lakers,Boston Celtics,Los Angeles Lakers,17,36,53,1486170000.0,2017
+Los Angeles Lakers,New York Knicks,Los Angeles Lakers,18,36,54,1486425600.0,2017
+Los Angeles Lakers,Detroit Pistons,Los Angeles Lakers,18,37,55,1486600200.0,2017
+Los Angeles Lakers,Milwaukee Bucks,Los Angeles Lakers,19,37,56,1486774800.0,2017
+Los Angeles Lakers,Los Angeles Lakers,Sacramento Kings,19,38,57,1487129400.0,2017
+Los Angeles Lakers,Phoenix Suns,Los Angeles Lakers,19,39,58,1487210400.0,2017
+Los Angeles Lakers,Oklahoma City Thunder,Los Angeles Lakers,19,40,59,1487984400.0,2017
+Los Angeles Lakers,Los Angeles Lakers,San Antonio Spurs,19,41,60,1488141000.0,2017
+Los Angeles Lakers,Los Angeles Lakers,Charlotte Hornets,19,42,61,1488339000.0,2017
+Los Angeles Lakers,Los Angeles Lakers,Boston Celtics,19,43,62,1488598200.0,2017
+Los Angeles Lakers,Los Angeles Lakers,New Orleans Pelicans,19,44,63,1488767400.0,2017
+Los Angeles Lakers,Dallas Mavericks,Los Angeles Lakers,19,45,64,1488936600.0,2017
+Los Angeles Lakers,Phoenix Suns,Los Angeles Lakers,20,45,65,1489116600.0,2017
+Los Angeles Lakers,Los Angeles Lakers,Philadelphia 76ers,20,46,66,1489368600.0,2017
+Los Angeles Lakers,Denver Nuggets,Los Angeles Lakers,20,47,67,1489458600.0,2017
+Los Angeles Lakers,Houston Rockets,Los Angeles Lakers,20,48,68,1489622400.0,2017
+Los Angeles Lakers,Los Angeles Lakers,Milwaukee Bucks,20,49,69,1489804200.0,2017
+Los Angeles Lakers,Los Angeles Lakers,Cleveland Cavaliers,20,50,70,1489973400.0,2017
+Los Angeles Lakers,Los Angeles Lakers,Los Angeles Clippers,20,51,71,1490149800.0,2017
+Los Angeles Lakers,Los Angeles Lakers,Minnesota Timberwolves,21,51,72,1490409000.0,2017
+Los Angeles Lakers,Los Angeles Lakers,Portland Trail Blazers,21,52,73,1490578200.0,2017
+Los Angeles Lakers,Los Angeles Lakers,Washington Wizards,21,53,74,1490754600.0,2017
+Los Angeles Lakers,Minnesota Timberwolves,Los Angeles Lakers,21,54,75,1490918400.0,2017
+Los Angeles Lakers,Los Angeles Clippers,Los Angeles Lakers,21,55,76,1491075000.0,2017
+Los Angeles Lakers,Los Angeles Lakers,Memphis Grizzlies,22,55,77,1491161400.0,2017
+Los Angeles Lakers,San Antonio Spurs,Los Angeles Lakers,23,55,78,1491438600.0,2017
+Los Angeles Lakers,Los Angeles Lakers,Sacramento Kings,24,55,79,1491618600.0,2017
+Los Angeles Lakers,Los Angeles Lakers,Minnesota Timberwolves,25,55,80,1491787800.0,2017
+Los Angeles Lakers,Los Angeles Lakers,New Orleans Pelicans,26,55,81,1491964200.0,2017
+Los Angeles Lakers,Golden State Warriors,Los Angeles Lakers,26,56,82,1492050600.0,2017
+Memphis Grizzlies,Memphis Grizzlies,Minnesota Timberwolves,1,0,1,1477526400.0,2017
+Memphis Grizzlies,New York Knicks,Memphis Grizzlies,1,1,2,1477783800.0,2017
+Memphis Grizzlies,Memphis Grizzlies,Washington Wizards,2,1,3,1477872000.0,2017
+Memphis Grizzlies,Minnesota Timberwolves,Memphis Grizzlies,2,2,4,1478044800.0,2017
+Memphis Grizzlies,Memphis Grizzlies,New Orleans Pelicans,3,2,5,1478131200.0,2017
+Memphis Grizzlies,Memphis Grizzlies,Los Angeles Clippers,3,3,6,1478304000.0,2017
+Memphis Grizzlies,Memphis Grizzlies,Portland Trail Blazers,3,4,7,1478464200.0,2017
+Memphis Grizzlies,Memphis Grizzlies,Denver Nuggets,4,4,8,1478653200.0,2017
+Memphis Grizzlies,Milwaukee Bucks,Memphis Grizzlies,4,5,9,1479000600.0,2017
+Memphis Grizzlies,Utah Jazz,Memphis Grizzlies,5,5,10,1479175200.0,2017
+Memphis Grizzlies,Los Angeles Clippers,Memphis Grizzlies,6,5,11,1479353400.0,2017
+Memphis Grizzlies,Dallas Mavericks,Memphis Grizzlies,7,5,12,1479519000.0,2017
+Memphis Grizzlies,Memphis Grizzlies,Minnesota Timberwolves,8,5,13,1479603600.0,2017
+Memphis Grizzlies,Charlotte Hornets,Memphis Grizzlies,9,5,14,1479772800.0,2017
+Memphis Grizzlies,Philadelphia 76ers,Memphis Grizzlies,10,5,15,1479945600.0,2017
+Memphis Grizzlies,Memphis Grizzlies,Miami Heat,10,6,16,1480122000.0,2017
+Memphis Grizzlies,Miami Heat,Memphis Grizzlies,11,6,17,1480208400.0,2017
+Memphis Grizzlies,Memphis Grizzlies,Charlotte Hornets,11,7,18,1480381200.0,2017
+Memphis Grizzlies,Toronto Raptors,Memphis Grizzlies,11,8,19,1480552200.0,2017
+Memphis Grizzlies,Memphis Grizzlies,Orlando Magic,12,8,20,1480640400.0,2017
+Memphis Grizzlies,Memphis Grizzlies,Los Angeles Lakers,13,8,21,1480813200.0,2017
+Memphis Grizzlies,New Orleans Pelicans,Memphis Grizzlies,14,8,22,1480986000.0,2017
+Memphis Grizzlies,Memphis Grizzlies,Philadelphia 76ers,15,8,23,1481072400.0,2017
+Memphis Grizzlies,Memphis Grizzlies,Portland Trail Blazers,16,8,24,1481245200.0,2017
+Memphis Grizzlies,Memphis Grizzlies,Golden State Warriors,17,8,25,1481418000.0,2017
+Memphis Grizzlies,Cleveland Cavaliers,Memphis Grizzlies,17,9,26,1481673600.0,2017
+Memphis Grizzlies,Memphis Grizzlies,Cleveland Cavaliers,18,9,27,1481763600.0,2017
+Memphis Grizzlies,Memphis Grizzlies,Sacramento Kings,18,10,28,1481936400.0,2017
+Memphis Grizzlies,Memphis Grizzlies,Utah Jazz,18,11,29,1482102000.0,2017
+Memphis Grizzlies,Memphis Grizzlies,Boston Celtics,18,12,30,1482282000.0,2017
+Memphis Grizzlies,Detroit Pistons,Memphis Grizzlies,19,12,31,1482366600.0,2017
+Memphis Grizzlies,Memphis Grizzlies,Houston Rockets,20,12,32,1482541200.0,2017
+Memphis Grizzlies,Orlando Magic,Memphis Grizzlies,20,13,33,1482796800.0,2017
+Memphis Grizzlies,Boston Celtics,Memphis Grizzlies,20,14,34,1482885000.0,2017
+Memphis Grizzlies,Memphis Grizzlies,Oklahoma City Thunder,21,14,35,1483059600.0,2017
+Memphis Grizzlies,Sacramento Kings,Memphis Grizzlies,22,14,36,1483221600.0,2017
+Memphis Grizzlies,Los Angeles Lakers,Memphis Grizzlies,22,15,37,1483500600.0,2017
+Memphis Grizzlies,Los Angeles Clippers,Memphis Grizzlies,22,16,38,1483587000.0,2017
+Memphis Grizzlies,Golden State Warriors,Memphis Grizzlies,23,16,39,1483759800.0,2017
+Memphis Grizzlies,Memphis Grizzlies,Utah Jazz,24,16,40,1483923600.0,2017
+Memphis Grizzlies,Oklahoma City Thunder,Memphis Grizzlies,24,17,41,1484182800.0,2017
+Memphis Grizzlies,Houston Rockets,Memphis Grizzlies,25,17,42,1484355600.0,2017
+Memphis Grizzlies,Memphis Grizzlies,Chicago Bulls,25,18,43,1484532000.0,2017
+Memphis Grizzlies,Washington Wizards,Memphis Grizzlies,25,19,44,1484784000.0,2017
+Memphis Grizzlies,Memphis Grizzlies,Sacramento Kings,26,19,45,1484960400.0,2017
+Memphis Grizzlies,Memphis Grizzlies,Houston Rockets,26,20,46,1485046800.0,2017
+Memphis Grizzlies,Memphis Grizzlies,Toronto Raptors,27,20,47,1485392400.0,2017
+Memphis Grizzlies,Portland Trail Blazers,Memphis Grizzlies,27,21,48,1485572400.0,2017
+Memphis Grizzlies,Utah Jazz,Memphis Grizzlies,28,21,49,1485655200.0,2017
+Memphis Grizzlies,Phoenix Suns,Memphis Grizzlies,29,21,50,1485833400.0,2017
+Memphis Grizzlies,Denver Nuggets,Memphis Grizzlies,30,21,51,1486000800.0,2017
+Memphis Grizzlies,Oklahoma City Thunder,Memphis Grizzlies,30,22,52,1486170000.0,2017
+Memphis Grizzlies,Minnesota Timberwolves,Memphis Grizzlies,31,22,53,1486260000.0,2017
+Memphis Grizzlies,Memphis Grizzlies,San Antonio Spurs,32,22,54,1486434600.0,2017
+Memphis Grizzlies,Memphis Grizzlies,Phoenix Suns,33,22,55,1486602000.0,2017
+Memphis Grizzlies,Memphis Grizzlies,Golden State Warriors,33,23,56,1486774800.0,2017
+Memphis Grizzlies,Brooklyn Nets,Memphis Grizzlies,34,23,57,1487032200.0,2017
+Memphis Grizzlies,Memphis Grizzlies,New Orleans Pelicans,34,24,58,1487206800.0,2017
+Memphis Grizzlies,Indiana Pacers,Memphis Grizzlies,34,25,59,1487980800.0,2017
+Memphis Grizzlies,Denver Nuggets,Memphis Grizzlies,35,25,60,1488146400.0,2017
+Memphis Grizzlies,Memphis Grizzlies,Phoenix Suns,36,25,61,1488330000.0,2017
+Memphis Grizzlies,Dallas Mavericks,Memphis Grizzlies,36,26,62,1488591000.0,2017
+Memphis Grizzlies,Houston Rockets,Memphis Grizzlies,36,27,63,1488679200.0,2017
+Memphis Grizzlies,Memphis Grizzlies,Brooklyn Nets,36,28,64,1488848400.0,2017
+Memphis Grizzlies,Memphis Grizzlies,Los Angeles Clippers,36,29,65,1489107600.0,2017
+Memphis Grizzlies,Memphis Grizzlies,Atlanta Hawks,36,30,66,1489284000.0,2017
+Memphis Grizzlies,Memphis Grizzlies,Milwaukee Bucks,37,30,67,1489449600.0,2017
+Memphis Grizzlies,Chicago Bulls,Memphis Grizzlies,38,30,68,1489622400.0,2017
+Memphis Grizzlies,Atlanta Hawks,Memphis Grizzlies,39,30,69,1489707000.0,2017
+Memphis Grizzlies,Memphis Grizzlies,San Antonio Spurs,40,30,70,1489885200.0,2017
+Memphis Grizzlies,New Orleans Pelicans,Memphis Grizzlies,40,31,71,1490140800.0,2017
+Memphis Grizzlies,San Antonio Spurs,Memphis Grizzlies,40,32,72,1490315400.0,2017
+Memphis Grizzlies,Golden State Warriors,Memphis Grizzlies,40,33,73,1490572800.0,2017
+Memphis Grizzlies,Sacramento Kings,Memphis Grizzlies,40,34,74,1490668200.0,2017
+Memphis Grizzlies,Memphis Grizzlies,Indiana Pacers,41,34,75,1490832000.0,2017
+Memphis Grizzlies,Memphis Grizzlies,Dallas Mavericks,42,34,76,1491004800.0,2017
+Memphis Grizzlies,Los Angeles Lakers,Memphis Grizzlies,42,35,77,1491161400.0,2017
+Memphis Grizzlies,San Antonio Spurs,Memphis Grizzlies,42,36,78,1491352200.0,2017
+Memphis Grizzlies,Memphis Grizzlies,Oklahoma City Thunder,42,37,79,1491436800.0,2017
+Memphis Grizzlies,Memphis Grizzlies,New York Knicks,43,37,80,1491609600.0,2017
+Memphis Grizzlies,Memphis Grizzlies,Detroit Pistons,43,38,81,1491775200.0,2017
+Memphis Grizzlies,Memphis Grizzlies,Dallas Mavericks,43,39,82,1492041600.0,2017
+Miami Heat,Orlando Magic,Miami Heat,1,0,1,1477522800.0,2017
+Miami Heat,Miami Heat,Charlotte Hornets,1,1,2,1477699200.0,2017
+Miami Heat,Miami Heat,San Antonio Spurs,1,2,3,1477864800.0,2017
+Miami Heat,Miami Heat,Sacramento Kings,2,2,4,1478043000.0,2017
+Miami Heat,Toronto Raptors,Miami Heat,2,3,5,1478302200.0,2017
+Miami Heat,Oklahoma City Thunder,Miami Heat,2,4,6,1478566800.0,2017
+Miami Heat,Miami Heat,Chicago Bulls,2,5,7,1478826000.0,2017
+Miami Heat,Miami Heat,Utah Jazz,2,6,8,1478998800.0,2017
+Miami Heat,San Antonio Spurs,Miami Heat,2,7,9,1479173400.0,2017
+Miami Heat,Miami Heat,Atlanta Hawks,2,8,10,1479256200.0,2017
+Miami Heat,Miami Heat,Milwaukee Bucks,3,8,11,1479429000.0,2017
+Miami Heat,Washington Wizards,Miami Heat,4,8,12,1479600000.0,2017
+Miami Heat,Philadelphia 76ers,Miami Heat,4,9,13,1479772800.0,2017
+Miami Heat,Detroit Pistons,Miami Heat,4,10,14,1479947400.0,2017
+Miami Heat,Memphis Grizzlies,Miami Heat,5,10,15,1480122000.0,2017
+Miami Heat,Miami Heat,Memphis Grizzlies,5,11,16,1480208400.0,2017
+Miami Heat,Miami Heat,Boston Celtics,5,12,17,1480379400.0,2017
+Miami Heat,Denver Nuggets,Miami Heat,6,12,18,1480557600.0,2017
+Miami Heat,Utah Jazz,Miami Heat,7,12,19,1480644000.0,2017
+Miami Heat,Portland Trail Blazers,Miami Heat,7,13,20,1480820400.0,2017
+Miami Heat,Miami Heat,New York Knicks,7,14,21,1481070600.0,2017
+Miami Heat,Atlanta Hawks,Miami Heat,7,15,22,1481157000.0,2017
+Miami Heat,Cleveland Cavaliers,Miami Heat,7,16,23,1481329800.0,2017
+Miami Heat,Chicago Bulls,Miami Heat,7,17,24,1481418000.0,2017
+Miami Heat,Miami Heat,Washington Wizards,8,17,25,1481589000.0,2017
+Miami Heat,Miami Heat,Indiana Pacers,9,17,26,1481760000.0,2017
+Miami Heat,Miami Heat,Los Angeles Clippers,9,18,27,1481936400.0,2017
+Miami Heat,Miami Heat,Boston Celtics,9,19,28,1482102000.0,2017
+Miami Heat,Miami Heat,Orlando Magic,9,20,29,1482280200.0,2017
+Miami Heat,Miami Heat,Los Angeles Lakers,10,20,30,1482454800.0,2017
+Miami Heat,New Orleans Pelicans,Miami Heat,10,21,31,1482541200.0,2017
+Miami Heat,Miami Heat,Oklahoma City Thunder,10,22,32,1482885000.0,2017
+Miami Heat,Charlotte Hornets,Miami Heat,10,23,33,1483056000.0,2017
+Miami Heat,Boston Celtics,Miami Heat,10,24,34,1483144200.0,2017
+Miami Heat,Miami Heat,Detroit Pistons,10,25,35,1483311600.0,2017
+Miami Heat,Phoenix Suns,Miami Heat,10,26,36,1483495200.0,2017
+Miami Heat,Sacramento Kings,Miami Heat,11,26,37,1483587000.0,2017
+Miami Heat,Los Angeles Lakers,Miami Heat,11,27,38,1483759800.0,2017
+Miami Heat,Los Angeles Clippers,Miami Heat,11,28,39,1483907400.0,2017
+Miami Heat,Golden State Warriors,Miami Heat,11,29,40,1484105400.0,2017
+Miami Heat,Milwaukee Bucks,Miami Heat,11,30,41,1484355600.0,2017
+Miami Heat,Miami Heat,Houston Rockets,12,30,42,1484699400.0,2017
+Miami Heat,Miami Heat,Dallas Mavericks,13,30,43,1484872200.0,2017
+Miami Heat,Miami Heat,Milwaukee Bucks,14,30,44,1485045000.0,2017
+Miami Heat,Miami Heat,Golden State Warriors,15,30,45,1485217800.0,2017
+Miami Heat,Brooklyn Nets,Miami Heat,16,30,46,1485390600.0,2017
+Miami Heat,Chicago Bulls,Miami Heat,17,30,47,1485565200.0,2017
+Miami Heat,Miami Heat,Detroit Pistons,18,30,48,1485649800.0,2017
+Miami Heat,Miami Heat,Brooklyn Nets,19,30,49,1485822600.0,2017
+Miami Heat,Miami Heat,Atlanta Hawks,20,30,50,1485995400.0,2017
+Miami Heat,Miami Heat,Philadelphia 76ers,21,30,51,1486254600.0,2017
+Miami Heat,Minnesota Timberwolves,Miami Heat,22,30,52,1486429200.0,2017
+Miami Heat,Milwaukee Bucks,Miami Heat,23,30,53,1486602000.0,2017
+Miami Heat,Brooklyn Nets,Miami Heat,24,30,54,1486773000.0,2017
+Miami Heat,Philadelphia 76ers,Miami Heat,24,31,55,1486859400.0,2017
+Miami Heat,Miami Heat,Orlando Magic,24,32,56,1487032200.0,2017
+Miami Heat,Houston Rockets,Miami Heat,25,32,57,1487206800.0,2017
+Miami Heat,Atlanta Hawks,Miami Heat,26,32,58,1487984400.0,2017
+Miami Heat,Miami Heat,Indiana Pacers,27,32,59,1488070800.0,2017
+Miami Heat,Dallas Mavericks,Miami Heat,27,33,60,1488245400.0,2017
+Miami Heat,Miami Heat,Philadelphia 76ers,28,33,61,1488414600.0,2017
+Miami Heat,Orlando Magic,Miami Heat,28,34,62,1488585600.0,2017
+Miami Heat,Miami Heat,Cleveland Cavaliers,29,34,63,1488675600.0,2017
+Miami Heat,Cleveland Cavaliers,Miami Heat,30,34,64,1488844800.0,2017
+Miami Heat,Miami Heat,Charlotte Hornets,31,34,65,1489019400.0,2017
+Miami Heat,Miami Heat,Toronto Raptors,32,34,66,1489280400.0,2017
+Miami Heat,Indiana Pacers,Miami Heat,32,35,67,1489356000.0,2017
+Miami Heat,Miami Heat,New Orleans Pelicans,33,35,68,1489620600.0,2017
+Miami Heat,Miami Heat,Minnesota Timberwolves,34,35,69,1489795200.0,2017
+Miami Heat,Miami Heat,Portland Trail Blazers,34,36,70,1489960800.0,2017
+Miami Heat,Miami Heat,Phoenix Suns,35,36,71,1490139000.0,2017
+Miami Heat,Miami Heat,Toronto Raptors,35,37,72,1490311800.0,2017
+Miami Heat,Boston Celtics,Miami Heat,35,38,73,1490565600.0,2017
+Miami Heat,Detroit Pistons,Miami Heat,36,38,74,1490743800.0,2017
+Miami Heat,New York Knicks,Miami Heat,37,38,75,1490830200.0,2017
+Miami Heat,Miami Heat,New York Knicks,37,39,76,1491004800.0,2017
+Miami Heat,Miami Heat,Denver Nuggets,37,40,77,1491170400.0,2017
+Miami Heat,Charlotte Hornets,Miami Heat,38,40,78,1491433200.0,2017
+Miami Heat,Toronto Raptors,Miami Heat,38,41,79,1491607800.0,2017
+Miami Heat,Washington Wizards,Miami Heat,39,41,80,1491692400.0,2017
+Miami Heat,Miami Heat,Cleveland Cavaliers,40,41,81,1491867000.0,2017
+Miami Heat,Miami Heat,Washington Wizards,41,41,82,1492041600.0,2017
+Milwaukee Bucks,Milwaukee Bucks,Charlotte Hornets,0,1,1,1477526400.0,2017
+Milwaukee Bucks,Milwaukee Bucks,Brooklyn Nets,1,1,2,1477785600.0,2017
+Milwaukee Bucks,Detroit Pistons,Milwaukee Bucks,1,2,3,1477864800.0,2017
+Milwaukee Bucks,New Orleans Pelicans,Milwaukee Bucks,2,2,4,1478044800.0,2017
+Milwaukee Bucks,Milwaukee Bucks,Indiana Pacers,3,2,5,1478217600.0,2017
+Milwaukee Bucks,Milwaukee Bucks,Sacramento Kings,4,2,6,1478390400.0,2017
+Milwaukee Bucks,Dallas Mavericks,Milwaukee Bucks,4,3,7,1478476800.0,2017
+Milwaukee Bucks,Milwaukee Bucks,New Orleans Pelicans,4,4,8,1478826000.0,2017
+Milwaukee Bucks,Milwaukee Bucks,Memphis Grizzlies,5,4,9,1479000600.0,2017
+Milwaukee Bucks,Atlanta Hawks,Milwaukee Bucks,5,5,10,1479342600.0,2017
+Milwaukee Bucks,Miami Heat,Milwaukee Bucks,5,6,11,1479429000.0,2017
+Milwaukee Bucks,Milwaukee Bucks,Golden State Warriors,5,7,12,1479605400.0,2017
+Milwaukee Bucks,Milwaukee Bucks,Orlando Magic,6,7,13,1479776400.0,2017
+Milwaukee Bucks,Milwaukee Bucks,Toronto Raptors,6,8,14,1480122000.0,2017
+Milwaukee Bucks,Orlando Magic,Milwaukee Bucks,7,8,15,1480287600.0,2017
+Milwaukee Bucks,Milwaukee Bucks,Cleveland Cavaliers,8,8,16,1480467600.0,2017
+Milwaukee Bucks,Brooklyn Nets,Milwaukee Bucks,9,8,17,1480638600.0,2017
+Milwaukee Bucks,Milwaukee Bucks,Brooklyn Nets,10,8,18,1480802400.0,2017
+Milwaukee Bucks,Milwaukee Bucks,San Antonio Spurs,10,9,19,1480986000.0,2017
+Milwaukee Bucks,Milwaukee Bucks,Portland Trail Blazers,11,9,20,1481158800.0,2017
+Milwaukee Bucks,Milwaukee Bucks,Atlanta Hawks,11,10,21,1481331600.0,2017
+Milwaukee Bucks,Washington Wizards,Milwaukee Bucks,11,11,22,1481414400.0,2017
+Milwaukee Bucks,Toronto Raptors,Milwaukee Bucks,11,12,23,1481589000.0,2017
+Milwaukee Bucks,Milwaukee Bucks,Chicago Bulls,12,12,24,1481850000.0,2017
+Milwaukee Bucks,Chicago Bulls,Milwaukee Bucks,13,12,25,1481936400.0,2017
+Milwaukee Bucks,Milwaukee Bucks,Cleveland Cavaliers,13,13,26,1482282000.0,2017
+Milwaukee Bucks,Cleveland Cavaliers,Milwaukee Bucks,13,14,27,1482364800.0,2017
+Milwaukee Bucks,Milwaukee Bucks,Washington Wizards,14,14,28,1482541200.0,2017
+Milwaukee Bucks,Washington Wizards,Milwaukee Bucks,14,15,29,1482796800.0,2017
+Milwaukee Bucks,Detroit Pistons,Milwaukee Bucks,15,15,30,1482971400.0,2017
+Milwaukee Bucks,Minnesota Timberwolves,Milwaukee Bucks,15,16,31,1483146000.0,2017
+Milwaukee Bucks,Chicago Bulls,Milwaukee Bucks,16,16,32,1483228800.0,2017
+Milwaukee Bucks,Milwaukee Bucks,Oklahoma City Thunder,17,16,33,1483401600.0,2017
+Milwaukee Bucks,New York Knicks,Milwaukee Bucks,18,16,34,1483576200.0,2017
+Milwaukee Bucks,Milwaukee Bucks,New York Knicks,18,17,35,1483750800.0,2017
+Milwaukee Bucks,Milwaukee Bucks,Washington Wizards,18,18,36,1483902000.0,2017
+Milwaukee Bucks,San Antonio Spurs,Milwaukee Bucks,19,18,37,1484098200.0,2017
+Milwaukee Bucks,Milwaukee Bucks,Miami Heat,20,18,38,1484355600.0,2017
+Milwaukee Bucks,Atlanta Hawks,Milwaukee Bucks,20,19,39,1484510400.0,2017
+Milwaukee Bucks,Milwaukee Bucks,Philadelphia 76ers,20,20,40,1484598600.0,2017
+Milwaukee Bucks,Houston Rockets,Milwaukee Bucks,20,21,41,1484787600.0,2017
+Milwaukee Bucks,Orlando Magic,Milwaukee Bucks,20,22,42,1484956800.0,2017
+Milwaukee Bucks,Miami Heat,Milwaukee Bucks,20,23,43,1485045000.0,2017
+Milwaukee Bucks,Milwaukee Bucks,Houston Rockets,21,23,44,1485219600.0,2017
+Milwaukee Bucks,Milwaukee Bucks,Philadelphia 76ers,21,24,45,1485392400.0,2017
+Milwaukee Bucks,Toronto Raptors,Milwaukee Bucks,21,25,46,1485563400.0,2017
+Milwaukee Bucks,Milwaukee Bucks,Boston Celtics,21,26,47,1485651600.0,2017
+Milwaukee Bucks,Utah Jazz,Milwaukee Bucks,21,27,48,1486000800.0,2017
+Milwaukee Bucks,Denver Nuggets,Milwaukee Bucks,21,28,49,1486173600.0,2017
+Milwaukee Bucks,Phoenix Suns,Milwaukee Bucks,22,28,50,1486260000.0,2017
+Milwaukee Bucks,Milwaukee Bucks,Miami Heat,22,29,51,1486602000.0,2017
+Milwaukee Bucks,Milwaukee Bucks,Los Angeles Lakers,22,30,52,1486774800.0,2017
+Milwaukee Bucks,Indiana Pacers,Milwaukee Bucks,23,30,53,1486857600.0,2017
+Milwaukee Bucks,Milwaukee Bucks,Detroit Pistons,24,30,54,1487034000.0,2017
+Milwaukee Bucks,Brooklyn Nets,Milwaukee Bucks,25,30,55,1487205000.0,2017
+Milwaukee Bucks,Milwaukee Bucks,Utah Jazz,25,31,56,1487984400.0,2017
+Milwaukee Bucks,Milwaukee Bucks,Phoenix Suns,26,31,57,1488141000.0,2017
+Milwaukee Bucks,Cleveland Cavaliers,Milwaukee Bucks,26,32,58,1488240000.0,2017
+Milwaukee Bucks,Milwaukee Bucks,Denver Nuggets,26,33,59,1488416400.0,2017
+Milwaukee Bucks,Milwaukee Bucks,Los Angeles Clippers,27,33,60,1488589200.0,2017
+Milwaukee Bucks,Milwaukee Bucks,Toronto Raptors,28,33,61,1488675600.0,2017
+Milwaukee Bucks,Philadelphia 76ers,Milwaukee Bucks,29,33,62,1488844800.0,2017
+Milwaukee Bucks,Milwaukee Bucks,New York Knicks,30,33,63,1489021200.0,2017
+Milwaukee Bucks,Milwaukee Bucks,Indiana Pacers,31,33,64,1489194000.0,2017
+Milwaukee Bucks,Milwaukee Bucks,Minnesota Timberwolves,32,33,65,1489280400.0,2017
+Milwaukee Bucks,Memphis Grizzlies,Milwaukee Bucks,32,34,66,1489449600.0,2017
+Milwaukee Bucks,Los Angeles Clippers,Milwaukee Bucks,33,34,67,1489631400.0,2017
+Milwaukee Bucks,Los Angeles Lakers,Milwaukee Bucks,34,34,68,1489804200.0,2017
+Milwaukee Bucks,Golden State Warriors,Milwaukee Bucks,34,35,69,1489890600.0,2017
+Milwaukee Bucks,Portland Trail Blazers,Milwaukee Bucks,35,35,70,1490148000.0,2017
+Milwaukee Bucks,Sacramento Kings,Milwaukee Bucks,36,35,71,1490236200.0,2017
+Milwaukee Bucks,Milwaukee Bucks,Atlanta Hawks,37,35,72,1490400000.0,2017
+Milwaukee Bucks,Milwaukee Bucks,Chicago Bulls,37,36,73,1490556600.0,2017
+Milwaukee Bucks,Charlotte Hornets,Milwaukee Bucks,38,36,74,1490742000.0,2017
+Milwaukee Bucks,Boston Celtics,Milwaukee Bucks,39,36,75,1490830200.0,2017
+Milwaukee Bucks,Milwaukee Bucks,Detroit Pistons,40,36,76,1491004800.0,2017
+Milwaukee Bucks,Milwaukee Bucks,Dallas Mavericks,40,37,77,1491161400.0,2017
+Milwaukee Bucks,Oklahoma City Thunder,Milwaukee Bucks,40,38,78,1491350400.0,2017
+Milwaukee Bucks,Indiana Pacers,Milwaukee Bucks,40,39,79,1491519600.0,2017
+Milwaukee Bucks,Philadelphia 76ers,Milwaukee Bucks,41,39,80,1491692400.0,2017
+Milwaukee Bucks,Milwaukee Bucks,Charlotte Hornets,42,39,81,1491868800.0,2017
+Milwaukee Bucks,Boston Celtics,Milwaukee Bucks,42,40,82,1492041600.0,2017
+Minnesota Timberwolves,Memphis Grizzlies,Minnesota Timberwolves,0,1,1,1477526400.0,2017
+Minnesota Timberwolves,Sacramento Kings,Minnesota Timberwolves,0,2,2,1477794600.0,2017
+Minnesota Timberwolves,Minnesota Timberwolves,Memphis Grizzlies,1,2,3,1478044800.0,2017
+Minnesota Timberwolves,Minnesota Timberwolves,Denver Nuggets,1,3,4,1478217600.0,2017
+Minnesota Timberwolves,Oklahoma City Thunder,Minnesota Timberwolves,1,4,5,1478383200.0,2017
+Minnesota Timberwolves,Brooklyn Nets,Minnesota Timberwolves,1,5,6,1478651400.0,2017
+Minnesota Timberwolves,Orlando Magic,Minnesota Timberwolves,2,5,7,1478736000.0,2017
+Minnesota Timberwolves,Minnesota Timberwolves,Los Angeles Clippers,2,6,8,1478998800.0,2017
+Minnesota Timberwolves,Minnesota Timberwolves,Los Angeles Lakers,3,6,9,1479081600.0,2017
+Minnesota Timberwolves,Minnesota Timberwolves,Charlotte Hornets,3,7,10,1479258000.0,2017
+Minnesota Timberwolves,Minnesota Timberwolves,Philadelphia 76ers,4,7,11,1479430800.0,2017
+Minnesota Timberwolves,Memphis Grizzlies,Minnesota Timberwolves,4,8,12,1479603600.0,2017
+Minnesota Timberwolves,Minnesota Timberwolves,Boston Celtics,4,9,13,1479776400.0,2017
+Minnesota Timberwolves,New Orleans Pelicans,Minnesota Timberwolves,4,10,14,1479954600.0,2017
+Minnesota Timberwolves,Phoenix Suns,Minnesota Timberwolves,5,10,15,1480125600.0,2017
+Minnesota Timberwolves,Golden State Warriors,Minnesota Timberwolves,5,11,16,1480217400.0,2017
+Minnesota Timberwolves,Minnesota Timberwolves,Utah Jazz,5,12,17,1480381200.0,2017
+Minnesota Timberwolves,Minnesota Timberwolves,New York Knicks,5,13,18,1480554000.0,2017
+Minnesota Timberwolves,New York Knicks,Minnesota Timberwolves,5,14,19,1480725000.0,2017
+Minnesota Timberwolves,Charlotte Hornets,Minnesota Timberwolves,6,14,20,1480809600.0,2017
+Minnesota Timberwolves,Minnesota Timberwolves,San Antonio Spurs,6,15,21,1481072400.0,2017
+Minnesota Timberwolves,Toronto Raptors,Minnesota Timberwolves,6,16,22,1481241600.0,2017
+Minnesota Timberwolves,Minnesota Timberwolves,Detroit Pistons,6,17,23,1481331600.0,2017
+Minnesota Timberwolves,Minnesota Timberwolves,Golden State Warriors,6,18,24,1481500800.0,2017
+Minnesota Timberwolves,Chicago Bulls,Minnesota Timberwolves,7,18,25,1481677200.0,2017
+Minnesota Timberwolves,Minnesota Timberwolves,Houston Rockets,7,19,26,1482022800.0,2017
+Minnesota Timberwolves,Minnesota Timberwolves,Phoenix Suns,8,19,27,1482195600.0,2017
+Minnesota Timberwolves,Atlanta Hawks,Minnesota Timberwolves,9,19,28,1482366600.0,2017
+Minnesota Timberwolves,Minnesota Timberwolves,Sacramento Kings,9,20,29,1482541200.0,2017
+Minnesota Timberwolves,Oklahoma City Thunder,Minnesota Timberwolves,9,21,30,1482714000.0,2017
+Minnesota Timberwolves,Minnesota Timberwolves,Atlanta Hawks,10,21,31,1482800400.0,2017
+Minnesota Timberwolves,Denver Nuggets,Minnesota Timberwolves,10,22,32,1482976800.0,2017
+Minnesota Timberwolves,Minnesota Timberwolves,Milwaukee Bucks,11,22,33,1483146000.0,2017
+Minnesota Timberwolves,Minnesota Timberwolves,Portland Trail Blazers,11,23,34,1483315200.0,2017
+Minnesota Timberwolves,Philadelphia 76ers,Minnesota Timberwolves,11,24,35,1483488000.0,2017
+Minnesota Timberwolves,Washington Wizards,Minnesota Timberwolves,11,25,36,1483747200.0,2017
+Minnesota Timberwolves,Minnesota Timberwolves,Utah Jazz,11,26,37,1483837200.0,2017
+Minnesota Timberwolves,Minnesota Timberwolves,Dallas Mavericks,12,26,38,1484010000.0,2017
+Minnesota Timberwolves,Minnesota Timberwolves,Houston Rockets,13,26,39,1484182800.0,2017
+Minnesota Timberwolves,Minnesota Timberwolves,Oklahoma City Thunder,14,26,40,1484355600.0,2017
+Minnesota Timberwolves,Dallas Mavericks,Minnesota Timberwolves,14,27,41,1484506800.0,2017
+Minnesota Timberwolves,San Antonio Spurs,Minnesota Timberwolves,14,28,42,1484703000.0,2017
+Minnesota Timberwolves,Los Angeles Clippers,Minnesota Timberwolves,15,28,43,1484883000.0,2017
+Minnesota Timberwolves,Minnesota Timberwolves,Denver Nuggets,16,28,44,1485129600.0,2017
+Minnesota Timberwolves,Phoenix Suns,Minnesota Timberwolves,17,28,45,1485309600.0,2017
+Minnesota Timberwolves,Minnesota Timberwolves,Indiana Pacers,17,29,46,1485478800.0,2017
+Minnesota Timberwolves,Minnesota Timberwolves,Brooklyn Nets,18,29,47,1485655200.0,2017
+Minnesota Timberwolves,Minnesota Timberwolves,Orlando Magic,19,29,48,1485824400.0,2017
+Minnesota Timberwolves,Cleveland Cavaliers,Minnesota Timberwolves,19,30,49,1485993600.0,2017
+Minnesota Timberwolves,Detroit Pistons,Minnesota Timberwolves,19,31,50,1486168200.0,2017
+Minnesota Timberwolves,Minnesota Timberwolves,Memphis Grizzlies,19,32,51,1486260000.0,2017
+Minnesota Timberwolves,Minnesota Timberwolves,Miami Heat,19,33,52,1486429200.0,2017
+Minnesota Timberwolves,Minnesota Timberwolves,Toronto Raptors,20,33,53,1486602000.0,2017
+Minnesota Timberwolves,Minnesota Timberwolves,New Orleans Pelicans,20,34,54,1486774800.0,2017
+Minnesota Timberwolves,Minnesota Timberwolves,Chicago Bulls,21,34,55,1486931400.0,2017
+Minnesota Timberwolves,Minnesota Timberwolves,Cleveland Cavaliers,21,35,56,1487120400.0,2017
+Minnesota Timberwolves,Denver Nuggets,Minnesota Timberwolves,22,35,57,1487210400.0,2017
+Minnesota Timberwolves,Minnesota Timberwolves,Dallas Mavericks,23,35,58,1487984400.0,2017
+Minnesota Timberwolves,Houston Rockets,Minnesota Timberwolves,23,36,59,1488074400.0,2017
+Minnesota Timberwolves,Sacramento Kings,Minnesota Timberwolves,24,36,60,1488252600.0,2017
+Minnesota Timberwolves,Utah Jazz,Minnesota Timberwolves,25,36,61,1488420000.0,2017
+Minnesota Timberwolves,San Antonio Spurs,Minnesota Timberwolves,25,37,62,1488679200.0,2017
+Minnesota Timberwolves,Minnesota Timberwolves,Los Angeles Clippers,26,37,63,1489021200.0,2017
+Minnesota Timberwolves,Minnesota Timberwolves,Golden State Warriors,27,37,64,1489194000.0,2017
+Minnesota Timberwolves,Milwaukee Bucks,Minnesota Timberwolves,27,38,65,1489280400.0,2017
+Minnesota Timberwolves,Minnesota Timberwolves,Washington Wizards,28,38,66,1489449600.0,2017
+Minnesota Timberwolves,Boston Celtics,Minnesota Timberwolves,28,39,67,1489620600.0,2017
+Minnesota Timberwolves,Miami Heat,Minnesota Timberwolves,28,40,68,1489795200.0,2017
+Minnesota Timberwolves,New Orleans Pelicans,Minnesota Timberwolves,28,41,69,1489960800.0,2017
+Minnesota Timberwolves,Minnesota Timberwolves,San Antonio Spurs,28,42,70,1490146200.0,2017
+Minnesota Timberwolves,Los Angeles Lakers,Minnesota Timberwolves,28,43,71,1490409000.0,2017
+Minnesota Timberwolves,Portland Trail Blazers,Minnesota Timberwolves,28,44,72,1490493600.0,2017
+Minnesota Timberwolves,Indiana Pacers,Minnesota Timberwolves,29,44,73,1490742000.0,2017
+Minnesota Timberwolves,Minnesota Timberwolves,Los Angeles Lakers,30,44,74,1490918400.0,2017
+Minnesota Timberwolves,Minnesota Timberwolves,Sacramento Kings,30,45,75,1491091200.0,2017
+Minnesota Timberwolves,Minnesota Timberwolves,Portland Trail Blazers,31,45,76,1491260400.0,2017
+Minnesota Timberwolves,Golden State Warriors,Minnesota Timberwolves,31,46,77,1491359400.0,2017
+Minnesota Timberwolves,Portland Trail Blazers,Minnesota Timberwolves,31,47,78,1491532200.0,2017
+Minnesota Timberwolves,Utah Jazz,Minnesota Timberwolves,31,48,79,1491613200.0,2017
+Minnesota Timberwolves,Los Angeles Lakers,Minnesota Timberwolves,31,49,80,1491787800.0,2017
+Minnesota Timberwolves,Minnesota Timberwolves,Oklahoma City Thunder,31,50,81,1491955200.0,2017
+Minnesota Timberwolves,Houston Rockets,Minnesota Timberwolves,31,51,82,1492041600.0,2017
+New Orleans Pelicans,New Orleans Pelicans,Denver Nuggets,0,1,1,1477526400.0,2017
+New Orleans Pelicans,New Orleans Pelicans,Golden State Warriors,0,2,2,1477704600.0,2017
+New Orleans Pelicans,San Antonio Spurs,New Orleans Pelicans,0,3,3,1477785600.0,2017
+New Orleans Pelicans,New Orleans Pelicans,Milwaukee Bucks,0,4,4,1478044800.0,2017
+New Orleans Pelicans,Memphis Grizzlies,New Orleans Pelicans,0,5,5,1478131200.0,2017
+New Orleans Pelicans,New Orleans Pelicans,Phoenix Suns,0,6,6,1478304000.0,2017
+New Orleans Pelicans,Golden State Warriors,New Orleans Pelicans,0,7,7,1478575800.0,2017
+New Orleans Pelicans,Sacramento Kings,New Orleans Pelicans,0,8,8,1478662200.0,2017
+New Orleans Pelicans,Milwaukee Bucks,New Orleans Pelicans,1,8,9,1478826000.0,2017
+New Orleans Pelicans,New Orleans Pelicans,Los Angeles Lakers,1,9,10,1478995200.0,2017
+New Orleans Pelicans,New Orleans Pelicans,Boston Celtics,2,9,11,1479171600.0,2017
+New Orleans Pelicans,Orlando Magic,New Orleans Pelicans,2,10,12,1479340800.0,2017
+New Orleans Pelicans,New Orleans Pelicans,Portland Trail Blazers,3,10,13,1479517200.0,2017
+New Orleans Pelicans,New Orleans Pelicans,Charlotte Hornets,4,10,14,1479600000.0,2017
+New Orleans Pelicans,Atlanta Hawks,New Orleans Pelicans,5,10,15,1479861000.0,2017
+New Orleans Pelicans,New Orleans Pelicans,Minnesota Timberwolves,6,10,16,1479954600.0,2017
+New Orleans Pelicans,Portland Trail Blazers,New Orleans Pelicans,6,11,17,1480129200.0,2017
+New Orleans Pelicans,Dallas Mavericks,New Orleans Pelicans,6,12,18,1480291200.0,2017
+New Orleans Pelicans,New Orleans Pelicans,Los Angeles Lakers,7,12,19,1480467600.0,2017
+New Orleans Pelicans,New Orleans Pelicans,Los Angeles Clippers,7,13,20,1480726800.0,2017
+New Orleans Pelicans,Oklahoma City Thunder,New Orleans Pelicans,7,14,21,1480896000.0,2017
+New Orleans Pelicans,New Orleans Pelicans,Memphis Grizzlies,7,15,22,1480986000.0,2017
+New Orleans Pelicans,New Orleans Pelicans,Philadelphia 76ers,7,16,23,1481245200.0,2017
+New Orleans Pelicans,Los Angeles Clippers,New Orleans Pelicans,7,17,24,1481427000.0,2017
+New Orleans Pelicans,Phoenix Suns,New Orleans Pelicans,8,17,25,1481506200.0,2017
+New Orleans Pelicans,New Orleans Pelicans,Golden State Warriors,8,18,26,1481677200.0,2017
+New Orleans Pelicans,New Orleans Pelicans,Indiana Pacers,9,18,27,1481850000.0,2017
+New Orleans Pelicans,Houston Rockets,New Orleans Pelicans,9,19,28,1481936400.0,2017
+New Orleans Pelicans,San Antonio Spurs,New Orleans Pelicans,9,20,29,1482105600.0,2017
+New Orleans Pelicans,Philadelphia 76ers,New Orleans Pelicans,10,20,30,1482278400.0,2017
+New Orleans Pelicans,New Orleans Pelicans,Oklahoma City Thunder,10,21,31,1482368400.0,2017
+New Orleans Pelicans,New Orleans Pelicans,Miami Heat,11,21,32,1482541200.0,2017
+New Orleans Pelicans,New Orleans Pelicans,Dallas Mavericks,12,21,33,1482800400.0,2017
+New Orleans Pelicans,New Orleans Pelicans,Los Angeles Clippers,13,21,34,1482973200.0,2017
+New Orleans Pelicans,New Orleans Pelicans,New York Knicks,14,21,35,1483146000.0,2017
+New Orleans Pelicans,Cleveland Cavaliers,New Orleans Pelicans,14,22,36,1483401600.0,2017
+New Orleans Pelicans,New Orleans Pelicans,Atlanta Hawks,14,23,37,1483664400.0,2017
+New Orleans Pelicans,Boston Celtics,New Orleans Pelicans,14,24,38,1483835400.0,2017
+New Orleans Pelicans,New York Knicks,New Orleans Pelicans,15,24,39,1484008200.0,2017
+New Orleans Pelicans,Brooklyn Nets,New Orleans Pelicans,16,24,40,1484267400.0,2017
+New Orleans Pelicans,Chicago Bulls,New Orleans Pelicans,16,25,41,1484431200.0,2017
+New Orleans Pelicans,Indiana Pacers,New Orleans Pelicans,16,26,42,1484600400.0,2017
+New Orleans Pelicans,New Orleans Pelicans,Orlando Magic,17,26,43,1484787600.0,2017
+New Orleans Pelicans,New Orleans Pelicans,Brooklyn Nets,17,27,44,1484960400.0,2017
+New Orleans Pelicans,New Orleans Pelicans,Cleveland Cavaliers,18,27,45,1485219600.0,2017
+New Orleans Pelicans,New Orleans Pelicans,Oklahoma City Thunder,18,28,46,1485392400.0,2017
+New Orleans Pelicans,New Orleans Pelicans,San Antonio Spurs,19,28,47,1485565200.0,2017
+New Orleans Pelicans,New Orleans Pelicans,Washington Wizards,19,29,48,1485730800.0,2017
+New Orleans Pelicans,Toronto Raptors,New Orleans Pelicans,19,30,49,1485907200.0,2017
+New Orleans Pelicans,Detroit Pistons,New Orleans Pelicans,19,31,50,1485995400.0,2017
+New Orleans Pelicans,Washington Wizards,New Orleans Pelicans,19,32,51,1486252800.0,2017
+New Orleans Pelicans,New Orleans Pelicans,Phoenix Suns,20,32,52,1486429200.0,2017
+New Orleans Pelicans,New Orleans Pelicans,Utah Jazz,20,33,53,1486602000.0,2017
+New Orleans Pelicans,Minnesota Timberwolves,New Orleans Pelicans,21,33,54,1486774800.0,2017
+New Orleans Pelicans,Sacramento Kings,New Orleans Pelicans,21,34,55,1486951200.0,2017
+New Orleans Pelicans,Phoenix Suns,New Orleans Pelicans,22,34,56,1487037600.0,2017
+New Orleans Pelicans,Memphis Grizzlies,New Orleans Pelicans,23,34,57,1487206800.0,2017
+New Orleans Pelicans,New Orleans Pelicans,Houston Rockets,23,35,58,1487898000.0,2017
+New Orleans Pelicans,Dallas Mavericks,New Orleans Pelicans,23,36,59,1488072600.0,2017
+New Orleans Pelicans,Oklahoma City Thunder,New Orleans Pelicans,23,37,60,1488153600.0,2017
+New Orleans Pelicans,New Orleans Pelicans,Detroit Pistons,24,37,61,1488416400.0,2017
+New Orleans Pelicans,New Orleans Pelicans,San Antonio Spurs,24,38,62,1488594600.0,2017
+New Orleans Pelicans,Los Angeles Lakers,New Orleans Pelicans,25,38,63,1488767400.0,2017
+New Orleans Pelicans,Utah Jazz,New Orleans Pelicans,25,39,64,1488852000.0,2017
+New Orleans Pelicans,New Orleans Pelicans,Toronto Raptors,25,40,65,1489021200.0,2017
+New Orleans Pelicans,Charlotte Hornets,New Orleans Pelicans,26,40,66,1489276800.0,2017
+New Orleans Pelicans,New Orleans Pelicans,Portland Trail Blazers,27,40,67,1489536000.0,2017
+New Orleans Pelicans,Miami Heat,New Orleans Pelicans,27,41,68,1489620600.0,2017
+New Orleans Pelicans,New Orleans Pelicans,Houston Rockets,28,41,69,1489795200.0,2017
+New Orleans Pelicans,New Orleans Pelicans,Minnesota Timberwolves,29,41,70,1489960800.0,2017
+New Orleans Pelicans,New Orleans Pelicans,Memphis Grizzlies,30,41,71,1490140800.0,2017
+New Orleans Pelicans,Houston Rockets,New Orleans Pelicans,30,42,72,1490400000.0,2017
+New Orleans Pelicans,Denver Nuggets,New Orleans Pelicans,31,42,73,1490572800.0,2017
+New Orleans Pelicans,Utah Jazz,New Orleans Pelicans,31,43,74,1490668200.0,2017
+New Orleans Pelicans,New Orleans Pelicans,Dallas Mavericks,32,43,75,1490832000.0,2017
+New Orleans Pelicans,New Orleans Pelicans,Sacramento Kings,33,43,76,1491004800.0,2017
+New Orleans Pelicans,New Orleans Pelicans,Chicago Bulls,33,44,77,1491170400.0,2017
+New Orleans Pelicans,New Orleans Pelicans,Denver Nuggets,33,45,78,1491350400.0,2017
+New Orleans Pelicans,Denver Nuggets,New Orleans Pelicans,33,46,79,1491613200.0,2017
+New Orleans Pelicans,Golden State Warriors,New Orleans Pelicans,33,47,80,1491705000.0,2017
+New Orleans Pelicans,Los Angeles Lakers,New Orleans Pelicans,33,48,81,1491964200.0,2017
+New Orleans Pelicans,Portland Trail Blazers,New Orleans Pelicans,34,48,82,1492050600.0,2017
+New York Knicks,Cleveland Cavaliers,New York Knicks,0,1,1,1477438200.0,2017
+New York Knicks,New York Knicks,Memphis Grizzlies,1,1,2,1477783800.0,2017
+New York Knicks,Detroit Pistons,New York Knicks,1,2,3,1478043000.0,2017
+New York Knicks,New York Knicks,Houston Rockets,1,3,4,1478129400.0,2017
+New York Knicks,Chicago Bulls,New York Knicks,2,3,5,1478304000.0,2017
+New York Knicks,New York Knicks,Utah Jazz,2,4,6,1478451600.0,2017
+New York Knicks,New York Knicks,Brooklyn Nets,3,4,7,1478736000.0,2017
+New York Knicks,Boston Celtics,New York Knicks,3,5,8,1478910600.0,2017
+New York Knicks,Toronto Raptors,New York Knicks,3,6,9,1478997000.0,2017
+New York Knicks,New York Knicks,Dallas Mavericks,4,6,10,1479169800.0,2017
+New York Knicks,New York Knicks,Detroit Pistons,5,6,11,1479342600.0,2017
+New York Knicks,Washington Wizards,New York Knicks,5,7,12,1479427200.0,2017
+New York Knicks,New York Knicks,Atlanta Hawks,6,7,13,1479661200.0,2017
+New York Knicks,New York Knicks,Portland Trail Blazers,7,7,14,1479861000.0,2017
+New York Knicks,New York Knicks,Charlotte Hornets,8,7,15,1480120200.0,2017
+New York Knicks,Charlotte Hornets,New York Knicks,8,8,16,1480204800.0,2017
+New York Knicks,New York Knicks,Oklahoma City Thunder,8,9,17,1480379400.0,2017
+New York Knicks,Minnesota Timberwolves,New York Knicks,9,9,18,1480554000.0,2017
+New York Knicks,New York Knicks,Minnesota Timberwolves,10,9,19,1480725000.0,2017
+New York Knicks,New York Knicks,Sacramento Kings,11,9,20,1480897800.0,2017
+New York Knicks,Miami Heat,New York Knicks,12,9,21,1481070600.0,2017
+New York Knicks,New York Knicks,Cleveland Cavaliers,12,10,22,1481158800.0,2017
+New York Knicks,Sacramento Kings,New York Knicks,13,10,23,1481340600.0,2017
+New York Knicks,Los Angeles Lakers,New York Knicks,14,10,24,1481509800.0,2017
+New York Knicks,Phoenix Suns,New York Knicks,14,11,25,1481680800.0,2017
+New York Knicks,Golden State Warriors,New York Knicks,14,12,26,1481859000.0,2017
+New York Knicks,Denver Nuggets,New York Knicks,14,13,27,1482026400.0,2017
+New York Knicks,New York Knicks,Indiana Pacers,15,13,28,1482280200.0,2017
+New York Knicks,New York Knicks,Orlando Magic,16,13,29,1482453000.0,2017
+New York Knicks,New York Knicks,Boston Celtics,16,14,30,1482685200.0,2017
+New York Knicks,Atlanta Hawks,New York Knicks,16,15,31,1482971400.0,2017
+New York Knicks,New Orleans Pelicans,New York Knicks,16,16,32,1483146000.0,2017
+New York Knicks,Houston Rockets,New York Knicks,16,17,33,1483232400.0,2017
+New York Knicks,New York Knicks,Orlando Magic,16,18,34,1483403400.0,2017
+New York Knicks,New York Knicks,Milwaukee Bucks,16,19,35,1483576200.0,2017
+New York Knicks,Milwaukee Bucks,New York Knicks,17,19,36,1483750800.0,2017
+New York Knicks,Indiana Pacers,New York Knicks,17,20,37,1483833600.0,2017
+New York Knicks,New York Knicks,New Orleans Pelicans,17,21,38,1484008200.0,2017
+New York Knicks,Philadelphia 76ers,New York Knicks,17,22,39,1484179200.0,2017
+New York Knicks,New York Knicks,Chicago Bulls,18,22,40,1484269200.0,2017
+New York Knicks,Toronto Raptors,New York Knicks,18,23,41,1484510400.0,2017
+New York Knicks,New York Knicks,Atlanta Hawks,18,24,42,1484589600.0,2017
+New York Knicks,Boston Celtics,New York Knicks,19,24,43,1484785800.0,2017
+New York Knicks,New York Knicks,Washington Wizards,19,25,44,1484874000.0,2017
+New York Knicks,New York Knicks,Phoenix Suns,19,26,45,1485045000.0,2017
+New York Knicks,Indiana Pacers,New York Knicks,20,26,46,1485219600.0,2017
+New York Knicks,Dallas Mavericks,New York Knicks,20,27,47,1485394200.0,2017
+New York Knicks,New York Knicks,Charlotte Hornets,21,27,48,1485563400.0,2017
+New York Knicks,Atlanta Hawks,New York Knicks,21,28,49,1485720000.0,2017
+New York Knicks,Washington Wizards,New York Knicks,21,29,50,1485907200.0,2017
+New York Knicks,Brooklyn Nets,New York Knicks,22,29,51,1485995400.0,2017
+New York Knicks,New York Knicks,Cleveland Cavaliers,22,30,52,1486258200.0,2017
+New York Knicks,New York Knicks,Los Angeles Lakers,22,31,53,1486425600.0,2017
+New York Knicks,New York Knicks,Los Angeles Clippers,22,32,54,1486602000.0,2017
+New York Knicks,New York Knicks,Denver Nuggets,22,33,55,1486773000.0,2017
+New York Knicks,New York Knicks,San Antonio Spurs,23,33,56,1486931400.0,2017
+New York Knicks,Oklahoma City Thunder,New York Knicks,23,34,57,1487212200.0,2017
+New York Knicks,Cleveland Cavaliers,New York Knicks,23,35,58,1487898000.0,2017
+New York Knicks,New York Knicks,Philadelphia 76ers,24,35,59,1488069000.0,2017
+New York Knicks,New York Knicks,Toronto Raptors,24,36,60,1488240000.0,2017
+New York Knicks,Orlando Magic,New York Knicks,25,36,61,1488412800.0,2017
+New York Knicks,Philadelphia 76ers,New York Knicks,25,37,62,1488585600.0,2017
+New York Knicks,New York Knicks,Golden State Warriors,25,38,63,1488745800.0,2017
+New York Knicks,Orlando Magic,New York Knicks,26,38,64,1488844800.0,2017
+New York Knicks,Milwaukee Bucks,New York Knicks,26,39,65,1489021200.0,2017
+New York Knicks,Detroit Pistons,New York Knicks,26,40,66,1489269600.0,2017
+New York Knicks,Brooklyn Nets,New York Knicks,26,41,67,1489356000.0,2017
+New York Knicks,New York Knicks,Indiana Pacers,27,41,68,1489534200.0,2017
+New York Knicks,New York Knicks,Brooklyn Nets,27,42,69,1489707000.0,2017
+New York Knicks,Los Angeles Clippers,New York Knicks,27,43,70,1490063400.0,2017
+New York Knicks,Utah Jazz,New York Knicks,27,44,71,1490236200.0,2017
+New York Knicks,Portland Trail Blazers,New York Knicks,27,45,72,1490320800.0,2017
+New York Knicks,San Antonio Spurs,New York Knicks,27,46,73,1490488200.0,2017
+New York Knicks,New York Knicks,Detroit Pistons,28,46,74,1490657400.0,2017
+New York Knicks,New York Knicks,Miami Heat,28,47,75,1490830200.0,2017
+New York Knicks,Miami Heat,New York Knicks,29,47,76,1491004800.0,2017
+New York Knicks,New York Knicks,Boston Celtics,29,48,77,1491152400.0,2017
+New York Knicks,New York Knicks,Chicago Bulls,30,48,78,1491350400.0,2017
+New York Knicks,New York Knicks,Washington Wizards,30,49,79,1491521400.0,2017
+New York Knicks,Memphis Grizzlies,New York Knicks,30,50,80,1491609600.0,2017
+New York Knicks,New York Knicks,Toronto Raptors,30,51,81,1491753600.0,2017
+New York Knicks,New York Knicks,Philadelphia 76ers,31,51,82,1492041600.0,2017
+Oklahoma City Thunder,Philadelphia 76ers,Oklahoma City Thunder,1,0,1,1477526400.0,2017
+Oklahoma City Thunder,Oklahoma City Thunder,Phoenix Suns,2,0,2,1477699200.0,2017
+Oklahoma City Thunder,Oklahoma City Thunder,Los Angeles Lakers,3,0,3,1477868400.0,2017
+Oklahoma City Thunder,Los Angeles Clippers,Oklahoma City Thunder,4,0,4,1478140200.0,2017
+Oklahoma City Thunder,Golden State Warriors,Oklahoma City Thunder,4,1,5,1478226600.0,2017
+Oklahoma City Thunder,Oklahoma City Thunder,Minnesota Timberwolves,5,1,6,1478383200.0,2017
+Oklahoma City Thunder,Oklahoma City Thunder,Miami Heat,6,1,7,1478566800.0,2017
+Oklahoma City Thunder,Oklahoma City Thunder,Toronto Raptors,6,2,8,1478739600.0,2017
+Oklahoma City Thunder,Oklahoma City Thunder,Los Angeles Clippers,6,3,9,1478912400.0,2017
+Oklahoma City Thunder,Oklahoma City Thunder,Orlando Magic,6,4,10,1479081600.0,2017
+Oklahoma City Thunder,Detroit Pistons,Oklahoma City Thunder,6,5,11,1479169800.0,2017
+Oklahoma City Thunder,Oklahoma City Thunder,Houston Rockets,7,5,12,1479344400.0,2017
+Oklahoma City Thunder,Oklahoma City Thunder,Brooklyn Nets,8,5,13,1479517200.0,2017
+Oklahoma City Thunder,Oklahoma City Thunder,Indiana Pacers,8,6,14,1479686400.0,2017
+Oklahoma City Thunder,Los Angeles Lakers,Oklahoma City Thunder,8,7,15,1479871800.0,2017
+Oklahoma City Thunder,Sacramento Kings,Oklahoma City Thunder,8,8,16,1479958200.0,2017
+Oklahoma City Thunder,Denver Nuggets,Oklahoma City Thunder,9,8,17,1480125600.0,2017
+Oklahoma City Thunder,Oklahoma City Thunder,Detroit Pistons,10,8,18,1480208400.0,2017
+Oklahoma City Thunder,New York Knicks,Oklahoma City Thunder,11,8,19,1480379400.0,2017
+Oklahoma City Thunder,Oklahoma City Thunder,Washington Wizards,12,8,20,1480554000.0,2017
+Oklahoma City Thunder,Oklahoma City Thunder,New Orleans Pelicans,13,8,21,1480896000.0,2017
+Oklahoma City Thunder,Atlanta Hawks,Oklahoma City Thunder,14,8,22,1480984200.0,2017
+Oklahoma City Thunder,Oklahoma City Thunder,Houston Rockets,14,9,23,1481331600.0,2017
+Oklahoma City Thunder,Oklahoma City Thunder,Boston Celtics,15,9,24,1481500800.0,2017
+Oklahoma City Thunder,Portland Trail Blazers,Oklahoma City Thunder,15,10,25,1481686200.0,2017
+Oklahoma City Thunder,Utah Jazz,Oklahoma City Thunder,15,11,26,1481767200.0,2017
+Oklahoma City Thunder,Oklahoma City Thunder,Phoenix Suns,16,11,27,1482012000.0,2017
+Oklahoma City Thunder,Oklahoma City Thunder,Atlanta Hawks,16,12,28,1482195600.0,2017
+Oklahoma City Thunder,New Orleans Pelicans,Oklahoma City Thunder,17,12,29,1482368400.0,2017
+Oklahoma City Thunder,Boston Celtics,Oklahoma City Thunder,18,12,30,1482539400.0,2017
+Oklahoma City Thunder,Oklahoma City Thunder,Minnesota Timberwolves,19,12,31,1482714000.0,2017
+Oklahoma City Thunder,Miami Heat,Oklahoma City Thunder,20,12,32,1482885000.0,2017
+Oklahoma City Thunder,Memphis Grizzlies,Oklahoma City Thunder,20,13,33,1483059600.0,2017
+Oklahoma City Thunder,Oklahoma City Thunder,Los Angeles Clippers,21,13,34,1483232400.0,2017
+Oklahoma City Thunder,Milwaukee Bucks,Oklahoma City Thunder,21,14,35,1483401600.0,2017
+Oklahoma City Thunder,Charlotte Hornets,Oklahoma City Thunder,21,15,36,1483574400.0,2017
+Oklahoma City Thunder,Houston Rockets,Oklahoma City Thunder,21,16,37,1483664400.0,2017
+Oklahoma City Thunder,Oklahoma City Thunder,Denver Nuggets,22,16,38,1483837200.0,2017
+Oklahoma City Thunder,Chicago Bulls,Oklahoma City Thunder,23,16,39,1484010000.0,2017
+Oklahoma City Thunder,Oklahoma City Thunder,Memphis Grizzlies,24,16,40,1484182800.0,2017
+Oklahoma City Thunder,Minnesota Timberwolves,Oklahoma City Thunder,24,17,41,1484355600.0,2017
+Oklahoma City Thunder,Sacramento Kings,Oklahoma City Thunder,25,17,42,1484532000.0,2017
+Oklahoma City Thunder,Los Angeles Clippers,Oklahoma City Thunder,25,18,43,1484623800.0,2017
+Oklahoma City Thunder,Golden State Warriors,Oklahoma City Thunder,25,19,44,1484796600.0,2017
+Oklahoma City Thunder,Utah Jazz,Oklahoma City Thunder,26,19,45,1485223200.0,2017
+Oklahoma City Thunder,New Orleans Pelicans,Oklahoma City Thunder,27,19,46,1485392400.0,2017
+Oklahoma City Thunder,Oklahoma City Thunder,Dallas Mavericks,28,19,47,1485478800.0,2017
+Oklahoma City Thunder,Cleveland Cavaliers,Oklahoma City Thunder,28,20,48,1485721800.0,2017
+Oklahoma City Thunder,San Antonio Spurs,Oklahoma City Thunder,28,21,49,1485912600.0,2017
+Oklahoma City Thunder,Oklahoma City Thunder,Chicago Bulls,28,22,50,1486002600.0,2017
+Oklahoma City Thunder,Oklahoma City Thunder,Memphis Grizzlies,29,22,51,1486170000.0,2017
+Oklahoma City Thunder,Oklahoma City Thunder,Portland Trail Blazers,30,22,52,1486324800.0,2017
+Oklahoma City Thunder,Indiana Pacers,Oklahoma City Thunder,30,23,53,1486425600.0,2017
+Oklahoma City Thunder,Oklahoma City Thunder,Cleveland Cavaliers,31,23,54,1486688400.0,2017
+Oklahoma City Thunder,Oklahoma City Thunder,Golden State Warriors,31,24,55,1486863000.0,2017
+Oklahoma City Thunder,Washington Wizards,Oklahoma City Thunder,31,25,56,1487034000.0,2017
+Oklahoma City Thunder,Oklahoma City Thunder,New York Knicks,32,25,57,1487212200.0,2017
+Oklahoma City Thunder,Oklahoma City Thunder,Los Angeles Lakers,33,25,58,1487984400.0,2017
+Oklahoma City Thunder,Oklahoma City Thunder,New Orleans Pelicans,34,25,59,1488153600.0,2017
+Oklahoma City Thunder,Oklahoma City Thunder,Utah Jazz,35,25,60,1488330000.0,2017
+Oklahoma City Thunder,Portland Trail Blazers,Oklahoma City Thunder,35,26,61,1488511800.0,2017
+Oklahoma City Thunder,Phoenix Suns,Oklahoma City Thunder,35,27,62,1488592800.0,2017
+Oklahoma City Thunder,Dallas Mavericks,Oklahoma City Thunder,35,28,63,1488763800.0,2017
+Oklahoma City Thunder,Oklahoma City Thunder,Portland Trail Blazers,35,29,64,1488934800.0,2017
+Oklahoma City Thunder,Oklahoma City Thunder,San Antonio Spurs,36,29,65,1489107600.0,2017
+Oklahoma City Thunder,Oklahoma City Thunder,Utah Jazz,37,29,66,1489262400.0,2017
+Oklahoma City Thunder,Brooklyn Nets,Oklahoma City Thunder,38,29,67,1489534200.0,2017
+Oklahoma City Thunder,Toronto Raptors,Oklahoma City Thunder,39,29,68,1489705200.0,2017
+Oklahoma City Thunder,Oklahoma City Thunder,Sacramento Kings,40,29,69,1489863600.0,2017
+Oklahoma City Thunder,Oklahoma City Thunder,Golden State Warriors,40,30,70,1490054400.0,2017
+Oklahoma City Thunder,Oklahoma City Thunder,Philadelphia 76ers,41,30,71,1490227200.0,2017
+Oklahoma City Thunder,Houston Rockets,Oklahoma City Thunder,41,31,72,1490556600.0,2017
+Oklahoma City Thunder,Dallas Mavericks,Oklahoma City Thunder,42,31,73,1490661000.0,2017
+Oklahoma City Thunder,Orlando Magic,Oklahoma City Thunder,43,31,74,1490828400.0,2017
+Oklahoma City Thunder,Oklahoma City Thunder,San Antonio Spurs,43,32,75,1491004800.0,2017
+Oklahoma City Thunder,Oklahoma City Thunder,Charlotte Hornets,43,33,76,1491159600.0,2017
+Oklahoma City Thunder,Oklahoma City Thunder,Milwaukee Bucks,44,33,77,1491350400.0,2017
+Oklahoma City Thunder,Memphis Grizzlies,Oklahoma City Thunder,45,33,78,1491436800.0,2017
+Oklahoma City Thunder,Phoenix Suns,Oklahoma City Thunder,45,34,79,1491616800.0,2017
+Oklahoma City Thunder,Denver Nuggets,Oklahoma City Thunder,46,34,80,1491771600.0,2017
+Oklahoma City Thunder,Minnesota Timberwolves,Oklahoma City Thunder,47,34,81,1491955200.0,2017
+Oklahoma City Thunder,Oklahoma City Thunder,Denver Nuggets,47,35,82,1492041600.0,2017
+Orlando Magic,Orlando Magic,Miami Heat,0,1,1,1477522800.0,2017
+Orlando Magic,Detroit Pistons,Orlando Magic,0,2,2,1477697400.0,2017
+Orlando Magic,Cleveland Cavaliers,Orlando Magic,0,3,3,1477783800.0,2017
+Orlando Magic,Philadelphia 76ers,Orlando Magic,1,3,4,1478041200.0,2017
+Orlando Magic,Orlando Magic,Sacramento Kings,2,3,5,1478214000.0,2017
+Orlando Magic,Orlando Magic,Washington Wizards,3,3,6,1478386800.0,2017
+Orlando Magic,Chicago Bulls,Orlando Magic,3,4,7,1478566800.0,2017
+Orlando Magic,Orlando Magic,Minnesota Timberwolves,3,5,8,1478736000.0,2017
+Orlando Magic,Orlando Magic,Utah Jazz,3,6,9,1478908800.0,2017
+Orlando Magic,Oklahoma City Thunder,Orlando Magic,4,6,10,1479081600.0,2017
+Orlando Magic,Indiana Pacers,Orlando Magic,4,7,11,1479168000.0,2017
+Orlando Magic,Orlando Magic,New Orleans Pelicans,5,7,12,1479340800.0,2017
+Orlando Magic,Orlando Magic,Dallas Mavericks,6,7,13,1479600000.0,2017
+Orlando Magic,Milwaukee Bucks,Orlando Magic,6,8,14,1479776400.0,2017
+Orlando Magic,Orlando Magic,Phoenix Suns,6,9,15,1479945600.0,2017
+Orlando Magic,Orlando Magic,Washington Wizards,6,10,16,1480118400.0,2017
+Orlando Magic,Orlando Magic,Milwaukee Bucks,6,11,17,1480287600.0,2017
+Orlando Magic,San Antonio Spurs,Orlando Magic,7,11,18,1480469400.0,2017
+Orlando Magic,Memphis Grizzlies,Orlando Magic,7,12,19,1480640400.0,2017
+Orlando Magic,Philadelphia 76ers,Orlando Magic,8,12,20,1480723200.0,2017
+Orlando Magic,Detroit Pistons,Orlando Magic,9,12,21,1480892400.0,2017
+Orlando Magic,Washington Wizards,Orlando Magic,10,12,22,1481068800.0,2017
+Orlando Magic,Orlando Magic,Boston Celtics,10,13,23,1481155200.0,2017
+Orlando Magic,Charlotte Hornets,Orlando Magic,10,14,24,1481328000.0,2017
+Orlando Magic,Orlando Magic,Denver Nuggets,10,15,25,1481414400.0,2017
+Orlando Magic,Atlanta Hawks,Orlando Magic,11,15,26,1481675400.0,2017
+Orlando Magic,Orlando Magic,Los Angeles Clippers,11,16,27,1481760000.0,2017
+Orlando Magic,Orlando Magic,Brooklyn Nets,12,16,28,1481932800.0,2017
+Orlando Magic,Orlando Magic,Toronto Raptors,12,17,29,1482102000.0,2017
+Orlando Magic,Miami Heat,Orlando Magic,13,17,30,1482280200.0,2017
+Orlando Magic,New York Knicks,Orlando Magic,13,18,31,1482453000.0,2017
+Orlando Magic,Orlando Magic,Los Angeles Lakers,14,18,32,1482537600.0,2017
+Orlando Magic,Orlando Magic,Memphis Grizzlies,15,18,33,1482796800.0,2017
+Orlando Magic,Orlando Magic,Charlotte Hornets,15,19,34,1482969600.0,2017
+Orlando Magic,Indiana Pacers,Orlando Magic,15,20,35,1483311600.0,2017
+Orlando Magic,New York Knicks,Orlando Magic,16,20,36,1483403400.0,2017
+Orlando Magic,Orlando Magic,Atlanta Hawks,16,21,37,1483574400.0,2017
+Orlando Magic,Orlando Magic,Houston Rockets,16,22,38,1483747200.0,2017
+Orlando Magic,Los Angeles Lakers,Orlando Magic,16,23,39,1483929000.0,2017
+Orlando Magic,Los Angeles Clippers,Orlando Magic,16,24,40,1484191800.0,2017
+Orlando Magic,Portland Trail Blazers,Orlando Magic,17,24,41,1484362800.0,2017
+Orlando Magic,Utah Jazz,Orlando Magic,17,25,42,1484445600.0,2017
+Orlando Magic,Denver Nuggets,Orlando Magic,17,26,43,1484604000.0,2017
+Orlando Magic,New Orleans Pelicans,Orlando Magic,17,27,44,1484787600.0,2017
+Orlando Magic,Orlando Magic,Milwaukee Bucks,18,27,45,1484956800.0,2017
+Orlando Magic,Orlando Magic,Golden State Warriors,18,28,46,1485104400.0,2017
+Orlando Magic,Orlando Magic,Chicago Bulls,18,29,47,1485302400.0,2017
+Orlando Magic,Boston Celtics,Orlando Magic,18,30,48,1485563400.0,2017
+Orlando Magic,Toronto Raptors,Orlando Magic,19,30,49,1485730800.0,2017
+Orlando Magic,Minnesota Timberwolves,Orlando Magic,19,31,50,1485824400.0,2017
+Orlando Magic,Orlando Magic,Indiana Pacers,19,32,51,1485993600.0,2017
+Orlando Magic,Orlando Magic,Toronto Raptors,20,32,52,1486166400.0,2017
+Orlando Magic,Atlanta Hawks,Orlando Magic,20,33,53,1486252800.0,2017
+Orlando Magic,Houston Rockets,Orlando Magic,20,34,54,1486515600.0,2017
+Orlando Magic,Orlando Magic,Philadelphia 76ers,20,35,55,1486684800.0,2017
+Orlando Magic,Dallas Mavericks,Orlando Magic,20,36,56,1486864800.0,2017
+Orlando Magic,Miami Heat,Orlando Magic,21,36,57,1487032200.0,2017
+Orlando Magic,Orlando Magic,San Antonio Spurs,21,37,58,1487203200.0,2017
+Orlando Magic,Orlando Magic,Portland Trail Blazers,21,38,59,1487894400.0,2017
+Orlando Magic,Orlando Magic,Atlanta Hawks,22,38,60,1488067200.0,2017
+Orlando Magic,Orlando Magic,New York Knicks,22,39,61,1488412800.0,2017
+Orlando Magic,Orlando Magic,Miami Heat,23,39,62,1488585600.0,2017
+Orlando Magic,Washington Wizards,Orlando Magic,23,40,63,1488751200.0,2017
+Orlando Magic,Orlando Magic,New York Knicks,23,41,64,1488844800.0,2017
+Orlando Magic,Orlando Magic,Chicago Bulls,24,41,65,1489017600.0,2017
+Orlando Magic,Charlotte Hornets,Orlando Magic,24,42,66,1489190400.0,2017
+Orlando Magic,Orlando Magic,Cleveland Cavaliers,24,43,67,1489276800.0,2017
+Orlando Magic,Sacramento Kings,Orlando Magic,24,44,68,1489458600.0,2017
+Orlando Magic,Golden State Warriors,Orlando Magic,24,45,69,1489717800.0,2017
+Orlando Magic,Phoenix Suns,Orlando Magic,25,45,70,1489802400.0,2017
+Orlando Magic,Orlando Magic,Philadelphia 76ers,26,45,71,1490050800.0,2017
+Orlando Magic,Orlando Magic,Charlotte Hornets,26,46,72,1490223600.0,2017
+Orlando Magic,Orlando Magic,Detroit Pistons,27,46,73,1490396400.0,2017
+Orlando Magic,Toronto Raptors,Orlando Magic,27,47,74,1490657400.0,2017
+Orlando Magic,Orlando Magic,Oklahoma City Thunder,27,48,75,1490828400.0,2017
+Orlando Magic,Boston Celtics,Orlando Magic,27,49,76,1491003000.0,2017
+Orlando Magic,Brooklyn Nets,Orlando Magic,27,50,77,1491084000.0,2017
+Orlando Magic,Cleveland Cavaliers,Orlando Magic,27,51,78,1491346800.0,2017
+Orlando Magic,Orlando Magic,Brooklyn Nets,28,51,79,1491519600.0,2017
+Orlando Magic,Orlando Magic,Indiana Pacers,28,52,80,1491688800.0,2017
+Orlando Magic,Chicago Bulls,Orlando Magic,28,53,81,1491868800.0,2017
+Orlando Magic,Orlando Magic,Detroit Pistons,29,53,82,1492041600.0,2017
+Philadelphia 76ers,Philadelphia 76ers,Oklahoma City Thunder,0,1,1,1477526400.0,2017
+Philadelphia 76ers,Philadelphia 76ers,Atlanta Hawks,0,2,2,1477758600.0,2017
+Philadelphia 76ers,Philadelphia 76ers,Orlando Magic,0,3,3,1478041200.0,2017
+Philadelphia 76ers,Charlotte Hornets,Philadelphia 76ers,0,4,4,1478127600.0,2017
+Philadelphia 76ers,Philadelphia 76ers,Cleveland Cavaliers,0,5,5,1478386800.0,2017
+Philadelphia 76ers,Philadelphia 76ers,Utah Jazz,0,6,6,1478563200.0,2017
+Philadelphia 76ers,Indiana Pacers,Philadelphia 76ers,0,7,7,1478736000.0,2017
+Philadelphia 76ers,Philadelphia 76ers,Indiana Pacers,1,7,8,1478908800.0,2017
+Philadelphia 76ers,Atlanta Hawks,Philadelphia 76ers,1,8,9,1478997000.0,2017
+Philadelphia 76ers,Houston Rockets,Philadelphia 76ers,1,9,10,1479171600.0,2017
+Philadelphia 76ers,Philadelphia 76ers,Washington Wizards,2,9,11,1479340800.0,2017
+Philadelphia 76ers,Minnesota Timberwolves,Philadelphia 76ers,2,10,12,1479430800.0,2017
+Philadelphia 76ers,Philadelphia 76ers,Phoenix Suns,3,10,13,1479601800.0,2017
+Philadelphia 76ers,Philadelphia 76ers,Miami Heat,4,10,14,1479772800.0,2017
+Philadelphia 76ers,Philadelphia 76ers,Memphis Grizzlies,4,11,15,1479945600.0,2017
+Philadelphia 76ers,Philadelphia 76ers,Chicago Bulls,4,12,16,1480120200.0,2017
+Philadelphia 76ers,Philadelphia 76ers,Cleveland Cavaliers,4,13,17,1480269600.0,2017
+Philadelphia 76ers,Toronto Raptors,Philadelphia 76ers,4,14,18,1480379400.0,2017
+Philadelphia 76ers,Philadelphia 76ers,Orlando Magic,4,15,19,1480723200.0,2017
+Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,4,16,20,1480811400.0,2017
+Philadelphia 76ers,Philadelphia 76ers,Denver Nuggets,4,17,21,1480982400.0,2017
+Philadelphia 76ers,Memphis Grizzlies,Philadelphia 76ers,4,18,22,1481072400.0,2017
+Philadelphia 76ers,New Orleans Pelicans,Philadelphia 76ers,5,18,23,1481245200.0,2017
+Philadelphia 76ers,Detroit Pistons,Philadelphia 76ers,6,18,24,1481497200.0,2017
+Philadelphia 76ers,Philadelphia 76ers,Toronto Raptors,6,19,25,1481760000.0,2017
+Philadelphia 76ers,Philadelphia 76ers,Los Angeles Lakers,6,20,26,1481936400.0,2017
+Philadelphia 76ers,Philadelphia 76ers,Brooklyn Nets,7,20,27,1482102000.0,2017
+Philadelphia 76ers,Philadelphia 76ers,New Orleans Pelicans,7,21,28,1482278400.0,2017
+Philadelphia 76ers,Phoenix Suns,Philadelphia 76ers,7,22,29,1482544800.0,2017
+Philadelphia 76ers,Sacramento Kings,Philadelphia 76ers,7,23,30,1482809400.0,2017
+Philadelphia 76ers,Utah Jazz,Philadelphia 76ers,7,24,31,1483063200.0,2017
+Philadelphia 76ers,Denver Nuggets,Philadelphia 76ers,8,24,32,1483149600.0,2017
+Philadelphia 76ers,Philadelphia 76ers,Minnesota Timberwolves,9,24,33,1483488000.0,2017
+Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,9,25,34,1483749000.0,2017
+Philadelphia 76ers,Brooklyn Nets,Philadelphia 76ers,10,25,35,1483894800.0,2017
+Philadelphia 76ers,Philadelphia 76ers,New York Knicks,11,25,36,1484179200.0,2017
+Philadelphia 76ers,Philadelphia 76ers,Charlotte Hornets,12,25,37,1484352000.0,2017
+Philadelphia 76ers,Washington Wizards,Philadelphia 76ers,12,26,38,1484442000.0,2017
+Philadelphia 76ers,Milwaukee Bucks,Philadelphia 76ers,13,26,39,1484598600.0,2017
+Philadelphia 76ers,Philadelphia 76ers,Toronto Raptors,14,26,40,1484784000.0,2017
+Philadelphia 76ers,Philadelphia 76ers,Portland Trail Blazers,15,26,41,1484956800.0,2017
+Philadelphia 76ers,Atlanta Hawks,Philadelphia 76ers,15,27,42,1485043200.0,2017
+Philadelphia 76ers,Philadelphia 76ers,Los Angeles Clippers,16,27,43,1485302400.0,2017
+Philadelphia 76ers,Milwaukee Bucks,Philadelphia 76ers,17,27,44,1485392400.0,2017
+Philadelphia 76ers,Philadelphia 76ers,Houston Rockets,17,28,45,1485565200.0,2017
+Philadelphia 76ers,Chicago Bulls,Philadelphia 76ers,17,29,46,1485734400.0,2017
+Philadelphia 76ers,Philadelphia 76ers,Sacramento Kings,18,29,47,1485817200.0,2017
+Philadelphia 76ers,Dallas Mavericks,Philadelphia 76ers,18,30,48,1485999000.0,2017
+Philadelphia 76ers,San Antonio Spurs,Philadelphia 76ers,18,31,49,1486085400.0,2017
+Philadelphia 76ers,Miami Heat,Philadelphia 76ers,18,32,50,1486254600.0,2017
+Philadelphia 76ers,Detroit Pistons,Philadelphia 76ers,18,33,51,1486427400.0,2017
+Philadelphia 76ers,Philadelphia 76ers,San Antonio Spurs,18,34,52,1486598400.0,2017
+Philadelphia 76ers,Orlando Magic,Philadelphia 76ers,19,34,53,1486684800.0,2017
+Philadelphia 76ers,Philadelphia 76ers,Miami Heat,20,34,54,1486859400.0,2017
+Philadelphia 76ers,Charlotte Hornets,Philadelphia 76ers,21,34,55,1487030400.0,2017
+Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,21,35,56,1487205000.0,2017
+Philadelphia 76ers,Philadelphia 76ers,Washington Wizards,22,35,57,1487980800.0,2017
+Philadelphia 76ers,New York Knicks,Philadelphia 76ers,22,36,58,1488069000.0,2017
+Philadelphia 76ers,Philadelphia 76ers,Golden State Warriors,22,37,59,1488240000.0,2017
+Philadelphia 76ers,Miami Heat,Philadelphia 76ers,22,38,60,1488414600.0,2017
+Philadelphia 76ers,Philadelphia 76ers,New York Knicks,23,38,61,1488585600.0,2017
+Philadelphia 76ers,Philadelphia 76ers,Detroit Pistons,23,39,62,1488668400.0,2017
+Philadelphia 76ers,Philadelphia 76ers,Milwaukee Bucks,23,40,63,1488844800.0,2017
+Philadelphia 76ers,Portland Trail Blazers,Philadelphia 76ers,23,41,64,1489114800.0,2017
+Philadelphia 76ers,Los Angeles Clippers,Philadelphia 76ers,23,42,65,1489264200.0,2017
+Philadelphia 76ers,Los Angeles Lakers,Philadelphia 76ers,24,42,66,1489368600.0,2017
+Philadelphia 76ers,Golden State Warriors,Philadelphia 76ers,24,43,67,1489545000.0,2017
+Philadelphia 76ers,Philadelphia 76ers,Dallas Mavericks,25,43,68,1489791600.0,2017
+Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,26,43,69,1489942800.0,2017
+Philadelphia 76ers,Orlando Magic,Philadelphia 76ers,26,44,70,1490050800.0,2017
+Philadelphia 76ers,Oklahoma City Thunder,Philadelphia 76ers,26,45,71,1490227200.0,2017
+Philadelphia 76ers,Chicago Bulls,Philadelphia 76ers,27,45,72,1490400000.0,2017
+Philadelphia 76ers,Indiana Pacers,Philadelphia 76ers,27,46,73,1490565600.0,2017
+Philadelphia 76ers,Brooklyn Nets,Philadelphia 76ers,28,46,74,1490743800.0,2017
+Philadelphia 76ers,Philadelphia 76ers,Atlanta Hawks,28,47,75,1490828400.0,2017
+Philadelphia 76ers,Cleveland Cavaliers,Philadelphia 76ers,28,48,76,1491003000.0,2017
+Philadelphia 76ers,Toronto Raptors,Philadelphia 76ers,28,49,77,1491170400.0,2017
+Philadelphia 76ers,Philadelphia 76ers,Brooklyn Nets,28,50,78,1491346800.0,2017
+Philadelphia 76ers,Philadelphia 76ers,Chicago Bulls,28,51,79,1491519600.0,2017
+Philadelphia 76ers,Philadelphia 76ers,Milwaukee Bucks,28,52,80,1491692400.0,2017
+Philadelphia 76ers,Philadelphia 76ers,Indiana Pacers,28,53,81,1491865200.0,2017
+Philadelphia 76ers,New York Knicks,Philadelphia 76ers,28,54,82,1492041600.0,2017
+Phoenix Suns,Phoenix Suns,Sacramento Kings,0,1,1,1477533600.0,2017
+Phoenix Suns,Oklahoma City Thunder,Phoenix Suns,0,2,2,1477699200.0,2017
+Phoenix Suns,Phoenix Suns,Golden State Warriors,0,3,3,1477864800.0,2017
+Phoenix Suns,Los Angeles Clippers,Phoenix Suns,0,4,4,1477967400.0,2017
+Phoenix Suns,Phoenix Suns,Portland Trail Blazers,1,4,5,1478138400.0,2017
+Phoenix Suns,New Orleans Pelicans,Phoenix Suns,2,4,6,1478304000.0,2017
+Phoenix Suns,Los Angeles Lakers,Phoenix Suns,2,5,7,1478485800.0,2017
+Phoenix Suns,Portland Trail Blazers,Phoenix Suns,2,6,8,1478660400.0,2017
+Phoenix Suns,Phoenix Suns,Detroit Pistons,3,6,9,1478743200.0,2017
+Phoenix Suns,Phoenix Suns,Brooklyn Nets,3,7,10,1479002400.0,2017
+Phoenix Suns,Golden State Warriors,Phoenix Suns,3,8,11,1479085200.0,2017
+Phoenix Suns,Denver Nuggets,Phoenix Suns,3,9,12,1479348000.0,2017
+Phoenix Suns,Indiana Pacers,Phoenix Suns,4,9,13,1479513600.0,2017
+Phoenix Suns,Philadelphia 76ers,Phoenix Suns,4,10,14,1479601800.0,2017
+Phoenix Suns,Washington Wizards,Phoenix Suns,4,11,15,1479772800.0,2017
+Phoenix Suns,Orlando Magic,Phoenix Suns,5,11,16,1479945600.0,2017
+Phoenix Suns,Phoenix Suns,Minnesota Timberwolves,5,12,17,1480125600.0,2017
+Phoenix Suns,Phoenix Suns,Denver Nuggets,5,13,18,1480278600.0,2017
+Phoenix Suns,Phoenix Suns,Atlanta Hawks,6,13,19,1480557600.0,2017
+Phoenix Suns,Golden State Warriors,Phoenix Suns,6,14,20,1480822200.0,2017
+Phoenix Suns,Utah Jazz,Phoenix Suns,6,15,21,1481076000.0,2017
+Phoenix Suns,Phoenix Suns,Indiana Pacers,6,16,22,1481162400.0,2017
+Phoenix Suns,Los Angeles Lakers,Phoenix Suns,7,16,23,1481340600.0,2017
+Phoenix Suns,Phoenix Suns,New Orleans Pelicans,7,17,24,1481506200.0,2017
+Phoenix Suns,Phoenix Suns,New York Knicks,8,17,25,1481680800.0,2017
+Phoenix Suns,Phoenix Suns,San Antonio Spurs,8,18,26,1481853600.0,2017
+Phoenix Suns,Oklahoma City Thunder,Phoenix Suns,8,19,27,1482012000.0,2017
+Phoenix Suns,Minnesota Timberwolves,Phoenix Suns,8,20,28,1482195600.0,2017
+Phoenix Suns,Phoenix Suns,Houston Rockets,8,21,29,1482372000.0,2017
+Phoenix Suns,Phoenix Suns,Philadelphia 76ers,9,21,30,1482544800.0,2017
+Phoenix Suns,Houston Rockets,Phoenix Suns,9,22,31,1482800400.0,2017
+Phoenix Suns,San Antonio Spurs,Phoenix Suns,9,23,32,1482975000.0,2017
+Phoenix Suns,Phoenix Suns,Toronto Raptors,10,23,33,1483063200.0,2017
+Phoenix Suns,Utah Jazz,Phoenix Suns,10,24,34,1483232400.0,2017
+Phoenix Suns,Los Angeles Clippers,Phoenix Suns,10,25,35,1483414200.0,2017
+Phoenix Suns,Phoenix Suns,Miami Heat,11,25,36,1483495200.0,2017
+Phoenix Suns,Dallas Mavericks,Phoenix Suns,12,25,37,1483666200.0,2017
+Phoenix Suns,Phoenix Suns,Cleveland Cavaliers,12,26,38,1483925400.0,2017
+Phoenix Suns,Phoenix Suns,Dallas Mavericks,12,27,39,1484276400.0,2017
+Phoenix Suns,Phoenix Suns,San Antonio Spurs,13,27,40,1484434800.0,2017
+Phoenix Suns,Phoenix Suns,Utah Jazz,13,28,41,1484618400.0,2017
+Phoenix Suns,Cleveland Cavaliers,Phoenix Suns,13,29,42,1484870400.0,2017
+Phoenix Suns,New York Knicks,Phoenix Suns,14,29,43,1485045000.0,2017
+Phoenix Suns,Toronto Raptors,Phoenix Suns,15,29,44,1485126000.0,2017
+Phoenix Suns,Phoenix Suns,Minnesota Timberwolves,15,30,45,1485309600.0,2017
+Phoenix Suns,Denver Nuggets,Phoenix Suns,15,31,46,1485482400.0,2017
+Phoenix Suns,Phoenix Suns,Denver Nuggets,15,32,47,1485655200.0,2017
+Phoenix Suns,Phoenix Suns,Memphis Grizzlies,15,33,48,1485833400.0,2017
+Phoenix Suns,Phoenix Suns,Los Angeles Clippers,15,34,49,1486000800.0,2017
+Phoenix Suns,Sacramento Kings,Phoenix Suns,16,34,50,1486179000.0,2017
+Phoenix Suns,Phoenix Suns,Milwaukee Bucks,16,35,51,1486260000.0,2017
+Phoenix Suns,New Orleans Pelicans,Phoenix Suns,16,36,52,1486429200.0,2017
+Phoenix Suns,Memphis Grizzlies,Phoenix Suns,16,37,53,1486602000.0,2017
+Phoenix Suns,Phoenix Suns,Chicago Bulls,17,37,54,1486783800.0,2017
+Phoenix Suns,Houston Rockets,Phoenix Suns,17,38,55,1486864800.0,2017
+Phoenix Suns,Phoenix Suns,New Orleans Pelicans,17,39,56,1487037600.0,2017
+Phoenix Suns,Phoenix Suns,Los Angeles Lakers,18,39,57,1487210400.0,2017
+Phoenix Suns,Chicago Bulls,Phoenix Suns,18,40,58,1487984400.0,2017
+Phoenix Suns,Milwaukee Bucks,Phoenix Suns,18,41,59,1488141000.0,2017
+Phoenix Suns,Memphis Grizzlies,Phoenix Suns,18,42,60,1488330000.0,2017
+Phoenix Suns,Phoenix Suns,Charlotte Hornets,19,42,61,1488506400.0,2017
+Phoenix Suns,Phoenix Suns,Oklahoma City Thunder,20,42,62,1488592800.0,2017
+Phoenix Suns,Phoenix Suns,Boston Celtics,21,42,63,1488751200.0,2017
+Phoenix Suns,Phoenix Suns,Washington Wizards,21,43,64,1488938400.0,2017
+Phoenix Suns,Phoenix Suns,Los Angeles Lakers,21,44,65,1489116600.0,2017
+Phoenix Suns,Dallas Mavericks,Phoenix Suns,22,44,66,1489284000.0,2017
+Phoenix Suns,Phoenix Suns,Portland Trail Blazers,22,45,67,1489366800.0,2017
+Phoenix Suns,Phoenix Suns,Sacramento Kings,22,46,68,1489629600.0,2017
+Phoenix Suns,Phoenix Suns,Orlando Magic,22,47,69,1489802400.0,2017
+Phoenix Suns,Detroit Pistons,Phoenix Suns,22,48,70,1489955400.0,2017
+Phoenix Suns,Miami Heat,Phoenix Suns,22,49,71,1490139000.0,2017
+Phoenix Suns,Brooklyn Nets,Phoenix Suns,22,50,72,1490311800.0,2017
+Phoenix Suns,Boston Celtics,Phoenix Suns,22,51,73,1490398200.0,2017
+Phoenix Suns,Charlotte Hornets,Phoenix Suns,22,52,74,1490547600.0,2017
+Phoenix Suns,Atlanta Hawks,Phoenix Suns,22,53,75,1490743800.0,2017
+Phoenix Suns,Phoenix Suns,Los Angeles Clippers,22,54,76,1490925600.0,2017
+Phoenix Suns,Portland Trail Blazers,Phoenix Suns,22,55,77,1491098400.0,2017
+Phoenix Suns,Phoenix Suns,Houston Rockets,22,56,78,1491181200.0,2017
+Phoenix Suns,Phoenix Suns,Golden State Warriors,22,57,79,1491444000.0,2017
+Phoenix Suns,Phoenix Suns,Oklahoma City Thunder,23,57,80,1491616800.0,2017
+Phoenix Suns,Phoenix Suns,Dallas Mavericks,24,57,81,1491775200.0,2017
+Phoenix Suns,Sacramento Kings,Phoenix Suns,24,58,82,1491964200.0,2017
+Portland Trail Blazers,Portland Trail Blazers,Utah Jazz,1,0,1,1477447200.0,2017
+Portland Trail Blazers,Portland Trail Blazers,Los Angeles Clippers,1,1,2,1477621800.0,2017
+Portland Trail Blazers,Denver Nuggets,Portland Trail Blazers,2,1,3,1477789200.0,2017
+Portland Trail Blazers,Portland Trail Blazers,Golden State Warriors,2,2,4,1478052000.0,2017
+Portland Trail Blazers,Phoenix Suns,Portland Trail Blazers,2,3,5,1478138400.0,2017
+Portland Trail Blazers,Dallas Mavericks,Portland Trail Blazers,3,3,6,1478305800.0,2017
+Portland Trail Blazers,Memphis Grizzlies,Portland Trail Blazers,4,3,7,1478464200.0,2017
+Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,5,3,8,1478660400.0,2017
+Portland Trail Blazers,Los Angeles Clippers,Portland Trail Blazers,5,4,9,1478748600.0,2017
+Portland Trail Blazers,Portland Trail Blazers,Sacramento Kings,6,4,10,1478919600.0,2017
+Portland Trail Blazers,Portland Trail Blazers,Denver Nuggets,7,4,11,1479088800.0,2017
+Portland Trail Blazers,Portland Trail Blazers,Chicago Bulls,7,5,12,1479265200.0,2017
+Portland Trail Blazers,Houston Rockets,Portland Trail Blazers,7,6,13,1479430800.0,2017
+Portland Trail Blazers,New Orleans Pelicans,Portland Trail Blazers,7,7,14,1479517200.0,2017
+Portland Trail Blazers,Brooklyn Nets,Portland Trail Blazers,8,7,15,1479673800.0,2017
+Portland Trail Blazers,New York Knicks,Portland Trail Blazers,8,8,16,1479861000.0,2017
+Portland Trail Blazers,Cleveland Cavaliers,Portland Trail Blazers,8,9,17,1479945600.0,2017
+Portland Trail Blazers,Portland Trail Blazers,New Orleans Pelicans,9,9,18,1480129200.0,2017
+Portland Trail Blazers,Portland Trail Blazers,Houston Rockets,9,10,19,1480298400.0,2017
+Portland Trail Blazers,Portland Trail Blazers,Indiana Pacers,10,10,20,1480561200.0,2017
+Portland Trail Blazers,Portland Trail Blazers,Miami Heat,11,10,21,1480820400.0,2017
+Portland Trail Blazers,Chicago Bulls,Portland Trail Blazers,12,10,22,1480986000.0,2017
+Portland Trail Blazers,Milwaukee Bucks,Portland Trail Blazers,12,11,23,1481158800.0,2017
+Portland Trail Blazers,Memphis Grizzlies,Portland Trail Blazers,12,12,24,1481245200.0,2017
+Portland Trail Blazers,Indiana Pacers,Portland Trail Blazers,12,13,25,1481414400.0,2017
+Portland Trail Blazers,Los Angeles Clippers,Portland Trail Blazers,12,14,26,1481599800.0,2017
+Portland Trail Blazers,Portland Trail Blazers,Oklahoma City Thunder,13,14,27,1481686200.0,2017
+Portland Trail Blazers,Denver Nuggets,Portland Trail Blazers,13,15,28,1481853600.0,2017
+Portland Trail Blazers,Golden State Warriors,Portland Trail Blazers,13,16,29,1482031800.0,2017
+Portland Trail Blazers,Sacramento Kings,Portland Trail Blazers,13,17,30,1482291000.0,2017
+Portland Trail Blazers,Portland Trail Blazers,Dallas Mavericks,13,18,31,1482375600.0,2017
+Portland Trail Blazers,Portland Trail Blazers,San Antonio Spurs,13,19,32,1482548400.0,2017
+Portland Trail Blazers,Portland Trail Blazers,Toronto Raptors,13,20,33,1482807600.0,2017
+Portland Trail Blazers,Portland Trail Blazers,Sacramento Kings,14,20,34,1482980400.0,2017
+Portland Trail Blazers,San Antonio Spurs,Portland Trail Blazers,14,21,35,1483147800.0,2017
+Portland Trail Blazers,Minnesota Timberwolves,Portland Trail Blazers,15,21,36,1483315200.0,2017
+Portland Trail Blazers,Golden State Warriors,Portland Trail Blazers,15,22,37,1483587000.0,2017
+Portland Trail Blazers,Portland Trail Blazers,Los Angeles Lakers,16,22,38,1483673400.0,2017
+Portland Trail Blazers,Portland Trail Blazers,Detroit Pistons,16,23,39,1483927200.0,2017
+Portland Trail Blazers,Los Angeles Lakers,Portland Trail Blazers,17,23,40,1484105400.0,2017
+Portland Trail Blazers,Portland Trail Blazers,Cleveland Cavaliers,18,23,41,1484191800.0,2017
+Portland Trail Blazers,Portland Trail Blazers,Orlando Magic,18,24,42,1484362800.0,2017
+Portland Trail Blazers,Washington Wizards,Portland Trail Blazers,18,25,43,1484593200.0,2017
+Portland Trail Blazers,Charlotte Hornets,Portland Trail Blazers,18,26,44,1484784000.0,2017
+Portland Trail Blazers,Philadelphia 76ers,Portland Trail Blazers,18,27,45,1484956800.0,2017
+Portland Trail Blazers,Boston Celtics,Portland Trail Blazers,19,27,46,1485036000.0,2017
+Portland Trail Blazers,Portland Trail Blazers,Los Angeles Lakers,20,27,47,1485401400.0,2017
+Portland Trail Blazers,Portland Trail Blazers,Memphis Grizzlies,21,27,48,1485572400.0,2017
+Portland Trail Blazers,Portland Trail Blazers,Golden State Warriors,21,28,49,1485741600.0,2017
+Portland Trail Blazers,Portland Trail Blazers,Charlotte Hornets,22,28,50,1485918000.0,2017
+Portland Trail Blazers,Portland Trail Blazers,Dallas Mavericks,22,29,51,1486179000.0,2017
+Portland Trail Blazers,Oklahoma City Thunder,Portland Trail Blazers,22,30,52,1486324800.0,2017
+Portland Trail Blazers,Dallas Mavericks,Portland Trail Blazers,23,30,53,1486517400.0,2017
+Portland Trail Blazers,Portland Trail Blazers,Boston Celtics,23,31,54,1486697400.0,2017
+Portland Trail Blazers,Portland Trail Blazers,Atlanta Hawks,23,32,55,1487043000.0,2017
+Portland Trail Blazers,Utah Jazz,Portland Trail Blazers,23,33,56,1487210400.0,2017
+Portland Trail Blazers,Orlando Magic,Portland Trail Blazers,24,33,57,1487894400.0,2017
+Portland Trail Blazers,Toronto Raptors,Portland Trail Blazers,24,34,58,1488150000.0,2017
+Portland Trail Blazers,Detroit Pistons,Portland Trail Blazers,24,35,59,1488328200.0,2017
+Portland Trail Blazers,Portland Trail Blazers,Oklahoma City Thunder,25,35,60,1488511800.0,2017
+Portland Trail Blazers,Portland Trail Blazers,Brooklyn Nets,26,35,61,1488682800.0,2017
+Portland Trail Blazers,Oklahoma City Thunder,Portland Trail Blazers,27,35,62,1488934800.0,2017
+Portland Trail Blazers,Portland Trail Blazers,Philadelphia 76ers,28,35,63,1489114800.0,2017
+Portland Trail Blazers,Portland Trail Blazers,Washington Wizards,28,36,64,1489287600.0,2017
+Portland Trail Blazers,Phoenix Suns,Portland Trail Blazers,29,36,65,1489366800.0,2017
+Portland Trail Blazers,New Orleans Pelicans,Portland Trail Blazers,29,37,66,1489536000.0,2017
+Portland Trail Blazers,San Antonio Spurs,Portland Trail Blazers,30,37,67,1489622400.0,2017
+Portland Trail Blazers,Atlanta Hawks,Portland Trail Blazers,31,37,68,1489874400.0,2017
+Portland Trail Blazers,Miami Heat,Portland Trail Blazers,32,37,69,1489960800.0,2017
+Portland Trail Blazers,Portland Trail Blazers,Milwaukee Bucks,32,38,70,1490148000.0,2017
+Portland Trail Blazers,Portland Trail Blazers,New York Knicks,33,38,71,1490320800.0,2017
+Portland Trail Blazers,Portland Trail Blazers,Minnesota Timberwolves,34,38,72,1490493600.0,2017
+Portland Trail Blazers,Los Angeles Lakers,Portland Trail Blazers,35,38,73,1490578200.0,2017
+Portland Trail Blazers,Portland Trail Blazers,Denver Nuggets,36,38,74,1490752800.0,2017
+Portland Trail Blazers,Portland Trail Blazers,Houston Rockets,37,38,75,1490927400.0,2017
+Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,38,38,76,1491098400.0,2017
+Portland Trail Blazers,Minnesota Timberwolves,Portland Trail Blazers,38,39,77,1491260400.0,2017
+Portland Trail Blazers,Utah Jazz,Portland Trail Blazers,38,40,78,1491354000.0,2017
+Portland Trail Blazers,Portland Trail Blazers,Minnesota Timberwolves,39,40,79,1491532200.0,2017
+Portland Trail Blazers,Portland Trail Blazers,Utah Jazz,40,40,80,1491703200.0,2017
+Portland Trail Blazers,Portland Trail Blazers,San Antonio Spurs,41,40,81,1491876000.0,2017
+Portland Trail Blazers,Portland Trail Blazers,New Orleans Pelicans,41,41,82,1492050600.0,2017
+Sacramento Kings,Phoenix Suns,Sacramento Kings,1,0,1,1477533600.0,2017
+Sacramento Kings,Sacramento Kings,San Antonio Spurs,1,1,2,1477621800.0,2017
+Sacramento Kings,Sacramento Kings,Minnesota Timberwolves,2,1,3,1477794600.0,2017
+Sacramento Kings,Atlanta Hawks,Sacramento Kings,2,2,4,1477956600.0,2017
+Sacramento Kings,Miami Heat,Sacramento Kings,2,3,5,1478043000.0,2017
+Sacramento Kings,Orlando Magic,Sacramento Kings,2,4,6,1478214000.0,2017
+Sacramento Kings,Milwaukee Bucks,Sacramento Kings,2,5,7,1478390400.0,2017
+Sacramento Kings,Toronto Raptors,Sacramento Kings,3,5,8,1478473200.0,2017
+Sacramento Kings,Sacramento Kings,New Orleans Pelicans,4,5,9,1478662200.0,2017
+Sacramento Kings,Sacramento Kings,Los Angeles Lakers,4,6,10,1478835000.0,2017
+Sacramento Kings,Portland Trail Blazers,Sacramento Kings,4,7,11,1478919600.0,2017
+Sacramento Kings,Sacramento Kings,San Antonio Spurs,4,8,12,1479353400.0,2017
+Sacramento Kings,Sacramento Kings,Los Angeles Clippers,4,9,13,1479526200.0,2017
+Sacramento Kings,Sacramento Kings,Toronto Raptors,5,9,14,1479693600.0,2017
+Sacramento Kings,Sacramento Kings,Oklahoma City Thunder,6,9,15,1479958200.0,2017
+Sacramento Kings,Sacramento Kings,Houston Rockets,6,10,16,1480131000.0,2017
+Sacramento Kings,Brooklyn Nets,Sacramento Kings,7,10,17,1480287600.0,2017
+Sacramento Kings,Washington Wizards,Sacramento Kings,7,11,18,1480377600.0,2017
+Sacramento Kings,Boston Celtics,Sacramento Kings,7,12,19,1480725000.0,2017
+Sacramento Kings,New York Knicks,Sacramento Kings,7,13,20,1480897800.0,2017
+Sacramento Kings,Dallas Mavericks,Sacramento Kings,8,13,21,1481160600.0,2017
+Sacramento Kings,Sacramento Kings,New York Knicks,8,14,22,1481340600.0,2017
+Sacramento Kings,Utah Jazz,Sacramento Kings,8,15,23,1481421600.0,2017
+Sacramento Kings,Sacramento Kings,Los Angeles Lakers,9,15,24,1481599800.0,2017
+Sacramento Kings,Houston Rockets,Sacramento Kings,9,16,25,1481763600.0,2017
+Sacramento Kings,Memphis Grizzlies,Sacramento Kings,10,16,26,1481936400.0,2017
+Sacramento Kings,Dallas Mavericks,Sacramento Kings,10,17,27,1482094800.0,2017
+Sacramento Kings,Sacramento Kings,Portland Trail Blazers,11,17,28,1482291000.0,2017
+Sacramento Kings,Utah Jazz,Sacramento Kings,12,17,29,1482372000.0,2017
+Sacramento Kings,Minnesota Timberwolves,Sacramento Kings,13,17,30,1482541200.0,2017
+Sacramento Kings,Sacramento Kings,Philadelphia 76ers,14,17,31,1482809400.0,2017
+Sacramento Kings,Portland Trail Blazers,Sacramento Kings,14,18,32,1482980400.0,2017
+Sacramento Kings,Sacramento Kings,Memphis Grizzlies,14,19,33,1483221600.0,2017
+Sacramento Kings,Denver Nuggets,Sacramento Kings,15,19,34,1483495200.0,2017
+Sacramento Kings,Sacramento Kings,Miami Heat,15,20,35,1483587000.0,2017
+Sacramento Kings,Sacramento Kings,Los Angeles Clippers,15,21,36,1483759800.0,2017
+Sacramento Kings,Sacramento Kings,Golden State Warriors,15,22,37,1483927200.0,2017
+Sacramento Kings,Sacramento Kings,Detroit Pistons,16,22,38,1484105400.0,2017
+Sacramento Kings,Sacramento Kings,Cleveland Cavaliers,16,23,39,1484364600.0,2017
+Sacramento Kings,Sacramento Kings,Oklahoma City Thunder,16,24,40,1484532000.0,2017
+Sacramento Kings,Sacramento Kings,Indiana Pacers,16,25,41,1484796600.0,2017
+Sacramento Kings,Memphis Grizzlies,Sacramento Kings,16,26,42,1484960400.0,2017
+Sacramento Kings,Chicago Bulls,Sacramento Kings,16,27,43,1485050400.0,2017
+Sacramento Kings,Detroit Pistons,Sacramento Kings,17,27,44,1485217800.0,2017
+Sacramento Kings,Cleveland Cavaliers,Sacramento Kings,18,27,45,1485388800.0,2017
+Sacramento Kings,Indiana Pacers,Sacramento Kings,18,28,46,1485561600.0,2017
+Sacramento Kings,Charlotte Hornets,Sacramento Kings,19,28,47,1485648000.0,2017
+Sacramento Kings,Philadelphia 76ers,Sacramento Kings,19,29,48,1485817200.0,2017
+Sacramento Kings,Houston Rockets,Sacramento Kings,19,30,49,1485910800.0,2017
+Sacramento Kings,Sacramento Kings,Phoenix Suns,19,31,50,1486179000.0,2017
+Sacramento Kings,Sacramento Kings,Golden State Warriors,20,31,51,1486265400.0,2017
+Sacramento Kings,Sacramento Kings,Chicago Bulls,20,32,52,1486438200.0,2017
+Sacramento Kings,Sacramento Kings,Boston Celtics,21,32,53,1486611000.0,2017
+Sacramento Kings,Sacramento Kings,Atlanta Hawks,22,32,54,1486783800.0,2017
+Sacramento Kings,Sacramento Kings,New Orleans Pelicans,23,32,55,1486951200.0,2017
+Sacramento Kings,Los Angeles Lakers,Sacramento Kings,24,32,56,1487129400.0,2017
+Sacramento Kings,Golden State Warriors,Sacramento Kings,24,33,57,1487215800.0,2017
+Sacramento Kings,Sacramento Kings,Denver Nuggets,25,33,58,1487907000.0,2017
+Sacramento Kings,Sacramento Kings,Charlotte Hornets,25,34,59,1488060000.0,2017
+Sacramento Kings,Sacramento Kings,Minnesota Timberwolves,25,35,60,1488252600.0,2017
+Sacramento Kings,Sacramento Kings,Brooklyn Nets,25,36,61,1488425400.0,2017
+Sacramento Kings,Sacramento Kings,Utah Jazz,25,37,62,1488754800.0,2017
+Sacramento Kings,Denver Nuggets,Sacramento Kings,25,38,63,1488852000.0,2017
+Sacramento Kings,San Antonio Spurs,Sacramento Kings,25,39,64,1489023000.0,2017
+Sacramento Kings,Sacramento Kings,Washington Wizards,25,40,65,1489203000.0,2017
+Sacramento Kings,Sacramento Kings,Denver Nuggets,25,41,66,1489289400.0,2017
+Sacramento Kings,Sacramento Kings,Orlando Magic,26,41,67,1489458600.0,2017
+Sacramento Kings,Phoenix Suns,Sacramento Kings,27,41,68,1489629600.0,2017
+Sacramento Kings,Oklahoma City Thunder,Sacramento Kings,27,42,69,1489863600.0,2017
+Sacramento Kings,San Antonio Spurs,Sacramento Kings,27,43,70,1489964400.0,2017
+Sacramento Kings,Sacramento Kings,Milwaukee Bucks,27,44,71,1490236200.0,2017
+Sacramento Kings,Golden State Warriors,Sacramento Kings,27,45,72,1490409000.0,2017
+Sacramento Kings,Los Angeles Clippers,Sacramento Kings,28,45,73,1490556600.0,2017
+Sacramento Kings,Sacramento Kings,Memphis Grizzlies,29,45,74,1490668200.0,2017
+Sacramento Kings,Sacramento Kings,Utah Jazz,29,46,75,1490841000.0,2017
+Sacramento Kings,New Orleans Pelicans,Sacramento Kings,29,47,76,1491004800.0,2017
+Sacramento Kings,Minnesota Timberwolves,Sacramento Kings,30,47,77,1491091200.0,2017
+Sacramento Kings,Sacramento Kings,Dallas Mavericks,31,47,78,1491359400.0,2017
+Sacramento Kings,Los Angeles Lakers,Sacramento Kings,31,48,79,1491618600.0,2017
+Sacramento Kings,Sacramento Kings,Houston Rockets,31,49,80,1491775200.0,2017
+Sacramento Kings,Sacramento Kings,Phoenix Suns,32,49,81,1491964200.0,2017
+Sacramento Kings,Los Angeles Clippers,Sacramento Kings,32,50,82,1492050600.0,2017
+San Antonio Spurs,Golden State Warriors,San Antonio Spurs,1,0,1,1477449000.0,2017
+San Antonio Spurs,Sacramento Kings,San Antonio Spurs,2,0,2,1477621800.0,2017
+San Antonio Spurs,San Antonio Spurs,New Orleans Pelicans,3,0,3,1477785600.0,2017
+San Antonio Spurs,Miami Heat,San Antonio Spurs,4,0,4,1477864800.0,2017
+San Antonio Spurs,San Antonio Spurs,Utah Jazz,4,1,5,1478046600.0,2017
+San Antonio Spurs,Utah Jazz,San Antonio Spurs,5,1,6,1478307600.0,2017
+San Antonio Spurs,San Antonio Spurs,Los Angeles Clippers,5,2,7,1478392200.0,2017
+San Antonio Spurs,San Antonio Spurs,Houston Rockets,5,3,8,1478745000.0,2017
+San Antonio Spurs,San Antonio Spurs,Detroit Pistons,6,3,9,1478914200.0,2017
+San Antonio Spurs,Houston Rockets,San Antonio Spurs,7,3,10,1478998800.0,2017
+San Antonio Spurs,San Antonio Spurs,Miami Heat,8,3,11,1479173400.0,2017
+San Antonio Spurs,Sacramento Kings,San Antonio Spurs,9,3,12,1479353400.0,2017
+San Antonio Spurs,Los Angeles Lakers,San Antonio Spurs,10,3,13,1479526200.0,2017
+San Antonio Spurs,San Antonio Spurs,Dallas Mavericks,11,3,14,1479778200.0,2017
+San Antonio Spurs,Charlotte Hornets,San Antonio Spurs,12,3,15,1479945600.0,2017
+San Antonio Spurs,Boston Celtics,San Antonio Spurs,13,3,16,1480096800.0,2017
+San Antonio Spurs,Washington Wizards,San Antonio Spurs,14,3,17,1480204800.0,2017
+San Antonio Spurs,San Antonio Spurs,Orlando Magic,14,4,18,1480469400.0,2017
+San Antonio Spurs,Dallas Mavericks,San Antonio Spurs,15,4,19,1480555800.0,2017
+San Antonio Spurs,San Antonio Spurs,Washington Wizards,16,4,20,1480728600.0,2017
+San Antonio Spurs,Milwaukee Bucks,San Antonio Spurs,17,4,21,1480986000.0,2017
+San Antonio Spurs,Minnesota Timberwolves,San Antonio Spurs,18,4,22,1481072400.0,2017
+San Antonio Spurs,Chicago Bulls,San Antonio Spurs,18,5,23,1481250600.0,2017
+San Antonio Spurs,San Antonio Spurs,Brooklyn Nets,19,5,24,1481419800.0,2017
+San Antonio Spurs,San Antonio Spurs,Boston Celtics,20,5,25,1481769000.0,2017
+San Antonio Spurs,Phoenix Suns,San Antonio Spurs,21,5,26,1481853600.0,2017
+San Antonio Spurs,San Antonio Spurs,New Orleans Pelicans,22,5,27,1482105600.0,2017
+San Antonio Spurs,Houston Rockets,San Antonio Spurs,23,5,28,1482282000.0,2017
+San Antonio Spurs,Los Angeles Clippers,San Antonio Spurs,23,6,29,1482463800.0,2017
+San Antonio Spurs,Portland Trail Blazers,San Antonio Spurs,24,6,30,1482548400.0,2017
+San Antonio Spurs,San Antonio Spurs,Chicago Bulls,25,6,31,1482703200.0,2017
+San Antonio Spurs,San Antonio Spurs,Phoenix Suns,26,6,32,1482975000.0,2017
+San Antonio Spurs,San Antonio Spurs,Portland Trail Blazers,27,6,33,1483147800.0,2017
+San Antonio Spurs,Atlanta Hawks,San Antonio Spurs,27,7,34,1483311600.0,2017
+San Antonio Spurs,San Antonio Spurs,Toronto Raptors,28,7,35,1483493400.0,2017
+San Antonio Spurs,Denver Nuggets,San Antonio Spurs,29,7,36,1483668000.0,2017
+San Antonio Spurs,San Antonio Spurs,Charlotte Hornets,30,7,37,1483839000.0,2017
+San Antonio Spurs,San Antonio Spurs,Milwaukee Bucks,30,8,38,1484098200.0,2017
+San Antonio Spurs,San Antonio Spurs,Los Angeles Lakers,31,8,39,1484271000.0,2017
+San Antonio Spurs,Phoenix Suns,San Antonio Spurs,31,9,40,1484434800.0,2017
+San Antonio Spurs,San Antonio Spurs,Minnesota Timberwolves,32,9,41,1484703000.0,2017
+San Antonio Spurs,San Antonio Spurs,Denver Nuggets,33,9,42,1484875800.0,2017
+San Antonio Spurs,Cleveland Cavaliers,San Antonio Spurs,34,9,43,1485048600.0,2017
+San Antonio Spurs,Brooklyn Nets,San Antonio Spurs,35,9,44,1485217800.0,2017
+San Antonio Spurs,Toronto Raptors,San Antonio Spurs,36,9,45,1485302400.0,2017
+San Antonio Spurs,New Orleans Pelicans,San Antonio Spurs,36,10,46,1485565200.0,2017
+San Antonio Spurs,San Antonio Spurs,Dallas Mavericks,36,11,47,1485734400.0,2017
+San Antonio Spurs,San Antonio Spurs,Oklahoma City Thunder,37,11,48,1485912600.0,2017
+San Antonio Spurs,San Antonio Spurs,Philadelphia 76ers,38,11,49,1486085400.0,2017
+San Antonio Spurs,San Antonio Spurs,Denver Nuggets,39,11,50,1486260000.0,2017
+San Antonio Spurs,Memphis Grizzlies,San Antonio Spurs,39,12,51,1486434600.0,2017
+San Antonio Spurs,Philadelphia 76ers,San Antonio Spurs,40,12,52,1486598400.0,2017
+San Antonio Spurs,Detroit Pistons,San Antonio Spurs,41,12,53,1486773000.0,2017
+San Antonio Spurs,New York Knicks,San Antonio Spurs,41,13,54,1486931400.0,2017
+San Antonio Spurs,Indiana Pacers,San Antonio Spurs,42,13,55,1487030400.0,2017
+San Antonio Spurs,Orlando Magic,San Antonio Spurs,43,13,56,1487203200.0,2017
+San Antonio Spurs,Los Angeles Clippers,San Antonio Spurs,44,13,57,1487993400.0,2017
+San Antonio Spurs,Los Angeles Lakers,San Antonio Spurs,45,13,58,1488141000.0,2017
+San Antonio Spurs,San Antonio Spurs,Indiana Pacers,46,13,59,1488418200.0,2017
+San Antonio Spurs,New Orleans Pelicans,San Antonio Spurs,47,13,60,1488594600.0,2017
+San Antonio Spurs,San Antonio Spurs,Minnesota Timberwolves,48,13,61,1488679200.0,2017
+San Antonio Spurs,San Antonio Spurs,Houston Rockets,49,13,62,1488850200.0,2017
+San Antonio Spurs,San Antonio Spurs,Sacramento Kings,50,13,63,1489023000.0,2017
+San Antonio Spurs,Oklahoma City Thunder,San Antonio Spurs,50,14,64,1489107600.0,2017
+San Antonio Spurs,San Antonio Spurs,Golden State Warriors,51,14,65,1489282200.0,2017
+San Antonio Spurs,San Antonio Spurs,Atlanta Hawks,52,14,66,1489449600.0,2017
+San Antonio Spurs,San Antonio Spurs,Portland Trail Blazers,52,15,67,1489622400.0,2017
+San Antonio Spurs,Memphis Grizzlies,San Antonio Spurs,52,16,68,1489885200.0,2017
+San Antonio Spurs,San Antonio Spurs,Sacramento Kings,53,16,69,1489964400.0,2017
+San Antonio Spurs,Minnesota Timberwolves,San Antonio Spurs,54,16,70,1490146200.0,2017
+San Antonio Spurs,San Antonio Spurs,Memphis Grizzlies,55,16,71,1490315400.0,2017
+San Antonio Spurs,San Antonio Spurs,New York Knicks,56,16,72,1490488200.0,2017
+San Antonio Spurs,San Antonio Spurs,Cleveland Cavaliers,57,16,73,1490659200.0,2017
+San Antonio Spurs,San Antonio Spurs,Golden State Warriors,57,17,74,1490837400.0,2017
+San Antonio Spurs,Oklahoma City Thunder,San Antonio Spurs,58,17,75,1491004800.0,2017
+San Antonio Spurs,San Antonio Spurs,Utah Jazz,59,17,76,1491161400.0,2017
+San Antonio Spurs,San Antonio Spurs,Memphis Grizzlies,60,17,77,1491352200.0,2017
+San Antonio Spurs,San Antonio Spurs,Los Angeles Lakers,60,18,78,1491438600.0,2017
+San Antonio Spurs,Dallas Mavericks,San Antonio Spurs,61,18,79,1491611400.0,2017
+San Antonio Spurs,San Antonio Spurs,Los Angeles Clippers,61,19,80,1491697800.0,2017
+San Antonio Spurs,Portland Trail Blazers,San Antonio Spurs,61,20,81,1491876000.0,2017
+San Antonio Spurs,Utah Jazz,San Antonio Spurs,61,21,82,1492045200.0,2017
+Toronto Raptors,Toronto Raptors,Detroit Pistons,1,0,1,1477524600.0,2017
+Toronto Raptors,Toronto Raptors,Cleveland Cavaliers,1,1,2,1477695600.0,2017
+Toronto Raptors,Toronto Raptors,Denver Nuggets,2,1,3,1477956600.0,2017
+Toronto Raptors,Washington Wizards,Toronto Raptors,3,1,4,1478127600.0,2017
+Toronto Raptors,Toronto Raptors,Miami Heat,4,1,5,1478302200.0,2017
+Toronto Raptors,Toronto Raptors,Sacramento Kings,4,2,6,1478473200.0,2017
+Toronto Raptors,Oklahoma City Thunder,Toronto Raptors,5,2,7,1478739600.0,2017
+Toronto Raptors,Charlotte Hornets,Toronto Raptors,6,2,8,1478908800.0,2017
+Toronto Raptors,Toronto Raptors,New York Knicks,7,2,9,1478997000.0,2017
+Toronto Raptors,Cleveland Cavaliers,Toronto Raptors,7,3,10,1479254400.0,2017
+Toronto Raptors,Toronto Raptors,Golden State Warriors,7,4,11,1479344400.0,2017
+Toronto Raptors,Denver Nuggets,Toronto Raptors,8,4,12,1479520800.0,2017
+Toronto Raptors,Sacramento Kings,Toronto Raptors,8,5,13,1479693600.0,2017
+Toronto Raptors,Los Angeles Clippers,Toronto Raptors,8,6,14,1479785400.0,2017
+Toronto Raptors,Houston Rockets,Toronto Raptors,9,6,15,1479949200.0,2017
+Toronto Raptors,Milwaukee Bucks,Toronto Raptors,10,6,16,1480122000.0,2017
+Toronto Raptors,Toronto Raptors,Philadelphia 76ers,11,6,17,1480379400.0,2017
+Toronto Raptors,Toronto Raptors,Memphis Grizzlies,12,6,18,1480552200.0,2017
+Toronto Raptors,Toronto Raptors,Los Angeles Lakers,13,6,19,1480725000.0,2017
+Toronto Raptors,Toronto Raptors,Atlanta Hawks,14,6,20,1480811400.0,2017
+Toronto Raptors,Toronto Raptors,Cleveland Cavaliers,14,7,21,1480984200.0,2017
+Toronto Raptors,Toronto Raptors,Minnesota Timberwolves,15,7,22,1481241600.0,2017
+Toronto Raptors,Boston Celtics,Toronto Raptors,16,7,23,1481329800.0,2017
+Toronto Raptors,Toronto Raptors,Milwaukee Bucks,17,7,24,1481589000.0,2017
+Toronto Raptors,Philadelphia 76ers,Toronto Raptors,18,7,25,1481760000.0,2017
+Toronto Raptors,Toronto Raptors,Atlanta Hawks,18,8,26,1481934600.0,2017
+Toronto Raptors,Orlando Magic,Toronto Raptors,19,8,27,1482102000.0,2017
+Toronto Raptors,Toronto Raptors,Brooklyn Nets,20,8,28,1482280200.0,2017
+Toronto Raptors,Utah Jazz,Toronto Raptors,21,8,29,1482544800.0,2017
+Toronto Raptors,Portland Trail Blazers,Toronto Raptors,22,8,30,1482807600.0,2017
+Toronto Raptors,Golden State Warriors,Toronto Raptors,22,9,31,1482982200.0,2017
+Toronto Raptors,Phoenix Suns,Toronto Raptors,22,10,32,1483063200.0,2017
+Toronto Raptors,Los Angeles Lakers,Toronto Raptors,23,10,33,1483324200.0,2017
+Toronto Raptors,San Antonio Spurs,Toronto Raptors,23,11,34,1483493400.0,2017
+Toronto Raptors,Toronto Raptors,Utah Jazz,24,11,35,1483662600.0,2017
+Toronto Raptors,Chicago Bulls,Toronto Raptors,24,12,36,1483837200.0,2017
+Toronto Raptors,Toronto Raptors,Houston Rockets,24,13,37,1483916400.0,2017
+Toronto Raptors,Toronto Raptors,Boston Celtics,25,13,38,1484094600.0,2017
+Toronto Raptors,Toronto Raptors,Brooklyn Nets,26,13,39,1484353800.0,2017
+Toronto Raptors,Toronto Raptors,New York Knicks,27,13,40,1484510400.0,2017
+Toronto Raptors,Brooklyn Nets,Toronto Raptors,28,13,41,1484699400.0,2017
+Toronto Raptors,Philadelphia 76ers,Toronto Raptors,28,14,42,1484784000.0,2017
+Toronto Raptors,Charlotte Hornets,Toronto Raptors,28,15,43,1484956800.0,2017
+Toronto Raptors,Toronto Raptors,Phoenix Suns,28,16,44,1485126000.0,2017
+Toronto Raptors,Toronto Raptors,San Antonio Spurs,28,17,45,1485302400.0,2017
+Toronto Raptors,Memphis Grizzlies,Toronto Raptors,28,18,46,1485392400.0,2017
+Toronto Raptors,Toronto Raptors,Milwaukee Bucks,29,18,47,1485563400.0,2017
+Toronto Raptors,Toronto Raptors,Orlando Magic,29,19,48,1485730800.0,2017
+Toronto Raptors,Toronto Raptors,New Orleans Pelicans,30,19,49,1485907200.0,2017
+Toronto Raptors,Boston Celtics,Toronto Raptors,30,20,50,1485995400.0,2017
+Toronto Raptors,Orlando Magic,Toronto Raptors,30,21,51,1486166400.0,2017
+Toronto Raptors,Brooklyn Nets,Toronto Raptors,31,21,52,1486314000.0,2017
+Toronto Raptors,Toronto Raptors,Los Angeles Clippers,32,21,53,1486427400.0,2017
+Toronto Raptors,Minnesota Timberwolves,Toronto Raptors,32,22,54,1486602000.0,2017
+Toronto Raptors,Toronto Raptors,Detroit Pistons,32,23,55,1486940400.0,2017
+Toronto Raptors,Chicago Bulls,Toronto Raptors,32,24,56,1487120400.0,2017
+Toronto Raptors,Toronto Raptors,Charlotte Hornets,33,24,57,1487205000.0,2017
+Toronto Raptors,Toronto Raptors,Boston Celtics,34,24,58,1487984400.0,2017
+Toronto Raptors,Toronto Raptors,Portland Trail Blazers,35,24,59,1488150000.0,2017
+Toronto Raptors,New York Knicks,Toronto Raptors,36,24,60,1488240000.0,2017
+Toronto Raptors,Toronto Raptors,Washington Wizards,36,25,61,1488414600.0,2017
+Toronto Raptors,Washington Wizards,Toronto Raptors,37,25,62,1488585600.0,2017
+Toronto Raptors,Milwaukee Bucks,Toronto Raptors,37,26,63,1488675600.0,2017
+Toronto Raptors,New Orleans Pelicans,Toronto Raptors,38,26,64,1489021200.0,2017
+Toronto Raptors,Atlanta Hawks,Toronto Raptors,38,27,65,1489194000.0,2017
+Toronto Raptors,Miami Heat,Toronto Raptors,38,28,66,1489280400.0,2017
+Toronto Raptors,Toronto Raptors,Dallas Mavericks,39,28,67,1489447800.0,2017
+Toronto Raptors,Toronto Raptors,Oklahoma City Thunder,39,29,68,1489705200.0,2017
+Toronto Raptors,Detroit Pistons,Toronto Raptors,40,29,69,1489793400.0,2017
+Toronto Raptors,Toronto Raptors,Indiana Pacers,41,29,70,1489960800.0,2017
+Toronto Raptors,Toronto Raptors,Chicago Bulls,42,29,71,1490137200.0,2017
+Toronto Raptors,Miami Heat,Toronto Raptors,43,29,72,1490311800.0,2017
+Toronto Raptors,Dallas Mavericks,Toronto Raptors,44,29,73,1490488200.0,2017
+Toronto Raptors,Toronto Raptors,Orlando Magic,45,29,74,1490657400.0,2017
+Toronto Raptors,Toronto Raptors,Charlotte Hornets,45,30,75,1490830200.0,2017
+Toronto Raptors,Toronto Raptors,Indiana Pacers,46,30,76,1491001200.0,2017
+Toronto Raptors,Toronto Raptors,Philadelphia 76ers,47,30,77,1491170400.0,2017
+Toronto Raptors,Indiana Pacers,Toronto Raptors,47,31,78,1491346800.0,2017
+Toronto Raptors,Detroit Pistons,Toronto Raptors,48,31,79,1491435000.0,2017
+Toronto Raptors,Toronto Raptors,Miami Heat,49,31,80,1491607800.0,2017
+Toronto Raptors,New York Knicks,Toronto Raptors,50,31,81,1491753600.0,2017
+Toronto Raptors,Cleveland Cavaliers,Toronto Raptors,51,31,82,1492041600.0,2017
+Utah Jazz,Portland Trail Blazers,Utah Jazz,0,1,1,1477447200.0,2017
+Utah Jazz,Utah Jazz,Los Angeles Lakers,1,1,2,1477702800.0,2017
+Utah Jazz,Los Angeles Clippers,Utah Jazz,1,2,3,1477859400.0,2017
+Utah Jazz,San Antonio Spurs,Utah Jazz,2,2,4,1478046600.0,2017
+Utah Jazz,Utah Jazz,Dallas Mavericks,3,2,5,1478134800.0,2017
+Utah Jazz,Utah Jazz,San Antonio Spurs,3,3,6,1478307600.0,2017
+Utah Jazz,New York Knicks,Utah Jazz,4,3,7,1478451600.0,2017
+Utah Jazz,Philadelphia 76ers,Utah Jazz,5,3,8,1478563200.0,2017
+Utah Jazz,Charlotte Hornets,Utah Jazz,5,4,9,1478736000.0,2017
+Utah Jazz,Orlando Magic,Utah Jazz,6,4,10,1478908800.0,2017
+Utah Jazz,Miami Heat,Utah Jazz,7,4,11,1478998800.0,2017
+Utah Jazz,Utah Jazz,Memphis Grizzlies,7,5,12,1479175200.0,2017
+Utah Jazz,Utah Jazz,Chicago Bulls,7,6,13,1479439800.0,2017
+Utah Jazz,Houston Rockets,Utah Jazz,7,7,14,1479592800.0,2017
+Utah Jazz,Denver Nuggets,Utah Jazz,7,8,15,1479693600.0,2017
+Utah Jazz,Utah Jazz,Denver Nuggets,8,8,16,1479952800.0,2017
+Utah Jazz,Utah Jazz,Atlanta Hawks,9,8,17,1480122000.0,2017
+Utah Jazz,Minnesota Timberwolves,Utah Jazz,10,8,18,1480381200.0,2017
+Utah Jazz,Utah Jazz,Houston Rockets,11,8,19,1480471200.0,2017
+Utah Jazz,Utah Jazz,Miami Heat,11,9,20,1480644000.0,2017
+Utah Jazz,Utah Jazz,Denver Nuggets,12,9,21,1480816800.0,2017
+Utah Jazz,Los Angeles Lakers,Utah Jazz,13,9,22,1480995000.0,2017
+Utah Jazz,Utah Jazz,Phoenix Suns,14,9,23,1481076000.0,2017
+Utah Jazz,Utah Jazz,Golden State Warriors,14,10,24,1481248800.0,2017
+Utah Jazz,Utah Jazz,Sacramento Kings,15,10,25,1481421600.0,2017
+Utah Jazz,Utah Jazz,Oklahoma City Thunder,16,10,26,1481767200.0,2017
+Utah Jazz,Utah Jazz,Dallas Mavericks,17,10,27,1481945400.0,2017
+Utah Jazz,Memphis Grizzlies,Utah Jazz,18,10,28,1482102000.0,2017
+Utah Jazz,Golden State Warriors,Utah Jazz,18,11,29,1482291000.0,2017
+Utah Jazz,Utah Jazz,Sacramento Kings,18,12,30,1482372000.0,2017
+Utah Jazz,Utah Jazz,Toronto Raptors,18,13,31,1482544800.0,2017
+Utah Jazz,Los Angeles Lakers,Utah Jazz,19,13,32,1482895800.0,2017
+Utah Jazz,Utah Jazz,Philadelphia 76ers,20,13,33,1483063200.0,2017
+Utah Jazz,Utah Jazz,Phoenix Suns,21,13,34,1483232400.0,2017
+Utah Jazz,Brooklyn Nets,Utah Jazz,22,13,35,1483403400.0,2017
+Utah Jazz,Boston Celtics,Utah Jazz,22,14,36,1483489800.0,2017
+Utah Jazz,Toronto Raptors,Utah Jazz,22,15,37,1483662600.0,2017
+Utah Jazz,Minnesota Timberwolves,Utah Jazz,23,15,38,1483837200.0,2017
+Utah Jazz,Memphis Grizzlies,Utah Jazz,23,16,39,1483923600.0,2017
+Utah Jazz,Utah Jazz,Cleveland Cavaliers,24,16,40,1484100000.0,2017
+Utah Jazz,Utah Jazz,Detroit Pistons,25,16,41,1484364600.0,2017
+Utah Jazz,Utah Jazz,Orlando Magic,26,16,42,1484445600.0,2017
+Utah Jazz,Phoenix Suns,Utah Jazz,27,16,43,1484618400.0,2017
+Utah Jazz,Dallas Mavericks,Utah Jazz,28,16,44,1484962200.0,2017
+Utah Jazz,Utah Jazz,Indiana Pacers,29,16,45,1485050400.0,2017
+Utah Jazz,Utah Jazz,Oklahoma City Thunder,29,17,46,1485223200.0,2017
+Utah Jazz,Denver Nuggets,Utah Jazz,29,18,47,1485309600.0,2017
+Utah Jazz,Utah Jazz,Los Angeles Lakers,30,18,48,1485487800.0,2017
+Utah Jazz,Utah Jazz,Memphis Grizzlies,30,19,49,1485655200.0,2017
+Utah Jazz,Utah Jazz,Milwaukee Bucks,31,19,50,1486000800.0,2017
+Utah Jazz,Utah Jazz,Charlotte Hornets,32,19,51,1486260000.0,2017
+Utah Jazz,Atlanta Hawks,Utah Jazz,33,19,52,1486427400.0,2017
+Utah Jazz,New Orleans Pelicans,Utah Jazz,34,19,53,1486602000.0,2017
+Utah Jazz,Dallas Mavericks,Utah Jazz,34,20,54,1486690200.0,2017
+Utah Jazz,Utah Jazz,Boston Celtics,34,21,55,1486868400.0,2017
+Utah Jazz,Utah Jazz,Los Angeles Clippers,34,22,56,1487037600.0,2017
+Utah Jazz,Utah Jazz,Portland Trail Blazers,35,22,57,1487210400.0,2017
+Utah Jazz,Milwaukee Bucks,Utah Jazz,36,22,58,1487984400.0,2017
+Utah Jazz,Washington Wizards,Utah Jazz,37,22,59,1488146400.0,2017
+Utah Jazz,Oklahoma City Thunder,Utah Jazz,37,23,60,1488330000.0,2017
+Utah Jazz,Utah Jazz,Minnesota Timberwolves,37,24,61,1488420000.0,2017
+Utah Jazz,Utah Jazz,Brooklyn Nets,38,24,62,1488592800.0,2017
+Utah Jazz,Sacramento Kings,Utah Jazz,39,24,63,1488754800.0,2017
+Utah Jazz,Utah Jazz,New Orleans Pelicans,40,24,64,1488852000.0,2017
+Utah Jazz,Houston Rockets,Utah Jazz,41,24,65,1489021200.0,2017
+Utah Jazz,Oklahoma City Thunder,Utah Jazz,41,25,66,1489262400.0,2017
+Utah Jazz,Utah Jazz,Los Angeles Clippers,42,25,67,1489453200.0,2017
+Utah Jazz,Detroit Pistons,Utah Jazz,43,25,68,1489620600.0,2017
+Utah Jazz,Cleveland Cavaliers,Utah Jazz,43,26,69,1489705200.0,2017
+Utah Jazz,Chicago Bulls,Utah Jazz,43,27,70,1489885200.0,2017
+Utah Jazz,Indiana Pacers,Utah Jazz,43,28,71,1490050800.0,2017
+Utah Jazz,Utah Jazz,New York Knicks,44,28,72,1490236200.0,2017
+Utah Jazz,Los Angeles Clippers,Utah Jazz,44,29,73,1490470200.0,2017
+Utah Jazz,Utah Jazz,New Orleans Pelicans,45,29,74,1490668200.0,2017
+Utah Jazz,Sacramento Kings,Utah Jazz,46,29,75,1490841000.0,2017
+Utah Jazz,Utah Jazz,Washington Wizards,47,29,76,1491008400.0,2017
+Utah Jazz,San Antonio Spurs,Utah Jazz,47,30,77,1491161400.0,2017
+Utah Jazz,Utah Jazz,Portland Trail Blazers,48,30,78,1491354000.0,2017
+Utah Jazz,Utah Jazz,Minnesota Timberwolves,49,30,79,1491613200.0,2017
+Utah Jazz,Portland Trail Blazers,Utah Jazz,49,31,80,1491703200.0,2017
+Utah Jazz,Golden State Warriors,Utah Jazz,50,31,81,1491877800.0,2017
+Utah Jazz,Utah Jazz,San Antonio Spurs,51,31,82,1492045200.0,2017
+Washington Wizards,Atlanta Hawks,Washington Wizards,0,1,1,1477611000.0,2017
+Washington Wizards,Memphis Grizzlies,Washington Wizards,0,2,2,1477872000.0,2017
+Washington Wizards,Washington Wizards,Toronto Raptors,0,3,3,1478127600.0,2017
+Washington Wizards,Washington Wizards,Atlanta Hawks,1,3,4,1478300400.0,2017
+Washington Wizards,Orlando Magic,Washington Wizards,1,4,5,1478386800.0,2017
+Washington Wizards,Washington Wizards,Houston Rockets,1,5,6,1478563200.0,2017
+Washington Wizards,Washington Wizards,Boston Celtics,2,5,7,1478736000.0,2017
+Washington Wizards,Washington Wizards,Cleveland Cavaliers,2,6,8,1478908800.0,2017
+Washington Wizards,Chicago Bulls,Washington Wizards,2,7,9,1478998800.0,2017
+Washington Wizards,Philadelphia 76ers,Washington Wizards,2,8,10,1479340800.0,2017
+Washington Wizards,Washington Wizards,New York Knicks,3,8,11,1479427200.0,2017
+Washington Wizards,Washington Wizards,Miami Heat,3,9,12,1479600000.0,2017
+Washington Wizards,Washington Wizards,Phoenix Suns,4,9,13,1479772800.0,2017
+Washington Wizards,Orlando Magic,Washington Wizards,5,9,14,1480118400.0,2017
+Washington Wizards,Washington Wizards,San Antonio Spurs,5,10,15,1480204800.0,2017
+Washington Wizards,Washington Wizards,Sacramento Kings,6,10,16,1480377600.0,2017
+Washington Wizards,Oklahoma City Thunder,Washington Wizards,6,11,17,1480554000.0,2017
+Washington Wizards,San Antonio Spurs,Washington Wizards,6,12,18,1480728600.0,2017
+Washington Wizards,Brooklyn Nets,Washington Wizards,7,12,19,1480984200.0,2017
+Washington Wizards,Washington Wizards,Orlando Magic,7,13,20,1481068800.0,2017
+Washington Wizards,Washington Wizards,Denver Nuggets,8,13,21,1481241600.0,2017
+Washington Wizards,Washington Wizards,Milwaukee Bucks,9,13,22,1481414400.0,2017
+Washington Wizards,Miami Heat,Washington Wizards,9,14,23,1481589000.0,2017
+Washington Wizards,Washington Wizards,Charlotte Hornets,10,14,24,1481760000.0,2017
+Washington Wizards,Washington Wizards,Detroit Pistons,11,14,25,1481932800.0,2017
+Washington Wizards,Washington Wizards,Los Angeles Clippers,12,14,26,1482093000.0,2017
+Washington Wizards,Indiana Pacers,Washington Wizards,12,15,27,1482192000.0,2017
+Washington Wizards,Chicago Bulls,Washington Wizards,13,15,28,1482368400.0,2017
+Washington Wizards,Milwaukee Bucks,Washington Wizards,13,16,29,1482541200.0,2017
+Washington Wizards,Washington Wizards,Milwaukee Bucks,14,16,30,1482796800.0,2017
+Washington Wizards,Washington Wizards,Indiana Pacers,15,16,31,1482969600.0,2017
+Washington Wizards,Washington Wizards,Brooklyn Nets,16,16,32,1483142400.0,2017
+Washington Wizards,Houston Rockets,Washington Wizards,16,17,33,1483405200.0,2017
+Washington Wizards,Dallas Mavericks,Washington Wizards,16,18,34,1483493400.0,2017
+Washington Wizards,Washington Wizards,Minnesota Timberwolves,17,18,35,1483747200.0,2017
+Washington Wizards,Milwaukee Bucks,Washington Wizards,18,18,36,1483902000.0,2017
+Washington Wizards,Washington Wizards,Chicago Bulls,19,18,37,1484092800.0,2017
+Washington Wizards,Boston Celtics,Washington Wizards,19,19,38,1484182800.0,2017
+Washington Wizards,Washington Wizards,Philadelphia 76ers,20,19,39,1484442000.0,2017
+Washington Wizards,Washington Wizards,Portland Trail Blazers,21,19,40,1484593200.0,2017
+Washington Wizards,Washington Wizards,Memphis Grizzlies,22,19,41,1484784000.0,2017
+Washington Wizards,New York Knicks,Washington Wizards,23,19,42,1484874000.0,2017
+Washington Wizards,Detroit Pistons,Washington Wizards,23,20,43,1485039600.0,2017
+Washington Wizards,Charlotte Hornets,Washington Wizards,24,20,44,1485216000.0,2017
+Washington Wizards,Washington Wizards,Boston Celtics,25,20,45,1485302400.0,2017
+Washington Wizards,Atlanta Hawks,Washington Wizards,26,20,46,1485565200.0,2017
+Washington Wizards,New Orleans Pelicans,Washington Wizards,27,20,47,1485730800.0,2017
+Washington Wizards,Washington Wizards,New York Knicks,28,20,48,1485907200.0,2017
+Washington Wizards,Washington Wizards,Los Angeles Lakers,29,20,49,1486080000.0,2017
+Washington Wizards,Washington Wizards,New Orleans Pelicans,30,20,50,1486252800.0,2017
+Washington Wizards,Washington Wizards,Cleveland Cavaliers,30,21,51,1486425600.0,2017
+Washington Wizards,Brooklyn Nets,Washington Wizards,31,21,52,1486600200.0,2017
+Washington Wizards,Washington Wizards,Indiana Pacers,32,21,53,1486774800.0,2017
+Washington Wizards,Washington Wizards,Oklahoma City Thunder,33,21,54,1487034000.0,2017
+Washington Wizards,Indiana Pacers,Washington Wizards,34,21,55,1487289600.0,2017
+Washington Wizards,Philadelphia 76ers,Washington Wizards,34,22,56,1487980800.0,2017
+Washington Wizards,Washington Wizards,Utah Jazz,34,23,57,1488146400.0,2017
+Washington Wizards,Washington Wizards,Golden State Warriors,35,23,58,1488326400.0,2017
+Washington Wizards,Toronto Raptors,Washington Wizards,36,23,59,1488414600.0,2017
+Washington Wizards,Washington Wizards,Toronto Raptors,36,24,60,1488585600.0,2017
+Washington Wizards,Washington Wizards,Orlando Magic,37,24,61,1488751200.0,2017
+Washington Wizards,Phoenix Suns,Washington Wizards,38,24,62,1488938400.0,2017
+Washington Wizards,Denver Nuggets,Washington Wizards,39,24,63,1489024800.0,2017
+Washington Wizards,Sacramento Kings,Washington Wizards,40,24,64,1489203000.0,2017
+Washington Wizards,Portland Trail Blazers,Washington Wizards,41,24,65,1489287600.0,2017
+Washington Wizards,Minnesota Timberwolves,Washington Wizards,41,25,66,1489449600.0,2017
+Washington Wizards,Washington Wizards,Dallas Mavericks,41,26,67,1489618800.0,2017
+Washington Wizards,Washington Wizards,Chicago Bulls,42,26,68,1489791600.0,2017
+Washington Wizards,Charlotte Hornets,Washington Wizards,42,27,69,1489878000.0,2017
+Washington Wizards,Boston Celtics,Washington Wizards,42,28,70,1490052600.0,2017
+Washington Wizards,Washington Wizards,Atlanta Hawks,43,28,71,1490227200.0,2017
+Washington Wizards,Washington Wizards,Brooklyn Nets,44,28,72,1490396400.0,2017
+Washington Wizards,Cleveland Cavaliers,Washington Wizards,45,28,73,1490484600.0,2017
+Washington Wizards,Los Angeles Lakers,Washington Wizards,46,28,74,1490754600.0,2017
+Washington Wizards,Los Angeles Clippers,Washington Wizards,46,29,75,1490841000.0,2017
+Washington Wizards,Utah Jazz,Washington Wizards,46,30,76,1491008400.0,2017
+Washington Wizards,Golden State Warriors,Washington Wizards,46,31,77,1491177600.0,2017
+Washington Wizards,Washington Wizards,Charlotte Hornets,47,31,78,1491346800.0,2017
+Washington Wizards,New York Knicks,Washington Wizards,48,31,79,1491521400.0,2017
+Washington Wizards,Washington Wizards,Miami Heat,48,32,80,1491692400.0,2017
+Washington Wizards,Detroit Pistons,Washington Wizards,49,32,81,1491868800.0,2017
+Washington Wizards,Miami Heat,Washington Wizards,49,33,82,1492041600.0,2017

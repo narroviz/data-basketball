@@ -1,0 +1,1887 @@
+id,home_team,away_team,win,loss,game_number,date,year
+Atlanta Hawks,Atlanta Hawks,Chicago Bulls,1,0,1,340084800.0,1981
+Atlanta Hawks,Atlanta Hawks,Boston Celtics,2,0,2,340344000.0,1981
+Atlanta Hawks,Atlanta Hawks,New York Knicks,3,0,3,340603200.0,1981
+Atlanta Hawks,Detroit Pistons,Atlanta Hawks,4,0,4,340689600.0,1981
+Atlanta Hawks,Atlanta Hawks,Indiana Pacers,4,1,5,340948800.0,1981
+Atlanta Hawks,Indiana Pacers,Atlanta Hawks,4,2,6,341208000.0,1981
+Atlanta Hawks,Atlanta Hawks,Philadelphia 76ers,4,3,7,341294400.0,1981
+Atlanta Hawks,Atlanta Hawks,Kansas City Kings,5,3,8,341557200.0,1981
+Atlanta Hawks,New York Knicks,Atlanta Hawks,5,4,9,341730000.0,1981
+Atlanta Hawks,Philadelphia 76ers,Atlanta Hawks,5,5,10,341816400.0,1981
+Atlanta Hawks,Atlanta Hawks,Milwaukee Bucks,5,6,11,341902800.0,1981
+Atlanta Hawks,Washington Bullets,Atlanta Hawks,5,7,12,342162000.0,1981
+Atlanta Hawks,Boston Celtics,Atlanta Hawks,5,8,13,342248400.0,1981
+Atlanta Hawks,Chicago Bulls,Atlanta Hawks,5,9,14,342421200.0,1981
+Atlanta Hawks,New Jersey Nets,Atlanta Hawks,5,10,15,342507600.0,1981
+Atlanta Hawks,Atlanta Hawks,Los Angeles Lakers,5,11,16,342766800.0,1981
+Atlanta Hawks,Cleveland Cavaliers,Atlanta Hawks,5,12,17,342939600.0,1981
+Atlanta Hawks,Atlanta Hawks,Washington Bullets,5,13,18,343112400.0,1981
+Atlanta Hawks,Atlanta Hawks,San Antonio Spurs,6,13,19,343371600.0,1981
+Atlanta Hawks,Atlanta Hawks,Utah Jazz,7,13,20,343717200.0,1981
+Atlanta Hawks,Atlanta Hawks,Portland Trail Blazers,8,13,21,343976400.0,1981
+Atlanta Hawks,Indiana Pacers,Atlanta Hawks,8,14,22,344062800.0,1981
+Atlanta Hawks,Milwaukee Bucks,Atlanta Hawks,8,15,23,344235600.0,1981
+Atlanta Hawks,Atlanta Hawks,Detroit Pistons,8,16,24,344322000.0,1981
+Atlanta Hawks,Atlanta Hawks,Philadelphia 76ers,9,16,25,344581200.0,1981
+Atlanta Hawks,Boston Celtics,Atlanta Hawks,9,17,26,344667600.0,1981
+Atlanta Hawks,Philadelphia 76ers,Atlanta Hawks,9,18,27,344840400.0,1981
+Atlanta Hawks,Atlanta Hawks,Dallas Mavericks,10,18,28,344926800.0,1981
+Atlanta Hawks,Atlanta Hawks,San Diego Clippers,11,18,29,345186000.0,1981
+Atlanta Hawks,Detroit Pistons,Atlanta Hawks,12,18,30,345272400.0,1981
+Atlanta Hawks,Atlanta Hawks,Milwaukee Bucks,13,18,31,345531600.0,1981
+Atlanta Hawks,Atlanta Hawks,New Jersey Nets,14,18,32,345790800.0,1981
+Atlanta Hawks,Utah Jazz,Atlanta Hawks,15,18,33,345963600.0,1981
+Atlanta Hawks,Seattle Supersonics,Atlanta Hawks,15,19,34,346050000.0,1981
+Atlanta Hawks,Portland Trail Blazers,Atlanta Hawks,15,20,35,346136400.0,1981
+Atlanta Hawks,Atlanta Hawks,Washington Bullets,16,20,36,346395600.0,1981
+Atlanta Hawks,New Jersey Nets,Atlanta Hawks,17,20,37,346654800.0,1981
+Atlanta Hawks,Atlanta Hawks,Boston Celtics,17,21,38,346741200.0,1981
+Atlanta Hawks,Atlanta Hawks,Detroit Pistons,18,21,39,347000400.0,1981
+Atlanta Hawks,Atlanta Hawks,Indiana Pacers,18,22,40,347259600.0,1981
+Atlanta Hawks,New York Knicks,Atlanta Hawks,18,23,41,347346000.0,1981
+Atlanta Hawks,Atlanta Hawks,Phoenix Suns,18,24,42,347605200.0,1981
+Atlanta Hawks,Milwaukee Bucks,Atlanta Hawks,18,25,43,347778000.0,1981
+Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,18,26,44,347864400.0,1981
+Atlanta Hawks,Denver Nuggets,Atlanta Hawks,18,27,45,348210000.0,1981
+Atlanta Hawks,San Diego Clippers,Atlanta Hawks,18,28,46,348296400.0,1981
+Atlanta Hawks,Golden State Warriors,Atlanta Hawks,19,28,47,348469200.0,1981
+Atlanta Hawks,Phoenix Suns,Atlanta Hawks,19,29,48,348642000.0,1981
+Atlanta Hawks,Los Angeles Lakers,Atlanta Hawks,19,30,49,348901200.0,1981
+Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,19,31,50,349074000.0,1981
+Atlanta Hawks,Atlanta Hawks,Chicago Bulls,19,32,51,349160400.0,1981
+Atlanta Hawks,Atlanta Hawks,Washington Bullets,19,33,52,349419600.0,1981
+Atlanta Hawks,Atlanta Hawks,New York Knicks,19,34,53,349592400.0,1981
+Atlanta Hawks,Atlanta Hawks,Philadelphia 76ers,19,35,54,350024400.0,1981
+Atlanta Hawks,Dallas Mavericks,Atlanta Hawks,20,35,55,350283600.0,1981
+Atlanta Hawks,Houston Rockets,Atlanta Hawks,20,36,56,350370000.0,1981
+Atlanta Hawks,Atlanta Hawks,Golden State Warriors,21,36,57,350629200.0,1981
+Atlanta Hawks,San Antonio Spurs,Atlanta Hawks,21,37,58,350802000.0,1981
+Atlanta Hawks,Kansas City Kings,Atlanta Hawks,21,38,59,350888400.0,1981
+Atlanta Hawks,Philadelphia 76ers,Atlanta Hawks,21,39,60,351061200.0,1981
+Atlanta Hawks,Indiana Pacers,Atlanta Hawks,22,39,61,351320400.0,1981
+Atlanta Hawks,Cleveland Cavaliers,Atlanta Hawks,23,39,62,351579600.0,1981
+Atlanta Hawks,Chicago Bulls,Atlanta Hawks,24,39,63,351666000.0,1981
+Atlanta Hawks,Atlanta Hawks,New York Knicks,24,40,64,351838800.0,1981
+Atlanta Hawks,Atlanta Hawks,Boston Celtics,24,41,65,352098000.0,1981
+Atlanta Hawks,Atlanta Hawks,Seattle Supersonics,25,41,66,352270800.0,1981
+Atlanta Hawks,New York Knicks,Atlanta Hawks,26,41,67,352443600.0,1981
+Atlanta Hawks,Milwaukee Bucks,Atlanta Hawks,26,42,68,352616400.0,1981
+Atlanta Hawks,Atlanta Hawks,New Jersey Nets,27,42,69,352702800.0,1981
+Atlanta Hawks,Atlanta Hawks,Houston Rockets,28,42,70,352789200.0,1981
+Atlanta Hawks,Atlanta Hawks,Chicago Bulls,28,43,71,353048400.0,1981
+Atlanta Hawks,Detroit Pistons,Atlanta Hawks,28,44,72,353134800.0,1981
+Atlanta Hawks,Atlanta Hawks,Denver Nuggets,29,44,73,353307600.0,1981
+Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,29,45,74,353394000.0,1981
+Atlanta Hawks,Cleveland Cavaliers,Atlanta Hawks,29,46,75,353653200.0,1981
+Atlanta Hawks,Boston Celtics,Atlanta Hawks,30,46,76,353739600.0,1981
+Atlanta Hawks,New Jersey Nets,Atlanta Hawks,30,47,77,353912400.0,1981
+Atlanta Hawks,Washington Bullets,Atlanta Hawks,30,48,78,354085200.0,1981
+Atlanta Hawks,Atlanta Hawks,Detroit Pistons,31,48,79,354258000.0,1981
+Atlanta Hawks,Atlanta Hawks,Indiana Pacers,31,49,80,354430800.0,1981
+Atlanta Hawks,Chicago Bulls,Atlanta Hawks,31,50,81,354517200.0,1981
+Atlanta Hawks,Atlanta Hawks,Milwaukee Bucks,31,51,82,354690000.0,1981
+Boston Celtics,Boston Celtics,Cleveland Cavaliers,1,0,1,339998400.0,1981
+Boston Celtics,Atlanta Hawks,Boston Celtics,1,1,2,340344000.0,1981
+Boston Celtics,Milwaukee Bucks,Boston Celtics,2,1,3,340516800.0,1981
+Boston Celtics,Indiana Pacers,Boston Celtics,2,2,4,340689600.0,1981
+Boston Celtics,New Jersey Nets,Boston Celtics,3,2,5,341035200.0,1981
+Boston Celtics,Boston Celtics,New York Knicks,3,3,6,341121600.0,1981
+Boston Celtics,Washington Bullets,Boston Celtics,4,3,7,341294400.0,1981
+Boston Celtics,Detroit Pistons,Boston Celtics,5,3,8,341643600.0,1981
+Boston Celtics,Boston Celtics,Kansas City Kings,6,3,9,341816400.0,1981
+Boston Celtics,Philadelphia 76ers,Boston Celtics,6,4,10,341902800.0,1981
+Boston Celtics,Boston Celtics,Atlanta Hawks,7,4,11,342248400.0,1981
+Boston Celtics,Boston Celtics,Milwaukee Bucks,7,5,12,342421200.0,1981
+Boston Celtics,Boston Celtics,Chicago Bulls,8,5,13,342594000.0,1981
+Boston Celtics,Boston Celtics,Washington Bullets,9,5,14,342853200.0,1981
+Boston Celtics,Boston Celtics,New Jersey Nets,10,5,15,343026000.0,1981
+Boston Celtics,Chicago Bulls,Boston Celtics,11,5,16,343371600.0,1981
+Boston Celtics,Indiana Pacers,Boston Celtics,12,5,17,343458000.0,1981
+Boston Celtics,Boston Celtics,Golden State Warriors,13,5,18,343630800.0,1981
+Boston Celtics,Cleveland Cavaliers,Boston Celtics,13,6,19,343717200.0,1981
+Boston Celtics,Boston Celtics,Portland Trail Blazers,14,6,20,344062800.0,1981
+Boston Celtics,Boston Celtics,New York Knicks,15,6,21,344235600.0,1981
+Boston Celtics,Milwaukee Bucks,Boston Celtics,15,7,22,344408400.0,1981
+Boston Celtics,Detroit Pistons,Boston Celtics,16,7,23,344581200.0,1981
+Boston Celtics,Boston Celtics,Atlanta Hawks,17,7,24,344667600.0,1981
+Boston Celtics,Boston Celtics,Dallas Mavericks,18,7,25,344840400.0,1981
+Boston Celtics,Boston Celtics,Washington Bullets,18,8,26,345013200.0,1981
+Boston Celtics,Boston Celtics,Milwaukee Bucks,19,8,27,345186000.0,1981
+Boston Celtics,Washington Bullets,Boston Celtics,20,8,28,345272400.0,1981
+Boston Celtics,Boston Celtics,New Jersey Nets,21,8,29,345445200.0,1981
+Boston Celtics,Chicago Bulls,Boston Celtics,22,8,30,345531600.0,1981
+Boston Celtics,Boston Celtics,Chicago Bulls,23,8,31,345877200.0,1981
+Boston Celtics,Boston Celtics,Houston Rockets,24,8,32,346050000.0,1981
+Boston Celtics,Cleveland Cavaliers,Boston Celtics,25,8,33,346136400.0,1981
+Boston Celtics,Boston Celtics,Denver Nuggets,26,8,34,346395600.0,1981
+Boston Celtics,New York Knicks,Boston Celtics,27,8,35,346568400.0,1981
+Boston Celtics,Atlanta Hawks,Boston Celtics,28,8,36,346741200.0,1981
+Boston Celtics,Phoenix Suns,Boston Celtics,29,8,37,347000400.0,1981
+Boston Celtics,San Diego Clippers,Boston Celtics,30,8,38,347173200.0,1981
+Boston Celtics,Golden State Warriors,Boston Celtics,30,9,39,347259600.0,1981
+Boston Celtics,Portland Trail Blazers,Boston Celtics,31,9,40,347432400.0,1981
+Boston Celtics,Boston Celtics,Phoenix Suns,32,9,41,347691600.0,1981
+Boston Celtics,Boston Celtics,Chicago Bulls,33,9,42,347864400.0,1981
+Boston Celtics,New Jersey Nets,Boston Celtics,34,9,43,347950800.0,1981
+Boston Celtics,New York Knicks,Boston Celtics,35,9,44,348210000.0,1981
+Boston Celtics,Boston Celtics,Cleveland Cavaliers,36,9,45,348296400.0,1981
+Boston Celtics,Boston Celtics,San Antonio Spurs,37,9,46,348469200.0,1981
+Boston Celtics,Boston Celtics,Los Angeles Lakers,38,9,47,348642000.0,1981
+Boston Celtics,Boston Celtics,Detroit Pistons,39,9,48,348728400.0,1981
+Boston Celtics,Boston Celtics,Utah Jazz,40,9,49,348901200.0,1981
+Boston Celtics,Boston Celtics,Indiana Pacers,41,9,50,349074000.0,1981
+Boston Celtics,Boston Celtics,Seattle Supersonics,42,9,51,349246800.0,1981
+Boston Celtics,Boston Celtics,Philadelphia 76ers,43,9,52,349506000.0,1981
+Boston Celtics,Chicago Bulls,Boston Celtics,43,10,53,349592400.0,1981
+Boston Celtics,Philadelphia 76ers,Boston Celtics,43,11,54,350110800.0,1981
+Boston Celtics,Milwaukee Bucks,Boston Celtics,43,12,55,350197200.0,1981
+Boston Celtics,Boston Celtics,Indiana Pacers,44,12,56,350283600.0,1981
+Boston Celtics,Boston Celtics,San Diego Clippers,45,12,57,350456400.0,1981
+Boston Celtics,Seattle Supersonics,Boston Celtics,45,13,58,350629200.0,1981
+Boston Celtics,Los Angeles Lakers,Boston Celtics,46,13,59,350715600.0,1981
+Boston Celtics,Utah Jazz,Boston Celtics,46,14,60,350888400.0,1981
+Boston Celtics,Denver Nuggets,Boston Celtics,47,14,61,351061200.0,1981
+Boston Celtics,San Antonio Spurs,Boston Celtics,48,14,62,351234000.0,1981
+Boston Celtics,Kansas City Kings,Boston Celtics,48,15,63,351320400.0,1981
+Boston Celtics,Detroit Pistons,Boston Celtics,49,15,64,351579600.0,1981
+Boston Celtics,Boston Celtics,Cleveland Cavaliers,50,15,65,351925200.0,1981
+Boston Celtics,Atlanta Hawks,Boston Celtics,51,15,66,352098000.0,1981
+Boston Celtics,Boston Celtics,Philadelphia 76ers,52,15,67,352270800.0,1981
+Boston Celtics,Dallas Mavericks,Boston Celtics,53,15,68,352443600.0,1981
+Boston Celtics,Houston Rockets,Boston Celtics,54,15,69,352530000.0,1981
+Boston Celtics,Indiana Pacers,Boston Celtics,54,16,70,352702800.0,1981
+Boston Celtics,Boston Celtics,New York Knicks,55,16,71,352875600.0,1981
+Boston Celtics,Boston Celtics,Milwaukee Bucks,56,16,72,353134800.0,1981
+Boston Celtics,Boston Celtics,Indiana Pacers,56,17,73,353307600.0,1981
+Boston Celtics,Boston Celtics,New Jersey Nets,57,17,74,353480400.0,1981
+Boston Celtics,Washington Bullets,Boston Celtics,58,17,75,353653200.0,1981
+Boston Celtics,Boston Celtics,Atlanta Hawks,58,18,76,353739600.0,1981
+Boston Celtics,Boston Celtics,Washington Bullets,59,18,77,353912400.0,1981
+Boston Celtics,Philadelphia 76ers,Boston Celtics,59,19,78,354085200.0,1981
+Boston Celtics,New York Knicks,Boston Celtics,60,19,79,354258000.0,1981
+Boston Celtics,New Jersey Nets,Boston Celtics,61,19,80,354344400.0,1981
+Boston Celtics,Boston Celtics,Detroit Pistons,61,20,81,354517200.0,1981
+Boston Celtics,Boston Celtics,Philadelphia 76ers,62,20,82,354690000.0,1981
+Chicago Bulls,Atlanta Hawks,Chicago Bulls,0,1,1,340084800.0,1981
+Chicago Bulls,Indiana Pacers,Chicago Bulls,1,1,2,340430400.0,1981
+Chicago Bulls,Chicago Bulls,Cleveland Cavaliers,2,1,3,340603200.0,1981
+Chicago Bulls,Chicago Bulls,New Jersey Nets,2,2,4,340689600.0,1981
+Chicago Bulls,New York Knicks,Chicago Bulls,2,3,5,340948800.0,1981
+Chicago Bulls,Chicago Bulls,Washington Bullets,3,3,6,341208000.0,1981
+Chicago Bulls,Milwaukee Bucks,Chicago Bulls,3,4,7,341294400.0,1981
+Chicago Bulls,Chicago Bulls,Milwaukee Bucks,3,5,8,341557200.0,1981
+Chicago Bulls,Philadelphia 76ers,Chicago Bulls,3,6,9,341643600.0,1981
+Chicago Bulls,Chicago Bulls,Indiana Pacers,3,7,10,341816400.0,1981
+Chicago Bulls,Chicago Bulls,Detroit Pistons,4,7,11,341902800.0,1981
+Chicago Bulls,New Jersey Nets,Chicago Bulls,5,7,12,342248400.0,1981
+Chicago Bulls,Chicago Bulls,Atlanta Hawks,6,7,13,342421200.0,1981
+Chicago Bulls,Chicago Bulls,Denver Nuggets,6,8,14,342507600.0,1981
+Chicago Bulls,Boston Celtics,Chicago Bulls,6,9,15,342594000.0,1981
+Chicago Bulls,Chicago Bulls,Philadelphia 76ers,6,10,16,342766800.0,1981
+Chicago Bulls,Detroit Pistons,Chicago Bulls,6,11,17,343026000.0,1981
+Chicago Bulls,Milwaukee Bucks,Chicago Bulls,7,11,18,343198800.0,1981
+Chicago Bulls,Chicago Bulls,Boston Celtics,7,12,19,343371600.0,1981
+Chicago Bulls,Chicago Bulls,New York Knicks,8,12,20,343630800.0,1981
+Chicago Bulls,Chicago Bulls,Washington Bullets,9,12,21,343717200.0,1981
+Chicago Bulls,San Antonio Spurs,Chicago Bulls,9,13,22,344062800.0,1981
+Chicago Bulls,Phoenix Suns,Chicago Bulls,9,14,23,344235600.0,1981
+Chicago Bulls,Los Angeles Lakers,Chicago Bulls,10,14,24,344408400.0,1981
+Chicago Bulls,Denver Nuggets,Chicago Bulls,11,14,25,344581200.0,1981
+Chicago Bulls,Seattle Supersonics,Chicago Bulls,11,15,26,344667600.0,1981
+Chicago Bulls,Portland Trail Blazers,Chicago Bulls,11,16,27,344840400.0,1981
+Chicago Bulls,Chicago Bulls,Phoenix Suns,11,17,28,345186000.0,1981
+Chicago Bulls,Philadelphia 76ers,Chicago Bulls,11,18,29,345272400.0,1981
+Chicago Bulls,Chicago Bulls,Utah Jazz,12,18,30,345445200.0,1981
+Chicago Bulls,Chicago Bulls,Boston Celtics,12,19,31,345531600.0,1981
+Chicago Bulls,Washington Bullets,Chicago Bulls,13,19,32,345790800.0,1981
+Chicago Bulls,Boston Celtics,Chicago Bulls,13,20,33,345877200.0,1981
+Chicago Bulls,Chicago Bulls,Milwaukee Bucks,14,20,34,346050000.0,1981
+Chicago Bulls,Chicago Bulls,Houston Rockets,15,20,35,346136400.0,1981
+Chicago Bulls,Chicago Bulls,New York Knicks,16,20,36,346395600.0,1981
+Chicago Bulls,Cleveland Cavaliers,Chicago Bulls,17,20,37,346654800.0,1981
+Chicago Bulls,Chicago Bulls,Detroit Pistons,18,20,38,346741200.0,1981
+Chicago Bulls,Chicago Bulls,New Jersey Nets,19,20,39,347000400.0,1981
+Chicago Bulls,Washington Bullets,Chicago Bulls,20,20,40,347259600.0,1981
+Chicago Bulls,Chicago Bulls,San Antonio Spurs,20,21,41,347346000.0,1981
+Chicago Bulls,Chicago Bulls,San Diego Clippers,21,21,42,347605200.0,1981
+Chicago Bulls,Boston Celtics,Chicago Bulls,21,22,43,347864400.0,1981
+Chicago Bulls,Chicago Bulls,Philadelphia 76ers,21,23,44,347950800.0,1981
+Chicago Bulls,Dallas Mavericks,Chicago Bulls,21,24,45,348210000.0,1981
+Chicago Bulls,Houston Rockets,Chicago Bulls,21,25,46,348296400.0,1981
+Chicago Bulls,Chicago Bulls,Portland Trail Blazers,21,26,47,348469200.0,1981
+Chicago Bulls,Chicago Bulls,Cleveland Cavaliers,21,27,48,348555600.0,1981
+Chicago Bulls,Chicago Bulls,Indiana Pacers,22,27,49,348814800.0,1981
+Chicago Bulls,Detroit Pistons,Chicago Bulls,23,27,50,348987600.0,1981
+Chicago Bulls,Chicago Bulls,Dallas Mavericks,24,27,51,349074000.0,1981
+Chicago Bulls,Atlanta Hawks,Chicago Bulls,25,27,52,349160400.0,1981
+Chicago Bulls,Chicago Bulls,Golden State Warriors,26,27,53,349419600.0,1981
+Chicago Bulls,Chicago Bulls,Boston Celtics,27,27,54,349592400.0,1981
+Chicago Bulls,Cleveland Cavaliers,Chicago Bulls,28,27,55,350110800.0,1981
+Chicago Bulls,Chicago Bulls,New York Knicks,28,28,56,350283600.0,1981
+Chicago Bulls,Chicago Bulls,Detroit Pistons,29,28,57,350370000.0,1981
+Chicago Bulls,Milwaukee Bucks,Chicago Bulls,29,29,58,350456400.0,1981
+Chicago Bulls,Chicago Bulls,Kansas City Kings,30,29,59,350629200.0,1981
+Chicago Bulls,New Jersey Nets,Chicago Bulls,30,30,60,350715600.0,1981
+Chicago Bulls,Chicago Bulls,Seattle Supersonics,31,30,61,350974800.0,1981
+Chicago Bulls,Indiana Pacers,Chicago Bulls,31,31,62,351061200.0,1981
+Chicago Bulls,San Diego Clippers,Chicago Bulls,31,32,63,351234000.0,1981
+Chicago Bulls,Golden State Warriors,Chicago Bulls,31,33,64,351320400.0,1981
+Chicago Bulls,Utah Jazz,Chicago Bulls,32,33,65,351493200.0,1981
+Chicago Bulls,Chicago Bulls,Atlanta Hawks,32,34,66,351666000.0,1981
+Chicago Bulls,Chicago Bulls,Los Angeles Lakers,32,35,67,351838800.0,1981
+Chicago Bulls,Chicago Bulls,Washington Bullets,33,35,68,352098000.0,1981
+Chicago Bulls,New York Knicks,Chicago Bulls,34,35,69,352184400.0,1981
+Chicago Bulls,Chicago Bulls,New Jersey Nets,35,35,70,352443600.0,1981
+Chicago Bulls,Philadelphia 76ers,Chicago Bulls,36,35,71,352530000.0,1981
+Chicago Bulls,Washington Bullets,Chicago Bulls,36,36,72,352875600.0,1981
+Chicago Bulls,Atlanta Hawks,Chicago Bulls,37,36,73,353048400.0,1981
+Chicago Bulls,New York Knicks,Chicago Bulls,37,37,74,353307600.0,1981
+Chicago Bulls,Kansas City Kings,Chicago Bulls,38,37,75,353480400.0,1981
+Chicago Bulls,Chicago Bulls,Milwaukee Bucks,39,37,76,353653200.0,1981
+Chicago Bulls,Cleveland Cavaliers,Chicago Bulls,40,37,77,353826000.0,1981
+Chicago Bulls,Chicago Bulls,Philadelphia 76ers,41,37,78,353912400.0,1981
+Chicago Bulls,Detroit Pistons,Chicago Bulls,42,37,79,354085200.0,1981
+Chicago Bulls,Chicago Bulls,Cleveland Cavaliers,43,37,80,354258000.0,1981
+Chicago Bulls,Chicago Bulls,Atlanta Hawks,44,37,81,354517200.0,1981
+Chicago Bulls,Indiana Pacers,Chicago Bulls,45,37,82,354690000.0,1981
+Cleveland Cavaliers,Boston Celtics,Cleveland Cavaliers,0,1,1,339998400.0,1981
+Cleveland Cavaliers,Cleveland Cavaliers,New Jersey Nets,0,2,2,340084800.0,1981
+Cleveland Cavaliers,Cleveland Cavaliers,Detroit Pistons,1,2,3,340344000.0,1981
+Cleveland Cavaliers,Cleveland Cavaliers,Washington Bullets,2,2,4,340516800.0,1981
+Cleveland Cavaliers,Chicago Bulls,Cleveland Cavaliers,2,3,5,340603200.0,1981
+Cleveland Cavaliers,Cleveland Cavaliers,Milwaukee Bucks,2,4,6,340689600.0,1981
+Cleveland Cavaliers,Milwaukee Bucks,Cleveland Cavaliers,2,5,7,340948800.0,1981
+Cleveland Cavaliers,Washington Bullets,Cleveland Cavaliers,2,6,8,341035200.0,1981
+Cleveland Cavaliers,New Jersey Nets,Cleveland Cavaliers,3,6,9,341208000.0,1981
+Cleveland Cavaliers,Cleveland Cavaliers,Indiana Pacers,4,6,10,341294400.0,1981
+Cleveland Cavaliers,Cleveland Cavaliers,Philadelphia 76ers,4,7,11,341557200.0,1981
+Cleveland Cavaliers,Los Angeles Lakers,Cleveland Cavaliers,4,8,12,341816400.0,1981
+Cleveland Cavaliers,Portland Trail Blazers,Cleveland Cavaliers,4,9,13,341989200.0,1981
+Cleveland Cavaliers,Seattle Supersonics,Cleveland Cavaliers,4,10,14,342075600.0,1981
+Cleveland Cavaliers,Golden State Warriors,Cleveland Cavaliers,4,11,15,342248400.0,1981
+Cleveland Cavaliers,Utah Jazz,Cleveland Cavaliers,4,12,16,342334800.0,1981
+Cleveland Cavaliers,Kansas City Kings,Cleveland Cavaliers,4,13,17,342507600.0,1981
+Cleveland Cavaliers,Cleveland Cavaliers,Milwaukee Bucks,4,14,18,342766800.0,1981
+Cleveland Cavaliers,Cleveland Cavaliers,Atlanta Hawks,5,14,19,342939600.0,1981
+Cleveland Cavaliers,New York Knicks,Cleveland Cavaliers,5,15,20,343112400.0,1981
+Cleveland Cavaliers,Cleveland Cavaliers,San Diego Clippers,6,15,21,343371600.0,1981
+Cleveland Cavaliers,Cleveland Cavaliers,Houston Rockets,6,16,22,343544400.0,1981
+Cleveland Cavaliers,Cleveland Cavaliers,Boston Celtics,7,16,23,343717200.0,1981
+Cleveland Cavaliers,Cleveland Cavaliers,New York Knicks,7,17,24,344062800.0,1981
+Cleveland Cavaliers,Cleveland Cavaliers,Washington Bullets,8,17,25,344235600.0,1981
+Cleveland Cavaliers,Indiana Pacers,Cleveland Cavaliers,8,18,26,344322000.0,1981
+Cleveland Cavaliers,Dallas Mavericks,Cleveland Cavaliers,9,18,27,344581200.0,1981
+Cleveland Cavaliers,Houston Rockets,Cleveland Cavaliers,9,19,28,344667600.0,1981
+Cleveland Cavaliers,San Antonio Spurs,Cleveland Cavaliers,9,20,29,344754000.0,1981
+Cleveland Cavaliers,Cleveland Cavaliers,Detroit Pistons,10,20,30,344926800.0,1981
+Cleveland Cavaliers,Cleveland Cavaliers,Philadelphia 76ers,10,21,31,345186000.0,1981
+Cleveland Cavaliers,Cleveland Cavaliers,Indiana Pacers,10,22,32,345358800.0,1981
+Cleveland Cavaliers,Detroit Pistons,Cleveland Cavaliers,10,23,33,345445200.0,1981
+Cleveland Cavaliers,Cleveland Cavaliers,Utah Jazz,11,23,34,345531600.0,1981
+Cleveland Cavaliers,Philadelphia 76ers,Cleveland Cavaliers,11,24,35,345877200.0,1981
+Cleveland Cavaliers,Cleveland Cavaliers,Denver Nuggets,12,24,36,345963600.0,1981
+Cleveland Cavaliers,Cleveland Cavaliers,Boston Celtics,12,25,37,346136400.0,1981
+Cleveland Cavaliers,Cleveland Cavaliers,Kansas City Kings,12,26,38,346395600.0,1981
+Cleveland Cavaliers,Cleveland Cavaliers,Chicago Bulls,12,27,39,346654800.0,1981
+Cleveland Cavaliers,Cleveland Cavaliers,Dallas Mavericks,13,27,40,346914000.0,1981
+Cleveland Cavaliers,New Jersey Nets,Cleveland Cavaliers,14,27,41,347259600.0,1981
+Cleveland Cavaliers,Cleveland Cavaliers,Washington Bullets,15,27,42,347346000.0,1981
+Cleveland Cavaliers,Atlanta Hawks,Cleveland Cavaliers,16,27,43,347864400.0,1981
+Cleveland Cavaliers,Cleveland Cavaliers,New York Knicks,16,28,44,347950800.0,1981
+Cleveland Cavaliers,Cleveland Cavaliers,Los Angeles Lakers,16,29,45,348210000.0,1981
+Cleveland Cavaliers,Boston Celtics,Cleveland Cavaliers,16,30,46,348296400.0,1981
+Cleveland Cavaliers,Philadelphia 76ers,Cleveland Cavaliers,16,31,47,348469200.0,1981
+Cleveland Cavaliers,Chicago Bulls,Cleveland Cavaliers,17,31,48,348555600.0,1981
+Cleveland Cavaliers,Cleveland Cavaliers,Portland Trail Blazers,18,31,49,348814800.0,1981
+Cleveland Cavaliers,Cleveland Cavaliers,New Jersey Nets,19,31,50,348987600.0,1981
+Cleveland Cavaliers,Atlanta Hawks,Cleveland Cavaliers,20,31,51,349074000.0,1981
+Cleveland Cavaliers,Detroit Pistons,Cleveland Cavaliers,20,32,52,349160400.0,1981
+Cleveland Cavaliers,Cleveland Cavaliers,Indiana Pacers,21,32,53,349419600.0,1981
+Cleveland Cavaliers,Cleveland Cavaliers,Phoenix Suns,22,32,54,349592400.0,1981
+Cleveland Cavaliers,Cleveland Cavaliers,Chicago Bulls,22,33,55,350110800.0,1981
+Cleveland Cavaliers,Cleveland Cavaliers,Milwaukee Bucks,22,34,56,350283600.0,1981
+Cleveland Cavaliers,Indiana Pacers,Cleveland Cavaliers,22,35,57,350370000.0,1981
+Cleveland Cavaliers,Philadelphia 76ers,Cleveland Cavaliers,22,36,58,350715600.0,1981
+Cleveland Cavaliers,Cleveland Cavaliers,New York Knicks,22,37,59,350802000.0,1981
+Cleveland Cavaliers,Cleveland Cavaliers,Golden State Warriors,23,37,60,350974800.0,1981
+Cleveland Cavaliers,Cleveland Cavaliers,Detroit Pistons,24,37,61,351234000.0,1981
+Cleveland Cavaliers,New Jersey Nets,Cleveland Cavaliers,24,38,62,351320400.0,1981
+Cleveland Cavaliers,Cleveland Cavaliers,San Antonio Spurs,25,38,63,351406800.0,1981
+Cleveland Cavaliers,Cleveland Cavaliers,Atlanta Hawks,25,39,64,351579600.0,1981
+Cleveland Cavaliers,Boston Celtics,Cleveland Cavaliers,25,40,65,351925200.0,1981
+Cleveland Cavaliers,Detroit Pistons,Cleveland Cavaliers,25,41,66,352098000.0,1981
+Cleveland Cavaliers,Denver Nuggets,Cleveland Cavaliers,25,42,67,352270800.0,1981
+Cleveland Cavaliers,Phoenix Suns,Cleveland Cavaliers,25,43,68,352530000.0,1981
+Cleveland Cavaliers,San Diego Clippers,Cleveland Cavaliers,25,44,69,352702800.0,1981
+Cleveland Cavaliers,Milwaukee Bucks,Cleveland Cavaliers,25,45,70,352962000.0,1981
+Cleveland Cavaliers,Cleveland Cavaliers,Seattle Supersonics,25,46,71,353134800.0,1981
+Cleveland Cavaliers,Cleveland Cavaliers,New Jersey Nets,25,47,72,353307600.0,1981
+Cleveland Cavaliers,Atlanta Hawks,Cleveland Cavaliers,26,47,73,353394000.0,1981
+Cleveland Cavaliers,Washington Bullets,Cleveland Cavaliers,27,47,74,353480400.0,1981
+Cleveland Cavaliers,Cleveland Cavaliers,Atlanta Hawks,28,47,75,353653200.0,1981
+Cleveland Cavaliers,Cleveland Cavaliers,Chicago Bulls,28,48,76,353826000.0,1981
+Cleveland Cavaliers,New York Knicks,Cleveland Cavaliers,28,49,77,353998800.0,1981
+Cleveland Cavaliers,Indiana Pacers,Cleveland Cavaliers,28,50,78,354085200.0,1981
+Cleveland Cavaliers,Chicago Bulls,Cleveland Cavaliers,28,51,79,354258000.0,1981
+Cleveland Cavaliers,Milwaukee Bucks,Cleveland Cavaliers,28,52,80,354430800.0,1981
+Cleveland Cavaliers,Cleveland Cavaliers,Philadelphia 76ers,28,53,81,354517200.0,1981
+Cleveland Cavaliers,Washington Bullets,Cleveland Cavaliers,28,54,82,354690000.0,1981
+Dallas Mavericks,Dallas Mavericks,San Antonio Spurs,1,0,1,340084800.0,1981
+Dallas Mavericks,Dallas Mavericks,Seattle Supersonics,1,1,2,340344000.0,1981
+Dallas Mavericks,Denver Nuggets,Dallas Mavericks,1,2,3,340430400.0,1981
+Dallas Mavericks,Dallas Mavericks,Kansas City Kings,1,3,4,340603200.0,1981
+Dallas Mavericks,San Antonio Spurs,Dallas Mavericks,1,4,5,340689600.0,1981
+Dallas Mavericks,Phoenix Suns,Dallas Mavericks,1,5,6,340948800.0,1981
+Dallas Mavericks,Seattle Supersonics,Dallas Mavericks,2,5,7,341035200.0,1981
+Dallas Mavericks,Portland Trail Blazers,Dallas Mavericks,2,6,8,341208000.0,1981
+Dallas Mavericks,Golden State Warriors,Dallas Mavericks,2,7,9,341294400.0,1981
+Dallas Mavericks,Dallas Mavericks,Utah Jazz,2,8,10,341557200.0,1981
+Dallas Mavericks,Houston Rockets,Dallas Mavericks,2,9,11,341643600.0,1981
+Dallas Mavericks,Utah Jazz,Dallas Mavericks,2,10,12,341816400.0,1981
+Dallas Mavericks,Dallas Mavericks,San Diego Clippers,2,11,13,342162000.0,1981
+Dallas Mavericks,Washington Bullets,Dallas Mavericks,2,12,14,342334800.0,1981
+Dallas Mavericks,Dallas Mavericks,Los Angeles Lakers,2,13,15,342421200.0,1981
+Dallas Mavericks,Detroit Pistons,Dallas Mavericks,2,14,16,342507600.0,1981
+Dallas Mavericks,Dallas Mavericks,Houston Rockets,2,15,17,342766800.0,1981
+Dallas Mavericks,Dallas Mavericks,Portland Trail Blazers,3,15,18,343026000.0,1981
+Dallas Mavericks,Los Angeles Lakers,Dallas Mavericks,3,16,19,343198800.0,1981
+Dallas Mavericks,Dallas Mavericks,Phoenix Suns,3,17,20,343371600.0,1981
+Dallas Mavericks,Dallas Mavericks,Seattle Supersonics,3,18,21,343630800.0,1981
+Dallas Mavericks,Portland Trail Blazers,Dallas Mavericks,3,19,22,343803600.0,1981
+Dallas Mavericks,Dallas Mavericks,Philadelphia 76ers,3,20,23,343976400.0,1981
+Dallas Mavericks,Dallas Mavericks,Denver Nuggets,3,21,24,344235600.0,1981
+Dallas Mavericks,Houston Rockets,Dallas Mavericks,3,22,25,344322000.0,1981
+Dallas Mavericks,Dallas Mavericks,Cleveland Cavaliers,3,23,26,344581200.0,1981
+Dallas Mavericks,Boston Celtics,Dallas Mavericks,3,24,27,344840400.0,1981
+Dallas Mavericks,Atlanta Hawks,Dallas Mavericks,3,25,28,344926800.0,1981
+Dallas Mavericks,Dallas Mavericks,Los Angeles Lakers,3,26,29,345186000.0,1981
+Dallas Mavericks,Denver Nuggets,Dallas Mavericks,3,27,30,345272400.0,1981
+Dallas Mavericks,Dallas Mavericks,San Diego Clippers,4,27,31,345445200.0,1981
+Dallas Mavericks,Kansas City Kings,Dallas Mavericks,4,28,32,345531600.0,1981
+Dallas Mavericks,Dallas Mavericks,San Antonio Spurs,4,29,33,345790800.0,1981
+Dallas Mavericks,Phoenix Suns,Dallas Mavericks,4,30,34,345877200.0,1981
+Dallas Mavericks,San Diego Clippers,Dallas Mavericks,4,31,35,345963600.0,1981
+Dallas Mavericks,Dallas Mavericks,Golden State Warriors,4,32,36,346136400.0,1981
+Dallas Mavericks,Dallas Mavericks,Utah Jazz,4,33,37,346395600.0,1981
+Dallas Mavericks,Dallas Mavericks,Denver Nuggets,5,33,38,346654800.0,1981
+Dallas Mavericks,Milwaukee Bucks,Dallas Mavericks,5,34,39,346741200.0,1981
+Dallas Mavericks,Cleveland Cavaliers,Dallas Mavericks,5,35,40,346914000.0,1981
+Dallas Mavericks,New York Knicks,Dallas Mavericks,5,36,41,347000400.0,1981
+Dallas Mavericks,Dallas Mavericks,Houston Rockets,5,37,42,347259600.0,1981
+Dallas Mavericks,Seattle Supersonics,Dallas Mavericks,5,38,43,347518800.0,1981
+Dallas Mavericks,Golden State Warriors,Dallas Mavericks,6,38,44,347691600.0,1981
+Dallas Mavericks,Utah Jazz,Dallas Mavericks,6,39,45,347778000.0,1981
+Dallas Mavericks,Dallas Mavericks,Washington Bullets,6,40,46,347950800.0,1981
+Dallas Mavericks,Dallas Mavericks,Chicago Bulls,7,40,47,348210000.0,1981
+Dallas Mavericks,Dallas Mavericks,New York Knicks,8,40,48,348469200.0,1981
+Dallas Mavericks,San Diego Clippers,Dallas Mavericks,8,41,49,348642000.0,1981
+Dallas Mavericks,Dallas Mavericks,Kansas City Kings,8,42,50,348814800.0,1981
+Dallas Mavericks,Chicago Bulls,Dallas Mavericks,8,43,51,349074000.0,1981
+Dallas Mavericks,Indiana Pacers,Dallas Mavericks,8,44,52,349160400.0,1981
+Dallas Mavericks,Dallas Mavericks,New Jersey Nets,8,45,53,349419600.0,1981
+Dallas Mavericks,Dallas Mavericks,Kansas City Kings,8,46,54,350024400.0,1981
+Dallas Mavericks,Houston Rockets,Dallas Mavericks,8,47,55,350110800.0,1981
+Dallas Mavericks,Dallas Mavericks,Atlanta Hawks,8,48,56,350283600.0,1981
+Dallas Mavericks,San Antonio Spurs,Dallas Mavericks,8,49,57,350456400.0,1981
+Dallas Mavericks,Dallas Mavericks,Detroit Pistons,8,50,58,350629200.0,1981
+Dallas Mavericks,Phoenix Suns,Dallas Mavericks,8,51,59,350715600.0,1981
+Dallas Mavericks,Dallas Mavericks,San Antonio Spurs,8,52,60,350974800.0,1981
+Dallas Mavericks,Los Angeles Lakers,Dallas Mavericks,8,53,61,351061200.0,1981
+Dallas Mavericks,Dallas Mavericks,Milwaukee Bucks,8,54,62,351234000.0,1981
+Dallas Mavericks,Philadelphia 76ers,Dallas Mavericks,8,55,63,351493200.0,1981
+Dallas Mavericks,New Jersey Nets,Dallas Mavericks,9,55,64,351666000.0,1981
+Dallas Mavericks,Dallas Mavericks,Seattle Supersonics,9,56,65,351838800.0,1981
+Dallas Mavericks,Kansas City Kings,Dallas Mavericks,9,57,66,352011600.0,1981
+Dallas Mavericks,Dallas Mavericks,Indiana Pacers,9,58,67,352098000.0,1981
+Dallas Mavericks,Dallas Mavericks,San Diego Clippers,10,58,68,352270800.0,1981
+Dallas Mavericks,Dallas Mavericks,Boston Celtics,10,59,69,352443600.0,1981
+Dallas Mavericks,Golden State Warriors,Dallas Mavericks,10,60,70,352702800.0,1981
+Dallas Mavericks,San Antonio Spurs,Dallas Mavericks,10,61,71,352875600.0,1981
+Dallas Mavericks,Dallas Mavericks,Phoenix Suns,11,61,72,353048400.0,1981
+Dallas Mavericks,Dallas Mavericks,Golden State Warriors,12,61,73,353221200.0,1981
+Dallas Mavericks,Portland Trail Blazers,Dallas Mavericks,12,62,74,353480400.0,1981
+Dallas Mavericks,Dallas Mavericks,Los Angeles Lakers,12,63,75,353653200.0,1981
+Dallas Mavericks,Utah Jazz,Dallas Mavericks,12,64,76,353739600.0,1981
+Dallas Mavericks,Dallas Mavericks,Denver Nuggets,13,64,77,353912400.0,1981
+Dallas Mavericks,Dallas Mavericks,Utah Jazz,14,64,78,353998800.0,1981
+Dallas Mavericks,Dallas Mavericks,Houston Rockets,14,65,79,354258000.0,1981
+Dallas Mavericks,Denver Nuggets,Dallas Mavericks,15,65,80,354344400.0,1981
+Dallas Mavericks,Dallas Mavericks,Portland Trail Blazers,15,66,81,354517200.0,1981
+Dallas Mavericks,Kansas City Kings,Dallas Mavericks,15,67,82,354690000.0,1981
+Denver Nuggets,Denver Nuggets,San Antonio Spurs,0,1,1,339998400.0,1981
+Denver Nuggets,Denver Nuggets,Utah Jazz,0,2,2,340171200.0,1981
+Denver Nuggets,Denver Nuggets,Dallas Mavericks,1,2,3,340430400.0,1981
+Denver Nuggets,San Diego Clippers,Denver Nuggets,2,2,4,340603200.0,1981
+Denver Nuggets,Utah Jazz,Denver Nuggets,2,3,5,340689600.0,1981
+Denver Nuggets,Denver Nuggets,Houston Rockets,2,4,6,340948800.0,1981
+Denver Nuggets,Denver Nuggets,Phoenix Suns,2,5,7,341208000.0,1981
+Denver Nuggets,Kansas City Kings,Denver Nuggets,2,6,8,341294400.0,1981
+Denver Nuggets,Golden State Warriors,Denver Nuggets,2,7,9,341643600.0,1981
+Denver Nuggets,Denver Nuggets,Seattle Supersonics,3,7,10,341902800.0,1981
+Denver Nuggets,Los Angeles Lakers,Denver Nuggets,4,7,11,341989200.0,1981
+Denver Nuggets,Seattle Supersonics,Denver Nuggets,5,7,12,342248400.0,1981
+Denver Nuggets,Denver Nuggets,New York Knicks,5,8,13,342421200.0,1981
+Denver Nuggets,Chicago Bulls,Denver Nuggets,6,8,14,342507600.0,1981
+Denver Nuggets,Washington Bullets,Denver Nuggets,6,9,15,342766800.0,1981
+Denver Nuggets,New Jersey Nets,Denver Nuggets,6,10,16,342853200.0,1981
+Denver Nuggets,Denver Nuggets,Portland Trail Blazers,7,10,17,343112400.0,1981
+Denver Nuggets,Portland Trail Blazers,Denver Nuggets,7,11,18,343371600.0,1981
+Denver Nuggets,Denver Nuggets,Kansas City Kings,8,11,19,343630800.0,1981
+Denver Nuggets,Phoenix Suns,Denver Nuggets,8,12,20,343803600.0,1981
+Denver Nuggets,San Diego Clippers,Denver Nuggets,8,13,21,343976400.0,1981
+Denver Nuggets,Denver Nuggets,San Diego Clippers,9,13,22,344062800.0,1981
+Denver Nuggets,Dallas Mavericks,Denver Nuggets,10,13,23,344235600.0,1981
+Denver Nuggets,Denver Nuggets,Los Angeles Lakers,10,14,24,344322000.0,1981
+Denver Nuggets,Denver Nuggets,Chicago Bulls,10,15,25,344581200.0,1981
+Denver Nuggets,Utah Jazz,Denver Nuggets,10,16,26,344754000.0,1981
+Denver Nuggets,Denver Nuggets,Golden State Warriors,10,17,27,344840400.0,1981
+Denver Nuggets,Houston Rockets,Denver Nuggets,10,18,28,344926800.0,1981
+Denver Nuggets,Denver Nuggets,Dallas Mavericks,11,18,29,345272400.0,1981
+Denver Nuggets,San Antonio Spurs,Denver Nuggets,11,19,30,345531600.0,1981
+Denver Nuggets,Denver Nuggets,Kansas City Kings,11,20,31,345790800.0,1981
+Denver Nuggets,Cleveland Cavaliers,Denver Nuggets,11,21,32,345963600.0,1981
+Denver Nuggets,New York Knicks,Denver Nuggets,11,22,33,346136400.0,1981
+Denver Nuggets,Boston Celtics,Denver Nuggets,11,23,34,346395600.0,1981
+Denver Nuggets,Dallas Mavericks,Denver Nuggets,11,24,35,346654800.0,1981
+Denver Nuggets,Denver Nuggets,Philadelphia 76ers,12,24,36,346741200.0,1981
+Denver Nuggets,Denver Nuggets,Indiana Pacers,13,24,37,347000400.0,1981
+Denver Nuggets,Portland Trail Blazers,Denver Nuggets,13,25,38,347173200.0,1981
+Denver Nuggets,Denver Nuggets,Phoenix Suns,13,26,39,347259600.0,1981
+Denver Nuggets,Houston Rockets,Denver Nuggets,14,26,40,347346000.0,1981
+Denver Nuggets,Denver Nuggets,Utah Jazz,14,27,41,347691600.0,1981
+Denver Nuggets,San Diego Clippers,Denver Nuggets,15,27,42,347864400.0,1981
+Denver Nuggets,Seattle Supersonics,Denver Nuggets,15,28,43,347950800.0,1981
+Denver Nuggets,Denver Nuggets,Atlanta Hawks,16,28,44,348210000.0,1981
+Denver Nuggets,Phoenix Suns,Denver Nuggets,16,29,45,348296400.0,1981
+Denver Nuggets,Kansas City Kings,Denver Nuggets,17,29,46,348555600.0,1981
+Denver Nuggets,Denver Nuggets,Houston Rockets,17,30,47,348642000.0,1981
+Denver Nuggets,Denver Nuggets,San Diego Clippers,17,31,48,348901200.0,1981
+Denver Nuggets,Los Angeles Lakers,Denver Nuggets,17,32,49,349074000.0,1981
+Denver Nuggets,Denver Nuggets,San Antonio Spurs,18,32,50,349160400.0,1981
+Denver Nuggets,Denver Nuggets,Detroit Pistons,19,32,51,349419600.0,1981
+Denver Nuggets,Denver Nuggets,Milwaukee Bucks,20,32,52,349592400.0,1981
+Denver Nuggets,Houston Rockets,Denver Nuggets,20,33,53,350024400.0,1981
+Denver Nuggets,Denver Nuggets,San Antonio Spurs,20,34,54,350110800.0,1981
+Denver Nuggets,Utah Jazz,Denver Nuggets,21,34,55,350283600.0,1981
+Denver Nuggets,Denver Nuggets,Golden State Warriors,22,34,56,350370000.0,1981
+Denver Nuggets,Seattle Supersonics,Denver Nuggets,22,35,57,350456400.0,1981
+Denver Nuggets,Denver Nuggets,Washington Bullets,22,36,58,350629200.0,1981
+Denver Nuggets,Denver Nuggets,Portland Trail Blazers,23,36,59,350888400.0,1981
+Denver Nuggets,Denver Nuggets,Boston Celtics,23,37,60,351061200.0,1981
+Denver Nuggets,Denver Nuggets,Phoenix Suns,24,37,61,351406800.0,1981
+Denver Nuggets,Denver Nuggets,Kansas City Kings,25,37,62,351579600.0,1981
+Denver Nuggets,San Antonio Spurs,Denver Nuggets,25,38,63,351666000.0,1981
+Denver Nuggets,Denver Nuggets,New Jersey Nets,26,38,64,351838800.0,1981
+Denver Nuggets,Denver Nuggets,Golden State Warriors,27,38,65,352098000.0,1981
+Denver Nuggets,Denver Nuggets,Cleveland Cavaliers,28,38,66,352270800.0,1981
+Denver Nuggets,Denver Nuggets,Los Angeles Lakers,29,38,67,352530000.0,1981
+Denver Nuggets,Philadelphia 76ers,Denver Nuggets,29,39,68,352702800.0,1981
+Denver Nuggets,Detroit Pistons,Denver Nuggets,30,39,69,352789200.0,1981
+Denver Nuggets,Indiana Pacers,Denver Nuggets,30,40,70,352875600.0,1981
+Denver Nuggets,Denver Nuggets,Portland Trail Blazers,30,41,71,353048400.0,1981
+Denver Nuggets,Milwaukee Bucks,Denver Nuggets,30,42,72,353221200.0,1981
+Denver Nuggets,Atlanta Hawks,Denver Nuggets,30,43,73,353307600.0,1981
+Denver Nuggets,Denver Nuggets,Houston Rockets,31,43,74,353480400.0,1981
+Denver Nuggets,Denver Nuggets,Seattle Supersonics,32,43,75,353653200.0,1981
+Denver Nuggets,Kansas City Kings,Denver Nuggets,33,43,76,353739600.0,1981
+Denver Nuggets,Dallas Mavericks,Denver Nuggets,33,44,77,353912400.0,1981
+Denver Nuggets,Denver Nuggets,Utah Jazz,34,44,78,354085200.0,1981
+Denver Nuggets,San Antonio Spurs,Denver Nuggets,35,44,79,354258000.0,1981
+Denver Nuggets,Denver Nuggets,Dallas Mavericks,35,45,80,354344400.0,1981
+Denver Nuggets,Golden State Warriors,Denver Nuggets,36,45,81,354603600.0,1981
+Denver Nuggets,Los Angeles Lakers,Denver Nuggets,37,45,82,354690000.0,1981
+Detroit Pistons,Detroit Pistons,Washington Bullets,0,1,1,339998400.0,1981
+Detroit Pistons,Indiana Pacers,Detroit Pistons,0,2,2,340084800.0,1981
+Detroit Pistons,New Jersey Nets,Detroit Pistons,0,3,3,340257600.0,1981
+Detroit Pistons,Cleveland Cavaliers,Detroit Pistons,0,4,4,340344000.0,1981
+Detroit Pistons,Detroit Pistons,San Antonio Spurs,0,5,5,340516800.0,1981
+Detroit Pistons,Detroit Pistons,Atlanta Hawks,0,6,6,340689600.0,1981
+Detroit Pistons,Detroit Pistons,Philadelphia 76ers,0,7,7,341035200.0,1981
+Detroit Pistons,Houston Rockets,Detroit Pistons,1,7,8,341294400.0,1981
+Detroit Pistons,Detroit Pistons,Boston Celtics,1,8,9,341643600.0,1981
+Detroit Pistons,Detroit Pistons,Phoenix Suns,1,9,10,341816400.0,1981
+Detroit Pistons,Chicago Bulls,Detroit Pistons,1,10,11,341902800.0,1981
+Detroit Pistons,Milwaukee Bucks,Detroit Pistons,2,10,12,342162000.0,1981
+Detroit Pistons,Philadelphia 76ers,Detroit Pistons,2,11,13,342248400.0,1981
+Detroit Pistons,Washington Bullets,Detroit Pistons,2,12,14,342421200.0,1981
+Detroit Pistons,Detroit Pistons,Dallas Mavericks,3,12,15,342507600.0,1981
+Detroit Pistons,New York Knicks,Detroit Pistons,3,13,16,342766800.0,1981
+Detroit Pistons,Detroit Pistons,Milwaukee Bucks,3,14,17,342853200.0,1981
+Detroit Pistons,Detroit Pistons,Chicago Bulls,4,14,18,343026000.0,1981
+Detroit Pistons,New Jersey Nets,Detroit Pistons,4,15,19,343198800.0,1981
+Detroit Pistons,Detroit Pistons,Indiana Pacers,4,16,20,343371600.0,1981
+Detroit Pistons,Detroit Pistons,San Diego Clippers,5,16,21,343544400.0,1981
+Detroit Pistons,Detroit Pistons,New Jersey Nets,6,16,22,343717200.0,1981
+Detroit Pistons,Detroit Pistons,Utah Jazz,6,17,23,344062800.0,1981
+Detroit Pistons,Detroit Pistons,Kansas City Kings,7,17,24,344235600.0,1981
+Detroit Pistons,Atlanta Hawks,Detroit Pistons,8,17,25,344322000.0,1981
+Detroit Pistons,Detroit Pistons,Boston Celtics,8,18,26,344581200.0,1981
+Detroit Pistons,Washington Bullets,Detroit Pistons,8,19,27,344840400.0,1981
+Detroit Pistons,Cleveland Cavaliers,Detroit Pistons,8,20,28,344926800.0,1981
+Detroit Pistons,Detroit Pistons,Atlanta Hawks,8,21,29,345272400.0,1981
+Detroit Pistons,Detroit Pistons,Cleveland Cavaliers,9,21,30,345445200.0,1981
+Detroit Pistons,New York Knicks,Detroit Pistons,9,22,31,345531600.0,1981
+Detroit Pistons,Detroit Pistons,New York Knicks,9,23,32,345877200.0,1981
+Detroit Pistons,Milwaukee Bucks,Detroit Pistons,9,24,33,345963600.0,1981
+Detroit Pistons,Detroit Pistons,Indiana Pacers,10,24,34,346050000.0,1981
+Detroit Pistons,San Diego Clippers,Detroit Pistons,10,25,35,346222800.0,1981
+Detroit Pistons,Phoenix Suns,Detroit Pistons,10,26,36,346395600.0,1981
+Detroit Pistons,Detroit Pistons,Houston Rockets,10,27,37,346654800.0,1981
+Detroit Pistons,Chicago Bulls,Detroit Pistons,10,28,38,346741200.0,1981
+Detroit Pistons,Atlanta Hawks,Detroit Pistons,10,29,39,347000400.0,1981
+Detroit Pistons,Detroit Pistons,New York Knicks,11,29,40,347259600.0,1981
+Detroit Pistons,Portland Trail Blazers,Detroit Pistons,11,30,41,347605200.0,1981
+Detroit Pistons,Seattle Supersonics,Detroit Pistons,11,31,42,347691600.0,1981
+Detroit Pistons,Golden State Warriors,Detroit Pistons,11,32,43,347950800.0,1981
+Detroit Pistons,Los Angeles Lakers,Detroit Pistons,11,33,44,348037200.0,1981
+Detroit Pistons,Detroit Pistons,Milwaukee Bucks,11,34,45,348210000.0,1981
+Detroit Pistons,Indiana Pacers,Detroit Pistons,11,35,46,348296400.0,1981
+Detroit Pistons,Detroit Pistons,Washington Bullets,11,36,47,348382800.0,1981
+Detroit Pistons,Detroit Pistons,New Jersey Nets,11,37,48,348555600.0,1981
+Detroit Pistons,Boston Celtics,Detroit Pistons,11,38,49,348728400.0,1981
+Detroit Pistons,Detroit Pistons,Philadelphia 76ers,12,38,50,348814800.0,1981
+Detroit Pistons,Detroit Pistons,Chicago Bulls,12,39,51,348987600.0,1981
+Detroit Pistons,Detroit Pistons,Cleveland Cavaliers,13,39,52,349160400.0,1981
+Detroit Pistons,Utah Jazz,Detroit Pistons,13,40,53,349333200.0,1981
+Detroit Pistons,Denver Nuggets,Detroit Pistons,13,41,54,349419600.0,1981
+Detroit Pistons,Detroit Pistons,Golden State Warriors,13,42,55,349592400.0,1981
+Detroit Pistons,San Antonio Spurs,Detroit Pistons,13,43,56,350024400.0,1981
+Detroit Pistons,Kansas City Kings,Detroit Pistons,13,44,57,350110800.0,1981
+Detroit Pistons,Detroit Pistons,Los Angeles Lakers,13,45,58,350283600.0,1981
+Detroit Pistons,Chicago Bulls,Detroit Pistons,13,46,59,350370000.0,1981
+Detroit Pistons,Detroit Pistons,Indiana Pacers,13,47,60,350456400.0,1981
+Detroit Pistons,Dallas Mavericks,Detroit Pistons,14,47,61,350629200.0,1981
+Detroit Pistons,New York Knicks,Detroit Pistons,14,48,62,350888400.0,1981
+Detroit Pistons,Detroit Pistons,Washington Bullets,15,48,63,350974800.0,1981
+Detroit Pistons,Cleveland Cavaliers,Detroit Pistons,15,49,64,351234000.0,1981
+Detroit Pistons,Philadelphia 76ers,Detroit Pistons,15,50,65,351320400.0,1981
+Detroit Pistons,Detroit Pistons,Portland Trail Blazers,15,51,66,351406800.0,1981
+Detroit Pistons,Detroit Pistons,Boston Celtics,15,52,67,351579600.0,1981
+Detroit Pistons,Detroit Pistons,Cleveland Cavaliers,16,52,68,352098000.0,1981
+Detroit Pistons,New Jersey Nets,Detroit Pistons,17,52,69,352270800.0,1981
+Detroit Pistons,Milwaukee Bucks,Detroit Pistons,17,53,70,352443600.0,1981
+Detroit Pistons,Detroit Pistons,New York Knicks,17,54,71,352616400.0,1981
+Detroit Pistons,Detroit Pistons,Denver Nuggets,17,55,72,352789200.0,1981
+Detroit Pistons,Detroit Pistons,Atlanta Hawks,18,55,73,353134800.0,1981
+Detroit Pistons,Detroit Pistons,Seattle Supersonics,18,56,74,353307600.0,1981
+Detroit Pistons,Indiana Pacers,Detroit Pistons,19,56,75,353394000.0,1981
+Detroit Pistons,Detroit Pistons,New Jersey Nets,20,56,76,353739600.0,1981
+Detroit Pistons,Detroit Pistons,Milwaukee Bucks,20,57,77,353912400.0,1981
+Detroit Pistons,Detroit Pistons,Chicago Bulls,20,58,78,354085200.0,1981
+Detroit Pistons,Atlanta Hawks,Detroit Pistons,20,59,79,354258000.0,1981
+Detroit Pistons,Philadelphia 76ers,Detroit Pistons,20,60,80,354344400.0,1981
+Detroit Pistons,Boston Celtics,Detroit Pistons,21,60,81,354517200.0,1981
+Detroit Pistons,Washington Bullets,Detroit Pistons,21,61,82,354603600.0,1981
+Golden State Warriors,Phoenix Suns,Golden State Warriors,0,1,1,339998400.0,1981
+Golden State Warriors,Golden State Warriors,San Diego Clippers,1,1,2,340084800.0,1981
+Golden State Warriors,Golden State Warriors,Portland Trail Blazers,2,1,3,340430400.0,1981
+Golden State Warriors,Golden State Warriors,Houston Rockets,3,1,4,340689600.0,1981
+Golden State Warriors,Los Angeles Lakers,Golden State Warriors,3,2,5,340776000.0,1981
+Golden State Warriors,Kansas City Kings,Golden State Warriors,4,2,6,340948800.0,1981
+Golden State Warriors,San Antonio Spurs,Golden State Warriors,4,3,7,341121600.0,1981
+Golden State Warriors,Golden State Warriors,Dallas Mavericks,5,3,8,341294400.0,1981
+Golden State Warriors,Seattle Supersonics,Golden State Warriors,5,4,9,341557200.0,1981
+Golden State Warriors,Golden State Warriors,Denver Nuggets,6,4,10,341643600.0,1981
+Golden State Warriors,San Diego Clippers,Golden State Warriors,6,5,11,341816400.0,1981
+Golden State Warriors,Golden State Warriors,San Antonio Spurs,7,5,12,341902800.0,1981
+Golden State Warriors,Golden State Warriors,Cleveland Cavaliers,8,5,13,342248400.0,1981
+Golden State Warriors,Portland Trail Blazers,Golden State Warriors,8,6,14,342421200.0,1981
+Golden State Warriors,Golden State Warriors,Indiana Pacers,9,6,15,342507600.0,1981
+Golden State Warriors,Golden State Warriors,Kansas City Kings,10,6,16,342853200.0,1981
+Golden State Warriors,Golden State Warriors,Phoenix Suns,11,6,17,343112400.0,1981
+Golden State Warriors,Washington Bullets,Golden State Warriors,12,6,18,343371600.0,1981
+Golden State Warriors,Philadelphia 76ers,Golden State Warriors,12,7,19,343458000.0,1981
+Golden State Warriors,Boston Celtics,Golden State Warriors,12,8,20,343630800.0,1981
+Golden State Warriors,New York Knicks,Golden State Warriors,13,8,21,343717200.0,1981
+Golden State Warriors,Golden State Warriors,Los Angeles Lakers,13,9,22,344149200.0,1981
+Golden State Warriors,Golden State Warriors,Phoenix Suns,13,10,23,344322000.0,1981
+Golden State Warriors,San Diego Clippers,Golden State Warriors,13,11,24,344408400.0,1981
+Golden State Warriors,Golden State Warriors,New Jersey Nets,14,11,25,344667600.0,1981
+Golden State Warriors,Denver Nuggets,Golden State Warriors,15,11,26,344840400.0,1981
+Golden State Warriors,Golden State Warriors,Los Angeles Lakers,16,11,27,344926800.0,1981
+Golden State Warriors,Phoenix Suns,Golden State Warriors,16,12,28,345013200.0,1981
+Golden State Warriors,Golden State Warriors,Seattle Supersonics,16,13,29,345272400.0,1981
+Golden State Warriors,Golden State Warriors,Houston Rockets,16,14,30,345531600.0,1981
+Golden State Warriors,Los Angeles Lakers,Golden State Warriors,16,15,31,345618000.0,1981
+Golden State Warriors,Golden State Warriors,Portland Trail Blazers,16,16,32,345877200.0,1981
+Golden State Warriors,San Antonio Spurs,Golden State Warriors,16,17,33,346050000.0,1981
+Golden State Warriors,Dallas Mavericks,Golden State Warriors,17,17,34,346136400.0,1981
+Golden State Warriors,Houston Rockets,Golden State Warriors,18,17,35,346395600.0,1981
+Golden State Warriors,Portland Trail Blazers,Golden State Warriors,18,18,36,346568400.0,1981
+Golden State Warriors,Utah Jazz,Golden State Warriors,19,18,37,346654800.0,1981
+Golden State Warriors,Golden State Warriors,Seattle Supersonics,20,18,38,346741200.0,1981
+Golden State Warriors,Kansas City Kings,Golden State Warriors,21,18,39,347000400.0,1981
+Golden State Warriors,Golden State Warriors,Boston Celtics,22,18,40,347259600.0,1981
+Golden State Warriors,Golden State Warriors,Philadelphia 76ers,22,19,41,347346000.0,1981
+Golden State Warriors,Golden State Warriors,Dallas Mavericks,22,20,42,347691600.0,1981
+Golden State Warriors,Golden State Warriors,Detroit Pistons,23,20,43,347950800.0,1981
+Golden State Warriors,Seattle Supersonics,Golden State Warriors,24,20,44,348037200.0,1981
+Golden State Warriors,Golden State Warriors,Utah Jazz,24,21,45,348296400.0,1981
+Golden State Warriors,Golden State Warriors,Atlanta Hawks,24,22,46,348469200.0,1981
+Golden State Warriors,Golden State Warriors,Milwaukee Bucks,24,23,47,348901200.0,1981
+Golden State Warriors,Utah Jazz,Golden State Warriors,25,23,48,349074000.0,1981
+Golden State Warriors,Golden State Warriors,New York Knicks,26,23,49,349160400.0,1981
+Golden State Warriors,Chicago Bulls,Golden State Warriors,26,24,50,349419600.0,1981
+Golden State Warriors,Indiana Pacers,Golden State Warriors,26,25,51,349506000.0,1981
+Golden State Warriors,Detroit Pistons,Golden State Warriors,27,25,52,349592400.0,1981
+Golden State Warriors,Golden State Warriors,Portland Trail Blazers,28,25,53,350110800.0,1981
+Golden State Warriors,Golden State Warriors,Washington Bullets,28,26,54,350283600.0,1981
+Golden State Warriors,Denver Nuggets,Golden State Warriors,28,27,55,350370000.0,1981
+Golden State Warriors,Golden State Warriors,Utah Jazz,29,27,56,350456400.0,1981
+Golden State Warriors,Atlanta Hawks,Golden State Warriors,29,28,57,350629200.0,1981
+Golden State Warriors,Milwaukee Bucks,Golden State Warriors,30,28,58,350888400.0,1981
+Golden State Warriors,Cleveland Cavaliers,Golden State Warriors,30,29,59,350974800.0,1981
+Golden State Warriors,New Jersey Nets,Golden State Warriors,30,30,60,351061200.0,1981
+Golden State Warriors,Phoenix Suns,Golden State Warriors,30,31,61,351234000.0,1981
+Golden State Warriors,Golden State Warriors,Chicago Bulls,31,31,62,351320400.0,1981
+Golden State Warriors,Golden State Warriors,San Diego Clippers,31,32,63,351493200.0,1981
+Golden State Warriors,Golden State Warriors,Kansas City Kings,32,32,64,351666000.0,1981
+Golden State Warriors,San Antonio Spurs,Golden State Warriors,32,33,65,351838800.0,1981
+Golden State Warriors,Denver Nuggets,Golden State Warriors,32,34,66,352098000.0,1981
+Golden State Warriors,Kansas City Kings,Golden State Warriors,33,34,67,352184400.0,1981
+Golden State Warriors,Golden State Warriors,Utah Jazz,34,34,68,352530000.0,1981
+Golden State Warriors,Golden State Warriors,Dallas Mavericks,35,34,69,352702800.0,1981
+Golden State Warriors,Golden State Warriors,Seattle Supersonics,36,34,70,352789200.0,1981
+Golden State Warriors,Portland Trail Blazers,Golden State Warriors,36,35,71,352875600.0,1981
+Golden State Warriors,Houston Rockets,Golden State Warriors,36,36,72,353134800.0,1981
+Golden State Warriors,Dallas Mavericks,Golden State Warriors,36,37,73,353221200.0,1981
+Golden State Warriors,Golden State Warriors,San Antonio Spurs,36,38,74,353480400.0,1981
+Golden State Warriors,Golden State Warriors,Houston Rockets,37,38,75,353739600.0,1981
+Golden State Warriors,San Diego Clippers,Golden State Warriors,37,39,76,353826000.0,1981
+Golden State Warriors,Golden State Warriors,Phoenix Suns,38,39,77,353998800.0,1981
+Golden State Warriors,Golden State Warriors,Los Angeles Lakers,38,40,78,354085200.0,1981
+Golden State Warriors,Los Angeles Lakers,Golden State Warriors,38,41,79,354258000.0,1981
+Golden State Warriors,Golden State Warriors,San Diego Clippers,39,41,80,354344400.0,1981
+Golden State Warriors,Golden State Warriors,Denver Nuggets,39,42,81,354603600.0,1981
+Golden State Warriors,Seattle Supersonics,Golden State Warriors,39,43,82,354690000.0,1981
+Houston Rockets,San Diego Clippers,Houston Rockets,0,1,1,339998400.0,1981
+Houston Rockets,Los Angeles Lakers,Houston Rockets,0,2,2,340171200.0,1981
+Houston Rockets,Houston Rockets,Seattle Supersonics,1,2,3,340430400.0,1981
+Houston Rockets,Portland Trail Blazers,Houston Rockets,2,2,4,340603200.0,1981
+Houston Rockets,Golden State Warriors,Houston Rockets,2,3,5,340689600.0,1981
+Houston Rockets,Denver Nuggets,Houston Rockets,3,3,6,340948800.0,1981
+Houston Rockets,Houston Rockets,Kansas City Kings,3,4,7,341121600.0,1981
+Houston Rockets,Houston Rockets,Detroit Pistons,3,5,8,341294400.0,1981
+Houston Rockets,Houston Rockets,Dallas Mavericks,4,5,9,341643600.0,1981
+Houston Rockets,Houston Rockets,San Diego Clippers,4,6,10,342248400.0,1981
+Houston Rockets,Houston Rockets,Phoenix Suns,4,7,11,342507600.0,1981
+Houston Rockets,Dallas Mavericks,Houston Rockets,5,7,12,342766800.0,1981
+Houston Rockets,Houston Rockets,Los Angeles Lakers,6,7,13,342853200.0,1981
+Houston Rockets,Utah Jazz,Houston Rockets,6,8,14,343026000.0,1981
+Houston Rockets,Seattle Supersonics,Houston Rockets,6,9,15,343112400.0,1981
+Houston Rockets,Houston Rockets,Seattle Supersonics,7,9,16,343371600.0,1981
+Houston Rockets,Cleveland Cavaliers,Houston Rockets,8,9,17,343544400.0,1981
+Houston Rockets,New Jersey Nets,Houston Rockets,9,9,18,343630800.0,1981
+Houston Rockets,Indiana Pacers,Houston Rockets,9,10,19,343717200.0,1981
+Houston Rockets,New York Knicks,Houston Rockets,9,11,20,343890000.0,1981
+Houston Rockets,Houston Rockets,Philadelphia 76ers,9,12,21,344062800.0,1981
+Houston Rockets,San Antonio Spurs,Houston Rockets,10,12,22,344235600.0,1981
+Houston Rockets,Houston Rockets,Dallas Mavericks,11,12,23,344322000.0,1981
+Houston Rockets,Phoenix Suns,Houston Rockets,11,13,24,344408400.0,1981
+Houston Rockets,Houston Rockets,Cleveland Cavaliers,12,13,25,344667600.0,1981
+Houston Rockets,Kansas City Kings,Houston Rockets,12,14,26,344840400.0,1981
+Houston Rockets,Houston Rockets,Denver Nuggets,13,14,27,344926800.0,1981
+Houston Rockets,Houston Rockets,Los Angeles Lakers,13,15,28,345272400.0,1981
+Houston Rockets,Portland Trail Blazers,Houston Rockets,13,16,29,345445200.0,1981
+Houston Rockets,Golden State Warriors,Houston Rockets,14,16,30,345531600.0,1981
+Houston Rockets,Houston Rockets,San Antonio Spurs,14,17,31,345877200.0,1981
+Houston Rockets,Boston Celtics,Houston Rockets,14,18,32,346050000.0,1981
+Houston Rockets,Chicago Bulls,Houston Rockets,14,19,33,346136400.0,1981
+Houston Rockets,Milwaukee Bucks,Houston Rockets,14,20,34,346222800.0,1981
+Houston Rockets,Houston Rockets,Golden State Warriors,14,21,35,346395600.0,1981
+Houston Rockets,Detroit Pistons,Houston Rockets,15,21,36,346654800.0,1981
+Houston Rockets,Washington Bullets,Houston Rockets,15,22,37,346741200.0,1981
+Houston Rockets,Houston Rockets,San Diego Clippers,16,22,38,347000400.0,1981
+Houston Rockets,Houston Rockets,Utah Jazz,17,22,39,347173200.0,1981
+Houston Rockets,Dallas Mavericks,Houston Rockets,18,22,40,347259600.0,1981
+Houston Rockets,Houston Rockets,Denver Nuggets,18,23,41,347346000.0,1981
+Houston Rockets,Houston Rockets,Kansas City Kings,18,24,42,347691600.0,1981
+Houston Rockets,Philadelphia 76ers,Houston Rockets,18,25,43,347864400.0,1981
+Houston Rockets,Houston Rockets,Portland Trail Blazers,19,25,44,347950800.0,1981
+Houston Rockets,Houston Rockets,Chicago Bulls,20,25,45,348296400.0,1981
+Houston Rockets,Phoenix Suns,Houston Rockets,20,26,46,348469200.0,1981
+Houston Rockets,Houston Rockets,New York Knicks,20,27,47,348555600.0,1981
+Houston Rockets,Denver Nuggets,Houston Rockets,21,27,48,348642000.0,1981
+Houston Rockets,Houston Rockets,Phoenix Suns,22,27,49,348901200.0,1981
+Houston Rockets,Kansas City Kings,Houston Rockets,22,28,50,349074000.0,1981
+Houston Rockets,Houston Rockets,Utah Jazz,23,28,51,349160400.0,1981
+Houston Rockets,Houston Rockets,New Jersey Nets,24,28,52,349506000.0,1981
+Houston Rockets,Utah Jazz,Houston Rockets,24,29,53,349592400.0,1981
+Houston Rockets,Houston Rockets,Denver Nuggets,25,29,54,350024400.0,1981
+Houston Rockets,Houston Rockets,Dallas Mavericks,26,29,55,350110800.0,1981
+Houston Rockets,Phoenix Suns,Houston Rockets,26,30,56,350283600.0,1981
+Houston Rockets,Houston Rockets,Atlanta Hawks,27,30,57,350370000.0,1981
+Houston Rockets,Houston Rockets,San Antonio Spurs,28,30,58,350715600.0,1981
+Houston Rockets,Houston Rockets,Los Angeles Lakers,28,31,59,350888400.0,1981
+Houston Rockets,Houston Rockets,Milwaukee Bucks,28,32,60,350974800.0,1981
+Houston Rockets,San Diego Clippers,Houston Rockets,28,33,61,351406800.0,1981
+Houston Rockets,Los Angeles Lakers,Houston Rockets,29,33,62,351493200.0,1981
+Houston Rockets,Seattle Supersonics,Houston Rockets,30,33,63,351666000.0,1981
+Houston Rockets,Utah Jazz,Houston Rockets,31,33,64,351752400.0,1981
+Houston Rockets,Houston Rockets,Indiana Pacers,32,33,65,351925200.0,1981
+Houston Rockets,Houston Rockets,Seattle Supersonics,33,33,66,352098000.0,1981
+Houston Rockets,Houston Rockets,San Diego Clippers,33,34,67,352184400.0,1981
+Houston Rockets,San Antonio Spurs,Houston Rockets,33,35,68,352270800.0,1981
+Houston Rockets,Houston Rockets,Boston Celtics,33,36,69,352530000.0,1981
+Houston Rockets,Houston Rockets,Washington Bullets,33,37,70,352702800.0,1981
+Houston Rockets,Atlanta Hawks,Houston Rockets,33,38,71,352789200.0,1981
+Houston Rockets,Houston Rockets,Golden State Warriors,34,38,72,353134800.0,1981
+Houston Rockets,Houston Rockets,Portland Trail Blazers,35,38,73,353307600.0,1981
+Houston Rockets,Houston Rockets,Utah Jazz,36,38,74,353394000.0,1981
+Houston Rockets,Denver Nuggets,Houston Rockets,36,39,75,353480400.0,1981
+Houston Rockets,Golden State Warriors,Houston Rockets,36,40,76,353739600.0,1981
+Houston Rockets,Portland Trail Blazers,Houston Rockets,36,41,77,353912400.0,1981
+Houston Rockets,Kansas City Kings,Houston Rockets,37,41,78,354085200.0,1981
+Houston Rockets,Dallas Mavericks,Houston Rockets,38,41,79,354258000.0,1981
+Houston Rockets,Houston Rockets,San Antonio Spurs,39,41,80,354344400.0,1981
+Houston Rockets,Houston Rockets,Kansas City Kings,40,41,81,354517200.0,1981
+Houston Rockets,San Antonio Spurs,Houston Rockets,40,42,82,354690000.0,1981
+Indiana Pacers,New Jersey Nets,Indiana Pacers,1,0,1,339998400.0,1981
+Indiana Pacers,Indiana Pacers,Detroit Pistons,2,0,2,340084800.0,1981
+Indiana Pacers,Indiana Pacers,Chicago Bulls,2,1,3,340430400.0,1981
+Indiana Pacers,Indiana Pacers,Boston Celtics,3,1,4,340689600.0,1981
+Indiana Pacers,Atlanta Hawks,Indiana Pacers,4,1,5,340948800.0,1981
+Indiana Pacers,Indiana Pacers,Milwaukee Bucks,4,2,6,341035200.0,1981
+Indiana Pacers,Indiana Pacers,Atlanta Hawks,5,2,7,341208000.0,1981
+Indiana Pacers,Cleveland Cavaliers,Indiana Pacers,5,3,8,341294400.0,1981
+Indiana Pacers,Indiana Pacers,New York Knicks,6,3,9,341643600.0,1981
+Indiana Pacers,Chicago Bulls,Indiana Pacers,7,3,10,341816400.0,1981
+Indiana Pacers,Indiana Pacers,New Jersey Nets,8,3,11,341902800.0,1981
+Indiana Pacers,Milwaukee Bucks,Indiana Pacers,8,4,12,341989200.0,1981
+Indiana Pacers,Phoenix Suns,Indiana Pacers,8,5,13,342162000.0,1981
+Indiana Pacers,Golden State Warriors,Indiana Pacers,8,6,14,342507600.0,1981
+Indiana Pacers,Utah Jazz,Indiana Pacers,8,7,15,342680400.0,1981
+Indiana Pacers,San Antonio Spurs,Indiana Pacers,9,7,16,342766800.0,1981
+Indiana Pacers,Indiana Pacers,Philadelphia 76ers,9,8,17,342939600.0,1981
+Indiana Pacers,Indiana Pacers,Washington Bullets,10,8,18,343026000.0,1981
+Indiana Pacers,Detroit Pistons,Indiana Pacers,11,8,19,343371600.0,1981
+Indiana Pacers,Indiana Pacers,Boston Celtics,11,9,20,343458000.0,1981
+Indiana Pacers,Philadelphia 76ers,Indiana Pacers,11,10,21,343630800.0,1981
+Indiana Pacers,Indiana Pacers,Houston Rockets,12,10,22,343717200.0,1981
+Indiana Pacers,Indiana Pacers,Atlanta Hawks,13,10,23,344062800.0,1981
+Indiana Pacers,Washington Bullets,Indiana Pacers,13,11,24,344149200.0,1981
+Indiana Pacers,Indiana Pacers,Cleveland Cavaliers,14,11,25,344322000.0,1981
+Indiana Pacers,New York Knicks,Indiana Pacers,15,11,26,344581200.0,1981
+Indiana Pacers,Indiana Pacers,Washington Bullets,16,11,27,344667600.0,1981
+Indiana Pacers,Milwaukee Bucks,Indiana Pacers,16,12,28,344840400.0,1981
+Indiana Pacers,Indiana Pacers,Kansas City Kings,17,12,29,344926800.0,1981
+Indiana Pacers,Indiana Pacers,Phoenix Suns,18,12,30,345272400.0,1981
+Indiana Pacers,Cleveland Cavaliers,Indiana Pacers,19,12,31,345358800.0,1981
+Indiana Pacers,Washington Bullets,Indiana Pacers,19,13,32,345531600.0,1981
+Indiana Pacers,Indiana Pacers,Philadelphia 76ers,19,14,33,345790800.0,1981
+Indiana Pacers,Detroit Pistons,Indiana Pacers,19,15,34,346050000.0,1981
+Indiana Pacers,Kansas City Kings,Indiana Pacers,20,15,35,346136400.0,1981
+Indiana Pacers,Indiana Pacers,New Jersey Nets,21,15,36,346395600.0,1981
+Indiana Pacers,Los Angeles Lakers,Indiana Pacers,21,16,37,346654800.0,1981
+Indiana Pacers,San Diego Clippers,Indiana Pacers,21,17,38,346741200.0,1981
+Indiana Pacers,Denver Nuggets,Indiana Pacers,21,18,39,347000400.0,1981
+Indiana Pacers,Atlanta Hawks,Indiana Pacers,22,18,40,347259600.0,1981
+Indiana Pacers,Indiana Pacers,San Diego Clippers,23,18,41,347346000.0,1981
+Indiana Pacers,New Jersey Nets,Indiana Pacers,24,18,42,347432400.0,1981
+Indiana Pacers,Indiana Pacers,New Jersey Nets,25,18,43,347691600.0,1981
+Indiana Pacers,New York Knicks,Indiana Pacers,26,18,44,347778000.0,1981
+Indiana Pacers,Indiana Pacers,Milwaukee Bucks,27,18,45,347950800.0,1981
+Indiana Pacers,Indiana Pacers,Detroit Pistons,28,18,46,348296400.0,1981
+Indiana Pacers,Indiana Pacers,Seattle Supersonics,28,19,47,348469200.0,1981
+Indiana Pacers,Indiana Pacers,Utah Jazz,29,19,48,348642000.0,1981
+Indiana Pacers,Chicago Bulls,Indiana Pacers,29,20,49,348814800.0,1981
+Indiana Pacers,Philadelphia 76ers,Indiana Pacers,29,21,50,348901200.0,1981
+Indiana Pacers,Boston Celtics,Indiana Pacers,29,22,51,349074000.0,1981
+Indiana Pacers,Indiana Pacers,Dallas Mavericks,30,22,52,349160400.0,1981
+Indiana Pacers,Cleveland Cavaliers,Indiana Pacers,30,23,53,349419600.0,1981
+Indiana Pacers,Indiana Pacers,Golden State Warriors,31,23,54,349506000.0,1981
+Indiana Pacers,Milwaukee Bucks,Indiana Pacers,32,23,55,350024400.0,1981
+Indiana Pacers,Indiana Pacers,Los Angeles Lakers,32,24,56,350110800.0,1981
+Indiana Pacers,Boston Celtics,Indiana Pacers,32,25,57,350283600.0,1981
+Indiana Pacers,Indiana Pacers,Cleveland Cavaliers,33,25,58,350370000.0,1981
+Indiana Pacers,Detroit Pistons,Indiana Pacers,34,25,59,350456400.0,1981
+Indiana Pacers,Indiana Pacers,Milwaukee Bucks,34,26,60,350715600.0,1981
+Indiana Pacers,New Jersey Nets,Indiana Pacers,34,27,61,350888400.0,1981
+Indiana Pacers,Indiana Pacers,Chicago Bulls,35,27,62,351061200.0,1981
+Indiana Pacers,Indiana Pacers,Atlanta Hawks,35,28,63,351320400.0,1981
+Indiana Pacers,Indiana Pacers,San Antonio Spurs,36,28,64,351493200.0,1981
+Indiana Pacers,Indiana Pacers,Portland Trail Blazers,36,29,65,351666000.0,1981
+Indiana Pacers,Houston Rockets,Indiana Pacers,36,30,66,351925200.0,1981
+Indiana Pacers,Dallas Mavericks,Indiana Pacers,37,30,67,352098000.0,1981
+Indiana Pacers,Portland Trail Blazers,Indiana Pacers,37,31,68,352443600.0,1981
+Indiana Pacers,Seattle Supersonics,Indiana Pacers,37,32,69,352530000.0,1981
+Indiana Pacers,Indiana Pacers,Boston Celtics,38,32,70,352702800.0,1981
+Indiana Pacers,Indiana Pacers,Denver Nuggets,39,32,71,352875600.0,1981
+Indiana Pacers,Indiana Pacers,Philadelphia 76ers,39,33,72,353048400.0,1981
+Indiana Pacers,Washington Bullets,Indiana Pacers,40,33,73,353221200.0,1981
+Indiana Pacers,Boston Celtics,Indiana Pacers,41,33,74,353307600.0,1981
+Indiana Pacers,Indiana Pacers,Detroit Pistons,41,34,75,353394000.0,1981
+Indiana Pacers,New York Knicks,Indiana Pacers,41,35,76,353653200.0,1981
+Indiana Pacers,Philadelphia 76ers,Indiana Pacers,41,36,77,353739600.0,1981
+Indiana Pacers,Indiana Pacers,New York Knicks,41,37,78,353912400.0,1981
+Indiana Pacers,Indiana Pacers,Cleveland Cavaliers,42,37,79,354085200.0,1981
+Indiana Pacers,Atlanta Hawks,Indiana Pacers,43,37,80,354430800.0,1981
+Indiana Pacers,Indiana Pacers,Washington Bullets,44,37,81,354517200.0,1981
+Indiana Pacers,Indiana Pacers,Chicago Bulls,44,38,82,354690000.0,1981
+Kansas City Kings,Kansas City Kings,Utah Jazz,1,0,1,340084800.0,1981
+Kansas City Kings,Phoenix Suns,Kansas City Kings,1,1,2,340171200.0,1981
+Kansas City Kings,San Antonio Spurs,Kansas City Kings,1,2,3,340344000.0,1981
+Kansas City Kings,Kansas City Kings,Los Angeles Lakers,1,3,4,340430400.0,1981
+Kansas City Kings,Dallas Mavericks,Kansas City Kings,2,3,5,340603200.0,1981
+Kansas City Kings,Kansas City Kings,Seattle Supersonics,2,4,6,340689600.0,1981
+Kansas City Kings,Kansas City Kings,Golden State Warriors,2,5,7,340948800.0,1981
+Kansas City Kings,Houston Rockets,Kansas City Kings,3,5,8,341121600.0,1981
+Kansas City Kings,Kansas City Kings,Denver Nuggets,4,5,9,341294400.0,1981
+Kansas City Kings,Atlanta Hawks,Kansas City Kings,4,6,10,341557200.0,1981
+Kansas City Kings,Kansas City Kings,Portland Trail Blazers,5,6,11,341643600.0,1981
+Kansas City Kings,Boston Celtics,Kansas City Kings,5,7,12,341816400.0,1981
+Kansas City Kings,Kansas City Kings,Phoenix Suns,5,8,13,341902800.0,1981
+Kansas City Kings,Utah Jazz,Kansas City Kings,5,9,14,342162000.0,1981
+Kansas City Kings,Kansas City Kings,New York Knicks,6,9,15,342248400.0,1981
+Kansas City Kings,Philadelphia 76ers,Kansas City Kings,6,10,16,342421200.0,1981
+Kansas City Kings,Kansas City Kings,Cleveland Cavaliers,7,10,17,342507600.0,1981
+Kansas City Kings,Portland Trail Blazers,Kansas City Kings,8,10,18,342766800.0,1981
+Kansas City Kings,Golden State Warriors,Kansas City Kings,8,11,19,342853200.0,1981
+Kansas City Kings,Seattle Supersonics,Kansas City Kings,8,12,20,343026000.0,1981
+Kansas City Kings,San Diego Clippers,Kansas City Kings,9,12,21,343112400.0,1981
+Kansas City Kings,Los Angeles Lakers,Kansas City Kings,9,13,22,343371600.0,1981
+Kansas City Kings,Denver Nuggets,Kansas City Kings,9,14,23,343630800.0,1981
+Kansas City Kings,Kansas City Kings,New Jersey Nets,10,14,24,344062800.0,1981
+Kansas City Kings,Detroit Pistons,Kansas City Kings,10,15,25,344235600.0,1981
+Kansas City Kings,Kansas City Kings,San Antonio Spurs,10,16,26,344322000.0,1981
+Kansas City Kings,Washington Bullets,Kansas City Kings,10,17,27,344581200.0,1981
+Kansas City Kings,Kansas City Kings,Phoenix Suns,11,17,28,344667600.0,1981
+Kansas City Kings,Kansas City Kings,Houston Rockets,12,17,29,344840400.0,1981
+Kansas City Kings,Indiana Pacers,Kansas City Kings,12,18,30,344926800.0,1981
+Kansas City Kings,Kansas City Kings,San Diego Clippers,13,18,31,345272400.0,1981
+Kansas City Kings,San Antonio Spurs,Kansas City Kings,13,19,32,345358800.0,1981
+Kansas City Kings,Kansas City Kings,Dallas Mavericks,14,19,33,345531600.0,1981
+Kansas City Kings,Denver Nuggets,Kansas City Kings,15,19,34,345790800.0,1981
+Kansas City Kings,Seattle Supersonics,Kansas City Kings,15,20,35,345877200.0,1981
+Kansas City Kings,Kansas City Kings,Indiana Pacers,15,21,36,346136400.0,1981
+Kansas City Kings,Cleveland Cavaliers,Kansas City Kings,16,21,37,346395600.0,1981
+Kansas City Kings,Kansas City Kings,Philadelphia 76ers,16,22,38,346654800.0,1981
+Kansas City Kings,New York Knicks,Kansas City Kings,16,23,39,346741200.0,1981
+Kansas City Kings,New Jersey Nets,Kansas City Kings,17,23,40,346827600.0,1981
+Kansas City Kings,Kansas City Kings,Golden State Warriors,17,24,41,347000400.0,1981
+Kansas City Kings,Kansas City Kings,Utah Jazz,18,24,42,347259600.0,1981
+Kansas City Kings,Houston Rockets,Kansas City Kings,19,24,43,347691600.0,1981
+Kansas City Kings,Kansas City Kings,Washington Bullets,20,24,44,347778000.0,1981
+Kansas City Kings,Utah Jazz,Kansas City Kings,21,24,45,347950800.0,1981
+Kansas City Kings,Kansas City Kings,San Diego Clippers,21,25,46,348037200.0,1981
+Kansas City Kings,Kansas City Kings,Portland Trail Blazers,21,26,47,348296400.0,1981
+Kansas City Kings,Milwaukee Bucks,Kansas City Kings,21,27,48,348469200.0,1981
+Kansas City Kings,Kansas City Kings,Denver Nuggets,21,28,49,348555600.0,1981
+Kansas City Kings,Dallas Mavericks,Kansas City Kings,22,28,50,348814800.0,1981
+Kansas City Kings,Kansas City Kings,San Antonio Spurs,23,28,51,348901200.0,1981
+Kansas City Kings,Kansas City Kings,Houston Rockets,24,28,52,349074000.0,1981
+Kansas City Kings,San Diego Clippers,Kansas City Kings,24,29,53,349419600.0,1981
+Kansas City Kings,Los Angeles Lakers,Kansas City Kings,24,30,54,349592400.0,1981
+Kansas City Kings,Dallas Mavericks,Kansas City Kings,25,30,55,350024400.0,1981
+Kansas City Kings,Kansas City Kings,Detroit Pistons,26,30,56,350110800.0,1981
+Kansas City Kings,Seattle Supersonics,Kansas City Kings,27,30,57,350283600.0,1981
+Kansas City Kings,Portland Trail Blazers,Kansas City Kings,27,31,58,350456400.0,1981
+Kansas City Kings,Chicago Bulls,Kansas City Kings,27,32,59,350629200.0,1981
+Kansas City Kings,Kansas City Kings,Utah Jazz,28,32,60,350715600.0,1981
+Kansas City Kings,Kansas City Kings,Atlanta Hawks,29,32,61,350888400.0,1981
+Kansas City Kings,Kansas City Kings,Seattle Supersonics,30,32,62,351061200.0,1981
+Kansas City Kings,Kansas City Kings,Boston Celtics,31,32,63,351320400.0,1981
+Kansas City Kings,Kansas City Kings,Milwaukee Bucks,32,32,64,351493200.0,1981
+Kansas City Kings,Denver Nuggets,Kansas City Kings,32,33,65,351579600.0,1981
+Kansas City Kings,Golden State Warriors,Kansas City Kings,32,34,66,351666000.0,1981
+Kansas City Kings,Kansas City Kings,Dallas Mavericks,33,34,67,352011600.0,1981
+Kansas City Kings,Kansas City Kings,Golden State Warriors,33,35,68,352184400.0,1981
+Kansas City Kings,Kansas City Kings,Los Angeles Lakers,33,36,69,352443600.0,1981
+Kansas City Kings,San Antonio Spurs,Kansas City Kings,34,36,70,352530000.0,1981
+Kansas City Kings,Kansas City Kings,Portland Trail Blazers,35,36,71,352616400.0,1981
+Kansas City Kings,Kansas City Kings,Phoenix Suns,36,36,72,352875600.0,1981
+Kansas City Kings,San Diego Clippers,Kansas City Kings,37,36,73,353048400.0,1981
+Kansas City Kings,Los Angeles Lakers,Kansas City Kings,37,37,74,353307600.0,1981
+Kansas City Kings,Kansas City Kings,Chicago Bulls,37,38,75,353480400.0,1981
+Kansas City Kings,Kansas City Kings,Denver Nuggets,37,39,76,353739600.0,1981
+Kansas City Kings,Kansas City Kings,San Antonio Spurs,37,40,77,353912400.0,1981
+Kansas City Kings,Kansas City Kings,Houston Rockets,37,41,78,354085200.0,1981
+Kansas City Kings,Utah Jazz,Kansas City Kings,38,41,79,354258000.0,1981
+Kansas City Kings,Phoenix Suns,Kansas City Kings,39,41,80,354344400.0,1981
+Kansas City Kings,Houston Rockets,Kansas City Kings,39,42,81,354517200.0,1981
+Kansas City Kings,Kansas City Kings,Dallas Mavericks,40,42,82,354690000.0,1981
+Los Angeles Lakers,Seattle Supersonics,Los Angeles Lakers,1,0,1,339998400.0,1981
+Los Angeles Lakers,Los Angeles Lakers,Houston Rockets,2,0,2,340171200.0,1981
+Los Angeles Lakers,Kansas City Kings,Los Angeles Lakers,3,0,3,340430400.0,1981
+Los Angeles Lakers,Los Angeles Lakers,Phoenix Suns,4,0,4,340603200.0,1981
+Los Angeles Lakers,Los Angeles Lakers,Golden State Warriors,5,0,5,340776000.0,1981
+Los Angeles Lakers,Portland Trail Blazers,Los Angeles Lakers,5,1,6,340948800.0,1981
+Los Angeles Lakers,Los Angeles Lakers,Seattle Supersonics,6,1,7,341208000.0,1981
+Los Angeles Lakers,Utah Jazz,Los Angeles Lakers,7,1,8,341294400.0,1981
+Los Angeles Lakers,Los Angeles Lakers,San Antonio Spurs,7,2,9,341380800.0,1981
+Los Angeles Lakers,San Diego Clippers,Los Angeles Lakers,8,2,10,341557200.0,1981
+Los Angeles Lakers,Los Angeles Lakers,Cleveland Cavaliers,9,2,11,341816400.0,1981
+Los Angeles Lakers,Los Angeles Lakers,Denver Nuggets,9,3,12,341989200.0,1981
+Los Angeles Lakers,Los Angeles Lakers,Portland Trail Blazers,10,3,13,342162000.0,1981
+Los Angeles Lakers,Dallas Mavericks,Los Angeles Lakers,11,3,14,342421200.0,1981
+Los Angeles Lakers,San Antonio Spurs,Los Angeles Lakers,11,4,15,342507600.0,1981
+Los Angeles Lakers,Atlanta Hawks,Los Angeles Lakers,12,4,16,342766800.0,1981
+Los Angeles Lakers,Houston Rockets,Los Angeles Lakers,12,5,17,342853200.0,1981
+Los Angeles Lakers,Los Angeles Lakers,San Diego Clippers,13,5,18,343026000.0,1981
+Los Angeles Lakers,Los Angeles Lakers,Dallas Mavericks,14,5,19,343198800.0,1981
+Los Angeles Lakers,Los Angeles Lakers,Kansas City Kings,15,5,20,343371600.0,1981
+Los Angeles Lakers,Phoenix Suns,Los Angeles Lakers,15,6,21,343544400.0,1981
+Los Angeles Lakers,Los Angeles Lakers,Phoenix Suns,16,6,22,343630800.0,1981
+Los Angeles Lakers,Los Angeles Lakers,Milwaukee Bucks,16,7,23,343803600.0,1981
+Los Angeles Lakers,Golden State Warriors,Los Angeles Lakers,17,7,24,344149200.0,1981
+Los Angeles Lakers,Denver Nuggets,Los Angeles Lakers,18,7,25,344322000.0,1981
+Los Angeles Lakers,Los Angeles Lakers,Chicago Bulls,18,8,26,344408400.0,1981
+Los Angeles Lakers,Los Angeles Lakers,San Diego Clippers,18,9,27,344667600.0,1981
+Los Angeles Lakers,Golden State Warriors,Los Angeles Lakers,18,10,28,344926800.0,1981
+Los Angeles Lakers,Los Angeles Lakers,Utah Jazz,19,10,29,345013200.0,1981
+Los Angeles Lakers,Dallas Mavericks,Los Angeles Lakers,20,10,30,345186000.0,1981
+Los Angeles Lakers,Houston Rockets,Los Angeles Lakers,21,10,31,345272400.0,1981
+Los Angeles Lakers,Seattle Supersonics,Los Angeles Lakers,22,10,32,345445200.0,1981
+Los Angeles Lakers,Los Angeles Lakers,Golden State Warriors,23,10,33,345618000.0,1981
+Los Angeles Lakers,San Diego Clippers,Los Angeles Lakers,23,11,34,345790800.0,1981
+Los Angeles Lakers,Los Angeles Lakers,Portland Trail Blazers,23,12,35,346050000.0,1981
+Los Angeles Lakers,Los Angeles Lakers,San Antonio Spurs,24,12,36,346222800.0,1981
+Los Angeles Lakers,Portland Trail Blazers,Los Angeles Lakers,24,13,37,346395600.0,1981
+Los Angeles Lakers,Los Angeles Lakers,Indiana Pacers,25,13,38,346654800.0,1981
+Los Angeles Lakers,Phoenix Suns,Los Angeles Lakers,25,14,39,346741200.0,1981
+Los Angeles Lakers,Los Angeles Lakers,Philadelphia 76ers,26,14,40,346827600.0,1981
+Los Angeles Lakers,Utah Jazz,Los Angeles Lakers,26,15,41,347000400.0,1981
+Los Angeles Lakers,San Antonio Spurs,Los Angeles Lakers,26,16,42,347259600.0,1981
+Los Angeles Lakers,Los Angeles Lakers,Washington Bullets,27,16,43,347605200.0,1981
+Los Angeles Lakers,Los Angeles Lakers,Seattle Supersonics,28,16,44,347864400.0,1981
+Los Angeles Lakers,Los Angeles Lakers,Detroit Pistons,29,16,45,348037200.0,1981
+Los Angeles Lakers,Cleveland Cavaliers,Los Angeles Lakers,30,16,46,348210000.0,1981
+Los Angeles Lakers,Washington Bullets,Los Angeles Lakers,30,17,47,348296400.0,1981
+Los Angeles Lakers,New Jersey Nets,Los Angeles Lakers,31,17,48,348469200.0,1981
+Los Angeles Lakers,Boston Celtics,Los Angeles Lakers,31,18,49,348642000.0,1981
+Los Angeles Lakers,Los Angeles Lakers,Atlanta Hawks,32,18,50,348901200.0,1981
+Los Angeles Lakers,Los Angeles Lakers,Denver Nuggets,33,18,51,349074000.0,1981
+Los Angeles Lakers,Los Angeles Lakers,Portland Trail Blazers,34,18,52,349333200.0,1981
+Los Angeles Lakers,Los Angeles Lakers,Utah Jazz,35,18,53,349419600.0,1981
+Los Angeles Lakers,Los Angeles Lakers,Kansas City Kings,36,18,54,349592400.0,1981
+Los Angeles Lakers,Indiana Pacers,Los Angeles Lakers,37,18,55,350110800.0,1981
+Los Angeles Lakers,Detroit Pistons,Los Angeles Lakers,38,18,56,350283600.0,1981
+Los Angeles Lakers,Philadelphia 76ers,Los Angeles Lakers,38,19,57,350456400.0,1981
+Los Angeles Lakers,Los Angeles Lakers,Boston Celtics,38,20,58,350715600.0,1981
+Los Angeles Lakers,Houston Rockets,Los Angeles Lakers,39,20,59,350888400.0,1981
+Los Angeles Lakers,Los Angeles Lakers,Dallas Mavericks,40,20,60,351061200.0,1981
+Los Angeles Lakers,Los Angeles Lakers,New York Knicks,41,20,61,351234000.0,1981
+Los Angeles Lakers,Los Angeles Lakers,Houston Rockets,41,21,62,351493200.0,1981
+Los Angeles Lakers,New York Knicks,Los Angeles Lakers,42,21,63,351666000.0,1981
+Los Angeles Lakers,Chicago Bulls,Los Angeles Lakers,43,21,64,351838800.0,1981
+Los Angeles Lakers,Milwaukee Bucks,Los Angeles Lakers,43,22,65,351925200.0,1981
+Los Angeles Lakers,Los Angeles Lakers,New Jersey Nets,44,22,66,352098000.0,1981
+Los Angeles Lakers,Los Angeles Lakers,Phoenix Suns,44,23,67,352270800.0,1981
+Los Angeles Lakers,Kansas City Kings,Los Angeles Lakers,45,23,68,352443600.0,1981
+Los Angeles Lakers,Denver Nuggets,Los Angeles Lakers,45,24,69,352530000.0,1981
+Los Angeles Lakers,Los Angeles Lakers,San Antonio Spurs,46,24,70,353048400.0,1981
+Los Angeles Lakers,San Diego Clippers,Los Angeles Lakers,47,24,71,353221200.0,1981
+Los Angeles Lakers,Los Angeles Lakers,Kansas City Kings,48,24,72,353307600.0,1981
+Los Angeles Lakers,Los Angeles Lakers,San Diego Clippers,48,25,73,353480400.0,1981
+Los Angeles Lakers,Dallas Mavericks,Los Angeles Lakers,49,25,74,353653200.0,1981
+Los Angeles Lakers,Phoenix Suns,Los Angeles Lakers,49,26,75,353739600.0,1981
+Los Angeles Lakers,Los Angeles Lakers,Seattle Supersonics,50,26,76,353912400.0,1981
+Los Angeles Lakers,Portland Trail Blazers,Los Angeles Lakers,51,26,77,353998800.0,1981
+Los Angeles Lakers,Golden State Warriors,Los Angeles Lakers,52,26,78,354085200.0,1981
+Los Angeles Lakers,Los Angeles Lakers,Golden State Warriors,53,26,79,354258000.0,1981
+Los Angeles Lakers,Seattle Supersonics,Los Angeles Lakers,54,26,80,354517200.0,1981
+Los Angeles Lakers,Utah Jazz,Los Angeles Lakers,54,27,81,354603600.0,1981
+Los Angeles Lakers,Los Angeles Lakers,Denver Nuggets,54,28,82,354690000.0,1981
+Milwaukee Bucks,Philadelphia 76ers,Milwaukee Bucks,1,0,1,339998400.0,1981
+Milwaukee Bucks,New York Knicks,Milwaukee Bucks,1,1,2,340084800.0,1981
+Milwaukee Bucks,Milwaukee Bucks,Boston Celtics,1,2,3,340516800.0,1981
+Milwaukee Bucks,Cleveland Cavaliers,Milwaukee Bucks,2,2,4,340689600.0,1981
+Milwaukee Bucks,Milwaukee Bucks,New Jersey Nets,3,2,5,340776000.0,1981
+Milwaukee Bucks,Milwaukee Bucks,Cleveland Cavaliers,4,2,6,340948800.0,1981
+Milwaukee Bucks,Indiana Pacers,Milwaukee Bucks,5,2,7,341035200.0,1981
+Milwaukee Bucks,Milwaukee Bucks,Chicago Bulls,6,2,8,341294400.0,1981
+Milwaukee Bucks,Milwaukee Bucks,Washington Bullets,7,2,9,341380800.0,1981
+Milwaukee Bucks,Chicago Bulls,Milwaukee Bucks,8,2,10,341557200.0,1981
+Milwaukee Bucks,New Jersey Nets,Milwaukee Bucks,9,2,11,341643600.0,1981
+Milwaukee Bucks,Atlanta Hawks,Milwaukee Bucks,10,2,12,341902800.0,1981
+Milwaukee Bucks,Milwaukee Bucks,Indiana Pacers,11,2,13,341989200.0,1981
+Milwaukee Bucks,Milwaukee Bucks,Detroit Pistons,11,3,14,342162000.0,1981
+Milwaukee Bucks,Boston Celtics,Milwaukee Bucks,12,3,15,342421200.0,1981
+Milwaukee Bucks,Milwaukee Bucks,Philadelphia 76ers,12,4,16,342594000.0,1981
+Milwaukee Bucks,Cleveland Cavaliers,Milwaukee Bucks,13,4,17,342766800.0,1981
+Milwaukee Bucks,Detroit Pistons,Milwaukee Bucks,14,4,18,342853200.0,1981
+Milwaukee Bucks,Milwaukee Bucks,New York Knicks,15,4,19,343026000.0,1981
+Milwaukee Bucks,Milwaukee Bucks,Chicago Bulls,15,5,20,343198800.0,1981
+Milwaukee Bucks,Utah Jazz,Milwaukee Bucks,16,5,21,343371600.0,1981
+Milwaukee Bucks,Portland Trail Blazers,Milwaukee Bucks,17,5,22,343544400.0,1981
+Milwaukee Bucks,Los Angeles Lakers,Milwaukee Bucks,18,5,23,343803600.0,1981
+Milwaukee Bucks,Milwaukee Bucks,Atlanta Hawks,19,5,24,344235600.0,1981
+Milwaukee Bucks,Washington Bullets,Milwaukee Bucks,19,6,25,344322000.0,1981
+Milwaukee Bucks,Milwaukee Bucks,Boston Celtics,20,6,26,344408400.0,1981
+Milwaukee Bucks,Milwaukee Bucks,Utah Jazz,21,6,27,344581200.0,1981
+Milwaukee Bucks,Milwaukee Bucks,Indiana Pacers,22,6,28,344840400.0,1981
+Milwaukee Bucks,New York Knicks,Milwaukee Bucks,22,7,29,344926800.0,1981
+Milwaukee Bucks,Boston Celtics,Milwaukee Bucks,22,8,30,345186000.0,1981
+Milwaukee Bucks,Milwaukee Bucks,New York Knicks,23,8,31,345358800.0,1981
+Milwaukee Bucks,Atlanta Hawks,Milwaukee Bucks,23,9,32,345531600.0,1981
+Milwaukee Bucks,Milwaukee Bucks,San Antonio Spurs,24,9,33,345618000.0,1981
+Milwaukee Bucks,New Jersey Nets,Milwaukee Bucks,24,10,34,345877200.0,1981
+Milwaukee Bucks,Milwaukee Bucks,Detroit Pistons,25,10,35,345963600.0,1981
+Milwaukee Bucks,Chicago Bulls,Milwaukee Bucks,25,11,36,346050000.0,1981
+Milwaukee Bucks,Milwaukee Bucks,Houston Rockets,26,11,37,346222800.0,1981
+Milwaukee Bucks,Milwaukee Bucks,Dallas Mavericks,27,11,38,346741200.0,1981
+Milwaukee Bucks,Washington Bullets,Milwaukee Bucks,28,11,39,347000400.0,1981
+Milwaukee Bucks,Milwaukee Bucks,San Diego Clippers,29,11,40,347432400.0,1981
+Milwaukee Bucks,Milwaukee Bucks,New Jersey Nets,30,11,41,347605200.0,1981
+Milwaukee Bucks,Milwaukee Bucks,Atlanta Hawks,31,11,42,347778000.0,1981
+Milwaukee Bucks,Indiana Pacers,Milwaukee Bucks,31,12,43,347950800.0,1981
+Milwaukee Bucks,Milwaukee Bucks,Phoenix Suns,32,12,44,348037200.0,1981
+Milwaukee Bucks,Detroit Pistons,Milwaukee Bucks,33,12,45,348210000.0,1981
+Milwaukee Bucks,Milwaukee Bucks,Philadelphia 76ers,34,12,46,348382800.0,1981
+Milwaukee Bucks,Milwaukee Bucks,Kansas City Kings,35,12,47,348469200.0,1981
+Milwaukee Bucks,Milwaukee Bucks,Portland Trail Blazers,36,12,48,348642000.0,1981
+Milwaukee Bucks,Golden State Warriors,Milwaukee Bucks,37,12,49,348901200.0,1981
+Milwaukee Bucks,Phoenix Suns,Milwaukee Bucks,37,13,50,349074000.0,1981
+Milwaukee Bucks,San Diego Clippers,Milwaukee Bucks,38,13,51,349160400.0,1981
+Milwaukee Bucks,Seattle Supersonics,Milwaukee Bucks,39,13,52,349506000.0,1981
+Milwaukee Bucks,Denver Nuggets,Milwaukee Bucks,39,14,53,349592400.0,1981
+Milwaukee Bucks,Milwaukee Bucks,Indiana Pacers,39,15,54,350024400.0,1981
+Milwaukee Bucks,Milwaukee Bucks,Boston Celtics,40,15,55,350197200.0,1981
+Milwaukee Bucks,Cleveland Cavaliers,Milwaukee Bucks,41,15,56,350283600.0,1981
+Milwaukee Bucks,Milwaukee Bucks,Chicago Bulls,42,15,57,350456400.0,1981
+Milwaukee Bucks,Indiana Pacers,Milwaukee Bucks,43,15,58,350715600.0,1981
+Milwaukee Bucks,Milwaukee Bucks,Golden State Warriors,43,16,59,350888400.0,1981
+Milwaukee Bucks,Houston Rockets,Milwaukee Bucks,44,16,60,350974800.0,1981
+Milwaukee Bucks,San Antonio Spurs,Milwaukee Bucks,44,17,61,351061200.0,1981
+Milwaukee Bucks,Dallas Mavericks,Milwaukee Bucks,45,17,62,351234000.0,1981
+Milwaukee Bucks,Kansas City Kings,Milwaukee Bucks,45,18,63,351493200.0,1981
+Milwaukee Bucks,Washington Bullets,Milwaukee Bucks,46,18,64,351666000.0,1981
+Milwaukee Bucks,Milwaukee Bucks,Los Angeles Lakers,47,18,65,351925200.0,1981
+Milwaukee Bucks,Milwaukee Bucks,Washington Bullets,48,18,66,352270800.0,1981
+Milwaukee Bucks,Milwaukee Bucks,Detroit Pistons,49,18,67,352443600.0,1981
+Milwaukee Bucks,Milwaukee Bucks,Atlanta Hawks,50,18,68,352616400.0,1981
+Milwaukee Bucks,New York Knicks,Milwaukee Bucks,51,18,69,352702800.0,1981
+Milwaukee Bucks,Philadelphia 76ers,Milwaukee Bucks,51,19,70,352875600.0,1981
+Milwaukee Bucks,Milwaukee Bucks,Cleveland Cavaliers,52,19,71,352962000.0,1981
+Milwaukee Bucks,Boston Celtics,Milwaukee Bucks,52,20,72,353134800.0,1981
+Milwaukee Bucks,Milwaukee Bucks,Denver Nuggets,53,20,73,353221200.0,1981
+Milwaukee Bucks,Milwaukee Bucks,Philadelphia 76ers,54,20,74,353307600.0,1981
+Milwaukee Bucks,Milwaukee Bucks,Seattle Supersonics,55,20,75,353480400.0,1981
+Milwaukee Bucks,Chicago Bulls,Milwaukee Bucks,55,21,76,353653200.0,1981
+Milwaukee Bucks,Milwaukee Bucks,New York Knicks,55,22,77,353739600.0,1981
+Milwaukee Bucks,Detroit Pistons,Milwaukee Bucks,56,22,78,353912400.0,1981
+Milwaukee Bucks,New Jersey Nets,Milwaukee Bucks,57,22,79,354085200.0,1981
+Milwaukee Bucks,Milwaukee Bucks,New Jersey Nets,58,22,80,354258000.0,1981
+Milwaukee Bucks,Milwaukee Bucks,Cleveland Cavaliers,59,22,81,354430800.0,1981
+Milwaukee Bucks,Atlanta Hawks,Milwaukee Bucks,60,22,82,354690000.0,1981
+New Jersey Nets,New Jersey Nets,Indiana Pacers,0,1,1,339998400.0,1981
+New Jersey Nets,Cleveland Cavaliers,New Jersey Nets,1,1,2,340084800.0,1981
+New Jersey Nets,New Jersey Nets,Detroit Pistons,2,1,3,340257600.0,1981
+New Jersey Nets,New Jersey Nets,Philadelphia 76ers,2,2,4,340430400.0,1981
+New Jersey Nets,Washington Bullets,New Jersey Nets,3,2,5,340603200.0,1981
+New Jersey Nets,Chicago Bulls,New Jersey Nets,4,2,6,340689600.0,1981
+New Jersey Nets,Milwaukee Bucks,New Jersey Nets,4,3,7,340776000.0,1981
+New Jersey Nets,New Jersey Nets,Boston Celtics,4,4,8,341035200.0,1981
+New Jersey Nets,New Jersey Nets,Cleveland Cavaliers,4,5,9,341208000.0,1981
+New Jersey Nets,New York Knicks,New Jersey Nets,4,6,10,341294400.0,1981
+New Jersey Nets,New Jersey Nets,Milwaukee Bucks,4,7,11,341643600.0,1981
+New Jersey Nets,New Jersey Nets,Washington Bullets,5,7,12,341816400.0,1981
+New Jersey Nets,Indiana Pacers,New Jersey Nets,5,8,13,341902800.0,1981
+New Jersey Nets,New Jersey Nets,Chicago Bulls,5,9,14,342248400.0,1981
+New Jersey Nets,New Jersey Nets,Atlanta Hawks,6,9,15,342507600.0,1981
+New Jersey Nets,New Jersey Nets,Denver Nuggets,7,9,16,342853200.0,1981
+New Jersey Nets,Boston Celtics,New Jersey Nets,7,10,17,343026000.0,1981
+New Jersey Nets,Philadelphia 76ers,New Jersey Nets,7,11,18,343112400.0,1981
+New Jersey Nets,New Jersey Nets,Detroit Pistons,8,11,19,343198800.0,1981
+New Jersey Nets,New Jersey Nets,San Antonio Spurs,8,12,20,343458000.0,1981
+New Jersey Nets,New Jersey Nets,Houston Rockets,8,13,21,343630800.0,1981
+New Jersey Nets,Detroit Pistons,New Jersey Nets,8,14,22,343717200.0,1981
+New Jersey Nets,Kansas City Kings,New Jersey Nets,8,15,23,344062800.0,1981
+New Jersey Nets,New Jersey Nets,Utah Jazz,9,15,24,344235600.0,1981
+New Jersey Nets,Seattle Supersonics,New Jersey Nets,9,16,25,344408400.0,1981
+New Jersey Nets,Portland Trail Blazers,New Jersey Nets,10,16,26,344581200.0,1981
+New Jersey Nets,Golden State Warriors,New Jersey Nets,10,17,27,344667600.0,1981
+New Jersey Nets,Phoenix Suns,New Jersey Nets,11,17,28,344840400.0,1981
+New Jersey Nets,San Diego Clippers,New Jersey Nets,11,18,29,345013200.0,1981
+New Jersey Nets,New Jersey Nets,New York Knicks,11,19,30,345272400.0,1981
+New Jersey Nets,Boston Celtics,New Jersey Nets,11,20,31,345445200.0,1981
+New Jersey Nets,New Jersey Nets,Philadelphia 76ers,11,21,32,345618000.0,1981
+New Jersey Nets,Atlanta Hawks,New Jersey Nets,11,22,33,345790800.0,1981
+New Jersey Nets,New Jersey Nets,Milwaukee Bucks,12,22,34,345877200.0,1981
+New Jersey Nets,Philadelphia 76ers,New Jersey Nets,12,23,35,346050000.0,1981
+New Jersey Nets,Indiana Pacers,New Jersey Nets,12,24,36,346395600.0,1981
+New Jersey Nets,Washington Bullets,New Jersey Nets,12,25,37,346568400.0,1981
+New Jersey Nets,New Jersey Nets,Atlanta Hawks,12,26,38,346654800.0,1981
+New Jersey Nets,New Jersey Nets,Kansas City Kings,12,27,39,346827600.0,1981
+New Jersey Nets,Chicago Bulls,New Jersey Nets,12,28,40,347000400.0,1981
+New Jersey Nets,New Jersey Nets,Cleveland Cavaliers,12,29,41,347259600.0,1981
+New Jersey Nets,New Jersey Nets,Indiana Pacers,12,30,42,347432400.0,1981
+New Jersey Nets,Milwaukee Bucks,New Jersey Nets,12,31,43,347605200.0,1981
+New Jersey Nets,Indiana Pacers,New Jersey Nets,12,32,44,347691600.0,1981
+New Jersey Nets,New Jersey Nets,Phoenix Suns,12,33,45,347864400.0,1981
+New Jersey Nets,New Jersey Nets,Boston Celtics,12,34,46,347950800.0,1981
+New Jersey Nets,Philadelphia 76ers,New Jersey Nets,12,35,47,348296400.0,1981
+New Jersey Nets,New Jersey Nets,Los Angeles Lakers,12,36,48,348469200.0,1981
+New Jersey Nets,Detroit Pistons,New Jersey Nets,13,36,49,348555600.0,1981
+New Jersey Nets,Washington Bullets,New Jersey Nets,13,37,50,348642000.0,1981
+New Jersey Nets,New Jersey Nets,Seattle Supersonics,14,37,51,348901200.0,1981
+New Jersey Nets,Cleveland Cavaliers,New Jersey Nets,14,38,52,348987600.0,1981
+New Jersey Nets,New Jersey Nets,Washington Bullets,14,39,53,349246800.0,1981
+New Jersey Nets,Dallas Mavericks,New Jersey Nets,15,39,54,349419600.0,1981
+New Jersey Nets,Houston Rockets,New Jersey Nets,15,40,55,349506000.0,1981
+New Jersey Nets,San Antonio Spurs,New Jersey Nets,15,41,56,349592400.0,1981
+New Jersey Nets,New Jersey Nets,San Diego Clippers,15,42,57,350110800.0,1981
+New Jersey Nets,New York Knicks,New Jersey Nets,15,43,58,350370000.0,1981
+New Jersey Nets,New Jersey Nets,New York Knicks,15,44,59,350456400.0,1981
+New Jersey Nets,New Jersey Nets,Chicago Bulls,16,44,60,350715600.0,1981
+New Jersey Nets,New Jersey Nets,Indiana Pacers,17,44,61,350888400.0,1981
+New Jersey Nets,New Jersey Nets,Golden State Warriors,18,44,62,351061200.0,1981
+New Jersey Nets,New Jersey Nets,Cleveland Cavaliers,19,44,63,351320400.0,1981
+New Jersey Nets,New Jersey Nets,Portland Trail Blazers,20,44,64,351493200.0,1981
+New Jersey Nets,New Jersey Nets,Dallas Mavericks,20,45,65,351666000.0,1981
+New Jersey Nets,Denver Nuggets,New Jersey Nets,20,46,66,351838800.0,1981
+New Jersey Nets,Utah Jazz,New Jersey Nets,20,47,67,351925200.0,1981
+New Jersey Nets,Los Angeles Lakers,New Jersey Nets,20,48,68,352098000.0,1981
+New Jersey Nets,New Jersey Nets,Detroit Pistons,20,49,69,352270800.0,1981
+New Jersey Nets,Chicago Bulls,New Jersey Nets,20,50,70,352443600.0,1981
+New Jersey Nets,Atlanta Hawks,New Jersey Nets,20,51,71,352702800.0,1981
+New Jersey Nets,New Jersey Nets,Washington Bullets,21,51,72,353134800.0,1981
+New Jersey Nets,Cleveland Cavaliers,New Jersey Nets,22,51,73,353307600.0,1981
+New Jersey Nets,Boston Celtics,New Jersey Nets,22,52,74,353480400.0,1981
+New Jersey Nets,New Jersey Nets,Philadelphia 76ers,23,52,75,353653200.0,1981
+New Jersey Nets,Detroit Pistons,New Jersey Nets,23,53,76,353739600.0,1981
+New Jersey Nets,New Jersey Nets,Atlanta Hawks,24,53,77,353912400.0,1981
+New Jersey Nets,New Jersey Nets,Milwaukee Bucks,24,54,78,354085200.0,1981
+New Jersey Nets,Milwaukee Bucks,New Jersey Nets,24,55,79,354258000.0,1981
+New Jersey Nets,New Jersey Nets,Boston Celtics,24,56,80,354344400.0,1981
+New Jersey Nets,New Jersey Nets,New York Knicks,24,57,81,354603600.0,1981
+New Jersey Nets,New York Knicks,New Jersey Nets,24,58,82,354690000.0,1981
+New York Knicks,New York Knicks,Milwaukee Bucks,1,0,1,340084800.0,1981
+New York Knicks,New York Knicks,Philadelphia 76ers,2,0,2,340344000.0,1981
+New York Knicks,Atlanta Hawks,New York Knicks,2,1,3,340603200.0,1981
+New York Knicks,New York Knicks,Chicago Bulls,3,1,4,340948800.0,1981
+New York Knicks,Boston Celtics,New York Knicks,4,1,5,341121600.0,1981
+New York Knicks,New York Knicks,New Jersey Nets,5,1,6,341294400.0,1981
+New York Knicks,Indiana Pacers,New York Knicks,5,2,7,341643600.0,1981
+New York Knicks,New York Knicks,Atlanta Hawks,6,2,8,341730000.0,1981
+New York Knicks,New York Knicks,Washington Bullets,7,2,9,341902800.0,1981
+New York Knicks,Kansas City Kings,New York Knicks,7,3,10,342248400.0,1981
+New York Knicks,Denver Nuggets,New York Knicks,8,3,11,342421200.0,1981
+New York Knicks,Utah Jazz,New York Knicks,9,3,12,342507600.0,1981
+New York Knicks,New York Knicks,Detroit Pistons,10,3,13,342766800.0,1981
+New York Knicks,Philadelphia 76ers,New York Knicks,11,3,14,342853200.0,1981
+New York Knicks,Milwaukee Bucks,New York Knicks,11,4,15,343026000.0,1981
+New York Knicks,New York Knicks,Cleveland Cavaliers,12,4,16,343112400.0,1981
+New York Knicks,New York Knicks,Philadelphia 76ers,12,5,17,343371600.0,1981
+New York Knicks,Chicago Bulls,New York Knicks,12,6,18,343630800.0,1981
+New York Knicks,New York Knicks,Golden State Warriors,12,7,19,343717200.0,1981
+New York Knicks,New York Knicks,Houston Rockets,13,7,20,343890000.0,1981
+New York Knicks,Cleveland Cavaliers,New York Knicks,14,7,21,344062800.0,1981
+New York Knicks,Boston Celtics,New York Knicks,14,8,22,344235600.0,1981
+New York Knicks,New York Knicks,Portland Trail Blazers,15,8,23,344322000.0,1981
+New York Knicks,New York Knicks,Indiana Pacers,15,9,24,344581200.0,1981
+New York Knicks,Philadelphia 76ers,New York Knicks,15,10,25,344667600.0,1981
+New York Knicks,New York Knicks,Milwaukee Bucks,16,10,26,344926800.0,1981
+New York Knicks,New York Knicks,Washington Bullets,17,10,27,345186000.0,1981
+New York Knicks,New Jersey Nets,New York Knicks,18,10,28,345272400.0,1981
+New York Knicks,Milwaukee Bucks,New York Knicks,18,11,29,345358800.0,1981
+New York Knicks,New York Knicks,Detroit Pistons,19,11,30,345531600.0,1981
+New York Knicks,New York Knicks,Utah Jazz,20,11,31,345790800.0,1981
+New York Knicks,Detroit Pistons,New York Knicks,21,11,32,345877200.0,1981
+New York Knicks,Washington Bullets,New York Knicks,22,11,33,346050000.0,1981
+New York Knicks,New York Knicks,Denver Nuggets,23,11,34,346136400.0,1981
+New York Knicks,Chicago Bulls,New York Knicks,23,12,35,346395600.0,1981
+New York Knicks,New York Knicks,Boston Celtics,23,13,36,346568400.0,1981
+New York Knicks,New York Knicks,Kansas City Kings,24,13,37,346741200.0,1981
+New York Knicks,New York Knicks,Dallas Mavericks,25,13,38,347000400.0,1981
+New York Knicks,Detroit Pistons,New York Knicks,25,14,39,347259600.0,1981
+New York Knicks,New York Knicks,Atlanta Hawks,26,14,40,347346000.0,1981
+New York Knicks,New York Knicks,San Antonio Spurs,26,15,41,347605200.0,1981
+New York Knicks,New York Knicks,Indiana Pacers,26,16,42,347778000.0,1981
+New York Knicks,Cleveland Cavaliers,New York Knicks,27,16,43,347950800.0,1981
+New York Knicks,New York Knicks,Boston Celtics,27,17,44,348210000.0,1981
+New York Knicks,San Antonio Spurs,New York Knicks,27,18,45,348296400.0,1981
+New York Knicks,Dallas Mavericks,New York Knicks,27,19,46,348469200.0,1981
+New York Knicks,Houston Rockets,New York Knicks,28,19,47,348555600.0,1981
+New York Knicks,New York Knicks,Seattle Supersonics,29,19,48,348814800.0,1981
+New York Knicks,San Diego Clippers,New York Knicks,30,19,49,348987600.0,1981
+New York Knicks,Portland Trail Blazers,New York Knicks,30,20,50,349074000.0,1981
+New York Knicks,Golden State Warriors,New York Knicks,30,21,51,349160400.0,1981
+New York Knicks,New York Knicks,Phoenix Suns,30,22,52,349333200.0,1981
+New York Knicks,Atlanta Hawks,New York Knicks,31,22,53,349592400.0,1981
+New York Knicks,New York Knicks,San Diego Clippers,32,22,54,350024400.0,1981
+New York Knicks,Chicago Bulls,New York Knicks,33,22,55,350283600.0,1981
+New York Knicks,New York Knicks,New Jersey Nets,34,22,56,350370000.0,1981
+New York Knicks,New Jersey Nets,New York Knicks,35,22,57,350456400.0,1981
+New York Knicks,Cleveland Cavaliers,New York Knicks,36,22,58,350802000.0,1981
+New York Knicks,New York Knicks,Detroit Pistons,37,22,59,350888400.0,1981
+New York Knicks,Phoenix Suns,New York Knicks,38,22,60,351061200.0,1981
+New York Knicks,Los Angeles Lakers,New York Knicks,38,23,61,351234000.0,1981
+New York Knicks,Seattle Supersonics,New York Knicks,39,23,62,351320400.0,1981
+New York Knicks,New York Knicks,Washington Bullets,40,23,63,351493200.0,1981
+New York Knicks,New York Knicks,Los Angeles Lakers,40,24,64,351666000.0,1981
+New York Knicks,Atlanta Hawks,New York Knicks,41,24,65,351838800.0,1981
+New York Knicks,Washington Bullets,New York Knicks,41,25,66,351925200.0,1981
+New York Knicks,New York Knicks,Chicago Bulls,41,26,67,352184400.0,1981
+New York Knicks,New York Knicks,Atlanta Hawks,41,27,68,352443600.0,1981
+New York Knicks,Detroit Pistons,New York Knicks,42,27,69,352616400.0,1981
+New York Knicks,New York Knicks,Milwaukee Bucks,42,28,70,352702800.0,1981
+New York Knicks,Boston Celtics,New York Knicks,42,29,71,352875600.0,1981
+New York Knicks,Philadelphia 76ers,New York Knicks,42,30,72,353134800.0,1981
+New York Knicks,New York Knicks,Chicago Bulls,43,30,73,353307600.0,1981
+New York Knicks,New York Knicks,Philadelphia 76ers,44,30,74,353480400.0,1981
+New York Knicks,New York Knicks,Indiana Pacers,45,30,75,353653200.0,1981
+New York Knicks,Milwaukee Bucks,New York Knicks,46,30,76,353739600.0,1981
+New York Knicks,Indiana Pacers,New York Knicks,47,30,77,353912400.0,1981
+New York Knicks,New York Knicks,Cleveland Cavaliers,48,30,78,353998800.0,1981
+New York Knicks,New York Knicks,Boston Celtics,48,31,79,354258000.0,1981
+New York Knicks,Washington Bullets,New York Knicks,48,32,80,354344400.0,1981
+New York Knicks,New Jersey Nets,New York Knicks,49,32,81,354603600.0,1981
+New York Knicks,New York Knicks,New Jersey Nets,50,32,82,354690000.0,1981
+Philadelphia 76ers,Philadelphia 76ers,Milwaukee Bucks,0,1,1,339998400.0,1981
+Philadelphia 76ers,Washington Bullets,Philadelphia 76ers,1,1,2,340084800.0,1981
+Philadelphia 76ers,New York Knicks,Philadelphia 76ers,1,2,3,340344000.0,1981
+Philadelphia 76ers,New Jersey Nets,Philadelphia 76ers,2,2,4,340430400.0,1981
+Philadelphia 76ers,Philadelphia 76ers,Washington Bullets,3,2,5,340689600.0,1981
+Philadelphia 76ers,Detroit Pistons,Philadelphia 76ers,4,2,6,341035200.0,1981
+Philadelphia 76ers,Atlanta Hawks,Philadelphia 76ers,5,2,7,341294400.0,1981
+Philadelphia 76ers,Cleveland Cavaliers,Philadelphia 76ers,6,2,8,341557200.0,1981
+Philadelphia 76ers,Philadelphia 76ers,Chicago Bulls,7,2,9,341643600.0,1981
+Philadelphia 76ers,Philadelphia 76ers,Atlanta Hawks,8,2,10,341816400.0,1981
+Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,9,2,11,341902800.0,1981
+Philadelphia 76ers,Philadelphia 76ers,Detroit Pistons,10,2,12,342248400.0,1981
+Philadelphia 76ers,Philadelphia 76ers,Kansas City Kings,11,2,13,342421200.0,1981
+Philadelphia 76ers,Milwaukee Bucks,Philadelphia 76ers,12,2,14,342594000.0,1981
+Philadelphia 76ers,Chicago Bulls,Philadelphia 76ers,13,2,15,342766800.0,1981
+Philadelphia 76ers,Philadelphia 76ers,New York Knicks,13,3,16,342853200.0,1981
+Philadelphia 76ers,Indiana Pacers,Philadelphia 76ers,14,3,17,342939600.0,1981
+Philadelphia 76ers,Philadelphia 76ers,New Jersey Nets,15,3,18,343112400.0,1981
+Philadelphia 76ers,New York Knicks,Philadelphia 76ers,16,3,19,343371600.0,1981
+Philadelphia 76ers,Philadelphia 76ers,Golden State Warriors,17,3,20,343458000.0,1981
+Philadelphia 76ers,Philadelphia 76ers,Indiana Pacers,18,3,21,343630800.0,1981
+Philadelphia 76ers,San Antonio Spurs,Philadelphia 76ers,19,3,22,343717200.0,1981
+Philadelphia 76ers,Dallas Mavericks,Philadelphia 76ers,20,3,23,343976400.0,1981
+Philadelphia 76ers,Houston Rockets,Philadelphia 76ers,21,3,24,344062800.0,1981
+Philadelphia 76ers,Philadelphia 76ers,Portland Trail Blazers,22,3,25,344235600.0,1981
+Philadelphia 76ers,Philadelphia 76ers,Utah Jazz,23,3,26,344322000.0,1981
+Philadelphia 76ers,Atlanta Hawks,Philadelphia 76ers,23,4,27,344581200.0,1981
+Philadelphia 76ers,Philadelphia 76ers,New York Knicks,24,4,28,344667600.0,1981
+Philadelphia 76ers,Philadelphia 76ers,Atlanta Hawks,25,4,29,344840400.0,1981
+Philadelphia 76ers,Cleveland Cavaliers,Philadelphia 76ers,26,4,30,345186000.0,1981
+Philadelphia 76ers,Philadelphia 76ers,Chicago Bulls,27,4,31,345272400.0,1981
+Philadelphia 76ers,Philadelphia 76ers,Washington Bullets,28,4,32,345445200.0,1981
+Philadelphia 76ers,New Jersey Nets,Philadelphia 76ers,29,4,33,345618000.0,1981
+Philadelphia 76ers,Indiana Pacers,Philadelphia 76ers,30,4,34,345790800.0,1981
+Philadelphia 76ers,Philadelphia 76ers,Cleveland Cavaliers,31,4,35,345877200.0,1981
+Philadelphia 76ers,Philadelphia 76ers,New Jersey Nets,32,4,36,346050000.0,1981
+Philadelphia 76ers,Kansas City Kings,Philadelphia 76ers,33,4,37,346654800.0,1981
+Philadelphia 76ers,Denver Nuggets,Philadelphia 76ers,33,5,38,346741200.0,1981
+Philadelphia 76ers,Los Angeles Lakers,Philadelphia 76ers,33,6,39,346827600.0,1981
+Philadelphia 76ers,Portland Trail Blazers,Philadelphia 76ers,33,7,40,347000400.0,1981
+Philadelphia 76ers,Seattle Supersonics,Philadelphia 76ers,34,7,41,347259600.0,1981
+Philadelphia 76ers,Golden State Warriors,Philadelphia 76ers,35,7,42,347346000.0,1981
+Philadelphia 76ers,Philadelphia 76ers,San Antonio Spurs,36,7,43,347691600.0,1981
+Philadelphia 76ers,Philadelphia 76ers,Houston Rockets,37,7,44,347864400.0,1981
+Philadelphia 76ers,Chicago Bulls,Philadelphia 76ers,38,7,45,347950800.0,1981
+Philadelphia 76ers,Philadelphia 76ers,New Jersey Nets,39,7,46,348296400.0,1981
+Philadelphia 76ers,Milwaukee Bucks,Philadelphia 76ers,39,8,47,348382800.0,1981
+Philadelphia 76ers,Philadelphia 76ers,Cleveland Cavaliers,40,8,48,348469200.0,1981
+Philadelphia 76ers,Philadelphia 76ers,Seattle Supersonics,41,8,49,348642000.0,1981
+Philadelphia 76ers,Detroit Pistons,Philadelphia 76ers,41,9,50,348814800.0,1981
+Philadelphia 76ers,Philadelphia 76ers,Indiana Pacers,42,9,51,348901200.0,1981
+Philadelphia 76ers,Washington Bullets,Philadelphia 76ers,43,9,52,348987600.0,1981
+Philadelphia 76ers,Philadelphia 76ers,Phoenix Suns,44,9,53,349246800.0,1981
+Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,44,10,54,349506000.0,1981
+Philadelphia 76ers,Atlanta Hawks,Philadelphia 76ers,45,10,55,350024400.0,1981
+Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,46,10,56,350110800.0,1981
+Philadelphia 76ers,Philadelphia 76ers,San Diego Clippers,47,10,57,350283600.0,1981
+Philadelphia 76ers,Philadelphia 76ers,Los Angeles Lakers,48,10,58,350456400.0,1981
+Philadelphia 76ers,Philadelphia 76ers,Cleveland Cavaliers,49,10,59,350715600.0,1981
+Philadelphia 76ers,Philadelphia 76ers,Washington Bullets,49,11,60,350888400.0,1981
+Philadelphia 76ers,Philadelphia 76ers,Atlanta Hawks,50,11,61,351061200.0,1981
+Philadelphia 76ers,Philadelphia 76ers,Detroit Pistons,51,11,62,351320400.0,1981
+Philadelphia 76ers,Washington Bullets,Philadelphia 76ers,51,12,63,351406800.0,1981
+Philadelphia 76ers,Philadelphia 76ers,Dallas Mavericks,52,12,64,351493200.0,1981
+Philadelphia 76ers,Phoenix Suns,Philadelphia 76ers,52,13,65,351666000.0,1981
+Philadelphia 76ers,San Diego Clippers,Philadelphia 76ers,53,13,66,351925200.0,1981
+Philadelphia 76ers,Utah Jazz,Philadelphia 76ers,54,13,67,352098000.0,1981
+Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,54,14,68,352270800.0,1981
+Philadelphia 76ers,Philadelphia 76ers,Chicago Bulls,54,15,69,352530000.0,1981
+Philadelphia 76ers,Philadelphia 76ers,Denver Nuggets,55,15,70,352702800.0,1981
+Philadelphia 76ers,Philadelphia 76ers,Milwaukee Bucks,56,15,71,352875600.0,1981
+Philadelphia 76ers,Indiana Pacers,Philadelphia 76ers,57,15,72,353048400.0,1981
+Philadelphia 76ers,Philadelphia 76ers,New York Knicks,58,15,73,353134800.0,1981
+Philadelphia 76ers,Milwaukee Bucks,Philadelphia 76ers,58,16,74,353307600.0,1981
+Philadelphia 76ers,New York Knicks,Philadelphia 76ers,58,17,75,353480400.0,1981
+Philadelphia 76ers,New Jersey Nets,Philadelphia 76ers,58,18,76,353653200.0,1981
+Philadelphia 76ers,Philadelphia 76ers,Indiana Pacers,59,18,77,353739600.0,1981
+Philadelphia 76ers,Chicago Bulls,Philadelphia 76ers,59,19,78,353912400.0,1981
+Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,60,19,79,354085200.0,1981
+Philadelphia 76ers,Philadelphia 76ers,Detroit Pistons,61,19,80,354344400.0,1981
+Philadelphia 76ers,Cleveland Cavaliers,Philadelphia 76ers,62,19,81,354517200.0,1981
+Philadelphia 76ers,Boston Celtics,Philadelphia 76ers,62,20,82,354690000.0,1981
+Phoenix Suns,Phoenix Suns,Golden State Warriors,1,0,1,339998400.0,1981
+Phoenix Suns,Phoenix Suns,Kansas City Kings,2,0,2,340171200.0,1981
+Phoenix Suns,Utah Jazz,Phoenix Suns,3,0,3,340430400.0,1981
+Phoenix Suns,Los Angeles Lakers,Phoenix Suns,3,1,4,340603200.0,1981
+Phoenix Suns,San Diego Clippers,Phoenix Suns,4,1,5,340776000.0,1981
+Phoenix Suns,Phoenix Suns,Dallas Mavericks,5,1,6,340948800.0,1981
+Phoenix Suns,Denver Nuggets,Phoenix Suns,6,1,7,341208000.0,1981
+Phoenix Suns,Seattle Supersonics,Phoenix Suns,7,1,8,341294400.0,1981
+Phoenix Suns,Phoenix Suns,San Diego Clippers,8,1,9,341643600.0,1981
+Phoenix Suns,Detroit Pistons,Phoenix Suns,9,1,10,341816400.0,1981
+Phoenix Suns,Kansas City Kings,Phoenix Suns,10,1,11,341902800.0,1981
+Phoenix Suns,Phoenix Suns,Indiana Pacers,11,1,12,342162000.0,1981
+Phoenix Suns,San Antonio Spurs,Phoenix Suns,11,2,13,342248400.0,1981
+Phoenix Suns,Houston Rockets,Phoenix Suns,12,2,14,342507600.0,1981
+Phoenix Suns,San Diego Clippers,Phoenix Suns,13,2,15,342766800.0,1981
+Phoenix Suns,Phoenix Suns,San Antonio Spurs,14,2,16,342853200.0,1981
+Phoenix Suns,Golden State Warriors,Phoenix Suns,14,3,17,343112400.0,1981
+Phoenix Suns,Phoenix Suns,Portland Trail Blazers,15,3,18,343198800.0,1981
+Phoenix Suns,Dallas Mavericks,Phoenix Suns,16,3,19,343371600.0,1981
+Phoenix Suns,Phoenix Suns,Los Angeles Lakers,17,3,20,343544400.0,1981
+Phoenix Suns,Los Angeles Lakers,Phoenix Suns,17,4,21,343630800.0,1981
+Phoenix Suns,Phoenix Suns,Denver Nuggets,18,4,22,343803600.0,1981
+Phoenix Suns,Phoenix Suns,Seattle Supersonics,19,4,23,344062800.0,1981
+Phoenix Suns,Phoenix Suns,Chicago Bulls,20,4,24,344235600.0,1981
+Phoenix Suns,Golden State Warriors,Phoenix Suns,21,4,25,344322000.0,1981
+Phoenix Suns,Phoenix Suns,Houston Rockets,22,4,26,344408400.0,1981
+Phoenix Suns,San Antonio Spurs,Phoenix Suns,23,4,27,344581200.0,1981
+Phoenix Suns,Kansas City Kings,Phoenix Suns,23,5,28,344667600.0,1981
+Phoenix Suns,Phoenix Suns,New Jersey Nets,23,6,29,344840400.0,1981
+Phoenix Suns,Phoenix Suns,Golden State Warriors,24,6,30,345013200.0,1981
+Phoenix Suns,Chicago Bulls,Phoenix Suns,25,6,31,345186000.0,1981
+Phoenix Suns,Indiana Pacers,Phoenix Suns,25,7,32,345272400.0,1981
+Phoenix Suns,Phoenix Suns,Portland Trail Blazers,25,8,33,345618000.0,1981
+Phoenix Suns,Phoenix Suns,Dallas Mavericks,26,8,34,345877200.0,1981
+Phoenix Suns,Phoenix Suns,Utah Jazz,27,8,35,346050000.0,1981
+Phoenix Suns,Portland Trail Blazers,Phoenix Suns,28,8,36,346222800.0,1981
+Phoenix Suns,Seattle Supersonics,Phoenix Suns,29,8,37,346309200.0,1981
+Phoenix Suns,Phoenix Suns,Detroit Pistons,30,8,38,346395600.0,1981
+Phoenix Suns,Phoenix Suns,San Antonio Spurs,31,8,39,346568400.0,1981
+Phoenix Suns,Phoenix Suns,Los Angeles Lakers,32,8,40,346741200.0,1981
+Phoenix Suns,Phoenix Suns,Boston Celtics,32,9,41,347000400.0,1981
+Phoenix Suns,Denver Nuggets,Phoenix Suns,33,9,42,347259600.0,1981
+Phoenix Suns,Atlanta Hawks,Phoenix Suns,34,9,43,347605200.0,1981
+Phoenix Suns,Boston Celtics,Phoenix Suns,34,10,44,347691600.0,1981
+Phoenix Suns,New Jersey Nets,Phoenix Suns,35,10,45,347864400.0,1981
+Phoenix Suns,Milwaukee Bucks,Phoenix Suns,35,11,46,348037200.0,1981
+Phoenix Suns,Phoenix Suns,Seattle Supersonics,36,11,47,348210000.0,1981
+Phoenix Suns,Phoenix Suns,Denver Nuggets,37,11,48,348296400.0,1981
+Phoenix Suns,Phoenix Suns,Houston Rockets,38,11,49,348469200.0,1981
+Phoenix Suns,Phoenix Suns,Atlanta Hawks,39,11,50,348642000.0,1981
+Phoenix Suns,San Antonio Spurs,Phoenix Suns,39,12,51,348814800.0,1981
+Phoenix Suns,Houston Rockets,Phoenix Suns,39,13,52,348901200.0,1981
+Phoenix Suns,Phoenix Suns,Milwaukee Bucks,40,13,53,349074000.0,1981
+Phoenix Suns,Philadelphia 76ers,Phoenix Suns,40,14,54,349246800.0,1981
+Phoenix Suns,New York Knicks,Phoenix Suns,41,14,55,349333200.0,1981
+Phoenix Suns,Washington Bullets,Phoenix Suns,41,15,56,349506000.0,1981
+Phoenix Suns,Cleveland Cavaliers,Phoenix Suns,41,16,57,349592400.0,1981
+Phoenix Suns,Phoenix Suns,Utah Jazz,42,16,58,350110800.0,1981
+Phoenix Suns,Phoenix Suns,Houston Rockets,43,16,59,350283600.0,1981
+Phoenix Suns,Phoenix Suns,Washington Bullets,44,16,60,350456400.0,1981
+Phoenix Suns,San Diego Clippers,Phoenix Suns,45,16,61,350629200.0,1981
+Phoenix Suns,Phoenix Suns,Dallas Mavericks,46,16,62,350715600.0,1981
+Phoenix Suns,Phoenix Suns,San Diego Clippers,47,16,63,350888400.0,1981
+Phoenix Suns,Phoenix Suns,New York Knicks,47,17,64,351061200.0,1981
+Phoenix Suns,Phoenix Suns,Golden State Warriors,48,17,65,351234000.0,1981
+Phoenix Suns,Denver Nuggets,Phoenix Suns,48,18,66,351406800.0,1981
+Phoenix Suns,Seattle Supersonics,Phoenix Suns,48,19,67,351493200.0,1981
+Phoenix Suns,Phoenix Suns,Philadelphia 76ers,49,19,68,351666000.0,1981
+Phoenix Suns,Portland Trail Blazers,Phoenix Suns,49,20,69,352098000.0,1981
+Phoenix Suns,Los Angeles Lakers,Phoenix Suns,50,20,70,352270800.0,1981
+Phoenix Suns,Phoenix Suns,Cleveland Cavaliers,51,20,71,352530000.0,1981
+Phoenix Suns,Utah Jazz,Phoenix Suns,52,20,72,352616400.0,1981
+Phoenix Suns,Phoenix Suns,Portland Trail Blazers,53,20,73,352702800.0,1981
+Phoenix Suns,Kansas City Kings,Phoenix Suns,53,21,74,352875600.0,1981
+Phoenix Suns,Dallas Mavericks,Phoenix Suns,53,22,75,353048400.0,1981
+Phoenix Suns,Phoenix Suns,Los Angeles Lakers,54,22,76,353739600.0,1981
+Phoenix Suns,Golden State Warriors,Phoenix Suns,54,23,77,353998800.0,1981
+Phoenix Suns,Phoenix Suns,Seattle Supersonics,55,23,78,354085200.0,1981
+Phoenix Suns,Portland Trail Blazers,Phoenix Suns,55,24,79,354258000.0,1981
+Phoenix Suns,Phoenix Suns,Kansas City Kings,55,25,80,354344400.0,1981
+Phoenix Suns,Phoenix Suns,San Diego Clippers,56,25,81,354517200.0,1981
+Phoenix Suns,Phoenix Suns,Utah Jazz,57,25,82,354690000.0,1981
+Portland Trail Blazers,Utah Jazz,Portland Trail Blazers,0,1,1,339998400.0,1981
+Portland Trail Blazers,Portland Trail Blazers,Seattle Supersonics,1,1,2,340171200.0,1981
+Portland Trail Blazers,Golden State Warriors,Portland Trail Blazers,1,2,3,340430400.0,1981
+Portland Trail Blazers,Portland Trail Blazers,Houston Rockets,1,3,4,340603200.0,1981
+Portland Trail Blazers,Portland Trail Blazers,Los Angeles Lakers,2,3,5,340948800.0,1981
+Portland Trail Blazers,Portland Trail Blazers,Dallas Mavericks,3,3,6,341208000.0,1981
+Portland Trail Blazers,Seattle Supersonics,Portland Trail Blazers,3,4,7,341380800.0,1981
+Portland Trail Blazers,San Antonio Spurs,Portland Trail Blazers,3,5,8,341557200.0,1981
+Portland Trail Blazers,Kansas City Kings,Portland Trail Blazers,3,6,9,341643600.0,1981
+Portland Trail Blazers,Portland Trail Blazers,Utah Jazz,3,7,10,341902800.0,1981
+Portland Trail Blazers,Portland Trail Blazers,Cleveland Cavaliers,4,7,11,341989200.0,1981
+Portland Trail Blazers,Los Angeles Lakers,Portland Trail Blazers,4,8,12,342162000.0,1981
+Portland Trail Blazers,Portland Trail Blazers,Golden State Warriors,5,8,13,342421200.0,1981
+Portland Trail Blazers,Portland Trail Blazers,San Diego Clippers,5,9,14,342507600.0,1981
+Portland Trail Blazers,Portland Trail Blazers,Kansas City Kings,5,10,15,342766800.0,1981
+Portland Trail Blazers,Dallas Mavericks,Portland Trail Blazers,5,11,16,343026000.0,1981
+Portland Trail Blazers,Denver Nuggets,Portland Trail Blazers,5,12,17,343112400.0,1981
+Portland Trail Blazers,Phoenix Suns,Portland Trail Blazers,5,13,18,343198800.0,1981
+Portland Trail Blazers,Portland Trail Blazers,Denver Nuggets,6,13,19,343371600.0,1981
+Portland Trail Blazers,Portland Trail Blazers,Milwaukee Bucks,6,14,20,343544400.0,1981
+Portland Trail Blazers,Portland Trail Blazers,Dallas Mavericks,7,14,21,343803600.0,1981
+Portland Trail Blazers,Atlanta Hawks,Portland Trail Blazers,7,15,22,343976400.0,1981
+Portland Trail Blazers,Boston Celtics,Portland Trail Blazers,7,16,23,344062800.0,1981
+Portland Trail Blazers,Philadelphia 76ers,Portland Trail Blazers,7,17,24,344235600.0,1981
+Portland Trail Blazers,New York Knicks,Portland Trail Blazers,7,18,25,344322000.0,1981
+Portland Trail Blazers,Portland Trail Blazers,New Jersey Nets,7,19,26,344581200.0,1981
+Portland Trail Blazers,San Diego Clippers,Portland Trail Blazers,8,19,27,344754000.0,1981
+Portland Trail Blazers,Portland Trail Blazers,Chicago Bulls,9,19,28,344840400.0,1981
+Portland Trail Blazers,Portland Trail Blazers,San Antonio Spurs,10,19,29,345013200.0,1981
+Portland Trail Blazers,Portland Trail Blazers,Seattle Supersonics,11,19,30,345186000.0,1981
+Portland Trail Blazers,Portland Trail Blazers,Houston Rockets,12,19,31,345445200.0,1981
+Portland Trail Blazers,Phoenix Suns,Portland Trail Blazers,13,19,32,345618000.0,1981
+Portland Trail Blazers,Golden State Warriors,Portland Trail Blazers,14,19,33,345877200.0,1981
+Portland Trail Blazers,Los Angeles Lakers,Portland Trail Blazers,15,19,34,346050000.0,1981
+Portland Trail Blazers,Portland Trail Blazers,Atlanta Hawks,16,19,35,346136400.0,1981
+Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,16,20,36,346222800.0,1981
+Portland Trail Blazers,Portland Trail Blazers,Los Angeles Lakers,17,20,37,346395600.0,1981
+Portland Trail Blazers,Portland Trail Blazers,Golden State Warriors,18,20,38,346568400.0,1981
+Portland Trail Blazers,Seattle Supersonics,Portland Trail Blazers,19,20,39,346654800.0,1981
+Portland Trail Blazers,Portland Trail Blazers,Philadelphia 76ers,20,20,40,347000400.0,1981
+Portland Trail Blazers,Portland Trail Blazers,Denver Nuggets,21,20,41,347173200.0,1981
+Portland Trail Blazers,Utah Jazz,Portland Trail Blazers,21,21,42,347346000.0,1981
+Portland Trail Blazers,Portland Trail Blazers,Boston Celtics,21,22,43,347432400.0,1981
+Portland Trail Blazers,Portland Trail Blazers,Detroit Pistons,22,22,44,347605200.0,1981
+Portland Trail Blazers,San Antonio Spurs,Portland Trail Blazers,22,23,45,347864400.0,1981
+Portland Trail Blazers,Houston Rockets,Portland Trail Blazers,22,24,46,347950800.0,1981
+Portland Trail Blazers,Kansas City Kings,Portland Trail Blazers,23,24,47,348296400.0,1981
+Portland Trail Blazers,Chicago Bulls,Portland Trail Blazers,24,24,48,348469200.0,1981
+Portland Trail Blazers,Milwaukee Bucks,Portland Trail Blazers,24,25,49,348642000.0,1981
+Portland Trail Blazers,Cleveland Cavaliers,Portland Trail Blazers,24,26,50,348814800.0,1981
+Portland Trail Blazers,Portland Trail Blazers,New York Knicks,25,26,51,349074000.0,1981
+Portland Trail Blazers,Portland Trail Blazers,San Antonio Spurs,26,26,52,349246800.0,1981
+Portland Trail Blazers,Los Angeles Lakers,Portland Trail Blazers,26,27,53,349333200.0,1981
+Portland Trail Blazers,San Diego Clippers,Portland Trail Blazers,27,27,54,349592400.0,1981
+Portland Trail Blazers,Portland Trail Blazers,Washington Bullets,28,27,55,350024400.0,1981
+Portland Trail Blazers,Golden State Warriors,Portland Trail Blazers,28,28,56,350110800.0,1981
+Portland Trail Blazers,San Antonio Spurs,Portland Trail Blazers,28,29,57,350283600.0,1981
+Portland Trail Blazers,Portland Trail Blazers,Kansas City Kings,29,29,58,350456400.0,1981
+Portland Trail Blazers,Portland Trail Blazers,Seattle Supersonics,29,30,59,350802000.0,1981
+Portland Trail Blazers,Denver Nuggets,Portland Trail Blazers,29,31,60,350888400.0,1981
+Portland Trail Blazers,Portland Trail Blazers,Utah Jazz,30,31,61,351061200.0,1981
+Portland Trail Blazers,Washington Bullets,Portland Trail Blazers,31,31,62,351234000.0,1981
+Portland Trail Blazers,Detroit Pistons,Portland Trail Blazers,32,31,63,351406800.0,1981
+Portland Trail Blazers,New Jersey Nets,Portland Trail Blazers,32,32,64,351493200.0,1981
+Portland Trail Blazers,Indiana Pacers,Portland Trail Blazers,33,32,65,351666000.0,1981
+Portland Trail Blazers,Portland Trail Blazers,San Diego Clippers,33,33,66,351838800.0,1981
+Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,34,33,67,352098000.0,1981
+Portland Trail Blazers,Portland Trail Blazers,Utah Jazz,35,33,68,352270800.0,1981
+Portland Trail Blazers,Portland Trail Blazers,Indiana Pacers,36,33,69,352443600.0,1981
+Portland Trail Blazers,Kansas City Kings,Portland Trail Blazers,36,34,70,352616400.0,1981
+Portland Trail Blazers,Phoenix Suns,Portland Trail Blazers,36,35,71,352702800.0,1981
+Portland Trail Blazers,Portland Trail Blazers,Golden State Warriors,37,35,72,352875600.0,1981
+Portland Trail Blazers,Denver Nuggets,Portland Trail Blazers,38,35,73,353048400.0,1981
+Portland Trail Blazers,Houston Rockets,Portland Trail Blazers,38,36,74,353307600.0,1981
+Portland Trail Blazers,Portland Trail Blazers,Dallas Mavericks,39,36,75,353480400.0,1981
+Portland Trail Blazers,Portland Trail Blazers,San Diego Clippers,40,36,76,353653200.0,1981
+Portland Trail Blazers,Portland Trail Blazers,Houston Rockets,41,36,77,353912400.0,1981
+Portland Trail Blazers,Portland Trail Blazers,Los Angeles Lakers,41,37,78,353998800.0,1981
+Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,42,37,79,354258000.0,1981
+Portland Trail Blazers,Seattle Supersonics,Portland Trail Blazers,43,37,80,354344400.0,1981
+Portland Trail Blazers,Dallas Mavericks,Portland Trail Blazers,44,37,81,354517200.0,1981
+Portland Trail Blazers,San Diego Clippers,Portland Trail Blazers,45,37,82,354690000.0,1981
+San Antonio Spurs,Denver Nuggets,San Antonio Spurs,1,0,1,339998400.0,1981
+San Antonio Spurs,Dallas Mavericks,San Antonio Spurs,1,1,2,340084800.0,1981
+San Antonio Spurs,San Antonio Spurs,Kansas City Kings,2,1,3,340344000.0,1981
+San Antonio Spurs,Detroit Pistons,San Antonio Spurs,3,1,4,340516800.0,1981
+San Antonio Spurs,San Antonio Spurs,Dallas Mavericks,4,1,5,340689600.0,1981
+San Antonio Spurs,San Antonio Spurs,San Diego Clippers,5,1,6,340948800.0,1981
+San Antonio Spurs,San Antonio Spurs,Golden State Warriors,6,1,7,341121600.0,1981
+San Antonio Spurs,San Diego Clippers,San Antonio Spurs,7,1,8,341294400.0,1981
+San Antonio Spurs,Los Angeles Lakers,San Antonio Spurs,8,1,9,341380800.0,1981
+San Antonio Spurs,San Antonio Spurs,Portland Trail Blazers,9,1,10,341557200.0,1981
+San Antonio Spurs,Utah Jazz,San Antonio Spurs,9,2,11,341643600.0,1981
+San Antonio Spurs,Seattle Supersonics,San Antonio Spurs,10,2,12,341816400.0,1981
+San Antonio Spurs,Golden State Warriors,San Antonio Spurs,10,3,13,341902800.0,1981
+San Antonio Spurs,San Antonio Spurs,Phoenix Suns,11,3,14,342248400.0,1981
+San Antonio Spurs,San Antonio Spurs,Los Angeles Lakers,12,3,15,342507600.0,1981
+San Antonio Spurs,San Antonio Spurs,Indiana Pacers,12,4,16,342766800.0,1981
+San Antonio Spurs,Phoenix Suns,San Antonio Spurs,12,5,17,342853200.0,1981
+San Antonio Spurs,San Diego Clippers,San Antonio Spurs,13,5,18,342939600.0,1981
+San Antonio Spurs,San Antonio Spurs,Utah Jazz,14,5,19,343112400.0,1981
+San Antonio Spurs,Atlanta Hawks,San Antonio Spurs,14,6,20,343371600.0,1981
+San Antonio Spurs,New Jersey Nets,San Antonio Spurs,15,6,21,343458000.0,1981
+San Antonio Spurs,San Antonio Spurs,Philadelphia 76ers,15,7,22,343717200.0,1981
+San Antonio Spurs,San Antonio Spurs,Chicago Bulls,16,7,23,344062800.0,1981
+San Antonio Spurs,San Antonio Spurs,Houston Rockets,16,8,24,344235600.0,1981
+San Antonio Spurs,Kansas City Kings,San Antonio Spurs,17,8,25,344322000.0,1981
+San Antonio Spurs,San Antonio Spurs,Phoenix Suns,17,9,26,344581200.0,1981
+San Antonio Spurs,San Antonio Spurs,Cleveland Cavaliers,18,9,27,344754000.0,1981
+San Antonio Spurs,Portland Trail Blazers,San Antonio Spurs,18,10,28,345013200.0,1981
+San Antonio Spurs,Seattle Supersonics,San Antonio Spurs,18,11,29,345099600.0,1981
+San Antonio Spurs,Utah Jazz,San Antonio Spurs,19,11,30,345186000.0,1981
+San Antonio Spurs,San Antonio Spurs,Kansas City Kings,20,11,31,345358800.0,1981
+San Antonio Spurs,San Antonio Spurs,Denver Nuggets,21,11,32,345531600.0,1981
+San Antonio Spurs,Milwaukee Bucks,San Antonio Spurs,21,12,33,345618000.0,1981
+San Antonio Spurs,Dallas Mavericks,San Antonio Spurs,22,12,34,345790800.0,1981
+San Antonio Spurs,Houston Rockets,San Antonio Spurs,23,12,35,345877200.0,1981
+San Antonio Spurs,San Antonio Spurs,Golden State Warriors,24,12,36,346050000.0,1981
+San Antonio Spurs,Los Angeles Lakers,San Antonio Spurs,24,13,37,346222800.0,1981
+San Antonio Spurs,Phoenix Suns,San Antonio Spurs,24,14,38,346568400.0,1981
+San Antonio Spurs,San Antonio Spurs,Utah Jazz,25,14,39,346741200.0,1981
+San Antonio Spurs,San Antonio Spurs,Seattle Supersonics,26,14,40,347000400.0,1981
+San Antonio Spurs,San Antonio Spurs,Los Angeles Lakers,27,14,41,347259600.0,1981
+San Antonio Spurs,Chicago Bulls,San Antonio Spurs,28,14,42,347346000.0,1981
+San Antonio Spurs,New York Knicks,San Antonio Spurs,29,14,43,347605200.0,1981
+San Antonio Spurs,Philadelphia 76ers,San Antonio Spurs,29,15,44,347691600.0,1981
+San Antonio Spurs,San Antonio Spurs,Portland Trail Blazers,30,15,45,347864400.0,1981
+San Antonio Spurs,San Antonio Spurs,Washington Bullets,31,15,46,348037200.0,1981
+San Antonio Spurs,San Antonio Spurs,New York Knicks,32,15,47,348296400.0,1981
+San Antonio Spurs,Boston Celtics,San Antonio Spurs,32,16,48,348469200.0,1981
+San Antonio Spurs,Washington Bullets,San Antonio Spurs,32,17,49,348555600.0,1981
+San Antonio Spurs,San Antonio Spurs,Phoenix Suns,33,17,50,348814800.0,1981
+San Antonio Spurs,Kansas City Kings,San Antonio Spurs,33,18,51,348901200.0,1981
+San Antonio Spurs,Denver Nuggets,San Antonio Spurs,33,19,52,349160400.0,1981
+San Antonio Spurs,Portland Trail Blazers,San Antonio Spurs,33,20,53,349246800.0,1981
+San Antonio Spurs,San Antonio Spurs,New Jersey Nets,34,20,54,349592400.0,1981
+San Antonio Spurs,San Antonio Spurs,Detroit Pistons,35,20,55,350024400.0,1981
+San Antonio Spurs,Denver Nuggets,San Antonio Spurs,36,20,56,350110800.0,1981
+San Antonio Spurs,San Antonio Spurs,Portland Trail Blazers,37,20,57,350283600.0,1981
+San Antonio Spurs,San Antonio Spurs,Dallas Mavericks,38,20,58,350456400.0,1981
+San Antonio Spurs,Houston Rockets,San Antonio Spurs,38,21,59,350715600.0,1981
+San Antonio Spurs,San Antonio Spurs,Atlanta Hawks,39,21,60,350802000.0,1981
+San Antonio Spurs,Dallas Mavericks,San Antonio Spurs,40,21,61,350974800.0,1981
+San Antonio Spurs,San Antonio Spurs,Milwaukee Bucks,41,21,62,351061200.0,1981
+San Antonio Spurs,San Antonio Spurs,Boston Celtics,41,22,63,351234000.0,1981
+San Antonio Spurs,Cleveland Cavaliers,San Antonio Spurs,41,23,64,351406800.0,1981
+San Antonio Spurs,Indiana Pacers,San Antonio Spurs,41,24,65,351493200.0,1981
+San Antonio Spurs,San Antonio Spurs,Denver Nuggets,42,24,66,351666000.0,1981
+San Antonio Spurs,San Antonio Spurs,Golden State Warriors,43,24,67,351838800.0,1981
+San Antonio Spurs,San Antonio Spurs,Seattle Supersonics,44,24,68,352011600.0,1981
+San Antonio Spurs,San Antonio Spurs,Houston Rockets,45,24,69,352270800.0,1981
+San Antonio Spurs,San Antonio Spurs,Kansas City Kings,45,25,70,352530000.0,1981
+San Antonio Spurs,Seattle Supersonics,San Antonio Spurs,45,26,71,352702800.0,1981
+San Antonio Spurs,San Antonio Spurs,Dallas Mavericks,46,26,72,352875600.0,1981
+San Antonio Spurs,Los Angeles Lakers,San Antonio Spurs,46,27,73,353048400.0,1981
+San Antonio Spurs,San Diego Clippers,San Antonio Spurs,46,28,74,353394000.0,1981
+San Antonio Spurs,Golden State Warriors,San Antonio Spurs,47,28,75,353480400.0,1981
+San Antonio Spurs,San Antonio Spurs,Utah Jazz,48,28,76,353653200.0,1981
+San Antonio Spurs,Kansas City Kings,San Antonio Spurs,49,28,77,353912400.0,1981
+San Antonio Spurs,San Antonio Spurs,San Diego Clippers,50,28,78,354085200.0,1981
+San Antonio Spurs,San Antonio Spurs,Denver Nuggets,50,29,79,354258000.0,1981
+San Antonio Spurs,Houston Rockets,San Antonio Spurs,50,30,80,354344400.0,1981
+San Antonio Spurs,Utah Jazz,San Antonio Spurs,51,30,81,354430800.0,1981
+San Antonio Spurs,San Antonio Spurs,Houston Rockets,52,30,82,354690000.0,1981
+San Diego Clippers,San Diego Clippers,Houston Rockets,1,0,1,339998400.0,1981
+San Diego Clippers,Golden State Warriors,San Diego Clippers,1,1,2,340084800.0,1981
+San Diego Clippers,San Diego Clippers,Denver Nuggets,1,2,3,340603200.0,1981
+San Diego Clippers,San Diego Clippers,Phoenix Suns,1,3,4,340776000.0,1981
+San Diego Clippers,San Antonio Spurs,San Diego Clippers,1,4,5,340948800.0,1981
+San Diego Clippers,San Diego Clippers,Utah Jazz,2,4,6,341208000.0,1981
+San Diego Clippers,San Diego Clippers,San Antonio Spurs,2,5,7,341294400.0,1981
+San Diego Clippers,San Diego Clippers,Los Angeles Lakers,2,6,8,341557200.0,1981
+San Diego Clippers,Phoenix Suns,San Diego Clippers,2,7,9,341643600.0,1981
+San Diego Clippers,San Diego Clippers,Golden State Warriors,3,7,10,341816400.0,1981
+San Diego Clippers,Dallas Mavericks,San Diego Clippers,4,7,11,342162000.0,1981
+San Diego Clippers,Houston Rockets,San Diego Clippers,5,7,12,342248400.0,1981
+San Diego Clippers,Seattle Supersonics,San Diego Clippers,5,8,13,342421200.0,1981
+San Diego Clippers,Portland Trail Blazers,San Diego Clippers,6,8,14,342507600.0,1981
+San Diego Clippers,San Diego Clippers,Phoenix Suns,6,9,15,342766800.0,1981
+San Diego Clippers,San Diego Clippers,San Antonio Spurs,6,10,16,342939600.0,1981
+San Diego Clippers,Los Angeles Lakers,San Diego Clippers,6,11,17,343026000.0,1981
+San Diego Clippers,San Diego Clippers,Kansas City Kings,6,12,18,343112400.0,1981
+San Diego Clippers,Cleveland Cavaliers,San Diego Clippers,6,13,19,343371600.0,1981
+San Diego Clippers,Detroit Pistons,San Diego Clippers,6,14,20,343544400.0,1981
+San Diego Clippers,Washington Bullets,San Diego Clippers,6,15,21,343630800.0,1981
+San Diego Clippers,San Diego Clippers,Seattle Supersonics,7,15,22,343803600.0,1981
+San Diego Clippers,San Diego Clippers,Denver Nuggets,8,15,23,343976400.0,1981
+San Diego Clippers,Denver Nuggets,San Diego Clippers,8,16,24,344062800.0,1981
+San Diego Clippers,Seattle Supersonics,San Diego Clippers,9,16,25,344235600.0,1981
+San Diego Clippers,San Diego Clippers,Golden State Warriors,10,16,26,344408400.0,1981
+San Diego Clippers,Los Angeles Lakers,San Diego Clippers,11,16,27,344667600.0,1981
+San Diego Clippers,San Diego Clippers,Portland Trail Blazers,11,17,28,344754000.0,1981
+San Diego Clippers,San Diego Clippers,New Jersey Nets,12,17,29,345013200.0,1981
+San Diego Clippers,Atlanta Hawks,San Diego Clippers,12,18,30,345186000.0,1981
+San Diego Clippers,Kansas City Kings,San Diego Clippers,12,19,31,345272400.0,1981
+San Diego Clippers,Dallas Mavericks,San Diego Clippers,12,20,32,345445200.0,1981
+San Diego Clippers,San Diego Clippers,Seattle Supersonics,13,20,33,345618000.0,1981
+San Diego Clippers,San Diego Clippers,Los Angeles Lakers,14,20,34,345790800.0,1981
+San Diego Clippers,San Diego Clippers,Dallas Mavericks,15,20,35,345963600.0,1981
+San Diego Clippers,Utah Jazz,San Diego Clippers,16,20,36,346136400.0,1981
+San Diego Clippers,San Diego Clippers,Detroit Pistons,17,20,37,346222800.0,1981
+San Diego Clippers,San Diego Clippers,Indiana Pacers,18,20,38,346741200.0,1981
+San Diego Clippers,Houston Rockets,San Diego Clippers,18,21,39,347000400.0,1981
+San Diego Clippers,San Diego Clippers,Boston Celtics,18,22,40,347173200.0,1981
+San Diego Clippers,Indiana Pacers,San Diego Clippers,18,23,41,347346000.0,1981
+San Diego Clippers,Milwaukee Bucks,San Diego Clippers,18,24,42,347432400.0,1981
+San Diego Clippers,Chicago Bulls,San Diego Clippers,18,25,43,347605200.0,1981
+San Diego Clippers,San Diego Clippers,Denver Nuggets,18,26,44,347864400.0,1981
+San Diego Clippers,Kansas City Kings,San Diego Clippers,19,26,45,348037200.0,1981
+San Diego Clippers,San Diego Clippers,Atlanta Hawks,20,26,46,348296400.0,1981
+San Diego Clippers,Utah Jazz,San Diego Clippers,20,27,47,348469200.0,1981
+San Diego Clippers,San Diego Clippers,Dallas Mavericks,21,27,48,348642000.0,1981
+San Diego Clippers,Denver Nuggets,San Diego Clippers,22,27,49,348901200.0,1981
+San Diego Clippers,San Diego Clippers,New York Knicks,22,28,50,348987600.0,1981
+San Diego Clippers,San Diego Clippers,Milwaukee Bucks,22,29,51,349160400.0,1981
+San Diego Clippers,San Diego Clippers,Kansas City Kings,23,29,52,349419600.0,1981
+San Diego Clippers,San Diego Clippers,Portland Trail Blazers,23,30,53,349592400.0,1981
+San Diego Clippers,New York Knicks,San Diego Clippers,23,31,54,350024400.0,1981
+San Diego Clippers,New Jersey Nets,San Diego Clippers,24,31,55,350110800.0,1981
+San Diego Clippers,Philadelphia 76ers,San Diego Clippers,24,32,56,350283600.0,1981
+San Diego Clippers,Boston Celtics,San Diego Clippers,24,33,57,350456400.0,1981
+San Diego Clippers,San Diego Clippers,Phoenix Suns,24,34,58,350629200.0,1981
+San Diego Clippers,Phoenix Suns,San Diego Clippers,24,35,59,350888400.0,1981
+San Diego Clippers,San Diego Clippers,Chicago Bulls,25,35,60,351234000.0,1981
+San Diego Clippers,San Diego Clippers,Houston Rockets,26,35,61,351406800.0,1981
+San Diego Clippers,Golden State Warriors,San Diego Clippers,27,35,62,351493200.0,1981
+San Diego Clippers,San Diego Clippers,Utah Jazz,28,35,63,351666000.0,1981
+San Diego Clippers,Portland Trail Blazers,San Diego Clippers,29,35,64,351838800.0,1981
+San Diego Clippers,San Diego Clippers,Philadelphia 76ers,29,36,65,351925200.0,1981
+San Diego Clippers,Houston Rockets,San Diego Clippers,30,36,66,352184400.0,1981
+San Diego Clippers,Dallas Mavericks,San Diego Clippers,30,37,67,352270800.0,1981
+San Diego Clippers,San Diego Clippers,Washington Bullets,30,38,68,352530000.0,1981
+San Diego Clippers,San Diego Clippers,Cleveland Cavaliers,31,38,69,352702800.0,1981
+San Diego Clippers,Utah Jazz,San Diego Clippers,31,39,70,352789200.0,1981
+San Diego Clippers,Seattle Supersonics,San Diego Clippers,32,39,71,352875600.0,1981
+San Diego Clippers,San Diego Clippers,Kansas City Kings,32,40,72,353048400.0,1981
+San Diego Clippers,San Diego Clippers,Los Angeles Lakers,32,41,73,353221200.0,1981
+San Diego Clippers,San Diego Clippers,San Antonio Spurs,33,41,74,353394000.0,1981
+San Diego Clippers,Los Angeles Lakers,San Diego Clippers,34,41,75,353480400.0,1981
+San Diego Clippers,Portland Trail Blazers,San Diego Clippers,34,42,76,353653200.0,1981
+San Diego Clippers,San Diego Clippers,Golden State Warriors,35,42,77,353826000.0,1981
+San Diego Clippers,San Antonio Spurs,San Diego Clippers,35,43,78,354085200.0,1981
+San Diego Clippers,San Diego Clippers,Seattle Supersonics,36,43,79,354258000.0,1981
+San Diego Clippers,Golden State Warriors,San Diego Clippers,36,44,80,354344400.0,1981
+San Diego Clippers,Phoenix Suns,San Diego Clippers,36,45,81,354517200.0,1981
+San Diego Clippers,San Diego Clippers,Portland Trail Blazers,36,46,82,354690000.0,1981
+Seattle Supersonics,Seattle Supersonics,Los Angeles Lakers,0,1,1,339998400.0,1981
+Seattle Supersonics,Portland Trail Blazers,Seattle Supersonics,0,2,2,340171200.0,1981
+Seattle Supersonics,Dallas Mavericks,Seattle Supersonics,1,2,3,340344000.0,1981
+Seattle Supersonics,Houston Rockets,Seattle Supersonics,1,3,4,340430400.0,1981
+Seattle Supersonics,Kansas City Kings,Seattle Supersonics,2,3,5,340689600.0,1981
+Seattle Supersonics,Utah Jazz,Seattle Supersonics,3,3,6,340862400.0,1981
+Seattle Supersonics,Seattle Supersonics,Dallas Mavericks,3,4,7,341035200.0,1981
+Seattle Supersonics,Los Angeles Lakers,Seattle Supersonics,3,5,8,341208000.0,1981
+Seattle Supersonics,Seattle Supersonics,Phoenix Suns,3,6,9,341294400.0,1981
+Seattle Supersonics,Seattle Supersonics,Portland Trail Blazers,4,6,10,341380800.0,1981
+Seattle Supersonics,Seattle Supersonics,Golden State Warriors,5,6,11,341557200.0,1981
+Seattle Supersonics,Seattle Supersonics,San Antonio Spurs,5,7,12,341816400.0,1981
+Seattle Supersonics,Denver Nuggets,Seattle Supersonics,5,8,13,341902800.0,1981
+Seattle Supersonics,Seattle Supersonics,Cleveland Cavaliers,6,8,14,342075600.0,1981
+Seattle Supersonics,Seattle Supersonics,Denver Nuggets,6,9,15,342248400.0,1981
+Seattle Supersonics,Seattle Supersonics,San Diego Clippers,7,9,16,342421200.0,1981
+Seattle Supersonics,Seattle Supersonics,Utah Jazz,7,10,17,342853200.0,1981
+Seattle Supersonics,Seattle Supersonics,Kansas City Kings,8,10,18,343026000.0,1981
+Seattle Supersonics,Seattle Supersonics,Houston Rockets,9,10,19,343112400.0,1981
+Seattle Supersonics,Houston Rockets,Seattle Supersonics,9,11,20,343371600.0,1981
+Seattle Supersonics,Dallas Mavericks,Seattle Supersonics,10,11,21,343630800.0,1981
+Seattle Supersonics,San Diego Clippers,Seattle Supersonics,10,12,22,343803600.0,1981
+Seattle Supersonics,Phoenix Suns,Seattle Supersonics,10,13,23,344062800.0,1981
+Seattle Supersonics,Seattle Supersonics,San Diego Clippers,10,14,24,344235600.0,1981
+Seattle Supersonics,Seattle Supersonics,New Jersey Nets,11,14,25,344408400.0,1981
+Seattle Supersonics,Seattle Supersonics,Chicago Bulls,12,14,26,344667600.0,1981
+Seattle Supersonics,Utah Jazz,Seattle Supersonics,13,14,27,344926800.0,1981
+Seattle Supersonics,Seattle Supersonics,San Antonio Spurs,14,14,28,345099600.0,1981
+Seattle Supersonics,Portland Trail Blazers,Seattle Supersonics,14,15,29,345186000.0,1981
+Seattle Supersonics,Golden State Warriors,Seattle Supersonics,15,15,30,345272400.0,1981
+Seattle Supersonics,Seattle Supersonics,Los Angeles Lakers,15,16,31,345445200.0,1981
+Seattle Supersonics,San Diego Clippers,Seattle Supersonics,15,17,32,345618000.0,1981
+Seattle Supersonics,Seattle Supersonics,Kansas City Kings,16,17,33,345877200.0,1981
+Seattle Supersonics,Seattle Supersonics,Atlanta Hawks,17,17,34,346050000.0,1981
+Seattle Supersonics,Seattle Supersonics,Phoenix Suns,17,18,35,346309200.0,1981
+Seattle Supersonics,Seattle Supersonics,Portland Trail Blazers,17,19,36,346654800.0,1981
+Seattle Supersonics,Golden State Warriors,Seattle Supersonics,17,20,37,346741200.0,1981
+Seattle Supersonics,San Antonio Spurs,Seattle Supersonics,17,21,38,347000400.0,1981
+Seattle Supersonics,Seattle Supersonics,Philadelphia 76ers,17,22,39,347259600.0,1981
+Seattle Supersonics,Seattle Supersonics,Dallas Mavericks,18,22,40,347518800.0,1981
+Seattle Supersonics,Seattle Supersonics,Detroit Pistons,19,22,41,347691600.0,1981
+Seattle Supersonics,Los Angeles Lakers,Seattle Supersonics,19,23,42,347864400.0,1981
+Seattle Supersonics,Seattle Supersonics,Denver Nuggets,20,23,43,347950800.0,1981
+Seattle Supersonics,Seattle Supersonics,Golden State Warriors,20,24,44,348037200.0,1981
+Seattle Supersonics,Phoenix Suns,Seattle Supersonics,20,25,45,348210000.0,1981
+Seattle Supersonics,Indiana Pacers,Seattle Supersonics,21,25,46,348469200.0,1981
+Seattle Supersonics,Philadelphia 76ers,Seattle Supersonics,21,26,47,348642000.0,1981
+Seattle Supersonics,New York Knicks,Seattle Supersonics,21,27,48,348814800.0,1981
+Seattle Supersonics,New Jersey Nets,Seattle Supersonics,21,28,49,348901200.0,1981
+Seattle Supersonics,Washington Bullets,Seattle Supersonics,21,29,50,349074000.0,1981
+Seattle Supersonics,Boston Celtics,Seattle Supersonics,21,30,51,349246800.0,1981
+Seattle Supersonics,Seattle Supersonics,Milwaukee Bucks,21,31,52,349506000.0,1981
+Seattle Supersonics,Seattle Supersonics,Washington Bullets,22,31,53,350110800.0,1981
+Seattle Supersonics,Seattle Supersonics,Kansas City Kings,22,32,54,350283600.0,1981
+Seattle Supersonics,Seattle Supersonics,Utah Jazz,23,32,55,350370000.0,1981
+Seattle Supersonics,Seattle Supersonics,Denver Nuggets,24,32,56,350456400.0,1981
+Seattle Supersonics,Seattle Supersonics,Boston Celtics,25,32,57,350629200.0,1981
+Seattle Supersonics,Portland Trail Blazers,Seattle Supersonics,26,32,58,350802000.0,1981
+Seattle Supersonics,Chicago Bulls,Seattle Supersonics,26,33,59,350974800.0,1981
+Seattle Supersonics,Kansas City Kings,Seattle Supersonics,26,34,60,351061200.0,1981
+Seattle Supersonics,Utah Jazz,Seattle Supersonics,27,34,61,351234000.0,1981
+Seattle Supersonics,Seattle Supersonics,New York Knicks,27,35,62,351320400.0,1981
+Seattle Supersonics,Seattle Supersonics,Phoenix Suns,28,35,63,351493200.0,1981
+Seattle Supersonics,Seattle Supersonics,Houston Rockets,28,36,64,351666000.0,1981
+Seattle Supersonics,Dallas Mavericks,Seattle Supersonics,29,36,65,351838800.0,1981
+Seattle Supersonics,San Antonio Spurs,Seattle Supersonics,29,37,66,352011600.0,1981
+Seattle Supersonics,Houston Rockets,Seattle Supersonics,29,38,67,352098000.0,1981
+Seattle Supersonics,Atlanta Hawks,Seattle Supersonics,29,39,68,352270800.0,1981
+Seattle Supersonics,Seattle Supersonics,Indiana Pacers,30,39,69,352530000.0,1981
+Seattle Supersonics,Seattle Supersonics,San Antonio Spurs,31,39,70,352702800.0,1981
+Seattle Supersonics,Golden State Warriors,Seattle Supersonics,31,40,71,352789200.0,1981
+Seattle Supersonics,Seattle Supersonics,San Diego Clippers,31,41,72,352875600.0,1981
+Seattle Supersonics,Cleveland Cavaliers,Seattle Supersonics,32,41,73,353134800.0,1981
+Seattle Supersonics,Detroit Pistons,Seattle Supersonics,33,41,74,353307600.0,1981
+Seattle Supersonics,Milwaukee Bucks,Seattle Supersonics,33,42,75,353480400.0,1981
+Seattle Supersonics,Denver Nuggets,Seattle Supersonics,33,43,76,353653200.0,1981
+Seattle Supersonics,Los Angeles Lakers,Seattle Supersonics,33,44,77,353912400.0,1981
+Seattle Supersonics,Phoenix Suns,Seattle Supersonics,33,45,78,354085200.0,1981
+Seattle Supersonics,San Diego Clippers,Seattle Supersonics,33,46,79,354258000.0,1981
+Seattle Supersonics,Seattle Supersonics,Portland Trail Blazers,33,47,80,354344400.0,1981
+Seattle Supersonics,Seattle Supersonics,Los Angeles Lakers,33,48,81,354517200.0,1981
+Seattle Supersonics,Seattle Supersonics,Golden State Warriors,34,48,82,354690000.0,1981
+Utah Jazz,Utah Jazz,Portland Trail Blazers,1,0,1,339998400.0,1981
+Utah Jazz,Kansas City Kings,Utah Jazz,1,1,2,340084800.0,1981
+Utah Jazz,Denver Nuggets,Utah Jazz,2,1,3,340171200.0,1981
+Utah Jazz,Utah Jazz,Phoenix Suns,2,2,4,340430400.0,1981
+Utah Jazz,Utah Jazz,Denver Nuggets,3,2,5,340689600.0,1981
+Utah Jazz,Utah Jazz,Seattle Supersonics,3,3,6,340862400.0,1981
+Utah Jazz,San Diego Clippers,Utah Jazz,3,4,7,341208000.0,1981
+Utah Jazz,Utah Jazz,Los Angeles Lakers,3,5,8,341294400.0,1981
+Utah Jazz,Dallas Mavericks,Utah Jazz,4,5,9,341557200.0,1981
+Utah Jazz,Utah Jazz,San Antonio Spurs,5,5,10,341643600.0,1981
+Utah Jazz,Utah Jazz,Dallas Mavericks,6,5,11,341816400.0,1981
+Utah Jazz,Portland Trail Blazers,Utah Jazz,7,5,12,341902800.0,1981
+Utah Jazz,Utah Jazz,Kansas City Kings,8,5,13,342162000.0,1981
+Utah Jazz,Utah Jazz,Cleveland Cavaliers,9,5,14,342334800.0,1981
+Utah Jazz,Utah Jazz,New York Knicks,9,6,15,342507600.0,1981
+Utah Jazz,Utah Jazz,Indiana Pacers,10,6,16,342680400.0,1981
+Utah Jazz,Seattle Supersonics,Utah Jazz,11,6,17,342853200.0,1981
+Utah Jazz,Utah Jazz,Houston Rockets,12,6,18,343026000.0,1981
+Utah Jazz,San Antonio Spurs,Utah Jazz,12,7,19,343112400.0,1981
+Utah Jazz,Utah Jazz,Milwaukee Bucks,12,8,20,343371600.0,1981
+Utah Jazz,Atlanta Hawks,Utah Jazz,12,9,21,343717200.0,1981
+Utah Jazz,Detroit Pistons,Utah Jazz,13,9,22,344062800.0,1981
+Utah Jazz,New Jersey Nets,Utah Jazz,13,10,23,344235600.0,1981
+Utah Jazz,Philadelphia 76ers,Utah Jazz,13,11,24,344322000.0,1981
+Utah Jazz,Milwaukee Bucks,Utah Jazz,13,12,25,344581200.0,1981
+Utah Jazz,Utah Jazz,Denver Nuggets,14,12,26,344754000.0,1981
+Utah Jazz,Utah Jazz,Seattle Supersonics,14,13,27,344926800.0,1981
+Utah Jazz,Los Angeles Lakers,Utah Jazz,14,14,28,345013200.0,1981
+Utah Jazz,Utah Jazz,San Antonio Spurs,14,15,29,345186000.0,1981
+Utah Jazz,Chicago Bulls,Utah Jazz,14,16,30,345445200.0,1981
+Utah Jazz,Cleveland Cavaliers,Utah Jazz,14,17,31,345531600.0,1981
+Utah Jazz,New York Knicks,Utah Jazz,14,18,32,345790800.0,1981
+Utah Jazz,Utah Jazz,Atlanta Hawks,14,19,33,345963600.0,1981
+Utah Jazz,Phoenix Suns,Utah Jazz,14,20,34,346050000.0,1981
+Utah Jazz,Utah Jazz,San Diego Clippers,14,21,35,346136400.0,1981
+Utah Jazz,Dallas Mavericks,Utah Jazz,15,21,36,346395600.0,1981
+Utah Jazz,Utah Jazz,Golden State Warriors,15,22,37,346654800.0,1981
+Utah Jazz,San Antonio Spurs,Utah Jazz,15,23,38,346741200.0,1981
+Utah Jazz,Utah Jazz,Los Angeles Lakers,16,23,39,347000400.0,1981
+Utah Jazz,Houston Rockets,Utah Jazz,16,24,40,347173200.0,1981
+Utah Jazz,Kansas City Kings,Utah Jazz,16,25,41,347259600.0,1981
+Utah Jazz,Utah Jazz,Portland Trail Blazers,17,25,42,347346000.0,1981
+Utah Jazz,Denver Nuggets,Utah Jazz,18,25,43,347691600.0,1981
+Utah Jazz,Utah Jazz,Dallas Mavericks,19,25,44,347778000.0,1981
+Utah Jazz,Utah Jazz,Kansas City Kings,19,26,45,347950800.0,1981
+Utah Jazz,Golden State Warriors,Utah Jazz,20,26,46,348296400.0,1981
+Utah Jazz,Utah Jazz,San Diego Clippers,21,26,47,348469200.0,1981
+Utah Jazz,Indiana Pacers,Utah Jazz,21,27,48,348642000.0,1981
+Utah Jazz,Washington Bullets,Utah Jazz,21,28,49,348814800.0,1981
+Utah Jazz,Boston Celtics,Utah Jazz,21,29,50,348901200.0,1981
+Utah Jazz,Utah Jazz,Golden State Warriors,21,30,51,349074000.0,1981
+Utah Jazz,Houston Rockets,Utah Jazz,21,31,52,349160400.0,1981
+Utah Jazz,Utah Jazz,Detroit Pistons,22,31,53,349333200.0,1981
+Utah Jazz,Los Angeles Lakers,Utah Jazz,22,32,54,349419600.0,1981
+Utah Jazz,Utah Jazz,Houston Rockets,23,32,55,349592400.0,1981
+Utah Jazz,Phoenix Suns,Utah Jazz,23,33,56,350110800.0,1981
+Utah Jazz,Utah Jazz,Denver Nuggets,23,34,57,350283600.0,1981
+Utah Jazz,Seattle Supersonics,Utah Jazz,23,35,58,350370000.0,1981
+Utah Jazz,Golden State Warriors,Utah Jazz,23,36,59,350456400.0,1981
+Utah Jazz,Kansas City Kings,Utah Jazz,23,37,60,350715600.0,1981
+Utah Jazz,Utah Jazz,Boston Celtics,24,37,61,350888400.0,1981
+Utah Jazz,Portland Trail Blazers,Utah Jazz,24,38,62,351061200.0,1981
+Utah Jazz,Utah Jazz,Seattle Supersonics,24,39,63,351234000.0,1981
+Utah Jazz,Utah Jazz,Chicago Bulls,24,40,64,351493200.0,1981
+Utah Jazz,San Diego Clippers,Utah Jazz,24,41,65,351666000.0,1981
+Utah Jazz,Utah Jazz,Houston Rockets,24,42,66,351752400.0,1981
+Utah Jazz,Utah Jazz,New Jersey Nets,25,42,67,351925200.0,1981
+Utah Jazz,Utah Jazz,Philadelphia 76ers,25,43,68,352098000.0,1981
+Utah Jazz,Portland Trail Blazers,Utah Jazz,25,44,69,352270800.0,1981
+Utah Jazz,Utah Jazz,Washington Bullets,25,45,70,352443600.0,1981
+Utah Jazz,Golden State Warriors,Utah Jazz,25,46,71,352530000.0,1981
+Utah Jazz,Utah Jazz,Phoenix Suns,25,47,72,352616400.0,1981
+Utah Jazz,Utah Jazz,San Diego Clippers,26,47,73,352789200.0,1981
+Utah Jazz,Houston Rockets,Utah Jazz,26,48,74,353394000.0,1981
+Utah Jazz,San Antonio Spurs,Utah Jazz,26,49,75,353653200.0,1981
+Utah Jazz,Utah Jazz,Dallas Mavericks,27,49,76,353739600.0,1981
+Utah Jazz,Dallas Mavericks,Utah Jazz,27,50,77,353998800.0,1981
+Utah Jazz,Denver Nuggets,Utah Jazz,27,51,78,354085200.0,1981
+Utah Jazz,Utah Jazz,Kansas City Kings,27,52,79,354258000.0,1981
+Utah Jazz,Utah Jazz,San Antonio Spurs,27,53,80,354430800.0,1981
+Utah Jazz,Utah Jazz,Los Angeles Lakers,28,53,81,354603600.0,1981
+Utah Jazz,Phoenix Suns,Utah Jazz,28,54,82,354690000.0,1981
+Washington Bullets,Detroit Pistons,Washington Bullets,1,0,1,339998400.0,1981
+Washington Bullets,Washington Bullets,Philadelphia 76ers,1,1,2,340084800.0,1981
+Washington Bullets,Cleveland Cavaliers,Washington Bullets,1,2,3,340516800.0,1981
+Washington Bullets,Washington Bullets,New Jersey Nets,1,3,4,340603200.0,1981
+Washington Bullets,Philadelphia 76ers,Washington Bullets,1,4,5,340689600.0,1981
+Washington Bullets,Washington Bullets,Cleveland Cavaliers,2,4,6,341035200.0,1981
+Washington Bullets,Chicago Bulls,Washington Bullets,2,5,7,341208000.0,1981
+Washington Bullets,Washington Bullets,Boston Celtics,2,6,8,341294400.0,1981
+Washington Bullets,Milwaukee Bucks,Washington Bullets,2,7,9,341380800.0,1981
+Washington Bullets,New Jersey Nets,Washington Bullets,2,8,10,341816400.0,1981
+Washington Bullets,New York Knicks,Washington Bullets,2,9,11,341902800.0,1981
+Washington Bullets,Washington Bullets,Atlanta Hawks,3,9,12,342162000.0,1981
+Washington Bullets,Washington Bullets,Dallas Mavericks,4,9,13,342334800.0,1981
+Washington Bullets,Washington Bullets,Detroit Pistons,5,9,14,342421200.0,1981
+Washington Bullets,Washington Bullets,Denver Nuggets,6,9,15,342766800.0,1981
+Washington Bullets,Boston Celtics,Washington Bullets,6,10,16,342853200.0,1981
+Washington Bullets,Indiana Pacers,Washington Bullets,6,11,17,343026000.0,1981
+Washington Bullets,Atlanta Hawks,Washington Bullets,7,11,18,343112400.0,1981
+Washington Bullets,Washington Bullets,Golden State Warriors,7,12,19,343371600.0,1981
+Washington Bullets,Washington Bullets,San Diego Clippers,8,12,20,343630800.0,1981
+Washington Bullets,Chicago Bulls,Washington Bullets,8,13,21,343717200.0,1981
+Washington Bullets,Washington Bullets,Indiana Pacers,9,13,22,344149200.0,1981
+Washington Bullets,Cleveland Cavaliers,Washington Bullets,9,14,23,344235600.0,1981
+Washington Bullets,Washington Bullets,Milwaukee Bucks,10,14,24,344322000.0,1981
+Washington Bullets,Washington Bullets,Kansas City Kings,11,14,25,344581200.0,1981
+Washington Bullets,Indiana Pacers,Washington Bullets,11,15,26,344667600.0,1981
+Washington Bullets,Washington Bullets,Detroit Pistons,12,15,27,344840400.0,1981
+Washington Bullets,Boston Celtics,Washington Bullets,13,15,28,345013200.0,1981
+Washington Bullets,New York Knicks,Washington Bullets,13,16,29,345186000.0,1981
+Washington Bullets,Washington Bullets,Boston Celtics,13,17,30,345272400.0,1981
+Washington Bullets,Philadelphia 76ers,Washington Bullets,13,18,31,345445200.0,1981
+Washington Bullets,Washington Bullets,Indiana Pacers,14,18,32,345531600.0,1981
+Washington Bullets,Washington Bullets,Chicago Bulls,14,19,33,345790800.0,1981
+Washington Bullets,Washington Bullets,New York Knicks,14,20,34,346050000.0,1981
+Washington Bullets,Atlanta Hawks,Washington Bullets,14,21,35,346395600.0,1981
+Washington Bullets,Washington Bullets,New Jersey Nets,15,21,36,346568400.0,1981
+Washington Bullets,Washington Bullets,Houston Rockets,16,21,37,346741200.0,1981
+Washington Bullets,Washington Bullets,Milwaukee Bucks,16,22,38,347000400.0,1981
+Washington Bullets,Washington Bullets,Chicago Bulls,16,23,39,347259600.0,1981
+Washington Bullets,Cleveland Cavaliers,Washington Bullets,16,24,40,347346000.0,1981
+Washington Bullets,Los Angeles Lakers,Washington Bullets,16,25,41,347605200.0,1981
+Washington Bullets,Kansas City Kings,Washington Bullets,16,26,42,347778000.0,1981
+Washington Bullets,Dallas Mavericks,Washington Bullets,17,26,43,347950800.0,1981
+Washington Bullets,San Antonio Spurs,Washington Bullets,17,27,44,348037200.0,1981
+Washington Bullets,Washington Bullets,Los Angeles Lakers,18,27,45,348296400.0,1981
+Washington Bullets,Detroit Pistons,Washington Bullets,19,27,46,348382800.0,1981
+Washington Bullets,Washington Bullets,San Antonio Spurs,20,27,47,348555600.0,1981
+Washington Bullets,Washington Bullets,New Jersey Nets,21,27,48,348642000.0,1981
+Washington Bullets,Washington Bullets,Utah Jazz,22,27,49,348814800.0,1981
+Washington Bullets,Washington Bullets,Philadelphia 76ers,22,28,50,348987600.0,1981
+Washington Bullets,Washington Bullets,Seattle Supersonics,23,28,51,349074000.0,1981
+Washington Bullets,New Jersey Nets,Washington Bullets,24,28,52,349246800.0,1981
+Washington Bullets,Atlanta Hawks,Washington Bullets,25,28,53,349419600.0,1981
+Washington Bullets,Washington Bullets,Phoenix Suns,26,28,54,349506000.0,1981
+Washington Bullets,Portland Trail Blazers,Washington Bullets,26,29,55,350024400.0,1981
+Washington Bullets,Seattle Supersonics,Washington Bullets,26,30,56,350110800.0,1981
+Washington Bullets,Golden State Warriors,Washington Bullets,27,30,57,350283600.0,1981
+Washington Bullets,Phoenix Suns,Washington Bullets,27,31,58,350456400.0,1981
+Washington Bullets,Denver Nuggets,Washington Bullets,28,31,59,350629200.0,1981
+Washington Bullets,Philadelphia 76ers,Washington Bullets,29,31,60,350888400.0,1981
+Washington Bullets,Detroit Pistons,Washington Bullets,29,32,61,350974800.0,1981
+Washington Bullets,Washington Bullets,Portland Trail Blazers,29,33,62,351234000.0,1981
+Washington Bullets,Washington Bullets,Philadelphia 76ers,30,33,63,351406800.0,1981
+Washington Bullets,New York Knicks,Washington Bullets,30,34,64,351493200.0,1981
+Washington Bullets,Washington Bullets,Milwaukee Bucks,30,35,65,351666000.0,1981
+Washington Bullets,Washington Bullets,New York Knicks,31,35,66,351925200.0,1981
+Washington Bullets,Chicago Bulls,Washington Bullets,31,36,67,352098000.0,1981
+Washington Bullets,Milwaukee Bucks,Washington Bullets,31,37,68,352270800.0,1981
+Washington Bullets,Utah Jazz,Washington Bullets,32,37,69,352443600.0,1981
+Washington Bullets,San Diego Clippers,Washington Bullets,33,37,70,352530000.0,1981
+Washington Bullets,Houston Rockets,Washington Bullets,34,37,71,352702800.0,1981
+Washington Bullets,Washington Bullets,Chicago Bulls,35,37,72,352875600.0,1981
+Washington Bullets,New Jersey Nets,Washington Bullets,35,38,73,353134800.0,1981
+Washington Bullets,Washington Bullets,Indiana Pacers,35,39,74,353221200.0,1981
+Washington Bullets,Washington Bullets,Cleveland Cavaliers,35,40,75,353480400.0,1981
+Washington Bullets,Washington Bullets,Boston Celtics,35,41,76,353653200.0,1981
+Washington Bullets,Boston Celtics,Washington Bullets,35,42,77,353912400.0,1981
+Washington Bullets,Washington Bullets,Atlanta Hawks,36,42,78,354085200.0,1981
+Washington Bullets,Washington Bullets,New York Knicks,37,42,79,354344400.0,1981
+Washington Bullets,Indiana Pacers,Washington Bullets,37,43,80,354517200.0,1981
+Washington Bullets,Washington Bullets,Detroit Pistons,38,43,81,354603600.0,1981
+Washington Bullets,Washington Bullets,Cleveland Cavaliers,39,43,82,354690000.0,1981
