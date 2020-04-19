@@ -1,5 +1,5 @@
 # Overview
-The `seasons_parser.py` file uses cherry-picked and edited code forked from (basketball-reference-web-scraper)[https://github.com/jaebradley/basketball_reference_web_scraper] repo. This version focuses only on gathering regular season team data and championship data (but no playoff data). It extends functionality to deal with all WNBA seasons and pre 1999-00 NBA seasons, extending to 1946-47 when it was the BAA. 
+The `seasons_parser.py` file uses cherry-picked and edited code forked from [basketball-reference-web-scraper](https://github.com/jaebradley/basketball_reference_web_scraper) repo. This version focuses only on gathering regular season team data and championship data (but no playoff data). It extends functionality to deal with all WNBA seasons and pre 1999-00 NBA seasons, extending to 1946-47 when it was the BAA. 
 
 The `seasons.py` outputs a CSV for every season, tracking a game's result, date, and team record at the time.
 
@@ -27,4 +27,17 @@ python3 seasons.py --league NBA
 And the same parameters for custom start and years.
 ```bash
 python3 seasons.py --league NBA --start 2002 --end 2010
+```
+
+# Output Additional Data
+To output data used for historical season paths, recordigami plots, and general team metadata run the following:
+
+## WNBA
+```bash
+python3 recordigami.py --league WNBA
+```
+
+## NBA
+```bash
+python3 recordigami.py --league NBA
 ```

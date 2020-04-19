@@ -8,6 +8,7 @@ from datetime import datetime
 WNBA = 'WNBA'
 NBA = 'NBA'
 DIRNAME = os.path.abspath(os.path.dirname(__file__))
+TEAMS_DIRECTORY = os.path.join(DIRNAME, 'teams')
 OUTPUT_DIRECTORY = os.path.join(DIRNAME, 'output')
 
 
@@ -50,7 +51,7 @@ def get_historical_games(league):
 
 def get_historical_teams(league):
 	print('Getting team metadata...')
-	teams_csv = pd.read_csv('./../{0}_teams.csv'.format(league)).fillna(0)
+	teams_csv = pd.read_csv('{0}/{1}_teams.csv'.format(TEAMS_DIRECTORY, league.lower())).fillna(0)
 	teams = {}
 	for index, team in teams_csv.iterrows():
 		name = team['team']
