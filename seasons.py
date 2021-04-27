@@ -43,6 +43,8 @@ def get_wnba_num_games(season_year):
 		num_games = 32
 	elif season_year <= 2019:
 		num_games = 34
+	elif season_year == 2020:
+		num_games = 22
 	else:
 		num_games = 36
 	return num_games
@@ -55,7 +57,7 @@ def get_nba_num_teams(season_year):
 		num_teams = num_teams_1947_1955[index]
 	elif season_year <= 1961:
 		num_teams = 8
-	elif season_year <= 1966:
+	elif season_year <= 1966: 
 		num_teams = 9
 	elif season_year == 1967:
 		num_teams = 10
@@ -85,10 +87,10 @@ def get_nba_num_teams(season_year):
 def get_nba_num_games(season_year, team=None):
 	# Number of games varied over the first 20 years, stabilized at 82 except for lockouts/covid
 	if season_year == 1947:
-		if team in ['St. Louis Bombers', 'Chicago Stags']:
-			num_games = 61
-		else:
+		if team not in ['St. Louis Bombers', 'Chicago Stags']:
 			num_games = 60
+		else:
+			num_games = 61
 	elif season_year == 1948:
 		num_games = 48
 	elif season_year == 1949:
@@ -133,7 +135,26 @@ def get_nba_num_games(season_year, team=None):
 	elif season_year == 2012:
 		num_games = 66
 	elif season_year == 2020:
-		num_games = 67
+		if team in ['Portland Trail Blazers']:
+			num_games = 74
+		elif team in ['Milwaukee Bucks', 'Indiana Pacers', 'Miami Heat', 'Philadelphia 76ers', 'Orlando Magic', 'Denver Nuggets', 'Memphis Grizzlies', 'Phoenix Suns']:
+			num_games = 73
+		elif team in ['Toronto Raptors', 'Boston Celtics', 'Brooklyn Nets', 'Washington Wizards', 'Los Angeles Clippers', 'Houston Rockets', 'Oklahoma City Thunder', 'Utah Jazz', 'Sacramento Kings', 'New Orleans Pelicans']:
+			num_games = 72
+		elif team in ['Los Angeles Lakers', 'San Antonio Spurs']:
+			num_games = 71
+		elif team in ['Atlanta Hawks']:
+			num_games = 67
+		elif team in ['New York Knicks', 'Detroit Pistons']:
+			num_games = 66
+		elif team in ['Charlotte Hornets', 'Chicago Bulls', 'Cleveland Cavaliers', 'Golden State Warriors']:
+			num_games = 65
+		elif team in ['Minnesota Timberwolves']:
+			num_games = 64
+		else:
+			num_games = 75
+	elif season_year == 2021:
+		num_games = 72
 	else:
 		num_games = 82
 	return num_games
@@ -178,17 +199,23 @@ def output_season_paths(season_year=END_YEAR, league=WNBA):
 		away_losses = win_loss_dict[away_team]['loss']
 		away_game_number = away_wins + away_losses
 
-		if league == NBA and season_year in [1947, 1950, 1951, 1953] and num_games > 35:
+
+		if league == NBA and season_year in [1947, 1950, 1951, 1953, 2020] and num_games > 35:
 			if home_game_number > get_nba_num_games(season_year, home_team):
 				continue
 			if away_game_number > get_nba_num_games(season_year, away_team):
 				continue
 
+		if home_team == "Dallas Mavericks":
+			print(home_team, home_wins, home_losses, home_game_number)
+		if away_team == "Dallas Mavericks":
+			print(away_team, away_wins, away_losses, away_game_number)
+
 		if home_game_number > num_games or away_game_number > num_games:
 			continue
 
-		nba_df.ix[i] = [home_team, home_team, away_team, home_wins, home_losses, home_game_number, date, season_year]
-		nba_df.ix[i+1] = [away_team, home_team, away_team, away_wins, away_losses, away_game_number, date, season_year]
+		nba_df.iloc[i,] = [home_team, home_team, away_team, home_wins, home_losses, home_game_number, date, season_year]
+		nba_df.iloc[i+1,] = [away_team, home_team, away_team, away_wins, away_losses, away_game_number, date, season_year]
 		i = i + 2
 		if i == num_regular_season_games:
 			break

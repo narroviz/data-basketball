@@ -516,7 +516,9 @@ class PlayoffPage:
     
 
 def get_correct_team_name(team, year, league):
-    if league == NBA:
+    if league == NBA or league == BAA:
+        if team == 'Seattle SuperSonics':
+            return 'Seattle Supersonics'
         if team == 'New Orleans/Oklahoma City Hornets':
             return 'New Orleans Hornets'
         if team == 'Sheboygan Red Skins':
@@ -552,12 +554,13 @@ def get_championship_team(season_year, league=WNBA):
         last_game = page.rows[-1]
         home_team = last_game.home_team_name
         away_team = last_game.away_team_name
-        home_score = last_game.home_team_score
-        away_score = last_game.away_team_score
+        home_score = int(last_game.home_team_score)
+        away_score = int(last_game.away_team_score)
         if home_score > away_score:
             return get_correct_team_name(home_team, season_year, league)
         else:
             return get_correct_team_name(away_team, season_year, league)
     else:
         page = PlayoffPage(html=html.fromstring(html=response.content))
-        return get_correct_team_name(page.championship_team, season_year, league)
+        team = get_correct_team_name(page.championship_team, season_year, league)
+        return team

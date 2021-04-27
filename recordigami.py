@@ -9,6 +9,7 @@ WNBA = 'WNBA'
 NBA = 'NBA'
 DIRNAME = os.path.abspath(os.path.dirname(__file__))
 TEAMS_DIRECTORY = os.path.join(DIRNAME, 'teams')
+SEASON_DIRECTORY = os.path.join(DIRNAME, 'seasons')
 OUTPUT_DIRECTORY = os.path.join(DIRNAME, 'output')
 
 
@@ -24,10 +25,10 @@ def get_historical_games(league):
 	print('Getting all season data...')
 	if league == WNBA:
 		start_year = 1997
-		end_year = 2019
-	if league == NBA:
-		start_year = 1947
 		end_year = 2020
+	else:
+		start_year = 1947
+		end_year = 2021
 
 	champions = {}
 	seasons = []
@@ -117,8 +118,10 @@ def get_historical_recordigami(games, teams, league):
 
 def get_historical_season_paths(champions, games, teams, league):
 	print('Creating season paths JSON object...')
+	season_win_loss = []
 	season_paths = {}
 	for team in teams.keys():
+		championship_seasons = champions[team] if team in champions else []
 		team_games = games[games['id'] == team]
 
 		max_occurrences = 0
@@ -130,7 +133,7 @@ def get_historical_season_paths(champions, games, teams, league):
 			season_path = {'0000': {'win': 0, 'loss': 0}}
 
 			for index, game in season_games.iterrows():
-				team = game['id']
+				# team = game['id']
 				wins = game['win']
 				losses = game['loss']
 
@@ -149,15 +152,24 @@ def get_historical_season_paths(champions, games, teams, league):
 				season_path[win_loss_key] = {'win': wins, 'loss': losses}
 				seasons[int(year)] = season_path
 
+			season_win_loss.append({
+				'year': int(year),
+				'win': wins,
+				'loss': losses,
+				'win_pct': round(float(float(wins) / float(wins + losses)), 3),
+				'team': team,
+				'is_championship': year in championship_seasons
+			})
+
+
 		cumulative_seasons = calculate_cumulative_seasons(win_loss_counter)
-		championship_seasons = champions[team] if team in champions else []
 		season_paths[team] = {
 			'seasons': seasons,
 			'cumulative_seasons': cumulative_seasons,
 			'championship_seasons': championship_seasons,
 			'max_count': max_occurrences
 		}
-	return season_paths
+	return season_paths, season_win_loss
 
 
 def calculate_cumulative_seasons(win_loss_counter):
@@ -177,13 +189,14 @@ def output_recordigami_files(league=WNBA):
 	games, champions = get_historical_games(league)
 	teams = get_historical_teams(league)
 	recordigami = get_historical_recordigami(games, teams, league)
-	season_paths = get_historical_season_paths(champions, games, teams, league)
+	season_paths, season_win_loss = get_historical_season_paths(champions, games, teams, league)
 
 
 	games.to_csv('{0}/{1}_games.csv'.format(OUTPUT_DIRECTORY, league), index=False)
 	with open('{0}/{1}_teams.json'.format(OUTPUT_DIRECTORY, league), 'w') as file: json.dump(teams, file)
 	with open('{0}/{1}_recordigami.json'.format(OUTPUT_DIRECTORY, league), 'w') as file: json.dump(recordigami, file)
 	with open('{0}/{1}_season_paths.json'.format(OUTPUT_DIRECTORY, league), 'w') as file: json.dump(season_paths, file)
+	with open('{0}/{1}_season_win_loss.json'.format(OUTPUT_DIRECTORY, league), 'w') as file: json.dump(season_win_loss, file)
 
 
 if __name__ == '__main__':
