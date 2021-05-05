@@ -113,6 +113,16 @@ def get_historical_recordigami(games, teams, league):
 			relevant_year = recordigami_check[win_loss_key]
 			recordigami[relevant_year][win_loss_key]['count'] += 1
 
+	if league == WNBA:
+		overwrite_team = "New York Liberty"
+		win_loss_key = "0100"
+		start_year = 1997
+		recordigami[start_year][win_loss_key]["team"] = overwrite_team
+		recordigami[start_year][win_loss_key]["primary_color"] = teams[overwrite_team]['primary_color']
+		recordigami[start_year][win_loss_key]["secondary_color"] = teams[overwrite_team]['secondary_color']
+		recordigami[start_year][win_loss_key]["tertiary_color"] = teams[overwrite_team]['tertiary_color']
+		recordigami[start_year][win_loss_key]["parent"] = teams[overwrite_team]['parent']
+		recordigami[start_year][win_loss_key]["primary_color"] = teams[overwrite_team]['primary_color']
 	return recordigami
 
 

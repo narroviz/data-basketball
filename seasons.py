@@ -205,12 +205,7 @@ def output_season_paths(season_year=END_YEAR, league=WNBA):
 				continue
 			if away_game_number > get_nba_num_games(season_year, away_team):
 				continue
-
-		if home_team == "Dallas Mavericks":
-			print(home_team, home_wins, home_losses, home_game_number)
-		if away_team == "Dallas Mavericks":
-			print(away_team, away_wins, away_losses, away_game_number)
-
+				
 		if home_game_number > num_games or away_game_number > num_games:
 			continue
 
@@ -235,10 +230,10 @@ if __name__ == '__main__':
 
 	if league == WNBA:
 		START_YEAR = 1997
-		END_YEAR = 2019
+		END_YEAR = 2020
 	else:
 		START_YEAR = 1947
-		END_YEAR = 2020
+		END_YEAR = 2021
 
 	start = args.start or START_YEAR
 	end = args.end or END_YEAR
