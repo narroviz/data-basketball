@@ -65,6 +65,12 @@ Atlanta Hawks,Philadelphia 76ers,Atlanta Hawks,34,29,63,1619650800.0,2021
 Atlanta Hawks,Philadelphia 76ers,Atlanta Hawks,34,30,64,1619823600.0,2021
 Atlanta Hawks,Atlanta Hawks,Chicago Bulls,35,30,65,1619913600.0,2021
 Atlanta Hawks,Atlanta Hawks,Portland Trail Blazers,36,30,66,1620086400.0,2021
+Atlanta Hawks,Atlanta Hawks,Phoenix Suns,37,30,67,1620259200.0,2021
+Atlanta Hawks,Indiana Pacers,Atlanta Hawks,37,31,68,1620345600.0,2021
+Atlanta Hawks,Atlanta Hawks,Washington Wizards,38,31,69,1620689400.0,2021
+Atlanta Hawks,Atlanta Hawks,Washington Wizards,39,31,70,1620860400.0,2021
+Atlanta Hawks,Atlanta Hawks,Orlando Magic,40,31,71,1620948600.0,2021
+Atlanta Hawks,Atlanta Hawks,Houston Rockets,41,31,72,1621206000.0,2021
 Boston Celtics,Boston Celtics,Milwaukee Bucks,1,0,1,1608769800.0,2021
 Boston Celtics,Boston Celtics,Brooklyn Nets,1,1,2,1608933600.0,2021
 Boston Celtics,Indiana Pacers,Boston Celtics,1,2,3,1609117200.0,2021
@@ -130,6 +136,13 @@ Boston Celtics,Boston Celtics,Oklahoma City Thunder,32,30,62,1619564400.0,2021
 Boston Celtics,Boston Celtics,Charlotte Hornets,33,30,63,1619652600.0,2021
 Boston Celtics,Boston Celtics,San Antonio Spurs,34,30,64,1619825400.0,2021
 Boston Celtics,Boston Celtics,Portland Trail Blazers,34,31,65,1619998200.0,2021
+Boston Celtics,Orlando Magic,Boston Celtics,35,31,66,1620255600.0,2021
+Boston Celtics,Chicago Bulls,Boston Celtics,35,32,67,1620430200.0,2021
+Boston Celtics,Boston Celtics,Miami Heat,35,33,68,1620579600.0,2021
+Boston Celtics,Boston Celtics,Miami Heat,35,34,69,1620775800.0,2021
+Boston Celtics,Cleveland Cavaliers,Boston Celtics,35,35,70,1620864000.0,2021
+Boston Celtics,Minnesota Timberwolves,Boston Celtics,36,35,71,1621101600.0,2021
+Boston Celtics,New York Knicks,Boston Celtics,36,36,72,1621184400.0,2021
 Brooklyn Nets,Brooklyn Nets,Golden State Warriors,1,0,1,1608681600.0,2021
 Brooklyn Nets,Boston Celtics,Brooklyn Nets,2,0,2,1608933600.0,2021
 Brooklyn Nets,Charlotte Hornets,Brooklyn Nets,2,1,3,1609113600.0,2021
@@ -195,6 +208,13 @@ Brooklyn Nets,Toronto Raptors,Brooklyn Nets,42,20,62,1619566200.0,2021
 Brooklyn Nets,Indiana Pacers,Brooklyn Nets,43,20,63,1619737200.0,2021
 Brooklyn Nets,Brooklyn Nets,Portland Trail Blazers,43,21,64,1619827200.0,2021
 Brooklyn Nets,Milwaukee Bucks,Brooklyn Nets,43,22,65,1619983800.0,2021
+Brooklyn Nets,Milwaukee Bucks,Brooklyn Nets,43,23,66,1620171000.0,2021
+Brooklyn Nets,Dallas Mavericks,Brooklyn Nets,43,24,67,1620343800.0,2021
+Brooklyn Nets,Denver Nuggets,Brooklyn Nets,44,24,68,1620525600.0,2021
+Brooklyn Nets,Chicago Bulls,Brooklyn Nets,45,24,69,1620777600.0,2021
+Brooklyn Nets,Brooklyn Nets,San Antonio Spurs,46,24,70,1620864000.0,2021
+Brooklyn Nets,Brooklyn Nets,Chicago Bulls,47,24,71,1621098000.0,2021
+Brooklyn Nets,Brooklyn Nets,Cleveland Cavaliers,48,24,72,1621206000.0,2021
 Charlotte Hornets,Cleveland Cavaliers,Charlotte Hornets,0,1,1,1608768000.0,2021
 Charlotte Hornets,Charlotte Hornets,Oklahoma City Thunder,0,2,2,1609027200.0,2021
 Charlotte Hornets,Charlotte Hornets,Brooklyn Nets,1,2,3,1609113600.0,2021
@@ -259,6 +279,14 @@ Charlotte Hornets,Charlotte Hornets,Milwaukee Bucks,30,31,61,1619564400.0,2021
 Charlotte Hornets,Boston Celtics,Charlotte Hornets,30,32,62,1619652600.0,2021
 Charlotte Hornets,Charlotte Hornets,Detroit Pistons,31,32,63,1619910000.0,2021
 Charlotte Hornets,Charlotte Hornets,Miami Heat,31,33,64,1620000000.0,2021
+Charlotte Hornets,Detroit Pistons,Charlotte Hornets,32,33,65,1620169200.0,2021
+Charlotte Hornets,Charlotte Hornets,Chicago Bulls,32,34,66,1620342000.0,2021
+Charlotte Hornets,Charlotte Hornets,Orlando Magic,33,34,67,1620432000.0,2021
+Charlotte Hornets,Charlotte Hornets,New Orleans Pelicans,33,35,68,1620601200.0,2021
+Charlotte Hornets,Charlotte Hornets,Denver Nuggets,33,36,69,1620774000.0,2021
+Charlotte Hornets,Charlotte Hornets,Los Angeles Clippers,33,37,70,1620946800.0,2021
+Charlotte Hornets,New York Knicks,Charlotte Hornets,33,38,71,1621098000.0,2021
+Charlotte Hornets,Washington Wizards,Charlotte Hornets,33,39,72,1621184400.0,2021
 Chicago Bulls,Chicago Bulls,Atlanta Hawks,0,1,1,1608771600.0,2021
 Chicago Bulls,Chicago Bulls,Indiana Pacers,0,2,2,1609030800.0,2021
 Chicago Bulls,Chicago Bulls,Golden State Warriors,0,3,3,1609117200.0,2021
@@ -324,6 +352,13 @@ Chicago Bulls,New York Knicks,Chicago Bulls,26,36,62,1619652600.0,2021
 Chicago Bulls,Chicago Bulls,Milwaukee Bucks,26,37,63,1619830800.0,2021
 Chicago Bulls,Atlanta Hawks,Chicago Bulls,26,38,64,1619913600.0,2021
 Chicago Bulls,Chicago Bulls,Philadelphia 76ers,26,39,65,1620090000.0,2021
+Chicago Bulls,Charlotte Hornets,Chicago Bulls,27,39,66,1620342000.0,2021
+Chicago Bulls,Chicago Bulls,Boston Celtics,28,39,67,1620430200.0,2021
+Chicago Bulls,Detroit Pistons,Chicago Bulls,29,39,68,1620604800.0,2021
+Chicago Bulls,Chicago Bulls,Brooklyn Nets,29,40,69,1620777600.0,2021
+Chicago Bulls,Chicago Bulls,Toronto Raptors,30,40,70,1620950400.0,2021
+Chicago Bulls,Brooklyn Nets,Chicago Bulls,30,41,71,1621098000.0,2021
+Chicago Bulls,Chicago Bulls,Milwaukee Bucks,31,41,72,1621213200.0,2021
 Cleveland Cavaliers,Cleveland Cavaliers,Charlotte Hornets,1,0,1,1608768000.0,2021
 Cleveland Cavaliers,Detroit Pistons,Cleveland Cavaliers,2,0,2,1609027200.0,2021
 Cleveland Cavaliers,Cleveland Cavaliers,Philadelphia 76ers,3,0,3,1609115400.0,2021
@@ -388,6 +423,14 @@ Cleveland Cavaliers,Toronto Raptors,Cleveland Cavaliers,21,40,61,1619479800.0,20
 Cleveland Cavaliers,Cleveland Cavaliers,Orlando Magic,21,41,62,1619650800.0,2021
 Cleveland Cavaliers,Cleveland Cavaliers,Washington Wizards,21,42,63,1619825400.0,2021
 Cleveland Cavaliers,Cleveland Cavaliers,Miami Heat,21,43,64,1619913600.0,2021
+Cleveland Cavaliers,Cleveland Cavaliers,Phoenix Suns,21,44,65,1620169200.0,2021
+Cleveland Cavaliers,Cleveland Cavaliers,Portland Trail Blazers,21,45,66,1620257400.0,2021
+Cleveland Cavaliers,Dallas Mavericks,Cleveland Cavaliers,21,46,67,1620433800.0,2021
+Cleveland Cavaliers,Cleveland Cavaliers,Dallas Mavericks,21,47,68,1620601200.0,2021
+Cleveland Cavaliers,Cleveland Cavaliers,Indiana Pacers,21,48,69,1620689400.0,2021
+Cleveland Cavaliers,Cleveland Cavaliers,Boston Celtics,22,48,70,1620864000.0,2021
+Cleveland Cavaliers,Washington Wizards,Cleveland Cavaliers,22,49,71,1621033200.0,2021
+Cleveland Cavaliers,Brooklyn Nets,Cleveland Cavaliers,22,50,72,1621206000.0,2021
 Dallas Mavericks,Phoenix Suns,Dallas Mavericks,0,1,1,1608780600.0,2021
 Dallas Mavericks,Los Angeles Lakers,Dallas Mavericks,0,2,2,1608944400.0,2021
 Dallas Mavericks,Los Angeles Clippers,Dallas Mavericks,1,2,3,1609101000.0,2021
@@ -452,6 +495,14 @@ Dallas Mavericks,Golden State Warriors,Dallas Mavericks,34,27,61,1619573400.0,20
 Dallas Mavericks,Detroit Pistons,Dallas Mavericks,35,27,62,1619737200.0,2021
 Dallas Mavericks,Dallas Mavericks,Washington Wizards,36,27,63,1619917200.0,2021
 Dallas Mavericks,Dallas Mavericks,Sacramento Kings,36,28,64,1620000000.0,2021
+Dallas Mavericks,Miami Heat,Dallas Mavericks,37,28,65,1620172800.0,2021
+Dallas Mavericks,Dallas Mavericks,Brooklyn Nets,38,28,66,1620343800.0,2021
+Dallas Mavericks,Dallas Mavericks,Cleveland Cavaliers,39,28,67,1620433800.0,2021
+Dallas Mavericks,Cleveland Cavaliers,Dallas Mavericks,40,28,68,1620601200.0,2021
+Dallas Mavericks,Memphis Grizzlies,Dallas Mavericks,40,29,69,1620777600.0,2021
+Dallas Mavericks,Dallas Mavericks,New Orleans Pelicans,41,29,70,1620867600.0,2021
+Dallas Mavericks,Dallas Mavericks,Toronto Raptors,42,29,71,1621040400.0,2021
+Dallas Mavericks,Minnesota Timberwolves,Dallas Mavericks,42,30,72,1621213200.0,2021
 Denver Nuggets,Denver Nuggets,Sacramento Kings,0,1,1,1608775200.0,2021
 Denver Nuggets,Denver Nuggets,Los Angeles Clippers,0,2,2,1608953400.0,2021
 Denver Nuggets,Denver Nuggets,Houston Rockets,1,2,3,1609207200.0,2021
@@ -517,6 +568,13 @@ Denver Nuggets,Denver Nuggets,New Orleans Pelicans,41,21,62,1619658000.0,2021
 Denver Nuggets,Denver Nuggets,Toronto Raptors,42,21,63,1619744400.0,2021
 Denver Nuggets,Los Angeles Clippers,Denver Nuggets,43,21,64,1619920800.0,2021
 Denver Nuggets,Los Angeles Lakers,Denver Nuggets,43,22,65,1620093600.0,2021
+Denver Nuggets,Denver Nuggets,New York Knicks,44,22,66,1620262800.0,2021
+Denver Nuggets,Utah Jazz,Denver Nuggets,44,23,67,1620435600.0,2021
+Denver Nuggets,Denver Nuggets,Brooklyn Nets,44,24,68,1620525600.0,2021
+Denver Nuggets,Charlotte Hornets,Denver Nuggets,45,24,69,1620774000.0,2021
+Denver Nuggets,Minnesota Timberwolves,Denver Nuggets,46,24,70,1620950400.0,2021
+Denver Nuggets,Detroit Pistons,Denver Nuggets,47,24,71,1621036800.0,2021
+Denver Nuggets,Portland Trail Blazers,Denver Nuggets,47,25,72,1621213200.0,2021
 Detroit Pistons,Minnesota Timberwolves,Detroit Pistons,0,1,1,1608771600.0,2021
 Detroit Pistons,Detroit Pistons,Cleveland Cavaliers,0,2,2,1609027200.0,2021
 Detroit Pistons,Atlanta Hawks,Detroit Pistons,0,3,3,1609201800.0,2021
@@ -582,6 +640,13 @@ Detroit Pistons,Detroit Pistons,Atlanta Hawks,19,43,62,1619478000.0,2021
 Detroit Pistons,Detroit Pistons,Dallas Mavericks,19,44,63,1619737200.0,2021
 Detroit Pistons,Charlotte Hornets,Detroit Pistons,19,45,64,1619910000.0,2021
 Detroit Pistons,Detroit Pistons,Orlando Magic,19,46,65,1620082800.0,2021
+Detroit Pistons,Detroit Pistons,Charlotte Hornets,19,47,66,1620169200.0,2021
+Detroit Pistons,Detroit Pistons,Memphis Grizzlies,20,47,67,1620345600.0,2021
+Detroit Pistons,Philadelphia 76ers,Detroit Pistons,20,48,68,1620514800.0,2021
+Detroit Pistons,Detroit Pistons,Chicago Bulls,20,49,69,1620604800.0,2021
+Detroit Pistons,Detroit Pistons,Minnesota Timberwolves,20,50,70,1620774000.0,2021
+Detroit Pistons,Detroit Pistons,Denver Nuggets,20,51,71,1621036800.0,2021
+Detroit Pistons,Detroit Pistons,Miami Heat,20,52,72,1621209600.0,2021
 Golden State Warriors,Brooklyn Nets,Golden State Warriors,0,1,1,1608681600.0,2021
 Golden State Warriors,Milwaukee Bucks,Golden State Warriors,0,2,2,1608924600.0,2021
 Golden State Warriors,Chicago Bulls,Golden State Warriors,1,2,3,1609117200.0,2021
@@ -647,6 +712,13 @@ Golden State Warriors,Golden State Warriors,Dallas Mavericks,31,31,62,1619573400
 Golden State Warriors,Minnesota Timberwolves,Golden State Warriors,31,32,63,1619740800.0,2021
 Golden State Warriors,Houston Rockets,Golden State Warriors,32,32,64,1619911800.0,2021
 Golden State Warriors,New Orleans Pelicans,Golden State Warriors,33,32,65,1620084600.0,2021
+Golden State Warriors,New Orleans Pelicans,Golden State Warriors,33,33,66,1620172800.0,2021
+Golden State Warriors,Golden State Warriors,Oklahoma City Thunder,34,33,67,1620352800.0,2021
+Golden State Warriors,Golden State Warriors,Oklahoma City Thunder,35,33,68,1620525600.0,2021
+Golden State Warriors,Golden State Warriors,Utah Jazz,36,33,69,1620698400.0,2021
+Golden State Warriors,Golden State Warriors,Phoenix Suns,37,33,70,1620784800.0,2021
+Golden State Warriors,Golden State Warriors,New Orleans Pelicans,38,33,71,1621042200.0,2021
+Golden State Warriors,Golden State Warriors,Memphis Grizzlies,39,33,72,1621193400.0,2021
 Houston Rockets,Portland Trail Blazers,Houston Rockets,0,1,1,1609038000.0,2021
 Houston Rockets,Denver Nuggets,Houston Rockets,0,2,2,1609207200.0,2021
 Houston Rockets,Houston Rockets,Sacramento Kings,1,2,3,1609459200.0,2021
@@ -712,6 +784,13 @@ Houston Rockets,Houston Rockets,Minnesota Timberwolves,15,47,62,1619571600.0,202
 Houston Rockets,Houston Rockets,Milwaukee Bucks,16,47,63,1619740800.0,2021
 Houston Rockets,Houston Rockets,Golden State Warriors,16,48,64,1619911800.0,2021
 Houston Rockets,Houston Rockets,New York Knicks,16,49,65,1620000000.0,2021
+Houston Rockets,Houston Rockets,Philadelphia 76ers,16,50,66,1620259200.0,2021
+Houston Rockets,Milwaukee Bucks,Houston Rockets,16,51,67,1620432000.0,2021
+Houston Rockets,Utah Jazz,Houston Rockets,16,52,68,1620525600.0,2021
+Houston Rockets,Portland Trail Blazers,Houston Rockets,16,53,69,1620698400.0,2021
+Houston Rockets,Los Angeles Lakers,Houston Rockets,16,54,70,1620873000.0,2021
+Houston Rockets,Houston Rockets,Los Angeles Clippers,17,54,71,1621040400.0,2021
+Houston Rockets,Atlanta Hawks,Houston Rockets,17,55,72,1621206000.0,2021
 Indiana Pacers,Indiana Pacers,New York Knicks,1,0,1,1608768000.0,2021
 Indiana Pacers,Chicago Bulls,Indiana Pacers,2,0,2,1609030800.0,2021
 Indiana Pacers,Indiana Pacers,Boston Celtics,3,0,3,1609117200.0,2021
@@ -776,6 +855,14 @@ Indiana Pacers,Indiana Pacers,Portland Trail Blazers,29,32,61,1619564400.0,2021
 Indiana Pacers,Indiana Pacers,Brooklyn Nets,29,33,62,1619737200.0,2021
 Indiana Pacers,Oklahoma City Thunder,Indiana Pacers,30,33,63,1619913600.0,2021
 Indiana Pacers,Washington Wizards,Indiana Pacers,30,34,64,1620082800.0,2021
+Indiana Pacers,Indiana Pacers,Sacramento Kings,30,35,65,1620259200.0,2021
+Indiana Pacers,Indiana Pacers,Atlanta Hawks,31,35,66,1620345600.0,2021
+Indiana Pacers,Indiana Pacers,Washington Wizards,31,36,67,1620514800.0,2021
+Indiana Pacers,Cleveland Cavaliers,Indiana Pacers,32,36,68,1620689400.0,2021
+Indiana Pacers,Indiana Pacers,Philadelphia 76ers,33,36,69,1620777600.0,2021
+Indiana Pacers,Indiana Pacers,Milwaukee Bucks,33,37,70,1620946800.0,2021
+Indiana Pacers,Indiana Pacers,Los Angeles Lakers,33,38,71,1621098000.0,2021
+Indiana Pacers,Toronto Raptors,Indiana Pacers,34,38,72,1621184400.0,2021
 Los Angeles Clippers,Los Angeles Lakers,Los Angeles Clippers,1,0,1,1608692400.0,2021
 Los Angeles Clippers,Denver Nuggets,Los Angeles Clippers,2,0,2,1608953400.0,2021
 Los Angeles Clippers,Los Angeles Clippers,Dallas Mavericks,2,1,3,1609101000.0,2021
@@ -841,6 +928,13 @@ Los Angeles Clippers,Houston Rockets,Los Angeles Clippers,43,19,62,1619222400.0,
 Los Angeles Clippers,New Orleans Pelicans,Los Angeles Clippers,43,20,63,1619481600.0,2021
 Los Angeles Clippers,Phoenix Suns,Los Angeles Clippers,43,21,64,1619661600.0,2021
 Los Angeles Clippers,Los Angeles Clippers,Denver Nuggets,43,22,65,1619920800.0,2021
+Los Angeles Clippers,Los Angeles Clippers,Toronto Raptors,44,22,66,1620180000.0,2021
+Los Angeles Clippers,Los Angeles Clippers,Los Angeles Lakers,45,22,67,1620352800.0,2021
+Los Angeles Clippers,Los Angeles Clippers,New York Knicks,45,23,68,1620588600.0,2021
+Los Angeles Clippers,Toronto Raptors,Los Angeles Clippers,46,23,69,1620775800.0,2021
+Los Angeles Clippers,Charlotte Hornets,Los Angeles Clippers,47,23,70,1620946800.0,2021
+Los Angeles Clippers,Houston Rockets,Los Angeles Clippers,47,24,71,1621040400.0,2021
+Los Angeles Clippers,Oklahoma City Thunder,Los Angeles Clippers,47,25,72,1621213200.0,2021
 Los Angeles Lakers,Los Angeles Lakers,Los Angeles Clippers,0,1,1,1608692400.0,2021
 Los Angeles Lakers,Los Angeles Lakers,Dallas Mavericks,1,1,2,1608944400.0,2021
 Los Angeles Lakers,Los Angeles Lakers,Minnesota Timberwolves,2,1,3,1609124400.0,2021
@@ -906,6 +1000,13 @@ Los Angeles Lakers,Washington Wizards,Los Angeles Lakers,36,26,62,1619652600.0,2
 Los Angeles Lakers,Los Angeles Lakers,Sacramento Kings,36,27,63,1619836200.0,2021
 Los Angeles Lakers,Los Angeles Lakers,Toronto Raptors,36,28,64,1620007200.0,2021
 Los Angeles Lakers,Los Angeles Lakers,Denver Nuggets,37,28,65,1620093600.0,2021
+Los Angeles Lakers,Los Angeles Clippers,Los Angeles Lakers,37,29,66,1620352800.0,2021
+Los Angeles Lakers,Portland Trail Blazers,Los Angeles Lakers,37,30,67,1620439200.0,2021
+Los Angeles Lakers,Los Angeles Lakers,Phoenix Suns,38,30,68,1620612000.0,2021
+Los Angeles Lakers,Los Angeles Lakers,New York Knicks,39,30,69,1620784800.0,2021
+Los Angeles Lakers,Los Angeles Lakers,Houston Rockets,40,30,70,1620873000.0,2021
+Los Angeles Lakers,Indiana Pacers,Los Angeles Lakers,41,30,71,1621098000.0,2021
+Los Angeles Lakers,New Orleans Pelicans,Los Angeles Lakers,42,30,72,1621213200.0,2021
 Memphis Grizzlies,Memphis Grizzlies,San Antonio Spurs,0,1,1,1608771600.0,2021
 Memphis Grizzlies,Memphis Grizzlies,Atlanta Hawks,0,2,2,1609020000.0,2021
 Memphis Grizzlies,Brooklyn Nets,Memphis Grizzlies,1,2,3,1609201800.0,2021
@@ -970,6 +1071,14 @@ Memphis Grizzlies,Memphis Grizzlies,Portland Trail Blazers,31,30,61,1619658000.0
 Memphis Grizzlies,Memphis Grizzlies,Orlando Magic,32,30,62,1619827200.0,2021
 Memphis Grizzlies,Orlando Magic,Memphis Grizzlies,32,31,63,1619913600.0,2021
 Memphis Grizzlies,Memphis Grizzlies,New York Knicks,32,32,64,1620090000.0,2021
+Memphis Grizzlies,Minnesota Timberwolves,Memphis Grizzlies,33,32,65,1620259200.0,2021
+Memphis Grizzlies,Detroit Pistons,Memphis Grizzlies,33,33,66,1620345600.0,2021
+Memphis Grizzlies,Toronto Raptors,Memphis Grizzlies,34,33,67,1620516600.0,2021
+Memphis Grizzlies,Memphis Grizzlies,New Orleans Pelicans,35,33,68,1620691200.0,2021
+Memphis Grizzlies,Memphis Grizzlies,Dallas Mavericks,36,33,69,1620777600.0,2021
+Memphis Grizzlies,Memphis Grizzlies,Sacramento Kings,37,33,70,1620950400.0,2021
+Memphis Grizzlies,Memphis Grizzlies,Sacramento Kings,38,33,71,1621040400.0,2021
+Memphis Grizzlies,Golden State Warriors,Memphis Grizzlies,38,34,72,1621193400.0,2021
 Miami Heat,Orlando Magic,Miami Heat,0,1,1,1608768000.0,2021
 Miami Heat,Miami Heat,New Orleans Pelicans,1,1,2,1608915600.0,2021
 Miami Heat,Miami Heat,Milwaukee Bucks,1,2,3,1609288200.0,2021
@@ -1035,6 +1144,13 @@ Miami Heat,Miami Heat,Chicago Bulls,32,30,62,1619481600.0,2021
 Miami Heat,Miami Heat,San Antonio Spurs,33,30,63,1619654400.0,2021
 Miami Heat,Cleveland Cavaliers,Miami Heat,34,30,64,1619913600.0,2021
 Miami Heat,Charlotte Hornets,Miami Heat,35,30,65,1620000000.0,2021
+Miami Heat,Miami Heat,Dallas Mavericks,35,31,66,1620172800.0,2021
+Miami Heat,Miami Heat,Minnesota Timberwolves,36,31,67,1620432000.0,2021
+Miami Heat,Boston Celtics,Miami Heat,37,31,68,1620579600.0,2021
+Miami Heat,Boston Celtics,Miami Heat,38,31,69,1620775800.0,2021
+Miami Heat,Miami Heat,Philadelphia 76ers,39,31,70,1620948600.0,2021
+Miami Heat,Milwaukee Bucks,Miami Heat,39,32,71,1621123200.0,2021
+Miami Heat,Detroit Pistons,Miami Heat,40,32,72,1621209600.0,2021
 Milwaukee Bucks,Boston Celtics,Milwaukee Bucks,0,1,1,1608769800.0,2021
 Milwaukee Bucks,Milwaukee Bucks,Golden State Warriors,1,1,2,1608924600.0,2021
 Milwaukee Bucks,New York Knicks,Milwaukee Bucks,1,2,3,1609115400.0,2021
@@ -1099,6 +1215,14 @@ Milwaukee Bucks,Charlotte Hornets,Milwaukee Bucks,38,23,61,1619564400.0,2021
 Milwaukee Bucks,Houston Rockets,Milwaukee Bucks,38,24,62,1619740800.0,2021
 Milwaukee Bucks,Chicago Bulls,Milwaukee Bucks,39,24,63,1619830800.0,2021
 Milwaukee Bucks,Milwaukee Bucks,Brooklyn Nets,40,24,64,1619983800.0,2021
+Milwaukee Bucks,Milwaukee Bucks,Brooklyn Nets,41,24,65,1620171000.0,2021
+Milwaukee Bucks,Milwaukee Bucks,Washington Wizards,42,24,66,1620259200.0,2021
+Milwaukee Bucks,Milwaukee Bucks,Houston Rockets,43,24,67,1620432000.0,2021
+Milwaukee Bucks,San Antonio Spurs,Milwaukee Bucks,43,25,68,1620693000.0,2021
+Milwaukee Bucks,Milwaukee Bucks,Orlando Magic,44,25,69,1620781200.0,2021
+Milwaukee Bucks,Indiana Pacers,Milwaukee Bucks,45,25,70,1620946800.0,2021
+Milwaukee Bucks,Milwaukee Bucks,Miami Heat,46,25,71,1621123200.0,2021
+Milwaukee Bucks,Chicago Bulls,Milwaukee Bucks,46,26,72,1621213200.0,2021
 Minnesota Timberwolves,Minnesota Timberwolves,Detroit Pistons,1,0,1,1608771600.0,2021
 Minnesota Timberwolves,Utah Jazz,Minnesota Timberwolves,2,0,2,1609034400.0,2021
 Minnesota Timberwolves,Los Angeles Lakers,Minnesota Timberwolves,2,1,3,1609124400.0,2021
@@ -1164,6 +1288,13 @@ Minnesota Timberwolves,Minnesota Timberwolves,Utah Jazz,18,44,62,1619481600.0,20
 Minnesota Timberwolves,Houston Rockets,Minnesota Timberwolves,19,44,63,1619571600.0,2021
 Minnesota Timberwolves,Minnesota Timberwolves,Golden State Warriors,20,44,64,1619740800.0,2021
 Minnesota Timberwolves,Minnesota Timberwolves,New Orleans Pelicans,20,45,65,1619913600.0,2021
+Minnesota Timberwolves,Minnesota Timberwolves,Memphis Grizzlies,20,46,66,1620259200.0,2021
+Minnesota Timberwolves,Miami Heat,Minnesota Timberwolves,20,47,67,1620432000.0,2021
+Minnesota Timberwolves,Orlando Magic,Minnesota Timberwolves,21,47,68,1620601200.0,2021
+Minnesota Timberwolves,Detroit Pistons,Minnesota Timberwolves,22,47,69,1620774000.0,2021
+Minnesota Timberwolves,Minnesota Timberwolves,Denver Nuggets,22,48,70,1620950400.0,2021
+Minnesota Timberwolves,Minnesota Timberwolves,Boston Celtics,22,49,71,1621101600.0,2021
+Minnesota Timberwolves,Minnesota Timberwolves,Dallas Mavericks,23,49,72,1621213200.0,2021
 New Orleans Pelicans,Toronto Raptors,New Orleans Pelicans,1,0,1,1608769800.0,2021
 New Orleans Pelicans,Miami Heat,New Orleans Pelicans,1,1,2,1608915600.0,2021
 New Orleans Pelicans,New Orleans Pelicans,San Antonio Spurs,2,1,3,1609113600.0,2021
@@ -1229,6 +1360,13 @@ New Orleans Pelicans,Denver Nuggets,New Orleans Pelicans,27,35,62,1619658000.0,2
 New Orleans Pelicans,Oklahoma City Thunder,New Orleans Pelicans,28,35,63,1619744400.0,2021
 New Orleans Pelicans,Minnesota Timberwolves,New Orleans Pelicans,29,35,64,1619913600.0,2021
 New Orleans Pelicans,New Orleans Pelicans,Golden State Warriors,29,36,65,1620084600.0,2021
+New Orleans Pelicans,New Orleans Pelicans,Golden State Warriors,30,36,66,1620172800.0,2021
+New Orleans Pelicans,Philadelphia 76ers,New Orleans Pelicans,30,37,67,1620428400.0,2021
+New Orleans Pelicans,Charlotte Hornets,New Orleans Pelicans,31,37,68,1620601200.0,2021
+New Orleans Pelicans,Memphis Grizzlies,New Orleans Pelicans,31,38,69,1620691200.0,2021
+New Orleans Pelicans,Dallas Mavericks,New Orleans Pelicans,31,39,70,1620867600.0,2021
+New Orleans Pelicans,Golden State Warriors,New Orleans Pelicans,31,40,71,1621042200.0,2021
+New Orleans Pelicans,New Orleans Pelicans,Los Angeles Lakers,31,41,72,1621213200.0,2021
 New York Knicks,Indiana Pacers,New York Knicks,0,1,1,1608768000.0,2021
 New York Knicks,New York Knicks,Philadelphia 76ers,0,2,2,1609029000.0,2021
 New York Knicks,New York Knicks,Milwaukee Bucks,1,2,3,1609115400.0,2021
@@ -1294,6 +1432,13 @@ New York Knicks,New York Knicks,Phoenix Suns,34,28,62,1619479800.0,2021
 New York Knicks,New York Knicks,Chicago Bulls,35,28,63,1619652600.0,2021
 New York Knicks,Houston Rockets,New York Knicks,36,28,64,1620000000.0,2021
 New York Knicks,Memphis Grizzlies,New York Knicks,37,28,65,1620090000.0,2021
+New York Knicks,Denver Nuggets,New York Knicks,37,29,66,1620262800.0,2021
+New York Knicks,Phoenix Suns,New York Knicks,37,30,67,1620439200.0,2021
+New York Knicks,Los Angeles Clippers,New York Knicks,38,30,68,1620588600.0,2021
+New York Knicks,Los Angeles Lakers,New York Knicks,38,31,69,1620784800.0,2021
+New York Knicks,New York Knicks,San Antonio Spurs,39,31,70,1620948600.0,2021
+New York Knicks,New York Knicks,Charlotte Hornets,40,31,71,1621098000.0,2021
+New York Knicks,New York Knicks,Boston Celtics,41,31,72,1621184400.0,2021
 Oklahoma City Thunder,Charlotte Hornets,Oklahoma City Thunder,1,0,1,1609027200.0,2021
 Oklahoma City Thunder,Oklahoma City Thunder,Utah Jazz,1,1,2,1609203600.0,2021
 Oklahoma City Thunder,Oklahoma City Thunder,Orlando Magic,1,2,3,1609290000.0,2021
@@ -1359,6 +1504,13 @@ Oklahoma City Thunder,Boston Celtics,Oklahoma City Thunder,21,41,62,1619564400.0
 Oklahoma City Thunder,Oklahoma City Thunder,New Orleans Pelicans,21,42,63,1619744400.0,2021
 Oklahoma City Thunder,Oklahoma City Thunder,Indiana Pacers,21,43,64,1619913600.0,2021
 Oklahoma City Thunder,Oklahoma City Thunder,Phoenix Suns,21,44,65,1620000000.0,2021
+Oklahoma City Thunder,Oklahoma City Thunder,Sacramento Kings,21,45,66,1620172800.0,2021
+Oklahoma City Thunder,Golden State Warriors,Oklahoma City Thunder,21,46,67,1620352800.0,2021
+Oklahoma City Thunder,Golden State Warriors,Oklahoma City Thunder,21,47,68,1620525600.0,2021
+Oklahoma City Thunder,Sacramento Kings,Oklahoma City Thunder,21,48,69,1620612000.0,2021
+Oklahoma City Thunder,Sacramento Kings,Oklahoma City Thunder,21,49,70,1620784800.0,2021
+Oklahoma City Thunder,Oklahoma City Thunder,Utah Jazz,21,50,71,1621036800.0,2021
+Oklahoma City Thunder,Oklahoma City Thunder,Los Angeles Clippers,22,50,72,1621213200.0,2021
 Orlando Magic,Orlando Magic,Miami Heat,1,0,1,1608768000.0,2021
 Orlando Magic,Washington Wizards,Orlando Magic,2,0,2,1609027200.0,2021
 Orlando Magic,Washington Wizards,Orlando Magic,3,0,3,1609113600.0,2021
@@ -1424,6 +1576,13 @@ Orlando Magic,Cleveland Cavaliers,Orlando Magic,19,43,62,1619650800.0,2021
 Orlando Magic,Memphis Grizzlies,Orlando Magic,19,44,63,1619827200.0,2021
 Orlando Magic,Orlando Magic,Memphis Grizzlies,20,44,64,1619913600.0,2021
 Orlando Magic,Detroit Pistons,Orlando Magic,21,44,65,1620082800.0,2021
+Orlando Magic,Orlando Magic,Boston Celtics,21,45,66,1620255600.0,2021
+Orlando Magic,Charlotte Hornets,Orlando Magic,21,46,67,1620432000.0,2021
+Orlando Magic,Orlando Magic,Minnesota Timberwolves,21,47,68,1620601200.0,2021
+Orlando Magic,Milwaukee Bucks,Orlando Magic,21,48,69,1620781200.0,2021
+Orlando Magic,Atlanta Hawks,Orlando Magic,21,49,70,1620948600.0,2021
+Orlando Magic,Philadelphia 76ers,Orlando Magic,21,50,71,1621036800.0,2021
+Orlando Magic,Philadelphia 76ers,Orlando Magic,21,51,72,1621206000.0,2021
 Philadelphia 76ers,Philadelphia 76ers,Washington Wizards,1,0,1,1608768000.0,2021
 Philadelphia 76ers,New York Knicks,Philadelphia 76ers,2,0,2,1609029000.0,2021
 Philadelphia 76ers,Cleveland Cavaliers,Philadelphia 76ers,2,1,3,1609115400.0,2021
@@ -1489,6 +1648,13 @@ Philadelphia 76ers,Philadelphia 76ers,Atlanta Hawks,41,21,62,1619650800.0,2021
 Philadelphia 76ers,Philadelphia 76ers,Atlanta Hawks,42,21,63,1619823600.0,2021
 Philadelphia 76ers,San Antonio Spurs,Philadelphia 76ers,43,21,64,1620000000.0,2021
 Philadelphia 76ers,Chicago Bulls,Philadelphia 76ers,44,21,65,1620090000.0,2021
+Philadelphia 76ers,Houston Rockets,Philadelphia 76ers,45,21,66,1620259200.0,2021
+Philadelphia 76ers,Philadelphia 76ers,New Orleans Pelicans,46,21,67,1620428400.0,2021
+Philadelphia 76ers,Philadelphia 76ers,Detroit Pistons,47,21,68,1620514800.0,2021
+Philadelphia 76ers,Indiana Pacers,Philadelphia 76ers,47,22,69,1620777600.0,2021
+Philadelphia 76ers,Miami Heat,Philadelphia 76ers,47,23,70,1620948600.0,2021
+Philadelphia 76ers,Philadelphia 76ers,Orlando Magic,48,23,71,1621036800.0,2021
+Philadelphia 76ers,Philadelphia 76ers,Orlando Magic,49,23,72,1621206000.0,2021
 Phoenix Suns,Phoenix Suns,Dallas Mavericks,1,0,1,1608780600.0,2021
 Phoenix Suns,Sacramento Kings,Phoenix Suns,1,1,2,1609038000.0,2021
 Phoenix Suns,Sacramento Kings,Phoenix Suns,2,1,3,1609120800.0,2021
@@ -1553,6 +1719,14 @@ Phoenix Suns,New York Knicks,Phoenix Suns,43,18,61,1619479800.0,2021
 Phoenix Suns,Phoenix Suns,Los Angeles Clippers,44,18,62,1619661600.0,2021
 Phoenix Suns,Phoenix Suns,Utah Jazz,45,18,63,1619834400.0,2021
 Phoenix Suns,Oklahoma City Thunder,Phoenix Suns,46,18,64,1620000000.0,2021
+Phoenix Suns,Cleveland Cavaliers,Phoenix Suns,47,18,65,1620169200.0,2021
+Phoenix Suns,Atlanta Hawks,Phoenix Suns,47,19,66,1620259200.0,2021
+Phoenix Suns,Phoenix Suns,New York Knicks,48,19,67,1620439200.0,2021
+Phoenix Suns,Los Angeles Lakers,Phoenix Suns,48,20,68,1620612000.0,2021
+Phoenix Suns,Golden State Warriors,Phoenix Suns,48,21,69,1620784800.0,2021
+Phoenix Suns,Phoenix Suns,Portland Trail Blazers,49,21,70,1620957600.0,2021
+Phoenix Suns,San Antonio Spurs,Phoenix Suns,50,21,71,1621101600.0,2021
+Phoenix Suns,San Antonio Spurs,Phoenix Suns,51,21,72,1621188000.0,2021
 Portland Trail Blazers,Portland Trail Blazers,Utah Jazz,0,1,1,1608778800.0,2021
 Portland Trail Blazers,Portland Trail Blazers,Houston Rockets,1,1,2,1609038000.0,2021
 Portland Trail Blazers,Los Angeles Lakers,Portland Trail Blazers,2,1,3,1609210800.0,2021
@@ -1618,6 +1792,13 @@ Portland Trail Blazers,Memphis Grizzlies,Portland Trail Blazers,34,28,62,1619658
 Portland Trail Blazers,Brooklyn Nets,Portland Trail Blazers,35,28,63,1619827200.0,2021
 Portland Trail Blazers,Boston Celtics,Portland Trail Blazers,36,28,64,1619998200.0,2021
 Portland Trail Blazers,Atlanta Hawks,Portland Trail Blazers,36,29,65,1620086400.0,2021
+Portland Trail Blazers,Cleveland Cavaliers,Portland Trail Blazers,37,29,66,1620257400.0,2021
+Portland Trail Blazers,Portland Trail Blazers,Los Angeles Lakers,38,29,67,1620439200.0,2021
+Portland Trail Blazers,Portland Trail Blazers,San Antonio Spurs,39,29,68,1620525600.0,2021
+Portland Trail Blazers,Portland Trail Blazers,Houston Rockets,40,29,69,1620698400.0,2021
+Portland Trail Blazers,Utah Jazz,Portland Trail Blazers,41,29,70,1620869400.0,2021
+Portland Trail Blazers,Phoenix Suns,Portland Trail Blazers,41,30,71,1620957600.0,2021
+Portland Trail Blazers,Portland Trail Blazers,Denver Nuggets,42,30,72,1621213200.0,2021
 Sacramento Kings,Denver Nuggets,Sacramento Kings,1,0,1,1608775200.0,2021
 Sacramento Kings,Sacramento Kings,Phoenix Suns,2,0,2,1609038000.0,2021
 Sacramento Kings,Sacramento Kings,Phoenix Suns,2,1,3,1609120800.0,2021
@@ -1682,6 +1863,14 @@ Sacramento Kings,Sacramento Kings,Dallas Mavericks,25,36,61,1619488800.0,2021
 Sacramento Kings,Sacramento Kings,Utah Jazz,25,37,62,1619661600.0,2021
 Sacramento Kings,Los Angeles Lakers,Sacramento Kings,26,37,63,1619836200.0,2021
 Sacramento Kings,Dallas Mavericks,Sacramento Kings,27,37,64,1620000000.0,2021
+Sacramento Kings,Oklahoma City Thunder,Sacramento Kings,28,37,65,1620172800.0,2021
+Sacramento Kings,Indiana Pacers,Sacramento Kings,29,37,66,1620259200.0,2021
+Sacramento Kings,Sacramento Kings,San Antonio Spurs,29,38,67,1620439200.0,2021
+Sacramento Kings,Sacramento Kings,Oklahoma City Thunder,30,38,68,1620612000.0,2021
+Sacramento Kings,Sacramento Kings,Oklahoma City Thunder,31,38,69,1620784800.0,2021
+Sacramento Kings,Memphis Grizzlies,Sacramento Kings,31,39,70,1620950400.0,2021
+Sacramento Kings,Memphis Grizzlies,Sacramento Kings,31,40,71,1621040400.0,2021
+Sacramento Kings,Sacramento Kings,Utah Jazz,31,41,72,1621213200.0,2021
 San Antonio Spurs,Memphis Grizzlies,San Antonio Spurs,1,0,1,1608771600.0,2021
 San Antonio Spurs,San Antonio Spurs,Toronto Raptors,2,0,2,1609032600.0,2021
 San Antonio Spurs,New Orleans Pelicans,San Antonio Spurs,2,1,3,1609113600.0,2021
@@ -1746,6 +1935,14 @@ San Antonio Spurs,Miami Heat,San Antonio Spurs,31,30,61,1619654400.0,2021
 San Antonio Spurs,Boston Celtics,San Antonio Spurs,31,31,62,1619825400.0,2021
 San Antonio Spurs,San Antonio Spurs,Philadelphia 76ers,31,32,63,1620000000.0,2021
 San Antonio Spurs,Utah Jazz,San Antonio Spurs,31,33,64,1620093600.0,2021
+San Antonio Spurs,Utah Jazz,San Antonio Spurs,31,34,65,1620262800.0,2021
+San Antonio Spurs,Sacramento Kings,San Antonio Spurs,32,34,66,1620439200.0,2021
+San Antonio Spurs,Portland Trail Blazers,San Antonio Spurs,32,35,67,1620525600.0,2021
+San Antonio Spurs,San Antonio Spurs,Milwaukee Bucks,33,35,68,1620693000.0,2021
+San Antonio Spurs,Brooklyn Nets,San Antonio Spurs,33,36,69,1620864000.0,2021
+San Antonio Spurs,New York Knicks,San Antonio Spurs,33,37,70,1620948600.0,2021
+San Antonio Spurs,San Antonio Spurs,Phoenix Suns,33,38,71,1621101600.0,2021
+San Antonio Spurs,San Antonio Spurs,Phoenix Suns,33,39,72,1621188000.0,2021
 Toronto Raptors,Toronto Raptors,New Orleans Pelicans,0,1,1,1608769800.0,2021
 Toronto Raptors,San Antonio Spurs,Toronto Raptors,0,2,2,1609032600.0,2021
 Toronto Raptors,Philadelphia 76ers,Toronto Raptors,0,3,3,1609286400.0,2021
@@ -1811,6 +2008,13 @@ Toronto Raptors,Toronto Raptors,Brooklyn Nets,26,36,62,1619566200.0,2021
 Toronto Raptors,Denver Nuggets,Toronto Raptors,26,37,63,1619744400.0,2021
 Toronto Raptors,Utah Jazz,Toronto Raptors,26,38,64,1619920800.0,2021
 Toronto Raptors,Los Angeles Lakers,Toronto Raptors,27,38,65,1620007200.0,2021
+Toronto Raptors,Los Angeles Clippers,Toronto Raptors,27,39,66,1620180000.0,2021
+Toronto Raptors,Toronto Raptors,Washington Wizards,27,40,67,1620343800.0,2021
+Toronto Raptors,Toronto Raptors,Memphis Grizzlies,27,41,68,1620516600.0,2021
+Toronto Raptors,Toronto Raptors,Los Angeles Clippers,27,42,69,1620775800.0,2021
+Toronto Raptors,Chicago Bulls,Toronto Raptors,27,43,70,1620950400.0,2021
+Toronto Raptors,Dallas Mavericks,Toronto Raptors,27,44,71,1621040400.0,2021
+Toronto Raptors,Toronto Raptors,Indiana Pacers,27,45,72,1621184400.0,2021
 Utah Jazz,Portland Trail Blazers,Utah Jazz,1,0,1,1608778800.0,2021
 Utah Jazz,Utah Jazz,Minnesota Timberwolves,1,1,2,1609034400.0,2021
 Utah Jazz,Oklahoma City Thunder,Utah Jazz,2,1,3,1609203600.0,2021
@@ -1876,6 +2080,13 @@ Utah Jazz,Sacramento Kings,Utah Jazz,45,17,62,1619661600.0,2021
 Utah Jazz,Phoenix Suns,Utah Jazz,45,18,63,1619834400.0,2021
 Utah Jazz,Utah Jazz,Toronto Raptors,46,18,64,1619920800.0,2021
 Utah Jazz,Utah Jazz,San Antonio Spurs,47,18,65,1620093600.0,2021
+Utah Jazz,Utah Jazz,San Antonio Spurs,48,18,66,1620262800.0,2021
+Utah Jazz,Utah Jazz,Denver Nuggets,49,18,67,1620435600.0,2021
+Utah Jazz,Utah Jazz,Houston Rockets,50,18,68,1620525600.0,2021
+Utah Jazz,Golden State Warriors,Utah Jazz,50,19,69,1620698400.0,2021
+Utah Jazz,Utah Jazz,Portland Trail Blazers,50,20,70,1620869400.0,2021
+Utah Jazz,Oklahoma City Thunder,Utah Jazz,51,20,71,1621036800.0,2021
+Utah Jazz,Sacramento Kings,Utah Jazz,52,20,72,1621213200.0,2021
 Washington Wizards,Philadelphia 76ers,Washington Wizards,0,1,1,1608768000.0,2021
 Washington Wizards,Washington Wizards,Orlando Magic,0,2,2,1609027200.0,2021
 Washington Wizards,Washington Wizards,Orlando Magic,0,3,3,1609113600.0,2021
@@ -1941,221 +2152,10 @@ Washington Wizards,Washington Wizards,Los Angeles Lakers,28,34,62,1619652600.0,2
 Washington Wizards,Cleveland Cavaliers,Washington Wizards,29,34,63,1619825400.0,2021
 Washington Wizards,Dallas Mavericks,Washington Wizards,29,35,64,1619917200.0,2021
 Washington Wizards,Washington Wizards,Indiana Pacers,30,35,65,1620082800.0,2021
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
+Washington Wizards,Milwaukee Bucks,Washington Wizards,30,36,66,1620259200.0,2021
+Washington Wizards,Toronto Raptors,Washington Wizards,31,36,67,1620343800.0,2021
+Washington Wizards,Indiana Pacers,Washington Wizards,32,36,68,1620514800.0,2021
+Washington Wizards,Atlanta Hawks,Washington Wizards,32,37,69,1620689400.0,2021
+Washington Wizards,Atlanta Hawks,Washington Wizards,32,38,70,1620860400.0,2021
+Washington Wizards,Washington Wizards,Cleveland Cavaliers,33,38,71,1621033200.0,2021
+Washington Wizards,Washington Wizards,Charlotte Hornets,34,38,72,1621184400.0,2021

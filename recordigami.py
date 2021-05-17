@@ -25,7 +25,7 @@ def get_historical_games(league):
 	print('Getting all season data...')
 	if league == WNBA:
 		start_year = 1997
-		end_year = 2020
+		end_year = 2021
 	else:
 		start_year = 1947
 		end_year = 2021

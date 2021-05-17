@@ -464,10 +464,16 @@ def schedule_for_month(url):
 
 def get_season_schedule(season_year, league=WNBA):
     if league == WNBA:
-        url = '{BASE_URL}/wnba/years/{season_year}-schedule.html'.format(
-            BASE_URL=BASE_URL,
-            season_year=season_year
-        )
+        if season_year > 2020:
+            url = '{BASE_URL}/wnba/years/{season_year}_games.html'.format(
+                BASE_URL=BASE_URL,
+                season_year=season_year
+            )
+        else:
+            url = '{BASE_URL}/wnba/years/{season_year}-schedule.html'.format(
+                BASE_URL=BASE_URL,
+                season_year=season_year
+            )
     elif league == NBA:
         if season_year <= 1949:
             league = BAA
