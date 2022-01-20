@@ -386,6 +386,15 @@ class ScheduleRow:
 
         return ''
 
+    @property
+    def notes(self):
+        cells = self.html.xpath('td[@data-stat="notes"]')
+
+        if len(cells) > 0:
+            return cells[0].text_content()
+
+        return ''
+
 
 class ScheduledGamesParser:
     def __init__(self, start_time_parser, team_name_parser):
@@ -403,6 +412,7 @@ class ScheduledGamesParser:
                 "home_team": self.team_name_parser.parse_team_name(team_name=game.home_team_name),
                 "away_team_score": str_to_int(value=game.away_team_score, default=None),
                 "home_team_score": str_to_int(value=game.home_team_score, default=None),
+                "notes": game.notes.strip()
             }
             for game in games
         ]
@@ -562,6 +572,7 @@ def get_championship_team(season_year, league=WNBA):
         away_team = last_game.away_team_name
         home_score = int(last_game.home_team_score)
         away_score = int(last_game.away_team_score)
+        notes = last_game.notes
         if home_score > away_score:
             return get_correct_team_name(home_team, season_year, league)
         else:

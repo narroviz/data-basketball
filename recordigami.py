@@ -28,7 +28,7 @@ def get_historical_games(league):
 		end_year = 2021
 	else:
 		start_year = 1947
-		end_year = 2021
+		end_year = 2022
 
 	champions = {}
 	seasons = []

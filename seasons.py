@@ -183,7 +183,7 @@ def output_season_paths(season_year=END_YEAR, league=WNBA):
 		home_team = get_correct_team_name(titlecase(game['home_team'].value), season_year, league)
 		away_team = get_correct_team_name(titlecase(game['away_team'].value), season_year, league)
 
-		if game['home_team_score'] is None:
+		if game['home_team_score'] is None or "Commissioner's Cup" in game['notes']:
 			continue
 
 		winning_team_name = home_team if game['home_team_score'] > game['away_team_score'] else away_team
