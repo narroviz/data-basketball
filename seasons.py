@@ -233,7 +233,7 @@ if __name__ == '__main__':
 		END_YEAR = 2020
 	else:
 		START_YEAR = 1947
-		END_YEAR = 2021
+		END_YEAR = 2022
 
 	start = args.start or START_YEAR
 	end = args.end or END_YEAR
