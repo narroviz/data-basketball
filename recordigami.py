@@ -25,22 +25,15 @@ def get_historical_games(league):
 	print('Getting all season data...')
 	if league == WNBA:
 		start_year = 1997
-		end_year = 2021
+		end_year = 2024
 	else:
 		start_year = 1947
-		end_year = 2022
+		end_year = 2025
 
-	champions = {}
+	with open('{0}/{1}_champions.json'.format(OUTPUT_DIRECTORY, league)) as file: champions = json.load(file)
+
 	seasons = []
 	for year in list(range(start_year, end_year + 1)):
-		try:
-			champion = get_championship_team(year, league)
-			if champion not in champions:
-				champions[champion] = [year]
-			else:
-				champions[champion].append(year)
-		except:
-			champions = champions
 		season = pd.read_csv('{0}/games_{1}({2}).csv'.format(SEASON_DIRECTORY, league, year))
 		season = season.dropna(how='all')
 		seasons.append(season)
@@ -164,8 +157,8 @@ def get_historical_season_paths(champions, games, teams, league):
 
 			season_win_loss.append({
 				'year': int(year),
-				'win': wins,
-				'loss': losses,
+				'win': int(wins),
+				'loss': int(losses),
 				'win_pct': round(float(float(wins) / float(wins + losses)), 3),
 				'team': team,
 				'is_championship': year in championship_seasons

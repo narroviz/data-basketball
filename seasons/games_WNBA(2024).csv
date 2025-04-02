@@ -1,0 +1,481 @@
+id,home_team,away_team,win,loss,game_number,date,year
+Atlanta Dream,Los Angeles Sparks,Atlanta Dream,1,0,1,1715745600.0,2024
+Atlanta Dream,Phoenix Mercury,Atlanta Dream,1,1,2,1716004800.0,2024
+Atlanta Dream,Atlanta Dream,Dallas Wings,2,1,3,1716264000.0,2024
+Atlanta Dream,Atlanta Dream,Minnesota Lynx,2,2,4,1716696000.0,2024
+Atlanta Dream,Washington Mystics,Atlanta Dream,3,2,5,1716955200.0,2024
+Atlanta Dream,Atlanta Dream,Las Vegas Aces,4,2,6,1717128000.0,2024
+Atlanta Dream,Atlanta Dream,Connecticut Sun,4,3,7,1717300800.0,2024
+Atlanta Dream,Atlanta Dream,New York Liberty,4,4,8,1717646400.0,2024
+Atlanta Dream,Chicago Sky,Atlanta Dream,5,4,9,1717819200.0,2024
+Atlanta Dream,Atlanta Dream,Washington Mystics,5,5,10,1718078400.0,2024
+Atlanta Dream,Indiana Fever,Atlanta Dream,5,6,11,1718251200.0,2024
+Atlanta Dream,Atlanta Dream,Los Angeles Sparks,6,6,12,1718510400.0,2024
+Atlanta Dream,Minnesota Lynx,Atlanta Dream,6,7,13,1718769600.0,2024
+Atlanta Dream,Atlanta Dream,Indiana Fever,6,8,14,1718942400.0,2024
+Atlanta Dream,Atlanta Dream,New York Liberty,6,9,15,1719115200.0,2024
+Atlanta Dream,Connecticut Sun,Atlanta Dream,7,9,16,1719547200.0,2024
+Atlanta Dream,New York Liberty,Atlanta Dream,7,10,17,1719720000.0,2024
+Atlanta Dream,Atlanta Dream,Chicago Sky,7,11,18,1719892800.0,2024
+Atlanta Dream,Dallas Wings,Atlanta Dream,7,12,19,1720152000.0,2024
+Atlanta Dream,Connecticut Sun,Atlanta Dream,7,13,20,1720324800.0,2024
+Atlanta Dream,Chicago Sky,Atlanta Dream,7,14,21,1720584000.0,2024
+Atlanta Dream,Atlanta Dream,Las Vegas Aces,7,15,22,1720756800.0,2024
+Atlanta Dream,Seattle Storm,Atlanta Dream,7,16,23,1720929600.0,2024
+Atlanta Dream,Minnesota Lynx,Atlanta Dream,7,17,24,1721188800.0,2024
+Atlanta Dream,Atlanta Dream,Seattle Storm,8,17,25,1723780800.0,2024
+Atlanta Dream,Atlanta Dream,Connecticut Sun,9,17,26,1723953600.0,2024
+Atlanta Dream,Atlanta Dream,Phoenix Mercury,10,17,27,1724212800.0,2024
+Atlanta Dream,Atlanta Dream,Phoenix Mercury,10,18,28,1724385600.0,2024
+Atlanta Dream,Atlanta Dream,Indiana Fever,10,19,29,1724644800.0,2024
+Atlanta Dream,Seattle Storm,Atlanta Dream,10,20,30,1724817600.0,2024
+Atlanta Dream,Las Vegas Aces,Atlanta Dream,10,21,31,1724990400.0,2024
+Atlanta Dream,Los Angeles Sparks,Atlanta Dream,11,21,32,1725163200.0,2024
+Atlanta Dream,Phoenix Mercury,Atlanta Dream,11,22,33,1725336000.0,2024
+Atlanta Dream,Atlanta Dream,Dallas Wings,12,22,34,1725595200.0,2024
+Atlanta Dream,Indiana Fever,Atlanta Dream,12,23,35,1725768000.0,2024
+Atlanta Dream,Atlanta Dream,Minnesota Lynx,12,24,36,1725940800.0,2024
+Atlanta Dream,Atlanta Dream,Washington Mystics,12,25,37,1726200000.0,2024
+Atlanta Dream,Washington Mystics,Atlanta Dream,13,25,38,1726372800.0,2024
+Atlanta Dream,Atlanta Dream,Chicago Sky,14,25,39,1726545600.0,2024
+Atlanta Dream,New York Liberty,Atlanta Dream,15,25,40,1726718400.0,2024
+Chicago Sky,Dallas Wings,Chicago Sky,0,1,1,1715745600.0,2024
+Chicago Sky,Dallas Wings,Chicago Sky,1,1,2,1716004800.0,2024
+Chicago Sky,New York Liberty,Chicago Sky,2,1,3,1716436800.0,2024
+Chicago Sky,Chicago Sky,Connecticut Sun,2,2,4,1716609600.0,2024
+Chicago Sky,Chicago Sky,Seattle Storm,2,3,5,1716868800.0,2024
+Chicago Sky,Chicago Sky,Los Angeles Sparks,3,3,6,1717041600.0,2024
+Chicago Sky,Indiana Fever,Chicago Sky,3,4,7,1717214400.0,2024
+Chicago Sky,Chicago Sky,New York Liberty,3,5,8,1717473600.0,2024
+Chicago Sky,Washington Mystics,Chicago Sky,4,5,9,1717646400.0,2024
+Chicago Sky,Chicago Sky,Atlanta Dream,4,6,10,1717819200.0,2024
+Chicago Sky,Chicago Sky,Connecticut Sun,4,7,11,1718164800.0,2024
+Chicago Sky,Washington Mystics,Chicago Sky,4,8,12,1718337600.0,2024
+Chicago Sky,Indiana Fever,Chicago Sky,4,9,13,1718510400.0,2024
+Chicago Sky,Chicago Sky,Dallas Wings,5,9,14,1718856000.0,2024
+Chicago Sky,Chicago Sky,Indiana Fever,6,9,15,1719115200.0,2024
+Chicago Sky,Chicago Sky,Las Vegas Aces,6,10,16,1719460800.0,2024
+Chicago Sky,Chicago Sky,Minnesota Lynx,6,11,17,1719720000.0,2024
+Chicago Sky,Atlanta Dream,Chicago Sky,7,11,18,1719892800.0,2024
+Chicago Sky,Seattle Storm,Chicago Sky,8,11,19,1720152000.0,2024
+Chicago Sky,Seattle Storm,Chicago Sky,8,12,20,1720324800.0,2024
+Chicago Sky,Chicago Sky,Atlanta Dream,9,12,21,1720584000.0,2024
+Chicago Sky,New York Liberty,Chicago Sky,9,13,22,1720670400.0,2024
+Chicago Sky,Chicago Sky,New York Liberty,9,14,23,1720843200.0,2024
+Chicago Sky,Las Vegas Aces,Chicago Sky,10,14,24,1721102400.0,2024
+Chicago Sky,Chicago Sky,Phoenix Mercury,10,15,25,1723694400.0,2024
+Chicago Sky,Los Angeles Sparks,Chicago Sky,11,15,26,1723867200.0,2024
+Chicago Sky,Phoenix Mercury,Chicago Sky,11,16,27,1723953600.0,2024
+Chicago Sky,Connecticut Sun,Chicago Sky,11,17,28,1724385600.0,2024
+Chicago Sky,Chicago Sky,Las Vegas Aces,11,18,29,1724558400.0,2024
+Chicago Sky,Chicago Sky,Washington Mystics,11,19,30,1724817600.0,2024
+Chicago Sky,Chicago Sky,Indiana Fever,11,20,31,1724990400.0,2024
+Chicago Sky,Minnesota Lynx,Chicago Sky,11,21,32,1725163200.0,2024
+Chicago Sky,Las Vegas Aces,Chicago Sky,11,22,33,1725336000.0,2024
+Chicago Sky,Chicago Sky,Los Angeles Sparks,12,22,34,1725595200.0,2024
+Chicago Sky,Chicago Sky,Dallas Wings,13,22,35,1725768000.0,2024
+Chicago Sky,Chicago Sky,Washington Mystics,13,23,36,1726027200.0,2024
+Chicago Sky,Minnesota Lynx,Chicago Sky,13,24,37,1726200000.0,2024
+Chicago Sky,Chicago Sky,Phoenix Mercury,13,25,38,1726372800.0,2024
+Chicago Sky,Atlanta Dream,Chicago Sky,13,26,39,1726545600.0,2024
+Chicago Sky,Connecticut Sun,Chicago Sky,13,27,40,1726718400.0,2024
+Connecticut Sun,Connecticut Sun,Indiana Fever,1,0,1,1715659200.0,2024
+Connecticut Sun,Connecticut Sun,Washington Mystics,2,0,2,1715918400.0,2024
+Connecticut Sun,Indiana Fever,Connecticut Sun,3,0,3,1716177600.0,2024
+Connecticut Sun,Connecticut Sun,Minnesota Lynx,4,0,4,1716436800.0,2024
+Connecticut Sun,Chicago Sky,Connecticut Sun,5,0,5,1716609600.0,2024
+Connecticut Sun,Connecticut Sun,Phoenix Mercury,6,0,6,1716868800.0,2024
+Connecticut Sun,Connecticut Sun,Dallas Wings,7,0,7,1717128000.0,2024
+Connecticut Sun,Atlanta Dream,Connecticut Sun,8,0,8,1717300800.0,2024
+Connecticut Sun,Connecticut Sun,Washington Mystics,9,0,9,1717473600.0,2024
+Connecticut Sun,Connecticut Sun,New York Liberty,9,1,10,1717819200.0,2024
+Connecticut Sun,Connecticut Sun,Indiana Fever,10,1,11,1717992000.0,2024
+Connecticut Sun,Chicago Sky,Connecticut Sun,11,1,12,1718164800.0,2024
+Connecticut Sun,Dallas Wings,Connecticut Sun,12,1,13,1718424000.0,2024
+Connecticut Sun,Connecticut Sun,Los Angeles Sparks,13,1,14,1718683200.0,2024
+Connecticut Sun,Las Vegas Aces,Connecticut Sun,13,2,15,1718942400.0,2024
+Connecticut Sun,Seattle Storm,Connecticut Sun,13,3,16,1719115200.0,2024
+Connecticut Sun,Washington Mystics,Connecticut Sun,14,3,17,1719460800.0,2024
+Connecticut Sun,Connecticut Sun,Atlanta Dream,14,4,18,1719547200.0,2024
+Connecticut Sun,Phoenix Mercury,Connecticut Sun,15,4,19,1719806400.0,2024
+Connecticut Sun,Minnesota Lynx,Connecticut Sun,16,4,20,1720065600.0,2024
+Connecticut Sun,Connecticut Sun,Atlanta Dream,17,4,21,1720324800.0,2024
+Connecticut Sun,Connecticut Sun,New York Liberty,17,5,22,1720584000.0,2024
+Connecticut Sun,Connecticut Sun,Phoenix Mercury,18,5,23,1720929600.0,2024
+Connecticut Sun,New York Liberty,Connecticut Sun,18,6,24,1721102400.0,2024
+Connecticut Sun,Dallas Wings,Connecticut Sun,19,6,25,1723780800.0,2024
+Connecticut Sun,Atlanta Dream,Connecticut Sun,19,7,26,1723953600.0,2024
+Connecticut Sun,Connecticut Sun,Los Angeles Sparks,20,7,27,1724126400.0,2024
+Connecticut Sun,Connecticut Sun,Chicago Sky,21,7,28,1724385600.0,2024
+Connecticut Sun,New York Liberty,Connecticut Sun,22,7,29,1724472000.0,2024
+Connecticut Sun,Indiana Fever,Connecticut Sun,22,8,30,1724817600.0,2024
+Connecticut Sun,Washington Mystics,Connecticut Sun,23,8,31,1725076800.0,2024
+Connecticut Sun,Connecticut Sun,Seattle Storm,24,8,32,1725163200.0,2024
+Connecticut Sun,Connecticut Sun,Seattle Storm,24,9,33,1725336000.0,2024
+Connecticut Sun,Connecticut Sun,Las Vegas Aces,24,10,34,1725595200.0,2024
+Connecticut Sun,Los Angeles Sparks,Connecticut Sun,25,10,35,1725768000.0,2024
+Connecticut Sun,Los Angeles Sparks,Connecticut Sun,26,10,36,1725940800.0,2024
+Connecticut Sun,Phoenix Mercury,Connecticut Sun,27,10,37,1726200000.0,2024
+Connecticut Sun,Las Vegas Aces,Connecticut Sun,27,11,38,1726372800.0,2024
+Connecticut Sun,Connecticut Sun,Minnesota Lynx,27,12,39,1726545600.0,2024
+Connecticut Sun,Connecticut Sun,Chicago Sky,28,12,40,1726718400.0,2024
+Dallas Wings,Dallas Wings,Chicago Sky,1,0,1,1715745600.0,2024
+Dallas Wings,Dallas Wings,Chicago Sky,1,1,2,1716004800.0,2024
+Dallas Wings,Atlanta Dream,Dallas Wings,1,2,3,1716264000.0,2024
+Dallas Wings,Phoenix Mercury,Dallas Wings,2,2,4,1716609600.0,2024
+Dallas Wings,Los Angeles Sparks,Dallas Wings,3,2,5,1716696000.0,2024
+Dallas Wings,Connecticut Sun,Dallas Wings,3,3,6,1717128000.0,2024
+Dallas Wings,Minnesota Lynx,Dallas Wings,3,4,7,1717300800.0,2024
+Dallas Wings,Dallas Wings,Las Vegas Aces,3,5,8,1717560000.0,2024
+Dallas Wings,Los Angeles Sparks,Dallas Wings,3,6,9,1717732800.0,2024
+Dallas Wings,Dallas Wings,Phoenix Mercury,3,7,10,1717905600.0,2024
+Dallas Wings,Dallas Wings,Seattle Storm,3,8,11,1718251200.0,2024
+Dallas Wings,Dallas Wings,Connecticut Sun,3,9,12,1718424000.0,2024
+Dallas Wings,Minnesota Lynx,Dallas Wings,3,10,13,1718596800.0,2024
+Dallas Wings,Chicago Sky,Dallas Wings,3,11,14,1718856000.0,2024
+Dallas Wings,Washington Mystics,Dallas Wings,3,12,15,1719028800.0,2024
+Dallas Wings,Washington Mystics,Dallas Wings,3,13,16,1719115200.0,2024
+Dallas Wings,Dallas Wings,Minnesota Lynx,4,13,17,1719460800.0,2024
+Dallas Wings,Seattle Storm,Dallas Wings,4,14,18,1719633600.0,2024
+Dallas Wings,Seattle Storm,Dallas Wings,4,15,19,1719806400.0,2024
+Dallas Wings,Dallas Wings,Phoenix Mercury,4,16,20,1719979200.0,2024
+Dallas Wings,Dallas Wings,Atlanta Dream,5,16,21,1720152000.0,2024
+Dallas Wings,Las Vegas Aces,Dallas Wings,5,17,22,1720324800.0,2024
+Dallas Wings,Phoenix Mercury,Dallas Wings,5,18,23,1720584000.0,2024
+Dallas Wings,Dallas Wings,Los Angeles Sparks,5,19,24,1720843200.0,2024
+Dallas Wings,Dallas Wings,Indiana Fever,6,19,25,1721188800.0,2024
+Dallas Wings,Dallas Wings,Connecticut Sun,6,20,26,1723780800.0,2024
+Dallas Wings,New York Liberty,Dallas Wings,6,21,27,1724126400.0,2024
+Dallas Wings,New York Liberty,Dallas Wings,6,22,28,1724299200.0,2024
+Dallas Wings,Dallas Wings,Los Angeles Sparks,7,22,29,1724558400.0,2024
+Dallas Wings,Dallas Wings,Las Vegas Aces,8,22,30,1724731200.0,2024
+Dallas Wings,Dallas Wings,Minnesota Lynx,9,22,31,1724990400.0,2024
+Dallas Wings,Dallas Wings,Indiana Fever,9,23,32,1725163200.0,2024
+Dallas Wings,Dallas Wings,Washington Mystics,9,24,33,1725336000.0,2024
+Dallas Wings,Atlanta Dream,Dallas Wings,9,25,34,1725595200.0,2024
+Dallas Wings,Chicago Sky,Dallas Wings,9,26,35,1725768000.0,2024
+Dallas Wings,Dallas Wings,New York Liberty,9,27,36,1725940800.0,2024
+Dallas Wings,Dallas Wings,New York Liberty,9,28,37,1726113600.0,2024
+Dallas Wings,Dallas Wings,Seattle Storm,9,29,38,1726200000.0,2024
+Dallas Wings,Indiana Fever,Dallas Wings,9,30,39,1726372800.0,2024
+Dallas Wings,Las Vegas Aces,Dallas Wings,9,31,40,1726718400.0,2024
+Indiana Fever,Connecticut Sun,Indiana Fever,0,1,1,1715659200.0,2024
+Indiana Fever,Indiana Fever,New York Liberty,0,2,2,1715832000.0,2024
+Indiana Fever,New York Liberty,Indiana Fever,0,3,3,1716004800.0,2024
+Indiana Fever,Indiana Fever,Connecticut Sun,0,4,4,1716177600.0,2024
+Indiana Fever,Seattle Storm,Indiana Fever,0,5,5,1716350400.0,2024
+Indiana Fever,Los Angeles Sparks,Indiana Fever,1,5,6,1716523200.0,2024
+Indiana Fever,Las Vegas Aces,Indiana Fever,1,6,7,1716609600.0,2024
+Indiana Fever,Indiana Fever,Los Angeles Sparks,1,7,8,1716868800.0,2024
+Indiana Fever,Indiana Fever,Seattle Storm,1,8,9,1717041600.0,2024
+Indiana Fever,Indiana Fever,Chicago Sky,2,8,10,1717214400.0,2024
+Indiana Fever,New York Liberty,Indiana Fever,2,9,11,1717300800.0,2024
+Indiana Fever,Washington Mystics,Indiana Fever,3,9,12,1717732800.0,2024
+Indiana Fever,Connecticut Sun,Indiana Fever,3,10,13,1717992000.0,2024
+Indiana Fever,Indiana Fever,Atlanta Dream,4,10,14,1718251200.0,2024
+Indiana Fever,Indiana Fever,Chicago Sky,5,10,15,1718510400.0,2024
+Indiana Fever,Indiana Fever,Washington Mystics,6,10,16,1718769600.0,2024
+Indiana Fever,Atlanta Dream,Indiana Fever,7,10,17,1718942400.0,2024
+Indiana Fever,Chicago Sky,Indiana Fever,7,11,18,1719115200.0,2024
+Indiana Fever,Seattle Storm,Indiana Fever,7,12,19,1719460800.0,2024
+Indiana Fever,Phoenix Mercury,Indiana Fever,8,12,20,1719720000.0,2024
+Indiana Fever,Las Vegas Aces,Indiana Fever,8,13,21,1719892800.0,2024
+Indiana Fever,Indiana Fever,New York Liberty,9,13,22,1720238400.0,2024
+Indiana Fever,Indiana Fever,Washington Mystics,9,14,23,1720584000.0,2024
+Indiana Fever,Indiana Fever,Phoenix Mercury,10,14,24,1720756800.0,2024
+Indiana Fever,Minnesota Lynx,Indiana Fever,11,14,25,1720929600.0,2024
+Indiana Fever,Dallas Wings,Indiana Fever,11,15,26,1721188800.0,2024
+Indiana Fever,Indiana Fever,Phoenix Mercury,12,15,27,1723780800.0,2024
+Indiana Fever,Indiana Fever,Seattle Storm,13,15,28,1723953600.0,2024
+Indiana Fever,Minnesota Lynx,Indiana Fever,13,16,29,1724472000.0,2024
+Indiana Fever,Atlanta Dream,Indiana Fever,14,16,30,1724644800.0,2024
+Indiana Fever,Indiana Fever,Connecticut Sun,15,16,31,1724817600.0,2024
+Indiana Fever,Chicago Sky,Indiana Fever,16,16,32,1724990400.0,2024
+Indiana Fever,Dallas Wings,Indiana Fever,17,16,33,1725163200.0,2024
+Indiana Fever,Indiana Fever,Los Angeles Sparks,18,16,34,1725422400.0,2024
+Indiana Fever,Indiana Fever,Minnesota Lynx,18,17,35,1725595200.0,2024
+Indiana Fever,Indiana Fever,Atlanta Dream,19,17,36,1725768000.0,2024
+Indiana Fever,Indiana Fever,Las Vegas Aces,19,18,37,1726027200.0,2024
+Indiana Fever,Indiana Fever,Las Vegas Aces,19,19,38,1726200000.0,2024
+Indiana Fever,Indiana Fever,Dallas Wings,20,19,39,1726372800.0,2024
+Indiana Fever,Washington Mystics,Indiana Fever,20,20,40,1726718400.0,2024
+Las Vegas Aces,Las Vegas Aces,Phoenix Mercury,1,0,1,1715659200.0,2024
+Las Vegas Aces,Las Vegas Aces,Los Angeles Sparks,2,0,2,1716004800.0,2024
+Las Vegas Aces,Las Vegas Aces,Phoenix Mercury,2,1,3,1716264000.0,2024
+Las Vegas Aces,Las Vegas Aces,Indiana Fever,3,1,4,1716609600.0,2024
+Las Vegas Aces,Minnesota Lynx,Las Vegas Aces,4,1,5,1716955200.0,2024
+Las Vegas Aces,Atlanta Dream,Las Vegas Aces,4,2,6,1717128000.0,2024
+Las Vegas Aces,Dallas Wings,Las Vegas Aces,5,2,7,1717560000.0,2024
+Las Vegas Aces,Las Vegas Aces,Seattle Storm,5,3,8,1717732800.0,2024
+Las Vegas Aces,Los Angeles Sparks,Las Vegas Aces,5,4,9,1717905600.0,2024
+Las Vegas Aces,Las Vegas Aces,Minnesota Lynx,5,5,10,1718078400.0,2024
+Las Vegas Aces,Phoenix Mercury,Las Vegas Aces,6,5,11,1718251200.0,2024
+Las Vegas Aces,Las Vegas Aces,New York Liberty,6,6,12,1718424000.0,2024
+Las Vegas Aces,Las Vegas Aces,Seattle Storm,7,6,13,1718769600.0,2024
+Las Vegas Aces,Las Vegas Aces,Connecticut Sun,8,6,14,1718942400.0,2024
+Las Vegas Aces,Chicago Sky,Las Vegas Aces,9,6,15,1719460800.0,2024
+Las Vegas Aces,Washington Mystics,Las Vegas Aces,10,6,16,1719633600.0,2024
+Las Vegas Aces,Las Vegas Aces,Indiana Fever,11,6,17,1719892800.0,2024
+Las Vegas Aces,Las Vegas Aces,Washington Mystics,12,6,18,1720065600.0,2024
+Las Vegas Aces,Los Angeles Sparks,Las Vegas Aces,12,7,19,1720152000.0,2024
+Las Vegas Aces,Las Vegas Aces,Dallas Wings,13,7,20,1720324800.0,2024
+Las Vegas Aces,Seattle Storm,Las Vegas Aces,14,7,21,1720584000.0,2024
+Las Vegas Aces,Atlanta Dream,Las Vegas Aces,15,7,22,1720756800.0,2024
+Las Vegas Aces,Washington Mystics,Las Vegas Aces,16,7,23,1720929600.0,2024
+Las Vegas Aces,Las Vegas Aces,Chicago Sky,16,8,24,1721102400.0,2024
+Las Vegas Aces,Las Vegas Aces,New York Liberty,16,9,25,1723867200.0,2024
+Las Vegas Aces,Las Vegas Aces,Los Angeles Sparks,17,9,26,1723953600.0,2024
+Las Vegas Aces,Las Vegas Aces,Minnesota Lynx,17,10,27,1724212800.0,2024
+Las Vegas Aces,Minnesota Lynx,Las Vegas Aces,17,11,28,1724385600.0,2024
+Las Vegas Aces,Chicago Sky,Las Vegas Aces,18,11,29,1724558400.0,2024
+Las Vegas Aces,Dallas Wings,Las Vegas Aces,18,12,30,1724731200.0,2024
+Las Vegas Aces,Las Vegas Aces,Atlanta Dream,19,12,31,1724990400.0,2024
+Las Vegas Aces,Phoenix Mercury,Las Vegas Aces,20,12,32,1725163200.0,2024
+Las Vegas Aces,Las Vegas Aces,Chicago Sky,21,12,33,1725336000.0,2024
+Las Vegas Aces,Connecticut Sun,Las Vegas Aces,22,12,34,1725595200.0,2024
+Las Vegas Aces,New York Liberty,Las Vegas Aces,22,13,35,1725768000.0,2024
+Las Vegas Aces,Indiana Fever,Las Vegas Aces,23,13,36,1726027200.0,2024
+Las Vegas Aces,Indiana Fever,Las Vegas Aces,24,13,37,1726200000.0,2024
+Las Vegas Aces,Las Vegas Aces,Connecticut Sun,25,13,38,1726372800.0,2024
+Las Vegas Aces,Seattle Storm,Las Vegas Aces,26,13,39,1726545600.0,2024
+Las Vegas Aces,Las Vegas Aces,Dallas Wings,27,13,40,1726718400.0,2024
+Los Angeles Sparks,Los Angeles Sparks,Atlanta Dream,0,1,1,1715745600.0,2024
+Los Angeles Sparks,Las Vegas Aces,Los Angeles Sparks,0,2,2,1716004800.0,2024
+Los Angeles Sparks,Los Angeles Sparks,Washington Mystics,1,2,3,1716264000.0,2024
+Los Angeles Sparks,Los Angeles Sparks,Indiana Fever,1,3,4,1716523200.0,2024
+Los Angeles Sparks,Los Angeles Sparks,Dallas Wings,1,4,5,1716696000.0,2024
+Los Angeles Sparks,Indiana Fever,Los Angeles Sparks,2,4,6,1716868800.0,2024
+Los Angeles Sparks,Chicago Sky,Los Angeles Sparks,2,5,7,1717041600.0,2024
+Los Angeles Sparks,Phoenix Mercury,Los Angeles Sparks,2,6,8,1717300800.0,2024
+Los Angeles Sparks,Los Angeles Sparks,Minnesota Lynx,2,7,9,1717560000.0,2024
+Los Angeles Sparks,Los Angeles Sparks,Dallas Wings,3,7,10,1717732800.0,2024
+Los Angeles Sparks,Los Angeles Sparks,Las Vegas Aces,4,7,11,1717905600.0,2024
+Los Angeles Sparks,Seattle Storm,Los Angeles Sparks,4,8,12,1718078400.0,2024
+Los Angeles Sparks,Minnesota Lynx,Los Angeles Sparks,4,9,13,1718337600.0,2024
+Los Angeles Sparks,Atlanta Dream,Los Angeles Sparks,4,10,14,1718510400.0,2024
+Los Angeles Sparks,Connecticut Sun,Los Angeles Sparks,4,11,15,1718683200.0,2024
+Los Angeles Sparks,New York Liberty,Los Angeles Sparks,4,12,16,1718856000.0,2024
+Los Angeles Sparks,New York Liberty,Los Angeles Sparks,4,13,17,1719028800.0,2024
+Los Angeles Sparks,Phoenix Mercury,Los Angeles Sparks,4,14,18,1719547200.0,2024
+Los Angeles Sparks,Los Angeles Sparks,Washington Mystics,4,15,19,1719892800.0,2024
+Los Angeles Sparks,Los Angeles Sparks,Las Vegas Aces,5,15,20,1720152000.0,2024
+Los Angeles Sparks,Los Angeles Sparks,Phoenix Mercury,5,16,21,1720324800.0,2024
+Los Angeles Sparks,Los Angeles Sparks,Minnesota Lynx,5,17,22,1720497600.0,2024
+Los Angeles Sparks,Dallas Wings,Los Angeles Sparks,6,17,23,1720843200.0,2024
+Los Angeles Sparks,Los Angeles Sparks,Seattle Storm,6,18,24,1721102400.0,2024
+Los Angeles Sparks,Los Angeles Sparks,New York Liberty,6,19,25,1723694400.0,2024
+Los Angeles Sparks,Los Angeles Sparks,Chicago Sky,6,20,26,1723867200.0,2024
+Los Angeles Sparks,Las Vegas Aces,Los Angeles Sparks,6,21,27,1723953600.0,2024
+Los Angeles Sparks,Connecticut Sun,Los Angeles Sparks,6,22,28,1724126400.0,2024
+Los Angeles Sparks,Washington Mystics,Los Angeles Sparks,6,23,29,1724385600.0,2024
+Los Angeles Sparks,Dallas Wings,Los Angeles Sparks,6,24,30,1724558400.0,2024
+Los Angeles Sparks,Los Angeles Sparks,New York Liberty,7,24,31,1724817600.0,2024
+Los Angeles Sparks,Los Angeles Sparks,Atlanta Dream,7,25,32,1725163200.0,2024
+Los Angeles Sparks,Indiana Fever,Los Angeles Sparks,7,26,33,1725422400.0,2024
+Los Angeles Sparks,Chicago Sky,Los Angeles Sparks,7,27,34,1725595200.0,2024
+Los Angeles Sparks,Los Angeles Sparks,Connecticut Sun,7,28,35,1725768000.0,2024
+Los Angeles Sparks,Los Angeles Sparks,Connecticut Sun,7,29,36,1725940800.0,2024
+Los Angeles Sparks,Los Angeles Sparks,Seattle Storm,7,30,37,1726027200.0,2024
+Los Angeles Sparks,Seattle Storm,Los Angeles Sparks,7,31,38,1726372800.0,2024
+Los Angeles Sparks,Los Angeles Sparks,Phoenix Mercury,7,32,39,1726545600.0,2024
+Los Angeles Sparks,Minnesota Lynx,Los Angeles Sparks,8,32,40,1726718400.0,2024
+Minnesota Lynx,Seattle Storm,Minnesota Lynx,1,0,1,1715659200.0,2024
+Minnesota Lynx,Minnesota Lynx,Seattle Storm,2,0,2,1715918400.0,2024
+Minnesota Lynx,Connecticut Sun,Minnesota Lynx,2,1,3,1716436800.0,2024
+Minnesota Lynx,Minnesota Lynx,New York Liberty,3,1,4,1716609600.0,2024
+Minnesota Lynx,Atlanta Dream,Minnesota Lynx,4,1,5,1716696000.0,2024
+Minnesota Lynx,Minnesota Lynx,Las Vegas Aces,4,2,6,1716955200.0,2024
+Minnesota Lynx,Minnesota Lynx,Phoenix Mercury,5,2,7,1717128000.0,2024
+Minnesota Lynx,Minnesota Lynx,Dallas Wings,6,2,8,1717300800.0,2024
+Minnesota Lynx,Los Angeles Sparks,Minnesota Lynx,7,2,9,1717560000.0,2024
+Minnesota Lynx,Phoenix Mercury,Minnesota Lynx,7,3,10,1717732800.0,2024
+Minnesota Lynx,Minnesota Lynx,Seattle Storm,8,3,11,1717905600.0,2024
+Minnesota Lynx,Las Vegas Aces,Minnesota Lynx,9,3,12,1718078400.0,2024
+Minnesota Lynx,Minnesota Lynx,Los Angeles Sparks,10,3,13,1718337600.0,2024
+Minnesota Lynx,Minnesota Lynx,Dallas Wings,11,3,14,1718596800.0,2024
+Minnesota Lynx,Minnesota Lynx,Atlanta Dream,12,3,15,1718769600.0,2024
+Minnesota Lynx,Minnesota Lynx,Phoenix Mercury,13,3,16,1719028800.0,2024
+Minnesota Lynx,Dallas Wings,Minnesota Lynx,13,4,17,1719460800.0,2024
+Minnesota Lynx,Chicago Sky,Minnesota Lynx,14,4,18,1719720000.0,2024
+Minnesota Lynx,New York Liberty,Minnesota Lynx,14,5,19,1719892800.0,2024
+Minnesota Lynx,Minnesota Lynx,Connecticut Sun,14,6,20,1720065600.0,2024
+Minnesota Lynx,Minnesota Lynx,Washington Mystics,15,6,21,1720238400.0,2024
+Minnesota Lynx,Los Angeles Sparks,Minnesota Lynx,16,6,22,1720497600.0,2024
+Minnesota Lynx,Seattle Storm,Minnesota Lynx,16,7,23,1720756800.0,2024
+Minnesota Lynx,Minnesota Lynx,Indiana Fever,16,8,24,1720929600.0,2024
+Minnesota Lynx,Minnesota Lynx,Atlanta Dream,17,8,25,1721188800.0,2024
+Minnesota Lynx,Minnesota Lynx,Washington Mystics,18,8,26,1723694400.0,2024
+Minnesota Lynx,Washington Mystics,Minnesota Lynx,19,8,27,1723867200.0,2024
+Minnesota Lynx,Las Vegas Aces,Minnesota Lynx,20,8,28,1724212800.0,2024
+Minnesota Lynx,Minnesota Lynx,Las Vegas Aces,21,8,29,1724385600.0,2024
+Minnesota Lynx,Minnesota Lynx,Indiana Fever,22,8,30,1724472000.0,2024
+Minnesota Lynx,Phoenix Mercury,Minnesota Lynx,23,8,31,1724817600.0,2024
+Minnesota Lynx,Dallas Wings,Minnesota Lynx,23,9,32,1724990400.0,2024
+Minnesota Lynx,Minnesota Lynx,Chicago Sky,24,9,33,1725163200.0,2024
+Minnesota Lynx,Indiana Fever,Minnesota Lynx,25,9,34,1725595200.0,2024
+Minnesota Lynx,Washington Mystics,Minnesota Lynx,26,9,35,1725768000.0,2024
+Minnesota Lynx,Atlanta Dream,Minnesota Lynx,27,9,36,1725940800.0,2024
+Minnesota Lynx,Minnesota Lynx,Chicago Sky,28,9,37,1726200000.0,2024
+Minnesota Lynx,New York Liberty,Minnesota Lynx,29,9,38,1726372800.0,2024
+Minnesota Lynx,Connecticut Sun,Minnesota Lynx,30,9,39,1726545600.0,2024
+Minnesota Lynx,Minnesota Lynx,Los Angeles Sparks,30,10,40,1726718400.0,2024
+New York Liberty,Washington Mystics,New York Liberty,1,0,1,1715659200.0,2024
+New York Liberty,Indiana Fever,New York Liberty,2,0,2,1715832000.0,2024
+New York Liberty,New York Liberty,Indiana Fever,3,0,3,1716004800.0,2024
+New York Liberty,New York Liberty,Seattle Storm,4,0,4,1716177600.0,2024
+New York Liberty,New York Liberty,Chicago Sky,4,1,5,1716436800.0,2024
+New York Liberty,Minnesota Lynx,New York Liberty,4,2,6,1716609600.0,2024
+New York Liberty,New York Liberty,Phoenix Mercury,5,2,7,1716955200.0,2024
+New York Liberty,New York Liberty,Washington Mystics,6,2,8,1717128000.0,2024
+New York Liberty,New York Liberty,Indiana Fever,7,2,9,1717300800.0,2024
+New York Liberty,Chicago Sky,New York Liberty,8,2,10,1717473600.0,2024
+New York Liberty,Atlanta Dream,New York Liberty,9,2,11,1717646400.0,2024
+New York Liberty,Connecticut Sun,New York Liberty,10,2,12,1717819200.0,2024
+New York Liberty,New York Liberty,Washington Mystics,11,2,13,1717905600.0,2024
+New York Liberty,Las Vegas Aces,New York Liberty,12,2,14,1718424000.0,2024
+New York Liberty,Phoenix Mercury,New York Liberty,12,3,15,1718683200.0,2024
+New York Liberty,New York Liberty,Los Angeles Sparks,13,3,16,1718856000.0,2024
+New York Liberty,New York Liberty,Los Angeles Sparks,14,3,17,1719028800.0,2024
+New York Liberty,Atlanta Dream,New York Liberty,15,3,18,1719115200.0,2024
+New York Liberty,New York Liberty,Atlanta Dream,16,3,19,1719720000.0,2024
+New York Liberty,New York Liberty,Minnesota Lynx,17,3,20,1719892800.0,2024
+New York Liberty,Indiana Fever,New York Liberty,17,4,21,1720238400.0,2024
+New York Liberty,Connecticut Sun,New York Liberty,18,4,22,1720584000.0,2024
+New York Liberty,New York Liberty,Chicago Sky,19,4,23,1720670400.0,2024
+New York Liberty,Chicago Sky,New York Liberty,20,4,24,1720843200.0,2024
+New York Liberty,New York Liberty,Connecticut Sun,21,4,25,1721102400.0,2024
+New York Liberty,Los Angeles Sparks,New York Liberty,22,4,26,1723694400.0,2024
+New York Liberty,Las Vegas Aces,New York Liberty,23,4,27,1723867200.0,2024
+New York Liberty,New York Liberty,Dallas Wings,24,4,28,1724126400.0,2024
+New York Liberty,New York Liberty,Dallas Wings,25,4,29,1724299200.0,2024
+New York Liberty,New York Liberty,Connecticut Sun,25,5,30,1724472000.0,2024
+New York Liberty,Phoenix Mercury,New York Liberty,26,5,31,1724644800.0,2024
+New York Liberty,Los Angeles Sparks,New York Liberty,26,6,32,1724817600.0,2024
+New York Liberty,Seattle Storm,New York Liberty,27,6,33,1724990400.0,2024
+New York Liberty,New York Liberty,Seattle Storm,28,6,34,1725508800.0,2024
+New York Liberty,New York Liberty,Las Vegas Aces,29,6,35,1725768000.0,2024
+New York Liberty,Dallas Wings,New York Liberty,30,6,36,1725940800.0,2024
+New York Liberty,Dallas Wings,New York Liberty,31,6,37,1726113600.0,2024
+New York Liberty,New York Liberty,Minnesota Lynx,31,7,38,1726372800.0,2024
+New York Liberty,Washington Mystics,New York Liberty,32,7,39,1726545600.0,2024
+New York Liberty,New York Liberty,Atlanta Dream,32,8,40,1726718400.0,2024
+Phoenix Mercury,Las Vegas Aces,Phoenix Mercury,0,1,1,1715659200.0,2024
+Phoenix Mercury,Phoenix Mercury,Atlanta Dream,1,1,2,1716004800.0,2024
+Phoenix Mercury,Las Vegas Aces,Phoenix Mercury,2,1,3,1716264000.0,2024
+Phoenix Mercury,Phoenix Mercury,Washington Mystics,3,1,4,1716436800.0,2024
+Phoenix Mercury,Phoenix Mercury,Dallas Wings,3,2,5,1716609600.0,2024
+Phoenix Mercury,Connecticut Sun,Phoenix Mercury,3,3,6,1716868800.0,2024
+Phoenix Mercury,New York Liberty,Phoenix Mercury,3,4,7,1716955200.0,2024
+Phoenix Mercury,Minnesota Lynx,Phoenix Mercury,3,5,8,1717128000.0,2024
+Phoenix Mercury,Phoenix Mercury,Los Angeles Sparks,4,5,9,1717300800.0,2024
+Phoenix Mercury,Seattle Storm,Phoenix Mercury,4,6,10,1717473600.0,2024
+Phoenix Mercury,Phoenix Mercury,Minnesota Lynx,5,6,11,1717732800.0,2024
+Phoenix Mercury,Dallas Wings,Phoenix Mercury,6,6,12,1717905600.0,2024
+Phoenix Mercury,Phoenix Mercury,Las Vegas Aces,6,7,13,1718251200.0,2024
+Phoenix Mercury,Phoenix Mercury,Seattle Storm,7,7,14,1718510400.0,2024
+Phoenix Mercury,Phoenix Mercury,New York Liberty,8,7,15,1718683200.0,2024
+Phoenix Mercury,Minnesota Lynx,Phoenix Mercury,8,8,16,1719028800.0,2024
+Phoenix Mercury,Phoenix Mercury,Los Angeles Sparks,9,8,17,1719547200.0,2024
+Phoenix Mercury,Phoenix Mercury,Indiana Fever,9,9,18,1719720000.0,2024
+Phoenix Mercury,Phoenix Mercury,Connecticut Sun,9,10,19,1719806400.0,2024
+Phoenix Mercury,Dallas Wings,Phoenix Mercury,10,10,20,1719979200.0,2024
+Phoenix Mercury,Los Angeles Sparks,Phoenix Mercury,11,10,21,1720324800.0,2024
+Phoenix Mercury,Phoenix Mercury,Dallas Wings,12,10,22,1720584000.0,2024
+Phoenix Mercury,Indiana Fever,Phoenix Mercury,12,11,23,1720756800.0,2024
+Phoenix Mercury,Connecticut Sun,Phoenix Mercury,12,12,24,1720929600.0,2024
+Phoenix Mercury,Washington Mystics,Phoenix Mercury,13,12,25,1721102400.0,2024
+Phoenix Mercury,Chicago Sky,Phoenix Mercury,14,12,26,1723694400.0,2024
+Phoenix Mercury,Indiana Fever,Phoenix Mercury,14,13,27,1723780800.0,2024
+Phoenix Mercury,Phoenix Mercury,Chicago Sky,15,13,28,1723953600.0,2024
+Phoenix Mercury,Atlanta Dream,Phoenix Mercury,15,14,29,1724212800.0,2024
+Phoenix Mercury,Atlanta Dream,Phoenix Mercury,16,14,30,1724385600.0,2024
+Phoenix Mercury,Phoenix Mercury,New York Liberty,16,15,31,1724644800.0,2024
+Phoenix Mercury,Phoenix Mercury,Minnesota Lynx,16,16,32,1724817600.0,2024
+Phoenix Mercury,Phoenix Mercury,Las Vegas Aces,16,17,33,1725163200.0,2024
+Phoenix Mercury,Phoenix Mercury,Atlanta Dream,17,17,34,1725336000.0,2024
+Phoenix Mercury,Phoenix Mercury,Washington Mystics,17,18,35,1725508800.0,2024
+Phoenix Mercury,Seattle Storm,Phoenix Mercury,17,19,36,1725681600.0,2024
+Phoenix Mercury,Phoenix Mercury,Connecticut Sun,17,20,37,1726200000.0,2024
+Phoenix Mercury,Chicago Sky,Phoenix Mercury,18,20,38,1726372800.0,2024
+Phoenix Mercury,Los Angeles Sparks,Phoenix Mercury,19,20,39,1726545600.0,2024
+Phoenix Mercury,Phoenix Mercury,Seattle Storm,19,21,40,1726718400.0,2024
+Seattle Storm,Seattle Storm,Minnesota Lynx,0,1,1,1715659200.0,2024
+Seattle Storm,Minnesota Lynx,Seattle Storm,0,2,2,1715918400.0,2024
+Seattle Storm,Washington Mystics,Seattle Storm,1,2,3,1716091200.0,2024
+Seattle Storm,New York Liberty,Seattle Storm,1,3,4,1716177600.0,2024
+Seattle Storm,Seattle Storm,Indiana Fever,2,3,5,1716350400.0,2024
+Seattle Storm,Seattle Storm,Washington Mystics,3,3,6,1716609600.0,2024
+Seattle Storm,Chicago Sky,Seattle Storm,4,3,7,1716868800.0,2024
+Seattle Storm,Indiana Fever,Seattle Storm,5,3,8,1717041600.0,2024
+Seattle Storm,Seattle Storm,Phoenix Mercury,6,3,9,1717473600.0,2024
+Seattle Storm,Las Vegas Aces,Seattle Storm,7,3,10,1717732800.0,2024
+Seattle Storm,Minnesota Lynx,Seattle Storm,7,4,11,1717905600.0,2024
+Seattle Storm,Seattle Storm,Los Angeles Sparks,8,4,12,1718078400.0,2024
+Seattle Storm,Dallas Wings,Seattle Storm,9,4,13,1718251200.0,2024
+Seattle Storm,Phoenix Mercury,Seattle Storm,9,5,14,1718510400.0,2024
+Seattle Storm,Las Vegas Aces,Seattle Storm,9,6,15,1718769600.0,2024
+Seattle Storm,Seattle Storm,Connecticut Sun,10,6,16,1719115200.0,2024
+Seattle Storm,Seattle Storm,Indiana Fever,11,6,17,1719460800.0,2024
+Seattle Storm,Seattle Storm,Dallas Wings,12,6,18,1719633600.0,2024
+Seattle Storm,Seattle Storm,Dallas Wings,13,6,19,1719806400.0,2024
+Seattle Storm,Seattle Storm,Chicago Sky,13,7,20,1720152000.0,2024
+Seattle Storm,Seattle Storm,Chicago Sky,14,7,21,1720324800.0,2024
+Seattle Storm,Seattle Storm,Las Vegas Aces,14,8,22,1720584000.0,2024
+Seattle Storm,Seattle Storm,Minnesota Lynx,15,8,23,1720756800.0,2024
+Seattle Storm,Seattle Storm,Atlanta Dream,16,8,24,1720929600.0,2024
+Seattle Storm,Los Angeles Sparks,Seattle Storm,17,8,25,1721102400.0,2024
+Seattle Storm,Atlanta Dream,Seattle Storm,17,9,26,1723780800.0,2024
+Seattle Storm,Indiana Fever,Seattle Storm,17,10,27,1723953600.0,2024
+Seattle Storm,Washington Mystics,Seattle Storm,18,10,28,1724126400.0,2024
+Seattle Storm,Seattle Storm,Washington Mystics,18,11,29,1724644800.0,2024
+Seattle Storm,Seattle Storm,Atlanta Dream,19,11,30,1724817600.0,2024
+Seattle Storm,Seattle Storm,New York Liberty,19,12,31,1724990400.0,2024
+Seattle Storm,Connecticut Sun,Seattle Storm,19,13,32,1725163200.0,2024
+Seattle Storm,Connecticut Sun,Seattle Storm,20,13,33,1725336000.0,2024
+Seattle Storm,New York Liberty,Seattle Storm,20,14,34,1725508800.0,2024
+Seattle Storm,Seattle Storm,Phoenix Mercury,21,14,35,1725681600.0,2024
+Seattle Storm,Los Angeles Sparks,Seattle Storm,22,14,36,1726027200.0,2024
+Seattle Storm,Dallas Wings,Seattle Storm,23,14,37,1726200000.0,2024
+Seattle Storm,Seattle Storm,Los Angeles Sparks,24,14,38,1726372800.0,2024
+Seattle Storm,Seattle Storm,Las Vegas Aces,24,15,39,1726545600.0,2024
+Seattle Storm,Phoenix Mercury,Seattle Storm,25,15,40,1726718400.0,2024
+Washington Mystics,Washington Mystics,New York Liberty,0,1,1,1715659200.0,2024
+Washington Mystics,Connecticut Sun,Washington Mystics,0,2,2,1715918400.0,2024
+Washington Mystics,Washington Mystics,Seattle Storm,0,3,3,1716091200.0,2024
+Washington Mystics,Los Angeles Sparks,Washington Mystics,0,4,4,1716264000.0,2024
+Washington Mystics,Phoenix Mercury,Washington Mystics,0,5,5,1716436800.0,2024
+Washington Mystics,Seattle Storm,Washington Mystics,0,6,6,1716609600.0,2024
+Washington Mystics,Washington Mystics,Atlanta Dream,0,7,7,1716955200.0,2024
+Washington Mystics,New York Liberty,Washington Mystics,0,8,8,1717128000.0,2024
+Washington Mystics,Connecticut Sun,Washington Mystics,0,9,9,1717473600.0,2024
+Washington Mystics,Washington Mystics,Chicago Sky,0,10,10,1717646400.0,2024
+Washington Mystics,Washington Mystics,Indiana Fever,0,11,11,1717732800.0,2024
+Washington Mystics,New York Liberty,Washington Mystics,0,12,12,1717905600.0,2024
+Washington Mystics,Atlanta Dream,Washington Mystics,1,12,13,1718078400.0,2024
+Washington Mystics,Washington Mystics,Chicago Sky,2,12,14,1718337600.0,2024
+Washington Mystics,Indiana Fever,Washington Mystics,2,13,15,1718769600.0,2024
+Washington Mystics,Washington Mystics,Dallas Wings,3,13,16,1719028800.0,2024
+Washington Mystics,Washington Mystics,Dallas Wings,4,13,17,1719115200.0,2024
+Washington Mystics,Washington Mystics,Connecticut Sun,4,14,18,1719460800.0,2024
+Washington Mystics,Washington Mystics,Las Vegas Aces,4,15,19,1719633600.0,2024
+Washington Mystics,Los Angeles Sparks,Washington Mystics,5,15,20,1719892800.0,2024
+Washington Mystics,Las Vegas Aces,Washington Mystics,5,16,21,1720065600.0,2024
+Washington Mystics,Minnesota Lynx,Washington Mystics,5,17,22,1720238400.0,2024
+Washington Mystics,Indiana Fever,Washington Mystics,6,17,23,1720584000.0,2024
+Washington Mystics,Washington Mystics,Las Vegas Aces,6,18,24,1720929600.0,2024
+Washington Mystics,Washington Mystics,Phoenix Mercury,6,19,25,1721102400.0,2024
+Washington Mystics,Minnesota Lynx,Washington Mystics,6,20,26,1723694400.0,2024
+Washington Mystics,Washington Mystics,Minnesota Lynx,6,21,27,1723867200.0,2024
+Washington Mystics,Washington Mystics,Seattle Storm,6,22,28,1724126400.0,2024
+Washington Mystics,Washington Mystics,Los Angeles Sparks,7,22,29,1724385600.0,2024
+Washington Mystics,Seattle Storm,Washington Mystics,8,22,30,1724644800.0,2024
+Washington Mystics,Chicago Sky,Washington Mystics,9,22,31,1724817600.0,2024
+Washington Mystics,Washington Mystics,Connecticut Sun,9,23,32,1725076800.0,2024
+Washington Mystics,Dallas Wings,Washington Mystics,10,23,33,1725336000.0,2024
+Washington Mystics,Phoenix Mercury,Washington Mystics,11,23,34,1725508800.0,2024
+Washington Mystics,Washington Mystics,Minnesota Lynx,11,24,35,1725768000.0,2024
+Washington Mystics,Chicago Sky,Washington Mystics,12,24,36,1726027200.0,2024
+Washington Mystics,Atlanta Dream,Washington Mystics,13,24,37,1726200000.0,2024
+Washington Mystics,Washington Mystics,Atlanta Dream,13,25,38,1726372800.0,2024
+Washington Mystics,Washington Mystics,New York Liberty,13,26,39,1726545600.0,2024
+Washington Mystics,Washington Mystics,Indiana Fever,14,26,40,1726718400.0,2024

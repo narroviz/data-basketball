@@ -45,6 +45,10 @@ def get_wnba_num_games(season_year):
 		num_games = 34
 	elif season_year == 2020:
 		num_games = 22
+	elif season_year == 2021:
+		num_games = 32
+	elif season_year >= 2023:
+		num_games = 40
 	else:
 		num_games = 36
 	return num_games
@@ -230,10 +234,10 @@ if __name__ == '__main__':
 
 	if league == WNBA:
 		START_YEAR = 1997
-		END_YEAR = 2020
+		END_YEAR = 2024
 	else:
 		START_YEAR = 1947
-		END_YEAR = 2022
+		END_YEAR = 2025
 
 	start = args.start or START_YEAR
 	end = args.end or END_YEAR

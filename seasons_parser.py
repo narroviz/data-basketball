@@ -1,6 +1,7 @@
 import requests
 import re
 import csv
+import time
 from lxml import html
 from datetime import datetime
 from enum import Enum
@@ -16,6 +17,7 @@ class Team(Enum):
     CHICAGO_SKY = "CHICAGO SKY"
     CONNECTICUT_SUN = "CONNECTICUT SUN"
     DALLAS_WINGS = "DALLAS WINGS"
+    GOLDEN_STATE_VALKYRIES = "GOLDEN STATE VALKYRIES"
     INDIANA_FEVER = "INDIANA FEVER"
     LAS_VEGAS_ACES = "LAS VEGAS ACES"
     LOS_ANGELES_SPARKS = "LOS ANGELES SPARKS"
@@ -120,6 +122,7 @@ TEAM_NAME_TO_TEAM = {
     "CHICAGO SKY": Team.CHICAGO_SKY,
     "CONNECTICUT SUN": Team.CONNECTICUT_SUN,
     "DALLAS WINGS": Team.DALLAS_WINGS,
+    "GOLDEN STATE VALKYRIES": Team.GOLDEN_STATE_VALKYRIES,
     "INDIANA FEVER": Team.INDIANA_FEVER,
     "LAS VEGAS ACES": Team.LAS_VEGAS_ACES,
     "LOS ANGELES SPARKS": Team.LOS_ANGELES_SPARKS,
@@ -388,7 +391,7 @@ class ScheduleRow:
 
     @property
     def notes(self):
-        cells = self.html.xpath('td[@data-stat="notes"]')
+        cells = self.html.xpath('td[@data-stat="game_remarks"]')
 
         if len(cells) > 0:
             return cells[0].text_content()
@@ -461,7 +464,7 @@ class ScheduledStartTimeParser:
 
 def schedule_for_month(url):
     response = requests.get(url=url)
-
+    time.sleep(10)
     response.raise_for_status()
 
     page = SchedulePage(html=html.fromstring(html=response.content))
@@ -470,6 +473,20 @@ def schedule_for_month(url):
         team_name_parser=TeamNameParser(team_names_to_teams=TEAM_NAME_TO_TEAM),
     )
     return parser.parse_games(games=page.rows)
+
+
+# Assumes the last matching item is the NBA Cup Final
+def remove_nba_cup_final(season_schedule_values):
+    note_values = ["In-Season Tournament", "NBA Cup"]
+    final_index = -1
+
+    for index, item in enumerate(season_schedule_values):
+        if item['notes'] in note_values:
+            final_index = index
+
+    if final_index >= 0:
+        del season_schedule_values[final_index]
+    return season_schedule_values
 
 
 def get_season_schedule(season_year, league=WNBA):
@@ -495,6 +512,7 @@ def get_season_schedule(season_year, league=WNBA):
 
 
     response = requests.get(url=url)
+    time.sleep(10)
     response.raise_for_status()
 
     page = SchedulePage(html=html.fromstring(html=response.content))
@@ -509,6 +527,9 @@ def get_season_schedule(season_year, league=WNBA):
             url = '{BASE_URL}{month_url_path}'.format(BASE_URL=BASE_URL, month_url_path=month_url_path)
             monthly_schedule = schedule_for_month(url=url)
             season_schedule_values.extend(monthly_schedule)
+
+        season_schedule_values = remove_nba_cup_final(season_schedule_values);
+
     return season_schedule_values
 
 
@@ -564,6 +585,7 @@ def get_championship_team(season_year, league=WNBA):
         )
 
     response = requests.get(url=url)
+    time.sleep(10)
     response.raise_for_status()
     if league == WNBA:
         page = SchedulePage(html=html.fromstring(html=response.content))
